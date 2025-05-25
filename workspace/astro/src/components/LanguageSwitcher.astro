@@ -1,0 +1,9 @@
+---
+const { lang } = Astro.props;
+const otherLang = lang === 'es' ? 'en' : 'es';
+const label = lang === 'es' ? 'English' : 'Español';
+---
+
+<a href={'/' + otherLang} class="text-sm text-blue-600 hover:underline ml-4">
+  🌐 {label}
+</a>

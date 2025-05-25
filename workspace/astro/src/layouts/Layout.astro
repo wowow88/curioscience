@@ -1,0 +1,46 @@
+---
+const { children } = Astro.props;
+---
+
+---\nimport LanguageSwitcher from '../components/LanguageSwitcher.astro';\n---\n\n<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>CurioScience</title>
+    <meta name="description" content="Curiosidades científicas diarias en español e inglés" />
+    <link rel="icon" href="/favicon.ico" />
+  
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SYGLZWKMVK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SYGLZWKMVK');
+</script>
+
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7362740372032488"
+     crossorigin="anonymous"></script>
+
+</head>
+  <body class="bg-gray-50 text-gray-900">
+    <header class="bg-white shadow p-4 mb-6">
+      <div class="max-w-5xl mx-auto flex justify-between items-center">
+        <h1 class="text-2xl font-bold">🔬 CurioScience</h1><LanguageSwitcher lang="es" />
+      </div>
+    </header>
+    {children}
+    <footer class="text-center text-sm text-gray-500 mt-10 mb-4">
+      © {new Date().getFullYear()} CurioScience
+    
+<div class="text-center mt-6">
+  <a href="https://buymeacoffee.com/jmmv1988a" target="_blank" rel="noopener" class="inline-block text-white bg-yellow-500 hover:bg-yellow-400 px-4 py-2 rounded-full text-sm font-medium">
+    ☕ Invítame un café en BuyMeACoffee
+  </a>
+</div>
+
+  </footer>
+  </body>
+</html>
