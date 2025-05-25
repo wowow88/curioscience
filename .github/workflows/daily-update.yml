@@ -43,7 +43,12 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
-        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+
+        # Define credentials helper
+        git config --global credential.helper store
+        echo "https://x-access-token:${GH_TOKEN}@github.com" > ~/.git-credentials
+
+        # Confirm branch and push
         git add workspace/data/articles.json
         git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
-        git push origin main
+        git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git main
