@@ -1,0 +1,15 @@
+---
+let searchQuery = '';
+const handleInput = (event) => {
+  searchQuery = event.target.value;
+};
+---
+
+<div class="mb-6">
+  <input
+    type="text"
+    placeholder="🔍 Buscar artículos..."
+    on:input={handleInput}
+    class="w-full p-2 border border-gray-300 rounded-md"
+  />
+</div>
