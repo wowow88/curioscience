@@ -1,6 +1,6 @@
 ---
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
-const { title = "CurioScience", lang = "es" } = Astro.props;
+const { title, lang } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -9,41 +9,24 @@ const { title = "CurioScience", lang = "es" } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
-    <meta name="description" content="CurioScience - Ciencia diaria en español e inglés" />
-    <link rel="icon" href="/favicon.ico" />
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SYGLZWKMVK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-SYGLZWKMVK');
-    </script>
-
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js?client=ca-pub-7362740372032488"
-     crossorigin="anonymous"></script>
+    <meta name="description" content="CurioScience - Ciencia diaria en varios idiomas" />
+    <link rel="icon" type="image/png" href="/favicon.ico" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7362740372032488" crossorigin="anonymous"></script>
   </head>
-  <body class="bg-gray-50 text-gray-900">
-    <header class="bg-white shadow p-4">
-      <div class="max-w-6xl mx-auto flex justify-between items-center">
-        <h1 class="text-2xl font-bold">🔬 CurioScience</h1>
-        <LanguageSwitcher lang={lang} />
+  <body class="bg-gray-50 text-gray-900 font-sans">
+    <header class="bg-white shadow py-4">
+      <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
+        <a href="/" class="text-xl font-bold text-blue-700">CurioScience</a>
+        <LanguageSwitcher currentLang={lang} />
       </div>
     </header>
 
-    <main class="max-w-6xl mx-auto p-4">
+    <main class="min-h-screen py-6">
       <slot />
     </main>
 
-    <footer class="bg-white border-t mt-8 p-6 text-center text-sm text-gray-600">
-      <p>© {new Date().getFullYear()} CurioScience. Proyecto educativo sin fines de lucro.</p>
-      <div class="text-center mt-4">
-        <a href="https://buymeacoffee.com/jmmv1988a" target="_blank" rel="noopener" class="inline-block text-white bg-yellow-500 hover:bg-yellow-400 px-4 py-2 rounded-full text-sm font-medium">
-          ☕ Invítame un café en BuyMeACoffee
-        </a>
-      </div>
+    <footer class="bg-white border-t mt-8 py-4 text-center text-sm text-gray-500">
+      Hecho con 💡 por la comunidad científica — © {new Date().getFullYear()}
     </footer>
   </body>
 </html>
