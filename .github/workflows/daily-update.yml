@@ -24,7 +24,7 @@ jobs:
     - name: Run data pipeline with debug
       env:
         DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-      run: python workspace/data_pipeline_debug.py
+      run: python workspace/data_pipeline.py
 
     - name: Set up Node.js
       uses: actions/setup-node@v3
