@@ -1,5 +1,6 @@
 ---
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import BuyMeACoffee from '../components/BuyMeACoffee.astro';
 const { title, lang } = Astro.props;
 ---
 
@@ -24,6 +25,8 @@ const { title, lang } = Astro.props;
     <main class="min-h-screen py-6">
       <slot />
     </main>
+
+    <BuyMeACoffee />
 
     <footer class="bg-white border-t mt-8 py-4 text-center text-sm text-gray-500">
       Hecho con 💡 por la comunidad científica — © {new Date().getFullYear()}
