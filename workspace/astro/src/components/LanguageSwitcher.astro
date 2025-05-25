@@ -1,0 +1,20 @@
+---
+const { currentLang } = Astro.props;
+const langs = [
+  { code: 'es', label: 'Español', flag: '🇪🇸' },
+  { code: 'en', label: 'English', flag: '🇬🇧' },
+  { code: 'zh', label: '中文', flag: '🇨🇳' }
+];
+---
+
+<nav class="flex items-center space-x-4 text-sm">
+  {langs.map(lang => (
+    <a
+      href={`/${lang.code}`}
+      class={`px-2 py-1 rounded ${currentLang === lang.code ? 'bg-blue-500 text-white' : 'hover:underline text-blue-600'}`}
+      title={lang.label}
+    >
+      <span class="text-xl">{lang.flag}</span>
+    </a>
+  ))}
+</nav>

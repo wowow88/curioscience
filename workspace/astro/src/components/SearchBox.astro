@@ -1,0 +1,18 @@
+---
+---
+
+<div class="relative text-gray-600">
+  <input
+    type="text"
+    placeholder="🔍 Buscar artículos..."
+    class="w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+    on:input={(e) => {
+      const term = e.target.value.toLowerCase();
+      const articles = document.querySelectorAll('[data-article-title]');
+      articles.forEach(el => {
+        const title = el.getAttribute('data-article-title').toLowerCase();
+        el.style.display = title.includes(term) ? '' : 'none';
+      });
+    }}
+  />
+</div>

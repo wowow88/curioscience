@@ -1,0 +1,22 @@
+---
+const { article, lang } = Astro.props;
+---
+
+<article class="bg-white rounded-xl shadow p-4 space-y-4">
+  <img src={article.image} alt={article.title_en} class="w-full h-40 object-cover rounded-lg" loading="lazy" />
+
+  <h2 class="text-lg font-semibold">
+    <a href={article.source_url} target="_blank" rel="noopener noreferrer">
+      {lang === 'es' ? article.title_es : lang === 'zh' ? article.title_zh : article.title_en}
+    </a>
+  </h2>
+
+  <p class="text-sm text-gray-600">
+    {lang === 'es' ? article.content_es : lang === 'zh' ? article.content_zh : article.content_en}
+  </p>
+
+  <div class="text-xs text-gray-500 mt-2 flex justify-between">
+    <span>{article.date}</span>
+    <span>{article.category}</span>
+  </div>
+</article>
