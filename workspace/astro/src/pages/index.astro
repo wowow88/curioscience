@@ -1,5 +1,5 @@
 ---
-import Layout from '@layouts/Layout.astro';
+import Layout from '../layouts/Layout.astro';
 import fs from 'fs';
 const articles = JSON.parse(fs.readFileSync('./workspace/data/articles.json'));
 const page = Astro.url.searchParams.get('page') || 1;
