@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "title": "ReMi: A Random Recurrent Neural Network Approach to Music Production",
+    "url": "https://arxiv.org/abs/2505.17023",
+    "date": "2025-05-26",
+    "source": "arXiv",
+    "summary": "arXiv:2505.17023v1 Announce Type: new \nAbstract: Generative artificial intelligence raises concerns related to energy consumption, copyright infringement and creative atrophy. We show that randomly initialized recurrent neural networks can produce arpeggios and low-frequency oscillations that are rich and configurable. In contrast to end-to-end music generation that aims to replace musicians, our approach expands their creativity while requiring no data and much less computational power. More information can be found at: https://allendia.com/"
+  },
+  {
+    "title": "Rivers and their rights",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx4616?af=R",
+    "date": "2025-05-26",
+    "source": "Science.org",
+    "summary": "Science, Volume 388, Issue 6749, Page 823-823, May 2025."
+  },
+  {
+    "title": "Scaling and logic in the color code on a superconducting quantum processor",
+    "url": "https://www.nature.com/articles/s41586-025-09061-4",
+    "date": "2025-05-26",
+    "source": "Nature",
+    "summary": ""
+  }
+]
