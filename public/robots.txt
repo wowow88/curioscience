@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://curioscience.vercel.app/sitemap-index.xml
