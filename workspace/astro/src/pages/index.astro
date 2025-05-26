@@ -1,38 +1,33 @@
 ---
+import Layout from '@layouts/Layout.astro';
 import fs from 'fs';
-import Layout from '../layouts/Layout.astro';
-import CategoryFilter from '../components/CategoryFilter.astro';
-import TagFilter from '../components/TagFilter.astro';
-
-const data = JSON.parse(fs.readFileSync('../../workspace/data/articles.json', 'utf-8'));
-const categories = [...new Set(data.map(item => item.category))];
-const tags = [...new Set(data.flatMap(item => item.tags))];
-
-const url = new URL(Astro.request.url);
-const selected = url.searchParams.get("category");
-const tagParam = url.searchParams.get('tag');
-
-const filtered = data.filter(a => {
-  const catMatch = selected ? a.category === selected : true;
-  const tagMatch = tagParam ? a.tags.includes(tagParam) : true;
-  return catMatch && tagMatch;
-});
+const articles = JSON.parse(fs.readFileSync('./workspace/data/articles.json'));
+const page = Astro.url.searchParams.get('page') || 1;
+const perPage = 10;
+const start = (page - 1) * perPage;
+const end = start + perPage;
+const totalPages = Math.ceil(articles.length / perPage);
+const currentArticles = articles.slice(start, end);
 ---
 
 <Layout>
-  <main class="max-w-5xl mx-auto p-6">
-    <h1 class="text-3xl font-bold mb-6">🧠 CurioScience - Ciencia diaria</h1>
-    <CategoryFilter categories={categories} />
-    <TagFilter tags={tags} />
-    <ul class="space-y-6">
-      {filtered.map(article => (
-        <li class="bg-white shadow-md p-4 rounded-xl border border-gray-200">
-          <h2 class="text-xl font-semibold">{article.title_es}</h2>
-          <p class="text-sm text-gray-600">{article.date} — {article.category}</p>
-          <p class="mt-2 text-gray-800">{article.content_es.slice(0, 200)}...</p>
-          <a href={article.source_url} class="text-blue-500 mt-2 inline-block">Leer fuente original</a>
-        </li>
-      ))}
-    </ul>
-  </main>
+  <h2 class="text-2xl font-bold mb-4">Últimos artículos</h2>
+  <div class="space-y-6">
+    {currentArticles.map(article => (
+      <article class="bg-white rounded-xl p-4 shadow">
+        <h3 class="text-xl font-semibold">{article.title}</h3>
+        <p class="text-muted text-sm mb-2">{article.source} | {new Date(article.date).toLocaleDateString()}</p>
+        <p>{article.summary}</p>
+        <a href={article.url} target="_blank" class="text-secondary hover:underline">Leer más</a>
+      </article>
+    ))}
+  </div>
+
+  <div class="flex justify-center mt-8">
+    {page < totalPages && (
+      <a href={`/?page=${+page + 1}`} class="bg-secondary text-white px-4 py-2 rounded hover:bg-opacity-90">
+        Ver más artículos
+      </a>
+    )}
+  </div>
 </Layout>
