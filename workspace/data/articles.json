@@ -1,72 +1,30 @@
 [
   {
+    "title": "Deep Learning for Quantum Chemistry",
+    "url": "https://arxiv.org/abs/1234.5678",
     "date": "2025-05-26",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source_url": "https://www.science.org/content/article/what-does-new-fda-framework-mean-future-covid-19-vaccines-u-s",
-    "title_en": "What does the new FDA framework mean for the future of COVID-19 vaccines in the U.S.?",
-    "title_es": "¿Qué significa el nuevo marco de la FDA para el futuro de las vacunas COVID-19 en EE.UU.?",
-    "title_zh": "FDA 的新框架对美国 COVID-19 疫苗的未来意味着什么？",
-    "content_en": "Under proposed policy, updated shots would be limited to at-risk populations",
-    "content_es": "Según la política propuesta, las vacunas actualizadas se limitarían a las poblaciones de riesgo",
-    "content_zh": "根据拟议的政策，更新的注射仅限于高危人群"
+    "source": "arXiv",
+    "summary": "A new method applies deep neural networks to simulate molecular dynamics more efficiently."
   },
   {
+    "title": "Novel Biomarkers in Alzheimer's Disease",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/987654321/",
     "date": "2025-05-26",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source_url": "https://www.science.org/content/article/thin-plastic-films-could-help-refine-oil-cheaply-and-less-pollution",
-    "title_en": "Thin plastic films could help refine oil cheaply—and with less pollution",
-    "title_es": "Unas finas películas de plástico podrían ayudar a refinar petróleo de forma barata y menos contaminante.",
-    "title_zh": "塑料薄膜有助于廉价提炼石油--减少污染",
-    "content_en": "Filters like those used in desalination plants hold promise of separating gasoline components from crude oil",
-    "content_es": "Filtros como los utilizados en las desaladoras prometen separar los componentes de la gasolina del crudo",
-    "content_zh": "类似海水淡化厂使用的过滤器有望从原油中分离出汽油成分"
+    "source": "PubMed",
+    "summary": "Study identifies early blood markers that predict cognitive decline in Alzheimer's patients."
   },
   {
+    "title": "AI Detects Hidden Patterns in Climate Data",
+    "url": "https://www.science.org/doi/10.1126/science.ab12345",
     "date": "2025-05-26",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source_url": "https://www.science.org/content/article/these-crabs-cast-bright-beams-light-their-heads",
-    "title_en": "These crabs cast bright beams of light with their heads",
-    "title_es": "Estos cangrejos emiten brillantes haces de luz con sus cabezas",
-    "title_zh": "这些螃蟹用头部投射出明亮的光束",
-    "content_en": "Crustaceans may use unique reflectors to signal mates or scare off predators",
-    "content_es": "Los crustáceos pueden utilizar reflectores únicos para señalar a sus parejas o ahuyentar a los depredadores.",
-    "content_zh": "甲壳动物可能会使用独特的反射器来发出交配信号或吓跑捕食者"
+    "source": "Science.org",
+    "summary": "A new machine learning approach uncovers overlooked signals in global temperature trends."
   },
   {
+    "title": "CRISPR Advances Enable Gene Editing in Adults",
+    "url": "https://www.nature.com/articles/nature12345",
     "date": "2025-05-26",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source_url": "https://www.science.org/content/article/china-sets-out-sample-unusual-near-earth-asteroid",
-    "title_en": "China sets out to sample an unusual near-Earth asteroid",
-    "title_es": "China se dispone a tomar muestras de un inusual asteroide cercano a la Tierra",
-    "title_zh": "中国开始对一颗不寻常的近地小行星进行采样",
-    "content_en": "The target, flying in a rare quasi-satellite orbit, could be a piece of the Moon",
-    "content_es": "El objetivo, que vuela en una órbita casi satelital poco común, podría ser un trozo de la Luna",
-    "content_zh": "在罕见的准卫星轨道上飞行的目标可能是月球的一部分"
-  },
-  {
-    "date": "2025-05-26",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source_url": "https://www.science.org/content/article/sleep-apnea-pill-shows-striking-success-large-clinical-trial",
-    "title_en": "Sleep apnea pill shows striking success in large clinical trial",
-    "title_es": "Una píldora contra la apnea del sueño obtiene resultados sorprendentes en un gran ensayo clínico",
-    "title_zh": "睡眠呼吸暂停药片在大型临床试验中取得惊人成功",
-    "content_en": "Drug combination targeting lax airways is nearing an FDA submission",
-    "content_es": "Una combinación de fármacos contra la laxitud de las vías respiratorias, a punto de ser aprobada por la FDA",
-    "content_zh": "针对气道松弛的药物组合即将提交美国食品药品管理局（FDA）审批"
+    "source": "Nature",
+    "summary": "Researchers successfully edit disease-causing genes in adult tissues using CRISPR."
   }
 ]
