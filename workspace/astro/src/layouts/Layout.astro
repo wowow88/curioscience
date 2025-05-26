@@ -5,31 +5,56 @@ const { title, lang } = Astro.props;
 ---
 
 <!DOCTYPE html>
-<html lang={lang}>
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title}</title>
-    <meta name="description" content="CurioScience - Ciencia diaria en varios idiomas" />
-    <link rel="icon" type="image/png" href="/favicon.ico" />
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7362740372032488" crossorigin="anonymous"></script>
+    <meta name="description" content="CurioScience - Divulgación científica diaria" />
+    <title>CurioScience</title>
+    <link rel="stylesheet" href="/src/styles/global.css" />
   </head>
-  <body class="bg-gray-50 text-gray-900 font-sans">
-    <header class="bg-white shadow py-4">
-      <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-        <a href="/" class="text-xl font-bold text-blue-700">CurioScience</a>
-        <LanguageSwitcher currentLang={lang} />
+  <body class="bg-background text-text font-sans">
+    <header class="bg-primary text-white py-4">
+      <div class="container flex justify-between items-center">
+        <h1 class="text-xl font-bold">CurioScience</h1>
+        <nav class="space-x-4">
+          <a href="/" class="hover:underline">Inicio</a>
+          <a href="/quienes-somos" class="hover:underline">Quiénes somos</a>
+        </nav>
       </div>
     </header>
 
-    <main class="min-h-screen py-6">
+    <main class="container py-8">
       <slot />
     </main>
 
-    <BuyMeACoffee />
-
-    <footer class="bg-white border-t mt-8 py-4 text-center text-sm text-gray-500">
-      Hecho con 💡 por la comunidad científica — © {new Date().getFullYear()}
+    <footer class="bg-primary text-white py-6 mt-12">
+      <div class="container flex flex-col md:flex-row justify-between items-center">
+        <p class="mb-2 md:mb-0">&copy; 2025 CurioScience. Todos los derechos reservados.</p>
+        <div class="flex space-x-4">
+          <a href="#" aria-label="Twitter">
+            <img src="/icons/twitter.svg" alt="Twitter" class="h-5" />
+          </a>
+          <a href="#" aria-label="Instagram">
+            <img src="/icons/instagram.svg" alt="Instagram" class="h-5" />
+          </a>
+          <a href="#" aria-label="TikTok">
+            <img src="/icons/tiktok.svg" alt="TikTok" class="h-5" />
+          </a>
+        </div>
+      </div>
+      <div class="container mt-4">
+        <!-- Google AdSense -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7362740372032488"
+             data-ad-slot="xxxxxxxxxx"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
     </footer>
   </body>
 </html>
