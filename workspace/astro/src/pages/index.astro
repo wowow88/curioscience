@@ -1,34 +1,52 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import fs from 'fs';
-const res = await fetch('/articles.json');
-const articles = await res.json();
-const page = Astro.url.searchParams.get('page') || 1;
-const perPage = 10;
-const start = (page - 1) * perPage;
-const end = start + perPage;
-const totalPages = Math.ceil(articles.length / perPage);
-const currentArticles = articles.slice(start, end);
 ---
 
 <Layout>
   <h2 class="text-2xl font-bold mb-4">Últimos artículos</h2>
-  <div class="space-y-6">
-    {currentArticles.map(article => (
-      <article class="bg-white rounded-xl p-4 shadow">
-        <h3 class="text-xl font-semibold">{article.title}</h3>
-        <p class="text-muted text-sm mb-2">{article.source} | {new Date(article.date).toLocaleDateString()}</p>
-        <p>{article.summary}</p>
-        <a href={article.url} target="_blank" class="text-secondary hover:underline">Leer más</a>
-      </article>
-    ))}
-  </div>
+  <div id="articles" class="space-y-6"></div>
 
   <div class="flex justify-center mt-8">
-    {page < totalPages && (
-      <a href={`/?page=${+page + 1}`} class="bg-secondary text-white px-4 py-2 rounded hover:bg-opacity-90">
-        Ver más artículos
-      </a>
-    )}
+    <button id="loadMore" class="bg-secondary text-white px-4 py-2 rounded hover:bg-opacity-90 hidden">
+      Ver más artículos
+    </button>
   </div>
+
+  <script type="module">
+    const container = document.querySelector('#articles');
+    const button = document.querySelector('#loadMore');
+    let currentPage = 1;
+    const perPage = 10;
+    let allArticles = [];
+
+    fetch('/articles.json')
+      .then(res => res.json())
+      .then(data => {
+        allArticles = data;
+        renderPage();
+        if (data.length > perPage) button.classList.remove('hidden');
+      });
+
+    function renderPage() {
+      const start = (currentPage - 1) * perPage;
+      const end = start + perPage;
+      const currentArticles = allArticles.slice(start, end);
+      currentArticles.forEach(article => {
+        const html = `
+          <article class="bg-white rounded-xl p-4 shadow mb-4">
+            <h3 class="text-xl font-semibold">${article.title}</h3>
+            <p class="text-muted text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
+            <p>${article.summary}</p>
+            <a href="${article.url}" target="_blank" class="text-secondary hover:underline">Leer más</a>
+          </article>`;
+        container.insertAdjacentHTML('beforeend', html);
+      });
+      currentPage++;
+      if ((currentPage - 1) * perPage >= allArticles.length) {
+        button.classList.add('hidden');
+      }
+    }
+
+    button.addEventListener('click', renderPage);
+  </script>
 </Layout>
