@@ -8,7 +8,7 @@ from datetime import datetime
 from typing import List, Dict
 from deepl import Translator
 
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
+DEEPL_API_KEY = os.getenv("b726ddbc-f08d-473d-9185-2426e635d218:fx")
 OUTPUT_PATH = "workspace/data/articles.json"
 ARTICLES_PER_DAY = 5
 
