@@ -11,7 +11,7 @@ from deepl import Translator
 OUTPUT_PATH = "workspace/data/articles.json"
 ARTICLES_PER_DAY = 5
 
-translator = Translator(b726ddbc-f08d-473d-9185-2426e635d218:fx)
+translator = Translator("b726ddbc-f08d-473d-9185-2426e635d218:fx")
 
 def translate(text: str, target_lang: str) -> str:
     try:
