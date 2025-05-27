@@ -3,7 +3,6 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
-
 export default defineConfig({
   site: 'https://curioscience.vercel.app',
   integrations: [
