@@ -1,35 +1,27 @@
 ---
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
 import BuyMeACoffee from '../components/BuyMeACoffee.astro';
-const { title, lang } = Astro.props;
+import Header from '../components/Header.astro';
+const { title = 'CurioScience', lang = 'es' } = Astro.props;
 ---
-
 <!DOCTYPE html>
-<html lang="es">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="CurioScience - Divulgación científica diaria" />
-    <title>CurioScience</title>
-    <link rel="stylesheet" href="/src/styles/global.css" />
+    <title>{title}</title>
+    <link rel="stylesheet" href="/fonts.css" />
   </head>
-  <body class="bg-background text-text font-sans">
-    <header class="bg-primary text-white py-4">
-      <div class="container flex justify-between items-center">
-        <h1 class="text-xl font-bold">CurioScience</h1>
-        <nav class="space-x-4">
-          <a href="/" class="hover:underline">Inicio</a>
-          <a href="/quienes-somos" class="hover:underline">Quiénes somos</a>
-        </nav>
-      </div>
-    </header>
+  <body class="bg-gray-50 text-gray-900 font-atkinson pt-20">
+    <Header />
 
-    <main class="container py-8">
+    <main class="max-w-5xl mx-auto px-4 py-6">
       <slot />
     </main>
 
     <footer class="bg-primary text-white py-6 mt-12">
-      <div class="container flex flex-col md:flex-row justify-between items-center">
+      <div class="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center px-4">
         <p class="mb-2 md:mb-0">&copy; 2025 CurioScience. Todos los derechos reservados.</p>
         <div class="flex space-x-4">
           <a href="#" aria-label="Twitter">
@@ -43,12 +35,11 @@ const { title, lang } = Astro.props;
           </a>
         </div>
       </div>
-      <div class="container mt-4">
-        <!-- Google AdSense -->
+      <div class="max-w-5xl mx-auto mt-4 px-4">
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-7362740372032488"
-             data-ad-slot="xxxxxxxxxx"
+             data-ad-slot="7362740372032488"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>
