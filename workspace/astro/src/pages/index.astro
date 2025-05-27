@@ -1,7 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import fs from 'fs';
-const articles = JSON.parse(fs.readFileSync('./workspace/data/articles.json'));
+const res = await fetch('/articles.json');
+const articles = await res.json();
 const page = Astro.url.searchParams.get('page') || 1;
 const perPage = 10;
 const start = (page - 1) * perPage;
