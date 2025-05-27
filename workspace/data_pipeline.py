@@ -68,14 +68,23 @@ def fetch_rss_articles(source_name: str, url: str, category: str) -> List[Dict]:
     return articles
 
 def translate_article(article: Dict) -> Dict:
-    article["title_en"] = article["title"]
-    article["title_es"] = translate(article["title"], "ES")
-    article["title_zh"] = translate(article["title"], "ZH")
-    article["content_en"] = article["content"]
-    article["content_es"] = translate(article["content"], "ES")
-    article["content_zh"] = translate(article["content"], "ZH")
-    del article["title"]
-    del article["content"]
+    try:
+        original_title = str(article.get("title", ""))
+        original_content = str(article.get("content", ""))
+        
+        article["title_en"] = original_title
+        article["title_es"] = translate(original_title, "ES")
+        article["title_zh"] = translate(original_title, "ZH")
+        article["content_en"] = original_content
+        article["content_es"] = translate(original_content, "ES")
+        article["content_zh"] = translate(original_content, "ZH")
+
+        # Solo eliminamos los originales si todo fue bien
+        if article["title_es"] and article["content_es"]:
+            article.pop("title", None)
+            article.pop("content", None)
+    except Exception as e:
+        print(f"Error translating article: {e}")
     return article
 
 def save_articles(articles: List[Dict]):
