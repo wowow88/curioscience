@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Deep Learning for Quantum Chemistry",
+    "url": "https://arxiv.org/abs/1234.5678",
+    "date": "2025-05-26",
+    "source": "arXiv",
+    "summary": "A new method applies deep neural networks to simulate molecular dynamics more efficiently."
+  },
+  {
+    "title": "Novel Biomarkers in Alzheimer's Disease",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/987654321/",
+    "date": "2025-05-26",
+    "source": "PubMed",
+    "summary": "Study identifies early blood markers that predict cognitive decline in Alzheimer's patients."
+  },
+  {
+    "title": "AI Detects Hidden Patterns in Climate Data",
+    "url": "https://www.science.org/doi/10.1126/science.ab12345",
+    "date": "2025-05-26",
+    "source": "Science.org",
+    "summary": "A new machine learning approach uncovers overlooked signals in global temperature trends."
+  },
+  {
+    "title": "CRISPR Advances Enable Gene Editing in Adults",
+    "url": "https://www.nature.com/articles/nature12345",
+    "date": "2025-05-26",
+    "source": "Nature",
+    "summary": "Researchers successfully edit disease-causing genes in adult tissues using CRISPR."
+  }
+]
