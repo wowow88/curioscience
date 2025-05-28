@@ -2,21 +2,21 @@
   {
     "title": "From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output Suffice for Fill-in-the-Middle Code Generation?",
     "url": "https://arxiv.org/abs/2505.18789",
-    "date": "2025-05-27",
+    "date": "2025-05-28",
     "source": "arXiv",
     "summary": "arXiv:2505.18789v1 Announce Type: new \nAbstract: Post-processing is crucial for the automatic evaluation of LLMs in fill-in-the-middle (FIM) code generation due to the frequent presence of extraneous code in raw outputs. This extraneous generation suggests a lack of awareness regarding output boundaries, requiring truncation for effective evaluation. The determination of an optimal truncation strategy, however, often proves intricate, particularly when the scope includes several programming languages. This study investigates the necessity of post-processing instruction-tuned LLM outputs. Our findings reveal that supervised fine-tuning significantly enhances FIM code generation, enabling LLMs to generate code that seamlessly integrates with the surrounding context. Evaluating our fine-tuned \\texttt{Qwen2.5-Coder} (base and instruct) models on HumanEval Infilling and SAFIM benchmarks demonstrates improved performances without post-processing, especially when the \\emph{middle} consist of complete lines. However, post-processing of the LLM outputs remains necessary when the \\emph{middle} is a random span of code."
   },
   {
     "title": "Rivers and their rights",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx4616?af=R",
-    "date": "2025-05-27",
+    "date": "2025-05-28",
     "source": "Science.org",
     "summary": "Science, Volume 388, Issue 6749, Page 823-823, May 2025."
   },
   {
-    "title": "Taking common medicines might matter for cancer treatment",
-    "url": "https://www.nature.com/articles/d41586-025-01642-7",
-    "date": "2025-05-27",
+    "title": "Observing anyonization of bosons in a quantum gas",
+    "url": "https://www.nature.com/articles/s41586-025-09016-9",
+    "date": "2025-05-28",
     "source": "Nature",
     "summary": ""
   }
