@@ -33,19 +33,13 @@ jobs:
       with:
         node-version: '20'
 
-    - name: Install Astro dependencies
-      run: npm install --legacy-peer-deps --legacy-peer-deps
+    - name: Install Node dependencies
+      run: |
+        npm install
+        npm install node-fetch rss-parser
 
-    - name: Setup Node.js for fetch script
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-      
-    - name: Install node-fetch
-      run: npm install node-fetch
-      
     - name: Run article fetch script
-      run:  node scripts/fetch-articles.js
+      run: node scripts/fetch-articles.js
 
     - name: Build Astro site
       run: npm run build
