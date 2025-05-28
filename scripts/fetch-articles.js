@@ -24,7 +24,8 @@ const SOURCES = [
 ];
 
 const today = new Date().toISOString().split('T')[0];
-const DATA_PATH = './workspace/data/articles.json';
+const DATA_PATH = './workspace/astro/public/articles.json';
+fs.mkdirSync('./workspace/astro/public', { recursive: true });
 
 async function fetchArticles() {
   let allArticles = [];
