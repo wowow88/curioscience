@@ -7,7 +7,7 @@ import Layout from '../layouts/Layout.astro';
   <div id="articles" class="space-y-6"></div>
 
   <div class="flex justify-center mt-8">
-    <button id="loadMore" class="bg-secondary text-white px-4 py-2 rounded hover:bg-opacity-90 hidden">
+    <button id="loadMore" class="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800 hidden">
       Ver más artículos
     </button>
   </div>
@@ -33,11 +33,11 @@ import Layout from '../layouts/Layout.astro';
       const currentArticles = allArticles.slice(start, end);
       currentArticles.forEach(article => {
         const html = `
-          <article class="bg-white rounded-xl p-4 shadow mb-4">
-            <h3 class="text-xl font-semibold">${article.title_es}</h3>
-            <p class="text-muted text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
-            <p>${article.content_es}</p>
-            <a href="${article.url}" target="_blank" class="text-secondary hover:underline">Leer más</a>
+          <article class="bg-white rounded-xl p-4 shadow-md mb-4">
+            <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
+            <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
+            <p class="text-gray-800">${article.content_es}</p>
+            <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
           </article>`;
         container.insertAdjacentHTML('beforeend', html);
       });
@@ -50,4 +50,3 @@ import Layout from '../layouts/Layout.astro';
     button.addEventListener('click', renderPage);
   </script>
 </Layout>
-
