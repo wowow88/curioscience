@@ -19,16 +19,16 @@ const { title = 'CurioScience', lang = 'es' } = Astro.props;
     <main class="max-w-5xl mx-auto px-4 py-6">
       <slot />
     </main>
-<footer class="bg-blue-950 text-blue-100 py-10 mt-12">
+<footer class="bg-blue-950 text-white py-10 mt-12">
   <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
     <div>
-      <h2 class="font-bold text-xl text-blue-200 mb-3">CurioScience</h2>
-      <p class="text-sm text-blue-300">Haciendo llegar los avances científicos al momento, para todos los públicos.</p>
-      <p class="mt-4 text-xs text-blue-400">&copy; 2025 CurioScience. Todos los derechos reservados.</p>
+      <h2 class="font-bold text-xl text-white mb-3">CurioScience</h2>
+      <p class="text-sm text-blue-200">Haciendo llegar los avances científicos al momento, para todos los públicos.</p>
+      <p class="mt-4 text-xs text-blue-300">&copy; 2025 CurioScience. Todos los derechos reservados.</p>
     </div>
     <div>
-      <h3 class="font-semibold text-blue-200 mb-3">Navegación</h3>
-      <ul class="space-y-1 text-sm text-blue-300">
+      <h3 class="font-semibold text-white mb-3">Navegación</h3>
+      <ul class="space-y-1 text-sm text-blue-200">
         <li><a href="/" class="hover:underline">Inicio</a></li>
         <li><a href="/quienes-somos" class="hover:underline">Quién soy</a></li>
         <li><a href="/contacto" class="hover:underline">Contacto</a></li>
@@ -36,7 +36,7 @@ const { title = 'CurioScience', lang = 'es' } = Astro.props;
       </ul>
     </div>
     <div>
-      <h3 class="font-semibold text-blue-200 mb-3">Síguenos</h3>
+      <h3 class="font-semibold text-white mb-3">Síguenos</h3>
       <div class="flex space-x-4">
         <a href="#" aria-label="Twitter"><img src="/icons/twitter.svg" alt="Twitter" class="h-6 brightness-0 invert" /></a>
         <a href="#" aria-label="Instagram"><img src="/icons/instagram.svg" alt="Instagram" class="h-6 brightness-0 invert" /></a>
@@ -44,7 +44,7 @@ const { title = 'CurioScience', lang = 'es' } = Astro.props;
       </div>
     </div>
   </div>
-  <div class="max-w-6xl mx-auto mt-6 px-4 text-sm flex justify-between items-center flex-wrap gap-4 text-blue-400">
+  <div class="max-w-6xl mx-auto mt-6 px-4 text-sm flex justify-between items-center flex-wrap gap-4 text-blue-300">
     <p>Hecho con 💫 Astro, TailwindCSS y mucha paciencIA</p>
     <ins class="adsbygoogle"
          style="display:block"
@@ -57,5 +57,6 @@ const { title = 'CurioScience', lang = 'es' } = Astro.props;
     </script>
   </div>
 </footer>
+
   </body>
 </html>
