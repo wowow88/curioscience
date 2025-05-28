@@ -40,8 +40,9 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '18'
+        
     - name: Install node-fetch
-        run: npm install node-fetch
+        run:npm install node-fetch
         
     - name: Run article fetch script
       run:  node scripts/fetch-articles.js
