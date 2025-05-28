@@ -11,7 +11,7 @@ const SOURCES = [
   },
   {
     name: 'PubMed',
-    url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10&utm_campaign=rss&utm_content=1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L&utm_medium=rss&utm_source=pubmed',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10',
   },
   {
     name: 'Science.org',
@@ -24,31 +24,39 @@ const SOURCES = [
 ];
 
 const today = new Date().toISOString().split('T')[0];
-let allArticles = [];
-
-for (const source of SOURCES) {
-  try {
-    const feed = await parser.parseURL(source.url);
-    const entry = feed.items[0];
-    allArticles.push({
-      title: entry.title,
-      url: entry.link,
-      date: today,
-      source: source.name,
-      summary: entry.contentSnippet || '',
-    });
-  } catch (e) {
-    console.error(`Error fetching from ${source.name}:`, e.message);
-  }
-}
-
 const DATA_PATH = './workspace/data/articles.json';
-let existing = [];
-if (fs.existsSync(DATA_PATH)) {
-  existing = JSON.parse(fs.readFileSync(DATA_PATH));
+
+async function fetchArticles() {
+  let allArticles = [];
+
+  for (const source of SOURCES) {
+    try {
+      const feed = await parser.parseURL(source.url);
+      const entry = feed.items[0];
+      if (entry) {
+        allArticles.push({
+          title: entry.title,
+          url: entry.link,
+          date: today,
+          source: source.name,
+          summary: entry.contentSnippet || '',
+        });
+      }
+    } catch (e) {
+      console.error(`Error fetching from ${source.name}:`, e.message);
+    }
+  }
+
+  let existing = [];
+  if (fs.existsSync(DATA_PATH)) {
+    existing = JSON.parse(fs.readFileSync(DATA_PATH));
+  }
+
+  const merged = [...allArticles, ...existing.filter(a => a.date !== today)];
+  fs.mkdirSync('./workspace/data', { recursive: true });
+  fs.writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2));
+  console.log('Artículos actualizados:', merged.length);
 }
 
-const merged = [...allArticles, ...existing.filter(a => a.date !== today)];
-fs.mkdirSync('./workspace/data', { recursive: true });
-fs.writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2));
-console.log('Artículos actualizados:', merged.length);
+fetchArticles();
+
