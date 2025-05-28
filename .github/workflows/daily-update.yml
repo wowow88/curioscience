@@ -42,9 +42,7 @@ jobs:
         node-version: '18'
 
     - name: Run article fetch script
-      run: |
-        npm install rss-parser node-fetch@2
-        node scripts/fetch-articles.js
+      run:  node scripts/fetch-articles.js
 
     - name: Build Astro site
       run: npm run build
