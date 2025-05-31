@@ -43,14 +43,26 @@ def fetch_rss(source_name, url):
 
 
 def translate_article(article):
-    translator = GoogleTranslator(source='auto', target='es')
-    translated = {
-        "title": article["title"],
-        "title_es": translator.translate(article["title"]),
-        "url": article["url"],
-        "date": article["date"],
-        "source": article["source"],
-        "content_es": translator.translate(article.get("summary", ""))
+    if article["source"] in ["arXiv", "Science.org", "Nature"]:
+        translator = GoogleTranslator(source='auto', target='es')
+        return {
+            "title": article["title"],
+            "title_es": translator.translate(article["title"]),
+            "url": article["url"],
+            "date": article["date"],
+            "source": article["source"],
+            "content_es": translator.translate(article.get("summary", ""))
+        }
+    else:
+        return {
+            "title": article["title"],
+            "title_es": article["title"],
+            "url": article["url"],
+            "date": article["date"],
+            "source": article["source"],
+            "content_es": article.get("summary", "")
+        }
+
     }
     return translated
 
