@@ -2,7 +2,7 @@ name: Daily Update and Deploy
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * *'  # Ejecuta todos los días a las 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -28,15 +28,13 @@ jobs:
         DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       run: python workspace/data_pipeline.py
 
-    - name: Set up Node.js
+    - name: Set up Node.js (v20)
       uses: actions/setup-node@v3
       with:
         node-version: '20'
 
-    - name: Install Node dependencies
-      run: |
-        npm install
-        npm install node-fetch rss-parser
+    - name: Install Node.js dependencies
+      run: npm install --legacy-peer-deps
 
     - name: Run article fetch script
       run: node scripts/fetch-articles.js
