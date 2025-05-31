@@ -63,17 +63,20 @@ def translate_article(article):
             "content_es": article.get("summary", "")
         }
 
-    }
-    return translated
-
 
 def main():
     all_articles = []
     all_articles += fetch_arxiv()
     all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
     all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
+    all_articles += fetch_rss("AEMET", "https://www.aemet.es/xml/boletin.rss")
+    all_articles += fetch_rss("CNIC", "https://www.cnic.es/es/rss.xml")
+    all_articles += fetch_rss("CNIO", "https://www.cnio.es/feed/")
+    all_articles += fetch_rss("ISCIII", "https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1")
+    all_articles += fetch_rss("IEO", "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss")
+    all_articles += fetch_rss("IAC", "https://www.iac.es/en/rss.xml")
 
-    translated_articles = [translate_article(article) for article in all_articles]
+    translated_articles = [translate_article(article) for article in all_articles[:10]]
     print("Artículos actualizados:", len(translated_articles))
 
     with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
@@ -84,7 +87,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-if __name__ == "__main__":
-    main()
