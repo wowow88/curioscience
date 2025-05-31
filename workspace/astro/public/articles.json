@@ -2,22 +2,15 @@
   {
     "title": "Unified Network-Based Representation of BIM Models for Embedding Semantic, Spatial, and Topological Data",
     "url": "https://arxiv.org/abs/2505.22670",
-    "date": "2025-05-30",
+    "date": "2025-05-31",
     "source": "arXiv",
     "summary": "arXiv:2505.22670v1 Announce Type: new \nAbstract: Building Information Modeling (BIM) has revolutionized the construction industry by providing a comprehensive digital representation of building structures throughout their lifecycle. However, existing research lacks effective methods for capturing the complex spatial and topological relationships between components in BIM models, which are essential for understanding design patterns and enhancing decision-making. This study proposes a unified network-based representation method that integrates the \"semantic-spatial-topological\" multi-dimensional design features of BIM models. By extending the IFC (Industry Foundation Classes) standard, we introduce local spatial relationships and topological connections between components to enrich the network structure. This representation method enables a more detailed understanding of component interactions, dependencies, and implicit design patterns, effectively capturing the semantic, topological, and spatial relationships in BIM, and holds significant potential for the representation and learning of design patterns."
   },
   {
     "title": "Look beyond the longevity drips and supplements",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw7640?af=R",
-    "date": "2025-05-30",
+    "date": "2025-05-31",
     "source": "Science.org",
     "summary": "Science, Volume 388, Issue 6750, Page 921-921, May 2025."
-  },
-  {
-    "title": "US–China tariff war threatens global public health",
-    "url": "https://www.nature.com/articles/d41586-025-01728-2",
-    "date": "2025-05-30",
-    "source": "Nature",
-    "summary": ""
   }
 ]
