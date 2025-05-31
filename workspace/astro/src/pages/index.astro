@@ -16,7 +16,7 @@ import Layout from '../layouts/Layout.astro';
     const container = document.querySelector('#articles');
     const button = document.querySelector('#loadMore');
     let currentPage = 1;
-    const perPage = 100;
+    const perPage = 20;
     let allArticles = [];
 
     fetch('/articles.json')
@@ -27,20 +27,23 @@ import Layout from '../layouts/Layout.astro';
         if (data.length > perPage) button.classList.remove('hidden');
       });
 
- function renderAll() {
-  allArticles.forEach(article => {
-    const html = `
-      <article class="bg-white rounded-xl p-4 shadow-md mb-4">
-        <h3 class="text-xl font-semibold text-blue-900">${article.title_es || article.title}</h3>
-        <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
-        <p class="text-gray-800">${article.content_es || article.content}</p>
-        <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
-      </article>`;
-    container.insertAdjacentHTML('beforeend', html);
-  });
-  button.classList.add('hidden');
-}
-
+    function renderPage() {
+      const start = (currentPage - 1) * perPage;
+      const end = start + perPage;
+      const currentArticles = allArticles.slice(start, end);
+      currentArticles.forEach(article => {
+        const html = `
+          <article class="bg-white rounded-xl p-4 shadow-md mb-4">
+            <h3 class="text-xl font-semibold text-blue-900">${article.title_es || article.title}</h3>
+            <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
+            <p class="text-gray-800">${article.content_es || article.summary || ""}</p>
+            <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
+          </article>`;
+        container.insertAdjacentHTML('beforeend', html);
+      });
+      currentPage++;
+      if ((currentPage - 1) * perPage >= allArticles.length) {
+        button.classList.add('hidden');
       }
     }
 
