@@ -16,7 +16,7 @@ import Layout from '../layouts/Layout.astro';
     const container = document.querySelector('#articles');
     const button = document.querySelector('#loadMore');
     let currentPage = 1;
-    const perPage = 10;
+    const perPage = 100;
     let allArticles = [];
 
     fetch('/articles.json')
