@@ -22,5 +22,101 @@
     "date": "2025-05-29",
     "source": "arXiv",
     "content_es": "La optimización de preferencia directa (DPO) se ha convertido en una técnica estándar para\nAlinear modelos lingüísticos con preferencias humanas de manera supervisada. A pesar de\nSu éxito empírico, la justificación teórica detrás de su relación de registro\nLa parametrización de la recompensa sigue siendo incompleta. En este trabajo, abordamos esta brecha\nutilizando la distribución de información diferencial (DID): una distribución\nSobre secuencias de token que capturan la información obtenida durante la política\nactualizaciones. Primero, mostramos que cuando las etiquetas de preferencia codifican el diferencial\ninformación requerida para transformar una política de referencia en una política objetivo, el\nLa recompensa de ratio de registro en DPO emerge como la forma única óptima para aprender el\nPolítica objetivo a través de la optimización de preferencias. Este resultado naturalmente produce un\nExpresión de forma cerrada para la distribución de muestreo óptima sobre rechazada\nrespuestas. En segundo lugar, encontramos que la condición para las preferencias de codificar\nLa información diferencial está fundamentalmente vinculada a una suposición implícita\ncon respecto a las políticas ordenadas de registro de registro, un sesgo inductivo ampliamente utilizado en\nOptimización de preferencias pero previamente no reconocida. Finalmente, analizando el\nEntropía del DID, caracterizamos cómo aprender diferencial de baja entropía\nLa información refuerza la distribución de la política, mientras que el diferencial de alta entropía\nLa información induce un efecto de suavizado, que explica la probabilidad log\nFenómeno de desplazamiento. Validamos nuestros hallazgos teóricos en sintético\nExperimentos y extenderlos a conjuntos de datos de seguimiento de instrucciones del mundo real. Nuestro\nLos resultados sugieren que aprender información diferencial de alta entropía es crucial\nPara el seguimiento general de instrucciones, mientras aprende diferencial de baja entropía\nInformación beneficia a la respuesta de las preguntas intensivas en conocimiento. En general, nuestro trabajo\npresenta una perspectiva unificadora sobre el objetivo DPO, la estructura de\ndatos de preferencia y comportamientos políticos resultantes a través de la lente de\ninformación diferencial."
+  },
+  {
+    "title": "Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint",
+    "title_es": "Perplejo por rompecabezas: cuando los modelos en idioma de visión no pueden tomar una pista",
+    "url": "http://arxiv.org/abs/2505.23759v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Rompecabezas de rebus, acertijos visuales que codifican el lenguaje a través de imágenes, espacial\narreglo y sustitución simbólica, plantean un desafío único para la corriente\nModelos en idioma de visión (VLMS). A diferencia de los subtítulos de imagen tradicionales o la pregunta\nRespondiendo tareas, la resolución de rebuses requiere abstracción multimodal, simbólica\nrazonamiento, y una comprensión de juegos de palabras culturales, fonéticos y lingüísticos. En esto\nDocumento, investigamos la capacidad de los VLM contemporáneos para interpretar y resolver\nrompecabezas de rebuses construyendo un punto de referencia generado a mano y anotado de\nDiversos rompecabezas de Rebus en inglés, que van desde pictográficos simples\nsustituciones a señales dependientes espacial (\"cabeza\" sobre \"talones\"). Analizamos cómo\nDiferentes VLM se desempeñan, y nuestros hallazgos revelan que mientras VLMS exhibe algunos\nCapacidades sorprendentes en la decodificación de pistas visuales simples, luchan\nsignificativamente con tareas que requieren razonamiento abstracto, pensamiento lateral y\nComprender las metáforas visuales."
+  },
+  {
+    "title": "DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning",
+    "title_es": "Deeptheorem: avance del razonamiento de LLM para la prueba del teorema a través del lenguaje natural y el aprendizaje de refuerzo",
+    "url": "http://arxiv.org/abs/2505.23754v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "La prueba de teorema sirve como una prueba importante para evaluar el razonamiento complejo\nhabilidades en modelos de idiomas grandes (LLM). Sin embargo, automatizado tradicional\nLos enfoques de prueba del teorema (ATP) dependen en gran medida de los sistemas de prueba formales que\nAlinearse mal con la fuerza de LLMS derivada del lenguaje natural informal\nConocimiento adquirido durante la pre-entrenamiento. En este trabajo, proponemos profundos theoorem, un\nmarco integral de proporciones informales que explota el lenguaje natural para\nMejorar el razonamiento matemático LLM. Deep Theorem incluye una gran escala\nconjunto de datos de referencia que consta de 121k teoremas informales de nivel IMO de alta calidad\ny pruebas que abarcan diversos dominios matemáticos, rigurosamente anotadas para\ncorrección, dificultad y categorías de temas, acompañadas de sistemáticamente\nVarias del teorema verificable construidas. Ideamos un refuerzo novedoso\nEstrategia de aprendizaje (RL-Zero) explícitamente adaptada a la prueba del teorema informal,\nAprovechar las variantes del teorema verificado para incentivar matemática robusta\ninferencia. Además, proponemos resultados y procesos integrales\nMétricas de evaluación que examinan la corrección de la prueba y la calidad del razonamiento\npasos. Los análisis experimentales extensos demuestran un profundo theoorem significativamente\nMejora el rendimiento de proporciones de teorema de LLM en comparación con los conjuntos de datos existentes y\nProtocolos supervisados ​​de ajuste, logrando una precisión de última generación y\nCalidad de razonamiento. Nuestros hallazgos destacan el potencial de DeepTheorem para\nAdvance fundamentalmente la prueba del teorema informal y la matemática\nexploración."
+  },
+  {
+    "title": "REOrdering Patches Improves Vision Models",
+    "title_es": "Reordenar los parches mejora los modelos de visión",
+    "url": "http://arxiv.org/abs/2505.23751v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Los modelos de secuencia como los transformadores requieren que las entradas se representen como\nsecuencias unidimensionales. En la visión, esto generalmente implica aplanar imágenes\nUsando un orden de fila de fila fija (ráster-escane). Mientras que la autocuración completa es\nLos transformadores de secuencia larga de permutación-permutación se basan cada vez más en\naproximaciones arquitectónicas que rompen esta invariancia e introducen\nSensibilidad al pedido de parches. Mostramos que el orden de parche afecta significativamente\nRendimiento del modelo en tales configuraciones, con alternativas simples como la columna mayor\no curvas de Hilbert que producen cambios de precisión notables. Motivado por esto, nosotros\nProponer Reorder, un marco de dos etapas para descubrir el parche óptimo de la tarea\npedidos. Primero, obtenemos una teoría de la información previa evaluando el\nCompresibilidad de varias secuencias de parche. Entonces, aprendemos una política sobre\nPermutaciones optimizando una política de Plackett-Luce utilizando Reforce. Este\nEl enfoque permite un aprendizaje eficiente en un espacio de permutación combinatoria.\nReorder mejora la precisión de Top-1 sobre el orden de la fila\n3.01% y mapa funcional del mundo en 13.35%."
+  },
+  {
+    "title": "Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons",
+    "title_es": "Comparación de técnicas de regresión difusa genética para fenómenos aeroacústicos",
+    "url": "http://arxiv.org/abs/2505.23746v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Este estudio investiga la aplicación de sistemas difusos genéticos (GFS) a\nModele la ruido de la autogestión generada por las perfiones aerodinámicas, un tema clave en la aeroaccoustica con\nImplicaciones significativas para aplicaciones aeroespaciales, automotrices y de drones.\nUtilizando el conjunto de datos de auto -ruido de la superficie aerodinámica disponible públicamente, varios difusos\nLas estrategias de regresión se exploran y comparan. El documento evalúa un bruto\nFuerza Takagi Sugeno Kang (TSK) Sistema difuso con alta densidad de reglas, una cascada\nArquitectura Geneti Fuzzy Tree (GFT) y un nuevo enfoque agrupado basado en\nC-MEANS Fuzzy (FCM) para reducir la complejidad del modelo. Esto resalta el\nViabilidad de la agrupación de inferencia difusa asistida como una regresión efectiva\nHerramienta para fenómenos acústicos aerodinámicos complejos. Palabras clave: lógica difusa, regresión,\nSistemas en cascada, agrupación e IA."
+  },
+  {
+    "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence",
+    "title_es": "Spacial-MLLM: impulso de capacidades de MLLM en inteligencia espacial basada en visual",
+    "url": "http://arxiv.org/abs/2505.23747v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Los avances recientes en modelos de lenguaje grande multimodal (MLLMS) tienen\nrendimiento significativamente mejorado en tareas visuales 2D. Sin embargo, mejorando su\nLa inteligencia espacial sigue siendo un desafío. Los MLLM 3D existentes siempre confían en\ndatos 3D o 2.5D adicionales para incorporar la conciencia espacial, restringiendo su\nUtilidad en escenarios con solo entradas 2D, como imágenes o videos. En esto\nDocumento, presentamos Spatial-Mllm, un marco novedoso para espacial basado en visual\nrazonamiento de observaciones puramente 2D. A diferencia de los videos convencionales mllms que\nConfíe en codificadores visuales basados ​​en clip optimizados para la comprensión semántica, nuestro\nLa idea clave es desatar la estructura fuerte anterior desde el avance de la alimentación\nModelo de base de geometría visual. Específicamente, proponemos un codificador de doble\nArquitectura: un codificador visual 2D previado para extraer características semánticas, y\nUn codificador espacial inicializado desde la columna vertebral del modelo de geometría visual\nExtraer características de estructura 3D. Un conector luego integra ambas características en\nTokens visuales unificados para una mejor comprensión espacial. Además, nosotros\nProponer una estrategia de muestreo de cuadro consciente de espacio en el momento de la inferencia, que selecciona\nLos marcos espacialmente informativos de una secuencia de video, asegurando que incluso bajo\nLongitud de token limitado, el modelo se centra en marcos críticos para espaciales\nrazonamiento. Más allá de las mejoras de la arquitectura, construimos el Spacial-MLLM-120K\nDataSet y entrenar el modelo en él utilizando ajuste fino supervisado y GRPO.\nExperimentos extensos en varios conjuntos de datos del mundo real demuestran que nuestro\nSpacial-mllm logra el rendimiento de vanguardia en una amplia gama de\nTareas de comprensión espacial y razonamiento basados ​​en la visual. Página del proyecto:\nhttps://diankun-wu.github.io/spatial-mllm/."
+  },
+  {
+    "title": "To Trust Or Not To Trust Your Vision-Language Model's Prediction",
+    "title_es": "Confiar o no confiar en la predicción del modelo de lenguaje de visión",
+    "url": "http://arxiv.org/abs/2505.23745v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Los modelos en idioma de visión (VLMS) han demostrado fuertes capacidades en\nAlinear modalidades visuales y textuales, lo que permite una amplia gama de aplicaciones\nen comprensión multimodal y generación. Mientras se sobresalen en cero disparos y\nEscenarios de aprendizaje de transferencia, VLMS siguen siendo susceptibles a la clasificación errónea,\na menudo produciendo predicciones seguras pero incorrectas. Esta limitación plantea un\nriesgo significativo en dominios críticos de seguridad, donde las predicciones erróneas pueden\nconducir a consecuencias graves. En este trabajo, presentamos TrustVLM, un\nMarco sin capacitación diseñado para abordar el desafío crítico de\nEstimando cuándo se pueden confiar en las predicciones de VLM. Motivado por los observados\nbrecha de modalidad en VLMS y la idea de que ciertos conceptos son más claramente\nRepresentado en el espacio de incrustación de la imagen, proponemos una nueva anotación de confianza\nfunción que aprovecha este espacio para mejorar la detección de clasificación errónea. Nosotros\nEvaluar rigurosamente nuestro enfoque en 17 conjuntos de datos diversos, empleando 4\narquitecturas y 2 VLMS, y demuestra un rendimiento de última generación, con\nMejoras de hasta 51.87% en AURC, 9.14% en AUROC y 32.42% en FPR95\nen comparación con las líneas de base existentes. Mejorando la fiabilidad del modelo\nSin requerir reentrenamiento, TrustVLM allana el camino para una implementación más segura de\nVLMS en aplicaciones del mundo real. El código estará disponible en\nhttps://github.com/epfl-imos/trustvlm."
+  },
+  {
+    "title": "Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need",
+    "title_es": "Aprendizaje incremental de dominio de refuerzo: seleccionar los parámetros óptimos es todo lo que necesita",
+    "url": "http://arxiv.org/abs/2505.23744v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Redes neuronales profundas (DNN) a menudo de bajo rendimiento en el mundo real, dinámica\nConfiguración donde las distribuciones de datos cambian con el tiempo. Aprendizaje incremental del dominio\n(Dil) ofrece una solución al habilitar la adaptación continua del modelo, con\nParámetro-isolación Dil (pidil) que emerge como un paradigma prometedor para reducir\nConflictos de conocimiento. Sin embargo, los métodos de pidil existentes luchan con el parámetro\nprecisión de selección, especialmente como el número de dominios y correspondientes\nLas clases crecen. Para abordar esto, proponemos soyo, un marco liviano que\nMejora la selección del dominio en Pidil. Soyo presenta una mezcla gaussiana\nCompresor (GMC) y característica de dominio RESAMPLER (DFR) para almacenar y equilibrar antes\nDatos de dominio de manera eficiente, mientras que una red de fusión de funciones de dominio múltiple\n(MDFN) mejora la extracción de características del dominio. Nuestro marco admite múltiples\nMétodos de ajuste fino (PEFT) de parámetros y se valida en todas las tareas\ncomo la clasificación de imágenes, la detección de objetos y la mejora del habla.\nLos resultados experimentales en seis puntos de referencia demuestran el consistente\nsuperioridad sobre las líneas de base existentes, mostrando su robustez y adaptabilidad\nen entornos complejos y en evolución. Los códigos se lanzarán en\nhttps://github.com/qwangcv/soyo."
+  },
+  {
+    "title": "Final NSF budget proposal jettisons one giant telescope amid savage agencywide cuts",
+    "title_es": "Propuesta final del presupuesto de NSF Jettisons Un telescopio gigante en medio de los recortes de agencia salvaje",
+    "url": "https://www.science.org/content/article/final-nsf-budget-proposal-jettisons-one-giant-telescope-amid-savage-agencywide-cuts",
+    "date": "2025-05-31",
+    "source": "Science.org",
+    "content_es": "El recorte propuesto por el 57% de Trump a la agencia eliminaría las tasas de éxito de las subvenciones al 7% y la educación intestinal y la capacitación"
+  },
+  {
+    "title": "‘Devastating.’ NIH cancels future funding plans for HIV vaccine consortia",
+    "title_es": "\"Devastador\". NIH cancela planes de financiación futuros para consorcios de vacunas contra el VIH",
+    "url": "https://www.science.org/content/article/devasting-nih-cancels-future-funding-plans-hiv-vaccine-consortia",
+    "date": "2025-05-31",
+    "source": "Science.org",
+    "content_es": "Los investigadores denuncian la decisión de la agencia justo cuando los nuevos leads revitalizan la búsqueda de vacunas a la larga"
+  },
+  {
+    "title": "Dozens of active and planned NASA spacecraft killed in Trump budget request",
+    "title_es": "Docenas de naves espaciales activas y planificadas de la NASA asesinadas en la solicitud de presupuesto de Trump",
+    "url": "https://www.science.org/content/article/dozens-active-and-planned-nasa-spacecraft-killed-trump-budget-request",
+    "date": "2025-05-31",
+    "source": "Science.org",
+    "content_es": "La propuesta terminaría casi todas las nuevas misiones científicas importantes"
+  },
+  {
+    "title": "NIH funding policy deals new blow to HIV-related trial networks",
+    "title_es": "La política de financiación de NIH ofrece un nuevo golpe a las redes de prueba relacionadas con el VIH",
+    "url": "https://www.science.org/content/article/nih-funding-policy-deals-new-blow-hiv-related-trial-networks",
+    "date": "2025-05-31",
+    "source": "Science.org",
+    "content_es": "Detenerse a los \"subawards\" extranjeros interrumpe los estudios globales en curso y tiene investigadores luchando para cumplir con las obligaciones éticas con los voluntarios de los juicios"
+  },
+  {
+    "title": "Trump officials downplay fake citations in high-profile report on children’s health",
+    "title_es": "Los funcionarios de Trump minimizan las citas falsas en el informe de alto perfil sobre la salud de los niños",
+    "url": "https://www.science.org/content/article/trump-officials-downplay-fake-citations-high-profile-report-children-s-health",
+    "date": "2025-05-31",
+    "source": "Science.org",
+    "content_es": "Las referencias a los estudios fantasmas se producen después de la compromiso de la Casa Blanca para practicar la ciencia \"estándar de oro\""
   }
 ]
