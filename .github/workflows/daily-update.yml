@@ -33,7 +33,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies (workspace/astro)
+      - name: Install dependencies
         working-directory: workspace/astro
         run: npm install --legacy-peer-deps
 
@@ -50,5 +50,6 @@ jobs:
           git add workspace/astro/public/articles.json
           git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
 
 
