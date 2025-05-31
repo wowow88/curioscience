@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python dependencies
-        run: pip install arxiv requests feedparser deepl beautifulsoup4
+        run: pip install arxiv requests feedparser deepl beautifulsoup4 deep_translator
 
       - name: Run data pipeline
         env:
