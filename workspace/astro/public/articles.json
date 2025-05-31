@@ -1,67 +1,26 @@
 [
   {
-    "date": "2025-05-31",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source": "Science.org",
-    "url": "https://www.science.org/content/article/final-nsf-budget-proposal-jettisons-one-giant-telescope-amid-savage-agencywide-cuts",
-    "title_es": "La propuesta final de presupuesto de la NSF desecha un telescopio gigante en medio de salvajes recortes en toda la agencia",
-    "title_en": "Final NSF budget proposal jettisons one giant telescope amid savage agencywide cuts",
-    "content_es": "El recorte del 57% propuesto por Trump a la agencia reduciría la tasa de éxito de las becas al 7% y destriparía la educación y la formación",
-    "content_en": "Trump’s 57% proposed cut to agency would drop grant success rates to 7% and gut education and training"
+    "title": "From Chat Logs to Collective Insights: Aggregative Question Answering",
+    "title_es": "Desde registros de chat hasta ideas colectivas: respuesta de preguntas agregadas",
+    "url": "http://arxiv.org/abs/2505.23765v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "Los agentes de conversación impulsados ​​por modelos de idiomas grandes (LLM) son rápidamente\nvolverse integral de nuestras interacciones diarias, generando cantidades sin precedentes\nde datos de conversación. Tales conjuntos de datos ofrecen una lente poderosa en la sociedad\nintereses, temas de tendencia y preocupaciones colectivas. Sin embargo, los enfoques existentes\nPor lo general, tratar estas interacciones como Independent and Miss Critical Insights\nque podría surgir de agregar y razonar a gran escala\nregistros de conversación. En este documento, presentamos la respuesta de preguntas agregadas,\nuna tarea novedosa que requiere que los modelos razonen explícitamente más de miles de\ninteracciones de usuario-chatbot para responder consultas agregadas, como la identificación\npreocupaciones emergentes entre la demografía específica. Para habilitar la investigación en este\nDirección, construimos un punto de referencia, Wildchat-Aqa, que comprende 6.027 agregado\nPreguntas derivadas de 182,330 conversaciones de chatbot del mundo real. Experimentos\nmostrar que los métodos existentes luchan por razonar de manera efectiva o incurrir\ncostos computacionales prohibitivos, subrayando la necesidad de nuevos enfoques\nCapaz de extraer ideas colectivas de datos de conversación a gran escala."
   },
   {
-    "date": "2025-05-31",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source": "Science.org",
-    "url": "https://www.science.org/content/article/devasting-nih-cancels-future-funding-plans-hiv-vaccine-consortia",
-    "title_es": "Devastador\". Los NIH cancelan los futuros planes de financiación de consorcios de vacunas contra el VIH",
-    "title_en": "‘Devastating.’ NIH cancels future funding plans for HIV vaccine consortia",
-    "content_es": "Los investigadores critican la decisión de la agencia justo cuando nuevas pistas revitalizan la búsqueda de la tan ansiada vacuna.",
-    "content_en": "Researchers decry agency’s decision just as new leads reinvigorate search for long-sought vaccine"
+    "title": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
+    "title_es": "Zerogui: Automatizar el aprendizaje de GUI en línea a cero costo humano",
+    "url": "http://arxiv.org/abs/2505.23762v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "El rápido avance de los grandes modelos de lenguaje de visión (VLMS) ha impulsado\nel desarrollo de agentes de la GUI basados ​​en visión pura, capaces de percibir y\nOperación de interfaces gráficas de usuario (GUI) para cumplir de forma autónoma a los usuarios\ninstrucciones. Sin embargo, los enfoques existentes generalmente adoptan un aprendizaje fuera de línea\nMarco, que enfrenta dos limitaciones centrales: (1) una gran dependencia de la alta calidad\nAnotaciones manuales para la supervisión de la conexión a tierra y la acción de elementos, y (2)\nAdaptabilidad limitada a entornos dinámicos e interactivos. Para abordar estos\nlimitaciones, proponemos Zerogui, un marco de aprendizaje en línea escalable para\nAutomatizar la capacitación del agente de GUI a cero costo humano. Específicamente, Zerogui\nintegra (i) generación de tareas automáticas basada en VLM para producir una capacitación diversa\nObjetivos del estado de entorno actual, (ii) Recompensa automática basada en VLM\nEstimación para evaluar el éxito de la tarea sin funciones de evaluación hechas a mano,\ny (iii) refuerzo en línea de dos etapas aprendiendo a interactuar continuamente con\ny aprender de entornos de GUI. Experimentos en dos agentes de GUI avanzados\n(UI-Tars y Aguuvis) demuestran que Zerogui aumenta significativamente el rendimiento\nen entornos de Osworld y Androidlab. El código está disponible en\nhttps://github.com/opengvlab/zerogui."
   },
   {
-    "date": "2025-05-31",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source": "Science.org",
-    "url": "https://www.science.org/content/article/dozens-active-and-planned-nasa-spacecraft-killed-trump-budget-request",
-    "title_es": "Decenas de naves espaciales activas y previstas de la NASA mueren en la petición presupuestaria de Trump",
-    "title_en": "Dozens of active and planned NASA spacecraft killed in Trump budget request",
-    "content_es": "La propuesta pondría fin a casi todas las nuevas grandes misiones científicas",
-    "content_en": "Proposal would end nearly all new major science missions"
-  },
-  {
-    "date": "2025-05-31",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source": "Science.org",
-    "url": "https://www.science.org/content/article/nih-funding-policy-deals-new-blow-hiv-related-trial-networks",
-    "title_es": "La política de financiación de los NIH asesta un nuevo golpe a las redes de ensayos relacionados con el VIH",
-    "title_en": "NIH funding policy deals new blow to HIV-related trial networks",
-    "content_es": "La interrupción de las \"subavenciones\" extranjeras interrumpe los estudios mundiales en curso y obliga a los investigadores a esforzarse por cumplir sus obligaciones éticas con los voluntarios de los ensayos.",
-    "content_en": "Halt to foreign “subawards” disrupts ongoing global studies and has researchers scrambling to fulfill ethical obligations to trial volunteers"
-  },
-  {
-    "date": "2025-05-31",
-    "category": "science",
-    "tags": [
-      "science"
-    ],
-    "source": "Science.org",
-    "url": "https://www.science.org/content/article/trump-officials-downplay-fake-citations-high-profile-report-children-s-health",
-    "title_es": "Las autoridades de Trump restan importancia a las citas falsas en un informe de alto nivel sobre la salud de los niños",
-    "title_en": "Trump officials downplay fake citations in high-profile report on children’s health",
-    "content_es": "Las referencias a estudios fantasma llegan tras la promesa de la Casa Blanca de practicar la ciencia \"de referencia\".",
-    "content_en": "References to phantom studies comes after White House pledge to practice “gold standard” science"
+    "title": "Differential Information: An Information-Theoretic Perspective on Preference Optimization",
+    "title_es": "Información diferencial: una perspectiva teórica de información sobre la optimización de preferencias",
+    "url": "http://arxiv.org/abs/2505.23761v1",
+    "date": "2025-05-29",
+    "source": "arXiv",
+    "content_es": "La optimización de preferencia directa (DPO) se ha convertido en una técnica estándar para\nAlinear modelos lingüísticos con preferencias humanas de manera supervisada. A pesar de\nSu éxito empírico, la justificación teórica detrás de su relación de registro\nLa parametrización de la recompensa sigue siendo incompleta. En este trabajo, abordamos esta brecha\nutilizando la distribución de información diferencial (DID): una distribución\nSobre secuencias de token que capturan la información obtenida durante la política\nactualizaciones. Primero, mostramos que cuando las etiquetas de preferencia codifican el diferencial\ninformación requerida para transformar una política de referencia en una política objetivo, el\nLa recompensa de ratio de registro en DPO emerge como la forma única óptima para aprender el\nPolítica objetivo a través de la optimización de preferencias. Este resultado naturalmente produce un\nExpresión de forma cerrada para la distribución de muestreo óptima sobre rechazada\nrespuestas. En segundo lugar, encontramos que la condición para las preferencias de codificar\nLa información diferencial está fundamentalmente vinculada a una suposición implícita\ncon respecto a las políticas ordenadas de registro de registro, un sesgo inductivo ampliamente utilizado en\nOptimización de preferencias pero previamente no reconocida. Finalmente, analizando el\nEntropía del DID, caracterizamos cómo aprender diferencial de baja entropía\nLa información refuerza la distribución de la política, mientras que el diferencial de alta entropía\nLa información induce un efecto de suavizado, que explica la probabilidad log\nFenómeno de desplazamiento. Validamos nuestros hallazgos teóricos en sintético\nExperimentos y extenderlos a conjuntos de datos de seguimiento de instrucciones del mundo real. Nuestro\nLos resultados sugieren que aprender información diferencial de alta entropía es crucial\nPara el seguimiento general de instrucciones, mientras aprende diferencial de baja entropía\nInformación beneficia a la respuesta de las preguntas intensivas en conocimiento. En general, nuestro trabajo\npresenta una perspectiva unificadora sobre el objetivo DPO, la estructura de\ndatos de preferencia y comportamientos políticos resultantes a través de la lente de\ninformación diferencial."
   }
 ]
