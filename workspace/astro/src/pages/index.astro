@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
 ---
 
 <Layout>
@@ -34,9 +34,9 @@ import Layout from '../layouts/Layout.astro';
       currentArticles.forEach(article => {
         const html = `
           <article class="bg-white rounded-xl p-4 shadow-md mb-4">
-            <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
+            <h3 class="text-xl font-semibold text-blue-900">${article.title_es || article.title}</h3>
             <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
-            <p class="text-gray-800">${article.content_es}</p>
+            <p class="text-gray-800">${article.content_es || article.summary}</p>
             <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
           </article>`;
         container.insertAdjacentHTML('beforeend', html);
@@ -46,11 +46,6 @@ import Layout from '../layouts/Layout.astro';
         button.classList.add('hidden');
       }
     }
-
-    button.addEventListener('click', renderPage);
-  </script>
-</Layout>
-
 
     button.addEventListener('click', renderPage);
   </script>
