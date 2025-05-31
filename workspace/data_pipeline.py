@@ -7,11 +7,10 @@ from datetime import datetime
 from typing import List, Dict
 from deepl import Translator
 
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY") or "b726ddbc-f08d-473d-9185-2426e635d218:fx"
 OUTPUT_PATH = "workspace/astro/public/articles.json"
 ARTICLES_PER_DAY = 5
 
-translator = Translator(DEEPL_API_KEY)
+translator = Translator("b726ddbc-f08d-473d-9185-2426e635d218:fx")
 
 def translate(text: str, target_lang: str) -> str:
     try:
@@ -26,36 +25,56 @@ def fetch_arxiv_articles() -> List[Dict]:
     for result in results.results():
         articles.append({
             "title": result.title,
-            "summary": result.summary,
-            "url": result.entry_id,
+            "content": result.summary,
             "date": result.published.strftime("%Y-%m-%d"),
-            "source": "arXiv"
+            "source": "arXiv",
+            "url": result.entry_id
         })
     print(f"Fetched {len(articles)} from arXiv")
     return articles
 
-def fetch_rss_articles(name: str, url: str, source: str) -> List[Dict]:
+def fetch_pubmed_articles() -> List[Dict]:
+    rss_url = "https://pubmed.ncbi.nlm.nih.gov/rss/search/1wE0ncbNN7B2jEXpOzPLuhzO3jQJz4kfbG7GxBFvXLbKbdRZcy/?limit=10"
     try:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(rss_url)
         articles = []
-        for entry in feed.entries[:5]:
+        for entry in feed.entries:
             articles.append({
                 "title": entry.title,
-                "summary": entry.summary,
-                "url": entry.link,
-                "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d") if hasattr(entry, "published_parsed") else datetime.now().strftime("%Y-%m-%d"),
-                "source": source
+                "content": entry.summary,
+                "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d"),
+                "source": "PubMed",
+                "url": entry.link
             })
-        print(f"Fetched {len(articles)} from {source}")
+        print(f"Fetched {len(articles)} from PubMed")
         return articles
     except Exception as e:
-        print(f"Error fetching from {source}: {e}")
+        print(f"Error fetching from PubMed: {e}")
         return []
 
+def fetch_rss_articles(source_name: str, url: str) -> List[Dict]:
+    feed = feedparser.parse(url)
+    articles = []
+    for entry in feed.entries[:5]:
+        articles.append({
+            "title": entry.title,
+            "content": entry.summary,
+            "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d") if hasattr(entry, "published_parsed") else datetime.now().strftime("%Y-%m-%d"),
+            "source": source_name,
+            "url": entry.link
+        })
+    print(f"Fetched {len(articles)} from {source_name}")
+    return articles
+
 def translate_article(article: Dict) -> Dict:
-    article["title"] = translate(article["title"], "ES")
-    article["summary"] = translate(article["summary"], "ES")
-    return article
+    return {
+        "title": article["title"],
+        "title_es": translate(article["title"], "ES"),
+        "content_es": translate(article["content"], "ES"),
+        "date": article["date"],
+        "source": article["source"],
+        "url": article["url"]
+    }
 
 def save_articles(articles: List[Dict]):
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
@@ -66,17 +85,14 @@ def save_articles(articles: List[Dict]):
 def main():
     all_articles = (
         fetch_arxiv_articles() +
-        fetch_rss_articles("Science RSS", "https://www.science.org/rss/news_current.xml", "Science.org") +
-        fetch_rss_articles("Nature RSS", "https://www.nature.com/nature.rss", "Nature")
+        fetch_pubmed_articles() +
+        fetch_rss_articles("Science.org", "https://www.science.org/rss/news_current.xml") +
+        fetch_rss_articles("Nature", "https://www.nature.com/nature.rss")
     )
     sorted_articles = sorted(all_articles, key=lambda x: x["date"], reverse=True)
     selected_articles = sorted_articles[:ARTICLES_PER_DAY]
     translated = [translate_article(article) for article in selected_articles]
     save_articles(translated)
-
-if __name__ == "__main__":
-    main()
-
 
 if __name__ == "__main__":
     main()
