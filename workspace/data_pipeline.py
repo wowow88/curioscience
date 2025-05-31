@@ -1,101 +1,109 @@
 import os
 import json
-import arxiv
 import requests
 import feedparser
-from datetime import datetime
-from typing import List, Dict
-from deepl import Translator
+import datetime
+from arxiv import Search, SortCriterion
+from deep_translator import DeeplTranslator
 
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
-translator = Translator(DEEPL_API_KEY)
+DEEPL_API_KEY = os.getenv('DEEPL_API_KEY')
 
-OUTPUT_PATH = "workspace/astro/public/articles.json"
-ARTICLES_PER_DAY = 5
-
-def translate(text: str, target_lang: str) -> str:
+def translate(text, target_lang='ES'):
+    if not text.strip():
+        return ""
     try:
-        return translator.translate_text(text, target_lang=target_lang).text
+        translated = DeeplTranslator(api_key=DEEPL_API_KEY, source="EN", target=target_lang).translate(text)
+        return translated
     except Exception as e:
         print(f"Translation error: {e}")
         return text
 
-def fetch_arxiv_articles() -> List[Dict]:
-    results = arxiv.Search(
-        query="cat:physics OR cat:cs.AI",
+def fetch_arxiv():
+    results = Search(
+        query="science OR technology",
         max_results=10,
-        sort_by=arxiv.SortCriterion.SubmittedDate
+        sort_by=SortCriterion.SubmittedDate
     )
     articles = []
     for result in results.results():
         articles.append({
             "title": result.title,
-            "content": result.summary,
-            "date": result.published.strftime("%Y-%m-%d"),
-            "category": result.primary_category,
-            "tags": result.categories,
+            "url": result.entry_id,
+            "date": result.updated.date().isoformat(),
             "source": "arXiv",
-            "url": result.entry_id
+            "summary": result.summary
         })
+    print(f"Fetched {len(articles)} from arXiv")
     return articles
 
-def fetch_pubmed_articles() -> List[Dict]:
-    rss_url = "https://pubmed.ncbi.nlm.nih.gov/rss/search/1wE0ncbNN7B2jEXpOzPLuhzO3jQJz4kfbG7GxBFvXLbKbdRZcy/?limit=10"
-    feed = feedparser.parse(rss_url)
-    articles = []
-    for entry in feed.entries:
-        articles.append({
-            "title": entry.title,
-            "content": entry.summary,
-            "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d"),
-            "category": "pubmed",
-            "tags": ["health", "medicine"],
-            "source": "PubMed",
-            "url": entry.link
-        })
-    return articles
+def fetch_pubmed():
+    try:
+        base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+        params = {
+            "db": "pubmed",
+            "term": "science AND 2025[PDAT]",
+            "retmode": "json",
+            "retmax": 5
+        }
+        ids = requests.get(base, params=params).json()["esearchresult"]["idlist"]
+        fetch_base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+        summaries = requests.get(fetch_base, params={
+            "db": "pubmed",
+            "id": ",".join(ids),
+            "retmode": "json"
+        }).json()["result"]
+        articles = []
+        for uid in ids:
+            item = summaries[uid]
+            articles.append({
+                "title": item["title"],
+                "url": f"https://pubmed.ncbi.nlm.nih.gov/{uid}/",
+                "date": datetime.datetime.today().date().isoformat(),
+                "source": "PubMed",
+                "summary": ""
+            })
+        print(f"Fetched {len(articles)} from PubMed")
+        return articles
+    except Exception as e:
+        print(f"Error fetching from PubMed: {e}")
+        return []
 
-def fetch_rss_articles(name: str, url: str, category: str) -> List[Dict]:
-    feed = feedparser.parse(url)
-    articles = []
-    for entry in feed.entries[:5]:
-        articles.append({
-            "title": entry.title,
-            "content": entry.summary,
-            "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d") if hasattr(entry, "published_parsed") else datetime.now().strftime("%Y-%m-%d"),
-            "category": category,
-            "tags": [category],
-            "source": name,
-            "url": entry.link
-        })
-    return articles
-
-def translate_article(article: Dict) -> Dict:
-    article["title_es"] = translate(article["title"], "ES")
-    article["title_en"] = translate(article["title"], "EN")
-    article["content_es"] = translate(article["content"], "ES")
-    article["content_en"] = translate(article["content"], "EN")
-    del article["title"]
-    del article["content"]
-    return article
-
-def save_articles(articles: List[Dict]):
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(articles, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(articles)} articles to {OUTPUT_PATH}")
+def fetch_rss(url, source, max_items=5):
+    try:
+        feed = feedparser.parse(url)
+        items = []
+        for entry in feed.entries[:max_items]:
+            items.append({
+                "title": entry.title,
+                "url": entry.link,
+                "date": datetime.datetime(*entry.published_parsed[:3]).isoformat() if entry.get("published_parsed") else datetime.datetime.today().date().isoformat(),
+                "source": source,
+                "summary": entry.get("summary", "")
+            })
+        print(f"Fetched {len(items)} from {source} RSS")
+        return items
+    except Exception as e:
+        print(f"Error fetching from {source} RSS: {e}")
+        return []
 
 def main():
-    all_articles = (
-        fetch_arxiv_articles() +
-        fetch_pubmed_articles() +
-        fetch_rss_articles("Science.org", "https://www.science.org/rss/news_current.xml", "science") +
-        fetch_rss_articles("Nature", "https://www.nature.com/nature.rss", "nature")
-    )
-    sorted_articles = sorted(all_articles, key=lambda x: x["date"], reverse=True)
-    selected = sorted_articles[:ARTICLES_PER_DAY]
-    translated = [translate_article(article) for article in selected]
-    save_articles(translated)
+    articles = []
+    articles += fetch_arxiv()
+    articles += fetch_pubmed()
+    articles += fetch_rss("https://www.sciencemag.org/rss/news_current.xml", "Science.org")
+    articles += fetch_rss("https://www.nature.com/nature.rss", "Nature")
+
+    latest = sorted(articles, key=lambda x: x["date"], reverse=True)[:10]
+    translated = []
+    for a in latest:
+        a["title_es"] = translate(a["title"], "ES")
+        a["content_es"] = translate(a.get("summary", ""), "ES")
+        translated.append(a)
+
+    out_path = "workspace/astro/public/articles.json"
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(translated, f, ensure_ascii=False, indent=2)
+    print(f"Artículos actualizados: {len(translated)}\nSaved to {out_path}")
 
 if __name__ == "__main__":
     main()
