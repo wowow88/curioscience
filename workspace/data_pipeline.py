@@ -1,89 +1,73 @@
+import os
 import json
 import requests
 import feedparser
-import arxiv
-import datetime
-import os
-from deepl import Translator
+import deepl
+from datetime import datetime
+from arxiv import Search
 
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
-translator = Translator(DEEPL_API_KEY)
+DEEPL_KEY = os.getenv("DEEPL_API_KEY")
 
-today = datetime.date.today().isoformat()
-
-def translate(text, target_lang='ES'):
+def translate(text, target_lang="ES"):
+    if not text.strip():
+        return ""
     try:
+        translator = deepl.Translator(DEEPL_KEY)
         result = translator.translate_text(text, target_lang=target_lang)
         return result.text
     except Exception as e:
-        print(f"Error translating: {e}")
+        print("DeepL translation error:", e)
         return text
 
 def fetch_arxiv():
+    results = Search(query="cat:cs.AI", max_results=10, sort_by="submittedDate").results()
     articles = []
-    search = arxiv.Search(
-        query="cat:cs.AI OR cat:physics.gen-ph",
-        max_results=5,
-        sort_by=arxiv.SortCriterion.SubmittedDate
-    )
-    for result in search.results():
+    for result in results:
+        title = result.title
+        summary = result.summary
+        url = result.entry_id
+        date = result.published.date().isoformat()
         articles.append({
-            "title": result.title,
-            "summary": result.summary,
-            "url": result.entry_id,
-            "date": result.published.date().isoformat(),
+            "title": title,
+            "title_es": translate(title),
+            "content": summary,
+            "content_es": translate(summary),
+            "url": url,
+            "date": date,
             "source": "arXiv"
         })
-    print(f"Fetched {len(articles)} from arXiv")
     return articles
 
-def fetch_rss(url, source):
+def fetch_rss(url, source_name):
+    feed = feedparser.parse(url)
     articles = []
-    try:
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:5]:
-            articles.append({
-                "title": entry.title,
-                "summary": entry.get("summary", ""),
-                "url": entry.link,
-                "date": today,
-                "source": source
-            })
-    except Exception as e:
-        print(f"Error fetching from {source}: {e}")
-    print(f"Fetched {len(articles)} from {source} RSS")
-    return articles
-
-def process_articles(raw_articles):
-    processed = []
-    for art in raw_articles:
-        translated_title = translate(art["title"])
-        translated_summary = translate(art["summary"])
-        processed.append({
-            "title": art["title"],
-            "summary": art["summary"],
-            "title_es": translated_title,
-            "content_es": translated_summary,
-            "url": art["url"],
-            "date": art["date"],
-            "source": art["source"]
+    for entry in feed.entries[:5]:
+        title = entry.title
+        summary = entry.get("summary", "")
+        link = entry.link
+        date = entry.get("published", "")[:10]
+        articles.append({
+            "title": title,
+            "title_es": translate(title),
+            "content": summary,
+            "content_es": translate(summary),
+            "url": link,
+            "date": date,
+            "source": source_name
         })
-    return processed
+    return articles
 
 if __name__ == "__main__":
-    arxiv_articles = fetch_arxiv()
-    science_articles = fetch_rss("https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", "Science.org")
-    nature_articles = fetch_rss("https://www.nature.com/nature.rss", "Nature")
+    all_articles = []
+    all_articles += fetch_arxiv()
+    all_articles += fetch_rss("https://www.sciencemag.org/rss/news_current.xml", "Science")
+    all_articles += fetch_rss("https://www.nature.com/nature.rss", "Nature")
 
-    all_raw_articles = arxiv_articles + science_articles + nature_articles
-    final_articles = process_articles(all_raw_articles)
-
-    output_path = "workspace/astro/public/articles.json"
-    with open(output_path, "w") as f:
-        json.dump(final_articles, f, indent=2, ensure_ascii=False)
-    
-    print(f"Artículos actualizados: {len(final_articles)}")
-    print(f"Saved {len(final_articles)} articles to {output_path}")
+    # Guardar en public
+    os.makedirs("workspace/astro/public", exist_ok=True)
+    with open("workspace/astro/public/articles.json", "w") as f:
+        json.dump(all_articles, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(all_articles)} articles to workspace/astro/public/articles.json")
 
 
 if __name__ == "__main__":
