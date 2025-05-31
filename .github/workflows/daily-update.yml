@@ -36,6 +36,10 @@ jobs:
       - name: Install dependencies (workspace/astro)
         working-directory: workspace/astro
         run: npm install --legacy-peer-deps
+        
+      - name: Install missing Astro plugins
+        working-directory: workspace/astro
+        run: npm install @astrojs/sitemap
 
       - name: Build Astro site
         working-directory: workspace/astro
