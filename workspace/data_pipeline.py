@@ -31,20 +31,25 @@ def fetch_arxiv():
     print("Fetched from arXiv:", len(articles))
     return articles
 
-def fetch_rss(source_name, rss_url):
-    print(f"Fetching from {source_name} RSS...")
-    feed = feedparser.parse(rss_url)
+def fetch_rss(source_name, url):
     articles = []
+    feed = feedparser.parse(url)
     for entry in feed.entries[:5]:
-        date = datetime.now().date().isoformat()
-        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        try:
             date = datetime(*entry.published_parsed[:6]).date().isoformat()
-        articles.append({
+        except AttributeError:
+            date = datetime.now().date().isoformat()
+        article = {
             "title": entry.title,
             "url": entry.link,
             "date": date,
             "source": source_name,
-            "summary": entry.get("summary", "")
+            "summary": BeautifulSoup(entry.get("summary", ""), "html.parser").get_text()
+        }
+        articles.append(article)
+    print(f"Fetched from {source_name} RSS:", len(articles))
+    return articles
+
         })
     print(f"Fetched {len(articles)} from {source_name}")
     return articles
