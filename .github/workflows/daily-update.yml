@@ -1,76 +1,52 @@
-import json
-import requests
-import feedparser
-from bs4 import BeautifulSoup
-from datetime import datetime
-from deep_translator import GoogleTranslator
-from arxiv import Search, SortCriterion
+name: Daily Update and Deploy
 
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
-def fetch_arxiv():
-    results = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate).results()
-    articles = []
-    for result in results:
-        articles.append({
-            "title": result.title,
-            "url": result.entry_id,
-            "date": result.published.date().isoformat(),
-            "source": "arXiv",
-            "summary": result.summary
-        })
-    print("Fetched from arXiv:", len(articles))
-    return articles
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
 
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
-def fetch_rss(source_name, url):
-    articles = []
-    feed = feedparser.parse(url)
-    for entry in feed.entries[:5]:
-        try:
-            date = datetime(*entry.published_parsed[:6]).date().isoformat()
-        except AttributeError:
-            date = datetime.now().date().isoformat()
-        article = {
-            "title": entry.title,
-            "url": entry.link,
-            "date": date,
-            "source": source_name,
-            "summary": BeautifulSoup(entry.get("summary", ""), "html.parser").get_text()
-        }
-        articles.append(article)
-    print(f"Fetched from {source_name} RSS:", len(articles))
-    return articles
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
+      - name: Install Python dependencies
+        run: pip install arxiv requests feedparser deepl beautifulsoup4 deep-translator
 
-def translate_article(article):
-    translator = GoogleTranslator(source='auto', target='es')
-    translated = {
-        "title": article["title"],
-        "title_es": translator.translate(article["title"]),
-        "url": article["url"],
-        "date": article["date"],
-        "source": article["source"],
-        "content_es": translator.translate(article.get("summary", ""))
-    }
-    return translated
+      - name: Run data pipeline
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: python workspace/data_pipeline.py
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
-def main():
-    all_articles = []
-    all_articles += fetch_arxiv()
-    all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
-    all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
+      - name: Install dependencies
+        working-directory: workspace/astro
+        run: npm install --legacy-peer-deps
 
-    translated_articles = [translate_article(article) for article in all_articles[:3]]
-    print("Artículos actualizados:", len(translated_articles))
+      - name: Build Astro site
+        working-directory: workspace/astro
+        run: npm run build
 
-    with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
-        json.dump(translated_articles, f, ensure_ascii=False, indent=2)
-    print("Saved", len(translated_articles), "articles to workspace/astro/public/articles.json")
-
-
-if __name__ == "__main__":
-    main()
-
-
-
+      - name: Commit and push updated articles
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add workspace/astro/public/articles.json
+          git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
