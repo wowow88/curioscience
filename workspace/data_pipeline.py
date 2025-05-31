@@ -61,7 +61,7 @@ def main():
     all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
     all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
 
-    translated_articles = [translate_article(article) for article in all_articles[:3]]
+    translated_articles = [translate_article(article) for article in all_articles]
     print("Artículos actualizados:", len(translated_articles))
 
     with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
