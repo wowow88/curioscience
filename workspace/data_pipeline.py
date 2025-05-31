@@ -1,35 +1,26 @@
 import json
-import os
 import requests
 import feedparser
-from datetime import datetime
-from arxiv import Search, SortCriterion
 from bs4 import BeautifulSoup
+from datetime import datetime
 from deep_translator import GoogleTranslator
+from arxiv import Search, SortCriterion
 
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
-
-def translate(text, target_lang='ES'):
-    try:
-        return GoogleTranslator(source='auto', target=target_lang.lower()).translate(text)
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return text
 
 def fetch_arxiv():
-    articles = []
     results = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate).results()
+    articles = []
     for result in results:
-        article = {
+        articles.append({
             "title": result.title,
             "url": result.entry_id,
             "date": result.published.date().isoformat(),
             "source": "arXiv",
             "summary": result.summary
-        }
-        articles.append(article)
+        })
     print("Fetched from arXiv:", len(articles))
     return articles
+
 
 def fetch_rss(source_name, url):
     articles = []
@@ -50,30 +41,37 @@ def fetch_rss(source_name, url):
     print(f"Fetched from {source_name} RSS:", len(articles))
     return articles
 
-        })
-    print(f"Fetched {len(articles)} from {source_name}")
-    return articles
+
+def translate_article(article):
+    translator = GoogleTranslator(source='auto', target='es')
+    translated = {
+        "title": article["title"],
+        "title_es": translator.translate(article["title"]),
+        "url": article["url"],
+        "date": article["date"],
+        "source": article["source"],
+        "content_es": translator.translate(article.get("summary", ""))
+    }
+    return translated
 
 
 def main():
     all_articles = []
     all_articles += fetch_arxiv()
     all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
-    all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=article.rss")
+    all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
 
-    for article in all_articles:
-        article["title_es"] = translate(article["title"], "es")
-        article["summary_es"] = translate(article["summary"], "es")
+    translated_articles = [translate_article(article) for article in all_articles[:3]]
+    print("Artículos actualizados:", len(translated_articles))
 
-    output_path = "workspace/astro/public/articles.json"
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(all_articles, f, ensure_ascii=False, indent=2)
+    with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
+        json.dump(translated_articles, f, ensure_ascii=False, indent=2)
+    print("Saved", len(translated_articles), "articles to workspace/astro/public/articles.json")
 
-    print(f"Saved {len(all_articles)} articles to {output_path}")
 
 if __name__ == "__main__":
     main()
+
 
 
 if __name__ == "__main__":
