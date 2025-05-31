@@ -78,45 +78,5 @@
     "date": "2025-05-29",
     "source": "arXiv",
     "content_es": "Redes neuronales profundas (DNN) a menudo de bajo rendimiento en el mundo real, dinámica\nConfiguración donde las distribuciones de datos cambian con el tiempo. Aprendizaje incremental del dominio\n(Dil) ofrece una solución al habilitar la adaptación continua del modelo, con\nParámetro-isolación Dil (pidil) que emerge como un paradigma prometedor para reducir\nConflictos de conocimiento. Sin embargo, los métodos de pidil existentes luchan con el parámetro\nprecisión de selección, especialmente como el número de dominios y correspondientes\nLas clases crecen. Para abordar esto, proponemos soyo, un marco liviano que\nMejora la selección del dominio en Pidil. Soyo presenta una mezcla gaussiana\nCompresor (GMC) y característica de dominio RESAMPLER (DFR) para almacenar y equilibrar antes\nDatos de dominio de manera eficiente, mientras que una red de fusión de funciones de dominio múltiple\n(MDFN) mejora la extracción de características del dominio. Nuestro marco admite múltiples\nMétodos de ajuste fino (PEFT) de parámetros y se valida en todas las tareas\ncomo la clasificación de imágenes, la detección de objetos y la mejora del habla.\nLos resultados experimentales en seis puntos de referencia demuestran el consistente\nsuperioridad sobre las líneas de base existentes, mostrando su robustez y adaptabilidad\nen entornos complejos y en evolución. Los códigos se lanzarán en\nhttps://github.com/qwangcv/soyo."
-  },
-  {
-    "title": "Final NSF budget proposal jettisons one giant telescope amid savage agencywide cuts",
-    "title_es": "Propuesta final del presupuesto de NSF Jettisons Un telescopio gigante en medio de los recortes de agencia salvaje",
-    "url": "https://www.science.org/content/article/final-nsf-budget-proposal-jettisons-one-giant-telescope-amid-savage-agencywide-cuts",
-    "date": "2025-05-31",
-    "source": "Science.org",
-    "content_es": "El recorte propuesto por el 57% de Trump a la agencia eliminaría las tasas de éxito de las subvenciones al 7% y la educación intestinal y la capacitación"
-  },
-  {
-    "title": "‘Devastating.’ NIH cancels future funding plans for HIV vaccine consortia",
-    "title_es": "\"Devastador\". NIH cancela planes de financiación futuros para consorcios de vacunas contra el VIH",
-    "url": "https://www.science.org/content/article/devasting-nih-cancels-future-funding-plans-hiv-vaccine-consortia",
-    "date": "2025-05-31",
-    "source": "Science.org",
-    "content_es": "Los investigadores denuncian la decisión de la agencia justo cuando los nuevos leads revitalizan la búsqueda de vacunas a la larga"
-  },
-  {
-    "title": "Dozens of active and planned NASA spacecraft killed in Trump budget request",
-    "title_es": "Docenas de naves espaciales activas y planificadas de la NASA asesinadas en la solicitud de presupuesto de Trump",
-    "url": "https://www.science.org/content/article/dozens-active-and-planned-nasa-spacecraft-killed-trump-budget-request",
-    "date": "2025-05-31",
-    "source": "Science.org",
-    "content_es": "La propuesta terminaría casi todas las nuevas misiones científicas importantes"
-  },
-  {
-    "title": "NIH funding policy deals new blow to HIV-related trial networks",
-    "title_es": "La política de financiación de NIH ofrece un nuevo golpe a las redes de prueba relacionadas con el VIH",
-    "url": "https://www.science.org/content/article/nih-funding-policy-deals-new-blow-hiv-related-trial-networks",
-    "date": "2025-05-31",
-    "source": "Science.org",
-    "content_es": "Detenerse a los \"subawards\" extranjeros interrumpe los estudios globales en curso y tiene investigadores luchando para cumplir con las obligaciones éticas con los voluntarios de los juicios"
-  },
-  {
-    "title": "Trump officials downplay fake citations in high-profile report on children’s health",
-    "title_es": "Los funcionarios de Trump minimizan las citas falsas en el informe de alto perfil sobre la salud de los niños",
-    "url": "https://www.science.org/content/article/trump-officials-downplay-fake-citations-high-profile-report-children-s-health",
-    "date": "2025-05-31",
-    "source": "Science.org",
-    "content_es": "Las referencias a los estudios fantasmas se producen después de la compromiso de la Casa Blanca para practicar la ciencia \"estándar de oro\""
   }
 ]
