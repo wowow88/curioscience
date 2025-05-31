@@ -1,7 +1,7 @@
-// scripts/fetch-articles.js
 import fs from 'fs';
 import fetch from 'node-fetch';
 import Parser from 'rss-parser';
+
 const parser = new Parser();
 
 const SOURCES = [
@@ -54,7 +54,6 @@ async function fetchArticles() {
   }
 
   const merged = [...allArticles, ...existing.filter(a => a.date !== today)];
-  fs.mkdirSync('./workspace/data', { recursive: true });
   fs.writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2));
   console.log('Artículos actualizados:', merged.length);
 }
