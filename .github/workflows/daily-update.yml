@@ -33,13 +33,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies (workspace/astro)
+      - name: Install dependencies in Astro workspace
         working-directory: workspace/astro
-        run: npm install --legacy-peer-deps
-
-      - name: Install missing Astro plugins
-        working-directory: workspace/astro
-        run: npm install @astrojs/sitemap
+        run: |
+          npm install --legacy-peer-deps
+          npm install @astrojs/sitemap
 
       - name: Build Astro site
         working-directory: workspace/astro
@@ -55,5 +53,3 @@ jobs:
           git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
 
-          git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
