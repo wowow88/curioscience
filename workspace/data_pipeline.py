@@ -6,7 +6,6 @@ from datetime import datetime
 from deep_translator import GoogleTranslator
 from arxiv import Search, SortCriterion
 
-
 def fetch_arxiv():
     results = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate).results()
     articles = []
@@ -20,7 +19,6 @@ def fetch_arxiv():
         })
     print("Fetched from arXiv:", len(articles))
     return articles
-
 
 def fetch_rss(source_name, url):
     articles = []
@@ -40,7 +38,6 @@ def fetch_rss(source_name, url):
         articles.append(article)
     print(f"Fetched from {source_name} RSS:", len(articles))
     return articles
-
 
 def translate_article(article):
     if article["source"] in ["arXiv", "Science.org", "Nature"]:
@@ -63,7 +60,6 @@ def translate_article(article):
             "content_es": article.get("summary", "")
         }
 
-
 def main():
     all_articles = []
     all_articles += fetch_arxiv()
@@ -76,14 +72,20 @@ def main():
     all_articles += fetch_rss("IEO", "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss")
     all_articles += fetch_rss("IAC", "https://www.iac.es/en/rss.xml")
 
-    translated_articles = [translate_article(article) for article in all_articles]
+    # Eliminar duplicados por URL
+    unique_articles = {}
+    for article in all_articles:
+        if article["url"] not in unique_articles:
+            unique_articles[article["url"]] = article
+
+    translated_articles = [translate_article(article) for article in unique_articles.values()]
     print("Artículos actualizados:", len(translated_articles))
 
     with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
         json.dump(translated_articles, f, ensure_ascii=False, indent=2)
     print("Saved", len(translated_articles), "articles to workspace/astro/public/articles.json")
 
-
 if __name__ == "__main__":
     main()
+
 
