@@ -1,54 +1,101 @@
-name: Daily Update and Deploy
+import os
+import json
+import arxiv
+import requests
+import feedparser
+from datetime import datetime
+from typing import List, Dict
+from deepl import Translator
 
-on:
-  schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
+translator = Translator(DEEPL_API_KEY)
 
-jobs:
-  update-and-deploy:
-    runs-on: ubuntu-latest
+OUTPUT_PATH = "workspace/astro/public/articles.json"
+ARTICLES_PER_DAY = 5
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+def translate(text: str, target_lang: str) -> str:
+    try:
+        return translator.translate_text(text, target_lang=target_lang).text
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return text
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+def fetch_arxiv_articles() -> List[Dict]:
+    results = arxiv.Search(
+        query="cat:physics OR cat:cs.AI",
+        max_results=10,
+        sort_by=arxiv.SortCriterion.SubmittedDate
+    )
+    articles = []
+    for result in results.results():
+        articles.append({
+            "title": result.title,
+            "content": result.summary,
+            "date": result.published.strftime("%Y-%m-%d"),
+            "category": result.primary_category,
+            "tags": result.categories,
+            "source": "arXiv",
+            "url": result.entry_id
+        })
+    return articles
 
-      - name: Install Python dependencies
-        run: pip install arxiv requests feedparser deepl
+def fetch_pubmed_articles() -> List[Dict]:
+    rss_url = "https://pubmed.ncbi.nlm.nih.gov/rss/search/1wE0ncbNN7B2jEXpOzPLuhzO3jQJz4kfbG7GxBFvXLbKbdRZcy/?limit=10"
+    feed = feedparser.parse(rss_url)
+    articles = []
+    for entry in feed.entries:
+        articles.append({
+            "title": entry.title,
+            "content": entry.summary,
+            "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d"),
+            "category": "pubmed",
+            "tags": ["health", "medicine"],
+            "source": "PubMed",
+            "url": entry.link
+        })
+    return articles
 
-      - name: Run data pipeline
-        env:
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python workspace/data_pipeline.py
+def fetch_rss_articles(name: str, url: str, category: str) -> List[Dict]:
+    feed = feedparser.parse(url)
+    articles = []
+    for entry in feed.entries[:5]:
+        articles.append({
+            "title": entry.title,
+            "content": entry.summary,
+            "date": datetime(*entry.published_parsed[:3]).strftime("%Y-%m-%d") if hasattr(entry, "published_parsed") else datetime.now().strftime("%Y-%m-%d"),
+            "category": category,
+            "tags": [category],
+            "source": name,
+            "url": entry.link
+        })
+    return articles
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+def translate_article(article: Dict) -> Dict:
+    article["title_es"] = translate(article["title"], "ES")
+    article["title_en"] = translate(article["title"], "EN")
+    article["content_es"] = translate(article["content"], "ES")
+    article["content_en"] = translate(article["content"], "EN")
+    del article["title"]
+    del article["content"]
+    return article
 
-      - name: Install Node.js dependencies
-        run: npm install
+def save_articles(articles: List[Dict]):
+    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(articles, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(articles)} articles to {OUTPUT_PATH}")
 
-      - name: Run article fetch script
-        run: node scripts/fetch-articles.js
+def main():
+    all_articles = (
+        fetch_arxiv_articles() +
+        fetch_pubmed_articles() +
+        fetch_rss_articles("Science.org", "https://www.science.org/rss/news_current.xml", "science") +
+        fetch_rss_articles("Nature", "https://www.nature.com/nature.rss", "nature")
+    )
+    sorted_articles = sorted(all_articles, key=lambda x: x["date"], reverse=True)
+    selected = sorted_articles[:ARTICLES_PER_DAY]
+    translated = [translate_article(article) for article in selected]
+    save_articles(translated)
 
-      - name: Build Astro site
-        run: npm run build
-
-      - name: Commit and push updated articles
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add workspace/astro/public/articles.json
-          git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-
+if __name__ == "__main__":
+    main()
