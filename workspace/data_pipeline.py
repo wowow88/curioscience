@@ -1,73 +1,70 @@
-import os
 import json
+import os
 import requests
 import feedparser
-import deepl
 from datetime import datetime
-from arxiv import Search
+from arxiv import Search, SortCriterion
+from bs4 import BeautifulSoup
+from deep_translator import GoogleTranslator
 
-DEEPL_KEY = os.getenv("DEEPL_API_KEY")
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 
-def translate(text, target_lang="ES"):
-    if not text.strip():
-        return ""
+def translate(text, target_lang='ES'):
     try:
-        translator = deepl.Translator(DEEPL_KEY)
-        result = translator.translate_text(text, target_lang=target_lang)
-        return result.text
+        return GoogleTranslator(source='auto', target=target_lang.lower()).translate(text)
     except Exception as e:
-        print("DeepL translation error:", e)
+        print(f"Translation error: {e}")
         return text
 
 def fetch_arxiv():
-    results = Search(query="cat:cs.AI", max_results=10, sort_by="submittedDate").results()
     articles = []
+    results = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate).results()
     for result in results:
-        title = result.title
-        summary = result.summary
-        url = result.entry_id
-        date = result.published.date().isoformat()
-        articles.append({
-            "title": title,
-            "title_es": translate(title),
-            "content": summary,
-            "content_es": translate(summary),
-            "url": url,
-            "date": date,
-            "source": "arXiv"
-        })
+        article = {
+            "title": result.title,
+            "url": result.entry_id,
+            "date": result.published.date().isoformat(),
+            "source": "arXiv",
+            "summary": result.summary
+        }
+        articles.append(article)
+    print("Fetched from arXiv:", len(articles))
     return articles
 
-def fetch_rss(url, source_name):
-    feed = feedparser.parse(url)
+def fetch_rss(source_name, url):
     articles = []
+    feed = feedparser.parse(url)
     for entry in feed.entries[:5]:
-        title = entry.title
-        summary = entry.get("summary", "")
-        link = entry.link
-        date = entry.get("published", "")[:10]
-        articles.append({
-            "title": title,
-            "title_es": translate(title),
-            "content": summary,
-            "content_es": translate(summary),
-            "url": link,
-            "date": date,
-            "source": source_name
-        })
+        article = {
+            "title": entry.title,
+            "url": entry.link,
+            "date": datetime(*entry.published_parsed[:6]).date().isoformat(),
+            "source": source_name,
+            "summary": BeautifulSoup(entry.get("summary", ""), "html.parser").get_text()
+        }
+        articles.append(article)
+    print(f"Fetched from {source_name} RSS:", len(articles))
     return articles
 
-if __name__ == "__main__":
+def main():
     all_articles = []
     all_articles += fetch_arxiv()
-    all_articles += fetch_rss("https://www.sciencemag.org/rss/news_current.xml", "Science")
-    all_articles += fetch_rss("https://www.nature.com/nature.rss", "Nature")
+    all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
+    all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=article.rss")
 
-    # Guardar en public
-    os.makedirs("workspace/astro/public", exist_ok=True)
-    with open("workspace/astro/public/articles.json", "w") as f:
-        json.dump(all_articles, f, indent=2, ensure_ascii=False)
-    print(f"Saved {len(all_articles)} articles to workspace/astro/public/articles.json")
+    for article in all_articles:
+        article["title_es"] = translate(article["title"], "es")
+        article["summary_es"] = translate(article["summary"], "es")
+
+    output_path = "workspace/astro/public/articles.json"
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(all_articles, f, ensure_ascii=False, indent=2)
+
+    print(f"Saved {len(all_articles)} articles to {output_path}")
+
+if __name__ == "__main__":
+    main()
 
 
 if __name__ == "__main__":
