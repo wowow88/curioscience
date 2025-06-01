@@ -1,7 +1,7 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 import Parser from 'rss-parser';
-import franc from 'franc';
+import { franc } from 'franc';
 
 const parser = new Parser();
 
@@ -25,7 +25,7 @@ const SOURCES = [
 ];
 
 const today = new Date().toISOString().split('T')[0];
-const DATA_PATH = './workspace/astro/public/articles.json';
+const DATA_PATH = './workspace/astro/public/articles_js.json';
 fs.mkdirSync('./workspace/astro/public', { recursive: true });
 
 function truncate(text, max = 350) {
@@ -56,15 +56,12 @@ async function fetchArticles() {
     }
   }
 
-  let existing = [];
-  if (fs.existsSync(DATA_PATH)) {
-    existing = JSON.parse(fs.readFileSync(DATA_PATH));
-  }
+  fs.writeFileSync(DATA_PATH, JSON.stringify(allArticles, null, 2));
+  console.log(`Saved ${allArticles.length} articles to ${DATA_PATH}`);
+}
 
-  const merged = [...allArticles, ...existing.filter(a => a.date !== today)];
-  merged.sort((a, b) => new Date(b.date) - new Date(a.date));
-  fs.writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2));
-  console.log(`Saved ${merged.length} articles.`);
+fetchArticles();
+
 }
 
 fetchArticles();
