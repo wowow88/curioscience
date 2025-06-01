@@ -23,7 +23,7 @@ jobs:
       - name: Install Python dependencies
         run: pip install arxiv requests feedparser beautifulsoup4 deep-translator
 
-      - name: Run data pipeline
+      - name: Run data pipeline (Python)
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python workspace/data_pipeline.py
@@ -33,7 +33,16 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies (workspace/astro)
+      - name: Install JS dependencies
+        run: npm install rss-parser node-fetch franc
+
+      - name: Fetch articles (JavaScript)
+        run: node scripts/fetch-articles.js
+
+      - name: Merge article sources
+        run: node scripts/merge-articles.js
+
+      - name: Install dependencies (Astro site)
         working-directory: workspace/astro
         run: npm install --legacy-peer-deps
 
@@ -50,4 +59,3 @@ jobs:
           git add workspace/astro/public/articles.json
           git commit -m "Auto-update articles.json [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-
