@@ -1,6 +1,7 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 import Parser from 'rss-parser';
+import franc from 'franc';
 
 const parser = new Parser();
 
@@ -27,6 +28,10 @@ const today = new Date().toISOString().split('T')[0];
 const DATA_PATH = './workspace/astro/public/articles.json';
 fs.mkdirSync('./workspace/astro/public', { recursive: true });
 
+function truncate(text, max = 350) {
+  return text.length > max ? text.slice(0, max) + '…' : text;
+}
+
 async function fetchArticles() {
   let allArticles = [];
 
@@ -35,12 +40,15 @@ async function fetchArticles() {
       const feed = await parser.parseURL(source.url);
       const entry = feed.items[0];
       if (entry) {
+        const lang = franc(entry.title || entry.contentSnippet || '');
+        if (lang === 'spa') continue; // Ignorar artículos ya en español
+
         allArticles.push({
           title: entry.title,
           url: entry.link,
           date: today,
           source: source.name,
-          summary: entry.contentSnippet || '',
+          summary: truncate(entry.contentSnippet || ''),
         });
       }
     } catch (e) {
@@ -54,9 +62,9 @@ async function fetchArticles() {
   }
 
   const merged = [...allArticles, ...existing.filter(a => a.date !== today)];
+  merged.sort((a, b) => new Date(b.date) - new Date(a.date));
   fs.writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2));
-  console.log('Artículos actualizados:', merged.length);
+  console.log(`Saved ${merged.length} articles.`);
 }
 
 fetchArticles();
-
