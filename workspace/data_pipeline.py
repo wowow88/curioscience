@@ -40,6 +40,8 @@ def fetch_rss(source_name, url):
     return articles
 
 def translate_article(article):
+    spanish_sources = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
+    
     if article["source"] in ["arXiv", "Science.org", "Nature"]:
         translator = GoogleTranslator(source='auto', target='es')
         return {
@@ -48,7 +50,16 @@ def translate_article(article):
             "url": article["url"],
             "date": article["date"],
             "source": article["source"],
-            "content_es": translator.translate(article.get("summary", ""))
+            "content_es": translator.translate(article.get("summary", ""))  # Mostrar resumen traducido
+        }
+    elif article["source"] in spanish_sources:
+        return {
+            "title": article["title"],
+            "title_es": article["title"],
+            "url": article["url"],
+            "date": article["date"],
+            "source": article["source"],
+            "content_es": ""  # Sin resumen, ya está en español
         }
     else:
         return {
@@ -58,6 +69,8 @@ def translate_article(article):
             "date": article["date"],
             "source": article["source"],
             "content_es": article.get("summary", "")
+        }
+
         }
 
 def main():
