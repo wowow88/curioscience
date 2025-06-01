@@ -41,7 +41,7 @@ async function fetchArticles() {
       const entry = feed.items[0];
       if (entry) {
         const lang = franc(entry.title || entry.contentSnippet || '');
-        if (lang === 'spa') continue; // Ignorar artículos ya en español
+        if (lang === 'spa') continue;
 
         allArticles.push({
           title: entry.title,
