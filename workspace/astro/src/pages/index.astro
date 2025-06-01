@@ -37,20 +37,23 @@ import Layout from '../layouts/Layout.astro';
       const currentArticles = allArticles.slice(start, end);
       currentArticles.forEach(article => {
         const summary = truncate(article.content_es || '', 350);
-        const html = `
-          <article class="bg-white rounded-xl p-4 shadow-md mb-4">
-            <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
-            <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
-            <p class="text-gray-800">${summary}</p>
-            <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
-          </article>`;
-        container.insertAdjacentHTML('beforeend', html);
-      });
-      currentPage++;
-      if ((currentPage - 1) * perPage >= allArticles.length) {
-        button.classList.add('hidden');
-      }
-    }
+        const isSpanishSource = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"].includes(article.source);
+
+      const html = `
+        <article class="bg-white rounded-xl p-4 shadow-md mb-4">
+          <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
+          <p class="text-gray-600 text-sm mb-2">${article.source}${!isSpanishSource ? ' | ' + new Date(article.date).toLocaleDateString() : ''}</p>
+          ${!isSpanishSource && summary ? `<p class="text-gray-800">${summary}</p>` : ''}
+          <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
+        </article>`;
+      container.insertAdjacentHTML('beforeend', html);
+    });
+    currentPage++;
+    if ((currentPage - 1) * perPage >= allArticles.length) {
+      button.classList.add('hidden');
+  }
+}
+
 
     button.addEventListener('click', renderPage);
   </script>
