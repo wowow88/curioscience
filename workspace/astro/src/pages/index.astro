@@ -3,6 +3,14 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout>
+  <section class="mb-6 p-4 bg-gray-50 rounded-xl text-sm text-gray-700">
+    <p>
+      Esta sección presenta noticias científicas actualizadas a diario, recopiladas automáticamente desde fuentes fiables como 
+      <strong>arXiv</strong>, <strong>Nature</strong>, <strong>Science.org</strong>, <strong>PubMed</strong> y medios científicos en español como 
+      <strong>CNIO</strong>, <strong>CNIC</strong>, <strong>AEMET</strong>, <strong>IAC</strong> e <strong>ISCIII</strong>.
+    </p>
+  </section>
+
   <h2 class="text-2xl font-bold mb-4">Últimos artículos</h2>
   <div id="articles" class="space-y-6"></div>
 
@@ -22,7 +30,6 @@ import Layout from '../layouts/Layout.astro';
     fetch('/articles.json')
       .then(res => res.json())
       .then(data => {
-        // Ordenar por fecha descendente
         allArticles = data.sort((a, b) => new Date(b.date) - new Date(a.date));
         renderPage();
         if (data.length > perPage) button.classList.remove('hidden');
@@ -52,5 +59,6 @@ import Layout from '../layouts/Layout.astro';
     button.addEventListener('click', renderPage);
   </script>
 </Layout>
+
 
 
