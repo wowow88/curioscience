@@ -22,28 +22,25 @@ import Layout from '../layouts/Layout.astro';
     fetch('/articles.json')
       .then(res => res.json())
       .then(data => {
+        // Ordenar por fecha descendente
         allArticles = data.sort((a, b) => new Date(b.date) - new Date(a.date));
         renderPage();
-        if (allArticles.length > perPage) button.classList.remove('hidden');
+        if (data.length > perPage) button.classList.remove('hidden');
       });
-
-    function truncate(text, maxLength) {
-      return text.length > maxLength ? text.substring(0, maxLength).trim() + '…' : text;
-    }
 
     function renderPage() {
       const start = (currentPage - 1) * perPage;
       const end = start + perPage;
       const currentArticles = allArticles.slice(start, end);
       currentArticles.forEach(article => {
-        const summary = truncate(article.content_es || '', 350);
+        const hasContent = article.content_es && article.content_es.trim() !== "";
         const html = `
-        <article class="bg-white rounded-xl p-4 shadow-md mb-4">
-          <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
-          <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
-          ${summary ? `<p class="text-gray-800">${summary}</p>` : ''}
-          <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
-        </article>`;
+          <article class="bg-white rounded-xl p-4 shadow-md mb-4">
+            <h3 class="text-xl font-semibold text-blue-900">${article.title_es}</h3>
+            <p class="text-gray-600 text-sm mb-2">${article.source} | ${new Date(article.date).toLocaleDateString()}</p>
+            ${hasContent ? `<p class="text-gray-800">${article.content_es}</p>` : ''}
+            <a href="${article.url}" target="_blank" class="text-blue-700 hover:underline block mt-2">Leer más</a>
+          </article>`;
         container.insertAdjacentHTML('beforeend', html);
       });
       currentPage++;
