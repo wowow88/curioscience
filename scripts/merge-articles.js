@@ -14,7 +14,9 @@ function normalize(text) {
     .toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '') // quitar tildes
-    .replace(/[^a-z0-9]/gi, '')        // quitar símbolos
+    .replace(/[^a-z0-9 ]/gi, '') // quitar símbolos excepto espacios
+    .replace(/\b(pdf|articulo completo|leer mas)\b/g, '') // quitar palabras irrelevantes
+    .replace(/\s+/g, ' ') // colapsar espacios
     .trim();
 }
 
@@ -22,7 +24,8 @@ function mergeArticles(pyArticles, jsArticles) {
   const titleMap = new Map();
 
   [...pyArticles, ...jsArticles].forEach(article => {
-    const key = normalize(article.title_es || article.title);
+    const baseTitle = article.title_es || article.title || '';
+    const key = normalize(baseTitle);
     if (!titleMap.has(key)) {
       titleMap.set(key, article);
     }
