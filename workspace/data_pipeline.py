@@ -38,10 +38,11 @@ def fetch_rss(source_name, url):
         articles.append(article)
     print(f"Fetched from {source_name} RSS:", len(articles))
     return articles
+# ... [importaciones] ...
+spanish_sources = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
 
 def translate_article(article):
-    spanish_sources = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
-    
+    # Traducción solo para fuentes internacionales
     if article["source"] in ["arXiv", "Science.org", "Nature"]:
         translator = GoogleTranslator(source='auto', target='es')
         return {
@@ -55,11 +56,11 @@ def translate_article(article):
     elif article["source"] in spanish_sources:
         return {
             "title": article["title"],
-            "title_es": article["title"],
+            "title_es": article["title"],  # no se traduce
             "url": article["url"],
             "date": article["date"],
             "source": article["source"],
-            "content_es": ""  # Sin resumen, pero con fecha
+            "content_es": ""  # sin resumen
         }
     else:
         return {
@@ -73,6 +74,8 @@ def translate_article(article):
 
 def main():
     all_articles = []
+
+    # Recolectar fuentes
     all_articles += fetch_arxiv()
     all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
     all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
@@ -83,17 +86,17 @@ def main():
     all_articles += fetch_rss("IEO", "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss")
     all_articles += fetch_rss("IAC", "https://www.iac.es/en/rss.xml")
 
+    # Eliminar duplicados (por URL)
     unique_articles = {}
     for article in all_articles:
         if article["url"] not in unique_articles:
             unique_articles[article["url"]] = article
 
     translated_articles = [translate_article(article) for article in unique_articles.values()]
-    print("Artículos actualizados:", len(translated_articles))
 
     with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
         json.dump(translated_articles, f, ensure_ascii=False, indent=2)
-    print("Saved", len(translated_articles), "articles to workspace/astro/public/articles.json")
+    print("Guardados", len(translated_articles), "artículos en articles.json")
 
 if __name__ == "__main__":
     main()
