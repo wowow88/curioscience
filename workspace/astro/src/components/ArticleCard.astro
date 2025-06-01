@@ -1,5 +1,11 @@
 ---
 const { article, lang } = Astro.props;
+
+const truncateText = (text, maxLength = 350) => {
+  return text.length > maxLength ? text.slice(0, maxLength) + '…' : text;
+};
+
+const content = lang === 'es' ? article.content_es : lang === 'zh' ? article.content_zh : article.content_en;
 ---
 
 <article class="bg-white rounded-xl shadow p-4 space-y-4">
@@ -12,7 +18,7 @@ const { article, lang } = Astro.props;
   </h2>
 
   <p class="text-sm text-gray-600">
-    {lang === 'es' ? article.content_es : lang === 'zh' ? article.content_zh : article.content_en}
+    {truncateText(content)}
   </p>
 
   <div class="text-xs text-gray-500 mt-2 flex justify-between">
