@@ -50,7 +50,7 @@ def translate_article(article):
             "url": article["url"],
             "date": article["date"],
             "source": article["source"],
-            "content_es": translator.translate(article.get("summary", ""))  # Mostrar resumen traducido
+            "content_es": translator.translate(article.get("summary", ""))
         }
     elif article["source"] in spanish_sources:
         return {
@@ -59,7 +59,7 @@ def translate_article(article):
             "url": article["url"],
             "date": article["date"],
             "source": article["source"],
-            "content_es": ""  # Sin resumen, ya está en español
+            "content_es": ""  # Sin resumen, pero con fecha
         }
     else:
         return {
@@ -69,8 +69,6 @@ def translate_article(article):
             "date": article["date"],
             "source": article["source"],
             "content_es": article.get("summary", "")
-        }
-
         }
 
 def main():
@@ -85,7 +83,6 @@ def main():
     all_articles += fetch_rss("IEO", "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss")
     all_articles += fetch_rss("IAC", "https://www.iac.es/en/rss.xml")
 
-    # Eliminar duplicados por URL
     unique_articles = {}
     for article in all_articles:
         if article["url"] not in unique_articles:
