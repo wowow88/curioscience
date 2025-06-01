@@ -59,11 +59,9 @@ async function fetchArticles() {
     try {
       const feed = await parser.parseURL(source.url);
       for (const entry of feed.items.slice(0, 5)) {
-        const lang = franc(entry.title || entry.contentSnippet || '');
-
         allArticles.push({
           title: entry.title,
-          title_es: entry.title,
+          title_es: entry.title, // usar siempre el título original como título en español
           url: entry.link,
           date: today,
           source: source.name,
@@ -75,9 +73,13 @@ async function fetchArticles() {
     }
   }
 
-  fs.writeFileSync(DATA_PATH, JSON.stringify(allArticles, null, 2));
-  console.log(`Saved ${allArticles.length} articles to ${DATA_PATH}`);
+  // Eliminar duplicados por URL
+  const uniqueArticles = Array.from(
+    new Map(allArticles.map(article => [article.url, article])).values()
+  );
+
+  fs.writeFileSync(DATA_PATH, JSON.stringify(uniqueArticles, null, 2));
+  console.log(`Saved ${uniqueArticles.length} unique articles to ${DATA_PATH}`);
 }
 
 fetchArticles();
-
