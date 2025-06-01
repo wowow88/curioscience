@@ -37,6 +37,8 @@ jobs:
         run: npm install rss-parser node-fetch franc
 
       - name: Fetch articles (JavaScript)
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: node scripts/fetch-articles.js
 
       - name: Merge article sources
