@@ -62,6 +62,3 @@ async function fetchArticles() {
 
 fetchArticles();
 
-}
-
-fetchArticles();
