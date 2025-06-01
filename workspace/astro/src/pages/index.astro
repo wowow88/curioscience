@@ -19,13 +19,13 @@ import Layout from '../layouts/Layout.astro';
     const perPage = 10;
     let allArticles = [];
 
-fetch('/articles.json')
-  .then(res => res.json())
-  .then(data => {
-    allArticles = data.sort((a, b) => new Date(b.date) - new Date(a.date)); // orden descendente
-    renderPage();
-    if (allArticles.length > perPage) button.classList.remove('hidden');
-  });
+    fetch('/articles.json')
+      .then(res => res.json())
+      .then(data => {
+        allArticles = data.sort((a, b) => new Date(b.date) - new Date(a.date)); // Artículos más recientes arriba
+        renderPage();
+        if (allArticles.length > perPage) button.classList.remove('hidden');
+      });
 
     function truncate(text, maxLength) {
       return text.length > maxLength ? text.substring(0, maxLength).trim() + '…' : text;
@@ -56,7 +56,3 @@ fetch('/articles.json')
   </script>
 </Layout>
 
-
-    button.addEventListener('click', renderPage);
-  </script>
-</Layout>
