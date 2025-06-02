@@ -1,9 +1,49 @@
 [
   {
+    "title": "A comprehensive survey of cybercrimes in India over the last decade",
+    "title_es": "Estudio exhaustivo de la ciberdelincuencia en la India durante la última década",
+    "url": "https://arxiv.org/abs/2505.23770",
+    "date": "2025-06-02",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "AESHA3: Efficient and Secure Sub-Key Generation for AES Using SHA-3",
+    "title_es": "AESHA3: Generación eficiente y segura de subclaves para AES mediante SHA-3",
+    "url": "https://arxiv.org/abs/2505.23771",
+    "date": "2025-06-02",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Anamorphic Cryptography with Elliptic Curve Methods",
+    "title_es": "Criptografía anamórfica con métodos de curva elíptica",
+    "url": "https://arxiv.org/abs/2505.23772",
+    "date": "2025-06-02",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "LightDSA: A Python-Based Hybrid Digital Signature Library and Performance Analysis of RSA, DSA, ECDSA and EdDSA in Variable Configurations, Elliptic Curve Forms and Curves",
+    "title_es": "LightDSA: A Python-Based Hybrid Digital Signature Library and Performance Analysis of RSA, DSA, ECDSA and EdDSA in Variable Configurations, Elliptic Curve Forms and Curves (en inglés).",
+    "url": "https://arxiv.org/abs/2505.23773",
+    "date": "2025-06-02",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "More-than-Human Storytelling: Designing Longitudinal Narrative Engagements with Generative AI",
+    "title_es": "Narración más que humana: Diseño de interacciones narrativas longitudinales con IA generativa",
+    "url": "https://arxiv.org/abs/2505.23780",
+    "date": "2025-06-02",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
     "title": "Look beyond the longevity drips and supplements",
     "title_es": "Mira más allá de los goteros y suplementos de longevidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw7640?af=R",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Science.org",
     "content_es": ""
   },
@@ -11,7 +51,7 @@
     "title": "Why We Die: The New Science of Aging and the Quest for Immortality",
     "title_es": "Por qué morimos: la nueva ciencia del envejecimiento y la búsqueda de la inmortalidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6762?af=R",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Science.org",
     "content_es": ""
   },
@@ -19,7 +59,7 @@
     "title": "The next best way to teach and learn",
     "title_es": "La mejor manera de enseñar y aprender",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx4571?af=R",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Science.org",
     "content_es": ""
   },
@@ -27,7 +67,7 @@
     "title": "Pair wave function symmetry in UTe2 from zero-energy surface state visualization",
     "title_es": "Simetría de la función de onda de pares en UTe2 a partir de la visualización del estado superficial de energía cero",
     "url": "https://www.science.org/doi/abs/10.1126/science.adk7219?af=R",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Science.org",
     "content_es": ""
   },
@@ -35,7 +75,7 @@
     "title": "BRAF oncogenic mutants evade autoinhibition through a common mechanism",
     "title_es": "Los mutantes oncogénicos de BRAF evaden la autoinhibición mediante un mecanismo común",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp2742?af=R",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Science.org",
     "content_es": ""
   },
@@ -43,7 +83,7 @@
     "title": "Underwater kelp forests are losing a turf war",
     "title_es": "Los bosques submarinos de algas están perdiendo una guerra territorial",
     "url": "https://www.nature.com/articles/d41586-025-01692-x",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Nature",
     "content_es": ""
   },
@@ -51,7 +91,7 @@
     "title": "US–China tariff war threatens global public health",
     "title_es": "La guerra arancelaria entre EE.UU. y China amenaza la salud pública mundial",
     "url": "https://www.nature.com/articles/d41586-025-01728-2",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Nature",
     "content_es": ""
   },
@@ -59,7 +99,7 @@
     "title": "Audio long read: Three ways to cool Earth by pulling carbon from the sky",
     "title_es": "Audio de lectura larga: Tres formas de enfriar la Tierra extrayendo carbono del cielo",
     "url": "https://www.nature.com/articles/d41586-025-01650-7",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Nature",
     "content_es": ""
   },
@@ -67,7 +107,7 @@
     "title": "CRISPR helps to show why a boy felt no pain",
     "title_es": "CRISPR ayuda a demostrar por qué un niño no sentía dolor",
     "url": "https://www.nature.com/articles/d41586-025-01653-4",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Nature",
     "content_es": ""
   },
@@ -75,7 +115,7 @@
     "title": "Gender equality in research publishing is a responsibility for everyone",
     "title_es": "La igualdad de género en la publicación de trabajos de investigación es responsabilidad de todos",
     "url": "https://www.nature.com/articles/d41586-025-01614-x",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "Nature",
     "content_es": ""
   },
@@ -83,7 +123,7 @@
     "title": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "title_es": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/noticias/joseph-hill-hay-nuevos-medicamentos-contra-obesidad-muy-famosos-funcionan-bastante-bien",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +131,7 @@
     "title": "Joseph Hill: \"There are new obesity drugs, very famous ones, and they work quite well, but they’re not risk-free\"",
     "title_es": "Joseph Hill: \"Hay nuevos fármacos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/node/234063",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +139,7 @@
     "title": "Dr. Mariell Jessup: \"Never stop talking about the need to improve women’s health\"",
     "title_es": "Dra. Mariell Jessup: \"Nunca hay que dejar de hablar de la necesidad de mejorar la salud de la mujer\"",
     "url": "https://www.cnic.es/es/node/233973",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,7 +147,7 @@
     "title": "Dr. Valentín Fuster: “La medicina debe ser un compromiso con la sociedad”",
     "title_es": "Dr. Valentín Fuster: “La medicina debe ser un compromiso con la sociedad”",
     "url": "https://www.cnic.es/es/noticias/dr-valentin-fuster-medicina-debe-ser-un-compromiso-con-sociedad",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIC",
     "content_es": ""
   },
@@ -115,7 +155,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIO",
     "content_es": ""
   },
@@ -123,7 +163,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIO",
     "content_es": ""
   },
@@ -131,7 +171,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIO",
     "content_es": ""
   },
@@ -139,7 +179,7 @@
     "title": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "title_es": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "url": "https://www.cnio.es/noticias/redescubriendo-el-farmaco-denosumab-del-tratamiento-de-la-osteoporosis-a-un-posible-rol-contra-el-cancer-de-mama/",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIO",
     "content_es": ""
   },
@@ -147,7 +187,7 @@
     "title": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "title_es": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "url": "https://www.cnio.es/noticias/manuel-valiente-galardonado-con-el-premio-admirables-2025-de-diario-medico/",
-    "date": "2025-06-01",
+    "date": "2025-06-02",
     "source": "CNIO",
     "content_es": ""
   }
