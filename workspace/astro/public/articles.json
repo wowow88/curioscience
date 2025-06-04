@@ -1,41 +1,41 @@
 [
   {
-    "title": "Understanding while Exploring: Semantics-driven Active Mapping",
-    "title_es": "Comprender explorando: Mapeo activo basado en la semántica",
-    "url": "https://arxiv.org/abs/2506.00225",
-    "date": "2025-06-03",
+    "title": "SubMIT: A Physics Analysis Facility at MIT",
+    "title_es": "SubMIT: Un centro de análisis físico en el MIT",
+    "url": "https://arxiv.org/abs/2506.01958",
+    "date": "2025-06-04",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes",
-    "title_es": "Ctrl-Crash: Difusión controlable para choques de coches realistas",
-    "url": "https://arxiv.org/abs/2506.00227",
-    "date": "2025-06-03",
+    "title": "Ubiquitous Symmetry at Critical Points Across Diverse Optimization Landscapes",
+    "title_es": "Simetría omnipresente en puntos críticos de diversos escenarios de optimización",
+    "url": "https://arxiv.org/abs/2506.01959",
+    "date": "2025-06-04",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Sorrel: A simple and flexible framework for multi-agent reinforcement learning",
-    "title_es": "Sorrel: Un marco sencillo y flexible para el aprendizaje por refuerzo multiagente",
-    "url": "https://arxiv.org/abs/2506.00228",
-    "date": "2025-06-03",
+    "title": "Mazzaroth: A High-Throughput DAG Consensus with State Root",
+    "title_es": "Mazzaroth: Un Consenso DAG de Alto Rendimiento con Estado Raíz",
+    "url": "https://arxiv.org/abs/2506.01960",
+    "date": "2025-06-04",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Enhancing Spatio-Temporal Resolution of Process-Based Life Cycle Analysis with Model-Based Systems Engineering \\& Hetero-functional Graph Theory",
-    "title_es": "Mejora de la resolución espaciotemporal del análisis del ciclo de vida basado en procesos con la ingeniería de sistemas basada en modelos y la teoría de grafos heterofuncionales",
-    "url": "https://arxiv.org/abs/2506.00230",
-    "date": "2025-06-03",
+    "title": "Research on Medical Named Entity Identification Based On Prompt-Biomrc Model and Its Application in Intelligent Consultation System",
+    "title_es": "Investigación sobre la identificación de entidades con nombre médico basada en el modelo Prompt-Biomrc y su aplicación en el sistema de consulta inteligente",
+    "url": "https://arxiv.org/abs/2506.01961",
+    "date": "2025-06-04",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "ComposeRAG: A Modular and Composable RAG for Corpus-Grounded Multi-Hop Question Answering",
-    "title_es": "ComposeRAG: una RAG modular y componible para la respuesta a preguntas multipunto basadas en corpus",
-    "url": "https://arxiv.org/abs/2506.00232",
-    "date": "2025-06-03",
+    "title": "Graph-Based Adversarial Domain Generalization with Anatomical Correlation Knowledge for Cross-User Human Activity Recognition",
+    "title_es": "Generalización de dominios adversarial basada en grafos con conocimiento de correlación anatómica para el reconocimiento de la actividad humana entre usuarios",
+    "url": "https://arxiv.org/abs/2506.01962",
+    "date": "2025-06-04",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "Look beyond the longevity drips and supplements",
     "title_es": "Mira más allá de los goteros y suplementos de longevidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw7640?af=R",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Why We Die: The New Science of Aging and the Quest for Immortality",
     "title_es": "Por qué morimos: la nueva ciencia del envejecimiento y la búsqueda de la inmortalidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6762?af=R",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "The next best way to teach and learn",
     "title_es": "La mejor manera de enseñar y aprender",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx4571?af=R",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "Pair wave function symmetry in UTe2 from zero-energy surface state visualization",
     "title_es": "Simetría de la función de onda de pares en UTe2 a partir de la visualización del estado superficial de energía cero",
     "url": "https://www.science.org/doi/abs/10.1126/science.adk7219?af=R",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,15 +75,23 @@
     "title": "BRAF oncogenic mutants evade autoinhibition through a common mechanism",
     "title_es": "Los mutantes oncogénicos de BRAF evaden la autoinhibición mediante un mecanismo común",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp2742?af=R",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
+    "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
+    "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
+    "date": "2025-06-04",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "title_es": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "url": "https://www.cnic.es/es/noticias/circulation-research-investigadores-cnic-descubren-como-respuesta-inmunitaria-controla",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +99,7 @@
     "title": "Circulation Research: CNIC scientists uncover how the immune response drives atherosclerosis—the root cause of heart attacks and strokes",
     "title_es": "Investigación en Circulación: Científicos del CNIC descubren cómo la respuesta inmunitaria impulsa la aterosclerosis, la causa principal de los infartos de miocardio y los accidentes cerebrovasculares",
     "url": "https://www.cnic.es/es/node/234380",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +107,7 @@
     "title": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "title_es": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/noticias/joseph-hill-hay-nuevos-medicamentos-contra-obesidad-muy-famosos-funcionan-bastante-bien",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,15 +115,7 @@
     "title": "Joseph Hill: \"There are new obesity drugs, very famous ones, and they work quite well, but they’re not risk-free\"",
     "title_es": "Joseph Hill: \"Hay nuevos fármacos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/node/234063",
-    "date": "2025-06-03",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Dr. Mariell Jessup: \"Never stop talking about the need to improve women’s health\"",
-    "title_es": "Dra. Mariell Jessup: \"Nunca hay que dejar de hablar de la necesidad de mejorar la salud de la mujer\"",
-    "url": "https://www.cnic.es/es/node/233973",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIC",
     "content_es": ""
   },
@@ -123,7 +123,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIO",
     "content_es": ""
   },
@@ -131,7 +131,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIO",
     "content_es": ""
   },
@@ -139,7 +139,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIO",
     "content_es": ""
   },
@@ -147,7 +147,7 @@
     "title": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "title_es": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "url": "https://www.cnio.es/noticias/redescubriendo-el-farmaco-denosumab-del-tratamiento-de-la-osteoporosis-a-un-posible-rol-contra-el-cancer-de-mama/",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIO",
     "content_es": ""
   },
@@ -155,7 +155,7 @@
     "title": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "title_es": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "url": "https://www.cnio.es/noticias/manuel-valiente-galardonado-con-el-premio-admirables-2025-de-diario-medico/",
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "source": "CNIO",
     "content_es": ""
   }
