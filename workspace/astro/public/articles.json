@@ -1,41 +1,41 @@
 [
   {
-    "title": "SubMIT: A Physics Analysis Facility at MIT",
-    "title_es": "SubMIT: Un centro de análisis físico en el MIT",
-    "url": "https://arxiv.org/abs/2506.01958",
-    "date": "2025-06-04",
+    "title": "Analyzing Localizability of LEO/MEO Hybrid Networks: A Stochastic Geometry Approach",
+    "title_es": "Análisis de la localizabilidad de las redes híbridas LEO/MEO: Un enfoque de geometría estocástica",
+    "url": "https://arxiv.org/abs/2506.03151",
+    "date": "2025-06-05",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Ubiquitous Symmetry at Critical Points Across Diverse Optimization Landscapes",
-    "title_es": "Simetría omnipresente en puntos críticos de diversos escenarios de optimización",
-    "url": "https://arxiv.org/abs/2506.01959",
-    "date": "2025-06-04",
+    "title": "Modular Diffusion Policy Training: Decoupling and Recombining Guidance and Diffusion for Offline RL",
+    "title_es": "Formación de políticas de difusión modular: Desacoplamiento y recombinación de la orientación y la difusión para el aprendizaje basado en resultados fuera de línea",
+    "url": "https://arxiv.org/abs/2506.03154",
+    "date": "2025-06-05",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Mazzaroth: A High-Throughput DAG Consensus with State Root",
-    "title_es": "Mazzaroth: Un Consenso DAG de Alto Rendimiento con Estado Raíz",
-    "url": "https://arxiv.org/abs/2506.01960",
-    "date": "2025-06-04",
+    "title": "Fusing Cross-Domain Knowledge from Multimodal Data to Solve Problems in the Physical World",
+    "title_es": "Fusión de conocimientos interdisciplinares a partir de datos multimodales para resolver problemas en el mundo físico",
+    "url": "https://arxiv.org/abs/2506.03155",
+    "date": "2025-06-05",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Research on Medical Named Entity Identification Based On Prompt-Biomrc Model and Its Application in Intelligent Consultation System",
-    "title_es": "Investigación sobre la identificación de entidades con nombre médico basada en el modelo Prompt-Biomrc y su aplicación en el sistema de consulta inteligente",
-    "url": "https://arxiv.org/abs/2506.01961",
-    "date": "2025-06-04",
+    "title": "DUAL: Dynamic Uncertainty-Aware Learning",
+    "title_es": "DUAL: Aprendizaje dinámico consciente de la incertidumbre",
+    "url": "https://arxiv.org/abs/2506.03158",
+    "date": "2025-06-05",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Graph-Based Adversarial Domain Generalization with Anatomical Correlation Knowledge for Cross-User Human Activity Recognition",
-    "title_es": "Generalización de dominios adversarial basada en grafos con conocimiento de correlación anatómica para el reconocimiento de la actividad humana entre usuarios",
-    "url": "https://arxiv.org/abs/2506.01962",
-    "date": "2025-06-04",
+    "title": "Bayes Error Rate Estimation in Difficult Situations",
+    "title_es": "Estimación de la tasa de error de Bayes en situaciones difíciles",
+    "url": "https://arxiv.org/abs/2506.03159",
+    "date": "2025-06-05",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "Look beyond the longevity drips and supplements",
     "title_es": "Mira más allá de los goteros y suplementos de longevidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw7640?af=R",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Why We Die: The New Science of Aging and the Quest for Immortality",
     "title_es": "Por qué morimos: la nueva ciencia del envejecimiento y la búsqueda de la inmortalidad",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6762?af=R",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "The next best way to teach and learn",
     "title_es": "La mejor manera de enseñar y aprender",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx4571?af=R",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "Pair wave function symmetry in UTe2 from zero-energy surface state visualization",
     "title_es": "Simetría de la función de onda de pares en UTe2 a partir de la visualización del estado superficial de energía cero",
     "url": "https://www.science.org/doi/abs/10.1126/science.adk7219?af=R",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,7 +75,7 @@
     "title": "BRAF oncogenic mutants evade autoinhibition through a common mechanism",
     "title_es": "Los mutantes oncogénicos de BRAF evaden la autoinhibición mediante un mecanismo común",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp2742?af=R",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Science.org",
     "content_es": ""
   },
@@ -83,7 +83,7 @@
     "title": "Publisher Correction: Metal–support frontier orbital interactions in single-atom catalysis",
     "title_es": "Corrección editorial: Interacciones orbitales frontera metal-soporte en catálisis monoatómica",
     "url": "https://www.nature.com/articles/s41586-025-09109-5",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Nature",
     "content_es": ""
   },
@@ -91,7 +91,7 @@
     "title": "False positives in study of memory-related gene expression",
     "title_es": "Falsos positivos en el estudio de la expresión génica relacionada con la memoria",
     "url": "https://www.nature.com/articles/s41586-025-08988-y",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Nature",
     "content_es": ""
   },
@@ -99,7 +99,7 @@
     "title": "Reply to: False positives in study of memory-related gene expression",
     "title_es": "Respuesta a: Falsos positivos en el estudio de la expresión génica relacionada con la memoria",
     "url": "https://www.nature.com/articles/s41586-025-08989-x",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Nature",
     "content_es": ""
   },
@@ -107,7 +107,7 @@
     "title": "Dynamic range and precision of hybrid vision sensors",
     "title_es": "Rango dinámico y precisión de los sensores de visión híbridos",
     "url": "https://www.nature.com/articles/s41586-025-08991-3",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Nature",
     "content_es": ""
   },
@@ -115,7 +115,7 @@
     "title": "How researchers are shining a light on the ‘invisible’ contributions of small-scale fishers",
     "title_es": "Los investigadores sacan a la luz la contribución \"invisible\" de los pescadores artesanales",
     "url": "https://www.nature.com/articles/d41586-025-01666-z",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,7 +123,7 @@
     "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +131,7 @@
     "title": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "title_es": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "url": "https://www.cnic.es/es/noticias/circulation-research-investigadores-cnic-descubren-como-respuesta-inmunitaria-controla",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +139,7 @@
     "title": "Circulation Research: CNIC scientists uncover how the immune response drives atherosclerosis—the root cause of heart attacks and strokes",
     "title_es": "Investigación en Circulación: Científicos del CNIC descubren cómo la respuesta inmunitaria impulsa la aterosclerosis, la causa principal de los infartos de miocardio y los accidentes cerebrovasculares",
     "url": "https://www.cnic.es/es/node/234380",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,7 +147,7 @@
     "title": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "title_es": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/noticias/joseph-hill-hay-nuevos-medicamentos-contra-obesidad-muy-famosos-funcionan-bastante-bien",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIC",
     "content_es": ""
   },
@@ -155,7 +155,7 @@
     "title": "Joseph Hill: \"There are new obesity drugs, very famous ones, and they work quite well, but they’re not risk-free\"",
     "title_es": "Joseph Hill: \"Hay nuevos fármacos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/node/234063",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +163,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +171,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +179,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +187,7 @@
     "title": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "title_es": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "url": "https://www.cnio.es/noticias/redescubriendo-el-farmaco-denosumab-del-tratamiento-de-la-osteoporosis-a-un-posible-rol-contra-el-cancer-de-mama/",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +195,7 @@
     "title": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "title_es": "Manuel Valiente, galardonado con el Premio Admirables 2025 de Diario Médico",
     "url": "https://www.cnio.es/noticias/manuel-valiente-galardonado-con-el-premio-admirables-2025-de-diario-medico/",
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "source": "CNIO",
     "content_es": ""
   }
