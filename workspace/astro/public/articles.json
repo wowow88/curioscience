@@ -1,49 +1,9 @@
 [
   {
-    "title": "Computationally Intensive Research: Advancing a Role for Secondary Analysis of Qualitative Data",
-    "title_es": "Investigación intensiva en computación: Fomento de la función del análisis secundario de datos cualitativos",
-    "url": "https://arxiv.org/abs/2506.04230",
-    "date": "2025-06-07",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Spore in the Wild: Case Study on Spore.fun, a Real-World Experiment of Sovereign Agent Open-ended Evolution on Blockchain with TEEs",
-    "title_es": "Spore in the Wild: Case Study on Spore.fun, a Real-World Experiment of Sovereign Agent Open-ended Evolution on Blockchain with TEE",
-    "url": "https://arxiv.org/abs/2506.04236",
-    "date": "2025-06-07",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "A Comprehensive Survey on the Risks and Limitations of Concept-based Models",
-    "title_es": "Estudio exhaustivo de los riesgos y limitaciones de los modelos conceptuales",
-    "url": "https://arxiv.org/abs/2506.04237",
-    "date": "2025-06-07",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "A Comprehensive Survey on Bio-Inspired Algorithms: Taxonomy, Applications, and Future Directions",
-    "title_es": "Estudio exhaustivo sobre algoritmos bioinspirados: Taxonomía, aplicaciones y perspectivas de futuro",
-    "url": "https://arxiv.org/abs/2506.04238",
-    "date": "2025-06-07",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Improving Out-of-Distribution Detection with Markov Logic Networks",
-    "title_es": "Mejora de la detección fuera de distribución con redes lógicas de Markov",
-    "url": "https://arxiv.org/abs/2506.04241",
-    "date": "2025-06-07",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
     "title": "In defense of silly science",
     "title_es": "En defensa de la ciencia tonta",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx8621?af=R",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,15 +11,7 @@
     "title": "Values remain a mystery to many economists",
     "title_es": "Los valores siguen siendo un misterio para muchos economistas",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx5991?af=R",
-    "date": "2025-06-07",
-    "source": "Science.org",
-    "content_es": ""
-  },
-  {
-    "title": "Is taurine an aging biomarker?",
-    "title_es": "¿Es la taurina un biomarcador del envejecimiento?",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adl2116?af=R",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +19,7 @@
     "title": "Oxygen intrusions sustain aerobic nitrite-oxidizing bacteria in anoxic marine zones",
     "title_es": "Las intrusiones de oxígeno sustentan las bacterias aerobias oxidantes del nitrito en zonas marinas anóxicas",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado0742?af=R",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,7 +27,15 @@
     "title": "Direct measurement of the quantum metric tensor in solids",
     "title_es": "Medición directa del tensor métrico cuántico en sólidos",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado6049?af=R",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "Dehorning reduces rhino poaching",
+    "title_es": "El descornado reduce la caza furtiva de rinocerontes",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ado7490?af=R",
+    "date": "2025-06-08",
     "source": "Science.org",
     "content_es": ""
   },
@@ -83,7 +43,7 @@
     "title": "Author Correction: GluD1 is a signal transduction device disguised as an ionotropic receptor",
     "title_es": "Corrección del autor: GluD1 es un dispositivo de transducción de señales disfrazado de receptor ionotrópico",
     "url": "https://www.nature.com/articles/s41586-025-09146-0",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Nature",
     "content_es": ""
   },
@@ -91,7 +51,7 @@
     "title": "What puzzles people, past and present: Books in brief",
     "title_es": "Lo que desconcierta a la gente, en el pasado y en el presente: Libros en breve",
     "url": "https://www.nature.com/articles/d41586-025-01800-x",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Nature",
     "content_es": ""
   },
@@ -99,7 +59,7 @@
     "title": "Trump wants to put humans on Mars: what scientists think of the plan",
     "title_es": "Trump quiere poner humanos en Marte: qué piensan los científicos del plan",
     "url": "https://www.nature.com/articles/d41586-025-01813-6",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Nature",
     "content_es": ""
   },
@@ -107,7 +67,7 @@
     "title": "‘Integrity index’ flags universities with high retraction rates",
     "title_es": "El \"índice de integridad\" señala las universidades con altos índices de retractación",
     "url": "https://www.nature.com/articles/d41586-025-01727-3",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Nature",
     "content_es": ""
   },
@@ -115,7 +75,7 @@
     "title": "Skyrocketing mpox outbreak in Sierra Leone raises fears of wider spread",
     "title_es": "El vertiginoso brote de viruela símica en Sierra Leona hace temer una mayor propagación",
     "url": "https://www.nature.com/articles/d41586-025-01805-6",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,7 +83,7 @@
     "title": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "title_es": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "url": "https://www.cnic.es/es/noticias/nature-biomedical-engineering-descubren-un-metodo-para-estudiar-proteinas-mecanicas-su",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +91,7 @@
     "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +99,7 @@
     "title": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "title_es": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
     "url": "https://www.cnic.es/es/noticias/circulation-research-investigadores-cnic-descubren-como-respuesta-inmunitaria-controla",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,7 +107,7 @@
     "title": "Circulation Research: CNIC scientists uncover how the immune response drives atherosclerosis—the root cause of heart attacks and strokes",
     "title_es": "Investigación en Circulación: Científicos del CNIC descubren cómo la respuesta inmunitaria impulsa la aterosclerosis, la causa principal de los infartos de miocardio y los accidentes cerebrovasculares",
     "url": "https://www.cnic.es/es/node/234380",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIC",
     "content_es": ""
   },
@@ -155,7 +115,7 @@
     "title": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "title_es": "Joseph Hill: \"Hay nuevos medicamentos contra la obesidad, muy famosos, y funcionan bastante bien, pero no están exentos de riesgos\"",
     "url": "https://www.cnic.es/es/noticias/joseph-hill-hay-nuevos-medicamentos-contra-obesidad-muy-famosos-funcionan-bastante-bien",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +123,7 @@
     "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +131,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +139,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +147,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +155,7 @@
     "title": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "title_es": "Redescubriendo el fármaco denosumab: del tratamiento de la osteoporosis a un posible rol contra el cáncer de mama",
     "url": "https://www.cnio.es/noticias/redescubriendo-el-farmaco-denosumab-del-tratamiento-de-la-osteoporosis-a-un-posible-rol-contra-el-cancer-de-mama/",
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "source": "CNIO",
     "content_es": ""
   }
