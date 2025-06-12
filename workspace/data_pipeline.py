@@ -82,7 +82,14 @@ def translate_article(article):
         }
 
 def main():
-    all_articles = []
+for attempt in range(3):
+    try:
+        all_articles += fetch_arxiv()
+        break
+    except Exception as e:
+        print(f"Reintento {attempt + 1}/3 fallido: {e}")
+        time.sleep(5)
+
 
     # Recolectar fuentes
     all_articles += fetch_arxiv()
