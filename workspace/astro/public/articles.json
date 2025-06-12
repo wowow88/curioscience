@@ -1,49 +1,9 @@
 [
   {
-    "title": "KVmix: Gradient-Based Layer Importance-Aware Mixed-Precision Quantization for KV Cache",
-    "title_es": "KVmix: Cuantificación de precisión mixta basada en gradiente e importancia de capas para caché KV",
-    "url": "https://arxiv.org/abs/2506.08018",
-    "date": "2025-06-11",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Gridding Forced Displacement using Semi-Supervised Learning",
-    "title_es": "Desplazamiento forzado por cuadrícula mediante aprendizaje semisupervisado",
-    "url": "https://arxiv.org/abs/2506.08019",
-    "date": "2025-06-11",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Bi-level Unbalanced Optimal Transport for Partial Domain Adaptation",
-    "title_es": "Transporte óptimo no equilibrado de dos niveles para la adaptación parcial de dominios",
-    "url": "https://arxiv.org/abs/2506.08020",
-    "date": "2025-06-11",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "FlowBERT: Prompt-tuned BERT for variable flow field prediction",
-    "title_es": "FlowBERT: BERT ajustado para la predicción de campos de flujo variables",
-    "url": "https://arxiv.org/abs/2506.08021",
-    "date": "2025-06-11",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining",
-    "title_es": "Optimización de preferencias con equilibrio modal de grandes modelos multimodales mediante minería negativa adversarial",
-    "url": "https://arxiv.org/abs/2506.08022",
-    "date": "2025-06-11",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
     "title": "In defense of silly science",
     "title_es": "En defensa de la ciencia tonta",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx8621?af=R",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +11,7 @@
     "title": "Values remain a mystery to many economists",
     "title_es": "Los valores siguen siendo un misterio para muchos economistas",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx5991?af=R",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +19,7 @@
     "title": "Oxygen intrusions sustain aerobic nitrite-oxidizing bacteria in anoxic marine zones",
     "title_es": "Las intrusiones de oxígeno sustentan las bacterias aerobias oxidantes del nitrito en zonas marinas anóxicas",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado0742?af=R",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +27,7 @@
     "title": "Direct measurement of the quantum metric tensor in solids",
     "title_es": "Medición directa del tensor métrico cuántico en sólidos",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado6049?af=R",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,55 +35,71 @@
     "title": "Dehorning reduces rhino poaching",
     "title_es": "El descornado reduce la caza furtiva de rinocerontes",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado7490?af=R",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "NIH chief stands by funding cuts to ‘politicized science’ at tense hearing",
-    "title_es": "El jefe de los NIH defiende los recortes de financiación a la \"ciencia politizada\" en una tensa audiencia",
-    "url": "https://www.nature.com/articles/d41586-025-01827-0",
-    "date": "2025-06-11",
+    "title": "This stretchy neural implant grows with an axolotl’s brain",
+    "title_es": "Este implante neuronal elástico crece con el cerebro de un axolotl",
+    "url": "https://www.nature.com/articles/d41586-025-01850-1",
+    "date": "2025-06-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Silicate clouds and a circumplanetary disk in the YSES-1 exoplanet system",
-    "title_es": "Nubes de silicato y un disco circumplanetario en el sistema de exoplanetas YSES-1",
-    "url": "https://www.nature.com/articles/s41586-025-09174-w",
-    "date": "2025-06-11",
+    "title": "Meet the MIT engineer who invented an AI-powered way to restore art",
+    "title_es": "Conozca al ingeniero del MIT que ha inventado un método de restauración de obras de arte basado en la inteligencia artificial.",
+    "url": "https://www.nature.com/articles/d41586-025-01836-z",
+    "date": "2025-06-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Making concrete sustainable globally requires technology transfer",
-    "title_es": "Para que el hormigón sea sostenible en todo el mundo es necesaria la transferencia de tecnología",
-    "url": "https://www.nature.com/articles/d41586-025-01812-7",
-    "date": "2025-06-11",
+    "title": "A cancer-causing mutation meets its match",
+    "title_es": "Una mutación cancerígena encuentra su pareja",
+    "url": "https://www.nature.com/articles/d41586-025-01801-w",
+    "date": "2025-06-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "This tiny device spins blood clots away",
-    "title_es": "Este diminuto dispositivo hace girar los coágulos de sangre",
-    "url": "https://www.nature.com/articles/d41586-025-01815-4",
-    "date": "2025-06-11",
+    "title": "How the brain separates real images from those it imagines",
+    "title_es": "Cómo separa el cerebro las imágenes reales de las imaginarias",
+    "url": "https://www.nature.com/articles/d41586-025-01752-2",
+    "date": "2025-06-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Not all clinical data in the United States are fragmented",
-    "title_es": "No todos los datos clínicos de Estados Unidos están fragmentados",
-    "url": "https://www.nature.com/articles/d41586-025-01810-9",
-    "date": "2025-06-11",
+    "title": "Quantum physicists unveil most ‘trustworthy’ random-number generator yet",
+    "title_es": "Los físicos cuánticos descubren el generador de números aleatorios más \"fiable\" hasta la fecha",
+    "url": "https://www.nature.com/articles/d41586-025-01849-8",
+    "date": "2025-06-12",
     "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Luis A. Moreno Aznar: “Obesity is a complex issue, but it can be prevented and improved if we act on all fronts”",
+    "title_es": "Luis A. Moreno Aznar: \"La obesidad es un tema complejo, pero se puede prevenir y mejorar si actuamos en todos los frentes\"",
+    "url": "https://www.cnic.es/es/node/234514",
+    "date": "2025-06-12",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
+    "title_es": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
+    "url": "https://www.cnic.es/es/noticias/luis-moreno-aznar-obesidad-compleja-pero-se-puede-prevenir-mejorar-si-actuamos-todos",
+    "date": "2025-06-12",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Nature Biomedical Engineering: A new method for studying mechanical proteins and their involvement in muscular disorders ",
     "title_es": "Nature Ingeniería Biomédica: Un nuevo método para estudiar las proteínas mecánicas y su implicación en los trastornos musculares",
     "url": "https://www.cnic.es/es/node/234420",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +107,7 @@
     "title": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "title_es": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "url": "https://www.cnic.es/es/noticias/nature-biomedical-engineering-descubren-un-metodo-para-estudiar-proteinas-mecanicas-su",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,23 +115,7 @@
     "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-11",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
-    "title_es": "Circulation Research: Investigadores del CNIC descubren cómo la respuesta inmunitaria controla la aterosclerosis que provoca infartos e ictus",
-    "url": "https://www.cnic.es/es/noticias/circulation-research-investigadores-cnic-descubren-como-respuesta-inmunitaria-controla",
-    "date": "2025-06-11",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Circulation Research: CNIC scientists uncover how the immune response drives atherosclerosis—the root cause of heart attacks and strokes",
-    "title_es": "Investigación en Circulación: Científicos del CNIC descubren cómo la respuesta inmunitaria impulsa la aterosclerosis, la causa principal de los infartos de miocardio y los accidentes cerebrovasculares",
-    "url": "https://www.cnic.es/es/node/234380",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +123,7 @@
     "title": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "title_es": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "url": "https://www.cnio.es/noticias/la-biologia-se-adentra-cada-vez-mas-en-los-engranajes-de-la-maquinaria-que-hace-funcionar-las-celulas/",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +131,7 @@
     "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +139,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +147,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +155,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "source": "CNIO",
     "content_es": ""
   }
