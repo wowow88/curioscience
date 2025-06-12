@@ -4,21 +4,30 @@ import feedparser
 from bs4 import BeautifulSoup
 from datetime import datetime
 from deep_translator import GoogleTranslator
-from arxiv import Search, SortCriterion
+from arxiv import Search, SortCriterion, Client
+import time
+from requests.exceptions import ConnectionError
 
 def fetch_arxiv():
-    results = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate).results()
-    articles = []
-    for result in results:
-        articles.append({
-            "title": result.title,
-            "url": result.entry_id,
-            "date": result.published.date().isoformat(),
-            "source": "arXiv",
-            "summary": result.summary
-        })
-    print("Fetched from arXiv:", len(articles))
-    return articles
+    client = Client()
+    search = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate)
+    try:
+        results = client.results(search)
+        articles = []
+        for result in results:
+            articles.append({
+                "title": result.title,
+                "url": result.entry_id,
+                "date": result.published.date().isoformat(),
+                "source": "arXiv",
+                "summary": result.summary
+            })
+        print("Fetched from arXiv:", len(articles))
+        return articles
+    except ConnectionError as e:
+        print("Error al conectar con arXiv:", e)
+        return []
+
 
 def fetch_rss(source_name, url):
     articles = []
