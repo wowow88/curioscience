@@ -82,13 +82,39 @@ def translate_article(article):
         }
 
 def main():
-for attempt in range(3):
-    try:
-        all_articles += fetch_arxiv()
-        break
-    except Exception as e:
-        print(f"Reintento {attempt + 1}/3 fallido: {e}")
-        time.sleep(5)
+    all_articles = []
+
+    # Reintentos para arXiv
+    for attempt in range(3):
+        try:
+            all_articles += fetch_arxiv()
+            break
+        except Exception as e:
+            print(f"Reintento {attempt + 1}/3 fallido con arXiv: {e}")
+            time.sleep(5)
+
+    # Otras fuentes RSS
+    all_articles += fetch_rss("Science.org", "https://www.science.org/rss/news_current.xml")
+    all_articles += fetch_rss("Nature", "https://www.nature.com/nature/articles?type=news&format=rss")
+    all_articles += fetch_rss("AEMET", "https://www.aemet.es/xml/boletin.rss")
+    all_articles += fetch_rss("CNIC", "https://www.cnic.es/es/rss.xml")
+    all_articles += fetch_rss("CNIO", "https://www.cnio.es/feed/")
+    all_articles += fetch_rss("ISCIII", "https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1")
+    all_articles += fetch_rss("IEO", "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss")
+    all_articles += fetch_rss("IAC", "https://www.iac.es/en/rss.xml")
+
+    # Eliminar duplicados (por URL)
+    unique_articles = {}
+    for article in all_articles:
+        if article["url"] not in unique_articles:
+            unique_articles[article["url"]] = article
+
+    translated_articles = [translate_article(article) for article in unique_articles.values()]
+
+    with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
+        json.dump(translated_articles, f, ensure_ascii=False, indent=2)
+    print("Guardados", len(translated_articles), "artículos en articles.json")
+
 
 
     # Recolectar fuentes
