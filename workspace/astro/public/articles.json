@@ -1,81 +1,121 @@
 [
   {
-    "title": "In defense of silly science",
-    "title_es": "En defensa de la ciencia tonta",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adx8621?af=R",
-    "date": "2025-06-12",
+    "title": "Leveraging Pre-Trained Models for Multimodal Class-Incremental Learning under Adaptive Fusion",
+    "title_es": "Aprovechamiento de modelos preentrenados para el aprendizaje multimodal incremental por clases mediante fusión adaptativa",
+    "url": "https://arxiv.org/abs/2506.09999",
+    "date": "2025-06-13",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "A Survey of Data Compression Algorithms and their Applications",
+    "title_es": "Algoritmos de compresión de datos y sus aplicaciones",
+    "url": "https://arxiv.org/abs/2506.10000",
+    "date": "2025-06-13",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Semantic Communication-Enabled Cloud-Edge-End-collaborative Metaverse Services Architecure",
+    "title_es": "Arquitectura de servicios metaversales de colaboración en el extremo de la nube basados en la comunicación semántica",
+    "url": "https://arxiv.org/abs/2506.10001",
+    "date": "2025-06-13",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "EQ-TAA: Equivariant Traffic Accident Anticipation via Diffusion-Based Accident Video Synthesis",
+    "title_es": "EQ-TAA: anticipación equivariante de accidentes de tráfico mediante síntesis de vídeos de accidentes basada en la difusión",
+    "url": "https://arxiv.org/abs/2506.10002",
+    "date": "2025-06-13",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Integrating multimedia documents in 3D city models for a better understanding of territories",
+    "title_es": "Integración de documentos multimedia en modelos urbanos 3D para una mejor comprensión de los territorios",
+    "url": "https://arxiv.org/abs/2506.10003",
+    "date": "2025-06-13",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "North America’s last prairies",
+    "title_es": "Las últimas praderas de Norteamérica",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adw8576?af=R",
+    "date": "2025-06-13",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Values remain a mystery to many economists",
-    "title_es": "Los valores siguen siendo un misterio para muchos economistas",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adx5991?af=R",
-    "date": "2025-06-12",
+    "title": "Dark matters",
+    "title_es": "Asuntos oscuros",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady5476?af=R",
+    "date": "2025-06-13",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Oxygen intrusions sustain aerobic nitrite-oxidizing bacteria in anoxic marine zones",
-    "title_es": "Las intrusiones de oxígeno sustentan las bacterias aerobias oxidantes del nitrito en zonas marinas anóxicas",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ado0742?af=R",
-    "date": "2025-06-12",
+    "title": "Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing",
+    "title_es": "Diseño rápido, guiado por modelos, de vasculatura sintética a escala de órgano para la biofabricación",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adj6152?af=R",
+    "date": "2025-06-13",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Direct measurement of the quantum metric tensor in solids",
-    "title_es": "Medición directa del tensor métrico cuántico en sólidos",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ado6049?af=R",
-    "date": "2025-06-12",
+    "title": "Pan-viral ORFs discovery using massively parallel ribosome profiling",
+    "title_es": "Descubrimiento de ORFs panvirales mediante perfiles ribosómicos masivamente paralelos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ado6670?af=R",
+    "date": "2025-06-13",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Dehorning reduces rhino poaching",
-    "title_es": "El descornado reduce la caza furtiva de rinocerontes",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ado7490?af=R",
-    "date": "2025-06-12",
+    "title": "Gate-driven band modulation hyperdoping for high-performance p-type 2D semiconductor transistors",
+    "title_es": "Hiperdopado de modulación de banda impulsado por la puerta para transistores semiconductores 2D de tipo p de alto rendimiento",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp8444?af=R",
+    "date": "2025-06-13",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "This stretchy neural implant grows with an axolotl’s brain",
-    "title_es": "Este implante neuronal elástico crece con el cerebro de un axolotl",
-    "url": "https://www.nature.com/articles/d41586-025-01850-1",
-    "date": "2025-06-12",
+    "title": "An instantaneous voice-synthesis neuroprosthesis",
+    "title_es": "Una neuroprótesis de síntesis vocal instantánea",
+    "url": "https://www.nature.com/articles/s41586-025-09127-3",
+    "date": "2025-06-13",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Meet the MIT engineer who invented an AI-powered way to restore art",
-    "title_es": "Conozca al ingeniero del MIT que ha inventado un método de restauración de obras de arte basado en la inteligencia artificial.",
-    "url": "https://www.nature.com/articles/d41586-025-01836-z",
-    "date": "2025-06-12",
+    "title": "Who is on RFK Jr’s new vaccine panel — and what will they do?",
+    "title_es": "¿Quién forma parte del nuevo grupo de expertos en vacunas de RFK Jr. y qué hará?",
+    "url": "https://www.nature.com/articles/d41586-025-01852-z",
+    "date": "2025-06-13",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "A cancer-causing mutation meets its match",
-    "title_es": "Una mutación cancerígena encuentra su pareja",
-    "url": "https://www.nature.com/articles/d41586-025-01801-w",
-    "date": "2025-06-12",
+    "title": "How to address gender equity in science in Africa",
+    "title_es": "Cómo abordar la igualdad de género en la ciencia en África",
+    "url": "https://www.nature.com/articles/d41586-025-01646-3",
+    "date": "2025-06-13",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "How the brain separates real images from those it imagines",
-    "title_es": "Cómo separa el cerebro las imágenes reales de las imaginarias",
-    "url": "https://www.nature.com/articles/d41586-025-01752-2",
-    "date": "2025-06-12",
+    "title": "Happy birthday quantum mechanics! I got a ticket to the ultimate physics party",
+    "title_es": "¡Feliz cumpleaños a la mecánica cuántica! Tengo una entrada para la fiesta definitiva de la física",
+    "url": "https://www.nature.com/articles/d41586-025-01860-z",
+    "date": "2025-06-13",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Quantum physicists unveil most ‘trustworthy’ random-number generator yet",
-    "title_es": "Los físicos cuánticos descubren el generador de números aleatorios más \"fiable\" hasta la fecha",
-    "url": "https://www.nature.com/articles/d41586-025-01849-8",
-    "date": "2025-06-12",
+    "title": "How you breathe is like a fingerprint that can identify you",
+    "title_es": "Cómo respiras es como una huella dactilar que puede identificarte",
+    "url": "https://www.nature.com/articles/d41586-025-01835-0",
+    "date": "2025-06-13",
     "source": "Nature",
     "content_es": ""
   },
@@ -83,7 +123,7 @@
     "title": "Luis A. Moreno Aznar: “Obesity is a complex issue, but it can be prevented and improved if we act on all fronts”",
     "title_es": "Luis A. Moreno Aznar: \"La obesidad es un tema complejo, pero se puede prevenir y mejorar si actuamos en todos los frentes\"",
     "url": "https://www.cnic.es/es/node/234514",
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +131,7 @@
     "title": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "title_es": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "url": "https://www.cnic.es/es/noticias/luis-moreno-aznar-obesidad-compleja-pero-se-puede-prevenir-mejorar-si-actuamos-todos",
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +139,7 @@
     "title": "Nature Biomedical Engineering: A new method for studying mechanical proteins and their involvement in muscular disorders ",
     "title_es": "Nature Ingeniería Biomédica: Un nuevo método para estudiar las proteínas mecánicas y su implicación en los trastornos musculares",
     "url": "https://www.cnic.es/es/node/234420",
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,7 +147,7 @@
     "title": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "title_es": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "url": "https://www.cnic.es/es/noticias/nature-biomedical-engineering-descubren-un-metodo-para-estudiar-proteinas-mecanicas-su",
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "source": "CNIC",
     "content_es": ""
   },
@@ -115,48 +155,8 @@
     "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
-    "title_es": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
-    "url": "https://www.cnio.es/noticias/la-biologia-se-adentra-cada-vez-mas-en-los-engranajes-de-la-maquinaria-que-hace-funcionar-las-celulas/",
-    "date": "2025-06-12",
-    "source": "CNIO",
-    "content_es": ""
-  },
-  {
-    "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
-    "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
-    "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-12",
-    "source": "CNIO",
-    "content_es": ""
-  },
-  {
-    "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
-    "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
-    "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-12",
-    "source": "CNIO",
-    "content_es": ""
-  },
-  {
-    "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
-    "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
-    "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-12",
-    "source": "CNIO",
-    "content_es": ""
-  },
-  {
-    "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
-    "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
-    "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-12",
-    "source": "CNIO",
     "content_es": ""
   }
 ]
