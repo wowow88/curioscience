@@ -1,9 +1,49 @@
 [
   {
+    "title": "Is the Fitness Dependent Optimizer Ready for the Future of Optimization?",
+    "title_es": "¿Está preparado el optimizador dependiente del estado físico para el futuro de la optimización?",
+    "url": "https://arxiv.org/abs/2506.10983",
+    "date": "2025-06-16",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Application Modernization with LLMs: Addressing Core Challenges in Reliability, Security, and Quality",
+    "title_es": "Modernización de aplicaciones con LLM: Afrontar los principales retos en fiabilidad, seguridad y calidad",
+    "url": "https://arxiv.org/abs/2506.10984",
+    "date": "2025-06-16",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Collaboration Tools and their Role in Agile Software Projects",
+    "title_es": "Herramientas de colaboración y su papel en los proyectos de software ágiles",
+    "url": "https://arxiv.org/abs/2506.10985",
+    "date": "2025-06-16",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "CoMRAT: Commit Message Rationale Analysis Tool",
+    "title_es": "CoMRAT: Herramienta de análisis de la justificación de los mensajes de compromiso",
+    "url": "https://arxiv.org/abs/2506.10986",
+    "date": "2025-06-16",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Chain of Draft for Software Engineering: Challenges in Applying Concise Reasoning to Code Tasks",
+    "title_es": "Cadena de esbozos para la ingeniería del software: Retos en la aplicación de razonamientos concisos a las tareas de codificación",
+    "url": "https://arxiv.org/abs/2506.10987",
+    "date": "2025-06-16",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
     "title": "North America’s last prairies",
     "title_es": "Las últimas praderas de Norteamérica",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw8576?af=R",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Science.org",
     "content_es": ""
   },
@@ -11,7 +51,7 @@
     "title": "Dark matters",
     "title_es": "Asuntos oscuros",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady5476?af=R",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Science.org",
     "content_es": ""
   },
@@ -19,7 +59,7 @@
     "title": "Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing",
     "title_es": "Diseño rápido, guiado por modelos, de vasculatura sintética a escala de órgano para la biofabricación",
     "url": "https://www.science.org/doi/abs/10.1126/science.adj6152?af=R",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Science.org",
     "content_es": ""
   },
@@ -27,7 +67,7 @@
     "title": "Gate-driven band modulation hyperdoping for high-performance p-type 2D semiconductor transistors",
     "title_es": "Hiperdopado de modulación de banda impulsado por la puerta para transistores semiconductores 2D de tipo p de alto rendimiento",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp8444?af=R",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Science.org",
     "content_es": ""
   },
@@ -35,7 +75,7 @@
     "title": "A metabolite-based resistance mechanism against malaria",
     "title_es": "Un mecanismo de resistencia contra la malaria basado en metabolitos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq6741?af=R",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Science.org",
     "content_es": ""
   },
@@ -43,7 +83,7 @@
     "title": "Tiny human hearts grown in pig embryos for the first time",
     "title_es": "Se cultivan por primera vez diminutos corazones humanos en embriones de cerdo",
     "url": "https://www.nature.com/articles/d41586-025-01854-x",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Nature",
     "content_es": ""
   },
@@ -51,7 +91,7 @@
     "title": "Hungry caterpillars can brew exotic molecules in their guts",
     "title_es": "Las orugas hambrientas pueden elaborar moléculas exóticas en sus intestinos",
     "url": "https://www.nature.com/articles/d41586-025-01802-9",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Nature",
     "content_es": ""
   },
@@ -59,7 +99,7 @@
     "title": "Why pangolins are poached: they’re the tastiest animal around",
     "title_es": "Por qué se cazan furtivamente los pangolines: son el animal más sabroso del mundo",
     "url": "https://www.nature.com/articles/d41586-025-01838-x",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Nature",
     "content_es": ""
   },
@@ -67,7 +107,7 @@
     "title": "Minuscule worms form living towers to hunt for food",
     "title_es": "Minúsculos gusanos forman torres vivientes para cazar comida",
     "url": "https://www.nature.com/articles/d41586-025-01803-8",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Nature",
     "content_es": ""
   },
@@ -75,7 +115,7 @@
     "title": "Hundreds of physicists on a remote island: we visit the ultimate quantum party",
     "title_es": "Cientos de físicos en una isla remota: visitamos la fiesta cuántica definitiva",
     "url": "https://www.nature.com/articles/d41586-025-01863-w",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "Nature",
     "content_es": ""
   },
@@ -83,7 +123,7 @@
     "title": "Luis A. Moreno Aznar: “Obesity is a complex issue, but it can be prevented and improved if we act on all fronts”",
     "title_es": "Luis A. Moreno Aznar: \"La obesidad es un tema complejo, pero se puede prevenir y mejorar si actuamos en todos los frentes\"",
     "url": "https://www.cnic.es/es/node/234514",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +131,7 @@
     "title": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "title_es": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "url": "https://www.cnic.es/es/noticias/luis-moreno-aznar-obesidad-compleja-pero-se-puede-prevenir-mejorar-si-actuamos-todos",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +139,7 @@
     "title": "Nature Biomedical Engineering: A new method for studying mechanical proteins and their involvement in muscular disorders ",
     "title_es": "Nature Ingeniería Biomédica: Un nuevo método para estudiar las proteínas mecánicas y su implicación en los trastornos musculares",
     "url": "https://www.cnic.es/es/node/234420",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,7 +147,7 @@
     "title": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "title_es": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
     "url": "https://www.cnic.es/es/noticias/nature-biomedical-engineering-descubren-un-metodo-para-estudiar-proteinas-mecanicas-su",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIC",
     "content_es": ""
   },
@@ -115,7 +155,7 @@
     "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
     "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIC",
     "content_es": ""
   },
@@ -123,7 +163,7 @@
     "title": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "title_es": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "url": "https://www.cnio.es/noticias/la-biologia-se-adentra-cada-vez-mas-en-los-engranajes-de-la-maquinaria-que-hace-funcionar-las-celulas/",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIO",
     "content_es": ""
   },
@@ -131,7 +171,7 @@
     "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIO",
     "content_es": ""
   },
@@ -139,7 +179,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIO",
     "content_es": ""
   },
@@ -147,7 +187,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIO",
     "content_es": ""
   },
@@ -155,7 +195,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-15",
+    "date": "2025-06-16",
     "source": "CNIO",
     "content_es": ""
   }
