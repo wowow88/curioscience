@@ -1,41 +1,41 @@
 [
   {
-    "title": "From Complexity to Simplicity: A Polynomial Time Solution To The Subset Sum Problem And A Milestone In Proving P Equal NP",
-    "title_es": "De la complejidad a la simplicidad: Una solución en tiempo polinómico al problema de la suma de subconjuntos y un hito en la demostración de que P es igual a NP",
-    "url": "https://arxiv.org/abs/2506.12019",
-    "date": "2025-06-17",
+    "title": "'Memory States' from Almost Nothing: Representing and Computing in a Non-associative Algebra",
+    "title_es": "Estados de memoria\" a partir de casi nada: representación y cálculo en un álgebra no asociativa",
+    "url": "https://arxiv.org/abs/2506.13768",
+    "date": "2025-06-18",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "The Limits of Tractable Marginalization",
-    "title_es": "Los límites de la marginación trazable",
-    "url": "https://arxiv.org/abs/2506.12020",
-    "date": "2025-06-17",
+    "title": "Non-planar Object Detection and Identification by Features Matching and Triangulation Growth",
+    "title_es": "Detección e identificación de objetos no planos mediante coincidencia de características y crecimiento por triangulación",
+    "url": "https://arxiv.org/abs/2506.13769",
+    "date": "2025-06-18",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Monitoring graph edges via shortest paths: computational complexity and approximation algorithms",
-    "title_es": "Supervisión de aristas de grafos mediante caminos más cortos: complejidad computacional y algoritmos de aproximación",
-    "url": "https://arxiv.org/abs/2506.12021",
-    "date": "2025-06-17",
+    "title": "CDST: Color Disentangled Style Transfer for Universal Style Reference Customization",
+    "title_es": "CDST: Transferencia de estilos por colores para la personalización universal de referencias de estilo",
+    "url": "https://arxiv.org/abs/2506.13770",
+    "date": "2025-06-18",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Sign-Rank of $k$-Hamming Distance is Constant",
-    "title_es": "El rango de signos de la distancia $k$-Hamming es constante",
-    "url": "https://arxiv.org/abs/2506.12022",
-    "date": "2025-06-17",
+    "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+    "title_es": "LittleBit: cuantización de bits ultrabaja mediante factorización latente",
+    "url": "https://arxiv.org/abs/2506.13771",
+    "date": "2025-06-18",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization",
-    "title_es": "FlexQuant: Un marco de conmutación de precisión dinámico, flexible y eficiente para la cuantificación LLM",
-    "url": "https://arxiv.org/abs/2506.12024",
-    "date": "2025-06-17",
+    "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
+    "title_es": "MobiEdit: edición de conocimientos eficiente en recursos para LLM personalizados en el dispositivo",
+    "url": "https://arxiv.org/abs/2506.13772",
+    "date": "2025-06-18",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "North America’s last prairies",
     "title_es": "Las últimas praderas de Norteamérica",
     "url": "https://www.science.org/doi/abs/10.1126/science.adw8576?af=R",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Dark matters",
     "title_es": "Asuntos oscuros",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady5476?af=R",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing",
     "title_es": "Diseño rápido, guiado por modelos, de vasculatura sintética a escala de órgano para la biofabricación",
     "url": "https://www.science.org/doi/abs/10.1126/science.adj6152?af=R",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "Gate-driven band modulation hyperdoping for high-performance p-type 2D semiconductor transistors",
     "title_es": "Hiperdopado de modulación de banda impulsado por la puerta para transistores semiconductores 2D de tipo p de alto rendimiento",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp8444?af=R",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,55 +75,71 @@
     "title": "A metabolite-based resistance mechanism against malaria",
     "title_es": "Un mecanismo de resistencia contra la malaria basado en metabolitos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq6741?af=R",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Cryo-EM structure of a natural RNA nanocage",
-    "title_es": "Estructura Cryo-EM de una nanocage de ARN natural",
-    "url": "https://www.nature.com/articles/s41586-025-09262-x",
-    "date": "2025-06-17",
+    "title": "Author Correction: RUNX2 promotes fibrosis via an alveolar-to-pathological fibroblast transition",
+    "title_es": "Corrección del Autor: RUNX2 promueve la fibrosis a través de una transición de fibroblastos alveolares a patológicos",
+    "url": "https://www.nature.com/articles/s41586-025-09254-x",
+    "date": "2025-06-18",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "I can’t show my face because of pangolin poachers",
-    "title_es": "No puedo dar la cara por los cazadores furtivos de pangolines",
-    "url": "https://www.nature.com/articles/d41586-025-01890-7",
-    "date": "2025-06-17",
+    "title": "Concerned about freedom of science and truth",
+    "title_es": "Preocupado por la libertad de la ciencia y la verdad",
+    "url": "https://www.nature.com/articles/d41586-025-01923-1",
+    "date": "2025-06-18",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Transparent peer review to be extended to all of <i>Nature</i>’s research papers",
-    "title_es": "La revisión por pares transparente se extenderá a todos los trabajos de investigación de <i>Nature</i>",
-    "url": "https://www.nature.com/articles/d41586-025-01880-9",
-    "date": "2025-06-17",
+    "title": "US–China trade conflict threatens biomedical collaboration",
+    "title_es": "El conflicto comercial entre EE.UU. y China amenaza la colaboración biomédica",
+    "url": "https://www.nature.com/articles/d41586-025-01907-1",
+    "date": "2025-06-18",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "People were wrecking the climate 140 years ago — we just lacked the tech to spot it",
-    "title_es": "Hace 140 años, la gente estaba destruyendo el clima, sólo que nos faltaba la tecnología para darnos cuenta.",
-    "url": "https://www.nature.com/articles/d41586-025-01909-z",
-    "date": "2025-06-17",
+    "title": "Why the Royal Greenwich Observatory was chosen to mark zero degrees longitude",
+    "title_es": "Por qué se eligió el Real Observatorio de Greenwich para marcar los cero grados de longitud",
+    "url": "https://www.nature.com/articles/d41586-025-01893-4",
+    "date": "2025-06-18",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Judge rules against NIH grant cuts — and calls them discriminatory",
-    "title_es": "Un juez se pronuncia contra los recortes de becas de los NIH y los califica de discriminatorios",
-    "url": "https://www.nature.com/articles/d41586-025-01914-2",
-    "date": "2025-06-17",
+    "title": "Is there a link between gut microbes and ageing?",
+    "title_es": "¿Existe una relación entre la microbiota intestinal y el envejecimiento?",
+    "url": "https://www.nature.com/articles/d41586-025-01905-3",
+    "date": "2025-06-18",
     "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Three CNIC projects receive more than €5 million in ERC Advanced Grant funding",
+    "title_es": "Tres proyectos del CNIC reciben más de 5 millones de euros de financiación ERC Advanced Grant",
+    "url": "https://www.cnic.es/es/noticias/three-cnic-projects-receive-more-eu5-million-erc-advanced-grant-funding",
+    "date": "2025-06-18",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
+    "title_es": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
+    "url": "https://www.cnic.es/es/noticias/tres-proyectos-cnic-recibiran-mas-5-millones-euros-convocatoria-erc-advanced-grant-0",
+    "date": "2025-06-18",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Luis A. Moreno Aznar: “Obesity is a complex issue, but it can be prevented and improved if we act on all fronts”",
     "title_es": "Luis A. Moreno Aznar: \"La obesidad es un tema complejo, pero se puede prevenir y mejorar si actuamos en todos los frentes\"",
     "url": "https://www.cnic.es/es/node/234514",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +147,7 @@
     "title": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "title_es": "Luis A. Moreno Aznar: “La obesidad es compleja, pero se puede prevenir y mejorar si actuamos en todos los frentes”",
     "url": "https://www.cnic.es/es/noticias/luis-moreno-aznar-obesidad-compleja-pero-se-puede-prevenir-mejorar-si-actuamos-todos",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,23 +155,7 @@
     "title": "Nature Biomedical Engineering: A new method for studying mechanical proteins and their involvement in muscular disorders ",
     "title_es": "Nature Ingeniería Biomédica: Un nuevo método para estudiar las proteínas mecánicas y su implicación en los trastornos musculares",
     "url": "https://www.cnic.es/es/node/234420",
-    "date": "2025-06-17",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
-    "title_es": "Nature Biomedical Engineering: Descubren un método para estudiar proteínas mecánicas y su relación con enfermedades musculares",
-    "url": "https://www.cnic.es/es/noticias/nature-biomedical-engineering-descubren-un-metodo-para-estudiar-proteinas-mecanicas-su",
-    "date": "2025-06-17",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
-    "title_es": "CNIC participa en la Jornada Internacional de transparencia en experimentación animal",
-    "url": "https://www.cnic.es/es/noticias/cnic-participa-jornada-internacional-transparencia-experimentacion-animal",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +163,7 @@
     "title": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "title_es": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "url": "https://www.cnio.es/noticias/la-biologia-se-adentra-cada-vez-mas-en-los-engranajes-de-la-maquinaria-que-hace-funcionar-las-celulas/",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +171,7 @@
     "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +179,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +187,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +195,7 @@
     "title": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "title_es": "La pregunta que intentan responder los ‘detectives’ del cáncer familiar: “¿Qué hago si he heredado una mutación que aumenta el riesgo de cáncer?”",
     "url": "https://www.cnio.es/noticias/la-pregunta-que-intentan-responder-los-detectives-del-cancer-familiar-que-hago-si-he-heredado-una-mutacion-que-aumenta-el-riesgo-de-cancer/",
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "source": "CNIO",
     "content_es": ""
   }
