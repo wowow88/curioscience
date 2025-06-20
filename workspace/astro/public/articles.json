@@ -1,121 +1,81 @@
 [
   {
-    "title": "SimBank: from Simulation to Solution in Prescriptive Process Monitoring",
-    "title_es": "SimBank: de la simulación a la solución en la supervisión prescriptiva de procesos",
-    "url": "https://arxiv.org/abs/2506.14772",
-    "date": "2025-06-19",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "MedSyn: Enhancing Diagnostics with Human-AI Collaboration",
-    "title_es": "MedSyn: mejorar el diagnóstico con la colaboración entre humanos e inteligencia artificial",
-    "url": "https://arxiv.org/abs/2506.14774",
-    "date": "2025-06-19",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "See What I Mean? CUE: A Cognitive Model of Understanding Explanations",
-    "title_es": "¿Ve lo que quiero decir? CUE: un modelo cognitivo de comprensión de explicaciones",
-    "url": "https://arxiv.org/abs/2506.14775",
-    "date": "2025-06-19",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "WebXAII: an open-source web framework to study human-XAI interaction",
-    "title_es": "WebXAII: un marco web de código abierto para estudiar la interacción humano-XAI",
-    "url": "https://arxiv.org/abs/2506.14777",
-    "date": "2025-06-19",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Faster Computation of Entropic Optimal Transport via Stable Low Frequency Modes",
-    "title_es": "Cálculo más rápido del transporte óptimo entrópico mediante modos estables de baja frecuencia",
-    "url": "https://arxiv.org/abs/2506.14780",
-    "date": "2025-06-19",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "North America’s last prairies",
-    "title_es": "Las últimas praderas de Norteamérica",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adw8576?af=R",
-    "date": "2025-06-19",
+    "title": "New books from outer space, future Earth, and close to home",
+    "title_es": "Nuevos libros sobre el espacio exterior, la Tierra del futuro y los países vecinos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz0140?af=R",
+    "date": "2025-06-20",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Dark matters",
-    "title_es": "Asuntos oscuros",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ady5476?af=R",
-    "date": "2025-06-19",
+    "title": "A near-real-time data-assimilative model of the solar corona",
+    "title_es": "A near-real-time data-assimilative model of the solar corona",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adq0872?af=R",
+    "date": "2025-06-20",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing",
-    "title_es": "Diseño rápido, guiado por modelos, de vasculatura sintética a escala de órgano para la biofabricación",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adj6152?af=R",
-    "date": "2025-06-19",
+    "title": "Greener green and bluer blue: Ocean poleward greening over the past two decades",
+    "title_es": "Verde más verde y azul más azul: El reverdecimiento de los polos oceánicos en las dos últimas décadas",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adr9715?af=R",
+    "date": "2025-06-20",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Gate-driven band modulation hyperdoping for high-performance p-type 2D semiconductor transistors",
-    "title_es": "Hiperdopado de modulación de banda impulsado por la puerta para transistores semiconductores 2D de tipo p de alto rendimiento",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adp8444?af=R",
-    "date": "2025-06-19",
+    "title": "Bacterial reverse transcriptase synthesizes long poly(A)-rich cDNA for antiphage defense",
+    "title_es": "La transcriptasa inversa bacteriana sintetiza ADNc largo rico en poli(A) para la defensa antifágica",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads4639?af=R",
+    "date": "2025-06-20",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "A metabolite-based resistance mechanism against malaria",
-    "title_es": "Un mecanismo de resistencia contra la malaria basado en metabolitos",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adq6741?af=R",
-    "date": "2025-06-19",
+    "title": "In vivo CAR T cell generation to treat cancer and autoimmune disease",
+    "title_es": "Generación in vivo de células T CAR para tratar el cáncer y las enfermedades autoinmunes",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads8473?af=R",
+    "date": "2025-06-20",
     "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "Publisher Correction: The P-loop NTPase RUVBL2 is a conserved clock component across eukaryotes",
+    "title_es": "Corrección editorial: La NTPasa de bucle P RUVBL2 es un componente del reloj conservado en eucariotas",
+    "url": "https://www.nature.com/articles/s41586-025-09237-y",
+    "date": "2025-06-20",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Revealed: How the brain turns stress into a bad night's sleep",
+    "title_es": "Revelado: Cómo el cerebro convierte el estrés en una mala noche de sueño",
+    "url": "https://www.nature.com/articles/d41586-025-01910-6",
+    "date": "2025-06-20",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Single-celled organisms set for greater role in gut health",
+    "title_es": "Los organismos unicelulares, más implicados en la salud intestinal",
+    "url": "https://www.nature.com/articles/d41586-025-01916-0",
+    "date": "2025-06-20",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "AI slashes time to produce gold-standard medical reviews — but sceptics urge caution",
+    "title_es": "La IA reduce drásticamente el tiempo necesario para realizar revisiones médicas de calidad, pero los escépticos piden cautela",
+    "url": "https://www.nature.com/articles/d41586-025-01942-y",
+    "date": "2025-06-20",
+    "source": "Nature",
     "content_es": ""
   },
   {
     "title": "Strategies for climate-resilient global wind and solar power systems",
     "title_es": "Estrategias para sistemas mundiales de energía eólica y solar resistentes al clima",
     "url": "https://www.nature.com/articles/s41586-025-09266-7",
-    "date": "2025-06-19",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Author Correction: Collagenolysis-dependent DDR1 signalling dictates pancreatic cancer outcome",
-    "title_es": "Corrección del Autor: La señalización de DDR1 dependiente de la colagenolisis determina la evolución del cáncer de páncreas",
-    "url": "https://www.nature.com/articles/s41586-025-09285-4",
-    "date": "2025-06-19",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Editorial Expression of Concern: Transformation of primary human endothelial cells by Kaposi’s sarcoma-associated herpesvirus",
-    "title_es": "Editorial Expression of Concern: Transformación de células endoteliales humanas primarias por el herpesvirus asociado al sarcoma de Kaposi",
-    "url": "https://www.nature.com/articles/s41586-025-09239-w",
-    "date": "2025-06-19",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "On the effects of fault alignment on slip stability",
-    "title_es": "Efectos de la alineación de las fallas en la estabilidad del deslizamiento",
-    "url": "https://www.nature.com/articles/s41586-025-09117-5",
-    "date": "2025-06-19",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Reply to: On the effects of fault alignment on slip stability",
-    "title_es": "Respuesta a: Sobre los efectos de la alineación de las fallas en la estabilidad del deslizamiento",
-    "url": "https://www.nature.com/articles/s41586-025-09118-4",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,7 +83,7 @@
     "title": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\" ",
     "title_es": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\"",
     "url": "https://www.cnic.es/es/noticias/eduardo-marban-hemos-disenado-un-producto-celular-deramiocel-momento-hemos-tenido",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +91,7 @@
     "title": "Eduardo Marbán: \"We have designed a cellular product called Deramiocel, and until now, we have had positive results in at least two clinical trials\" ",
     "title_es": "Eduardo Marbán: \"Hemos diseñado un producto celular llamado Deramiocel, y hasta ahora hemos tenido resultados positivos en al menos dos ensayos clínicos\"",
     "url": "https://www.cnic.es/es/node/234665",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +99,7 @@
     "title": "Three CNIC projects receive more than €5 million in ERC Advanced Grant funding",
     "title_es": "Tres proyectos del CNIC reciben más de 5 millones de euros de financiación ERC Advanced Grant",
     "url": "https://www.cnic.es/es/noticias/three-cnic-projects-receive-more-eu5-million-erc-advanced-grant-funding",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,7 +107,7 @@
     "title": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
     "title_es": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
     "url": "https://www.cnic.es/es/noticias/tres-proyectos-cnic-recibiran-mas-5-millones-euros-convocatoria-erc-advanced-grant-0",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIC",
     "content_es": ""
   },
@@ -155,7 +115,7 @@
     "title": "Luis A. Moreno Aznar: “Obesity is a complex issue, but it can be prevented and improved if we act on all fronts”",
     "title_es": "Luis A. Moreno Aznar: \"La obesidad es un tema complejo, pero se puede prevenir y mejorar si actuamos en todos los frentes\"",
     "url": "https://www.cnic.es/es/node/234514",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +123,7 @@
     "title": "El CNIO obtiene por cuarta vez la acreditación de Centro de Excelencia Severo Ochoa",
     "title_es": "El CNIO obtiene por cuarta vez la acreditación de Centro de Excelencia Severo Ochoa",
     "url": "https://www.cnio.es/noticias/el-cnio-obtiene-por-cuarta-vez-la-acreditacion-de-centro-de-excelencia-severo-ochoa/",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +131,7 @@
     "title": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "title_es": "La biología se adentra cada vez más en los engranajes de la maquinaria que hace funcionar las células",
     "url": "https://www.cnio.es/noticias/la-biologia-se-adentra-cada-vez-mas-en-los-engranajes-de-la-maquinaria-que-hace-funcionar-las-celulas/",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +139,7 @@
     "title": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "title_es": "El CNIO abre una vía hacia la prevención del cáncer de páncreas",
     "url": "https://www.cnio.es/noticias/el-cnio-abre-una-via-hacia-la-prevencion-del-cancer-de-pancreas/",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +147,7 @@
     "title": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "title_es": "Una nueva inmunoterapia para la leucemia linfoblástica aguda de células B, el cáncer pediátrico más frecuente",
     "url": "https://www.cnio.es/noticias/una-nueva-inmunoterapia-para-la-leucemia-linfoblastica-aguda-de-celulas-b-el-cancer-pediatrico-mas-frecuente/",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +155,7 @@
     "title": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "title_es": "Una copia virtual para cada mujer con cáncer: así avanza la medicina personalizada en cáncer",
     "url": "https://www.cnio.es/noticias/una-copia-virtual-para-cada-mujer-con-cancer-asi-avanza-la-medicina-personalizada-en-cancer/",
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "source": "CNIO",
     "content_es": ""
   }
