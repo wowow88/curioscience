@@ -1,49 +1,9 @@
 [
   {
-    "title": "ClusterRCA: Network Failure Diagnosis in HPC Systems Using Multimodal Data",
-    "title_es": "ClusterRCA: diagnóstico de fallos de red en sistemas HPC mediante datos multimodales",
-    "url": "https://arxiv.org/abs/2506.20673",
-    "date": "2025-06-28",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Scalable GPU Performance Variability Analysis framework",
-    "title_es": "Marco escalable de análisis de la variabilidad del rendimiento de la GPU",
-    "url": "https://arxiv.org/abs/2506.20674",
-    "date": "2025-06-28",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Utility-Driven Speculative Decoding for Mixture-of-Experts",
-    "title_es": "Descodificación especulativa basada en utilidades para mezclas de expertos",
-    "url": "https://arxiv.org/abs/2506.20675",
-    "date": "2025-06-28",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Adaptive Hybrid Sort: Dynamic Strategy Selection for Optimal Sorting Across Diverse Data Distributions",
-    "title_es": "Ordenación híbrida adaptativa: Selección dinámica de estrategias para la ordenación óptima de diversas distribuciones de datos",
-    "url": "https://arxiv.org/abs/2506.20677",
-    "date": "2025-06-28",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
-    "title": "Establishing validated standards for Home and Work location Detection",
-    "title_es": "Establecimiento de normas validadas para la detección de lugares de trabajo y de residencia",
-    "url": "https://arxiv.org/abs/2506.20679",
-    "date": "2025-06-28",
-    "source": "arXiv",
-    "content_es": ""
-  },
-  {
     "title": "Producing hunger",
     "title_es": "Producir hambre",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady0446?af=R",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +11,7 @@
     "title": "Facing life’s wild unknowns",
     "title_es": "Afrontar las incógnitas de la vida",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady3159?af=R",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +19,7 @@
     "title": "Death Glitch",
     "title_es": "Fallo mortal",
     "url": "https://www.science.org/doi/abs/10.1126/science.adz3936?af=R",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +27,7 @@
     "title": "Bespoke plant glycoconjugates for gut microbiota–mediated drug targeting",
     "title_es": "Glucoconjugados vegetales a medida para la administración de fármacos a través de la microbiota intestinal",
     "url": "https://www.science.org/doi/abs/10.1126/science.adk7633?af=R",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,7 +35,7 @@
     "title": "Gradient refractive indices enable squid structural color and inspire multispectral materials",
     "title_es": "Los índices de refracción graduales permiten el color estructural del calamar e inspiran materiales multiespectrales",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn1570?af=R",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Science.org",
     "content_es": ""
   },
@@ -83,7 +43,7 @@
     "title": "Exclusive: NIH still screens grants in process a judge ruled illegal",
     "title_es": "Exclusiva: Los NIH siguen examinando subvenciones en un proceso que un juez declaró ilegal",
     "url": "https://www.nature.com/articles/d41586-025-02024-9",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Nature",
     "content_es": ""
   },
@@ -91,7 +51,7 @@
     "title": "Arrests of scientists over smuggled samples add to US border anxiety",
     "title_es": "La detención de científicos por el contrabando de muestras aumenta la inquietud en la frontera de EE.UU.",
     "url": "https://www.nature.com/articles/d41586-025-01958-4",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Nature",
     "content_es": ""
   },
@@ -99,7 +59,7 @@
     "title": "Can AI build a virtual cell? Scientists race to model life’s smallest unit",
     "title_es": "¿Puede la IA construir una célula virtual? Los científicos compiten por modelar la unidad más pequeña de la vida",
     "url": "https://www.nature.com/articles/d41586-025-02011-0",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Nature",
     "content_es": ""
   },
@@ -107,7 +67,7 @@
     "title": "First independent survey of deaths in Gaza reports more than 80,000 fatalities",
     "title_es": "El primer estudio independiente sobre las muertes en Gaza informa de más de 80.000 víctimas mortales",
     "url": "https://www.nature.com/articles/d41586-025-02009-8",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Nature",
     "content_es": ""
   },
@@ -115,7 +75,7 @@
     "title": "Niède Guidon obituary: Brazilian archaeologist who upended ideas on early human migration",
     "title_es": "Obituario de Niède Guidon: La arqueóloga brasileña que cambió las ideas sobre las primeras migraciones humanas",
     "url": "https://www.nature.com/articles/d41586-025-02029-4",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,7 +83,7 @@
     "title": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
     "title_es": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
     "url": "https://www.cnic.es/es/noticias/visita-universidad-shanghai-al-cnic-para-explorar-futuras-colaboraciones",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +91,7 @@
     "title": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\" ",
     "title_es": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\"",
     "url": "https://www.cnic.es/es/noticias/eduardo-marban-hemos-disenado-un-producto-celular-deramiocel-momento-hemos-tenido",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +99,7 @@
     "title": "Eduardo Marbán: \"We have designed a cellular product called Deramiocel, and until now, we have had positive results in at least two clinical trials\" ",
     "title_es": "Eduardo Marbán: \"Hemos diseñado un producto celular llamado Deramiocel, y hasta ahora hemos tenido resultados positivos en al menos dos ensayos clínicos\"",
     "url": "https://www.cnic.es/es/node/234665",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,7 +107,7 @@
     "title": "Three CNIC projects receive more than €5 million in ERC Advanced Grant funding",
     "title_es": "Tres proyectos del CNIC reciben más de 5 millones de euros de financiación ERC Advanced Grant",
     "url": "https://www.cnic.es/es/noticias/three-cnic-projects-receive-more-eu5-million-erc-advanced-grant-funding",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIC",
     "content_es": ""
   },
@@ -155,7 +115,7 @@
     "title": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
     "title_es": "Tres proyectos del CNIC recibirán más de 5 millones de euros en la convocatoria ‘ERC Advanced Grant’ ",
     "url": "https://www.cnic.es/es/noticias/tres-proyectos-cnic-recibiran-mas-5-millones-euros-convocatoria-erc-advanced-grant-0",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +123,7 @@
     "title": "Roger Castells-Graells recibe el premio Hawk Biosystems de la Sociedad de Biofísica de España",
     "title_es": "Roger Castells-Graells recibe el premio Hawk Biosystems de la Sociedad de Biofísica de España",
     "url": "https://www.cnio.es/noticias/roger-castells-graells-recibe-el-premio-hawk-biosystems-de-la-sociedad-espanola-de-biofisica/",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +131,7 @@
     "title": "Mariano Barbacid, Premio Valor Añadido a la Ciencia e Investigación",
     "title_es": "Mariano Barbacid, Premio Valor Añadido a la Ciencia e Investigación",
     "url": "https://www.cnio.es/noticias/mariano-barbacid-premio-valor-anadido-a-la-ciencia-e-investigacion/",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +139,7 @@
     "title": "El CNIO crea ‘nanopartículas de proteínas’ para acelerar el desarrollo de fármacos contra el cáncer",
     "title_es": "El CNIO crea ‘nanopartículas de proteínas’ para acelerar el desarrollo de fármacos contra el cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-crea-nanoparticulas-de-proteinas-para-acelerar-el-desarrollo-de-farmacos-contra-el-cancer/",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +147,7 @@
     "title": "Un estudio del CNIO descubre biomarcadores que predicen qué pacientes no responderán a la quimioterapia contra el cáncer",
     "title_es": "Un estudio del CNIO descubre biomarcadores que predicen qué pacientes no responderán a la quimioterapia contra el cáncer",
     "url": "https://www.cnio.es/noticias/un-estudio-del-cnio-descubre-biomarcadores-que-predicen-que-pacientes-no-responderan-a-la-quimioterapia-contra-el-cancer/",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +155,7 @@
     "title": "El CNIO obtiene por cuarta vez la acreditación de Centro de Excelencia Severo Ochoa",
     "title_es": "El CNIO obtiene por cuarta vez la acreditación de Centro de Excelencia Severo Ochoa",
     "url": "https://www.cnio.es/noticias/el-cnio-obtiene-por-cuarta-vez-la-acreditacion-de-centro-de-excelencia-severo-ochoa/",
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "source": "CNIO",
     "content_es": ""
   }
