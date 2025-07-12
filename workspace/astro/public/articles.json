@@ -1,41 +1,41 @@
 [
   {
-    "title": "Unveiling the Underwater World: CLIP Perception Model-Guided Underwater Image Enhancement",
-    "title_es": "Desvelando el mundo submarino: Mejora de imágenes submarinas guiada por el modelo de percepción CLIP",
-    "url": "https://arxiv.org/abs/2507.06234",
-    "date": "2025-07-11",
+    "title": "Multi-level Mixture of Experts for Multimodal Entity Linking",
+    "title_es": "Mezcla multinivel de expertos para la vinculación multimodal de entidades",
+    "url": "https://arxiv.org/abs/2507.07108",
+    "date": "2025-07-12",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Super Kawaii Vocalics: Amplifying the \"Cute\" Factor in Computer Voice",
-    "title_es": "Vocales súper kawaii: Amplificación del factor \"mono\" en la voz por ordenador",
-    "url": "https://arxiv.org/abs/2507.06235",
-    "date": "2025-07-11",
+    "title": "Distributed Training under Packet Loss",
+    "title_es": "Entrenamiento distribuido con pérdida de paquetes",
+    "url": "https://arxiv.org/abs/2507.07114",
+    "date": "2025-07-12",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Single Block On",
-    "title_es": "Bloque único activado",
-    "url": "https://arxiv.org/abs/2507.06236",
-    "date": "2025-07-11",
+    "title": "Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation",
+    "title_es": "Control autónomo con LLM: Un marco agenético para la automatización industrial de próxima generación",
+    "url": "https://arxiv.org/abs/2507.07115",
+    "date": "2025-07-12",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "A Comparative Study and Implementation of Key Derivation Functions Standardized by NIST and IEEE",
-    "title_es": "Estudio comparativo e implementación de funciones de derivación de claves normalizadas por el NIST y el IEEE",
-    "url": "https://arxiv.org/abs/2507.06244",
-    "date": "2025-07-11",
+    "title": "Analysing semantic data storage in Distributed Ledger Technologies for Data Spaces",
+    "title_es": "Análisis del almacenamiento semántico de datos en las tecnologías de libro mayor distribuido para espacios de datos",
+    "url": "https://arxiv.org/abs/2507.07116",
+    "date": "2025-07-12",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems",
-    "title_es": "Necesitamos urgentemente una gestión de privilegios en MCP: una medición del uso de API en los ecosistemas MCP",
-    "url": "https://arxiv.org/abs/2507.06250",
-    "date": "2025-07-11",
+    "title": "Collective Communication Profiling of Modern-day Machine Learning Workloads",
+    "title_es": "Perfiles de comunicación colectiva de las cargas de trabajo modernas de aprendizaje automático",
+    "url": "https://arxiv.org/abs/2507.07117",
+    "date": "2025-07-12",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "The boundless energy, and ego, of Luis Alvarez",
     "title_es": "La energía sin límites, y el ego, de Luis Álvarez",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady3560?af=R",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Following in our footsteps",
     "title_es": "Siguiendo nuestros pasos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adz3267?af=R",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Macrophage-derived oncostatin M repairs the lung epithelial barrier during inflammatory damage",
     "title_es": "La oncostatina M derivada de macrófagos repara la barrera epitelial pulmonar durante el daño inflamatorio",
     "url": "https://www.science.org/doi/abs/10.1126/science.adi8828?af=R",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "ROS transfer at peroxisome-mitochondria contact regulates mitochondrial redox",
     "title_es": "La transferencia de ROS en el contacto peroxisoma-mitocondria regula el redox mitocondrial",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn2804?af=R",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,55 +75,63 @@
     "title": "Human neuron subtype programming via single-cell transcriptome-coupled patterning screens",
     "title_es": "Programación de subtipos de neuronas humanas mediante pantallas de patrones acoplados al transcriptoma de una sola célula",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn6121?af=R",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Author Correction: Genome-wide CRISPR screen in human T cells reveals regulators of FOXP3",
-    "title_es": "Corrección del autor: CRISPR pantalla de todo el genoma en células T humanas revela reguladores de FOXP3",
-    "url": "https://www.nature.com/articles/s41586-025-09356-6",
-    "date": "2025-07-11",
+    "title": "Author Correction: Adhesive anti-fibrotic interfaces on diverse organs",
+    "title_es": "Corrección del autor: Interfaces adhesivas antifibróticas en diversos órganos",
+    "url": "https://www.nature.com/articles/s41586-025-09311-5",
+    "date": "2025-07-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Extreme river flood exposes latent erosion risk",
-    "title_es": "Una crecida extrema del río deja al descubierto un riesgo de erosión latente",
-    "url": "https://www.nature.com/articles/s41586-025-09305-3",
-    "date": "2025-07-11",
+    "title": "Three weeks in a hide to spot one elusive bear: the life of a wildlife film-maker",
+    "title_es": "Tres semanas en un escondite para ver un escurridizo oso: la vida de un cineasta de fauna salvaje",
+    "url": "https://www.nature.com/articles/d41586-025-02195-5",
+    "date": "2025-07-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Author Correction: Spatial immune scoring system predicts hepatocellular carcinoma recurrence",
-    "title_es": "Corrección del autor: El sistema de puntuación inmune espacial predice la recurrencia del carcinoma hepatocelular",
-    "url": "https://www.nature.com/articles/s41586-025-09366-4",
-    "date": "2025-07-11",
+    "title": "Lonely spacecraft can navigate the stars",
+    "title_es": "Una nave espacial solitaria puede navegar por las estrellas",
+    "url": "https://www.nature.com/articles/d41586-025-02108-6",
+    "date": "2025-07-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Promising vaccine against deadly Nipah virus can also treat infection",
-    "title_es": "Una prometedora vacuna contra el mortal virus Nipah también puede tratar la infección",
-    "url": "https://www.nature.com/articles/d41586-025-02173-x",
-    "date": "2025-07-11",
+    "title": "Mini hearts, lungs and livers made in lab now grow their own blood vessels",
+    "title_es": "Minicorazones, pulmones e hígados fabricados en laboratorio que ahora producen sus propios vasos sanguíneos",
+    "url": "https://www.nature.com/articles/d41586-025-02183-9",
+    "date": "2025-07-12",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Survey of US postdocs finds threefold increase in job losses",
-    "title_es": "Los postdoctorados estadounidenses triplican la pérdida de puestos de trabajo",
-    "url": "https://www.nature.com/articles/d41586-025-02140-6",
-    "date": "2025-07-11",
+    "title": "Scientists hide messages in papers to game AI peer review",
+    "title_es": "Los científicos ocultan mensajes en sus artículos para burlar la revisión por pares de la IA",
+    "url": "https://www.nature.com/articles/d41586-025-02172-y",
+    "date": "2025-07-12",
     "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
+    "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
+    "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
+    "date": "2025-07-12",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +139,7 @@
     "title": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
     "title_es": "Genómica Celular: Científicos del CNIC desvelan cómo evolucionó el sistema energético celular y cómo este conocimiento podría mejorar el diagnóstico de enfermedades genéticas raras",
     "url": "https://www.cnic.es/es/node/235158",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +147,7 @@
     "title": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas ",
     "title_es": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas ",
     "url": "https://www.cnic.es/es/noticias/cell-genomics-revelan-como-ha-evolucionado-sistema-energetico-celulas-como-puede-ayudar",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,15 +155,7 @@
     "title": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
     "title_es": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
     "url": "https://www.cnic.es/es/noticias/visita-universidad-shanghai-al-cnic-para-explorar-futuras-colaboraciones",
-    "date": "2025-07-11",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\" ",
-    "title_es": "Eduardo Marbán: \"Hemos diseñado un producto celular, deramiocel, y de momento hemos tenido resultados positivos dos ensayos clínicos\"",
-    "url": "https://www.cnic.es/es/noticias/eduardo-marban-hemos-disenado-un-producto-celular-deramiocel-momento-hemos-tenido",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +163,7 @@
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +171,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +179,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +187,7 @@
     "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +195,7 @@
     "title": "Los daños en el ADN derivados de la contaminación atmosférica podrían contribuir al cáncer de pulmón en personas no fumadoras, halla un estudio",
     "title_es": "Los daños en el ADN derivados de la contaminación atmosférica podrían contribuir al cáncer de pulmón en personas no fumadoras, halla un estudio",
     "url": "https://www.cnio.es/noticias/los-danos-en-el-adn-derivados-de-la-contaminacion-atmosferica-podrian-contribuir-al-cancer-de-pulmon-en-personas-no-fumadoras-halla-un-estudio/",
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "source": "CNIO",
     "content_es": ""
   }
