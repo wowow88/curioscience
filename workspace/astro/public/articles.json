@@ -1,41 +1,41 @@
 [
   {
-    "title": "Cognitive Dissonance Artificial Intelligence (CD-AI): The Mind at War with Itself. Harnessing Discomfort to Sharpen Critical Thinking",
-    "title_es": "Inteligencia Artificial de Disonancia Cognitiva (CD-AI): La mente en guerra consigo misma. Aprovechar el malestar para agudizar el pensamiento crítico",
-    "url": "https://arxiv.org/abs/2507.08804",
-    "date": "2025-07-16",
+    "title": "Three-dimensional SPH modeling of brittle fracture under hydrodynamic loading",
+    "title_es": "Modelización SPH tridimensional de la fractura frágil bajo carga hidrodinámica",
+    "url": "https://arxiv.org/abs/2507.10553",
+    "date": "2025-07-17",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Non-linear, Team-based VR Training for Cardiac Arrest Care with enhanced CRM Toolkit",
-    "title_es": "Formación en RV no lineal y en equipo para la atención de la parada cardiaca con un kit de herramientas CRM mejorado",
-    "url": "https://arxiv.org/abs/2507.08805",
-    "date": "2025-07-16",
+    "title": "NLP Meets the World: Toward Improving Conversations With the Public About Natural Language Processing Research",
+    "title_es": "La PNL se encuentra con el mundo: Hacia la mejora de las conversaciones con el público sobre la investigación en procesamiento del lenguaje natural",
+    "url": "https://arxiv.org/abs/2507.10559",
+    "date": "2025-07-17",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Think Clearly: Improving Reasoning via Redundant Token Pruning",
-    "title_es": "Pensar con claridad: Mejora del razonamiento mediante la eliminación de tokens redundantes",
-    "url": "https://arxiv.org/abs/2507.08806",
-    "date": "2025-07-16",
+    "title": "Tangma: A Tanh-Guided Activation Function with Learnable Parameters",
+    "title_es": "Tangma: Una función de activación guiada por Tanh con parámetros aprendibles",
+    "url": "https://arxiv.org/abs/2507.10560",
+    "date": "2025-07-17",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Recurrent Expansion: A Pathway Toward the Next Generation of Deep Learning",
-    "title_es": "Expansión recurrente: Un camino hacia la próxima generación de aprendizaje profundo",
-    "url": "https://arxiv.org/abs/2507.08828",
-    "date": "2025-07-16",
+    "title": "SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST",
+    "title_es": "SFATTI: Acelerador FPGA de picos para la inferencia temporal basada en tareas - Un estudio de caso sobre MNIST",
+    "url": "https://arxiv.org/abs/2507.10561",
+    "date": "2025-07-17",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Efficient Triple Modular Redundancy for Reliability Enhancement of DNNs Using Explainable AI",
-    "title_es": "Redundancia modular triple eficiente para mejorar la fiabilidad de las DNN mediante IA explicable",
-    "url": "https://arxiv.org/abs/2507.08829",
-    "date": "2025-07-16",
+    "title": "SAMEP: A Secure Protocol for Persistent Context Sharing Across AI Agents",
+    "title_es": "SAMEP: un protocolo seguro para compartir contextos persistentes entre agentes de inteligencia artificial",
+    "url": "https://arxiv.org/abs/2507.10562",
+    "date": "2025-07-17",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "The boundless energy, and ego, of Luis Alvarez",
     "title_es": "La energía sin límites, y el ego, de Luis Álvarez",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady3560?af=R",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Following in our footsteps",
     "title_es": "Siguiendo nuestros pasos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adz3267?af=R",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Macrophage-derived oncostatin M repairs the lung epithelial barrier during inflammatory damage",
     "title_es": "La oncostatina M derivada de macrófagos repara la barrera epitelial pulmonar durante el daño inflamatorio",
     "url": "https://www.science.org/doi/abs/10.1126/science.adi8828?af=R",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "ROS transfer at peroxisome-mitochondria contact regulates mitochondrial redox",
     "title_es": "La transferencia de ROS en el contacto peroxisoma-mitocondria regula el redox mitocondrial",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn2804?af=R",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,55 +75,71 @@
     "title": "Human neuron subtype programming via single-cell transcriptome-coupled patterning screens",
     "title_es": "Programación de subtipos de neuronas humanas mediante pantallas de patrones acoplados al transcriptoma de una sola célula",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn6121?af=R",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "A canine friend to a feline family",
-    "title_es": "Un amigo canino para una familia felina",
-    "url": "https://www.nature.com/articles/d41586-025-02062-3",
-    "date": "2025-07-16",
+    "title": "Temperature-Related Hospitalization Burden under Climate Change",
+    "title_es": "Carga de hospitalización relacionada con la temperatura bajo el cambio climático",
+    "url": "https://www.nature.com/articles/s41586-025-09352-w",
+    "date": "2025-07-17",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Map endemic species before they vanish unrecorded",
-    "title_es": "Cartografíe las especies endémicas antes de que desaparezcan sin ser registradas",
-    "url": "https://www.nature.com/articles/d41586-025-02218-1",
-    "date": "2025-07-16",
+    "title": "Author Correction: BNT162b2 vaccine induces neutralizing antibodies and poly-specific T cells in humans",
+    "title_es": "Corrección del autor: La vacuna BNT162b2 induce anticuerpos neutralizantes y células T poliespecíficas en humanos",
+    "url": "https://www.nature.com/articles/s41586-025-09355-7",
+    "date": "2025-07-17",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Invest in data resources to make FAIR a reality",
-    "title_es": "Invertir en recursos de datos para hacer realidad FAIR",
-    "url": "https://www.nature.com/articles/d41586-025-02216-3",
-    "date": "2025-07-16",
+    "title": "‘Stealth flippers’ helped this extinct mega-predator stalk its prey",
+    "title_es": "Las \"aletas sigilosas\" ayudaron a este megadepredador extinto a acechar a su presa",
+    "url": "https://www.nature.com/articles/d41586-025-02277-4",
+    "date": "2025-07-17",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "China’s journal ranking system stands up to scrutiny",
-    "title_es": "El sistema chino de clasificación de revistas resiste el escrutinio",
-    "url": "https://www.nature.com/articles/d41586-025-02219-0",
-    "date": "2025-07-16",
+    "title": "Redox-powered autonomous directional C–C bond rotation under enzyme control",
+    "title_es": "Rotación direccional autónoma del enlace C-C impulsada por agentes redox bajo control enzimático",
+    "url": "https://www.nature.com/articles/s41586-025-09291-6",
+    "date": "2025-07-17",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Critical commentaries such as ‘Matters arising’ have flawed formats",
-    "title_es": "Los comentarios críticos como \"Cuestiones planteadas\" tienen formatos defectuosos",
-    "url": "https://www.nature.com/articles/d41586-025-02217-2",
-    "date": "2025-07-16",
+    "title": "Imidazole propionate is a driver and therapeutic target in atherosclerosis",
+    "title_es": "El propionato de imidazol es un factor impulsor y una diana terapéutica en la aterosclerosis",
+    "url": "https://www.nature.com/articles/s41586-025-09263-w",
+    "date": "2025-07-17",
     "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
+    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
+    "url": "https://www.cnic.es/es/node/235399",
+    "date": "2025-07-17",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
+    "date": "2025-07-17",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +147,7 @@
     "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,23 +155,7 @@
     "title": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
     "title_es": "Genómica Celular: Científicos del CNIC desvelan cómo evolucionó el sistema energético celular y cómo este conocimiento podría mejorar el diagnóstico de enfermedades genéticas raras",
     "url": "https://www.cnic.es/es/node/235158",
-    "date": "2025-07-16",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas ",
-    "title_es": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas ",
-    "url": "https://www.cnic.es/es/noticias/cell-genomics-revelan-como-ha-evolucionado-sistema-energetico-celulas-como-puede-ayudar",
-    "date": "2025-07-16",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
-    "title_es": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones ",
-    "url": "https://www.cnic.es/es/noticias/visita-universidad-shanghai-al-cnic-para-explorar-futuras-colaboraciones",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +163,7 @@
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +171,7 @@
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +179,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +187,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +195,7 @@
     "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "source": "CNIO",
     "content_es": ""
   }
