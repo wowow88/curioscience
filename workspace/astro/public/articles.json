@@ -1,41 +1,41 @@
 [
   {
-    "title": "LevelSetPy: A GPU-Accelerated Package for Hyperbolic Hamilton-Jacobi Partial Differential Equations",
-    "title_es": "LevelSetPy: Un paquete acelerado en la GPU para ecuaciones diferenciales parciales hiperbólicas de Hamilton-Jacobi",
-    "url": "https://arxiv.org/abs/2507.11542",
-    "date": "2025-07-18",
+    "title": "Digital Twins in Industrial Applications: Concepts, Mathematical Modeling, and Use Cases",
+    "title_es": "Gemelos digitales en aplicaciones industriales: Conceptos, modelización matemática y casos prácticos",
+    "url": "https://arxiv.org/abs/2507.12468",
+    "date": "2025-07-19",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment",
-    "title_es": "Revisión de la IA Generativa en la Enseñanza de las Ciencias de la Computación: Retos y oportunidades en precisión, autenticidad y evaluación",
-    "url": "https://arxiv.org/abs/2507.11543",
-    "date": "2025-07-18",
+    "title": "Perfect diffusion is $\\mathsf{TC}^0$ -- Bad diffusion is Turing-complete",
+    "title_es": "La difusión perfecta es $\\mathsf{TC}^0$ -- La difusión mala es Turing-completa",
+    "url": "https://arxiv.org/abs/2507.12469",
+    "date": "2025-07-19",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "The Safety Gap Toolkit: Evaluating Hidden Dangers of Open-Source Models",
-    "title_es": "La caja de herramientas de la brecha de seguridad: Evaluación de los peligros ocultos de los modelos de código abierto",
-    "url": "https://arxiv.org/abs/2507.11544",
-    "date": "2025-07-18",
+    "title": "DNA Probe Computing System for Solving NP-Complete Problems",
+    "title_es": "Sistema informático de sonda de ADN para resolver problemas NP-completos",
+    "url": "https://arxiv.org/abs/2507.12470",
+    "date": "2025-07-19",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "The AI Shadow War: SaaS vs. Edge Computing Architectures",
-    "title_es": "La guerra en la sombra de la IA: arquitecturas SaaS frente a Edge Computing",
-    "url": "https://arxiv.org/abs/2507.11545",
-    "date": "2025-07-18",
+    "title": "Modular SAIL: dream or reality?",
+    "title_es": "SAIL modular: ¿sueño o realidad?",
+    "url": "https://arxiv.org/abs/2507.12471",
+    "date": "2025-07-19",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "AI Governance InternationaL Evaluation Index (AGILE Index) 2025",
-    "title_es": "Índice de evaluación internacional de la gobernanza de la IA (Índice AGILE) 2025",
-    "url": "https://arxiv.org/abs/2507.11546",
-    "date": "2025-07-18",
+    "title": "A Survey of AIOps in the Era of Large Language Models",
+    "title_es": "Estudio de las AIOps en la era de los grandes modelos lingüísticos",
+    "url": "https://arxiv.org/abs/2507.12472",
+    "date": "2025-07-19",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "Skeletal editing of pyrrolidines by nitrogen-atom insertion",
     "title_es": "Edición esquelética de pirrolidinas por inserción de átomos de nitrógeno",
     "url": "https://www.science.org/doi/abs/10.1126/science.adl4755?af=R",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Type 2 cytokines act on enteric sensory neurons to regulate neuropeptide-driven host defense",
     "title_es": "Las citoquinas de tipo 2 actúan sobre las neuronas sensoriales entéricas para regular la defensa del huésped impulsada por neuropéptidos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn9850?af=R",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Polyglycine-mediated aggregation of FAM98B disrupts tRNA processing in GGC repeat disorders",
     "title_es": "La agregación de FAM98B mediada por poliglicina interrumpe el procesamiento del ARNt en los trastornos por repetición GGC",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado2403?af=R",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "Vaccination to mitigate climate-driven disruptions to malaria control in Madagascar",
     "title_es": "Vacunación para mitigar los efectos del clima en el control de la malaria en Madagascar",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp5365?af=R",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,47 +75,47 @@
     "title": "ASB7 is a negative regulator of H3K9me3 homeostasis",
     "title_es": "ASB7 es un regulador negativo de la homeostasis de H3K9me3",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq7408?af=R",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "How the world’s biggest bats got their enormous wingspans",
-    "title_es": "Cómo consiguieron los murciélagos más grandes del mundo su enorme envergadura",
-    "url": "https://www.nature.com/articles/d41586-025-02228-z",
-    "date": "2025-07-18",
+    "title": "To the Moon and quack: Books in brief",
+    "title_es": "A la Luna y graznar Libros en breve",
+    "url": "https://www.nature.com/articles/d41586-025-02282-7",
+    "date": "2025-07-19",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "How sugar overload in early life affects the brain later",
-    "title_es": "Cómo afecta al cerebro la sobrecarga de azúcar en los primeros años de vida",
-    "url": "https://www.nature.com/articles/d41586-025-02229-y",
-    "date": "2025-07-18",
+    "title": "Asia’s haze affects ice and weather on the Frozen Continent",
+    "title_es": "La bruma asiática afecta al hielo y al clima del continente helado",
+    "url": "https://www.nature.com/articles/d41586-025-02226-1",
+    "date": "2025-07-19",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "How the brain wakes up from sleep — and produces that morning feeling",
-    "title_es": "Cómo el cerebro se despierta del sueño y produce esa sensación matutina",
-    "url": "https://www.nature.com/articles/d41586-025-02225-2",
-    "date": "2025-07-18",
+    "title": "This ancient mega-predator was built for stealth",
+    "title_es": "Este antiguo mega-depredador fue construido para el sigilo",
+    "url": "https://www.nature.com/articles/d41586-025-02304-4",
+    "date": "2025-07-19",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "How to avoid nuclear war in an era of AI and misinformation",
-    "title_es": "Cómo evitar una guerra nuclear en la era de la inteligencia artificial y la desinformación",
-    "url": "https://www.nature.com/articles/d41586-025-02260-z",
-    "date": "2025-07-18",
+    "title": "Pathology-oriented multiplexing enables integrative disease mapping",
+    "title_es": "La multiplexación orientada a la patología permite la cartografía integradora de enfermedades",
+    "url": "https://www.nature.com/articles/s41586-025-09225-2",
+    "date": "2025-07-19",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Google tapped billions of mobile phones to detect quakes worldwide — and send alerts",
-    "title_es": "Google utiliza miles de millones de teléfonos móviles para detectar terremotos en todo el mundo y enviar alertas",
-    "url": "https://www.nature.com/articles/d41586-025-02278-3",
-    "date": "2025-07-18",
+    "title": "Sex at birth is not always random — mum’s age and genetics can play a part",
+    "title_es": "El sexo al nacer no siempre es aleatorio: la edad de la madre y la genética pueden influir",
+    "url": "https://www.nature.com/articles/d41586-025-02244-z",
+    "date": "2025-07-19",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,7 +123,7 @@
     "title": "CNIC en la Noche Europea de los Investigadores 2025",
     "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
     "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,7 +131,7 @@
     "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
     "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
     "url": "https://www.cnic.es/es/node/235399",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIC",
     "content_es": ""
   },
@@ -139,7 +139,7 @@
     "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIC",
     "content_es": ""
   },
@@ -147,7 +147,7 @@
     "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIC",
     "content_es": ""
   },
@@ -155,7 +155,7 @@
     "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,7 +163,7 @@
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIO",
     "content_es": ""
   },
@@ -171,7 +171,7 @@
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIO",
     "content_es": ""
   },
@@ -179,7 +179,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +187,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +195,7 @@
     "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "source": "CNIO",
     "content_es": ""
   }
