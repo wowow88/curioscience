@@ -1,9 +1,49 @@
 [
   {
+    "title": "Physical models realizing the transformer architecture of large language models",
+    "title_es": "Modelos físicos que materializan la arquitectura de transformadores de grandes modelos lingüísticos",
+    "url": "https://arxiv.org/abs/2507.13354",
+    "date": "2025-07-21",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "PGR-DRC: Pre-Global Routing DRC Violation Prediction Using Unsupervised Learning",
+    "title_es": "PGR-DRC: Predicción de violaciones de la RDC en el enrutamiento preglobal mediante aprendizaje no supervisado",
+    "url": "https://arxiv.org/abs/2507.13355",
+    "date": "2025-07-21",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Adaptive Linguistic Prompting (ALP) Enhances Phishing Webpage Detection in Multimodal Large Language Models",
+    "title_es": "Adaptive Linguistic Prompting (ALP) Mejora la Detección de Páginas Web de Phishing en Modelos Multimodales de Lenguaje Amplio",
+    "url": "https://arxiv.org/abs/2507.13357",
+    "date": "2025-07-21",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives",
+    "title_es": "Detección de objetos de vocabulario abierto en imágenes de UAV: Revisión y perspectivas de futuro",
+    "url": "https://arxiv.org/abs/2507.13359",
+    "date": "2025-07-21",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Low-Light Enhancement via Encoder-Decoder Network with Illumination Guidance",
+    "title_es": "Mejora con poca luz mediante una red de codificador-decodificador con guía de iluminación",
+    "url": "https://arxiv.org/abs/2507.13360",
+    "date": "2025-07-21",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
     "title": "Skeletal editing of pyrrolidines by nitrogen-atom insertion",
     "title_es": "Edición esquelética de pirrolidinas por inserción de átomos de nitrógeno",
     "url": "https://www.science.org/doi/abs/10.1126/science.adl4755?af=R",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Science.org",
     "content_es": ""
   },
@@ -11,7 +51,7 @@
     "title": "Type 2 cytokines act on enteric sensory neurons to regulate neuropeptide-driven host defense",
     "title_es": "Las citoquinas de tipo 2 actúan sobre las neuronas sensoriales entéricas para regular la defensa del huésped impulsada por neuropéptidos",
     "url": "https://www.science.org/doi/abs/10.1126/science.adn9850?af=R",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Science.org",
     "content_es": ""
   },
@@ -19,7 +59,7 @@
     "title": "Polyglycine-mediated aggregation of FAM98B disrupts tRNA processing in GGC repeat disorders",
     "title_es": "La agregación de FAM98B mediada por poliglicina interrumpe el procesamiento del ARNt en los trastornos por repetición GGC",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado2403?af=R",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Science.org",
     "content_es": ""
   },
@@ -27,7 +67,7 @@
     "title": "Vaccination to mitigate climate-driven disruptions to malaria control in Madagascar",
     "title_es": "Vacunación para mitigar los efectos del clima en el control de la malaria en Madagascar",
     "url": "https://www.science.org/doi/abs/10.1126/science.adp5365?af=R",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Science.org",
     "content_es": ""
   },
@@ -35,15 +75,23 @@
     "title": "ASB7 is a negative regulator of H3K9me3 homeostasis",
     "title_es": "ASB7 es un regulador negativo de la homeostasis de H3K9me3",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq7408?af=R",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "How your research can survive a US federal grant termination",
+    "title_es": "Cómo su investigación puede sobrevivir a la rescisión de una subvención federal estadounidense",
+    "url": "https://www.nature.com/articles/d41586-025-02007-w",
+    "date": "2025-07-21",
+    "source": "Nature",
     "content_es": ""
   },
   {
     "title": "To the Moon and quack: Books in brief",
     "title_es": "A la Luna y graznar Libros en breve",
     "url": "https://www.nature.com/articles/d41586-025-02282-7",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Nature",
     "content_es": ""
   },
@@ -51,7 +99,7 @@
     "title": "Asia’s haze affects ice and weather on the Frozen Continent",
     "title_es": "La bruma asiática afecta al hielo y al clima del continente helado",
     "url": "https://www.nature.com/articles/d41586-025-02226-1",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Nature",
     "content_es": ""
   },
@@ -59,7 +107,7 @@
     "title": "This ancient mega-predator was built for stealth",
     "title_es": "Este antiguo mega-depredador fue construido para el sigilo",
     "url": "https://www.nature.com/articles/d41586-025-02304-4",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Nature",
     "content_es": ""
   },
@@ -67,15 +115,7 @@
     "title": "Pathology-oriented multiplexing enables integrative disease mapping",
     "title_es": "La multiplexación orientada a la patología permite la cartografía integradora de enfermedades",
     "url": "https://www.nature.com/articles/s41586-025-09225-2",
-    "date": "2025-07-20",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Sex at birth is not always random — mum’s age and genetics can play a part",
-    "title_es": "El sexo al nacer no siempre es aleatorio: la edad de la madre y la genética pueden influir",
-    "url": "https://www.nature.com/articles/d41586-025-02244-z",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "Nature",
     "content_es": ""
   },
@@ -83,7 +123,7 @@
     "title": "CNIC en la Noche Europea de los Investigadores 2025",
     "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
     "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +131,7 @@
     "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
     "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
     "url": "https://www.cnic.es/es/node/235399",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +139,7 @@
     "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,7 +147,7 @@
     "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIC",
     "content_es": ""
   },
@@ -115,7 +155,7 @@
     "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIC",
     "content_es": ""
   },
@@ -123,7 +163,7 @@
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIO",
     "content_es": ""
   },
@@ -131,7 +171,7 @@
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIO",
     "content_es": ""
   },
@@ -139,7 +179,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIO",
     "content_es": ""
   },
@@ -147,7 +187,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIO",
     "content_es": ""
   },
@@ -155,7 +195,7 @@
     "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
-    "date": "2025-07-20",
+    "date": "2025-07-21",
     "source": "CNIO",
     "content_es": ""
   }
