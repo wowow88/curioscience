@@ -26,20 +26,24 @@ def clasificar_tema(titulo):
 articulos = []
 
 for fuente, url in FEEDS.items():
-    feed = feedparser.parse(url)
-    for entry in feed.entries[:5]:
-        titulo = entry.title
-        traducido = GoogleTranslator(source='auto', target='es').translate(titulo)
-        articulo = {
-            "titulo_es": traducido,
-            "tema": clasificar_tema(traducido),
-            "fuente": fuente,
-            "fecha": entry.get("published", datetime.utcnow().isoformat())[:10],
-            "url": entry.link,
-            "tipo": "revista",
-            "imagen": "/placeholder.jpg"
-        }
-        articulos.append(articulo)
+    try:
+        feed = feedparser.parse(url)
+        for entry in feed.entries[:5]:
+            titulo = entry.title
+            traducido = GoogleTranslator(source='auto', target='es').translate(titulo)
+            articulo = {
+                "titulo_es": traducido,
+                "tema": clasificar_tema(traducido),
+                "fuente": fuente,
+                "fecha": entry.get("published", datetime.utcnow().isoformat())[:10],
+                "url": entry.link,
+                "tipo": "revista",
+                "imagen": "/placeholder.jpg"
+            }
+            articulos.append(articulo)
+    except Exception as e:
+        print(f"[{fuente}] Error procesando feed: {e}")
+
 
 with open("articles.json", "w", encoding="utf-8") as f:
     json.dump(articulos, f, ensure_ascii=False, indent=2)
