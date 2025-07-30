@@ -1,41 +1,41 @@
 [
   {
-    "title": "The Architecture of Cognitive Amplification: Enhanced Cognitive Scaffolding as a Resolution to the Comfort-Growth Paradox in Human-AI Cognitive Integration",
-    "title_es": "La arquitectura de la amplificación cognitiva: El andamiaje cognitivo mejorado como solución a la paradoja comodidad-crecimiento en la integración cognitiva entre humanos e IA",
-    "url": "https://arxiv.org/abs/2507.19483",
-    "date": "2025-07-29",
+    "title": "High hopes for \"Deep Medicine\"? AI, economics, and the future of care",
+    "title_es": "¿Medicina profunda? IA, economía y el futuro de la asistencia sanitaria",
+    "url": "https://arxiv.org/abs/2507.21054",
+    "date": "2025-07-30",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Towards the ideals of Self-Recovery and Metadata Privacy in Social Vault Recovery",
-    "title_es": "Hacia los ideales de autorrecuperación y privacidad de metadatos en la recuperación de bóvedas sociales",
-    "url": "https://arxiv.org/abs/2507.19484",
-    "date": "2025-07-29",
+    "title": "Bridging the Gap: Enhancing News Interpretation Across Diverse Audiences with Large Language Models",
+    "title_es": "Acortar distancias: mejorar la interpretación de noticias para públicos diversos con modelos lingüísticos amplios",
+    "url": "https://arxiv.org/abs/2507.21055",
+    "date": "2025-07-30",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Creativity as a Human Right: Design Considerations for Computational Creativity Systems",
-    "title_es": "La creatividad como derecho humano: Consideraciones sobre el diseño de sistemas de creatividad computacional",
-    "url": "https://arxiv.org/abs/2507.19485",
-    "date": "2025-07-29",
+    "title": "AI-Driven Generation of Data Contracts in Modern Data Engineering Systems",
+    "title_es": "Generación de contratos de datos impulsada por la IA en los sistemas modernos de ingeniería de datos",
+    "url": "https://arxiv.org/abs/2507.21056",
+    "date": "2025-07-30",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Confirmation bias: A challenge for scalable oversight",
-    "title_es": "Sesgo de confirmación: Un reto para la supervisión escalable",
-    "url": "https://arxiv.org/abs/2507.19486",
-    "date": "2025-07-29",
+    "title": "Examining the sentiment and emotional differences in product and service reviews: The moderating role of culture",
+    "title_es": "Examen del sentimiento y las diferencias emocionales en las reseñas de productos y servicios: El papel moderador de la cultura",
+    "url": "https://arxiv.org/abs/2507.21057",
+    "date": "2025-07-30",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Does AI and Human Advice Mitigate Punishment for Selfish Behavior? An Experiment on AI ethics From a Psychological Perspective",
-    "title_es": "¿Mitiga la IA y el asesoramiento humano el castigo por comportamiento egoísta? Un experimento sobre la ética de la IA desde una perspectiva psicológica",
-    "url": "https://arxiv.org/abs/2507.19487",
-    "date": "2025-07-29",
+    "title": "Categorical Classification of Book Summaries Using Word Embedding Techniques",
+    "title_es": "Clasificación categórica de resúmenes de libros mediante técnicas de incrustación de palabras",
+    "url": "https://arxiv.org/abs/2507.21058",
+    "date": "2025-07-30",
     "source": "arXiv",
     "content_es": ""
   },
@@ -43,7 +43,7 @@
     "title": "Stone and its stories",
     "title_es": "La piedra y sus historias",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady7001?af=R",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "Science.org",
     "content_es": ""
   },
@@ -51,7 +51,7 @@
     "title": "Sensing early civilizations",
     "title_es": "Detectar las primeras civilizaciones",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady4803?af=R",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "Science.org",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Global patterns and drivers of untracked industrial fishing in coastal marine protected areas",
     "title_es": "Patrones globales e impulsores de la pesca industrial sin seguimiento en zonas marinas costeras protegidas",
     "url": "https://www.science.org/doi/abs/10.1126/science.ado9468?af=R",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "BBO-10203 inhibits tumor growth without inducing hyperglycemia by blocking RAS-PI3Kα interaction",
     "title_es": "BBO-10203 inhibe el crecimiento tumoral sin inducir hiperglucemia al bloquear la interacción RAS-PI3Kα",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq2004?af=R",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,15 +75,55 @@
     "title": "Genetics, energetics, and allostery in proteins with randomized cores and surfaces",
     "title_es": "Genética, energía y alosteria en proteínas con núcleos y superficies aleatorios",
     "url": "https://www.science.org/doi/abs/10.1126/science.adq3948?af=R",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies",
+    "title_es": "El laboratorio virtual de agentes de IA diseña nuevos nanocuerpos contra el SARS-CoV-2",
+    "url": "https://www.nature.com/articles/s41586-025-09442-9",
+    "date": "2025-07-30",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Can science address painters’ problems?",
+    "title_es": "¿Puede la ciencia resolver los problemas de los pintores?",
+    "url": "https://www.nature.com/articles/d41586-025-02139-z",
+    "date": "2025-07-30",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "The brain fires up immune cells when sick people are nearby",
+    "title_es": "El cerebro activa las células inmunitarias cuando hay enfermos cerca",
+    "url": "https://www.nature.com/articles/d41586-025-02363-7",
+    "date": "2025-07-30",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Cell's sugar coating mapped at below-nanometre resolution",
+    "title_es": "La capa de azúcar de las células se cartografía con una resolución inferior al nanómetro",
+    "url": "https://www.nature.com/articles/d41586-025-02376-2",
+    "date": "2025-07-30",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "How China’s bold talent recruitment has shaped science",
+    "title_es": "Cómo la audaz captación de talento en China ha dado forma a la ciencia",
+    "url": "https://www.nature.com/articles/d41586-025-02336-w",
+    "date": "2025-07-30",
+    "source": "Nature",
     "content_es": ""
   },
   {
     "title": "CNIC en la Noche Europea de los Investigadores 2025",
     "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
     "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIC",
     "content_es": ""
   },
@@ -91,7 +131,7 @@
     "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
     "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
     "url": "https://www.cnic.es/es/node/235399",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIC",
     "content_es": ""
   },
@@ -99,7 +139,7 @@
     "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
     "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIC",
     "content_es": ""
   },
@@ -107,7 +147,7 @@
     "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE ",
     "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIC",
     "content_es": ""
   },
@@ -115,7 +155,7 @@
     "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
     "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIC",
     "content_es": ""
   },
@@ -123,7 +163,7 @@
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIO",
     "content_es": ""
   },
@@ -131,7 +171,7 @@
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIO",
     "content_es": ""
   },
@@ -139,7 +179,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIO",
     "content_es": ""
   },
@@ -147,7 +187,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIO",
     "content_es": ""
   },
@@ -155,7 +195,7 @@
     "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
     "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "source": "CNIO",
     "content_es": ""
   }
