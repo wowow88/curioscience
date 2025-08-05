@@ -8,9 +8,20 @@ from arxiv import Search, SortCriterion, Client
 import time
 from requests.exceptions import ConnectionError
 import os
+import shutil
 
 OUTPUT_PATH = "workspace/astro/public/articles_py.json"
+BACKUP_DIR = "workspace/astro/backups"
 SPANISH_SOURCES = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
+
+
+def backup_previous_version():
+    os.makedirs(BACKUP_DIR, exist_ok=True)
+    if os.path.exists(OUTPUT_PATH):
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        backup_path = os.path.join(BACKUP_DIR, f"articles_py_{timestamp}.json")
+        shutil.copy2(OUTPUT_PATH, backup_path)
+        print(f"🗂 Copia de seguridad creada en {backup_path}")
 
 
 def fetch_arxiv():
@@ -88,6 +99,7 @@ def load_existing():
 
 
 def main():
+    backup_previous_version()
     all_articles = []
     for attempt in range(3):
         try:
@@ -126,5 +138,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
