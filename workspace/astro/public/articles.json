@@ -16,30 +16,6 @@
     "content_es": "Un ex jefe de la Oficina de Estadísticas Laborales refuta la razón por la cual el presidente despidió al líder de la agencia"
   },
   {
-    "title": "Immune-dodging cells could give diabetes treatment a shot in the arm",
-    "title_es": "Las células de la red inmune podrían darle un disparo al tratamiento con diabetes en el brazo",
-    "url": "https://www.science.org/content/article/immune-dodging-cells-could-give-diabetes-treatment-shot-arm",
-    "date": "2025-08-05",
-    "source": "Science.org",
-    "content_es": "En la primera prueba humana, las células de páncreas modificadas genéticamente inyectadas en el brazo del paciente evaden el ataque inmune, producen insulina"
-  },
-  {
-    "title": "Mysterious killer of sea stars finally identified",
-    "title_es": "Misterioso asesino de estrellas de mar finalmente identificadas",
-    "url": "https://www.science.org/content/article/mysterious-killer-sea-stars-finally-identified",
-    "date": "2025-08-05",
-    "source": "Science.org",
-    "content_es": "El descubrimiento de una bacteria podría revelar más sobre la muerte masiva, tal vez la recuperación de la ayuda"
-  },
-  {
-    "title": "One-fifth of computer science papers may include AI content",
-    "title_es": "Una quinta parte de los documentos de informática puede incluir contenido de IA",
-    "url": "https://www.science.org/content/article/one-fifth-computer-science-papers-may-include-ai-content",
-    "date": "2025-08-05",
-    "source": "Science.org",
-    "content_es": "Se ha detectado un aumento en el texto generado por IA en documentos en muchas disciplinas desde el lanzamiento de ChatGPT"
-  },
-  {
     "title": "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse",
     "title_es": "ReVise: Una interfaz humano-inteligencia artificial para el recurso algorítmico incremental",
     "url": "https://arxiv.org/abs/2508.00002",
@@ -176,70 +152,6 @@
     "content_es": "La gestión eficiente de los ahorro de mantenimiento de las aeronaves es crítica\ndesafío operativo, que involucra decisiones complejas e interdependientes con respecto a\nProgramación de aviones y asignación espacial. Este artículo presenta una novela\nModelo de programación lineal (MILP) de tiempo mixto (MILP) para resolver esto para resolver esto\nProblema espacio-temporal integrado. Tratando el tiempo como una variable continua,\nNuestra formulación supera las limitaciones de escalabilidad de\nenfoques de tiempo discreto. El rendimiento del modelo exacto está en referencia\ncontra una heurística constructiva, y su aplicabilidad práctica es\ndemostrado a través de un tablero de visualización personalizado. Computacional\nLos resultados son convincentes: el modelo resuelve instancias con hasta 25 aviones para\nOptimización comprobada, a menudo en solo segundos, y para casos a gran escala de hasta 40\nAeronave, ofrece soluciones de alta calidad dentro de las brechas de optimización conocidas. En total\nescenarios probados, las soluciones resultantes de manera consistente y significativa\nsuperar a la heurística, que destaca la sustancial económica del marco\nbeneficios y proporciona valiosas ideas gerenciales sobre la compensación entre\nTiempo de solución y optimización."
   },
   {
-    "title": "Actionable Counterfactual Explanations Using Bayesian Networks and Path Planning with Applications to Environmental Quality Improvement",
-    "title_es": "Explicaciones contrafactuales procesables utilizando redes bayesianas y planificación de rutas con aplicaciones para mejorar la calidad ambiental",
-    "url": "http://arxiv.org/abs/2508.02634v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Explicaciones contrafactuales Estudiar lo que debería haber cambiado para obtener un\nResultado alternativo, lo que permite a los usuarios finales comprender el aprendizaje automático\nMecanismos con contraejemplos. La capacidad de acción se define como la capacidad de\nTransforme el caso original para explicarse en uno contrafactual. Nosotros\ndesarrollar un método para explicaciones contrafactuales procesables que, a diferencia de\nLos predecesores, no aprovecha directamente los datos de capacitación. Más bien, los datos son solo\nutilizado para aprender un estimador de densidad, creando un panorama de búsqueda en el que\nAplicar algoritmos de planificación de rutas para resolver el problema y enmascarar el endógeno\ndatos, que pueden ser sensibles o privados. Ponemos un enfoque especial en estimar el\ndensidad de datos utilizando redes bayesianas, demostrando cómo mejoraron\nLa interpretabilidad es útil en escenarios de alto riesgo en los que es la justicia\nplanteando preocupación. Usando un punto de referencia sintético compuesto por 15 conjuntos de datos, nuestro\nLa propuesta encuentra contrafactuales más procesables y simples que la corriente\nAlgoritmos de última generación. También probamos nuestro algoritmo con un mundo real\nConjunto de datos de la Agencia de Protección Ambiental, facilitando un más eficiente y\nEstudio equitativo de políticas para mejorar la calidad de vida en los Estados Unidos de\nCondados de América. Nuestra propuesta captura la interacción de las variables, asegurando\nEquidad en las decisiones, como políticas para mejorar ciertos dominios de estudio (aire,\nLa calidad del agua, etc.) puede ser perjudicial en los demás. En particular, el\nEl dominio sociodemográfico a menudo está involucrado, donde encontramos variables importantes\nrelacionado con la crisis de vivienda en curso que potencialmente puede tener una severa\nImpacto negativo en las comunidades."
-  },
-  {
-    "title": "What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce",
-    "title_es": "¿Qué está comprando su agente de IA? Evaluación, implicaciones y preguntas emergentes para el comercio electrónico de agente",
-    "url": "http://arxiv.org/abs/2508.02630v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Los mercados en línea serán transformados por agentes autónomos de IA que actúan sobre\nnombre de los consumidores. En lugar de los humanos navegando y haciendo clic,\nLos agentes del modelo de lenguaje de visión (VLM) pueden analizar páginas web, evaluar productos y\ntramitar. Esto plantea una pregunta fundamental: ¿qué compran los agentes de IA y por qué?\nDesarrollamos ACES, un entorno de sandbox que combina un agente VLM de la plataforma agnóstica\ncon un mercado simulado totalmente programable para estudiar esta pregunta. Primero primero\nrealizar verificaciones de racionalidad básicas en el contexto de tareas simples, y luego, por\naleatorizando las posiciones del producto, precios, calificaciones, revisiones, etiquetas patrocinadas y\nEndosos de plataforma, obtenemos estimaciones causales de cómo los VLM fronterizos realmente\ncomercio. Los modelos muestran efectos de posición fuertes pero heterogéneos: todos favorecen la parte superior\nfila, pero los modelos diferentes prefieren diferentes columnas, socavando la suposición\nde un rango universal \"superior\". Penalizan las etiquetas y la recompensa patrocinadas\nEndosos. Las sensibilidades al precio, las calificaciones y las revisiones son direccionalmente\nsimilar a los humanos pero varían bruscamente en magnitud entre los modelos. Motivado por escenarios\nDonde los vendedores usan agentes de IA para optimizar los listados de productos, mostramos que un\nAgente del lado del vendedor que hace ajustes menores a las descripciones de productos, dirigida a la IA\nPreferencias del comprador, puede ofrecer ganancias sustanciales de mercado de mercado si se media por IA\nLa compra domina. También encontramos que las opciones de productos modales pueden diferir\nmodelos y, en algunos casos, la demanda puede concentrarse en algunos productos seleccionados,\nplanteando preguntas de competencia. Juntos, nuestros resultados iluminan cómo los agentes de IA\npuede comportarse en la configuración de comercio electrónico y la estrategia de vendedor de concreto de superficie,\nDiseño de plataforma y preguntas regulatorias en un ecosistema mediado por IA."
-  },
-  {
-    "title": "HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents",
-    "title_es": "Hycodepolicy: controladores de lenguaje híbrido para monitoreo multimodal y decisión en agentes incorporados",
-    "url": "http://arxiv.org/abs/2508.02629v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Los avances recientes en modelos de lenguaje grande multimodal (MLLMS) han habilitado\nLa base perceptiva más rica para la generación de políticas de código en agentes incorporados.\nSin embargo, la mayoría de los sistemas existentes carecen de mecanismos efectivos para monitorear adaptativamente\nEjecución de políticas y códigos de reparación durante la finalización de la tarea. En este trabajo, nosotros\nIntroducir a Hycodepolicy, un marco de control híbrido basado en el lenguaje que\nintegra sistemáticamente la síntesis del código, la base geométrica, la percepción\nmonitoreo y reparación iterativa en un ciclo de programación de circuito cerrado para\nAgentes encarnados. Técnicamente, dada una instrucción del lenguaje natural, nuestro sistema\nPrimero lo descompone en submarios y genera un programa ejecutable inicial\nbasado en primitivas geométricas centradas en el objeto. El programa se ejecuta luego\nen simulación, mientras que un modelo de lenguaje de visión (VLM) observa seleccionado\nPuntos de control para detectar y localizar fallas de ejecución e inferir falla\nrazones. Fusionando las trazas de ejecución estructuradas para capturar eventos a nivel de programa\nCon la retroalimentación perceptiva basada en VLM, la hycodepolicy infiere las causas de la falla y\nProgramas de reparación. Este mecanismo híbrido de retroalimentación dual permite la autocorrección\nSíntesis del programa con supervisión humana mínima. Nuestros resultados demuestran que\nHycodepolicy mejora significativamente la robustez y la eficiencia de la muestra de\nPolíticas de manipulación de robots, ofreciendo una estrategia escalable para integrar\nRazonamiento multimodal en tuberías de toma de decisiones autónomas."
-  },
-  {
-    "title": "AutoML-Med: A Framework for Automated Machine Learning in Medical Tabular Data",
-    "title_es": "AUTOML-MED: un marco para el aprendizaje automático automatizado en datos tabulares médicos",
-    "url": "http://arxiv.org/abs/2508.02625v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Los conjuntos de datos médicos generalmente se ven afectados por problemas como los valores faltantes,\ndesequilibrio de clase, tipos de características heterogéneas y una gran cantidad de características\nversus un número relativamente pequeño de muestras, evitando modelos de aprendizaje automático\nde obtener resultados adecuados en tareas de clasificación y regresión. Este\nPaper presenta Automl-Med, una herramienta automatizada de aprendizaje automático específicamente\ndiseñado para abordar estos desafíos, minimizando la intervención del usuario y\nIdentificar la combinación óptima de técnicas de preprocesamiento y predictivo\nmodelos. La arquitectura de Automl-Med incorpora el muestreo de hipercubos latinos (LHS)\nPara explorar los métodos de preprocesamiento, los modelos de entrenar utilizando métricas seleccionadas, y\nUtiliza el coeficiente de correlación de rango parcial (PRCC) para ajustados\nOptimización de los pasos de preprocesamiento más influyentes. Resultados experimentales\nDemostrar la efectividad de Automl-Med en dos entornos clínicos diferentes,\nlograr una mayor precisión y sensibilidad equilibradas, que son cruciales para\nIdentificación de pacientes en riesgo, en comparación con otras herramientas de última generación.\nLa capacidad de Automl-Med para mejorar los resultados de la predicción, especialmente en la médica\nconjuntos de datos con datos escasos y desequilibrio de clase, resalta su potencial para\nPlegar aplicaciones de aprendizaje automático en atención médica."
-  },
-  {
-    "title": "Noosemia: toward a Cognitive and Phenomenological Account of Intentionality Attribution in Human-Generative AI Interaction",
-    "title_es": "Noosemia: hacia una explicación cognitiva y fenomenológica de la atribución de intencionalidad en la interacción de IA generativa humana",
-    "url": "http://arxiv.org/abs/2508.02622v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Este documento presenta y formaliza la Noosemia, una novela\nfenómeno cognitivo-fenomenológico que emerge de la interacción humana con\nsistemas de IA generativos, particularmente aquellos que habilitan dialógico o multimodal\nintercambios. Proponemos un marco multidisciplinario para explicar cómo, bajo\nCiertas condiciones, los usuarios atribuyen intencionalidad, agencia e incluso\nInterioridad a estos sistemas: un proceso basado en la semejanza física,\npero en el rendimiento lingüístico, la opacidad epistémica y la tecnología emergente\ncomplejidad. Vinculando una declinación de LLM de significado holismo con nuestro técnico\nnoción del campo cognitivo contextual de LLM, aclaramos cómo se construyen LLMS\nsignificado relacionalmente y cómo la coherencia y un simulacro de agencia surgen en el\nInterfaz Human-AI. El análisis sitúa la noosemia junto con Pareidolia,\nanimismo, la postura intencional y el extraño valle, distinguiendo su\nCaracterísticas únicas. También presentamos a-noosemia para describir el\nRetirada fenomenológica de tales proyecciones. El documento concluye con\nReflexiones sobre lo más amplio, epistemológico y social\nImplicaciones de la dinámica y las direcciones noosémicas para futuras investigaciones."
-  },
-  {
-    "title": "HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research",
-    "title_es": "HealthFlow: un agente de inteligencia artificial que evoluciona con meta planificación para la investigación de atención médica autónoma",
-    "url": "http://arxiv.org/abs/2508.02621v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "La eficacia de los agentes de IA en la investigación de la salud se ve obstaculizada por su\ndependencia de estrategias estáticas y predefinidas. Esto crea una limitación crítica:\nLos agentes pueden convertirse en mejores usuarios de herramientas, pero no pueden aprender a ser mejor estratégicos\nplanificadores, una habilidad crucial para dominios complejos como la atención médica. Introducimos\nHealthFlow, un agente de inteligencia artificial que evoluciona que supera esta limitación a través de un\nNuevo mecanismo de evolución de nivel meta. HealthFlow refina de forma autónoma la suya\nPolíticas de resolución de problemas de alto nivel destilando éxitos de procedimiento y\nfallas en una base de conocimiento estratégica duradera. Para anclar nuestra investigación y\nFacilitar la evaluación reproducible, presentamos a EhrflowBench, un nuevo punto de referencia\ncon tareas complejas y realistas de análisis de datos de salud derivadas de\nInvestigación clínica revisada por pares. Nuestros experimentos completos demuestran que\nEl enfoque de auto evolución de HealthFlow supera significativamente\nMarcos de agentes. Este trabajo marca un cambio necesario desde la construcción mejor\nusuarios de herramientas para diseñar gerentes de tareas más inteligentes y auto evolucionar, allanando el camino\nPara una IA más autónoma y efectiva para el descubrimiento científico."
-  },
-  {
-    "title": "Meta-RAG on Large Codebases Using Code Summarization",
-    "title_es": "Meta-Rag en grandes bases de código utilizando resumen de código",
-    "url": "http://arxiv.org/abs/2508.02611v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Los sistemas de modelo de lenguaje grande (LLM) han estado a la vanguardia de la aplicación\nInvestigación de inteligencia artificial (IA) en una multitud de dominios. Uno de ellos\nEl dominio es el desarrollo de software, donde los investigadores han impulsado la automatización de\nVarias tareas de código a través de agentes LLM. El desarrollo de software es un complejo\necosistema, que se extiende mucho más allá de la implementación del código y bien en el\nReino de mantenimiento del código. En este artículo, proponemos un sistema de múltiples agentes a\nlocalizar errores en grandes bases de código preexistentes utilizando la recuperación de información y\nLLMS. Nuestro sistema presenta una nueva generación de recuperación aumentada (trapo)\nenfoque, meta-rag, donde utilizamos resúmenes para condensar las bases de código por un\nPromedio de 79.8 \\%, en una representación compacta, estructurada y de lengua natural.\nLuego usamos un agente LLM para determinar qué partes de la base de código son críticas\nPara resolución de errores, es decir, localización de errores. Demostramos la utilidad de\nMeta-Rag a través de la evaluación con el conjunto de datos SWE-Bench Lite. Puntajes meta-rag\n84.67 % y 53.0 % para la localización correcta a nivel de archivo y a nivel de función\nTasas, respectivamente, logrando el rendimiento de última generación."
-  },
-  {
-    "title": "Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads",
-    "title_es": "El aprendizaje de la representación de la entidad a través del gráfico en el sitio en el sitio para anuncios de Pinterset",
-    "url": "http://arxiv.org/abs/2508.02609v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "Las redes neuronales gráficas (GNN) se han aplicado ampliamente a la industria\nSistemas de recomendación, como se ve en modelos como Graphsage \\ Cite {Graphsage},\nTwhim \\ cite {twhim}, lignn \\ cite {lignn} etc. En estos trabajos, los gráficos fueron\nconstruido según las actividades de los usuarios en las plataformas y varios gráficos\nLos modelos se desarrollaron para aprender efectivamente los incrustaciones de nodos. Además de\nActividades en el sitio de los usuarios, sus conversiones fuera del sitio son cruciales para los modelos de anuncios\npara capturar su interés de compra. Para aprovechar mejor los datos de conversión fuera del sitio\ny explorar la conexión entre actividades en el sitio y fuera del sitio,\nConstruyó un gráfico heterogéneo a gran escala basado en el anuncio en el sitio de los usuarios\ninteracciones y actividades de conversión fuera del sitio. Además, nosotros\nintroducido transra (transr \\ cite {transr} con anclajes), un nuevo gráfico de conocimiento\nModelo de incrustación (KGE), para integrar de manera más eficiente los incrustaciones de gráficos en anuncios\nModelos de clasificación. Sin embargo, nuestros modelos de clasificación de anuncios inicialmente lucharon para directamente\nIncorporar incrustaciones de gráficos de conocimiento (KGE), y solo ganancias modestas fueron\nobservado durante los experimentos fuera de línea. Para abordar este desafío, empleamos el\nGran técnica de tabla de incrustación de identificación e innovó un KGE basado en la atención\nenfoque de sintonización en los modelos de clasificación ADS. Como resultado, observamos un\nLevante AUC significativo en la tasa de clics (CTR) y la tasa de conversión (CVR)\nmodelos de predicción. Además, este marco se ha implementado en Pinterest's\nModelo de participación de ADS y contribuyó a un elevador de $ 2.69 \\%$ CTR y $ 1.34 \\%$ CPC\nreducción. Creemos que las técnicas presentadas en este documento se pueden aprovechar\npor otros modelos industriales a gran escala."
-  },
-  {
     "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
     "title_es": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
     "url": "https://www.cnic.es/es/node/235736",
@@ -281,7 +193,7 @@
   },
   {
     "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
-    "title_es": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
+    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
     "url": "https://www.cnic.es/es/node/235399",
     "date": "2025-07-14",
     "source": "CNIC",
