@@ -60,7 +60,7 @@ async function fetchArticles() {
           title,
           title_es,
           url: entry.link,
-          date: today,
+          date: new Date(entry.pubDate || Date.now()).toISOString().split('T')[0],
           source: source.name,
           content_es: '',
         });
