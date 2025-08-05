@@ -15,7 +15,7 @@ SPANISH_SOURCES = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
 
 def fetch_arxiv():
     client = Client()
-    search = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate)
+    search = Search(query="cat:cs.AI", max_results=2, sort_by=SortCriterion.SubmittedDate)
     try:
         results = client.results(search)
         return [{
@@ -33,7 +33,7 @@ def fetch_arxiv():
 def fetch_rss(source_name, url):
     articles = []
     feed = feedparser.parse(url)
-    for entry in feed.entries[:5]:
+    for entry in feed.entries[:2]:
         try:
             date = datetime(*entry.published_parsed[:6]).date().isoformat()
         except AttributeError:
@@ -126,4 +126,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
