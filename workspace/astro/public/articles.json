@@ -80,50 +80,10 @@
     "content_es": ""
   },
   {
-    "title": "Real-time in-situ magnetization reprogramming for soft robotics",
-    "title_es": "Reprogramación de la magnetización in situ en tiempo real para robótica blanda",
-    "url": "https://www.nature.com/articles/s41586-025-09459-0",
-    "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "How I’m electrifying transportation in Tanzania",
-    "title_es": "Cómo estoy electrificando el transporte en Tanzania",
-    "url": "https://www.nature.com/articles/d41586-025-02463-4",
-    "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Direct identification of Ac and No molecules with an atom-at-a-time technique",
-    "title_es": "Identificación directa de moléculas de Ac y No con una técnica de átomo a átomo",
-    "url": "https://www.nature.com/articles/s41586-025-09342-y",
-    "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "Glow-in-the-dark marsupial shows off its luminous fur — July’s best science images",
-    "title_es": "Un marsupial que brilla en la oscuridad muestra su pelaje luminoso - Las mejores imágenes científicas de julio",
-    "url": "https://www.nature.com/articles/d41586-025-02326-y",
-    "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
-    "title": "This company claimed to ‘de-extinct’ dire wolves. Then the fighting started.",
-    "title_es": "Esta empresa pretendía \"extinguir\" a los lobos huargos. Entonces empezó la lucha.",
-    "url": "https://www.nature.com/articles/d41586-025-02456-3",
-    "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
     "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
     "title_es": "Claudia Monaco: \"Creemos que sabemos mucho sobre las enfermedades cardiovasculares, pero en realidad no es así\"",
     "url": "https://www.cnic.es/es/node/235736",
-    "date": "2025-08-05",
+    "date": "2025-08-01",
     "source": "CNIC",
     "content_es": ""
   },
@@ -131,31 +91,7 @@
     "title": "Dra. Claudia Monaco: “En las enfermedades cardiovasculares, pensamos que sabemos mucho; pero en realidad, no es así”",
     "title_es": "Dra. Claudia Monaco: “En las enfermedades cardiovasculares, pensamos que sabemos mucho; pero en realidad, no es así”",
     "url": "https://www.cnic.es/es/noticias/dra-claudia-monaco-enfermedades-cardiovasculares-pensamos-que-sabemos-mucho-pero-realidad",
-    "date": "2025-08-05",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "CNIC en la Noche Europea de los Investigadores 2025",
-    "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
-    "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
-    "date": "2025-08-05",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
-    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
-    "url": "https://www.cnic.es/es/node/235399",
-    "date": "2025-08-05",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
-    "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
-    "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
-    "date": "2025-08-05",
+    "date": "2025-08-01",
     "source": "CNIC",
     "content_es": ""
   },
@@ -163,23 +99,47 @@
     "title": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
     "title_es": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
     "url": "https://www.cnio.es/noticias/un-investigador-del-cnio-desarrolla-una-prueba-capaz-de-detectar-tumores-en-estadios-iniciales-con-una-muestra-de-sangre/",
-    "date": "2025-08-05",
+    "date": "2025-07-31",
     "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "CNIC en la Noche Europea de los Investigadores 2025",
+    "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
+    "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
+    "date": "2025-07-17",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
-    "date": "2025-08-05",
+    "date": "2025-07-15",
     "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
+    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
+    "url": "https://www.cnic.es/es/node/235399",
+    "date": "2025-07-14",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
+    "date": "2025-07-14",
+    "source": "CNIC",
     "content_es": ""
   },
   {
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
-    "date": "2025-08-05",
+    "date": "2025-07-10",
     "source": "CNIO",
     "content_es": ""
   },
@@ -187,7 +147,7 @@
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
     "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
-    "date": "2025-08-05",
+    "date": "2025-07-07",
     "source": "CNIO",
     "content_es": ""
   },
@@ -195,7 +155,7 @@
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
-    "date": "2025-08-05",
+    "date": "2025-07-07",
     "source": "CNIO",
     "content_es": ""
   }
