@@ -7,8 +7,10 @@ from deep_translator import GoogleTranslator
 from arxiv import Search, SortCriterion, Client
 import time
 from requests.exceptions import ConnectionError
+import os
 
-spanish_sources = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
+OUTPUT_PATH = "workspace/astro/public/articles_py.json"
+SPANISH_SOURCES = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
 
 
 def fetch_arxiv():
@@ -16,17 +18,13 @@ def fetch_arxiv():
     search = Search(query="cat:cs.AI", max_results=10, sort_by=SortCriterion.SubmittedDate)
     try:
         results = client.results(search)
-        articles = []
-        for result in results:
-            articles.append({
-                "title": result.title,
-                "url": result.entry_id,
-                "date": result.published.date().isoformat(),
-                "source": "arXiv",
-                "summary": result.summary
-            })
-        print("Fetched from arXiv:", len(articles))
-        return articles
+        return [{
+            "title": r.title,
+            "url": r.entry_id,
+            "date": r.published.date().isoformat(),
+            "source": "arXiv",
+            "summary": r.summary
+        } for r in results]
     except ConnectionError as e:
         print("Error al conectar con arXiv:", e)
         return []
@@ -48,7 +46,6 @@ def fetch_rss(source_name, url):
             "summary": BeautifulSoup(entry.get("summary", ""), "html.parser").get_text()
         }
         articles.append(article)
-    print(f"Fetched from {source_name} RSS:", len(articles))
     return articles
 
 
@@ -63,7 +60,7 @@ def translate_article(article):
             "source": article["source"],
             "content_es": translator.translate(article.get("summary", ""))
         }
-    elif article["source"] in spanish_sources:
+    elif article["source"] in SPANISH_SOURCES:
         return {
             "title": article["title"],
             "title_es": article["title"],
@@ -83,9 +80,15 @@ def translate_article(article):
         }
 
 
+def load_existing():
+    if os.path.exists(OUTPUT_PATH):
+        with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+
 def main():
     all_articles = []
-
     for attempt in range(3):
         try:
             all_articles += fetch_arxiv()
@@ -111,20 +114,16 @@ def main():
         except Exception as e:
             print(f"[{name}] Error al procesar feed: {e}")
 
-    unique_articles = {}
-    for article in all_articles:
-        if article["url"] not in unique_articles:
-            unique_articles[article["url"]] = article
+    existing_articles = load_existing()
+    combined = {a["url"]: a for a in existing_articles + all_articles}
+    translated_articles = [translate_article(article) for article in combined.values()]
 
-    translated_articles = [translate_article(article) for article in unique_articles.values()]
-
-    with open("workspace/astro/public/articles.json", "w", encoding="utf-8") as f:
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(translated_articles, f, ensure_ascii=False, indent=2)
 
-    print("✅ Pipeline completado con éxito. Guardados", len(translated_articles), "artículos.")
+    print("✅ Guardados", len(translated_articles), "artículos en", OUTPUT_PATH)
 
 
 if __name__ == "__main__":
     main()
-
 
