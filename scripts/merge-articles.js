@@ -13,21 +13,24 @@ function normalize(text) {
   return text
     .toLowerCase()
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // quitar tildes
-    .replace(/[^a-z0-9 ]/gi, '') // quitar símbolos excepto espacios
-    .replace(/\b(pdf|articulo completo|leer mas)\b/g, '') // quitar palabras irrelevantes
-    .replace(/\s+/g, ' ') // colapsar espacios
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9 ]/gi, '')
+    .replace(/\b(pdf|articulo completo|leer mas)\b/g, '')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
-function mergeArticles(pyArticles, jsArticles) {
+function mergeArticles(...articleLists) {
+  const urlMap = new Map();
   const titleMap = new Map();
 
-  [...pyArticles, ...jsArticles].forEach(article => {
-    const baseTitle = article.title_es || article.title || '';
-    const key = normalize(baseTitle);
-    if (!titleMap.has(key)) {
-      titleMap.set(key, article);
+  articleLists.flat().forEach(article => {
+    if (article.url && !urlMap.has(article.url)) {
+      urlMap.set(article.url, article);
+      const titleKey = normalize(article.title_es || article.title || '');
+      if (!titleMap.has(titleKey)) {
+        titleMap.set(titleKey, article);
+      }
     }
   });
 
@@ -39,4 +42,4 @@ const jsArticles = loadJSON(JS_PATH);
 const merged = mergeArticles(pyArticles, jsArticles);
 
 fs.writeFileSync(FINAL_PATH, JSON.stringify(merged, null, 2));
-console.log(`Merged ${merged.length} articles.`);
+console.log(`✅ Artículos fusionados: ${merged.length} guardados en ${FINAL_PATH}`);
