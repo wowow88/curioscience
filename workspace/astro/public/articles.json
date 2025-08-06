@@ -1,57 +1,57 @@
 [
   {
-    "title": "Scientific fraud has become an ‘industry,’ alarming analysis finds",
-    "title_es": "El fraude científico se ha convertido en una \"industria\", encuentra un análisis alarmante",
-    "url": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds",
-    "date": "2025-08-05",
+    "title": "Has NSF defied a court order by suspending 300 UCLA grants?",
+    "title_es": "¿Ha desafiado NSF una orden judicial suspendiendo 300 subvenciones de UCLA?",
+    "url": "https://www.science.org/content/article/has-nsf-defied-court-order-suspending-300-ucla-grants",
+    "date": "2025-08-06",
     "source": "Science.org",
-    "content_es": "Las redes globales sofisticadas se infiltran en revistas para publicar documentos falsos"
+    "content_es": "Juez federal para escuchar argumentos relacionados con la orden judicial preliminar para restaurar los fondos para otras subvenciones de UC"
   },
   {
-    "title": "Why a top economist discounts Trump’s claim U.S. jobs data are ‘rigged’",
-    "title_es": "Por qué un economista superior descuenta los datos de empleos de los EE. UU. Están \"manipulados\"",
-    "url": "https://www.science.org/content/article/why-top-economist-discounts-trump-s-claim-u-s-jobs-data-are-rigged",
-    "date": "2025-08-05",
+    "title": "NIH details options for limiting its payments for open-access publishing fees",
+    "title_es": "NIH Detal las opciones de limitación de sus pagos por tarifas de publicación de acceso abierto",
+    "url": "https://www.science.org/content/article/nih-details-options-limiting-its-payments-open-access-publishing-fees",
+    "date": "2025-08-06",
     "source": "Science.org",
-    "content_es": "Un ex jefe de la Oficina de Estadísticas Laborales refuta la razón por la cual el presidente despidió al líder de la agencia"
+    "content_es": "Otras propuestas de publicación desembolsarían reembolsos o pagarían a los revisores de pares, pasos sin precedentes para un gran financiador del gobierno"
   },
   {
-    "title": "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse",
-    "title_es": "ReVise: Una interfaz humano-inteligencia artificial para el recurso algorítmico incremental",
-    "url": "https://arxiv.org/abs/2508.00002",
-    "date": "2025-08-05",
+    "title": "Numerical Errors in Quantitative System Analysis With Decision Diagrams",
+    "title_es": "Errores numéricos en el análisis cuantitativo de sistemas con diagramas de decisión",
+    "url": "https://arxiv.org/abs/2508.02673",
+    "date": "2025-08-06",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Building Bigraphs of the real world",
-    "title_es": "Construir Bigraphs del mundo real",
-    "url": "https://arxiv.org/abs/2508.00003",
-    "date": "2025-08-05",
+    "title": "Orbit recovery for spherical functions",
+    "title_es": "Recuperación de órbitas para funciones esféricas",
+    "url": "https://arxiv.org/abs/2508.02674",
+    "date": "2025-08-06",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Reasoning under uncertainty in the game of Cops and Robbers",
-    "title_es": "Razonamiento bajo incertidumbre en el juego de Policías y Ladrones",
-    "url": "https://arxiv.org/abs/2508.00004",
-    "date": "2025-08-05",
+    "title": "Full Vectorial Maxwell Equations with Continuous Angular Indices",
+    "title_es": "Ecuaciones de Maxwell vectoriales completas con índices angulares continuos",
+    "url": "https://arxiv.org/abs/2508.02675",
+    "date": "2025-08-06",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Modelling Program Spaces in Program Synthesis with Constraints",
-    "title_es": "Modelización de espacios de programa en la síntesis de programas con restricciones",
-    "url": "https://arxiv.org/abs/2508.00005",
-    "date": "2025-08-05",
+    "title": "When surface evolution meets Fokker-Planck equation: a novel tangential velocity model for uniform parametrization",
+    "title_es": "Cuando la evolución de la superficie se encuentra con la ecuación de Fokker-Planck: un nuevo modelo de velocidad tangencial para parametrización uniforme",
+    "url": "https://arxiv.org/abs/2508.02676",
+    "date": "2025-08-06",
     "source": "arXiv",
     "content_es": ""
   },
   {
-    "title": "Agent Network Protocol Technical White Paper",
-    "title_es": "Protocolo de red de agentes Libro Blanco técnico",
-    "url": "https://arxiv.org/abs/2508.00007",
-    "date": "2025-08-05",
+    "title": "Automated $h$-adaptivity for finite element approximations of the Falkner-Skan equation",
+    "title_es": "Adaptividad $h$ automatizada para aproximaciones por elementos finitos de la ecuación de Falkner-Skan",
+    "url": "https://arxiv.org/abs/2508.02677",
+    "date": "2025-08-06",
     "source": "arXiv",
     "content_es": ""
   },
@@ -59,7 +59,7 @@
     "title": "Experiencing the Arctic",
     "title_es": "Experimentar el Ártico",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6388?af=R",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Science.org",
     "content_es": ""
   },
@@ -67,7 +67,7 @@
     "title": "Dead in Banaras: An Ethnography of Funeral Travelling",
     "title_es": "Muertos en Banaras: Una etnografía de los viajes funerarios",
     "url": "https://www.science.org/doi/abs/10.1126/science.aea4215?af=R",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Science.org",
     "content_es": ""
   },
@@ -75,7 +75,15 @@
     "title": "An American energy experiment",
     "title_es": "An American energy experiment",
     "url": "https://www.science.org/doi/abs/10.1126/science.adz6514?af=R",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "Acoustic wave modulation of gap plasmon cavities",
+    "title_es": "Modulación de ondas acústicas en cavidades gap plasmon",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv1728?af=R",
+    "date": "2025-08-06",
     "source": "Science.org",
     "content_es": ""
   },
@@ -83,15 +91,7 @@
     "title": "Altered translation elongation contributes to key hallmarks of aging in the killifish brain",
     "title_es": "Las alteraciones en la elongación de la traducción contribuyen a las principales características del envejecimiento en el cerebro de los killis",
     "url": "https://www.science.org/doi/abs/10.1126/science.adk3079?af=R",
-    "date": "2025-08-05",
-    "source": "Science.org",
-    "content_es": ""
-  },
-  {
-    "title": "High-field superconducting halo in UTe2",
-    "title_es": "Halo superconductor de alto campo en UTe2",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adn7673?af=R",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Science.org",
     "content_es": ""
   },
@@ -99,7 +99,7 @@
     "title": "Breed giant prawns to withstand disease and climate change",
     "title_es": "Criar langostinos gigantes para que resistan las enfermedades y el cambio climático",
     "url": "https://www.nature.com/articles/d41586-025-02477-y",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Nature",
     "content_es": ""
   },
@@ -107,7 +107,7 @@
     "title": "Conserve marine migratory species to protect ecological links between land and sea",
     "title_es": "Conservar las especies migratorias marinas para proteger los vínculos ecológicos entre la tierra y el mar",
     "url": "https://www.nature.com/articles/d41586-025-02475-0",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Nature",
     "content_es": ""
   },
@@ -115,7 +115,15 @@
     "title": "Tackle fake citations generated by AI",
     "title_es": "Hacer frente a las citas falsas generadas por la IA",
     "url": "https://www.nature.com/articles/d41586-025-02482-1",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "Mystery of billions of sea-star deaths solved at last",
+    "title_es": "Por fin se resuelve el misterio de la muerte de miles de millones de estrellas de mar",
+    "url": "https://www.nature.com/articles/d41586-025-02442-9",
+    "date": "2025-08-06",
     "source": "Nature",
     "content_es": ""
   },
@@ -123,33 +131,25 @@
     "title": "Plan-B careers can be a force for good in science",
     "title_es": "Las carreras del Plan B pueden ser una fuerza positiva para la ciencia",
     "url": "https://www.nature.com/articles/d41586-025-02478-x",
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "source": "Nature",
     "content_es": ""
   },
   {
-    "title": "Don’t train medical AI on patients’ data without their knowledge",
-    "title_es": "No entrene la IA médica con datos de pacientes sin su conocimiento",
-    "url": "https://www.nature.com/articles/d41586-025-02480-3",
+    "title": "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward",
+    "title_es": "CompassVerificador: un verificador unificado y robusto para la evaluación de LLMS y la recompensa de resultados",
+    "url": "http://arxiv.org/abs/2508.03686v1",
     "date": "2025-08-05",
-    "source": "Nature",
-    "content_es": ""
+    "source": "arXiv",
+    "content_es": "La verificación de respuestas es crucial no solo para evaluar modelos de idiomas grandes\n(LLMS) coincidiendo con sus salidas no estructuradas con respuestas estándar, pero\nTambién sirve como modelo de recompensa para guiar la optimización de LLM. La mayoría de la evaluación\nLos marcos dependen de la correspondencia regularizada o emplean LLM generales para su respuesta\nverificación, que exige una personalización extensa y repetitiva para las reglas regex\no indicaciones de evaluación. Persisten dos limitaciones fundamentales en la actualidad\nMetodologías: 1) La ausencia de puntos de referencia integrales que sistemáticamente\nevaluar las capacidades de verificación en diferentes LLM; y 2) el naciente\nEtapa del desarrollo del verificador, donde los enfoques existentes carecen de ambos\nrobustez para manejar casos de borde complejos y la generalización a través de\ndiferentes dominios. En este trabajo, desarrollamos CompassVerificador, un preciso y\nModelo de verificador liviano robusto para evaluación y recompensa de resultados. Él\nDemuestra la competencia de múltiples dominios que abarcan las matemáticas, el conocimiento y la diversa\ntareas de razonamiento, con la capacidad de procesar varios tipos de respuestas, incluidos\nmúltiples problemas, fórmulas y respuestas de secuencia, mientras que efectivamente\nIdentificación de respuestas anormales/inválidas. Presentamos verifierbench Benchmark\nComprensión de salidas de modelo recopiladas de múltiples fuentes de datos, aumentado\nA través del análisis manual de los patrones de metaéter para mejorar el Compassverificador. Nosotros\nAnticipe que CompassVerificador y VerifierBench facilitarán la respuesta\nVerificación, protocolos de evaluación e investigación de aprendizaje de refuerzo. Código\ny el conjunto de datos está disponible en https://github.com/open-compass/compassverifier."
   },
   {
-    "title": "D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss",
-    "title_es": "D2PPO: Optimización de políticas de política de difusión con pérdida de dispersión",
-    "url": "http://arxiv.org/abs/2508.02644v1",
-    "date": "2025-08-04",
+    "title": "Self-Questioning Language Models",
+    "title_es": "Modelos de idiomas de auto cuestionamiento",
+    "url": "http://arxiv.org/abs/2508.03682v1",
+    "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": "Las políticas de difusión sobresalen en la manipulación robótica por modelado naturalmente\nDistribuciones de acción multimodal en espacios de alta dimensión. Sin embargo,\nLas políticas de difusión sufren del colapso de representación de difusión: semánticamente\nobservaciones similares se asignan a características indistinguibles, en última instancia\nafectando su capacidad para manejar variaciones sutiles pero críticas requeridas para\nmanipulación robótica compleja. Para abordar este problema, proponemos D2PPO\n(Optimización de políticas de política de difusión con pérdida de dispersión). D2PPO presenta\nregularización de pérdidas dispersivas que combate el colapso de la representación tratando\nTodas las representaciones ocultas dentro de cada lote como pares negativos. D2ppo obliga\nla red para aprender representaciones discriminativas de observaciones similares,\npermitiendo así la política identificar diferencias sutiles pero cruciales\nnecesario para la manipulación precisa. En la evaluación, encontramos que la capa temprana\nLa regularización beneficia a las tareas simples, mientras que la regularización de las capas tardías es bruscamente\nMejora el rendimiento en tareas de manipulación compleja. En puntos de referencia robomimic,\nD2PPO logra una mejora promedio de 22.7% en el entrenamiento previo y 26.1% después\najuste fino, estableciendo nuevos resultados de SOTA. En comparación con Sota, resultados de\nExperimentos del mundo real en un robot Franka Emika Panda Show The emocionantemente alto\ntasa de éxito de nuestro método. La superioridad de nuestro método es especialmente evidente\nen tareas complejas. Página del proyecto: https://guowei-zou.github.io/d2ppo/"
-  },
-  {
-    "title": "An Efficient Continuous-Time MILP for Integrated Aircraft Hangar Scheduling and Layout",
-    "title_es": "Un MILP de tiempo continuo eficiente para la programación y diseño de hangar de aviones integrados",
-    "url": "http://arxiv.org/abs/2508.02640v1",
-    "date": "2025-08-04",
-    "source": "arXiv",
-    "content_es": "La gestión eficiente de los ahorro de mantenimiento de las aeronaves es crítica\ndesafío operativo, que involucra decisiones complejas e interdependientes con respecto a\nProgramación de aviones y asignación espacial. Este artículo presenta una novela\nModelo de programación lineal (MILP) de tiempo mixto (MILP) para resolver esto para resolver esto\nProblema espacio-temporal integrado. Tratando el tiempo como una variable continua,\nNuestra formulación supera las limitaciones de escalabilidad de\nenfoques de tiempo discreto. El rendimiento del modelo exacto está en referencia\ncontra una heurística constructiva, y su aplicabilidad práctica es\ndemostrado a través de un tablero de visualización personalizado. Computacional\nLos resultados son convincentes: el modelo resuelve instancias con hasta 25 aviones para\nOptimización comprobada, a menudo en solo segundos, y para casos a gran escala de hasta 40\nAeronave, ofrece soluciones de alta calidad dentro de las brechas de optimización conocidas. En total\nescenarios probados, las soluciones resultantes de manera consistente y significativa\nsuperar a la heurística, que destaca la sustancial económica del marco\nbeneficios y proporciona valiosas ideas gerenciales sobre la compensación entre\nTiempo de solución y optimización."
+    "content_es": "¿Pueden los modelos de idiomas grandes mejorar sin datos externos, generando\nsus propias preguntas y respuestas? Presumimos que un lenguaje previamente capacitado\nEl modelo puede mejorar sus habilidades de razonamiento dadas solo un mensaje específico\nel tema (por ejemplo, problemas de palabras de álgebra) y pedirle al modelo que genere su\npropias preguntas. Para hacer esto, proponemos modelos de lenguaje autopuestionantes (SQLM):\nUn marco de reproducción asimétrico donde un propositor recibe el tema y\ngenera una pregunta para un solucionador, que intenta responderla. Ambos proposores\ny el solucionador se capacitan a través del aprendizaje de refuerzo. El propomedor recibe un\nrecompensa si el problema no es demasiado fácil o demasiado difícil, y el solucionador recibe\nuna recompensa basada en la votación mayoritaria, un indicador de la corrección en ausencia de\nrespuestas de verdad en tierra. Para la codificación, el proponente puede generar pruebas unitarias\nque se utilizan para la verificación. Estudiamos este marco asimétrico de la reproducción de\nEn tres puntos de referencia: multiplicación de tres dígitos, problemas de álgebra del\nOmega Benchmark, y problemas de programación de CodeForces. Por continuamente\nGenerando problemas más interesantes e intentando resolverlos, lenguaje\nLos modelos pueden mejorar los puntos de referencia posteriores sin acceso a ningún\nconjuntos de datos de capacitación."
   },
   {
     "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
