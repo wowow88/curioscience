@@ -51,7 +51,7 @@ async function fetchArticles() {
   for (const source of SOURCES) {
     try {
       const feed = await parser.parseURL(source.url);
-      for (const entry of feed.items.slice(0, 5)) {
+      for (const entry of feed.items.slice(0, 1)) {
         const lang = franc(entry.title || '');
         const title = entry.title;
         const title_es = lang === 'spa' ? title : await translateText(title);
