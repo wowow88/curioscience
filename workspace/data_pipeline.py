@@ -8,21 +8,22 @@ from arxiv import Search, SortCriterion, Client
 import time
 from requests.exceptions import ConnectionError
 import os
-import shutil
+from glob import glob
 
-OUTPUT_PATH = "workspace/astro/public/articles_py.json"
+# Rutas
+DAILY_DIR = "workspace/astro/data/articles_daily"
+FINAL_PATH = "workspace/astro/public/articles_py.json"
 BACKUP_DIR = "workspace/astro/backups"
 SPANISH_SOURCES = ["AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"]
 
-
 def backup_previous_version():
     os.makedirs(BACKUP_DIR, exist_ok=True)
-    if os.path.exists(OUTPUT_PATH):
+    if os.path.exists(FINAL_PATH):
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         backup_path = os.path.join(BACKUP_DIR, f"articles_py_{timestamp}.json")
-        shutil.copy2(OUTPUT_PATH, backup_path)
+        with open(FINAL_PATH, "rb") as src, open(backup_path, "wb") as dst:
+            dst.write(src.read())
         print(f"🗂 Copia de seguridad creada en {backup_path}")
-
 
 def fetch_arxiv():
     client = Client()
@@ -40,11 +41,10 @@ def fetch_arxiv():
         print("Error al conectar con arXiv:", e)
         return []
 
-
 def fetch_rss(source_name, url):
     articles = []
     feed = feedparser.parse(url)
-    for entry in feed.entries[:2]:
+    for entry in feed.entries[:1]:
         try:
             date = datetime(*entry.published_parsed[:6]).date().isoformat()
         except AttributeError:
@@ -58,7 +58,6 @@ def fetch_rss(source_name, url):
         }
         articles.append(article)
     return articles
-
 
 def translate_article(article):
     if article["source"] in ["arXiv", "Science.org", "Nature"]:
@@ -90,16 +89,10 @@ def translate_article(article):
             "content_es": article.get("summary", "")
         }
 
-
-def load_existing():
-    if os.path.exists(OUTPUT_PATH):
-        with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
-
 def main():
     backup_previous_version()
+    os.makedirs(DAILY_DIR, exist_ok=True)
+
     all_articles = []
     for attempt in range(3):
         try:
@@ -126,18 +119,24 @@ def main():
         except Exception as e:
             print(f"[{name}] Error al procesar feed: {e}")
 
-existing_articles = load_existing()
-new_articles = [a for a in all_articles if a["url"] not in {e["url"] for e in existing_articles}]
-combined = existing_articles + new_articles
-unique_articles = {a["url"]: a for a in combined}.values()
-translated_articles = [translate_article(article) for article in unique_articles]
+    # Guardar archivo del día
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    daily_path = os.path.join(DAILY_DIR, f"{today_str}.json")
+    translated = [translate_article(a) for a in all_articles]
+    with open(daily_path, "w", encoding="utf-8") as f:
+        json.dump(translated, f, ensure_ascii=False, indent=2)
 
+    # Fusionar todos los artículos de todos los días
+    merged = {}
+    for file in glob(os.path.join(DAILY_DIR, "*.json")):
+        with open(file, "r", encoding="utf-8") as f:
+            for a in json.load(f):
+                merged[a["url"]] = a
 
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(translated_articles, f, ensure_ascii=False, indent=2)
+    with open(FINAL_PATH, "w", encoding="utf-8") as f:
+        json.dump(list(merged.values()), f, ensure_ascii=False, indent=2)
 
-    print("✅ Guardados", len(translated_articles), "artículos en", OUTPUT_PATH)
-
+    print(f"✅ Guardados {len(merged)} artículos únicos en {FINAL_PATH}")
 
 if __name__ == "__main__":
     main()
