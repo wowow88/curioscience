@@ -1,5 +1,13 @@
 [
   {
+    "title": "Has NSF defied a court order by suspending 300 UCLA grants?",
+    "title_es": "¿Ha desafiado NSF una orden judicial suspendiendo 300 subvenciones de UCLA?",
+    "url": "https://www.science.org/content/article/has-nsf-defied-court-order-suspending-300-ucla-grants",
+    "date": "2025-08-06",
+    "source": "Science.org",
+    "content_es": "Juez federal para escuchar argumentos relacionados con la orden judicial preliminar para restaurar los fondos para otras subvenciones de UC"
+  },
+  {
     "title": "Numerical Errors in Quantitative System Analysis With Decision Diagrams",
     "title_es": "Errores numéricos en el análisis cuantitativo de sistemas con diagramas de decisión",
     "url": "https://arxiv.org/abs/2508.02673",
@@ -11,17 +19,25 @@
     "title": "Experiencing the Arctic",
     "title_es": "Experimentar el Ártico",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6388?af=R",
-    "date": "2025-08-06",
+    "date": "2025-08-05",
     "source": "Science.org",
     "content_es": ""
   },
   {
-    "title": "Author Correction: Persistent transcriptional programmes are associated with remote memory",
-    "title_es": "Corrección del autor: Los programas transcripcionales persistentes están asociados a la memoria remota",
-    "url": "https://www.nature.com/articles/s41586-025-09463-4",
-    "date": "2025-08-06",
-    "source": "Nature",
-    "content_es": ""
+    "title": "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward",
+    "title_es": "CompassVerificador: un verificador unificado y robusto para la evaluación de LLMS y la recompensa de resultados",
+    "url": "http://arxiv.org/abs/2508.03686v1",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": "La verificación de respuestas es crucial no solo para evaluar modelos de idiomas grandes\n(LLMS) coincidiendo con sus salidas no estructuradas con respuestas estándar, pero\nTambién sirve como modelo de recompensa para guiar la optimización de LLM. La mayoría de la evaluación\nLos marcos dependen de la correspondencia regularizada o emplean LLM generales para su respuesta\nverificación, que exige una personalización extensa y repetitiva para las reglas regex\no indicaciones de evaluación. Persisten dos limitaciones fundamentales en la actualidad\nMetodologías: 1) La ausencia de puntos de referencia integrales que sistemáticamente\nevaluar las capacidades de verificación en diferentes LLM; y 2) el naciente\nEtapa del desarrollo del verificador, donde los enfoques existentes carecen de ambos\nrobustez para manejar casos de borde complejos y la generalización a través de\ndiferentes dominios. En este trabajo, desarrollamos CompassVerificador, un preciso y\nModelo de verificador liviano robusto para evaluación y recompensa de resultados. Él\nDemuestra la competencia de múltiples dominios que abarcan las matemáticas, el conocimiento y la diversa\ntareas de razonamiento, con la capacidad de procesar varios tipos de respuestas, incluidos\nmúltiples problemas, fórmulas y respuestas de secuencia, mientras que efectivamente\nIdentificación de respuestas anormales/inválidas. Presentamos verifierbench Benchmark\nComprensión de salidas de modelo recopiladas de múltiples fuentes de datos, aumentado\nA través del análisis manual de los patrones de metaéter para mejorar el Compassverificador. Nosotros\nAnticipe que CompassVerificador y VerifierBench facilitarán la respuesta\nVerificación, protocolos de evaluación e investigación de aprendizaje de refuerzo. Código\ny el conjunto de datos está disponible en https://github.com/open-compass/compassverifier."
+  },
+  {
+    "title": "Self-Questioning Language Models",
+    "title_es": "Modelos de idiomas de auto cuestionamiento",
+    "url": "http://arxiv.org/abs/2508.03682v1",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": "¿Pueden los modelos de idiomas grandes mejorar sin datos externos, generando\nsus propias preguntas y respuestas? Presumimos que un lenguaje previamente capacitado\nEl modelo puede mejorar sus habilidades de razonamiento dadas solo un mensaje específico\nel tema (por ejemplo, problemas de palabras de álgebra) y pedirle al modelo que genere su\npropias preguntas. Para hacer esto, proponemos modelos de lenguaje autopuestionantes (SQLM):\nUn marco de reproducción asimétrico donde un propositor recibe el tema y\ngenera una pregunta para un solucionador, que intenta responderla. Ambos proposores\ny el solucionador se capacitan a través del aprendizaje de refuerzo. El propomedor recibe un\nrecompensa si el problema no es demasiado fácil o demasiado difícil, y el solucionador recibe\nuna recompensa basada en la votación mayoritaria, un indicador de la corrección en ausencia de\nrespuestas de verdad en tierra. Para la codificación, el proponente puede generar pruebas unitarias\nque se utilizan para la verificación. Estudiamos este marco asimétrico de la reproducción de\nEn tres puntos de referencia: multiplicación de tres dígitos, problemas de álgebra del\nOmega Benchmark, y problemas de programación de CodeForces. Por continuamente\nGenerando problemas más interesantes e intentando resolverlos, lenguaje\nLos modelos pueden mejorar los puntos de referencia posteriores sin acceso a ningún\nconjuntos de datos de capacitación."
   },
   {
     "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
@@ -36,6 +52,150 @@
     "title_es": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
     "url": "https://www.cnio.es/noticias/un-investigador-del-cnio-desarrolla-una-prueba-capaz-de-detectar-tumores-en-estadios-iniciales-con-una-muestra-de-sangre/",
     "date": "2025-07-31",
+    "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "Author Correction: Persistent transcriptional programmes are associated with remote memory",
+    "title_es": "Corrección del autor: Los programas transcripcionales persistentes están asociados a la memoria remota",
+    "url": "https://www.nature.com/articles/s41586-025-09463-4",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": ""
+  },
+  {
+    "title": "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse",
+    "title_es": "ReVise: Una interfaz humano-inteligencia artificial para el recurso algorítmico incremental",
+    "url": "https://arxiv.org/abs/2508.00002",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Building Bigraphs of the real world",
+    "title_es": "Construir Bigraphs del mundo real",
+    "url": "https://arxiv.org/abs/2508.00003",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Reasoning under uncertainty in the game of Cops and Robbers",
+    "title_es": "Razonamiento bajo incertidumbre en el juego de Policías y Ladrones",
+    "url": "https://arxiv.org/abs/2508.00004",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Modelling Program Spaces in Program Synthesis with Constraints",
+    "title_es": "Modelización de espacios de programa en la síntesis de programas con restricciones",
+    "url": "https://arxiv.org/abs/2508.00005",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Agent Network Protocol Technical White Paper",
+    "title_es": "Protocolo de red de agentes Libro Blanco técnico",
+    "url": "https://arxiv.org/abs/2508.00007",
+    "date": "2025-08-05",
+    "source": "arXiv",
+    "content_es": ""
+  },
+  {
+    "title": "Dead in Banaras: An Ethnography of Funeral Travelling",
+    "title_es": "Muertos en Banaras: Una etnografía de los viajes funerarios",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea4215?af=R",
+    "date": "2025-08-05",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "An American energy experiment",
+    "title_es": "An American energy experiment",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz6514?af=R",
+    "date": "2025-08-05",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "Altered translation elongation contributes to key hallmarks of aging in the killifish brain",
+    "title_es": "Las alteraciones en la elongación de la traducción contribuyen a las principales características del envejecimiento en el cerebro de los killis",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adk3079?af=R",
+    "date": "2025-08-05",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "High-field superconducting halo in UTe2",
+    "title_es": "Halo superconductor de alto campo en UTe2",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adn7673?af=R",
+    "date": "2025-08-05",
+    "source": "Science.org",
+    "content_es": ""
+  },
+  {
+    "title": "Dra. Claudia Monaco: “En las enfermedades cardiovasculares, pensamos que sabemos mucho; pero en realidad, no es así”",
+    "title_es": "Dra. Claudia Monaco: “En las enfermedades cardiovasculares, pensamos que sabemos mucho; pero en realidad, no es así”",
+    "url": "https://www.cnic.es/es/noticias/dra-claudia-monaco-enfermedades-cardiovasculares-pensamos-que-sabemos-mucho-pero-realidad",
+    "date": "2025-08-01",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "CNIC en la Noche Europea de los Investigadores 2025",
+    "title_es": "CNIC en la Noche Europea de los Investigadores 2025",
+    "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
+    "date": "2025-07-17",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
+    "title_es": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
+    "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
+    "date": "2025-07-15",
+    "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
+    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
+    "url": "https://www.cnic.es/es/node/235399",
+    "date": "2025-07-14",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "title_es": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
+    "date": "2025-07-14",
+    "source": "CNIC",
+    "content_es": ""
+  },
+  {
+    "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
+    "title_es": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
+    "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
+    "date": "2025-07-10",
+    "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "Premio a la unidad de cáncer pediátrico del CNIO",
+    "title_es": "Premio a la unidad de cáncer pediátrico del CNIO",
+    "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
+    "date": "2025-07-07",
+    "source": "CNIO",
+    "content_es": ""
+  },
+  {
+    "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
+    "title_es": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
+    "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
+    "date": "2025-07-07",
     "source": "CNIO",
     "content_es": ""
   }
