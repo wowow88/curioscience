@@ -126,9 +126,12 @@ def main():
         except Exception as e:
             print(f"[{name}] Error al procesar feed: {e}")
 
-    existing_articles = load_existing()
-    combined = {a["url"]: a for a in existing_articles + all_articles}
-    translated_articles = [translate_article(article) for article in combined.values()]
+existing_articles = load_existing()
+new_articles = [a for a in all_articles if a["url"] not in {e["url"] for e in existing_articles}]
+combined = existing_articles + new_articles
+unique_articles = {a["url"]: a for a in combined}.values()
+translated_articles = [translate_article(article) for article in unique_articles]
+
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(translated_articles, f, ensure_ascii=False, indent=2)
