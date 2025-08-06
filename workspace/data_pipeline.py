@@ -126,17 +126,25 @@ def main():
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(translated, f, ensure_ascii=False, indent=2)
 
-    # Fusionar todos los artículos de todos los días
-    merged = {}
-    for file in glob(os.path.join(DAILY_DIR, "*.json")):
-        with open(file, "r", encoding="utf-8") as f:
-            for a in json.load(f):
-                merged[a["url"]] = a
+    # Leer artículos existentes (si existen)
+existing_articles = []
+if os.path.exists(FINAL_PATH):
+    with open(FINAL_PATH, "r", encoding="utf-8") as f:
+        existing_articles = json.load(f)
 
-    with open(FINAL_PATH, "w", encoding="utf-8") as f:
-        json.dump(list(merged.values()), f, ensure_ascii=False, indent=2)
+# Indexar por URL
+existing_urls = {a["url"] for a in existing_articles}
+new_articles = [a for a in translated if a["url"] not in existing_urls]
 
-    print(f"✅ Guardados {len(merged)} artículos únicos en {FINAL_PATH}")
+# Combinar y ordenar
+all_articles = existing_articles + new_articles
+all_articles.sort(key=lambda x: x["date"], reverse=True)
+
+with open(FINAL_PATH, "w", encoding="utf-8") as f:
+    json.dump(all_articles, f, ensure_ascii=False, indent=2)
+
+print(f"✅ Guardados {len(all_articles)} artículos únicos en {FINAL_PATH}")
+
 
 if __name__ == "__main__":
     main()
