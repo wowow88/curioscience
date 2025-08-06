@@ -1,21 +1,5 @@
 [
   {
-  "title": "TEST: No borrar este artículo",
-  "title_es": "PRUEBA: No borrar este artículo",
-  "url": "https://test/manual",
-  "date": "2025-08-01",
-  "source": "Test",
-  "content_es": "Contenido de prueba"
-  },
-  {
-    "title": "Has NSF defied a court order by suspending 300 UCLA grants?",
-    "title_es": "¿Ha desafiado NSF una orden judicial suspendiendo 300 subvenciones de UCLA?",
-    "url": "https://www.science.org/content/article/has-nsf-defied-court-order-suspending-300-ucla-grants",
-    "date": "2025-08-06",
-    "source": "Science.org",
-    "content_es": "Juez federal para escuchar argumentos relacionados con la orden judicial preliminar para restaurar los fondos para otras subvenciones de UC"
-  },
-  {
     "title": "Numerical Errors in Quantitative System Analysis With Decision Diagrams",
     "title_es": "Errores numéricos en el análisis cuantitativo de sistemas con diagramas de decisión",
     "url": "https://arxiv.org/abs/2508.02673",
@@ -32,24 +16,16 @@
     "content_es": ""
   },
   {
-    "title": "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward",
-    "title_es": "CompassVerificador: un verificador unificado y robusto para la evaluación de LLMS y la recompensa de resultados",
-    "url": "http://arxiv.org/abs/2508.03686v1",
-    "date": "2025-08-05",
-    "source": "arXiv",
-    "content_es": "La verificación de respuestas es crucial no solo para evaluar modelos de idiomas grandes\n(LLMS) coincidiendo con sus salidas no estructuradas con respuestas estándar, pero\nTambién sirve como modelo de recompensa para guiar la optimización de LLM. La mayoría de la evaluación\nLos marcos dependen de la correspondencia regularizada o emplean LLM generales para su respuesta\nverificación, que exige una personalización extensa y repetitiva para las reglas regex\no indicaciones de evaluación. Persisten dos limitaciones fundamentales en la actualidad\nMetodologías: 1) La ausencia de puntos de referencia integrales que sistemáticamente\nevaluar las capacidades de verificación en diferentes LLM; y 2) el naciente\nEtapa del desarrollo del verificador, donde los enfoques existentes carecen de ambos\nrobustez para manejar casos de borde complejos y la generalización a través de\ndiferentes dominios. En este trabajo, desarrollamos CompassVerificador, un preciso y\nModelo de verificador liviano robusto para evaluación y recompensa de resultados. Él\nDemuestra la competencia de múltiples dominios que abarcan las matemáticas, el conocimiento y la diversa\ntareas de razonamiento, con la capacidad de procesar varios tipos de respuestas, incluidos\nmúltiples problemas, fórmulas y respuestas de secuencia, mientras que efectivamente\nIdentificación de respuestas anormales/inválidas. Presentamos verifierbench Benchmark\nComprensión de salidas de modelo recopiladas de múltiples fuentes de datos, aumentado\nA través del análisis manual de los patrones de metaéter para mejorar el Compassverificador. Nosotros\nAnticipe que CompassVerificador y VerifierBench facilitarán la respuesta\nVerificación, protocolos de evaluación e investigación de aprendizaje de refuerzo. Código\ny el conjunto de datos está disponible en https://github.com/open-compass/compassverifier."
-  },
-  {
-    "title": "Self-Questioning Language Models",
-    "title_es": "Modelos de idiomas de auto cuestionamiento",
-    "url": "http://arxiv.org/abs/2508.03682v1",
-    "date": "2025-08-05",
-    "source": "arXiv",
-    "content_es": "¿Pueden los modelos de idiomas grandes mejorar sin datos externos, generando\nsus propias preguntas y respuestas? Presumimos que un lenguaje previamente capacitado\nEl modelo puede mejorar sus habilidades de razonamiento dadas solo un mensaje específico\nel tema (por ejemplo, problemas de palabras de álgebra) y pedirle al modelo que genere su\npropias preguntas. Para hacer esto, proponemos modelos de lenguaje autopuestionantes (SQLM):\nUn marco de reproducción asimétrico donde un propositor recibe el tema y\ngenera una pregunta para un solucionador, que intenta responderla. Ambos proposores\ny el solucionador se capacitan a través del aprendizaje de refuerzo. El propomedor recibe un\nrecompensa si el problema no es demasiado fácil o demasiado difícil, y el solucionador recibe\nuna recompensa basada en la votación mayoritaria, un indicador de la corrección en ausencia de\nrespuestas de verdad en tierra. Para la codificación, el proponente puede generar pruebas unitarias\nque se utilizan para la verificación. Estudiamos este marco asimétrico de la reproducción de\nEn tres puntos de referencia: multiplicación de tres dígitos, problemas de álgebra del\nOmega Benchmark, y problemas de programación de CodeForces. Por continuamente\nGenerando problemas más interesantes e intentando resolverlos, lenguaje\nLos modelos pueden mejorar los puntos de referencia posteriores sin acceso a ningún\nconjuntos de datos de capacitación."
+    "title": "Author Correction: Persistent transcriptional programmes are associated with remote memory",
+    "title_es": "Corrección del autor: Los programas transcripcionales persistentes están asociados a la memoria remota",
+    "url": "https://www.nature.com/articles/s41586-025-09463-4",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": ""
   },
   {
     "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
-    "title_es": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
+    "title_es": "Claudia Monaco: \"Creemos que sabemos mucho sobre las enfermedades cardiovasculares, pero en realidad no es así\"",
     "url": "https://www.cnic.es/es/node/235736",
     "date": "2025-08-01",
     "source": "CNIC",
