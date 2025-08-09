@@ -141,7 +141,11 @@ def main():
     with open(FINAL_PATH, "w", encoding="utf-8") as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
 
+    # ... (tu código igual)
     print(f"✅ Guardados {len(all_articles)} artículos únicos en {FINAL_PATH}")
+
+    if __name__ == "__main__":
     main()
+
 
 
