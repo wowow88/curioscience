@@ -127,9 +127,7 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const fs = require('fs');
-            const core = require('@actions/core');
-            const base = 'workspace/astro/public';
+            const fs = require('fs');            const base = 'workspace/astro/public';
             const files = {
               py: `${base}/articles_py.json`,
               js: `${base}/articles_js.json`,
@@ -208,3 +206,4 @@ jobs:
             git commit -m "chore: daily articles update [skip ci]"
             git push
           fi
+
