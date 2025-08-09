@@ -83,7 +83,11 @@ jobs:
         run: |
           set -euo pipefail
           node -v
-          if [ -f fetch-articles.js ]; then
+          if [ -f scripts/fetch-articles.js ]; then
+            node scripts/fetch-articles.js
+          elif [ -f workspace/scripts/fetch-articles.js ]; then
+            node workspace/scripts/fetch-articles.js
+          elif [ -f fetch-articles.js ]; then
             node fetch-articles.js
           elif [ -f workspace/fetch-articles.js ]; then
             node workspace/fetch-articles.js
@@ -92,6 +96,21 @@ jobs:
           fi
 
       - name: "Ejecutar merge-articles.js (fusiona en articles.json)"
+        run: |
+          set -euo pipefail
+          if [ -f scripts/merge-articles.js ]; then
+            node scripts/merge-articles.js
+          elif [ -f workspace/scripts/merge-articles.js ]; then
+            node workspace/scripts/merge-articles.js
+          elif [ -f merge-articles.js ]; then
+            node merge-articles.js
+          elif [ -f workspace/merge-articles.js ]; then
+            node workspace/merge-articles.js
+          else
+            echo "No se encontró merge-articles.js" && exit 1
+          fi
+
+      - name: "Validación rápida de archivos generados (logs + conteos)"
         run: |
           set -euo pipefail
           if [ -f merge-articles.js ]; then
