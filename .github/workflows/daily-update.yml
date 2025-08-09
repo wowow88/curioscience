@@ -7,7 +7,7 @@ on:
     - cron: '15 5 * * *'
 
 permissions:
-  contents: write  # necesario para commit/push
+  contents: write
 
 concurrency:
   group: daily-articles-update
@@ -23,34 +23,33 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: ⬇️ Checkout
+      - name: "Checkout"
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # necesitamos historial para comparar tamaños
+          fetch-depth: 0
 
-      - name: 🐍 Setup Python
+      - name: "Setup Python"
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      - name: 📦 Instalar dependencias Python (si existen)
+      - name: "Instalar dependencias Python (si existen)"
         run: |
           set -euo pipefail
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            # fallback mínimos (ajusta a tus scripts)
             pip install requests feedparser beautifulsoup4 python-dateutil
           fi
 
-      - name: 🟦 Setup Node.js
+      - name: "Setup Node.js"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: 📦 Instalar dependencias Node (root y Astro, si aplican)
+      - name: "Instalar dependencias Node (root y Astro, si aplican)"
         run: |
           set -euo pipefail
           if [ -f package.json ]; then
@@ -62,13 +61,13 @@ jobs:
             popd
           fi
 
-      - name: 🔑 Exportar claves (opcional, según scripts)
+      - name: "Exportar claves (opcional, según scripts)"
         if: ${{ secrets.DEEPL_API_KEY != '' || secrets.OPENAI_API_KEY != '' }}
         run: |
           echo "DEEPL_API_KEY=${{ secrets.DEEPL_API_KEY }}" >> $GITHUB_ENV
           echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
-      - name: 🐍 Ejecutar data_pipeline.py (genera articles_py.json)
+      - name: "Ejecutar data_pipeline.py (genera articles_py.json)"
         run: |
           set -euo pipefail
           python -V
@@ -77,10 +76,10 @@ jobs:
           elif [ -f workspace/data_pipeline.py ]; then
             python workspace/data_pipeline.py
           else
-            echo "❌ No se encontró data_pipeline.py" && exit 1
+            echo "No se encontró data_pipeline.py" && exit 1
           fi
 
-      - name: 🟦 Ejecutar fetch-articles.js (genera articles_js.json)
+      - name: "Ejecutar fetch-articles.js (genera articles_js.json)"
         run: |
           set -euo pipefail
           node -v
@@ -89,10 +88,10 @@ jobs:
           elif [ -f workspace/fetch-articles.js ]; then
             node workspace/fetch-articles.js
           else
-            echo "❌ No se encontró fetch-articles.js" && exit 1
+            echo "No se encontró fetch-articles.js" && exit 1
           fi
 
-      - name: 🟦 Ejecutar merge-articles.js (fusiona en articles.json)
+      - name: "Ejecutar merge-articles.js (fusiona en articles.json)"
         run: |
           set -euo pipefail
           if [ -f merge-articles.js ]; then
@@ -100,68 +99,69 @@ jobs:
           elif [ -f workspace/merge-articles.js ]; then
             node workspace/merge-articles.js
           else
-            echo "❌ No se encontró merge-articles.js" && exit 1
+            echo "No se encontró merge-articles.js" && exit 1
           fi
 
-      - name: ✅ Validación rápida de archivos generados (logs + conteos)
+      - name: "Validación rápida de archivos generados (logs + conteos)"
         run: |
           set -euo pipefail
           for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
             echo "::group::Comprobando $f"
-            test -s "$f" || (echo "❌ $f no existe o está vacío" && exit 1)
+            test -s "$f" || (echo "$f no existe o está vacío" && exit 1)
             jq . "$f" >/dev/null
             count=$(jq 'length' "$f")
-            echo "✔️ $f OK. Entradas: $count"
+            echo "$f OK. Entradas: $count"
             echo "Primeras 3 entradas:"
             jq -c '.[0:3]' "$f" || true
             echo "::endgroup::"
           done
 
-      - name: 🔎 Validar fusión: superset, sin duplicados y orden por fecha
-        run: |
-          set -euo pipefail
-          mkdir -p scripts
-          cat > scripts/validate-merge.js <<'JS'
-          const fs = require('fs');
-          const base = 'workspace/astro/public';
-          const files = {
-            py: `${base}/articles_py.json`,
-            js: `${base}/articles_js.json`,
-            merged: `${base}/articles.json`,
-          };
-          const dateField = 'date';
-          const read = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
-          const id = (it) => String((it.id||it.ID||it.doi||it.DOI||it.url||it.link||'').trim().toLowerCase().replace(/[\s?#]+/g,''));
-          const t = (it) => { const d = it[dateField]||it.published||it.publishedAt||it.datePublished||''; const tt = Date.parse(d); return Number.isFinite(tt)?tt:0; };
-          const assert = (c,m)=>{ if(!c){ console.error('❌ '+m); process.exit(1);} };
-          const py = read(files.py);
-          const js = read(files.js);
-          const merged = read(files.merged);
-          console.log(`PY: ${py.length} | JS: ${js.length} | MERGED: ${merged.length}`);
-          const mergedIds = new Set(merged.map(id));
-          const missPy = py.filter(x=>!mergedIds.has(id(x)));
-          const missJs = js.filter(x=>!mergedIds.has(id(x)));
-          if (missPy.length||missJs.length){
-            console.error('Faltan entradas en articles.json');
-            if(missPy.length) console.error('- De PY (ids):', missPy.map(id).slice(0,20));
-            if(missJs.length) console.error('- De JS (ids):', missJs.map(id).slice(0,20));
-            process.exit(1);
-          } else {
-            console.log('✔️ articles.json contiene todas las entradas de PY y JS.');
-          }
-          const seen = new Set(); const dups = [];
-          for (const it of merged){ const k = id(it); if(seen.has(k)) dups.push(k); seen.add(k);} 
-          assert(dups.length===0, `Duplicados en articles.json (ej.: ${dups.slice(0,20).join(', ')})`);
-          console.log('✔️ Sin duplicados en articles.json.');
-          let inOrder = true;
-          for (let i=1;i<merged.length;i++){ if (t(merged[i])>t(merged[i-1])) { inOrder=false; break; } }
-          assert(inOrder, `articles.json no está ordenado por fecha descendente.`);
-          console.log('✔️ Orden correcto por fecha descendente.');
-          console.log('ℹ️ Validación completada.');
-          JS
-          node scripts/validate-merge.js
+      - name: "Validar fusión: superset, sin duplicados y orden por fecha"
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const core = require('@actions/core');
+            const base = 'workspace/astro/public';
+            const files = {
+              py: `${base}/articles_py.json`,
+              js: `${base}/articles_js.json`,
+              merged: `${base}/articles.json`,
+            };
+            const dateField = 'date';
+            const read = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
+            const id = (it) => String((it.id||it.ID||it.doi||it.DOI||it.url||it.link||'').trim().toLowerCase().replace(/[\s?#]+/g,''));
+            const t  = (it) => { const d = it[dateField]||it.published||it.publishedAt||it.datePublished||''; const tt = Date.parse(d); return Number.isFinite(tt)?tt:0; };
+            const py = read(files.py);
+            const js = read(files.js);
+            const merged = read(files.merged);
+            core.info(`PY: ${py.length} | JS: ${js.length} | MERGED: ${merged.length}`);
+            const mergedIds = new Set(merged.map(id));
+            const missPy = py.filter(x=>!mergedIds.has(id(x)));
+            const missJs = js.filter(x=>!mergedIds.has(id(x)));
+            if (missPy.length||missJs.length){
+              if(missPy.length) core.error('- Faltan de PY (ids): ' + missPy.map(id).slice(0,20).join(', '));
+              if(missJs.length) core.error('- Faltan de JS (ids): ' + missJs.map(id).slice(0,20).join(', '));
+              core.setFailed('articles.json no contiene todo el superset PY+JS');
+              return;
+            }
+            core.info('articles.json contiene todas las entradas de PY y JS.');
+            const seen = new Set(); const dups = [];
+            for (const it of merged){ const k = id(it); if(seen.has(k)) dups.push(k); seen.add(k);} 
+            if (dups.length){
+              core.setFailed('Duplicados en articles.json (ej.: ' + dups.slice(0,20).join(', ') + ')');
+              return;
+            }
+            core.info('Sin duplicados en articles.json.');
+            let inOrder = true;
+            for (let i=1;i<merged.length;i++){ if (t(merged[i])>t(merged[i-1])) { inOrder=false; break; } }
+            if (!inOrder){
+              core.setFailed('articles.json no está ordenado por fecha descendente.');
+              return;
+            }
+            core.info('Orden correcto por fecha descendente.');
 
-      - name: 🛟 Proteger histórico frente a regresiones (>20% menos que el commit previo)
+      - name: "Proteger histórico frente a regresiones (>20% menos que el commit previo)"
         run: |
           set -euo pipefail
           CUR=$(jq 'length' "$FINAL_JSON")
@@ -170,16 +170,16 @@ jobs:
           if [ "$PREV" -gt 0 ]; then
             LIMITE=$(( PREV * 80 / 100 ))
             if [ "$CUR" -lt "$LIMITE" ]; then
-              echo "❌ El total actual ($CUR) es >20% menor que el anterior ($PREV)." && exit 1
+              echo "El total actual ($CUR) es >20% menor que el anterior ($PREV)." && exit 1
             fi
           fi
 
-      - name: 🏗️ Build Astro (opcional, si existe)
+      - name: "Build Astro (opcional, si existe)"
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: npm run build
 
-      - name: 📦 Subir artefactos (JSON intermedios y final)
+      - name: "Subir artefactos (JSON intermedios y final)"
         if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
@@ -189,7 +189,7 @@ jobs:
             ${{ env.JS_JSON }}
             ${{ env.FINAL_JSON }}
 
-      - name: 📝 Commit & Push de artículos
+      - name: "Commit & Push de artículos"
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
@@ -201,4 +201,3 @@ jobs:
             git commit -m "chore: daily articles update [skip ci]"
             git push
           fi
-
