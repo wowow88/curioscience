@@ -21,7 +21,9 @@ env:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+$1    env:
+      DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
       - name: "Checkout"
         uses: actions/checkout@v4
@@ -60,12 +62,6 @@ jobs:
             if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
             popd
           fi
-
-      - name: "Exportar claves (opcional, según scripts)"
-        if: ${{ secrets.DEEPL_API_KEY != '' || secrets.OPENAI_API_KEY != '' }}
-        run: |
-          echo "DEEPL_API_KEY=${{ secrets.DEEPL_API_KEY }}" >> $GITHUB_ENV
-          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
       - name: "Ejecutar data_pipeline.py (genera articles_py.json)"
         run: |
