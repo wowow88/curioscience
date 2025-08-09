@@ -1,3 +1,4 @@
+
 name: Daily Articles Update
 
 on:
@@ -49,7 +50,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: "Instalar dependencias Node (root y Astro, si aplican)"
         run: |
