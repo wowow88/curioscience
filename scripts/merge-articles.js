@@ -1,9 +1,11 @@
 // workspace/scripts/merge-articles.js
 import fs from 'fs';
 
-const PY_PATH = './workspace/astro/public/articles_py.json';
-const JS_PATH = './workspace/astro/public/articles_js.json';
-const FINAL_PATH = './workspace/astro/public/articles.json';
+const prevArticles = loadJSON(FINAL_PATH);     // histórico previo
+const pyArticles  = loadJSON(PY_PATH);
+const jsArticles  = loadJSON(JS_PATH);
+const merged      = mergeArticles([...prevArticles, ...pyArticles], jsArticles);
+
 
 function loadJSON(path) {
   if (!fs.existsSync(path)) return [];
