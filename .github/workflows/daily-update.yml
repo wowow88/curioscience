@@ -109,18 +109,6 @@ jobs:
           else
             echo "No se encontró merge-articles.js" && exit 1
           fi
-
-      - name: "Validación rápida de archivos generados (logs + conteos)"
-        run: |
-          set -euo pipefail
-          if [ -f merge-articles.js ]; then
-            node merge-articles.js
-          elif [ -f workspace/merge-articles.js ]; then
-            node workspace/merge-articles.js
-          else
-            echo "No se encontró merge-articles.js" && exit 1
-          fi
-
       - name: "Validación rápida de archivos generados (logs + conteos)"
         run: |
           set -euo pipefail
