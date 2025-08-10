@@ -1,8 +1,7 @@
-// scripts/fetch-articles.js (forzar traducción en TODAS las fuentes)
-// - Traduce títulos y resúmenes con DeepL Free para TODAS las fuentes.
-// - Usa franc para detectar idioma; si no puede, asume EN para forzar source_lang.
-// - Si ya está en ES, no traduce (ahorra cuota).
-// - No inventa fechas ni devuelve undefined; deduplica por URL normalizada.
+// scripts/fetch-articles.js
+// - Traduce títulos y resúmenes con DeepL Free/Pro para TODAS las fuentes.
+// - Si no detecta idioma, asume EN y fija source_lang=EN (evita fallos).
+// - Nunca inventa fechas ni devuelve undefined; deduplica por URL normalizada.
 
 import fs from "fs";
 import path from "path";
@@ -13,21 +12,22 @@ import { franc } from "franc"; // ISO 639-3 (eng, spa, ...)
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
 const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
-const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // Free por defecto
+// Free por defecto; si usas PRO, exporta DEEPL_ENDPOINT=https://api.deepl.com
+const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com";
 const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 200);
 
-// === FEEDS === (tus URLs)
+// === FEEDS === (rellena con tus URLs)
 const RSS_SOURCES = [
-  { name: 'arXiv',       url: 'http://export.arxiv.org/rss/cs' },
-  { name: 'PubMed',      url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10' },
-  { name: 'Science.org', url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science' },
-  { name: 'Nature',      url: 'https://www.nature.com/nature.rss' },
-  { name: 'AEMET',       url: 'https://www.aemet.es/xml/boletin.rss' },
-  { name: 'CNIC',        url: 'https://www.cnic.es/es/rss.xml' },
-  { name: 'CNIO',        url: 'https://www.cnio.es/feed/' },
-  { name: 'ISCIII',      url: 'https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1' },
-  { name: 'IEO',         url: 'https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss' },
-  { name: 'IAC',         url: 'https://www.iac.es/en/rss.xml' },
+  { name: "arXiv",       url: "http://export.arxiv.org/rss/cs" },
+  { name: "PubMed",      url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10" },
+  { name: "Science.org", url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science" },
+  { name: "Nature",      url: "https://www.nature.com/nature.rss" },
+  { name: "AEMET",       url: "https://www.aemet.es/xml/boletin.rss" },
+  { name: "CNIC",        url: "https://www.cnic.es/es/rss.xml" },
+  { name: "CNIO",        url: "https://www.cnio.es/feed/" },
+  { name: "ISCIII",      url: "https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1" },
+  { name: "IEO",         url: "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss" },
+  { name: "IAC",         url: "https://www.iac.es/en/rss.xml" },
 ];
 
 const parser = new RSSParser({ timeout: 10000, headers: { "user-agent": USER_AGENT } });
@@ -35,14 +35,14 @@ const parser = new RSSParser({ timeout: 10000, headers: { "user-agent": USER_AGE
 function ensureDirFor(filePath){ fs.mkdirSync(path.dirname(filePath), { recursive: true }); }
 function toISO(d){ const t = d ? Date.parse(d) : NaN; return Number.isFinite(t) ? new Date(t).toISOString() : ""; }
 function toDateShort(d){ const iso = toISO(d); return iso ? iso.slice(0,10) : ""; }
-function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && String(v).trim()!=='') return String(v); return ""; }
-function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=''; url.search=''; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
-function stripTags(html=''){ return String(html).replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>'); }
+function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && String(v).trim()!=="") return String(v); return ""; }
+function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=""; url.search=""; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
+function stripTags(html=""){ return String(html).replace(/<[^>]*>/g,"").replace(/&nbsp;/g," ").replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">"); }
 
 // franc (ISO-639-3) -> DeepL (2 letras)
-const LANG_MAP = { eng:'EN', spa:'ES', fra:'FR', deu:'DE', ita:'IT', por:'PT', nld:'NL', pol:'PL', rus:'RU', jpn:'JA', zho:'ZH', bul:'BG', ces:'CS', dan:'DA', ell:'EL', est:'ET', fin:'FI', hun:'HU', lit:'LT', lav:'LV', ron:'RO', slk:'SK', slv:'SL', swe:'SV', tur:'TR', ukr:'UK' };
+const LANG_MAP = { eng:"EN", spa:"ES", fra:"FR", deu:"DE", ita:"IT", por:"PT", nld:"NL", pol:"PL", rus:"RU", jpn:"JA", zho:"ZH", bul:"BG", ces:"CS", dan:"DA", ell:"EL", est:"ET", fin:"FI", hun:"HU", lit:"LT", lav:"LV", ron:"RO", slk:"SK", slv:"SL", swe:"SV", tur:"TR", ukr:"UK" };
 function detectDeepLLang(text){
-  const sample = String(text || '').slice(0, 800);
+  const sample = String(text || "").slice(0, 800);
   const code3 = franc(sample, { minLength: 10 }); // 'eng' | 'spa' | 'und'...
   return LANG_MAP[code3]; // undefined ⇒ dejaremos EN por defecto
 }
@@ -51,7 +51,7 @@ async function deeplTranslate(text, targetLang, sourceLang){
   if (!DEEPL_KEY || !text) return text;
   const body = new URLSearchParams();
   body.set("text", String(text).slice(0, 4000));
-  body.set("target_lang", String(targetLang || 'ES').toUpperCase());
+  body.set("target_lang", String(targetLang || "ES").toUpperCase());
   if (sourceLang) body.set("source_lang", String(sourceLang).toUpperCase());
   try{
     const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
@@ -74,24 +74,54 @@ function mapRssItemToArticle(item, sourceName){
   const summary = stripTags(summaryRaw);
   const publishedISO = toISO(pick(item.pubDate, item.published, item.updated, item.isoDate, item.date));
   const dateShort = publishedISO ? publishedISO.slice(0,10) : "";
-  return { title, title_es: title, url, published: publishedISO || "", date: dateShort, content_es: summary, source: sourceName };
+
+  // 👇 content_es siempre tendrá algo: resumen o, si no, el título (evita vacíos)
+  const contentSeed = summary || title;
+
+  return {
+    title,
+    title_es: title,           // siempre presente
+    url,
+    published: publishedISO || "",
+    date: dateShort,           // YYYY-MM-DD
+    content_es: contentSeed,   // nunca vacío
+    source: sourceName,
+  };
 }
 
 async function fetchRSS(url, sourceName){
-  try{ const feed = await parser.parseURL(url); const items = Array.isArray(feed.items) ? feed.items : []; return items.map(it => mapRssItemToArticle(it, sourceName)); }
-  catch(e){ console.warn(`[${sourceName}] Error RSS:`, e.message); return []; }
+  try{
+    const feed = await parser.parseURL(url);
+    const items = Array.isArray(feed.items) ? feed.items : [];
+    return items.map(it => mapRssItemToArticle(it, sourceName));
+  }catch(e){
+    console.warn(`[${sourceName}] Error RSS:`, e.message);
+    return [];
+  }
 }
 
-function dedupeByUrl(list){ const seen=new Set(); const out=[]; for(const it of list){ const k=normUrl(it.url); if(!k||seen.has(k)) continue; seen.add(k); out.push({...it,url:k}); } return out; }
-function sortByDateDesc(list){ return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0)); }
+function dedupeByUrl(list){
+  const seen=new Set(); const out=[];
+  for(const it of list){
+    const k=normUrl(it.url);
+    if(!k || seen.has(k)) continue;
+    seen.add(k);
+    out.push({ ...it, url:k });
+  }
+  return out;
+}
+
+function sortByDateDesc(list){
+  return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0));
+}
 
 async function translateArticle(article){
   if (!DEEPL_KEY) return article;
   // Detecta; si no sabe, forzamos EN; si detecta ES, no traducimos
-  const detected = detectDeepLLang(`${article.title} ${article.content_es}`) || 'EN';
-  if (detected === 'ES') return { ...article, title_es: article.title, content_es: article.content_es };
-  const title_es   = await deeplTranslate(article.title,      'ES', detected);
-  const content_es = await deeplTranslate(article.content_es, 'ES', detected);
+  const detected = detectDeepLLang(`${article.title} ${article.content_es}`) || "EN";
+  if (detected === "ES") return { ...article, title_es: article.title, content_es: article.content_es };
+  const title_es   = await deeplTranslate(article.title,      "ES", detected);
+  const content_es = await deeplTranslate(article.content_es, "ES", detected);
   return { ...article, title_es: title_es || article.title, content_es: content_es || article.content_es };
 }
 
@@ -117,4 +147,8 @@ async function main(){
   console.log("::endgroup::");
 }
 
-main().catch(err=>{ console.error("Fallo inesperado en fetch-articles:", err); try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{} process.exit(0); });
+main().catch(err=>{
+  console.error("Fallo inesperado en fetch-articles:", err);
+  try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{}
+  process.exit(0);
+});
