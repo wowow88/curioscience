@@ -16,7 +16,7 @@ on:
         required: false
         default: "800"
   schedule:
-    - cron: "15 5 * * *" # 05:15 UTC ≈ 07:15 Europa/Madrid (verano)
+    - cron: "15 5 * * *"
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ env:
   PY_JSON: workspace/astro/public/articles_py.json
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
-  USER_AGENT: curioscience-bot/1.0 (+https://tu-dominio)
+  USER_AGENT: "curioscience-bot/1.0 (+https://tu-dominio)"
   TRANSLATE_LIMIT: 200
 
 jobs:
@@ -42,28 +42,28 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
     steps:
-      - name: Checkout
+      - name: "Checkout"
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Python
+      - name: "Setup Python"
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Instalar dependencias Python
+      - name: "Instalar dependencias Python"
         run: |
           set -euo pipefail
           pip install --upgrade pip
           pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
 
-      - name: Setup Node.js
+      - name: "Setup Node.js"
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Instalar dependencias Node (root y Astro si aplican)
+      - name: "Instalar dependencias Node (root y Astro si aplican)"
         run: |
           set -euo pipefail
           if [ -f package.json ]; then
@@ -79,7 +79,7 @@ jobs:
             popd
           fi
 
-      - name: Ejecutar data_pipeline.py (genera articles_py.json)
+      - name: "Ejecutar data_pipeline.py (genera articles_py.json)"
         run: |
           set -euo pipefail
           python -V
@@ -91,7 +91,7 @@ jobs:
             echo "No se encontró data_pipeline.py" && exit 1
           fi
 
-      - name: Ejecutar fetch-articles.js (genera articles_js.json)
+      - name: "Ejecutar fetch-articles.js (genera articles_js.json)"
         run: |
           set -euo pipefail
           node -v
@@ -107,7 +107,7 @@ jobs:
             echo "No se encontró fetch-articles.js" && exit 1
           fi
 
-      - name: Ejecutar merge-articles.js (fusiona en articles.json)
+      - name: "Ejecutar merge-articles.js (fusiona en articles.json)"
         run: |
           set -euo pipefail
           if [ -f scripts/merge-articles.js ]; then
@@ -122,7 +122,7 @@ jobs:
             echo "No se encontró merge-articles.js" && exit 1
           fi
 
-      - name: Validación rápida de archivos generados
+      - name: "Validación rápida de archivos generados"
         run: |
           set -euo pipefail
           for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
@@ -136,7 +136,7 @@ jobs:
             echo "::endgroup::"
           done
 
-      - name: Validar fusión: superset + sin duplicados + orden fecha
+      - name: "Validar fusión: superset + sin duplicados + orden fecha"
         uses: actions/github-script@v7
         with:
           script: |
@@ -195,7 +195,7 @@ jobs:
             }
             core.info('Orden por fecha descendente OK.');
 
-      - name: Proteger histórico (>20% menos que el commit previo)
+      - name: "Proteger histórico (>20% menos que el commit previo)"
         run: |
           set -euo pipefail
           CUR=$(jq 'length' "$FINAL_JSON")
@@ -208,7 +208,7 @@ jobs:
             fi
           fi
 
-      - name: Backfill traducciones históricas (opcional)
+      - name: "Backfill traducciones históricas (opcional)"
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_backfill == 'true' }}
         env:
           BACKFILL_LIMIT: ${{ github.event.inputs.backfill_limit }}
@@ -221,7 +221,7 @@ jobs:
             echo "scripts/backfill-translate.js no existe. Sáltate este paso o súbelo al repo." && exit 1
           fi
 
-      - name: Validación rápida tras backfill (si corrió)
+      - name: "Validación rápida tras backfill (si corrió)"
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_backfill == 'true' }}
         run: |
           set -euo pipefail
@@ -231,12 +231,12 @@ jobs:
           echo "Entradas: $(jq 'length' "$f")"
           echo "Primeras 3 entradas:"; jq -c '.[0:3]' "$f" || true
 
-      - name: Build Astro (opcional)
+      - name: "Build Astro (opcional)"
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: npm run build
 
-      - name: Subir artefactos (JSON intermedios y final)
+      - name: "Subir artefactos (JSON intermedios y final)"
         if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
@@ -246,7 +246,7 @@ jobs:
             ${{ env.JS_JSON }}
             ${{ env.FINAL_JSON }}
 
-      - name: Commit & Push de artículos
+      - name: "Commit & Push de artículos"
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
@@ -258,4 +258,3 @@ jobs:
             git commit -m "chore: daily articles update [skip ci]"
             git push
           fi
-
