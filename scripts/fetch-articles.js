@@ -1,20 +1,22 @@
-// scripts/fetch-articles.js (limpio y sin duplicados)
-// - Traduce con DeepL Free priorizando Nature
-// - Fuerza source_lang='EN' para Nature/Science.org/PubMed/arXiv
-// - No inventa fechas ni devuelve undefined
+// scripts/fetch-articles.js (forzar traducción en todas las fuentes)
+// - Traduce títulos y resúmenes con DeepL Free para TODAS las fuentes.
+// - Detecta idioma con franc; si ya es ES, no traduce; si es EN (u otro), fuerza source_lang para evitar fallos de autodetección.
+// - Prioriza Nature en la cola, pero aplica a todas.
+// - No inventa fechas, no devuelve undefined, deduplica por URL normalizada.
 
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import RSSParser from "rss-parser";
+import { franc } from "franc"; // ISO 639-3 (eng, spa, fra, ...)
 
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
 const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
 const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // Free por defecto
-const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 120);
+const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 200); // ajusta si quieres
 
-// === FEEDS ===
+// === FEEDS === (rellena con tus URLs; ejemplo con las tuyas)
 const RSS_SOURCES = [
   { name: 'arXiv',       url: 'http://export.arxiv.org/rss/cs' },
   { name: 'PubMed',      url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10' },
@@ -37,8 +39,17 @@ function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && S
 function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=''; url.search=''; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
 function stripTags(html=''){ return String(html).replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>'); }
 
-// Feeds en inglés → fuerza EN para DeepL Free
-const FORCE_EN = new Set(["Nature", "Science.org", "PubMed", "arXiv"]);
+// Mapa de franc (ISO-639-3) -> DeepL (2 letras)
+const LANG_MAP = {
+  eng: 'EN', spa: 'ES', fra: 'FR', deu: 'DE', ita: 'IT', por: 'PT', nld: 'NL', pol: 'PL', rus: 'RU', jpn: 'JA', zho: 'ZH',
+  bul: 'BG', ces: 'CS', dan: 'DA', ell: 'EL', est: 'ET', fin: 'FI', hun: 'HU', lit: 'LT', lav: 'LV', ron: 'RO', slk: 'SK', slv: 'SL', swe: 'SV', tur: 'TR', ukr: 'UK'
+};
+function detectDeepLLang(text, hint){
+  const sample = String(text || '').slice(0, 800);
+  let code3 = franc(sample, { minLength: 10 }); // 'eng', 'spa', or 'und'
+  if (code3 === 'und' && hint) return hint; // usa pista si franc no sabe
+  return LANG_MAP[code3]; // puede ser undefined → dejamos que DeepL autodetecte
+}
 
 async function deeplTranslate(text, targetLang, sourceLang){
   if (!DEEPL_KEY || !text) return text;
@@ -81,11 +92,14 @@ async function fetchRSS(url, sourceName){
 function dedupeByUrl(list){ const seen=new Set(); const out=[]; for(const it of list){ const k=normUrl(it.url); if(!k||seen.has(k)) continue; seen.add(k); out.push({...it,url:k}); } return out; }
 function sortByDateDesc(list){ return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0)); }
 
-async function maybeTranslate(article){
-  if (!DEEPL_KEY) return article;
-  const forceEN = FORCE_EN.has(article.source) ? 'EN' : undefined;
-  const title_es = await deeplTranslate(article.title, "ES", forceEN);
-  const content_es = await deeplTranslate(article.content_es, "ES", forceEN);
+async function translateArticle(article){
+  if (!DEEPL_KEY) return article; // sin clave → deja original
+  // Detecta idioma a partir de título+resumen
+  const hintBySource = /^(Nature|Science\.org|PubMed|arXiv)$/i.test(article.source) ? 'EN' : undefined;
+  const detected = detectDeepLLang(`${article.title} ${article.content_es}`, hintBySource);
+  if (detected === 'ES') return { ...article, title_es: article.title, content_es: article.content_es }; // ya está en español
+  const title_es   = await deeplTranslate(article.title,      'ES', detected);
+  const content_es = await deeplTranslate(article.content_es, 'ES', detected);
   return { ...article, title_es: title_es || article.title, content_es: content_es || article.content_es };
 }
 
@@ -94,15 +108,16 @@ async function main(){
   const results = (await Promise.all(RSS_SOURCES.map(s=>fetchRSS(s.url, s.name)))).flat();
   let articles = dedupeByUrl(results);
 
+  // Cola de traducción: Nature primero, pero aplicamos a TODAS
   if (DEEPL_KEY && articles.length){
-    const first = articles.filter(a=>a.source==='Nature');
-    const rest  = articles.filter(a=>a.source!=='Nature');
-    const queue = [...first, ...rest].slice(0, TRANSLATE_LIMIT);
+    const priority = articles.filter(a=>a.source==='Nature');
+    const others   = articles.filter(a=>a.source!=='Nature');
+    const queue = [...priority, ...others].slice(0, TRANSLATE_LIMIT);
     const translated = [];
-    for (const it of queue) translated.push(await maybeTranslate(it));
+    for (const it of queue) translated.push(await translateArticle(it));
     const translatedSet = new Set(translated.map(x=>x.url));
     articles = sortByDateDesc([...translated, ...articles.filter(a=>!translatedSet.has(a.url))]);
-    console.log(`[translate] traducidos ${translated.length}/${articles.length} (Nature primero: ${first.length})`);
+    console.log(`[translate] traducidos ${translated.length}/${articles.length} (Nature prioridad: ${priority.length})`);
   }
 
   articles = sortByDateDesc(articles);
@@ -113,4 +128,3 @@ async function main(){
 }
 
 main().catch(err=>{ console.error("Fallo inesperado en fetch-articles:", err); try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{} process.exit(0); });
-
