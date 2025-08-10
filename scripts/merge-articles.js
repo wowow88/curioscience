@@ -1,64 +1,118 @@
 // scripts/merge-articles.js
-import fs from 'fs';
+// - Fusiona histórico + PY + JS sin perder fechas antiguas.
+// - Deduplica por URL normalizada.
+// - NO pisa campos con vacíos: si llega "" no borra title_es/content_es previos.
+// - Orden final por fecha (published/date) descendente.
 
-const PY_PATH    = 'workspace/astro/public/articles_py.json';
-const JS_PATH    = 'workspace/astro/public/articles_js.json';
-const FINAL_PATH = 'workspace/astro/public/articles.json';
+import fs from "fs";
 
-function loadJSON(p) { return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf-8')) : []; }
-function isoDate(s)  { const t = Date.parse(s); return Number.isFinite(t) ? new Date(t).toISOString().slice(0,10) : ''; }
+const PY_PATH    = "workspace/astro/public/articles_py.json";
+const JS_PATH    = "workspace/astro/public/articles_js.json";
+const FINAL_PATH = "workspace/astro/public/articles.json";
 
-// Orden de preferencia para fecha de publicación real
-const DATE_FIELDS = ['published', 'pubDate', 'datePublished', 'date'];
+const DATE_FIELDS = [
+  "published", "pubDate", "datePublished", "publishedAt", "date", "updated", "isoDate"
+];
+
+function loadJSON(p) {
+  return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf-8")) : [];
+}
+
+function isNonEmpty(v) {
+  return typeof v === "string" ? v.trim() !== "" : v != null;
+}
+
+function normUrl(u = "") {
+  const s = String(u).trim();
+  if (!s) return "";
+  try {
+    const url = new URL(s);
+    url.hash = "";
+    url.search = "";
+    return url.toString().toLowerCase();
+  } catch {
+    return s.toLowerCase();
+  }
+}
+
+function toISO(d) {
+  const t = d ? Date.parse(d) : NaN;
+  return Number.isFinite(t) ? new Date(t).toISOString() : "";
+}
+function toDateShort(d) {
+  const iso = toISO(d);
+  return iso ? iso.slice(0, 10) : "";
+}
 
 function publishedOf(it) {
   for (const k of DATE_FIELDS) {
-    const v = it?.[k];
-    const d = isoDate(v);
-    if (d) return d;
+    if (isNonEmpty(it?.[k])) {
+      const iso = toISO(it[k]);
+      if (iso) return iso;
+    }
   }
-  return '';
+  return "";
 }
 
-// Fusiona manteniendo la fecha histórica y completando campos vacíos
+function pickNewNoBlank(prev, inc) {
+  // Usa el nuevo SOLO si viene no vacío; si no, conserva el previo
+  return isNonEmpty(inc) ? inc : prev;
+}
+
 function mergeRecords(prev, inc) {
+  // Clave común ya es la URL; empezamos del previo (histórico)
+  const base = { ...prev, ...inc };
+
+  // Fecha de publicación: PRIORIDAD histórico
   const prevPub = publishedOf(prev);
   const incPub  = publishedOf(inc);
-  const published = prevPub || incPub;              // 👈 nunca perdemos la histórica
-  const date      = published;                       // alias usado por la web
+  const published = prevPub || incPub || base.published || base.date || "";
 
-  // completa campos vacíos con lo nuevo, pero sin tocar la fecha
+  // Campos que no deben ser pisados por vacíos
+  const title      = pickNewNoBlank(prev.title,      inc.title);
+  const title_es   = pickNewNoBlank(prev.title_es,   inc.title_es);
+  const content_es = pickNewNoBlank(prev.content_es, inc.content_es);
+  const summary    = pickNewNoBlank(prev.summary,    inc.summary);
+  const source     = pickNewNoBlank(prev.source,     inc.source);
+
   return {
-    ...prev,
-    ...inc,
+    ...base,
+    url: normUrl(base.url || prev.url || inc.url || ""),
+    title,
+    title_es: isNonEmpty(title_es) ? title_es : (title || prev.title || inc.title || ""),
+    content_es: isNonEmpty(content_es) ? content_es : (summary || title || ""),
+    summary,
+    source,
     published,
-    date,
+    date: toDateShort(published) || base.date || "",
   };
-}
-
-function keyOf(it) {
-  return String(it?.url || '').trim().toLowerCase().replace(/[#?].*$/, '');
 }
 
 function mergeAll(...lists) {
   const out = new Map();
   for (const item of lists.flat()) {
-    const k = keyOf(item);
-    if (!k) continue;
-    if (!out.has(k)) {
-      // normaliza fecha al entrar
-      const published = publishedOf(item);
-      out.set(k, { ...item, published, date: published || item.date || '' });
+    const key = normUrl(item?.url || item?.link || "");
+    if (!key) continue;
+
+    if (!out.has(key)) {
+      const published = publishedOf(item) || item.published || item.date || "";
+      out.set(key, {
+        ...item,
+        url: key,
+        published,
+        date: toDateShort(published) || item.date || "",
+      });
     } else {
-      const merged = mergeRecords(out.get(k), item);
-      out.set(k, merged);
+      const merged = mergeRecords(out.get(key), item);
+      out.set(key, merged);
     }
   }
-  // orden descendente por fecha de publicación real
-  return Array.from(out.values()).sort((a, b) => (isoDate(b.published || b.date) > isoDate(a.published || a.date) ? 1 : -1));
+  // Orden descendente por fecha
+  const t = (it) => Date.parse(it.published || it.date || 0) || 0;
+  return Array.from(out.values()).sort((a, b) => t(b) - t(a));
 }
 
-const prev = loadJSON(FINAL_PATH);   // histórico previo
+const prev = loadJSON(FINAL_PATH);
 const py   = loadJSON(PY_PATH);
 const js   = loadJSON(JS_PATH);
 
