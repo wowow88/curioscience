@@ -144,8 +144,7 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const core = require('@actions/core');
-            const base = 'workspace/astro/public';
+                        const base = 'workspace/astro/public';
             const files = { py: `${base}/articles_py.json`, js: `${base}/articles_js.json`, merged: `${base}/articles.json` };
             const dateField = 'date';
             const read = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
