@@ -1,120 +1,157 @@
-name: Backfill Translations Only
+// scripts/backfill-translate.js (conservador)
+// Traduce históricos en workspace/astro/public/articles.json
+// SOLO escribe title_es/content_es cuando obtiene una TRADUCCIÓN REAL distinta del original.
+// No copia el título original al campo *_es. No toca date/published ni el orden.
+// Uso:
+//   DEEPL_API_KEY=xxx node scripts/backfill-translate.js
+// Opcionales: DEEPL_ENDPOINT (https://api-free.deepl.com | https://api.deepl.com), BACKFILL_LIMIT (300), SLEEP_MS (1200)
 
-on:
-  workflow_dispatch:
-    inputs:
-      backfill_limit:
-        description: "Máximo de artículos a traducir (histórico)"
-        required: false
-        default: "300"
-      sleep_ms:
-        description: "Pausa entre llamadas DeepL (ms)"
-        required: false
-        default: "1200"
-      deepl_endpoint:
-        description: "Endpoint DeepL (opcional: https://api-free.deepl.com | https://api.deepl.com)"
-        required: false
-        default: ""
+import fs from "fs";
+import path from "path";
+import fetch from "node-fetch";
+import { franc } from "franc";
 
-permissions:
-  contents: write
+const FILE = "workspace/astro/public/articles.json";
+const BACKUP = "workspace/astro/public/articles.backup.json";
+const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
+const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
+const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // Free por defecto
+const BACKFILL_LIMIT = Number(process.env.BACKFILL_LIMIT || 300);
+const SLEEP_MS = Number(process.env.SLEEP_MS || 1200);
 
-concurrency:
-  group: "backfill-translate"
-  cancel-in-progress: true
+if (!DEEPL_KEY) {
+  console.error("❌ Falta DEEPL_API_KEY en el entorno.");
+  process.exit(1);
+}
 
-env:
-  TZ: Europe/Madrid
-  FINAL_JSON: workspace/astro/public/articles.json
-  USER_AGENT: "curioscience-bot/1.0 (+https://tu-dominio)"
+// Mapa franc (ISO-639-3) → DeepL (dos letras)
+const LANG_MAP = { eng:'EN', spa:'ES', fra:'FR', deu:'DE', ita:'IT', por:'PT', nld:'NL', pol:'PL', rus:'RU', jpn:'JA', zho:'ZH', bul:'BG', ces:'CS', dan:'DA', ell:'EL', est:'ET', fin:'FI', hun:'HU', lit:'LT', lav:'LV', ron:'RO', slk:'SK', slv:'SL', swe:'SV', tur:'TR', ukr:'UK' };
+const toDeepL = (code3) => LANG_MAP[code3];
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
-jobs:
-  backfill:
-    runs-on: ubuntu-latest
-    env:
-      DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-      # Si introduces un endpoint en el formulario, se usa ese; si no, cae al repo var DEEPL_ENDPOINT
-      DEEPL_ENDPOINT: ${{ github.event.inputs.deepl_endpoint != '' && github.event.inputs.deepl_endpoint || vars.DEEPL_ENDPOINT }}
-      BACKFILL_LIMIT: ${{ github.event.inputs.backfill_limit }}
-      SLEEP_MS: ${{ github.event.inputs.sleep_ms }}
+function ensureDirFor(p){ fs.mkdirSync(path.dirname(p), { recursive: true }); }
+function loadJSON(p){ return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf-8")) : []; }
+function saveJSON(p, data){ ensureDirFor(p); fs.writeFileSync(p, JSON.stringify(data, null, 2)); }
 
-    steps:
-      - name: "Checkout"
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+function detectLang2(text){
+  const sample = String(text || '').slice(0, 800);
+  const code3 = franc(sample, { minLength: 10 }); // 'eng', 'spa', 'und'...
+  return toDeepL(code3); // puede ser undefined
+}
 
-      - name: "Setup Node.js"
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
+async function deeplTranslate(text, targetLang, sourceLang){
+  if (!text) return text;
+  const body = new URLSearchParams();
+  body.set("text", String(text).slice(0, 4000));
+  body.set("target_lang", String(targetLang || 'ES').toUpperCase());
+  if (sourceLang) body.set("source_lang", String(sourceLang).toUpperCase());
+  try{
+    const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
+      method: "POST",
+      headers: {
+        Authorization: `DeepL-Auth-Key ${DEEPL_KEY}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+        "user-agent": USER_AGENT,
+      },
+      body,
+    });
+    if (!res.ok) {
+      console.warn(`[DeepL] ${DEEPL_ENDPOINT} HTTP ${res.status}`);
+      return text; // devolvemos original para no escribir *_es si no hay traducción
+    }
+    const data = await res.json();
+    return data?.translations?.[0]?.text || text;
+  }catch(e){
+    console.warn("[DeepL]", e.message);
+    return text;
+  }
+}
 
-      - name: "Instalar dependencias Node"
-        run: |
-          set -euo pipefail
-          if [ -f package.json ]; then
-            if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
-          else
-            echo '{"name":"ci-backfill","private":true,"type":"module"}' > package.json
-            npm install --no-audit --no-fund
-          fi
-          # dependencias que usa el script de backfill
-          npm install --no-audit --no-fund node-fetch@3 franc
+function needsTranslation(item){
+  const titleMissing   = !item.title_es || item.title_es.trim() === '';
+  const contentMissing = !item.content_es || item.content_es.trim() === '';
+  const titleSameAsSrc = (item.title_es || '').trim() === (item.title || '').trim();
+  const title = item.title || '';
+  const summarySeed = item.content_es || item.summary || item.description || '';
+  const lang = detectLang2(`${title} ${summarySeed}`) || 'EN';
+  // Pendiente si falta algo, si *_es == original en fuentes inglesas o si detectamos no-ES
+  return titleMissing || contentMissing || titleSameAsSrc || (lang !== 'ES');
+}
 
-      - name: "Comprobar archivo objetivo"
-        run: |
-          set -euo pipefail
-          test -s "$FINAL_JSON" || (echo "$FINAL_JSON no existe o está vacío" && exit 1)
-          jq . "$FINAL_JSON" >/dev/null
+async function translateItem(item){
+  const title = item.title || '';
+  const summarySeed = item.content_es || item.summary || item.description || '';
+  const lang = (detectLang2(`${title} ${summarySeed}`) || 'EN');
 
-      - name: "Pendientes de traducción (antes)"
-        id: before
-        run: |
-          set -euo pipefail
-          echo "::group::Pendientes antes"
-          PEND=$(jq '[ .[] | select((.title_es|not) or (.title_es=="") or (.title_es==.title) or (.content_es|not) or (.content_es=="")) ] | length' "$FINAL_JSON")
-          echo "Pendientes: $PEND"
-          echo "pendientes=$PEND" >> $GITHUB_OUTPUT
-          echo "::endgroup::"
+  // Si ya está en español: solo completa los campos que falten (sin copiar a lo loco otros)
+  if (lang === 'ES') {
+    const next = { ...item };
+    if (!next.title_es || next.title_es.trim() === '') next.title_es = title;
+    if (!next.content_es || next.content_es.trim() === '') next.content_es = (summarySeed || title);
+    return next;
+  }
 
-      - name: "Ejecutar backfill de traducciones"
-        run: |
-          set -euo pipefail
-          if [ -f scripts/backfill-translate.js ]; then
-            node scripts/backfill-translate.js
-          elif [ -f workspace/scripts/backfill-translate.js ]; then
-            node workspace/scripts/backfill-translate.js
-          else
-            echo "No se encontró scripts/backfill-translate.js" && exit 1
-          fi
+  // Intento de traducción (con pausa entre llamadas para evitar 429)
+  const title_tr = await deeplTranslate(title, 'ES', lang);
+  await sleep(SLEEP_MS);
+  const content_src = summarySeed || title; // si no hay resumen, traducimos el título
+  const content_tr = await deeplTranslate(content_src, 'ES', lang);
 
-      - name: "Pendientes de traducción (después)"
-        id: after
-        run: |
-          set -euo pipefail
-          echo "::group::Pendientes después"
-          PEND=$(jq '[ .[] | select((.title_es|not) or (.title_es=="") or (.title_es==.title) or (.content_es|not) or (.content_es=="")) ] | length' "$FINAL_JSON")
-          echo "Pendientes: $PEND"
-          echo "pendientes=$PEND" >> $GITHUB_OUTPUT
-          echo "::endgroup::"
+  const next = { ...item };
+  // Solo escribimos si la traducción NO es igual al original (evita dejar inglés en *_es)
+  if ((!next.title_es || next.title_es.trim() === '') && title_tr && title_tr.trim() !== title.trim()) {
+    next.title_es = title_tr;
+  }
+  if ((!next.content_es || next.content_es.trim() === '') && content_tr && content_tr.trim() !== content_src.trim()) {
+    next.content_es = content_tr;
+  }
+  return next;
+}
 
-      - name: "Subir artifact (articles.json)"
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: articles-json-backfilled
-          path: |
-            ${{ env.FINAL_JSON }}
+async function main(){
+  const all = loadJSON(FILE);
+  if (!Array.isArray(all) || all.length === 0){
+    console.log("Nada que traducir (archivo vacío o no es array)");
+    return;
+  }
 
-      - name: "Commit & Push si hubo cambios"
-        run: |
-          set -euo pipefail
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$FINAL_JSON"
-          if git diff --cached --quiet; then
-            echo "Sin cambios que commitear."
-          else
-            git commit -m "chore: backfill translations [skip ci]"
-            git push
-          fi
+  ensureDirFor(BACKUP);
+  fs.copyFileSync(FILE, BACKUP);
+  console.log(`🗂  Backup creado en ${BACKUP}`);
+
+  const toProcessIdx = [];
+  for (let i=0; i<all.length; i++) {
+    if (needsTranslation(all[i])) toProcessIdx.push(i);
+  }
+  console.log(`Encontrados ${toProcessIdx.length} artículos a traducir (faltan ES / están en inglés / idénticos).`);
+
+  if (toProcessIdx.length === 0){
+    console.log("Todo ya está traducido. ✔️");
+    return;
+  }
+
+  const limit = Math.min(BACKFILL_LIMIT, toProcessIdx.length);
+  console.log(`Traduciendo ${limit} artículos ahora (BACKFILL_LIMIT=${BACKFILL_LIMIT}).`);
+
+  for (let k=0; k<limit; k++){
+    const idx = toProcessIdx[k];
+    const original = all[idx];
+    try{
+      const translated = await translateItem(original);
+      // Conserva fecha/orden; SOLO actualiza campos ES cuando hay traducción real
+      all[idx] = { ...original, ...(['title_es','content_es'].reduce((acc, f)=>{
+        if (translated[f] && translated[f].trim() !== '') acc[f] = translated[f];
+        return acc;
+      }, {})) };
+      if ((k+1) % 25 === 0) console.log(`...${k+1}/${limit} traducidos`);
+    }catch(e){
+      console.warn(`Error traduciendo idx=${idx}:`, e.message);
+    }
+    await sleep(SLEEP_MS);
+  }
+
+  saveJSON(FILE, all);
+  console.log(`✔️ Guardado ${FILE} con traducciones añadidas. No se tocaron date/published.`);
+}
+
+main().catch(e=>{ console.error("Fallo en backfill-translate:", e); process.exit(1); });
