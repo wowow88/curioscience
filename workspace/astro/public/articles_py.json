@@ -1,5 +1,525 @@
 [
   {
+    "title": "Swift bricks, ancient tattoos and more: Books in brief",
+    "title_es": "Ladrillos rápidos, tatuajes antiguos y más: libros en breve",
+    "url": "https://www.nature.com/articles/d41586-025-02556-0",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02556-0 Andrew Robinson revisa cinco de las mejores selecciones de ciencias."
+  },
+  {
+    "title": "How animal paw pads got their toughness",
+    "title_es": "Cómo las almohadillas de los animales obtuvieron su dureza",
+    "url": "https://www.nature.com/articles/d41586-025-02474-1",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02474-1 en criaturas que caminan sobre tierra, una proteína llamada SLURP1 protege a las células de la piel del estrés."
+  },
+  {
+    "title": "Can creativity in science be learnt? These researchers think so",
+    "title_es": "¿Se puede aprender la creatividad en la ciencia? Estos investigadores piensan que sí",
+    "url": "https://www.nature.com/articles/d41586-025-01913-3",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-01913-3 La presión de tiempo se interpone en el camino de las ideas. Desarrollar \"oasis creativos\" y pequeñas subvenciones para ideas de riesgo puede fomentar el pensamiento innovador en la ciencia."
+  },
+  {
+    "title": "Trump order gives political appointees vast powers over research grants",
+    "title_es": "La orden de Trump otorga a los nombrados políticos vastos poderes sobre las subvenciones de investigación",
+    "url": "https://www.nature.com/articles/d41586-025-02557-z",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02557-z Los investigadores están alarmados de que el movimiento podría volar una tradición de larga data de revisión por pares para las subvenciones."
+  },
+  {
+    "title": "Decolonize scientific institutions, don’t just diversify them",
+    "title_es": "Descolonizar instituciones científicas, no solo las diversifique",
+    "url": "https://www.nature.com/articles/d41586-025-02516-8",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02516-8 Los académicos indígenas establecieron ocho pasos para detener la marginación en la academia y permitir una agenda indígena compartida en la ciencia."
+  },
+  {
+    "title": "A rude awakening",
+    "title_es": "Un despertar grosero",
+    "url": "https://www.nature.com/articles/d41586-025-02488-9",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02488-9 solo respira."
+  },
+  {
+    "title": "Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling",
+    "title_es": "Hacia la seguridad generalizable en la navegación de la multitud a través del manejo de incertidumbre conforme",
+    "url": "http://arxiv.org/abs/2508.05634v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los robots móviles que navegan en multitudes entrenadas con aprendizaje de refuerzo son\nconocido por sufrir la degradación del desempeño cuando se enfrenta a una distribución fuera de distribución\nescenarios. Proponemos que al tener en cuenta adecuadamente las incertidumbres de\nPeatones, un robot puede aprender políticas de navegación seguras que son robustas para\ncambios de distribución. Nuestro método aumenta las observaciones del agente con predicción\nEstimaciones de incertidumbre generadas por la inferencia conforme adaptativa, y utiliza\nEstas estimaciones para guiar el comportamiento del agente a través de un refuerzo restringido\naprendiendo. El sistema ayuda a regular las acciones del agente y le permite adaptarse\na los cambios de distribución. En el entorno de distribución, nuestro enfoque logra un\n96.93% de tasa de éxito, que es más de 8.80% más alta que la anterior\nlíneas de base de última generación con más de 3.72 veces menos colisiones y 2.43 veces\nMenos intrusiones en las trayectorias futuras humanas de la verdad en tierra. En tres\nescenarios fuera de distribución, nuestro método muestra una robustez mucho más fuerte cuando\nenfrentar los cambios de distribución en las variaciones de velocidad, cambios de política y\nTransiciones de dinámica individual a grupo. Implementamos nuestro método en un verdadero\nRobot, y los experimentos muestran que el robot toma decisiones seguras y robustas cuando\ninteractuando con multitudes tanto escasas como densas. Nuestro código y videos son\nDisponible en https://gen-safe-sav.github.io/."
+  },
+  {
+    "title": "KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation",
+    "title_es": "Kuailive: un conjunto de datos interactivo en tiempo real para recomendación de transmisión en vivo",
+    "url": "http://arxiv.org/abs/2508.05633v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Las plataformas de transmisión en vivo se han convertido en una forma dominante de contenido en línea\nconsumo, ofreciendo contenido en evolución dinámica, interacciones en tiempo real y\nExperiencias de usuario altamente atractivas. Estas características únicas introducen nuevas\ndesafíos que diferencian la recomendación de transmisión en vivo de la tradicional\nconfiguración de recomendación y ha atraído la mayor atención de la industria en\naños recientes. Sin embargo, el progreso de la investigación en la academia ha sido obstaculizado por el\nFalta de conjuntos de datos disponibles públicamente que reflejan con precisión la naturaleza dinámica\nde entornos de transmisión en vivo. Para abordar esta brecha, presentamos a Kuailive, el\nPrimer conjunto de datos interactivo en tiempo real recopilado de Kuaishou, un líder en vivo\nPlataforma de transmisión en China con más de 400 millones de usuarios activos diarios. El\nDataSet registra los registros de interacción de 23,772 usuarios y 452,621 transmisores sobre\nun período de 21 días. En comparación con los conjuntos de datos existentes, Kuailive ofrece varios\nVentajas: Incluye marcas de tiempo de inicio y finalización de sala en vivo precisas, múltiples\nTipos de interacciones de usuario en tiempo real (haga clic, comente, me gusta, regalo) y rico\nCaracterísticas de información secundaria tanto para usuarios como para transmisores. Estas características habilitan\nsimulación más realista de elementos candidatos dinámicos y un mejor modelado de\ncomportamientos de usuario y streamer. Realizamos un análisis exhaustivo de Kuailive desde\nmúltiples perspectivas y evaluar varias recomendaciones representativas\nMétodos sobre él, estableciendo un punto de referencia fuerte para futuras investigaciones. Kuailive\npuede admitir una amplia gama de tareas en el dominio de transmisión en vivo, como Top-K\nRecomendación, predicción de tasa de clics, predicción de tiempo de observación y regalo\nPredicción de precios. Además, sus datos de comportamiento de grano fino también permiten\nInvestigación sobre modelado de múltiples paseos, aprendizaje de tareas múltiples y conscientes de la equidad\nrecomendación. El conjunto de datos y los recursos relacionados están disponibles públicamente en\nhttps://imgkkk574.github.io/kuailive."
+  },
+  {
+    "title": "H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages",
+    "title_es": "H-NET ++: fragmentación dinámica jerárquica para modelado de idiomas sin tokenizador en idiomas morfológicamente ricos",
+    "url": "http://arxiv.org/abs/2508.05628v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas a nivel de byte eliminan los tokenizadores frágiles pero la cara\nDesafíos computacionales en idiomas morfológicamente ricos (MRL), donde las palabras\nabarcan muchos bytes. Proponemos H-Net ++, un modelo jerárquico de choque dinámico que\nAprende segmentación lingüísticamente informada a través de la capacitación de extremo a extremo. Llave\nLas innovaciones incluyen: (1) un mixer de contexto de transformador liviano (1.9m\nparámetros) para la atención de la entrevía, (2) un hiper-prior latente de dos niveles para\nconsistencia a nivel de documento, (3) manejo especializado de artefactos ortográficos\n(por ejemplo, persa ZWNJ) y (4) entrenamiento basado en el plan de estudios con secuencia escenificada\nlongitudes. En un corpus persa de 1.4b-token, H-Net ++ logra\nResultados: 0.159 BPB Reducción versus GPT-2-FA basada en BPE (12% mejor\ncompresión), ganancia de 5.4pp en Parsglue, 53% mejoró la robustez a ZWNJ\nCorrupción y 73.8% F1 en los límites morfológicos de oro. Nuestros trozos aprendidos\nalinearse con la morfología persa sin supervisión explícita, demostrando que\nLa fragmentación dinámica jerárquica proporciona una solución efectiva sin tokenizador para\nMRL mientras mantiene la eficiencia computacional."
+  },
+  {
+    "title": "How Do LLMs Persuade? Linear Probes Can Uncover Persuasion Dynamics in Multi-Turn Conversations",
+    "title_es": "¿Cómo persuaden los LLM? Las sondas lineales pueden descubrir la dinámica de la persuasión en conversaciones múltiples",
+    "url": "http://arxiv.org/abs/2508.05625v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) han comenzado a demostrar la capacidad de\npersuadir a los humanos, sin embargo, nuestra comprensión de cómo se produce esta dinámica\nlimitado. El trabajo reciente ha utilizado sondas lineales, herramientas livianas para analizar\nRepresentaciones de modelos, para estudiar varias habilidades de LLM, como la capacidad de modelar\nSentimiento de usuario y perspectiva política. Motivado por esto, aplicamos sondas a\nEstudie la dinámica de la persuasión en conversaciones naturales de giro múltiple. Aprovechamos\nideas de la ciencia cognitiva para entrenar sondas sobre aspectos distintos de\nPersuasión: éxito de persuasión, personalidad persuadee y estrategia de persuasión.\nA pesar de su simplicidad, mostramos que capturan varios aspectos de\nPersuasión tanto a nivel de muestra como de conjunto de datos. Por ejemplo, las sondas pueden\nidentificar el punto en una conversación donde se persuadió el persuadee o donde\nEl éxito persuasivo generalmente ocurre en todo el conjunto de datos. También mostramos\nque además de ser más rápido que los enfoques basados en la solicitud costosos,\nLas sondas pueden hacer igual de bien e incluso superar la solicitud en algunas configuraciones, como\ncomo al descubrir la estrategia de persuasión. Esto sugiere sondas como una plausible\navenida para estudiar otros comportamientos complejos como el engaño y\nManipulación, especialmente en configuraciones de múltiples vueltas y conjunto de datos a gran escala\nAnálisis donde los métodos basados en la solicitud serían computacionalmente ineficientes."
+  },
+  {
+    "title": "Simulating Human-Like Learning Dynamics with LLM-Empowered Agents",
+    "title_es": "Simulando la dinámica de aprendizaje de tipo humano con agentes empoderados con LLM",
+    "url": "http://arxiv.org/abs/2508.05622v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Capturar el comportamiento de aprendizaje humano basado en métodos de aprendizaje profundo se ha convertido en un\nEl principal enfoque de investigación en psicología y sistemas inteligentes. Reciente\nLos enfoques se basan en experimentos controlados o modelos basados en reglas para explorar\nProcesos cognitivos. Sin embargo, luchan por capturar la dinámica del aprendizaje, rastrear\nprogresar con el tiempo o proporcionar explicación. Para abordar estos desafíos, nosotros\nIntroducir a LearnerAgent, un nuevo marco de agente múltiple basado en un lenguaje grande\nModelos (LLM) para simular un entorno de enseñanza realista. Para explorar\nDinámica de aprendizaje similar a la humana, construimos alumnos con psicológicamente\nPerfiles conectados a tierra como profundos, superficiales y perezosos, así como una persona sin persona\nAlumno general para inspeccionar el comportamiento predeterminado de la base de LLM. A través de Weekly\nAdquisición de conocimiento, opciones estratégicas mensuales, pruebas periódicas y pares\ninteracción, podemos rastrear el progreso de aprendizaje dinámico de los alumnos individuales\ndurante un viaje de todo el año. Nuestros hallazgos son cuádruples: 1) Análisis longitudinal\nrevela que solo el alumno profundo logra un crecimiento cognitivo sostenido. Nuestro\n\"Preguntas de trampa\" especialmente diseñadas diagnostican efectivamente el alumno de superficie\nConocimiento superficial. 2) Los patrones conductuales y cognitivos de distintos\nLos alumnos se alinean estrechamente con sus perfiles psicológicos. 3) los alumnos '\nLos puntajes de autoconcepto evolucionan de manera realista, con el alumno general en desarrollo\nSorprendentemente alta autoeficacia a pesar de sus limitaciones cognitivas. 4)\nCríticamente, el perfil predeterminado de Base LLM es una \"superficie diligente pero frágil\nAlumno \", un agente que imita los comportamientos de un buen estudiante pero carece de verdad,\ncomprensión generalizable. Extensos experimentos de simulación demuestran que\nLearneragent se alinea bien con escenarios reales, produciendo hallazgos más perspicaces\nsobre el comportamiento de LLMS."
+  },
+  {
+    "title": "The Missing Reward: Active Inference in the Era of Experience",
+    "title_es": "La recompensa que falta: inferencia activa en la era de la experiencia",
+    "url": "http://arxiv.org/abs/2508.05619v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Este artículo argumenta que la inferencia activa (AIF) proporciona una base crucial\npara desarrollar agentes de IA autónomos capaces de aprender de la experiencia sin\nIngeniería de recompensas humanas continuas. A medida que los sistemas de IA comienzan a agotar\ndatos de entrenamiento de alta calidad y confiar en fuerzas de trabajo humanas cada vez más grandes para\nDiseño de recompensa, el paradigma actual enfrenta desafíos de escalabilidad significativos\nEso podría impedir el progreso hacia una inteligencia genuinamente autónoma. El\nPropuesta para una `` era de experiencia '', donde los agentes aprenden de los autogenerados\nLos datos, son un paso prometedor adelante. Sin embargo, esta visión aún depende de\nIngeniería humana extensa de funciones de recompensa, cambiando efectivamente el\nCuello de botella de la curación de datos a la curación de recompensas. Esto resalta lo que nosotros\nIdentificar como el \\ textbf {GAP de agencia a tierra}: la incapacidad de la IA contemporánea\nsistemas para formular, adaptarse y perseguir de forma autónoma en respuesta a\ncircunstancias cambiantes. Proponemos que AIF pueda cerrar esta brecha reemplazando\nSeñales de recompensa externas con un disco intrínseco para minimizar la energía libre,\npermitiendo que los agentes equilibren naturalmente la exploración y la explotación a través de un\nObjetivo bayesiano unificado. Integrando modelos de idiomas grandes como generativo\nModelos mundiales con el marco de toma de decisiones de principios de AIF, podemos crear\nagentes que aprenden eficientemente de la experiencia mientras permanecen alineados con\nvalores humanos. Esta síntesis ofrece un camino convincente hacia los sistemas de IA que\npuede desarrollarse de forma autónoma mientras se adhiere tanto a la computación como a\nrestricciones."
+  },
+  {
+    "title": "TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution",
+    "title_es": "Trajevo: Diseño de heurística de predicción de trayectoria a través de la evolución dirigida por LLM",
+    "url": "http://arxiv.org/abs/2508.05616v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "La predicción de la trayectoria es una tarea crítica para modelar el comportamiento humano,\nespecialmente en dominios críticos de seguridad, como robótica social y autónoma\nNavegación de vehículos. Heurística tradicional basada en reglas artesanales a menudo\nFalta de precisión y generalización. Aunque ofrecen enfoques de aprendizaje profundo\nmejor rendimiento, generalmente sufren de alto costo computacional,\nExplicación limitada y, lo que es más importante, una pobre generalización para\nEscenarios fuera de distribución (OOD). En este artículo, presentamos a Trajevo, un\nMarco que aprovecha los modelos de idiomas grandes (LLM) para diseñar automáticamente\nTrayectoria Predicción Heurística. Trajevo emplea un algoritmo evolutivo para\nGenere y refine la heurística de predicción a partir de datos de trayectoria pasados. Proponemos\nDos innovaciones clave: muestreo de élite de generación cruzada para alentar la población\ndiversidad y un bucle de retroalimentación estadística que permite al LLM analizar y\nmejorar las predicciones alternativas. Nuestras evaluaciones demuestran que Trajevo\nSuperación supera los métodos heurísticos existentes en múltiples conjuntos de datos del mundo real, y\nnotablemente supera los métodos de aprendizaje heurísticos y profundos para generalizar a\nUn conjunto de datos del mundo real invisible. Trajevo marca un paso prometedor hacia el\nDiseño automatizado de predicción de trayectoria rápida, explicable y generalizable\nHeurística. Lanzamos nuestro código fuente para facilitar la investigación futura en\nhttps://github.com/ai4co/trajevo."
+  },
+  {
+    "title": "Test-Time Reinforcement Learning for GUI Grounding via Region Consistency",
+    "title_es": "Aprendizaje de refuerzo de tiempo de prueba para la base de la GUI a través de la consistencia de la región",
+    "url": "http://arxiv.org/abs/2508.05615v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Interfaz gráfica de usuario (GUI) Ingilia, la tarea de mapear natural\nLas instrucciones de idioma para las coordenadas de pantalla precisas son fundamentales para\nAgentes de GUI autónomos. Mientras que los métodos existentes logran un rendimiento fuerte\na través de una extensa capacitación supervisada o aprendizaje de refuerzo con etiquetado\nrecompensas, permanecen limitadas por el costo y la disponibilidad de píxel\nanotaciones. Observamos que cuando los modelos generan múltiples predicciones para el\nEl mismo elemento GUI, los patrones de superposición espacial revelan confianza implícita\nSeñales que pueden guiar la localización más precisa. Aprovechando esta idea, nosotros\nProponer GUI-RC (consistencia de la región), un método de escala de tiempo de prueba que construye\ncuadrículas de votación espacial de múltiples predicciones muestreadas para identificar el consenso\nregiones donde los modelos muestran un acuerdo más alto. Sin ningún entrenamiento, GUI-RC\nMejora la precisión en un 2-3% en varias arquitecturas en Screenspot\npuntos de referencia. Además presentamos GUI-RCPO (Política de consistencia de la región\nOptimización), que transforma estos patrones de consistencia en recompensas para\nAprendizaje de refuerzo de tiempo de prueba. Calculando qué tan bien se alinea cada predicción\nCon el consenso colectivo, GUI-RCPO permite que los modelos refinen iterativamente\nsus salidas en datos no etiquetados durante la inferencia. Experimentos extensos\nDemostrar la generalidad de nuestro enfoque: Gui-RC aumenta\nQWEN2.5-VL-3B-INSTRUST de 80.11% a 83.57% en ScreensPot-V2, mientras que GUI-RCPO\nLo mejora aún más al 85.14% a través de la optimización auto-supervisada. Nuestro\nEl enfoque revela el potencial sin explotar de la escala del tiempo de prueba y el tiempo de prueba\nAprendizaje de refuerzo para la base de la GUI, ofreciendo un camino prometedor hacia más\nAgentes de GUI robustos y eficientes en datos."
+  },
+  {
+    "title": "OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks",
+    "title_es": "Omniear: Benchmarking Agent Razoning en tareas incorporadas",
+    "url": "http://arxiv.org/abs/2508.05614v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de lenguaje grande se destacan en el razonamiento abstracto pero su capacidad para\nEl razonamiento del agente incorporado permanece en gran medida inexplorado. Presentamos omniear, un\nMarco integral para evaluar cómo los modelos de lenguaje razonan sobre\ninteracciones físicas, uso de herramientas y coordinación de agentes múltiples en incorporado\ntareas. A diferencia de los puntos de referencia existentes que proporcionan conjuntos de herramientas predefinidos o explícitos\nDirectivas de colaboración, Omniear requiere que los agentes adquieran dinámicamente\ncapacidades y determinar de forma autónoma estrategias de coordinación basadas en la tarea\ndemandas. A través de la representación del entorno basada en el texto, modelamos continuos\npropiedades físicas y relaciones espaciales complejas en 1.500 escenarios\nabarcando dominios domésticos e industriales. Nuestra evaluación sistemática revela\ndegradación severa del rendimiento cuando los modelos deben razonar a partir de restricciones: mientras\nLograr 85-96% de éxito con instrucciones explícitas, el rendimiento cae a\n56-85% para razonamiento de herramientas y 63-85% para colaboración implícita, con compuesto\nTareas que muestran más del 50% de tasas de falla. Sorprendentemente, medio ambiente completo\nLa información degrada el rendimiento de la coordinación, lo que indica que los modelos no pueden filtrar\nRestricciones relevantes para tareas. El ajuste fino mejora las tareas de un solo agente dramáticamente\n(0.6% a 76.3%) pero produce ganancias mínimas múltiples (1,5% a 5,5%), exponiendo\nLimitaciones arquitectónicas fundamentales. Estos hallazgos demuestran que encarnado\nEl razonamiento plantea desafíos fundamentalmente diferentes que los modelos actuales pueden\ndirección, establecer omniear como un riguroso punto de referencia para evaluar y\nAvance de sistemas de IA encarnados. Nuestro código y datos están incluidos en el\nMateriales complementarios y será de código abierto tras la aceptación."
+  },
+  {
+    "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
+    "title_es": "Cooper: Co-Optimizando modelos de políticas y recompensas en el aprendizaje de refuerzo para modelos de idiomas grandes",
+    "url": "http://arxiv.org/abs/2508.05613v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) han demostrado un rendimiento notable en\nTareas de razonamiento, donde el aprendizaje de refuerzo (RL) sirve como un algoritmo clave\npara mejorar sus capacidades de razonamiento. Actualmente, hay dos principales\nParadigmas de recompensa: recompensas basadas en modelos y recompensas basadas en reglas. Sin embargo, ambos\nLos enfoques sufren de limitaciones: las recompensas basadas en reglas carecen de robustez, mientras que\nLas recompensas basadas en modelos son vulnerables a la piratería de recompensas. Para abordar estos problemas,\nProponemos Cooper (modelo de política de optimización y modelo de recompensa), un marco RL\nEso optimiza conjuntamente tanto el modelo de política como el modelo de recompensa. Tonelero\nAprovecha la alta precisión de las recompensas basadas en reglas al identificar correctamente\nrespuestas y construye dinámicamente y selecciona una muestra negativa positiva\nPARES PARA ENTRENAMIENTO CONTINEADO El modelo de recompensa. Este diseño mejora la robustez\ny mitiga el riesgo de piratería de recompensas. Para apoyar aún más a Cooper, nosotros\nintroducir una estrategia de anotación híbrida que\ngenera datos de entrenamiento para el modelo de recompensa. También proponemos una referencia basada\nParadigma de modelado de recompensas, donde el modelo de recompensa toma una respuesta de referencia como\naporte. Basado en este diseño, entrenamos un modelo de recompensa llamado VerifyRM, que\nlogra una mayor precisión en VerifyBench en comparación con otros modelos de los mismos\ntamaño. Realizamos el aprendizaje de refuerzo utilizando VeryRM y Cooper. Nuestro\nLos experimentos muestran que Cooper no solo alivia la piratería de recompensas sino también\nmejora el rendimiento de RL de extremo a extremo, por ejemplo, logrando una ganancia de 0.54% en\nPrecisión promedio en qwen2.5-1.5b-instructo. Nuestros hallazgos demuestran que\nEl modelo de recompensa de actualización dinámica es una forma efectiva de combatir la piratería de recompensas,\nproporcionando una referencia para una mejor integración de modelos de recompensa en RL."
+  },
+  {
+    "title": "Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle",
+    "title_es": "Shuffle-R1: Marco de RL eficiente para modelos de lenguaje grande multimodal a través de la baraja dinámica centrada en los datos",
+    "url": "http://arxiv.org/abs/2508.05612v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "El aprendizaje de refuerzo (RL) se ha convertido en un post-capacitación efectivo\nParadigma para mejorar las capacidades de razonamiento del lenguaje multimodal grande\nmodelo (mllm). Sin embargo, las tuberías RL actuales a menudo sufren de entrenamiento\nineficiencias causadas por dos problemas subexplorados: colapso de ventaja, donde\nla mayoría de las ventajas en un lote concentrado cerca de cero y silenciamiento de despliegue, donde\nLa proporción de despliegos que contribuyen a los gradientes distintos disminuyen\ntiempo. Estos problemas conducen a actualizaciones de gradiente subóptimas y obstaculizan a largo plazo\nEficiencia de aprendizaje. Para abordar estos problemas, proponemos Shuffle-R1, un simple\nSin embargo, el marco de principios que mejora la eficiencia de ajuste fino de RL por dinámicamente\nMuestreo de trayectoria de reestructuración y composición de lotes. Presenta (1)\nMuestreo de trayectoria por pares, que selecciona trayectorias de alto contraste con\ngrandes ventajas para mejorar la calidad de la señal del gradiente y (2)\nTrayectoria barajado, que aumenta la exposición de valiosos despliegos a través de\nremodelación del lote informado. Experimentos en múltiples puntos de referencia de razonamiento\nDemuestre que nuestro marco supera constantemente las líneas de base RL fuertes con\nsobrecarga mínima. Estos resultados resaltan la importancia de los datos centrados en los datos\nAdaptaciones para una capacitación RL más eficiente en MLLM."
+  },
+  {
+    "title": "Iterative Learning of Computable Phenotypes for Treatment Resistant Hypertension using Large Language Models",
+    "title_es": "Aprendizaje iterativo de fenotipos computables para hipertensión resistente al tratamiento utilizando modelos de lenguaje grandes",
+    "url": "http://arxiv.org/abs/2508.05581v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) han demostrado capacidades notables para\nRespuesta y programación de preguntas médicas, pero su potencial para generar\nLos fenotipos computables interpretables (CPS) están subexplorados. En este trabajo, nosotros\nInvestigue si los LLM pueden generar CPS precisos y concisos para seis clínicos\nfenotipos de complejidad variable, que podrían aprovecharse para permitir escalables\nApoyo a la decisión clínica para mejorar la atención de pacientes con hipertensión. En\nAdemás de evaluar el rendimiento cero, proponemos y probamos un\nsintetizar, ejecutar, depurar, instruir una estrategia que utiliza LLM para generar y\nRefina iterativamente CPS utilizando la retroalimentación basada en datos. Nuestros resultados muestran que LLMS,\njunto con el aprendizaje iterativo, puede generar interpretable y razonablemente\nProgramas precisos que abordan el rendimiento de los métodos de ML de última generación\nmientras requiere significativamente menos ejemplos de capacitación."
+  },
+  {
+    "title": "MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media",
+    "title_es": "MV DEBATE: debate de agente múltiple con la compleja dinámica de reflexión para la detección de contenido dañino multimodal en las redes sociales",
+    "url": "http://arxiv.org/abs/2508.05557v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Las redes sociales se han convertido en un entorno multimodal complejo donde el texto,\nimágenes y otras señales interactúan para dar forma a los significados matizados, a menudo ocultando\nintención dañina. Identificar tal intención, ya sea sarcasmo, discurso de odio o\ndesinformación, sigue siendo desafiante debido a las contradicciones intermodales, rápido\ncambios culturales y señales pragmáticas sutiles. Para abordar estos desafíos, nosotros\nProponer MV-DEBATE, un marco de debate de agente múltiple con reflexión dinámica\nactivación para detección de contenido dañino multimodal unificado. MV-DEBATE ENSEMPLADO\nCuatro agentes de debate complementarios, un analista de superficie, un razonador profundo, un\ncontraste de modalidad y un contextualista social para analizar el contenido de diversos\nperspectivas interpretativas. A través del debate iterativo y la reflexión, los agentes\nRefinar las respuestas bajo un criterio de ganancia de reflexión, asegurando tanto la precisión como\neficiencia. Los experimentos en tres conjuntos de datos de referencia demuestran que MV-DEBATE\nSuperorme significativamente un sólido modelo único y un debate existente en múltiples agentes\nlíneas de base. Este trabajo destaca la promesa del debate de múltiples agentes para avanzar\nDetección de intención social confiable en contextos en línea de seguridad crítica."
+  },
+  {
+    "title": "Adapting Vision-Language Models Without Labels: A Comprehensive Survey",
+    "title_es": "Adaptar modelos en idioma de visión sin etiquetas: una encuesta completa",
+    "url": "http://arxiv.org/abs/2508.05547v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos en idioma de visión (VLMS) han demostrado una notable generalización\ncapacidades en una amplia gama de tareas. Sin embargo, su rendimiento a menudo\npermanece subóptimo cuando se aplica directamente a escenarios posteriores específicos\nsin adaptación específica de la tarea. Para mejorar su utilidad mientras se preserva\nEficiencia de datos, la investigación reciente se ha centrado cada vez más en\nMétodos de adaptación que no se basan en datos etiquetados. A pesar del crecimiento\nInterés en esta área, queda la falta de una encuesta unificada y orientada a las tareas\ndedicado a la adaptación VLM no supervisada. Para cerrar esta brecha, presentamos un\nDescripción completa y estructurada del campo. Proponemos una taxonomía basada en\nSobre la disponibilidad y la naturaleza de los datos visuales no etiquetados, clasificando\nEnfoques en cuatro paradigmas clave: transferencia sin datos (sin datos), sin supervisión\nTransferencia de dominio (datos abundantes), adaptación episódica de tiempo de prueba (datos por lotes),\ny adaptación de tiempo de prueba en línea (datos de transmisión). Dentro de este marco, nosotros\nAnalizar metodologías centrales y estrategias de adaptación asociadas con cada\nParadigma, con el objetivo de establecer una comprensión sistemática del campo.\nAdemás, revisamos puntos de referencia representativos en diversas aplicaciones\ny resaltar desafíos abiertos y direcciones prometedoras para futuras investigaciones. Un\nEl repositorio de literatura relevante mantenido activamente está disponible en\nhttps://github.com/tim-learn/awesome-labelfree-vlms."
+  },
+  {
+    "title": "Conformal Sets in Multiple-Choice Question Answering under Black-Box Settings with Provable Coverage Guarantees",
+    "title_es": "Conjuntos conformes en la respuesta de preguntas de opción múltiple en la configuración de la caja negra con garantías de cobertura comprobable",
+    "url": "http://arxiv.org/abs/2508.05544v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de lenguaje grande (LLMS) han mostrado un progreso notable en\nRespuesta de preguntas de opción múltiple (MCQA), pero su inherencia inherente,\ncomo la alucinación y el exceso de confianza, limita su aplicación en alto riesgo\ndominios. Para abordar esto, proponemos una incertidumbre basada en la frecuencia\nMétodo de cuantificación en configuración de caja negra, aprovechando la predicción conforme\n(CP) para garantizar garantías de cobertura probable. Nuestro enfoque implica múltiples\nmuestras independientes de la distribución de salida del modelo para cada entrada, con\nla muestra más frecuente que sirve como referencia para calcular la entropía predictiva\n(PE). Evaluaciones experimentales en seis LLM y cuatro conjuntos de datos (MEDMCQA,\nMEDQA, MMLU, MMLU-PRO) demuestran que los PE basados en frecuencia supera\nPE basado en logit para distinguir entre predicciones correctas e incorrectas, como\nmedido por AUROC. Además, el método controla efectivamente el empírico\ntasa de malestar en los niveles de riesgo especificados por el usuario, validando ese muestreo\nLa frecuencia puede servir como un sustituto viable para las probabilidades basadas en logit en\nEscenarios de caja negra. Este trabajo proporciona un modelo-agnóstico sin distribución.\nMarco para cuantificación de incertidumbre confiable en MCQA con garantizado\ncobertura, mejorando la confiabilidad de los LLM en aplicaciones prácticas."
+  },
+  {
+    "title": "Tractable Sharpness-Aware Learning of Probabilistic Circuits",
+    "title_es": "Aprendizaje de la nitidez manejable de los circuitos probabilísticos",
+    "url": "http://arxiv.org/abs/2508.05537v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los circuitos probabilísticos (PC) son una clase de modelos generativos que permiten\nInferencia exacta y manejable para una amplia gama de consultas. Si bien reciente\nLos desarrollos han permitido el aprendizaje de PC profundas y expresivas, esto\nEl aumento de la capacidad a menudo puede conducir a un sobreajuste, especialmente cuando los datos son\nlimitado. Analizamos el sobreajuste de PC desde una perspectiva de paisaje de liderazgo log\ny demuestre que a menudo es causado por la convergencia a los óptimos agudos que generalizan\nmal. Inspirado por la minimización consciente de la nitidez en las redes neuronales, proponemos\nUn regularizador con sede en Hesse para capacitar a PC. Como contribución clave, mostramos\nque el rastro de la Hesse de la Ligazos de la Ligera, un proxy de nitidez que es\ntípicamente intratable en redes neuronales profundas, se puede calcular de manera eficiente para\nPC. Minimizar esta traza de Hessian induce un regularizador basado en la norma de gradiente\nque produce actualizaciones simples de parámetros de forma cerrada para EM e integra\nSin problemas con los métodos de aprendizaje basados en el gradiente. Experimentos sobre sintético y\nLos conjuntos de datos del mundo real demuestran que nuestro método guía constantemente PCS hacia\nmínimos más planos, mejora el rendimiento de la generalización."
+  },
+  {
+    "title": "The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities",
+    "title_es": "El mundo según LLM: cómo el origen geográfico influye en las capacidades de deducción de entidad de LLMS de LLMS",
+    "url": "http://arxiv.org/abs/2508.05525v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) se han sintonizado ampliamente para mitigar explícitos\nsesgos, sin embargo, a menudo exhiben sesgos implícitos sutiles enraizados en su\nDatos previos al entrenamiento. En lugar de sondear directamente los LLM con humanos elaborados\nPreguntas que pueden desencadenar barandas, proponemos estudiar cómo se comportan los modelos\nCuando se hacen preguntas de manera proactiva. El juego de 20 preguntas, un\nTarea de deducción de múltiples vueltas, sirve como una prueba de prueba ideal para este propósito. Nosotros\nEvaluar sistemáticamente las disparidades de rendimiento geográfico en la deducción de entidades\nUsando un nuevo conjunto de datos, GEO20Q+, que consiste en personas notables y culturalmente\nObjetos significativos (por ejemplo, alimentos, puntos de referencia, animales) de diversas regiones. Nosotros\nPruebe los LLM populares en dos configuraciones de juego (20 preguntas canónicas y\ngiros ilimitados) y en siete idiomas (inglés, hindi, mandarín, japonés,\nFrancés, español y turco). Nuestros resultados revelan disparidades geográficas: LLMS\nson sustancialmente más exitosos en deducir entidades del norte global\nque el sur global y el oeste global que el este global. Mientras\nWikipedia PageViews y la frecuencia del corpus de pre-entrenamiento se correlacionan suavemente con\nrendimiento, no explican completamente estas disparidades. Notablemente, el\nEl lenguaje en el que se juega el juego tiene un impacto mínimo en las brechas de rendimiento.\nEstos hallazgos demuestran el valor de la evaluación creativa de forma libre\nmarcos para descubrir sesgos sutiles en LLM que permanecen ocultos en estándar\nInvolucrar configuraciones. Analizando cómo los modelos inician y persiguen las metas de razonamiento\nEn múltiples vueltas, encontramos disparidades geográficas y culturales integradas en\nsus procesos de razonamiento. Lanzamos el conjunto de datos (GEO20Q+) y el código en\nhttps://sites.google.com/view/llmbias20q/home."
+  },
+  {
+    "title": "Streamlining Admission with LOR Insights: AI-Based Leadership Assessment in Online Master's Program",
+    "title_es": "Agilización de la admisión con LOR Insights: Evaluación de liderazgo basada en IA en el programa de maestría en línea",
+    "url": "http://arxiv.org/abs/2508.05513v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Las cartas de recomendación (LOR) proporcionan información valiosa sobre los candidatos '\ncapacidades y experiencias más allá de los puntajes de las pruebas estandarizadas. Sin embargo,\nRevisar estos materiales pesados de texto lleva mucho tiempo y es intensivo en mano de obra. A\nabordar este desafío y apoyar al comité de admisión para proporcionar\nComentarios para el crecimiento profesional de los estudiantes, nuestro estudio presenta lori: lor\nInsights, una nueva herramienta de detección basada en IA para evaluar las habilidades de liderazgo en\nLors enviados por solicitantes del programa de maestría en línea. Empleando natural\nprocesamiento del lenguaje y aprovechando modelos de idiomas grandes utilizando Roberta y\nLlama, buscamos identificar atributos de liderazgo como el trabajo en equipo,\ncomunicación e innovación. Nuestro último modelo Roberta logra una F1 ponderada\npuntaje de 91.6%, una precisión del 92.4%y un retiro del 91.6%, que muestra un fuerte\nNivel de consistencia en nuestros datos de prueba. Con la creciente importancia de\nHabilidades de liderazgo en el sector STEM, integrando a Lori en el graduado\nEl proceso de admisión es crucial para evaluar con precisión el liderazgo de los solicitantes\ncapacidades. Este enfoque no solo optimiza el proceso de admisión sino también\ntambién automatiza y garantiza una evaluación más completa de los candidatos '\ncapacidades."
+  },
+  {
+    "title": "LAG: Logic-Augmented Generation from a Cartesian Perspective",
+    "title_es": "LAG: Generación de lógica augsada desde una perspectiva cartesiana",
+    "url": "http://arxiv.org/abs/2508.05509v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) han demostrado capacidades notables en todo\nUna amplia gama de tareas, pero exhiben limitaciones críticas en el conocimiento intensivo\ntareas, a menudo generando alucinaciones cuando se enfrentan a preguntas que requieren\nexperiencia especializada. Mientras que la generación de recuperación de la generación (trapo) mitigan\nEsto integrando el conocimiento externo, lucha con un razonamiento complejo\nescenarios debido a su dependencia de la recuperación semántica directa y la falta de\nOrganización lógica estructurada. Inspirado en principios cartesianos de\n\\ textit {discursos de la m \\ 'ethode}, este documento presenta una lógica acuática\nGeneración (LAG), un nuevo paradigma que refuerza el aumento de conocimiento a través de\nLa descomposición de preguntas sistemáticas y el razonamiento consciente de la dependencia. Específicamente,\nEl retraso primero descompone preguntas complejas en subcuestiones atómicas ordenadas por\ndependencias lógicas. Luego resuelve estos secuencialmente, utilizando respuestas anteriores\nPara guiar la recuperación del contexto para las subcuestiones posteriores, asegurando la paso a paso\nGrounding en cadena lógica. Para evitar la propagación de errores, Lag incorpora un\nMecanismo de terminación lógica que detiene la inferencia al encontrar\nSubcuestiones sin respuesta y reduce el cálculo desperdiciado en excesivo\nrazonamiento. Finalmente, sintetiza todas las sub-resoluciones para generar verificados\nrespuestas. Los experimentos en cuatro conjuntos de datos de referencia demuestran ese retraso\nmejora significativamente la robustez del razonamiento, reduce la alucinación y se alinea\nLLM resolución de problemas con cognición humana, ofreciendo una alternativa de principios a\nsistemas de trapo existentes."
+  },
+  {
+    "title": "Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation",
+    "title_es": "Juez autoeval: hacia un marco agente general para la evaluación de finalización de tareas",
+    "url": "http://arxiv.org/abs/2508.05508v1",
+    "date": "2025-08-07",
+    "source": "arXiv",
+    "content_es": "La creciente adopción de modelos de fundaciones como agentes en diversos dominios\nrequiere un marco de evaluación robusto. Métodos actuales, como\nLLM-as-a-Judge, centrado solo en las salidas finales, con vistas a paso a paso\nrazonamiento que impulsa la toma de decisiones de agente. Mientras tanto, existente\nAgente-as-a-a-juzge, donde un agente evalúa la finalización de la tarea de otro,\nestán típicamente diseñados para configuraciones estrechas específicas de dominio. Para abordar esto\nGAP, proponemos un marco modular generalizable para evaluar la tarea del agente\nfinalización independiente del dominio de la tarea. El marco emula como humano\nevaluación mediante la descomposición de las tareas en subasinas y validando cada paso utilizando\nInformación disponible, como la salida y el razonamiento del agente. Cada módulo\ncontribuye a un aspecto específico del proceso de evaluación y sus salidas\nestán agregados para producir un veredicto final en la finalización de la tarea. Validamos nuestro\nMarco mediante la evaluación del agente de actores Magentic-One en dos puntos de referencia, Gaia\ny BigCodeBench. Nuestro agente de juez predice el éxito de la tarea con un acuerdo más cercano\na las evaluaciones humanas, logrando 4.76% y 10.52% mayor precisión de alineación,\nrespectivamente, en comparación con la línea de base LLM-As-AS-Judge basada en GPT-4O. Este\nDemuestra el potencial de nuestra evaluación de propósito general propuesta\nestructura."
+  },
+  {
+    "title": "Roxie Laybourne, the first forensic ornithologist",
+    "title_es": "Roxie Laybourne, el primer ornitólogo forense",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx2662",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 582-582, agosto de 2025."
+  },
+  {
+    "title": "Revisiting the human sociobiology debate",
+    "title_es": "Revisando el debate de la sociobiología humana",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady6081",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 580-581, agosto de 2025."
+  },
+  {
+    "title": "The membrane skeleton is constitutively remodeled in neurons by calcium signaling",
+    "title_es": "El esqueleto de la membrana se remodela constitutivamente en las neuronas mediante señalización de calcio",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adn6712",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, agosto de 2025."
+  },
+  {
+    "title": "Cysteinyl leukotrienes stimulate gut absorption of food allergens to promote anaphylaxis in mice",
+    "title_es": "Los cisteinil leucotrienos estimulan la absorción intestinal de los alérgenos alimentarios para promover la anafilaxis en ratones",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp0240",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, agosto de 2025."
+  },
+  {
+    "title": "Intestinal mast cell–derived leukotrienes mediate the anaphylactic response to ingested antigens",
+    "title_es": "Los leucotrienos derivados de mastocitos intestinales median la respuesta anafiláctica a los antígenos ingeridos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp0246",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, agosto de 2025."
+  },
+  {
+    "title": "An orthogonal T7 replisome for continuous hypermutation and accelerated evolution in E. coli",
+    "title_es": "Un replisoma ortogonal T7 para hipermutación continua y evolución acelerada en E. coli",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp9583",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 618-622, agosto de 2025."
+  },
+  {
+    "title": "Transferrin receptor–targeted anti-amyloid antibody enhances brain delivery and mitigates ARIA",
+    "title_es": "El anticuerpo anti-amiloide dirigido al receptor transferrino mejora el suministro del cerebro y mitiga la aria",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads3204",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, agosto de 2025."
+  },
+  {
+    "title": "Radular teeth matrix protein 1 directs iron oxide deposition in chiton teeth",
+    "title_es": "Matriz de dientes radulares La proteína 1 dirige la deposición de óxido de hierro en los dientes de quitón",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu0043",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 637-643, agosto de 2025."
+  },
+  {
+    "title": "Imaging collective quantum fluctuations of the structure of a complex molecule",
+    "title_es": "Imágenes Fluctuaciones cuánticas colectivas de la estructura de una molécula compleja",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu2637",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 650-654, agosto de 2025."
+  },
+  {
+    "title": "Single-photon detection enabled by negative differential conductivity in moiré superlattices",
+    "title_es": "Detección de fotones unifonos habilitado por conductividad diferencial negativa en superyilates Moiré",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu5329",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 644-649, agosto de 2025."
+  },
+  {
+    "title": "Three-dimensional nucleation and growth of deformation twins in magnesium",
+    "title_es": "Nucleación tridimensional y crecimiento de gemelos de deformación en magnesio",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv3460",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 632-636, agosto de 2025."
+  },
+  {
+    "title": "Strain-coupled, crystalline polymer-inorganic interfaces for efficient magnetoelectric sensing",
+    "title_es": "Interfaces inorgánicas cristalinas acopladas por deformación para el polímero cristalino para una detección magnetoeléctrica eficiente",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adt2741",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 623-631, agosto de 2025."
+  },
+  {
+    "title": "Predicting expression-altering promoter mutations with deep learning",
+    "title_es": "Predicción de mutaciones promotoras que alteran la expresión con el aprendizaje profundo",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads7373",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, agosto de 2025."
+  },
+  {
+    "title": "The multifunctional immune system",
+    "title_es": "El sistema inmunitario multifuncional",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8294",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 586-587, agosto de 2025."
+  },
+  {
+    "title": "Immune system influence on physiology",
+    "title_es": "Influencia del sistema inmune en la fisiología",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx4380",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 594-599, agosto de 2025."
+  },
+  {
+    "title": "Sex differences in tissue-specific immunity and immunology",
+    "title_es": "Diferencias de sexo en inmunidad e inmunología específica de tejido",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx4381",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 599-603, agosto de 2025."
+  },
+  {
+    "title": "Convergence and divergence of individual immune responses over the life course",
+    "title_es": "Convergencia y divergencia de respuestas inmunes individuales durante el curso de la vida",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady9543",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 604-609, agosto de 2025."
+  },
+  {
+    "title": "Evolution of antiviral host defenses against a backdrop of endogenous retroelements",
+    "title_es": "Evolución de las defensas del huésped antiviral en un contexto de retroelementos endógenos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx4379",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 588-593, agosto de 2025."
+  },
+  {
+    "title": "How a diagnosis altered my path",
+    "title_es": "Cómo un diagnóstico alteró mi camino",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb1444",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 658-658, agosto de 2025."
+  },
+  {
+    "title": "In Other Journals",
+    "title_es": "En otras revistas",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb2040",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 611-612, agosto de 2025."
+  },
+  {
+    "title": "Moiré eyes detect the dim",
+    "title_es": "Los ojos de moiré detectan el oscuro",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea5235",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 570-570, agosto de 2025."
+  },
+  {
+    "title": "Opening the gateway to food-induced anaphylaxis",
+    "title_es": "Abrir la puerta de entrada a la anafilaxis inducida por alimentos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz6439",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 573-574, agosto de 2025."
+  },
+  {
+    "title": "Hardening nature’s toughest teeth",
+    "title_es": "Endurecer los dientes más duros de la naturaleza",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz8241",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 568-569, agosto de 2025."
+  },
+  {
+    "title": "Improving Alzheimer’s disease immunotherapy",
+    "title_es": "Mejora de la inmunoterapia con enfermedad de Alzheimer",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz8959",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 571-572, agosto de 2025."
+  },
+  {
+    "title": "NextGen Voices: National Assessments in Verse",
+    "title_es": "NextGen Voices: evaluaciones nacionales en verso",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb2043",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 584-584, agosto de 2025."
+  },
+  {
+    "title": "Brazil’s dangerous environmental licensing bill",
+    "title_es": "Proyecto de ley de licencias ambientales peligrosas de Brasil",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea7981",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 583-584, agosto de 2025."
+  },
+  {
+    "title": "Community support for inclusive US education",
+    "title_es": "Apoyo comunitario para la educación inclusiva de los Estados Unidos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz3963",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 584-584, agosto de 2025."
+  },
+  {
+    "title": "Brazil’s “devastation bill” empowers criminals",
+    "title_es": "El \"proyecto de ley de devastación\" de Brasil empodera a los delincuentes",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz7734",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 583-583, agosto de 2025."
+  },
+  {
+    "title": "Study used DNA from thousands—without consent",
+    "title_es": "Estudio utilizado ADN de miles, sin consentimiento",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb2395",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 552-553, agosto de 2025."
+  },
+  {
+    "title": "Senate panel rejects Trump’s plan to slash NIH’s budget",
+    "title_es": "El panel del Senado rechaza el plan de Trump de reducir el presupuesto de NIH",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb2396",
+    "date": "2025-08-07",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6760, página 554-555, agosto de 2025."
+  },
+  {
+    "title": "Globally recognized island is losing its trademark glaciers",
+    "title_es": "La isla reconocida a nivel mundial está perdiendo sus glaciares de marca registrada",
+    "url": "https://www.nature.com/articles/d41586-025-02473-2",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02473- La cobertura de hielo se está reduciendo en Heard Island, un sitio del Patrimonio Mundial de la UNESCO y un refugio de biodiversidad."
+  },
+  {
+    "title": "Outrage over Trump team’s climate report spurs researchers to fight back",
+    "title_es": "Indignación sobre el informe climático del equipo de Trump Spurs Spurs para defenderse",
+    "url": "https://www.nature.com/articles/d41586-025-02505-x",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02505-x Informe Los autores dan la bienvenida a las refutaciones científicas \"serias\" para informar que algunos dicen que tergiversan décadas de ciencia climática."
+  },
+  {
+    "title": "How researcher visa curbs threaten science careers",
+    "title_es": "Cómo la visa de los investigadores frena amenazan las carreras científicas",
+    "url": "https://www.nature.com/articles/d41586-025-02293-4",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02293-4 El sentimiento antiinmigrante está alimentando un impulso para recortar el número internacional de estudiantes y trabajadores, pero ¿a qué costo para los investigadores y países que lideran el cargo?"
+  },
+  {
+    "title": "‘A biographer’s dream’: this physicist investigated UFOs and flew over Hiroshima",
+    "title_es": "\"El sueño de un biógrafo\": este físico investigó ovnis y voló sobre Hiroshima",
+    "url": "https://www.nature.com/articles/d41586-025-02512-y",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02512-y Un retrato del ganador del Premio Nobel, Luis Alvarez, explora sus logros científicos sin rehuir su personaje contencioso."
+  },
+  {
+    "title": "George E. Smith obituary: co-inventor of the charge coupled device, which ushered in an era of digital images",
+    "title_es": "Obituario de George E. Smith: Co-Inventor del dispositivo acoplado de carga, que marcó el comienzo de una era de imágenes digitales",
+    "url": "https://www.nature.com/articles/d41586-025-02515-9",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02515-9 La invención de Smith permitió la captura precisa de la luz en forma electrónica, y ha transformado la ciencia, la medicina y la vida diaria."
+  },
+  {
+    "title": "These genes can have the opposite effects depending on which parent they came from",
+    "title_es": "Estos genes pueden tener los efectos opuestos dependiendo de qué padres provengan",
+    "url": "https://www.nature.com/articles/d41586-025-02499-6",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02499-6 El nuevo enfoque encuentra efectos de \"padre de origen\" en más de una docena de genes, sin la necesidad de datos de los padres."
+  },
+  {
+    "title": "Alien planet glimpsed in star's 'habitable zone'",
+    "title_es": "El planeta alienígena vislumbrado en la 'zona habitable' de Star",
+    "url": "https://www.nature.com/articles/d41586-025-02549-z",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02549-z Una mancha de luz manchada por el telescopio James Webb cerca de Alpha Centauri A podría ser el planeta con la órbita más apretada que se haya fotografiado directamente."
+  },
+  {
+    "title": "Monoclonal antibodies revolutionized biomedical science and health care",
+    "title_es": "Los anticuerpos monoclonales revolucionaron la ciencia biomédica y el cuidado de la salud",
+    "url": "https://www.nature.com/articles/d41586-025-02452-7",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02452-7 La historia del descubrimiento de estas moléculas hace 50 años muestra cómo el libre intercambio de ideas puede conducir a tratamientos que cambian la vida."
+  },
+  {
+    "title": "Daily briefing: Lithium supplements reverse Alzheimer’s symptoms in mice",
+    "title_es": "Información diaria: los suplementos de litio revierten los síntomas de Alzheimer en ratones",
+    "url": "https://www.nature.com/articles/d41586-025-02559-x",
+    "date": "2025-08-07",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02559-x Los suplementos que contienen litio parecen revertir los cambios cerebrales asociados con la enfermedad de Alzheimer en ratones. Además, el efecto de los genes puede diferir dependiendo de su padre de origen y el matemático adolescente que refutaba una conjetura de 40 años."
+  },
+  {
     "title": "Has NSF defied a court order by suspending 300 UCLA grants?",
     "title_es": "¿Ha desafiado NSF una orden judicial suspendiendo 300 subvenciones de UCLA?",
     "url": "https://www.science.org/content/article/has-nsf-defied-court-order-suspending-300-ucla-grants",
@@ -13,15 +533,135 @@
     "url": "https://arxiv.org/abs/2508.02673",
     "date": "2025-08-06",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "Numerical Errors in Quantitative System Analysis With Decision Diagrams"
+  },
+  {
+    "title": "Author Correction: Persistent transcriptional programmes are associated with remote memory",
+    "title_es": "Corrección del autor: los programas transcripcionales persistentes están asociados con la memoria remota",
+    "url": "https://www.nature.com/articles/s41586-025-09463-4",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09463-4 Corrección del autor: los programas transcripcionales persistentes están asociados con la memoria remota"
+  },
+  {
+    "title": "Therapeutic genetic restoration through allogeneic brain microglia replacement",
+    "title_es": "Restauración genética terapéutica a través de reemplazo de microglia cerebral alogénica",
+    "url": "https://www.nature.com/articles/s41586-025-09461-6",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09461-6 Restauración genética terapéutica a través de reemplazo de microglios cerebrales alogénicos"
+  },
+  {
+    "title": "Reply to: Inconclusive proof of ferroelectricity in peptide-VDF ribbons",
+    "title_es": "Respuesta a: prueba no concluyente de ferroelectricidad en cintas de péptido-VDF",
+    "url": "https://www.nature.com/articles/s41586-025-09315-1",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09315-1 Respuesta a: prueba no concluyente de ferroelectricidad en cintas de péptido-VDF"
+  },
+  {
+    "title": "Data anomalies and the economic commitment of climate change",
+    "title_es": "Anomalías de datos y el compromiso económico del cambio climático",
+    "url": "https://www.nature.com/articles/s41586-025-09320-4",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09320-4 anomalías de datos y el compromiso económico del cambio climático"
+  },
+  {
+    "title": "Inconclusive proof of ferroelectricity in peptide-VDF ribbons",
+    "title_es": "Prueba no concluyente de ferroelectricidad en cintas de péptidos-VDF",
+    "url": "https://www.nature.com/articles/s41586-025-09314-2",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09314-2 prueba no concluyente de ferroelectricidad en cintas de péptido-VDF"
+  },
+  {
+    "title": "Microglia–neuron crosstalk via Hex–GM2–MGL2 maintains brain homeostasis",
+    "title_es": "Microglia -neuron diafonía a través de hex -gm2 - mgl2 mantiene la homeostasis del cerebro",
+    "url": "https://www.nature.com/articles/s41586-025-09477-y",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09477-Y Microglia-neuron diafonía a través de hex-gm2-mgl2 mantiene la homeostasis del cerebro"
+  },
+  {
+    "title": "Publisher Correction: NINJ1 regulates plasma membrane fragility under mechanical strain",
+    "title_es": "Corrección del editor: Ninj1 regula la fragilidad de la membrana plasmática bajo tensión mecánica",
+    "url": "https://www.nature.com/articles/s41586-025-09444-7",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09444-7 Corrección del editor: Ninj1 regula la fragilidad de la membrana plasmática bajo tensión mecánica"
+  },
+  {
+    "title": "The real problems with America's health",
+    "title_es": "Los verdaderos problemas con la salud de Estados Unidos",
+    "url": "https://www.nature.com/articles/d41586-025-02501-1",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/d41586-025-02501-1 Nos sumergimos en los datos detrás de la mala salud de los Estados Unidos."
+  },
+  {
+    "title": "Why did researchers stick a duck to a rock? To show off their super glue",
+    "title_es": "¿Por qué los investigadores metieron un pato en una roca? Para mostrar su superpegamento",
+    "url": "https://www.nature.com/articles/d41586-025-02485-y",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/d41586-025-02485-Y Los investigadores han desarrollado un hidrogel mejorado con AI capaz de pegarse incluso en condiciones húmedas y saladas."
+  },
+  {
+    "title": "Underwater glue shows its sticking power in rubber duck test",
+    "title_es": "El pegamento submarino muestra su potencia de pegamento en la prueba de pato de goma",
+    "url": "https://www.nature.com/articles/d41586-025-02500-2",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/d41586-025-02500-2 El adhesivo se muestra prometedor en condiciones difíciles de agua salada, además, un ecosistema microbiano oculto que vive dentro de los árboles."
+  },
+  {
+    "title": "Whole-genome sequencing of 490,640 UK Biobank participants",
+    "title_es": "Secuenciación de genoma completo de 490,640 participantes de Biobank del Reino Unido",
+    "url": "https://www.nature.com/articles/s41586-025-09272-9",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09272-9 Un estudio informa secuencias de genoma completo para 490,640 participantes del biobanco del Reino Unido y combina estos datos con datos fenotípicos para proporcionar nuevas ideas sobre la relación entre la variación humana y la variación de la secuencia."
+  },
+  {
+    "title": "Novel assembly of a head–trunk interface in the&#xa0;sister group of jawed vertebrates",
+    "title_es": "Ensamblaje novedoso de una interfaz cabeza -trunk en el grupo hermano de vertebrados con mandíbulas",
+    "url": "https://www.nature.com/articles/s41586-025-09329-9",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09329-9 La imagen de un pez sin mandíbula devónico revela características avanzadas que anteriormente se cree que eran exclusivas de los vertebrados mandíbulas, desafiando la idea de que las mandíbulas fueron el principal impulsor para la evolución de los rasgos derivados en el plan de cuerpo de vértebrado."
+  },
+  {
+    "title": "Hominins on Sulawesi during the Early Pleistocene",
+    "title_es": "Homínidos en Sulawesi durante el Pleistoceno temprano",
+    "url": "https://www.nature.com/articles/s41586-025-09348-6",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09348-6 Los artefactos del Pleistoceno temprano en Calio sugieren que Sulawesi estaba poblado por homininos alrededor del mismo tiempo que Flores, si no anteriormente."
+  },
+  {
+    "title": "RNA N-glycosylation enables immune evasion and homeostatic efferocytosis",
+    "title_es": "El ARN N-glucosilación permite la evasión inmune y la eferocitosis homeostática",
+    "url": "https://www.nature.com/articles/s41586-025-09310-6",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09310-6 N-glucanos en glucornas evitan la detección inmune innata de los ARN pequeños endógenos, y el mecanismo natural que usan demuestra cómo existen glicales en la superficie celular y en la red endosomal sin inducir respuestas autoinflamatorias."
+  },
+  {
+    "title": "In situ light-field imaging of octopus locomotion reveals simplified control",
+    "title_es": "La imagen de campo de luz in situ de la locomoción de pulpo revela un control simplificado",
+    "url": "https://www.nature.com/articles/s41586-025-09379-z",
+    "date": "2025-08-06",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 06 de agosto de 2025; doi: 10.1038/s41586-025-09379-z usando un sistema de imágenes avanzado llamado Eyeris, la locomoción en pulpos de aguas profundas podría estudiarse, revelando patrones de rastreo simplificados que podrían inspirar el diseño de los robots."
   },
   {
     "title": "Experiencing the Arctic",
     "title_es": "Experimentar el Ártico",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ady6388?af=R",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady6388",
     "date": "2025-08-05",
     "source": "Science.org",
-    "content_es": ""
+    "content_es": "Experiencing the Arctic"
   },
   {
     "title": "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward",
@@ -40,36 +680,12 @@
     "content_es": "¿Pueden los modelos de idiomas grandes mejorar sin datos externos, generando\nsus propias preguntas y respuestas? Presumimos que un lenguaje previamente capacitado\nEl modelo puede mejorar sus habilidades de razonamiento dadas solo un mensaje específico\nel tema (por ejemplo, problemas de palabras de álgebra) y pedirle al modelo que genere su\npropias preguntas. Para hacer esto, proponemos modelos de lenguaje autopuestionantes (SQLM):\nUn marco de reproducción asimétrico donde un propositor recibe el tema y\ngenera una pregunta para un solucionador, que intenta responderla. Ambos proposores\ny el solucionador se capacitan a través del aprendizaje de refuerzo. El propomedor recibe un\nrecompensa si el problema no es demasiado fácil o demasiado difícil, y el solucionador recibe\nuna recompensa basada en la votación mayoritaria, un indicador de la corrección en ausencia de\nrespuestas de verdad en tierra. Para la codificación, el proponente puede generar pruebas unitarias\nque se utilizan para la verificación. Estudiamos este marco asimétrico de la reproducción de\nEn tres puntos de referencia: multiplicación de tres dígitos, problemas de álgebra del\nOmega Benchmark, y problemas de programación de CodeForces. Por continuamente\nGenerando problemas más interesantes e intentando resolverlos, lenguaje\nLos modelos pueden mejorar los puntos de referencia posteriores sin acceso a ningún\nconjuntos de datos de capacitación."
   },
   {
-    "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
-    "title_es": "Claudia Monaco: \"Creemos que sabemos mucho sobre las enfermedades cardiovasculares, pero en realidad no es así\"",
-    "url": "https://www.cnic.es/es/node/235736",
-    "date": "2025-08-01",
-    "source": "CNIC",
-    "content_es": ""
-  },
-  {
-    "title": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
-    "title_es": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
-    "url": "https://www.cnio.es/noticias/un-investigador-del-cnio-desarrolla-una-prueba-capaz-de-detectar-tumores-en-estadios-iniciales-con-una-muestra-de-sangre/",
-    "date": "2025-07-31",
-    "source": "CNIO",
-    "content_es": ""
-  },
-  {
-    "title": "Author Correction: Persistent transcriptional programmes are associated with remote memory",
-    "title_es": "Corrección del autor: Los programas transcripcionales persistentes están asociados a la memoria remota",
-    "url": "https://www.nature.com/articles/s41586-025-09463-4",
-    "date": "2025-08-06",
-    "source": "Nature",
-    "content_es": ""
-  },
-  {
     "title": "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse",
     "title_es": "ReVise: Una interfaz humano-inteligencia artificial para el recurso algorítmico incremental",
     "url": "https://arxiv.org/abs/2508.00002",
     "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse"
   },
   {
     "title": "Building Bigraphs of the real world",
@@ -77,7 +693,7 @@
     "url": "https://arxiv.org/abs/2508.00003",
     "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "Building Bigraphs of the real world"
   },
   {
     "title": "Reasoning under uncertainty in the game of Cops and Robbers",
@@ -85,7 +701,7 @@
     "url": "https://arxiv.org/abs/2508.00004",
     "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "Reasoning under uncertainty in the game of Cops and Robbers"
   },
   {
     "title": "Modelling Program Spaces in Program Synthesis with Constraints",
@@ -93,7 +709,7 @@
     "url": "https://arxiv.org/abs/2508.00005",
     "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "Modelling Program Spaces in Program Synthesis with Constraints"
   },
   {
     "title": "Agent Network Protocol Technical White Paper",
@@ -101,39 +717,47 @@
     "url": "https://arxiv.org/abs/2508.00007",
     "date": "2025-08-05",
     "source": "arXiv",
-    "content_es": ""
+    "content_es": "Agent Network Protocol Technical White Paper"
   },
   {
     "title": "Dead in Banaras: An Ethnography of Funeral Travelling",
     "title_es": "Muertos en Banaras: Una etnografía de los viajes funerarios",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aea4215?af=R",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea4215",
     "date": "2025-08-05",
     "source": "Science.org",
-    "content_es": ""
+    "content_es": "Dead in Banaras: An Ethnography of Funeral Travelling"
   },
   {
     "title": "An American energy experiment",
     "title_es": "An American energy experiment",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz6514?af=R",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz6514",
     "date": "2025-08-05",
     "source": "Science.org",
-    "content_es": ""
+    "content_es": "An American energy experiment"
   },
   {
     "title": "Altered translation elongation contributes to key hallmarks of aging in the killifish brain",
     "title_es": "Las alteraciones en la elongación de la traducción contribuyen a las principales características del envejecimiento en el cerebro de los killis",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adk3079?af=R",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adk3079",
     "date": "2025-08-05",
     "source": "Science.org",
-    "content_es": ""
+    "content_es": "Altered translation elongation contributes to key hallmarks of aging in the killifish brain"
   },
   {
     "title": "High-field superconducting halo in UTe2",
     "title_es": "Halo superconductor de alto campo en UTe2",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adn7673?af=R",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adn7673",
     "date": "2025-08-05",
     "source": "Science.org",
-    "content_es": ""
+    "content_es": "High-field superconducting halo in UTe2"
+  },
+  {
+    "title": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
+    "title_es": "Claudia Monaco: “We think we know a lot about cardiovascular disease, but in reality, we don't”",
+    "url": "https://www.cnic.es/es/node/235736",
+    "date": "2025-08-01",
+    "source": "CNIC",
+    "content_es": "01/08/2025 Investigación CNIC Pulse Dr. Claudia Monaco, Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, UK Claudia Monaco o trained as a cardiologist and PhD with Professor Attilio Maseri at the Catholic University of Rome , Italy, before moving to the Kennedy Institute of Rheumatology, Imperial College London to work with Professor Marc Feldmann. She moved to the University of Oxford in 2011, where she became Professor of Cardiovascular Inflammation. Her group was the first to establish innovative experimental methodology for the isolation, culture and targeting of live cells from human atheroma lesions. Her work allowed the elegant characterization of the inflammatory and synthetic properties of human atherosclerosis, establishing toll-like receptors as important activators of innate immunity in atherosclerosis. The Cardiovascular Inflammation Team is now focused on interpreting the functional diversity of immune cells in atherosclerosis with single cell biology techniques and devise strategies for their selective targeting. What is the role of macrophages in the development of atherosclerosis, and how has our understanding of their function evolved? We are focused, in particular, on macrophages and what their function is in atherosclerosis. I think it’s quite interesting, because different types of macrophages have different functions in the development of atherosclerosis. Before, we thought that all macrophages were bad—that all macrophages and the whole immune system were actually promoting atherosclerosis. But now we know the picture is much more complex than that. It’s very related to what macrophages are, where they’re seeded, and how they establish themselves in specific niches. There are some macrophages, like the lipid-associated macrophages, that definitely promote disease. But there are others—vascular macrophages that are already present within the vessel wall—that actually act like guardians of the artery and are protective. I think it’s very important—this direction we’re going in, toward more targeted therapies. The idea is not to block all macrophages, because some are actually your friends. You need to look after them, especially the ones in the artery, while others are really pushing things toward a dangerous, disease-promoting path. This duality is really important, especially from a therapeutic perspective. That’s why we’re so fixated on understanding this better. And how can you tell the difference between the “good” macrophages and the ones you want to block? What kind of techniques do you use? We use single-cell biology a lot. We’re not yet in the clinical space, but we’ve identified good markers. If those markers prove reliable, it would be easy to translate this into new tools to look at different macrophages in vivo. There’s also the potential to tailor imaging—not just therapeutics, but also how we visualize these macrophages. The key idea we want to get across is that there isn’t just “one” macrophage type. We always said that macrophages are very pleiotropic—that they can take on different phenotypes—but that didn’t always seem to matter because we thought they all eventually just changed into each other. But actually, that’s not quite true. There is some dynamic flexibility, yes, but it's quite reproducible which path they take. They really adapt specifically to their environment. For example, in the adventitia, they adopt a very specific phenotype, and in the intima, a different one. And these phenotypes remain pretty stable during atherosclerosis, and also in health and disease. They’re not just switching randomly between states, they’re adapting in a niche-specific way, just like cells in any other organ. That’s important because it means we can start visualizing and treating patients differently more precisely. You mentioned you're still in the experimental phase and not yet in clinical trials. How far is immunotherapy for cardiovascular disease? I think there have been some early trials, and there are more and more now that are targeting inflammation in atherosclerosis. It’s really a booming field. We waited a long time to get here. The field was slow to move in this direction because so much focus was on lowering cholesterol, which is of course important—but inflammation wasn’t really explored until recently. Studies like the CANTOS trial and others have started targeting cytokines, and I think we are going in the right direction. But progress is still very slow. One big reason is the lack of imaging tools. Imaging is only now reaching the level where we can maybe use it instead of relying on hard cardiovascular outcomes in trials. If you look at cancer, for example, you can track things much faster, look at the size of the tumor, and see how the patient is responding. Same for diseases like rheumatoid arthritis, where you can scan the joints or use PET imaging. Those imaging methods have been around for decades, and they’ve made it possible to run smaller trials that are either based on imaging or give you very clear, early outcomes. But with cardiovascular disease, we still have to look at how patients are doing over 5, 10 years. That’s a big challenge. These trials are very expensive, especially because biologic drugs cost so much. So pharmaceutical companies need to make a huge financial commitment. The more we can improve imaging, the more we’ll be able to run meaningful trials that evaluate new biologics or targeted agents, like nanotechnology-based ones. I think evolution isn’t just about immunology, it’s also about how we study this in the real world. Other fields can run smaller trials to understand how things work and then move on to larger outcome trials. But here, with trials like the CANTOS trial—which involved over 10,000 patients and a very expensive biologic—that kind of scale is almost unheard of in other diseases like rheumatoid arthritis. So yes, the challenges are really at the clinical stage—how we bring all this incredible knowledge about the immune system into cardiovascular medicine. The real barrier is economic. You’re a cardiologist—you worked in Rome for many years, and then you moved to Oxford. You trained as a cardiologist, and then you also shifted into doing experiments and research. How do you combine these two areas? Well, combining clinical duties and research is one of the biggest challenges you can attempt to do.  I think if you’re doing clinical research—like outcomes-based research or imaging studies—then it’s easier to combine with clinical work. But if you’re developing science at the molecular level, it’s much harder to do both. At least I couldn’t manage it as well as I would have liked. There’s a big divide between what we think we know and what we actually know. We have this concept of how atherosclerosis develops, how the immune system contributes—but in reality, we don’t really understand the specific mechanisms at play. I felt that, to bridge this gap, I had to go back to the basics. That meant not only using experimental models but also working with human samples. I saw a huge opportunity in single-cell biology has been a big opportunity—for all of us—to understand human immunology at a very detailed level. Because if we only look at mice, then the gap between mouse and human, and then from preclinical to clinical stages, is massive. For example, we really need access to human vascular tissue. But as cardiologists, we’ve moved so much toward percutaneous approaches to the coronary arteries, so we don’t actually remove them anymore. That’s why I work a lot with vascular surgeons. They still operate in a way that allows us to obtain human tissue—but that might not last. Even vascular surgery is moving more and more toward stenting, which means we’ll eventually lose the ability to get that tissue. We have this narrow window of opportunity where we can still work with tissue from patients, and I felt I had to take it. I’m very vocal about this having a short window before vascular surgery becomes entirely percutaneous, It seems like improvements in clinical treatment are making things harder for basic science in a way. Exactly. It’s advancing, but at the same time, it means that now we have this critical window. I always say vascular surgeons do research, collect tissue, because we need to analyze what the cells are really doing. Just relying on blood studies, on systemic inflammation, doesn’t tell us much about what’s happening in the atherosclerotic artery. The immune cells inside the artery are very different in their programming compared to circulating cells in the blood. Most cells come from the blood—but there are also some embryonic macrophages that form inside the artery and never circulate. And even the ones that come from the blood and stay in the artery for 10 years, they acquire very specialized instructions. You can take monocytes from blood and run as many blood tests as you want—but that doesn’t tell you what’s actually happening inside the artery. They behave differently, they look different, they’ve changed their shape and function completely. This creates a gap in what we can understand—it seems like we’re missing something in these studies . We can’t see all the different effects a drug might have if we only look at peripheral blood. I think the real answers are also in the vascular tissue, in the atherosclerotic plaque itself. We need to go as close to the source as possible—to find real targets, and to see the real effects of drugs on atherosclerotic tissue. Because a lot of clinical trials have targeted systemic inflammation. But that’s not the same as inflammation within the plaque. The drivers of plaque inflammation may be different. We know systemic inflammation is a risk factor, yes, but what you see in the blood isn’t necessarily what’s happening in the plaque. We often assume it is—because it’s convenient. But in cardiovascular disease, especially cardiology, we never actually look at the plaque. We look at the lumen. Intravascular ultrasound (IVUS) is the only way to get a glimpse of the arterial wall. Experimentally, we might look at blood from the heart in very complex ways—but we’re still mainly looking at circulating markers. We’re not really studying the tissue itself. As a cardiologist with experience of treating patients, do you think your clinical background influences the kinds of research questions you ask? Yes. And there are two things that help me a lot, I think. And that’s why I never stop clinics, even though they told me several times to stop clinics. I think I... I don’t like to stop the clinics because I enjoy that interaction. I think, being a scientist, your rewards are very long-term. If you’re a doctor, the rewards are quite immediate, because the patient is happier, yes—you can give the treatment. So, I think it gives me a lot of motivation to serve the patient. But at the same time, I think research is also a good way to serve patients. Because as a clinician I’ve learned a lot from basic scientists. They’re much better at developing techniques at the bench, and so I have great respect for my scientific colleagues. But sometimes, as a clinician, you can see what really matters. And it makes you particularly attached to a specific disease, you know? Basic scientists are sometimes across fields. This study gives me the determination and the drive to really try and solve atherosclerosis."
   },
   {
     "title": "Dra. Claudia Monaco: “En las enfermedades cardiovasculares, pensamos que sabemos mucho; pero en realidad, no es así”",
@@ -141,7 +765,15 @@
     "url": "https://www.cnic.es/es/noticias/dra-claudia-monaco-enfermedades-cardiovasculares-pensamos-que-sabemos-mucho-pero-realidad",
     "date": "2025-08-01",
     "source": "CNIC",
-    "content_es": ""
+    "content_es": "01/08/2025 Investigación CNIC Pulse Dra. Claudia Monaco:  Instituto Kennedy de Reumatología, Departamento Nuffield de Ortopedia, Reumatología y Ciencias Musculoesqueléticas, Universidad de Oxford, Reino Unido Claudia Monaco se formó como cardióloga y doctoró con el profesor Attilio Maseri en la Universidad Católica de Roma , Italia, antes de trasladarse al Instituto Kennedy de Reumatología del Imperial College de Londres para trabajar con el profesor Marc Feldmann. En 2011 se trasladó a la Universidad de Oxford, donde se convirtió en profesora de Inflamación Cardiovascular. Su grupo fue el primero en establecer una metodología experimental innovadora para el aislamiento, cultivo y selección de células vivas de lesiones ateromatosas humanas. Su trabajo permitió caracterizar de forma elegante las propiedades inflamatorias y sintéticas de la aterosclerosis humana, estableciendo los receptores toll-like como activadores importantes de la inmunidad innata en la aterosclerosis. Su grupo de inflamación cardiovascular se centra ahora en interpretar la diversidad funcional de las células inmunitarias en la aterosclerosis con técnicas de biología celular única y en diseñar estrategias para su selección selectiva. ¿Cuál es el papel de los macrófagos en el desarrollo de la aterosclerosis y cómo ha evolucionado nuestra comprensión de su función? Nos centramos, en particular, en los macrófagos y en cuál es su función en la aterosclerosis. Es muy interesante porque los diferentes tipos de macrófagos tienen diferentes funciones en el desarrollo de la aterosclerosis. Antes pensábamos que todos los macrófagos eran malos, que todos los macrófagos y todo el sistema inmunitario favorecían la aterosclerosis. Pero ahora sabemos que el panorama es mucho más complejo. Está muy relacionado con lo que son los macrófagos, dónde se siembran y cómo se establecen en nichos específicos. Hay algunos macrófagos, como los macrófagos asociados a los lípidos, que sin duda favorecen la enfermedad. Pero hay otros, los macrófagos vasculares que ya están presentes en la pared de los vasos, que en realidad actúan como guardianes de la arteria y la protegen. Creo que es muy importante la dirección que estamos tomando, hacia terapias más específicas. La idea no es bloquear todos los macrófagos, porque algunos son realmente nuestros aliados. Hay que cuidarlos, especialmente los que se encuentran en las arterias, mientras que otros realmente empujan hacia un camino peligroso que favorece la enfermedad. Esta dualidad es muy importante, especialmente desde el punto de vista terapéutico. Por eso estamos tan obsesionadas con comprenderlo mejor. ¿Cómo se puede distinguir entre los macrófagos «buenos» y los que se quieren bloquear? ¿Qué tipo de técnicas se utilizan? Utilizamos mucho la biología unicelular. Aún no estamos en el ámbito clínico, pero hemos identificado buenos marcadores. Si esos marcadores resultan fiables, sería fácil traducirlos en nuevas herramientas para observar diferentes macrófagos in vivo. También existe la posibilidad de adaptar las imágenes, no solo las terapéuticas, sino también la forma en que visualizamos estos macrófagos. La idea clave que queremos transmitir es que no existe un único tipo de macrófago. Siempre hemos dicho que los macrófagos son muy pleiotrópicos, es decir, que pueden adoptar diferentes fenotipos, pero eso no siempre parecía importar porque pensábamos que, al final, todos se transformaban unos en otros. Pero, en realidad, eso no es del todo cierto. Hay cierta flexibilidad dinámica, sí, pero la trayectoria que siguen es bastante reproducible. Se adaptan específicamente a su entorno. Por ejemplo, en la adventicia adoptan un fenotipo muy específico, y en la íntima, otro diferente. Y estos fenotipos se mantienen bastante estables durante la aterosclerosis, así como en la salud y la enfermedad. No cambian aleatoriamente entre estados, sino que se adaptan de forma específica a cada nicho, al igual que las células de cualquier otro órgano. Esto es importante porque significa que podemos empezar a visualizar y tratar a los pacientes de forma diferente y más precisa. Ha mencionado que aún se encuentra en la fase experimental y que aún no se han realizado ensayos clínicos. ¿En qué punto se encuentra la inmunoterapia para las enfermedades cardiovasculares? Creo que se han realizado algunos ensayos preliminares y ahora hay cada vez más estudios que se centran en la inflamación en la aterosclerosis. Es un campo en auge. Hemos esperado mucho tiempo para llegar hasta aquí. El campo tardó en avanzar en esta dirección porque se prestaba mucha atención a la reducción del colesterol, lo cual es importante, por supuesto, pero la inflamación no se ha explorado realmente hasta hace poco. Estudios como el ensayo CANTOS y otros han comenzado a centrarse en las citocinas, y creo que vamos en la dirección correcta. Pero el progreso sigue siendo muy lento. Una de las principales razones es la falta de herramientas de imagen. Las técnicas de imagen están alcanzando ahora un nivel en el que quizá podamos utilizarlas en lugar de basarnos en los resultados cardiovasculares de los ensayos. Si nos fijamos en el cáncer, por ejemplo, se puede hacer un seguimiento mucho más rápido, observar el tamaño del tumor y ver cómo responde el paciente. Lo mismo ocurre con enfermedades como la artritis reumatoide, en las que se pueden escanear las articulaciones o utilizar imágenes PET. Estos métodos de imagen llevan décadas utilizándose y han permitido realizar ensayos más pequeños basados en imágenes o que ofrecen resultados muy claros y tempranos. Sin embargo, en el caso de las enfermedades cardiovasculares, todavía tenemos que observar cómo evolucionan los pacientes a lo largo de 5 o 10 años. Eso supone un gran reto. Estos ensayos son muy caros, sobre todo porque los medicamentos biológicos cuestan mucho. Por lo tanto, las empresas farmacéuticas deben asumir un enorme compromiso financiero. Cuanto más mejoremos las imágenes, más podremos realizar ensayos significativos que evalúen nuevos productos biológicos o agentes dirigidos, como los basados en la nanotecnología. Creo que la evolución no se limita a la inmunología, sino que también tiene que ver con cómo estudiamos esto en el mundo real. Otros campos pueden realizar ensayos más pequeños para comprender cómo funcionan las cosas y luego pasar a ensayos de resultados más amplios. Pero aquí, con ensayos como el CANTOS, en el que participaron más de 10.000 pacientes y se utilizó un fármaco biológico muy caro, ese tipo de escala es casi inaudito en otras enfermedades como la artritis reumatoide. Así que sí, los retos se encuentran realmente en la fase clínica: cómo trasladar todos estos increíbles conocimientos sobre el sistema inmunitario a la medicina cardiovascular. La verdadera barrera es económica. Usted es cardióloga, trabajó en Roma durante muchos años y luego se trasladó a Oxford. Se formó como cardióloga y luego también pasó a dedicarse a la experimentación y la investigación. ¿Cómo combina estas dos áreas? Combinar las tareas clínicas y la investigación es uno de los mayores retos a los que te puedes enfrentar.  Creo que, si una se dedica a la investigación clínica, como la investigación basada en resultados o los estudios de imagen, es más fácil combinarla con el trabajo clínico. Pero si se trabaja más en el desarrollo científico a nivel molecular, es mucho más difícil compaginar ambas cosas. Al menos yo no pude hacerlo tan bien como me hubiera gustado. Existe una gran diferencia entre lo que creemos saber y lo que realmente sabemos. Tenemos una idea de cómo se desarrolla la aterosclerosis, cómo contribuye el sistema inmunitario, pero en realidad no entendemos los mecanismos específicos que intervienen. Sentí que, para salvar esta brecha, tenía que volver a lo básico. Eso significaba no solo utilizar modelos experimentales, sino también trabajar con muestras humanas. Vi una gran oportunidad en la biología de células individuales, que ha sido una gran oportunidad para todos nosotros para comprender la inmunología humana a un nivel muy detallado. Porque si solo nos fijamos en los ratones, la brecha entre estos y los seres humanos, y luego entre las etapas preclínicas y clínicas, es enorme. Por ejemplo, realmente necesitamos acceso al tejido vascular humano. Pero como cardiólogos, hemos avanzado tanto hacia los abordajes percutáneos de las arterias coronarias que ya no las extirpamos. Por eso trabajo mucho con cirujanos vasculares. Ellos siguen operando de una manera que nos permite obtener tejido humano, pero eso podría no durar mucho tiempo. Incluso la cirugía vascular se está orientando cada vez más hacia la implantación de stents, lo que significa que, con el tiempo, perderemos la capacidad de obtener ese tejido. Tenemos una ventana de oportunidad muy estrecha en la que todavía podemos trabajar con tejido de pacientes, y sentí que tenía que aprovecharla. Soy muy clara al afirmar que tenemos poco tiempo antes de que la cirugía vascular se vuelva completamente percutánea, lo que, por supuesto, es un avance, pero también nos priva de la oportunidad de estudiar tejidos humanos reales. Parece que las mejoras en el tratamiento clínico están dificultando en cierto modo la ciencia básica. Exactamente. Está avanzando, pero al mismo tiempo significa que ahora tenemos esta ventana crítica. Siempre digo que los cirujanos vasculares investigan y recogen tejido porque necesitamos analizar lo que realmente hacen las células. Basarnos únicamente en los análisis de sangre y en la inflamación sistémica no nos dice mucho sobre lo que está sucediendo en la arteria aterosclerótica. Las células inmunitarias del interior de la arteria son muy diferentes en su programación en comparación con las células circulantes en la sangre. La mayoría de las células provienen de la sangre, pero también hay algunos macrófagos embrionarios que se forman dentro de la arteria y nunca circulan. E incluso los que provienen de la sangre y permanecen en la arteria durante 10 años, adquieren instrucciones muy especializadas. Se pueden extraer monocitos de la sangre y realizar tantos análisis de sangre como se desee, pero eso no revela lo que realmente ocurre dentro de la arteria. Se comportan de manera diferente, tienen un aspecto diferente, han cambiado completamente su forma y función. Esto crea una brecha en lo que podemos entender, parece que nos estamos perdiendo algo en estos estudios. No podemos ver todos los diferentes efectos que puede tener un fármaco si solo miramos la sangre periférica. Creo que las respuestas reales también se encuentran en el tejido vascular, en la propia placa aterosclerótica. Tenemos que acercarnos lo más posible a la fuente para encontrar los objetivos reales y ver los efectos reales de los fármacos en el tejido aterosclerótico. Porque muchos ensayos clínicos se han centrado en la inflamación sistémica. Pero eso no es lo mismo que la inflamación dentro de la placa. Los factores que provocan la inflamación de la placa pueden ser diferentes. Sabemos que la inflamación sistémica es un factor de riesgo, sí, pero lo que se ve en la sangre no es necesariamente lo que ocurre en la placa. A menudo asumimos que lo es, porque es conveniente. Pero en las enfermedades cardiovasculares, especialmente en cardiología, nunca miramos realmente la placa. Miramos la luz. La ecografía intravascular (IVUS) es la única forma de echar un vistazo a la pared arterial. Desde el punto de vista experimental, podemos analizar la sangre del corazón de formas muy complejas, pero seguimos centrándonos principalmente en los marcadores circulantes. En realidad, no estamos estudiando el tejido en sí. Como cardióloga con experiencia en el tratamiento de pacientes, ¿cree que su experiencia clínica influye en el tipo de preguntas de investigación que se plantea? Sí. Y hay dos cosas que me ayudan mucho. Por eso nunca dejo de ejercer en la clínica, aunque me han dicho varias veces que lo haga. Creo que... no me gusta dejar la clínica porque disfruto de esa interacción. Como científica, las recompensas son a muy largo plazo. Si eres médico, las recompensas son bastante inmediatas, porque el paciente está más contento si puedes darle el tratamiento. Por lo tanto, creo que me motiva mucho atender al paciente. Pero, al mismo tiempo, pienso que la investigación también es una buena forma de atender a los pacientes. Porque, como médico, he aprendido mucho de los científicos básicos. Son mucho mejores desarrollando técnicas en el laboratorio, por lo que siento un gran respeto por mis colegas científicos. Pero a veces, como médico clínico, puedes ver lo que realmente importa. Y eso te hace sentir especialmente vinculado a una enfermedad concreta. Los científicos básicos a veces abarcan varios campos. Este estudio me da la determinación y el impulso para intentar resolver realmente la aterosclerosis. ¿De niña, se imaginó dedicándose a la ciencia o la medicina y, finalmente, a la investigación? Siempre quise ser médico. De niña era un poco enfermiza, así que probablemente estuve muy expuesta al entorno médico. Por eso, siempre decía que quería ser médico. Pero luego decepcioné a mi padre a largo plazo, porque él pensaba que me convertiría en médico, no sé, un médico generalista, y así podría tenerme muy cerca de su casa. Pero en cambio, mi carrera me llevó al extranjero. No creo que él estuviera muy contento con mi marcha. En particular, cuando era joven no quería ser científica. Me fascinaban los médicos. Probablemente tenía ese sentido de ayudar a la gente, de servir a la gente. Para mí eso es muy importante. Aprendí todo sobre cardiología en Italia, con el profesor Attilio Maser i, que fue un gran precursor en este campo: la activación de las células inmunitarias, especialmente en el síndrome coronario agudo. Aprendí mucho de él y sigo llevando esa huella en mi trabajo. También trabajé con otros buenos mentores en el Reino Unido, como el profesor Mark Feldman , y aprendí mucho de él sobre el sistema inmunitario y cómo detener la inflamación. Hago todo lo posible por seguir los pasos de estos dos gigantes para comprender el funcionamiento del sistema inmunitario en las arterias, tanto en la salud como en la enfermedad. Me encuentro en un entorno de reumatología e inmunología que también realiza investigaciones cardiovasculares. Puedo permanecer entre ambos campos, lo que me beneficia enormemente, ya que siempre estoy en la interfaz entre los inmunólogos y los especialistas cardiovasculares. Y creo que esto es algo bastante único. Es bastante difícil de replicar en todas partes. Ahora, la inmunología cardiovascular se está consolidando cada vez más y habrá cada vez más interfaces de este tipo. Como la que hay aquí, en el CNIC, donde hay más interfaces de este tipo. Así que todo esto se está formando. Este es el futuro. Cuando empecé, no se podía hacer esta combinación en ningún sitio. Por lo tanto, mis opciones estaban bastante limitadas. Ahora, tal vez podría plantearme mudarme a algún lugar de Europa, Estados Unidos, volver a Italia, si hay una estructura de financiación que permita el mismo nivel. Pero, por supuesto, ya sabes, en este momento hay problemas con la financiación en todos los países. Así que es un poco optimista. No iría a Italia solo por ir a Italia. El trabajo es muy importante para mí y necesito tener la combinación adecuada para mudarme a cualquier lugar. Quizás, primero podría venir aquí para investigar en el CNIC. Sí, exactamente. ¿Por qué no? ¿Por qué no? Ha mencionado que ha tenido muy buenos mentores en su carrera, y supongo que todavía los tiene. Pero ahora también asume esa función de mentoría con los estudiantes en su laboratorio. Entonces, ¿qué diferencias encuentra entre cuando era joven y estos jóvenes estudiantes de hoy? Esta es una pregunta difícil, porque es una pregunta en la que se pueden tomar dos caminos completamente diferentes. Uno sería: antes trabajábamos mucho más duro, y eso me molesta. No me agradan las personas que siguen ese camino. No me gusta decirlo, pero al final yo también lo sigo: antes nos quedábamos en el laboratorio hasta tarde... Creo que los nuevos estudiantes tienen una capacidad mucho mayor. Las nuevas generaciones son más completas en el sentido de que no quieren perderse por completo en el trabajo o la investigación, y creo que esto es algo positivo para sus vidas, sin duda. Considero que ese cambio es muy importante. Quizás porque en Oxford existe la tradición de que hay que tener una vida social en la universidad. Organizan actividades. Intentan crear un entorno en el que los estudiantes, incluso los de posgrado, puedan socializar si lo desean. Me gusta esa cultura. Y esto es típico de Oxford, y me encanta. Porque pueden hacer muchas cosas que yo no hice. Ya sabes, en nuestra época, existía la idea de que había que negarse a uno mismo, dedicarse a la disciplina sin límites, y creo que eso no es bueno a largo plazo. Pero yo diría que las nuevas generaciones suelen conocer muy bien su tema, pero quizá no amplían sus horizontes tanto como deberían, no sienten curiosidad por otras disciplinas. Y yo lucho mucho contra eso. Ya sabes, se meten de lleno en su área, obtienen el doctorado, hacen la defensa de la tesis y solo saben eso. Ahora hay muchas áreas de interés a nuestro alcance. Probablemente, como consecuencia, perdieron muchas cosas. Pero siempre intento decirles que es importante ver cómo evolucionan otros campos. Quizás haya una idea que necesites. Quizás haya un camino que no habías pensado, pero que es importante en el cáncer y quizás también lo sea en las enfermedades cardiovasculares. Siempre pienso que, si estás en la interfaz entre dos campos, avanzas más rápido. Porque puedes aprender, otros colegas pueden inspirarte. Así que no te fijes solo en lo tuyo. Y otra cosa que siempre les digo es que creo que, en las enfermedades cardiovasculares, pensamos que sabemos mucho. Pero en realidad, no es así. Y siempre tenemos que revisar las pruebas. Es posible que tengan una nueva forma, diferente, de ver sus vidas y sus carreras. Sí, pero también, incluso en el campo del conocimiento de la aterosclerosis, siempre enseñamos a los estudiantes: así es como evoluciona la aterosclerosis. En realidad, las pruebas para nuestro modelo siempre son muy dispersas. Porque pueden estar en ratones o en otro sistema. Pero cómo es en los seres humanos, realmente no lo sabemos. Así que estad siempre preparados para cuestionar vuestras suposiciones. No sigáis siempre lo que os dicen los demás. Debéis tener vuestras propias ideas. Y siempre tenéis que desafiar el paradigma."
+  },
+  {
+    "title": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
+    "title_es": "Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre",
+    "url": "https://www.cnio.es/noticias/un-investigador-del-cnio-desarrolla-una-prueba-capaz-de-detectar-tumores-en-estadios-iniciales-con-una-muestra-de-sangre/",
+    "date": "2025-07-31",
+    "source": "CNIO",
+    "content_es": "Los métodos actuales para diagnosticar el cáncer se basan en identificar marcadores –moléculas que indican un estado o proceso determinado del organismo– que provienen del tumor o de proteínas asociadas a él. Como es lógico, esos marcadores son más abundantes cuando el tumor ya se ha desarrollado de forma significativa. Y, cuanto más avanzado el […] La entrada Un investigador del CNIO desarrolla una prueba capaz de detectar tumores en estadios iniciales con una muestra de sangre se publicó primero en CNIO ."
   },
   {
     "title": "CNIC en la Noche Europea de los Investigadores 2025",
@@ -149,7 +781,7 @@
     "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2025",
     "date": "2025-07-17",
     "source": "CNIC",
-    "content_es": ""
+    "content_es": "14/07/2025 Sobre el CNIC Publicaciones Ven al CNIC el próximo viernes 26 de septiembre con motivo de la XVI Noche Europea de los Investigadores de Madrid. Podrás participar en distintas actividades que te acercarán a la investigación que se realiza en el centro. La Noche Europea de los Investigadores en el CNIC es una oportunidad de sumergirte en el emocionante mundo de la ciencia y la innovación. Desde experimentos asombrosos hasta conferencias inspiradoras, CNIC te brindará una ventana a los descubrimientos más recientes y las maravillas de la tecnología. Para asistir es necesario inscribirse en el siguiente link: https://www.cnic.es/es/solicitud-inscripcion-xvi-noche-europea-investigadores La inscripción se abre el lunes 15 de septiembre a partir de las 9:00 hrs. Todas las actividades se llevarán a cabo en el Centro Nacional de Investigaciones Cardiovasculares (CNIC): C. de Melchor Fernández Almagro, 3, 28029 Madrid. Información actividades: 10:30 - 12:30 h. Enfermedades raras: retos y oportunidades. Grupo: Vicente Andrés. Público: juvenil (desde 12 años) y adultos. El principal objetivo de esta actividad es sensibilizar sobre los muchos desafíos que enfrentan los pacientes con enfermedades raras, y explicar cómo la investigación básica, utilizando modelos animales adecuados, es esencial para avanzar en la comprensión de estas enfermedades y encontrar terapias potenciales que permitan aliviar o curar a estos pacientes. Con este propósito, se organizan dos actividades: una charla de divulgación en lenguaje accesible; y una demostración en el laboratorio que permitirá a las personas participantes familiarizarse con técnicas utilizadas rutinariamente en la investigación básica para responder preguntas científicas relevantes en el estudio de enfermedades raras. 10:30 - 13:30 h. ¿Cómo late nuestro corazón? Grupo: Silvia Priori. Público: juvenil (desde 12 años) y adultos. Esta actividad tiene como objetivo explicar cómo late el corazón, desde el nivel subcelular hasta el órgano completo, así como el desarrollo de una arritmia cardíaca dependiente del calcio. Estos temas se explicarán de forma sencilla y amena para que las personas participantes los conozcan de la mano de nuestras investigadoras e investigadores. 12:00 - 13:30 h. ¿Conoces la relación entre tu corazón y el cáncer? Grupo: Borja Ibáñez Público: juvenil (14-18 años). Las personas participantes en esta actividad tendrán la oportunidad de conocer la relación entre el cáncer y el corazón desde el acercamiento al proyecto de investigación RESILIENCE, destinado a mejorar la vida de los pacientes con cáncer. La actividad consistirá en un workshop donde las personas participantes conocerán la aplicación de la tecnología (resonancia magnética cardíaca, ecocardiografía y tomografía cardíaca) y la innovación en este ensayo clínico, así como una mesa redonda donde se compartirán experiencias y se resolverán dudas. 14:30 - 16:00 h. ¡A Fluir! Descubriendo el Flujo Sanguíneo con LAMI y OSCI (Taller Aterosclerosis). Grupo: Miguel Ángel del Pozo Público: infantil (6 – 12 años). Se realizará una pequeña presentación sobre las diferencias de flujo sanguíneo laminar y oscilatorio en el contexto de aterosclerosis (con nuestros personajes de dibujos LAMI y OSCI); se hará un juego con preguntas básicas sobre la presentación donde las personas participantes ganarán piezas para montar su propia máquina de flujo laminar y oscilatorio; y habrá una demostración con una adaptación similar de las máquinas que se usan en el laboratorio para estimular las células a los dos tipos de flujo, con el uso de colorante alimentario y purpurina para que se puedan ver los diferentes patrones. Dos turnos: 11:00-11:45 h (turno 1), 11:45-12.30 h (turno 2). 16:00 - 17:30 h. Taller de extracción de ADN. Grupo: Enrique Lara Público: infantil (8 – 12 años). ¿Alguna vez te has preguntado qué podéis tener en común los plátanos y tú? ¡Los dos tenéis ADN! Os presentamos una actividad rápida, fácil y divertida, en la que vais a aprender a extraer el ADN de un plátano. Para ello usaremos ingredientes que cualquiera de vosotros tenéis en casa, así podéis sorprender al resto de la familia montando un pequeño laboratorio y ejerciendo de investigadores, ¿estáis dispuestos? Tres turnos: 16:00 - 16:30 h (Turno 1), 16:30 - 17:00 h (Turno 2), 17:00 - 17:30 h (Turno 3). 16:00 - 18:00 h. Modelos genéticos prácticos de desarrollo cardíaco y cardiopatías congénitas. Grupo: José Luis de la Pompa Público: Infantil (desde 6 años), juvenil y adultos. Esta actividad comenzará con una breve charla introductoria para seguir con la preparación de áreas temáticas en el laboratorio especializadas en una cardiopatía congénita concreta, donde se explicarán en detalle sus rasgos morfológicos y cómo afectan a la salud humana. Las personas participantes realizarán una tinción histológica en la que podrán observar corazones de ratón y observarán, de manera práctica, las malformaciones explicadas en la charla de introducción. Con esto esperamos acercar a grandes rasgos lo que se hace en el laboratorio y la relevancia de la investigación básica y traslacional en el contexto de la cardiología. 16:30 - 18:00 h. Cuida tu corazón para proteger el cerebro: conoce un laboratorio de neurociencia. Grupo: María Ángeles Moro. Público: juvenil (desde 15 años) y adultos. Esta actividad consta de dos partes. Una primera en la que se les dará a las personas que participan una charla divulgativa adaptada a la edad del público, en la que se expondrá la importancia de los factores de riesgo cardiovasculares en el desarrollo de ciertas patologías relacionadas con el cerebro, así como el ictus o demencias. Posteriormente tendrá lugar una visita guiada en pequeños grupos al laboratorio del grupo donde se mostrarán diferentes técnicas empleadas de rutina en un laboratorio de neurociencia. 17:00 - 18:00 h. El escape room genético: \"Misión ADN-el secreto de la PCR\". Grupo: Pablo García Pavía. Público: juvenil (desde 12 años) y adultos. En este escape room científico, las personas participantes deberán usar su ingenio para resolver pruebas, enigmas o puzles y abrir un candado. Si lo logran, ¡descubrirán el secreto de la PCR y ganarán una recompensa final! De esta manera, a través de retos colaborativos inspirados en la biología molecular, las personas que jueguen aprenden conceptos clave de genética en un entorno lúdico y educativo. 17:00 - 19:00 h. Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo: Grupos: José Antonio Enríquez y David Sancho. Público: infantil (6-12 años). En esta actividad interactiva se construirá un estetoscopio con materiales simples y reciclados (globos, tubos de plástico y botellas usadas), que las personas participantes podrán llevarse a casa. Con él, exploraremos cómo suena nuestro propio corazón, aprendiendo de manera directa y divertida sobre el ritmo cardíaco en condiciones de reposo y después del ejercicio, así como su importancia para la salud. Posteriormente se visualizará en una maqueta humana de poliespán a tamaño real cómo es nuestro sistema circulatorio, cómo la sangre llega a nuestro corazón y cómo alteraciones de la circulación pueden ocasionar ciertas patologías, como es la ateroesclerosis. También tendremos la oportunidad de ver cómo es nuestra sangre cuando tiene un exceso de grasa.  Ambas visualizaciones permitirán comprender por qué es fundamental, evitar el sedentarismo y cuidar nuestros hábitos alimenticios desde una edad temprana para prevenir enfermedades cardiovasculares. 18:00 - 19:00 h. Diseñando los fármacos del futuro: Una experiencia inmersiva con realidad virtual. Grupo: Fátima Sánchez Cabo Público: adultos (mayores de 18 años). En esta actividad cinco participantes visualizarán con gafas de realidad mixta la estructura dinámica de proteínas y sus ligandos, entendiendo como se produce el efecto de un medicamento. Otros cinco participantes trabajarán en un ordenador cada uno en el proyecto colaborativo https://foldingathome.org . Las personas participantes irán terminando y saliendo, y un nuevo participante entrará para sustituirlos. Financiación y menciones necesarias En todas las actividades: El CNIC recibe apoyo del Instituto de Salud Carlos III (ISCIII), del Ministerio de Ciencia, Innovación y Universidades (MICIU) y es un Centro de Excelencia Severo Ochoa. Estas actividades han sido posibles gracias a los programas de investigación de CNIC: Programa Nuevos mecanismos de aterosclerosis, Programa Homeostasis miocárdica y daño cardiaco, Programa de Regeneración cardiovascular, Programa Nuevos mecanismos arritmogénicos, Programa Factores de riesgo cardiovascular y salud cerebral, Programa de Promoción de la salud cardiovascular, Programa de Desarrollo tecnológico, financiados por la ayuda CEX2020-001041-S por el MICIU/AEI/10.13039/501100011033. Financiado por la Unión Europea. Las opiniones y puntos de vista expresados solo comprometen a su(s) autor(es) y no reflejan necesariamente los de la Unión Europea o los de la European Research Executive Agency (EREA). Ni la Unión Europea ni la EREA pueden ser considerados responsables de ellos. NIGHTMADRID es un proyecto de divulgación científica, coordinado por la Fundación madri+d y financiado por la Unión Europea dentro del Programa Horizonte Europa, bajo las acciones Marie Skłodowska-Curie con el acuerdo de subvención nº101.162.110 Menciones específicas de cada actividad: Enfermedades raras: retos y oportunidades. Grupo: Vicente Andrés. Project PID2022-141211OB-I00, funded by MCIU/AEI/10.13039/501100011033 y por FEDER, UE: Project “AC22/00020\", funded by Instituto de Salud Carlos III (ISCIII) and co-funded by the European Union NextGenerationEU: GRUPO CIBERCV CB16/11/00405 Project \"FI23/00229\", funded by Instituto de Salud Carlos III (ISCIII) and co-funded by the European Union. ¿Cómo late nuestro corazón?Grupo: Silvia Priori. El proyecto que ha dado lugar a los resultados mostrados en esta actividad ha recibido el apoyo de la Fundación “la Caixa”, según el acuerdo LCF/PR/HR21-00233. ¿Conoces la relación entre tu corazón y el cáncer? Grupo: Borja Ibáñez This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No GA-945118 Esta actividad es parte de la ayuda ICT2021-006950, financiada por MICIU y por la Unión Europea NextGenerationEU/PRTR GRUPO CIBERCV CB16/11/00358 ¡A Fluir! Descubriendo el Flujo Sanguíneo con LAMI y OSCI (Taller Aterosclerosis). Grupo: Miguel Ángel del Pozo The CNIC is supported by the Instituto de Salud Carlos III (ISCIII), the Ministerio de Ciencia, Innovación y Universidades (MICIU) and the Pro CNIC Foundation), and is a Severo Ochoa Center of Excellence (grant CEX2020-001041-S funded by MICIN/AEI/10.13039/501100011033). Grant PID2023-146414OB-I00 funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU Esta actividad se (co)financiará con cargo a programa de actividades de I+D entre grupos de Investigación con número de referencia TEC-2024/TEC-158 y acrónimo TecNanoBio-CM, subvencionado por la Comunidad de Madrid en la convocatoria de ayudas destinadas a la realización de programas de actividades de I+D entre grupos de investigación de la Comunidad de Madrid en Tecnologías 2024. El proyecto de investigación Caveolin-1-dependent stromal remodeling: a potential novel target for cancer immunotherapy” Modalidad de temática general (Ref. PROYE20089DELP) y el proyecto Immunomechanics: a new paradigm for understanding cancer immune infiltration and improving immunotherapy Modalidad Investigador AECC 2024 (Ref. INVES245874LOLO) financiado por la Asociación Española Contra el Cáncer (AECC). The project leading to these results has received funding from “la Caixa” Foundation, under agreement LCF/PR/HR20/52400015 Grant JDC2022-049775-I funded by MICIU/AEI/ 10.13039/501100011033 by the “European Union NextGenerationEU/PRTR” Ayuda FPU21/04003 financiada por: Grant PRE2021-097318 and PREP2023-001367 funded by MICIU/AEI /10.13039/501100011033 and “ESF+” Financiado por la Comunidad de Madrid a través de la ayuda PEJ-2024-TL/SAL-GL-32882 de la convocatoria 2024 de ayudas para la contratación de Ayudantes de Investigación y Técnicos de Laboratorio 2024 y cofinanciadas con el Fondo Social Europeo Plus (FSE+) co-funded by the European Union’s Horizon Europe research and innovation programme (Cure and Heart Brain project) under the Marie Skłodowska-Curie grant agreement No GA-101126521 Taller de extracción de ADN. Grupo: Enrique Lara Proyecto TED2021-129774B-C22 financiado por MICIU/AEI /10.13039/501100011033 y por la Unión Europea NextGenerationEU/ PRTR Ayuda PRE2021-100726 financiada por MICIU/AEI /10.13039/501100011033 y por FSE invierte en tu futuro Proyecto PLEC2022-009235 financiado por MICIU/AEI /10.13039/501100011033 y por la Unión Europea NextGenerationEU/ PRTR Proyecto PID2021-124629OB-I00 financiado por MICIU/ AEI /10.13039/501100011033/ y por FEDER Una manera de hacer Europa Ayuda PRE2019-087458 financiada por MICIU/AEI /10.13039/501100011033 y por FSE invierte en tu futuro This project has received funding from the Horizon Europe Framework Programme (HORIZON) under the call EIC Pathfinder Challenges 2022 and with Project 101115416 — DCM-NEXT El contrato del técnico está cofinanciado por la Comunidad de Madrid a través de la ayuda PEJ-2023-TL/SAL-GL-28706 de la convocatoria 2023 de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio y cofinanciado en un 40% por el Fondo Social Europeo Plus (FSE+), 2021-2027. GRUPO CIBERCV CB16/11/00432 Modelos genéticos prácticos de desarrollo cardíaco y cardiopatías congénitas. Grupo: José Luis de la Pompa La Caixa “Cardiogenomics”, Plan Nacional, CIBERCV, Leducq foundation Grant PID2022-136942OB-I00 funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU Funding from ”la Caixa” Foundation under the project code LCF/PR/HR23/52430011 Grant from the Leducq Foundation for Cardiovascular Research- TNE-24VD04 The CNIC is supported by the Instituto de Salud Carlos III (ISCIII), the Ministerio de Ciencia, Innovación y Universidades (MICIU) and the Pro CNIC Foundation), and is a Severo Ochoa Center of Excellence (grant CEX2020-001041-S funded by MICIN/AEI/10.13039/501100011033). GRUPO CIBERCV CB16/11/00399 Ayuda PRE2020-092102 financiada por MICIU/AEI /10.13039/501100011033 y por FSE invierte en tu futuro Ayudas PRE2022-102314 y PREP2022-000716 financiadas por MICIU/AEI /10.13039/501100011033 y por FSE+ Ayuda JDC2023-051982-I financiada por MICIU/AEI /10.13039/501100011033 y por el FSE+ Ayuda FPU18/01054 financiada por el Ministerio de Ciencia, Innovación y Universidades Financiado a través de la Ayuda a la contratación de personal investigador predoctoral del año 2023 de la CAM con Expediente PIPF-2023/SAL-GL-29818 Cuida tu corazón para proteger el cerebro: conoce un laboratorio de neurociencia. Grupo: María Ángeles Moro. Grant PID2022-140616OB-I00 funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU Grants from the Leducq Foundation for Cardiovascular Research-TNE-19CVD01 and TNE-21CVD04 The CNIC is supported by the Instituto de Salud Carlos III (ISCIII), the Ministerio de Ciencia, Innovación y Universidades (MICIU) and the Pro CNIC Foundation), and is a Severo Ochoa Center of Excellence (grant CEX2020-001041-S funded by MICIN/AEI/10.13039/501100011033). Ayudas PRE2021-099443, PREP2022-000650 y PRE2022-104379 financiadas por MICIU/AEI /10.13039/501100011033 y por el FSE+ Ayuda a la contratación de personal investigador predoctoral del año 2022 de la CAM con Expediente PIPF-2022/SAL-GL-26119 Support of a fellowship from the ”la Caixa” Foundation (ID 100010434). The fellowship code is LCF/BQ/DI22/11940002”. El escape room genético: \"Misión ADN-el secreto de la PCR\". Grupo: Pablo García Pavía. Associated funded projects that require dissemination (if applies). Logos and mentions: UE0EIC2201-HORIZON-EIC-2022_DCM-NEXT ERN-Guard-Heart The CNIC is supported by the Instituto de Salud Carlos III (ISCIII), the Ministerio de Ciencia, Innovación y Universidades (MICIU) and the Pro CNIC Foundation), and is a Severo Ochoa Center of Excellence (grant CEX2020-001041-S funded by MICIN/AEI/10.13039/501100011033). GRUPO CIBERCV CB16/11/00432 Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo. Grupos: José Antonio Enríquez y David Sancho José Antonio Enríquez: Centro de Investigación Biomédica en Red de Fragilidad y Envejecimiento Saludable (CIBERFES), Instituto de Salud Carlos III. GRUPO CIBERFES CB16/10/00289 Proyecto TED2021-131611B-I00 financiado por MICIU/AEI/10.13039/501100011033 y por la Unión Europea NextGenerationEU/ PRTR This work has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under the proposal n° 101198761 MINTRAF Proyecto PID2021-127988OB-I00 financiado por MICIU/AEI /10.13039/501100011033 y por FEDER, UE The project leading to these results has received funding from “la Caixa” Foundation under the project code LCF/PR/HR23/52430010 David Sancho: Proyecto CPP2021-008310 financiado por MICIU/AEI /10.13039/501100011033 y por la Unión Europea NextGenerationEU/ PRTR Proyecto CPP2022-009762 financiado por MICIU/AEI /10.13039/501100011033 y por la Unión Europea NextGenerationEU/ PRTR This work has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No 101158245. This work was supported by the grant PRYGN246642SANC from the Scientific Foundation of the Spanish Association Against Cancer. This work was supported by WORLWIDE CANCER RESEARCH 25-0080. Proyecto PID2022-137712OB-I00 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER, UE PROGRAMAS DE ACTIVIDADES DE I+D ENTRE GRUPOS DE INVESTIGACIÓN de la Comunidad de Madrid - BIOMEDICINA 2022 coordinado por la Dra. Almudena R Ramiro”-EXPEDIENTE: S2022/BMD-7333. Proyecto titulado “Estrategias inmunomoduladoras en el remodelado vascular: nuevas perspectivas diagnósticas y terapéuticas, acrónimo: INMUNOVAR”. IP del Grupo INMUNOBIOL. The project leading to these results has received funding from “la Caixa” Foundation under the project code LCF/PR/HR22/52420019. The project leading to these results has received funding from “la Caixa” Foundation under the project code LCF/PR/HR23/52430012 Project “UNderstanding Lipid ImmunoMetabolIsm To trEat Disease, acronym: UNLIMITED” (MSCA-Doctoral Network) has received funding from the European Union’s Horizon 2024 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101227259 Diseñando los fármacos del futuro: Una experiencia inmersiva con realidad virtual. Grupo: Fátima Sánchez Cabo Ayudas TED2021-132296B-C54 y TED2021-131611B-I00, financiadas por MICIU/ AEI/10.13039/501100011033/ y por la Unión Europea NextGenerationEU/ PRTR Proyecto CPP2022-009668, financiado por MICIU/AEI/10.13039/501100011033 y por la Unión Europea NextGenerationEU/PRTR (Plan de Recuperación, Transformación y Resiliencia) Ayuda BIOMARCADORES DE PRECISION PARA LA MEJORA DEL DIAGNOSTICO Y TRATAMIENTO DE LA ENFERMEDAD INFLAMATORIA DEL MIOCARDIO (PreMyo) con expediente PMP22/00105, financiado con fondos públicos por el Instituto de Salud Carlos III y cofinanciado por Unión Europea – NextGenerationEU Ayuda Plan de Formación en Inteligencia Artificial y Big Data para la salud Cardiovascular (CardiotrAIning) con Ref. SOLI/2024/0524/00240212 financiado por los fondos europeos NextGenerationEU en el marco del Plan de Recuperación, Transformación y Resiliencia a través de la iniciativa de los programas de atracción y retención de talento GRUPO CIBERCV CB22/11/00021 Proyecto PID2022-141527OB-I00 financiado por MCIN/AEI/10.13039/501100011033 y por FEDER, UE; Ayuda EQC2024-008195-P financiado por MICIU/AEI /10.13039/501100011033 y por FEDER, UE The EU4Health Programme 2021-2027 under Grant Agreement 101126953. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Health and Digital Executive Agency (HADEA). Neither the European Union nor the granting authority can be held responsible for them. Proyecto ALGORITMOS DE INTELIGENCIA ARTIFICIAL PARA PREDECIR EL RIESGO CARDIOVASCULAR, EN-PESA financiado por el Mecanismo de Recuperación y Resiliencia de la Unión Europea-Next Generation, en el marco de la convocatoria “Solicitud de Proyectos de I+D de Excelencia en Inteligencia Artificial de la Secretaría de Estado de Digitalización e Inteligencia Artificial”"
   },
   {
     "title": "Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO",
@@ -157,15 +789,15 @@
     "url": "https://www.cnio.es/noticias/nuevo-ensayo-clinico-contra-el-cancer-de-piel-mas-frecuente-con-un-compuesto-derivado-de-descubrimientos-del-cnio/",
     "date": "2025-07-15",
     "source": "CNIO",
-    "content_es": ""
+    "content_es": "Hace unos 15 años, en 2009, el equipo de la investigadora del Centro Nacional de Investigaciones Oncológicas (CNIO) Marisol Soengas descubrió una nueva forma de matar células tumorales: hacerles creer que han sido infectadas por un virus. Desarrollaron un compuesto, denominado BO-110, con una forma de actuación muy novedosa porque inducía la autodigestión de las […] La entrada Nuevo ensayo clínico contra el cáncer de piel más frecuente con un compuesto derivado de descubrimientos del CNIO se publicó primero en CNIO ."
   },
   {
     "title": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
-    "title_es": "Naturaleza: Un metabolito de la microbiota intestinal relacionado con la aterosclerosis podría revolucionar el diagnóstico y el tratamiento",
+    "title_es": "Nature: A gut microbiota metabolite linked to atherosclerosis could revolutionise diagnosis and treatment",
     "url": "https://www.cnic.es/es/node/235399",
     "date": "2025-07-14",
     "source": "CNIC",
-    "content_es": ""
+    "content_es": "16/07/2025 Investigación Publicaciones A new study led by the CNIC has identified imidazole propionate (ImP), a metabolite produced by gut bacteria, as a driver of atherosclerosis— as a driver of atherosclerosis, the disease behind most heart attacks and strokes Cardiovascular disease remains the world’s leading cause of death, and often originates in atherosclerosis, a chronic condition in which inflammation and fat deposits cause arteries to harden and narrow. Although clinical practice already targets causal factors like high cholesterol, hypertension, and smoking, detecting atherosclerosis in its early stages continues to be a significant challenge. Now, researchers at the Spanish National Center for Cardiovascular Research (CNIC) have identified a gut microbiota–derived metabolite, imidazole propionate (ImP), that appears in the blood during the early stages of active atherosclerosis. ‘ This metabolite is uniquely produced by intestinal bacteria,’ explains CNIC researcher Annalaura Mastrangelo , one of the study’s two first authors. ‘ Our study shows that its presence in the bloodstream is associated with the development of active atherosclerosis in people who otherwise appear healthy.’ The discovery offers a promising alternative to current diagnostic tools, which typically involve costly and complex imaging techniques. ‘Detecting this blood marker offers a major advantage because current diagnostic tools rely on advanced imaging techniques that are complex, expensive, and not covered by public health systems. Blood levels of ImP provide a diagnostic marker that could help identify apparently healthy individuals with active atherosclerosis, and thus enable earlier treatment. ’ says Mastrangelo. But the discovery goes even further. Co–first author Iñaki Robles-Vera explains: ‘We not only observed elevated ImP levels in people with atherosclerosis, but also showed that ImP itself is a causal agent of the disease. In animal models of atherosclerosis, ImP administration led to the formation of arterial plaques. It does this by activating the imidazoline receptor type 1 (I1R), which increases systemic inflammation and promotes atherosclerosis development.’ David Sancho , head of the CNIC Immunobiology Laboratory , lead author on the study and ERC grantee notes that ‘this discovery is important because it opens the way to a completely new line of treatment.’ The study shows that blocking the I1R receptor in animal models prevented plaque formation and slowed disease progression, even when the animals were fed a high-cholesterol diet. ‘This suggests that future treatment could combine I1R blockade with cholesterol-lowering drugs to produce a synergistic effect that prevents atherosclerosis development,’ explains Sancho. ‘These findings open new possibilities for the early detection and personalised treatment of atherosclerosis, ’ he continues. ‘Instead of focusing solely on cholesterol and other classic risk factors, we may soon be able to analyse blood for ImP as an early warning signal. At the CNIC, we are also working to develop drugs that block the detrimental effects of ImP .’ The CNIC-led study was conducted through extensive collaboration with researchers at multiple national and international centres : Mount Sinai Fuster Heart Hospital and the Icahn School of Medicine at Mount Sinai (New York, USA); the Fundación Jiménez Díaz Health Research Institute; the Universidad Autónoma de Madrid; the Spanish cardiovascular research network (CIBER-CV); the University of Gothenburg (Sweden); the University of Athens (Greece); Inmunotek S.L.; the University of Michigan (USA); Hospital de La Princesa; the Center for Metabolomics and Bioanalysis (CEMBIO) from Universidad CEU San Pablo; the University of Heidelberg (Germany); and the Sols-Morreale Biomedical Research Institute (IIBM-CSIC). The study was supported by funding from the European Research Council (Consolidator and Proof of concept grants), Spanish Ministry of Science, Innovation, and Universities; the Spanish State Research Agency; the European Union’s NextGeneration funding mechanism; and the “la Caixa” Foundation . Mastrangelo, A., Robles-Vera, I., Mañanes, D., Sancho, D., et al. (2025). Imidazole propionate is a driver and therapeutic target in atherosclerosis. Nature. https://doi.org/10.1038/s41586-025-09263-w"
   },
   {
     "title": "Nature: Descubren un metabolito de la microbiota intestinal que favorece la aterosclerosis y podría revolucionar su diagnóstico y tratamiento",
@@ -173,7 +805,15 @@
     "url": "https://www.cnic.es/es/noticias/nature-descubren-un-metabolito-microbiota-intestinal-que-favorece-aterosclerosis-podria",
     "date": "2025-07-14",
     "source": "CNIC",
-    "content_es": ""
+    "content_es": "16/07/2025 Investigación Publicaciones Un estudio liderado por el CNIC desvela que el propionato de imidazol, un metabolito producido por la microbiota intestinal, induce aterosclerosis, una enfermedad que puede desencadenar la obstrucción de las arterias que causa los infartos o accidentes cerebrovasculares Las enfermedades cardiovasculares son la principal causa de muerte global y suelen originarse en la aterosclerosis, un endurecimiento y estrechamiento de las arterias por inflamación y acumulación de grasa en la pared arterial. Aunque se controlan factores causales como colesterol, hipertensión o tabaquismo, la detección temprana de la enfermedad es necesaria. Los nuevos resultados liderados por el Centro Nacional de Investigaciones Cardiovasculares (CNIC) y publicados en la revista Nature han identificado que un metabolito generado por bacterias intestinales, el propionato de imidazol (ImP), se detecta en sangre de modo temprano en la aterosclerosis activa. El estudio ha contado con el apoyo de la Fundación “la Caixa” en su Convocatoria CaixaResearch de Investigación en Salud con 967.620,20 €. Este metabolito, “está producido exclusivamente por bacterias del intestino”, explica Annalaura Mastrangelo , investigadora del CNIC y primera autora del estudio. “En este trabajo hemos visto que su presencia en sangre se relaciona con el desarrollo de aterosclerosis activa en personas aparentemente sanas”. Lo relevante de este hallazgo, destaca Mastrangelo, es que “detectar este marcador en sangre representa una gran ventaja dado que las pruebas actuales requieren técnicas de imagen avanzada complejas y costosas que no están cubiertas por la seguridad social. Los niveles de ImP en sangre ofrecen un marcador con valor diagnóstico para facilitar la identificación de personas sanas que tienen aterosclerosis activa y posibilitar su tratamiento temprano”. Pero el hallazgo va más allá. Iñaki Robles-Vera , también primer autor del estudio, añade: “No solo observamos que el ImP está elevado en personas con aterosclerosis, sino que es un agente causal de la enfermedad. El consumo de ImP provocó la aparición de placas en las arterias en modelos animales de aterosclerosis. El ImP activa el receptor imidazolínico de tipo 1 (I1R) generando un aumento de la inflamación sistémica que contribuye al desarrollo de la aterosclerosis”. Para David Sancho , jefe del laboratorio de Inmunobiología y líder del estudio, “este descubrimiento es importante porque abre una nueva vía de tratamiento”. En la investigación que se publica en ‘ Nature ’, añade, se ha visto que, el uso de bloqueantes del receptor I1R previene la inducción de aterosclerosis por ImP y reduce la progresión de aterosclerosis en modelos de ratón donde se induce la enfermedad con dieta alta en colesterol. “Esto abre la posibilidad futura de un tratamiento combinado del bloqueo de I1R junto al bloqueo de la producción de colesterol para lograr un efecto que esperamos que sea sinérgico y que prevenga el desarrollo de aterosclerosis”, asegura David Sancho. Estos hallazgos, agrega, “abren nuevas posibilidades para el diagnóstico precoz y el tratamiento personalizado y temprano de la aterosclerosis. Así, en lugar de centrarse únicamente en el colesterol y otros factores clásicos, se podría en el futuro analizar la presencia de ImP en sangre como señal de riesgo. En el CNIC estamos trabajando para desarrollar fármacos que bloqueen los efectos perjudiciales de ImP”. Este trabajo ha sido liderado por el CNIC pero representa una colaboración global a nivel nacional e internacional , con la participación de instituciones como Mount Sinai Fuster Heart Hospital, Icahn School of Medicine at Mount Sinai en Nueva York (EEUU); Instituto de investigación Sanitaria Fundación Jiménez Díaz; Universidad Autónoma de Madrid; Centro de Investigación biomédica en red de enfermedades cardiovasculares (CIBER-CV); Universidad de Gotemburgo (Suecia); Universidad de Atenas (Grecia);  Inmunotek S.L; Universidad de  Michigan (EEUU);  Hospital de La Princesa; Centro de Metabolómica y Bioanálisis (CEMBIO), de la Universidad CEU San Pablo; Universidad de Heidelberg (Alemania), y el  Instituto de Investigaciones Biomédicas Sols-Morreale IIBM-CSIC. Este proyecto ha recibido financiación del European Research Council (ayudas Consolidator y Proof of Concept: 2016-Consolidator Grant 725091; ERC-2023-PoC); Ministerio de Ciencia, Innovación y Universidades; Agencia Estatal de Investigación; Unión Europea a través de NextGeneration, y la Fundación “la Caixa” . Mastrangelo, A., Robles-Vera, I., Mañanes, D. Sancho, D., et al. Imidazole propionate is a driver and therapeutic target in atherosclerosis. Nature (2025). https://doi.org/10.1038/s41586-025-09263-w"
+  },
+  {
+    "title": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE",
+    "title_es": "Ocho de los mejores estudiantes de bachillerato de España participan en el programa ACÉRCATE",
+    "url": "https://www.cnic.es/es/noticias/ocho-mejores-estudiantes-bachillerato-espana-participan-programa-acercate",
+    "date": "2025-07-11",
+    "source": "CNIC",
+    "content_es": "11/07/2025 Sobre el CNIC Formación El objetivo del Programa Acércate es atraer y formar a los jóvenes más brillantes desde las edades más tempranas para crear una cantera de investigadores de excelencia en el campo de la investigación cardiovascular Un año más, ocho de los mejores estudiantes de bachillerato de España han participado el programa ACÉRCATE , que organiza el Centro Nacional de Investigaciones Cardiovasculares (CNIC) dentro de su Plan de Formación CNIC-Joven. El objetivo de este plan, una apuesta personal del director general del centro, el Dr. Valentín Fuster , es “atraer y formar a los jóvenes más brillantes desde las edades más tempranas para crear una cantera de investigadores de excelencia en el campo de la investigación cardiovascular”. La convocatoria, abierta a bachilleres de todo el territorio nacional, se ha resuelto este año a favor de 6 alumnas y 2 alumnos de los más de 50 que reunían los requisitos y solicitaron participar en el programa. Este año las personas que participan en el programa proceden de Asturias, Extremadura, Galicia, Comunidad de Madrid, Castilla y León, Comunidad Valenciana y Andalucía. Incluyendo a los de esta convocatoria, en total ya han participado en el programa 136 estudiantes . Los jóvenes estudiantes, además de participar en el día a día de un centro de excelencia en investigación como el CNIC, han compartido sus experiencias y sus dudas con los investigadores del centro, pero también con el Dr. Fuster, director del CNIC. El Dr. Fuster considera que empezar el programa de formación en etapas educativas tan tempranas es clave para atraer a los investigadores del futuro porque los jóvenes son el “futuro de la investigación en nuestro país”. Las personas que participan en este programa han tenido la oportunidad de intercambiar sus experiencias con Ludmila Kvasnovska, ganadora del Premio CNIC-EUCYS 2024 En esta ocasión, las personas que participan en este programa han tenido la oportunidad de intercambiar sus experiencias con Ludmila Kvasnovska , ganadora del Premio CNIC-EUCYS 2024 (Concurso de la Unión Europea para Jóvenes Científicos), un certamen internacional que reconoce los mejores proyectos científicos de jóvenes de entre 14 y 20 años. Kvasnovska, fue seleccionada por su proyecto individual de biomedicina titulado «Biomarcadores potenciales de la inflamación crónica relacionada con la edad». Los participantes del programa Acércate al CNIC comparten una gran ilusión por vivir una experiencia enriquecedora que les permita acercarse al mundo real de la investigación biomédica. Así, Alba García Peña quiere profundizar en biomedicina para orientar su futuro profesional. María García Manchado , apasionada por la cardiología, desea conocer de cerca el trabajo investigador, mientras que Lucas Gómez Sánchez espera familiarizarse con el laboratorio y la tecnología aplicada a la medicina. Luka Pesich , por su parte, busca reforzar sus conocimientos y habilidades prácticas en biomedicina y Sofía Requena Skalska está interesada en el funcionamiento interno de los grupos de investigación y la conexión entre ciencia y práctica clínica. Descubrir el día a día en un laboratorio y confirmar su vocación científica es lo que espera Laura Sánchez Rodríguez , mientras que Carmen Vico Guerra valora la oportunidad de crecer personal y académicamente en un entorno de excelencia. Por último, Sara Baldo Muñiz espera comprender de forma directa la labor investigadora y aprender tanto de profesionales como de otros estudiantes con intereses afines. Tecnología más puntera Este programa es el que se dirige a la captación de talento más joven de todos los de formación que hay en el CNIC. El apoyo sostenido de la Fundación Pro CNIC es indispensable para que, año tras año, pueda seguir celebrándose y captando el talento desde la etapa más precoz. “Estamos muy satisfechos de este concepto que comenzamos hace ya más de 20 años”, añade el Dr. Fuster. Y, concluye, “así, si tienen ese ‘gusanillo’ de la investigación, los animamos a seguir adelante”. Accede aquí al álbum de fotos de esta convocatoria Sara Baldó Muñiz Sara cursó sus estudios en el IES Velázquez de Madrid y ha decidido estudiar Bioquímica en la Universidad Autónoma de Madrid. Desde pequeña, ha sentido una fuerte atracción por la investigación científica, impulsada por su curiosidad innata y su deseo de comprender cómo funciona el mundo. Alba García Peña Alba cursó Bachillerato en el IES Álvaro Cunqueiro de Vigo y comenzará el próximo curso la carrera de Biotecnología en la Universidad de Santiago de Compostela. Eligió esta opción porque integra varias disciplinas científicas —Matemáticas, Física, Química y Biología— y le permitirá especializarse más adelante en áreas vinculadas a la investigación biosanitaria. María García Manchado María estudió en el IES San José de Villanueva de la Serena, Badajoz. Ha optado por estudiar Medicina en la Universidad de Extremadura. Desde niña ha sentido una gran pasión por el conocimiento, que la llevó a interesarse especialmente por Biología y Matemáticas. Lucas Gómez Sánchez Lucas estudió en el IES Ramiro de Maeztu de Madrid y ahora estudiará Ingeniería Biomédica en la Universidad Carlos III de Madrid. Su curiosidad científica comenzó a los 8 años, participando en actividades como la Noche de los Investigadores y la Semana de la Ciencia. Luka Pesich Luka curso Bachillerato en el Colegio Patrocinio San José de Estepona, Málaga. Ahora iniciará sus estudios en Ciencias Biológicas y Químicas en la Universidad de Limerick (Irlanda), con la intención de especializarse en genética. Su interés por la ciencia fue creciendo de forma natural, motivado por su amor por la naturaleza. Sofía Requena Skalska Sofía estudió en el CEU San Pablo Valencia de Puerto de Sagunto, Valencia. Sofía cursó parte de su formación secundaria en Quebec, donde tuvo su primer contacto directo con la investigación científica mediante prácticas de laboratorio. Posteriormente, el Bachillerato Internacional fortaleció su interés en la biología y el cuerpo humano. Laura Sánchez Rodríguez Laura estudió en el Colegio Salesiano Santo Ángel de Avilés, Asturias. Empezará el próximo curso la carrera de Biotecnología en la Universidad de Oviedo. Su interés por la ciencia surgió a través de proyectos escolares y viajes STEAM organizados por su centro educativo. Carmen Vico Guerra Carmen cursó Bachillerato en el IES Zorrilla de Valladolid. El próximo cursó comenzará a estudiar Biomedicina y Terapias Avanzadas en la Universidad de Valladolid. Su pasión por la ciencia comenzó en la infancia, cuando pasaba horas hojeando atlas de anatomía y viendo programas divulgativos."
   },
   {
     "title": "Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello",
@@ -181,7 +821,15 @@
     "url": "https://www.cnio.es/noticias/un-estudio-pionero-desvela-nuevos-mecanismos-geneticos-implicados-en-tumores-raros-de-cabeza-y-cuello/",
     "date": "2025-07-10",
     "source": "CNIO",
-    "content_es": ""
+    "content_es": "Los paragangliomas y feocromocitomas son tumores neuroendocrinos muy raros (entre 3 y 8 casos por millón de habitantes) que aparecen en cabeza, cuello y torso, o en las glándulas suprarrenales, y que pueden diseminarse a otros órganos. Cerca de la mitad están causados por alteraciones genéticas heredadas, mutaciones que interesa mucho descubrir: conocerlas permite encontrar familiares portadores de […] La entrada Un estudio pionero desvela nuevos mecanismos genéticos implicados en tumores raros de cabeza y cuello se publicó primero en CNIO ."
+  },
+  {
+    "title": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
+    "title_es": "El Dr. Miguel Torres, Premio Nacional de Genética 2025 por su contribución al desarrollo de terapias regenerativas del corazón",
+    "url": "https://www.cnic.es/es/noticias/dr-miguel-torres-premio-nacional-genetica-2025-por-su-contribucion-al-desarrollo-terapias",
+    "date": "2025-07-09",
+    "source": "CNIC",
+    "content_es": "09/07/2025 Sobre el CNIC Publicaciones La Sociedad Española de Genética (SEG) reconoce sus contribuciones seminales en el ámbito de la genética del desarrollo y la medicina regenerativa. El investigador Miguel Torres Sánchez , coordinador del Programa de Regeneración Cardiovascular e investigador principal del grupo “Control Genético del Desarrollo y Regeneración de Órganos” en el Centro Nacional de Investigaciones Cardiovasculares (CNIC), ha sido galardonado con el Premio Nacional de Genética 2025 en la modalidad aplicada, otorgado por la Sociedad Española de Genética (SEG). El jurado reconoce sus contribuciones seminales en el ámbito de la genética del desarrollo y la medicina regenerativa, destacando especialmente su trabajo sobre cómo la actividad de los genes regula los procesos de regionalización durante el desarrollo embrionario. Sus investigaciones han permitido desentrañar mecanismos genéticos implicados en el control de la calidad y la regeneración de órganos, sentando así las bases científicas para el desarrollo de terapias regenerativas dirigidas al corazón y al sistema vascular. El fallo también resalta la proyección internacional del Dr. Torres y el alto impacto de sus publicaciones científicas , que lo sitúan como una figura de referencia en el campo de la biomedicina regenerativa. El Dr. Torres lidera desde el CNIC una de las líneas de investigación más innovadoras en medicina regenerativa, con el objetivo de desarrollar nuevas estrategias terapéuticas que permitan reparar los tejidos dañados tras un infarto u otras patologías cardiovasculares, una de las principales causas de muerte en el mundo. Proyecto REACTIVA Entre otros proyectos, el Dr. Torres dirige el proyecto REACTIVA, seleccionado para recibir una prestigiosa ERC Advanced Grant, financiación que respalda una línea de investigación innovadora centrada en la regeneración del tejido cardíaco, con el objetivo de abrir nuevas vías hacia terapias regenerativas del corazón. El Premio Nacional de Genética, financiado por la Fundación Pryconsa, representa uno de los más altos reconocimientos a la excelencia investigadora en genética en nuestro país. Con él, la Sociedad Española de Genética desea rendir homenaje a la destacada trayectoria científica del Dr. Torres, su compromiso con el avance del conocimiento y el impacto significativo que su trabajo ha tenido en la comunidad científica. Este galardón, señala Teresa Roldán Arjona , Presidenta de la Sociedad Española de Genética, “enaltece no solo los logros personales del Dr. Torres, sino también a la institución a la que representa y al conjunto de la comunidad genética”. Los Premios Nacionales de Genética, impulsados por la SEG, distinguen cada año trayectorias científicas sobresalientes tanto en investigación básica como aplicada. Junto a Miguel Torres, el jurado ha premiado en la modalidad básica a Amparo Latorre Castillo, catedrática de Genética en la Universidad de València, por su pionera labor en el estudio de la variabilidad del ADN mitocondrial y los procesos evolutivos de simbiosis."
   },
   {
     "title": "Premio a la unidad de cáncer pediátrico del CNIO",
@@ -189,7 +837,7 @@
     "url": "https://www.cnio.es/noticias/premio-a-la-unidad-de-cancer-pediatrico-del-cnio/",
     "date": "2025-07-07",
     "source": "CNIO",
-    "content_es": ""
+    "content_es": "Las terapias CAR-T son un tipo de inmunoterapia personalizada en que las células defensivas del paciente son modificadas en el laboratorio para reforzar su capacidad de reconocer y destruir las células tumorales. Su uso, cada vez más frecuente en adultos, es aún reducido en pediatría. La Sociedad Europea de Oncología Pediátrica ha alertado ya de […] La entrada Premio a la unidad de cáncer pediátrico del CNIO se publicó primero en CNIO ."
   },
   {
     "title": "Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer",
@@ -197,6 +845,70 @@
     "url": "https://www.cnio.es/noticias/gracias-a-nuestros-amigos-y-amigas-por-ayudarnos-a-acabar-con-el-cancer/",
     "date": "2025-07-07",
     "source": "CNIO",
-    "content_es": ""
+    "content_es": "“La clave para frenar el cáncer podría estar en la comunicación entre proteínas. Pero sinceramente, creo que la verdadera clave está en nuestra comunicación, en cómo compartimos, cuestionamos y colaboramos; si seguimos manteniendo este diálogo abierto, creo que llegará el día en que realmente entendamos el cáncer… y lo detengamos”, dijo en la Jornada de […] La entrada Gracias a nuestros ‘Amigos y Amigas’ por ayudarnos a acabar con el cáncer se publicó primero en CNIO ."
+  },
+  {
+    "title": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
+    "title_es": "El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer",
+    "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-solidaridad-de-sus-amigos-as-clave-para-atraer-talento-y-avanzar-en-la-investigacion-del-cancer/",
+    "date": "2025-07-04",
+    "source": "CNIO",
+    "content_es": "Una parte importante del conocimiento que genera el Centro Nacional de Investigaciones Oncológicas (CNIO), y que se orienta a mejorar la prevención, el diagnóstico y el tratamiento del cáncer, es fruto de la generosidad. La generosidad de las personas, empresas y fundaciones que realizan donaciones al centro a través del programa ‘Amigos/as del CNIO’.  Desde que se estableció, en 2015, todos los fondos […] La entrada El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer se publicó primero en CNIO ."
+  },
+  {
+    "title": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
+    "title_es": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
+    "url": "https://www.cnic.es/es/node/235158",
+    "date": "2025-07-02",
+    "source": "CNIC",
+    "content_es": "02/07/2025 Investigación Publicaciones CNIC researchers have uncovered the evolutionary logic of the OxPhos system—the cell’s “engine”—and developed a tool to detect mutations that cause mitochondrial disease Mitochondria are the body’s “energy factories,” and their proper function is essential for life. Inside mitochondria, a set of complexes called the oxidative phosphorylation (OxPhos) system acts like a biochemical assembly line, transforming oxygen and nutrients into usable energy. Now, the study, led by the GENOXPHOS group at the Spanish National Centre for Cardiovascular Research (CNIC) and the Biomedical Research Networking Centre in the area of Frailty and Healthy Ageing (CIBERFES), and directed by Dr. José Antonio Enríquez , has revealed how this system evolved over millions of years—from the first vertebrates to modern humans. “Understanding this evolution helps explain why some genetic mutations cause rare but serious diseases that affect the OxPhos system,” say José Luis Cabrera lead author of the article, whose research is supported by the ‘ la Caixa’ Foundation . Published in Cell Genomics , the study describes the molecular evolutionary strategies of the OxPhos system, the main site of metabolic and energy integration in the cell. It also shows how this information can be used to identify mutations that cause disease. Working in collaboration with Fátima Sánchez-Cabo , head of the CNIC Computational Systems Biomedicine group, the researchers analyzed the interaction between the two types of DNA that encode OxPhos proteins: nuclear DNA (inherited from both parents) and mitochondrial DNA (inherited only from the mother). The OxPhos system, explains José Antonio Enríquez—head of the CNIC Functional Genetics of the Oxidative Phosphorylation System (GENOXPHOS) group—comprises five large protein complexes: four that transport electrons and one, called ATP synthase, that produces ATP, the cell’s molecular “fuel.” “These complexes can work individually or in combination, depending on the cell’s energy needs. Together, they are made up of 103 proteins encoded by two different genomes: nuclear and mitochondrial,” Enríquez explains. “While nuclear DNA changes slowly over time and gains variation through genetic mixing during reproduction, mitochondrial DNA evolves much more rapidly but is passed only through the maternal line.” Dr. Cabrera adds that the proteins encoded by mitochondrial DNA form the core of the respiratory complexes, “so proper function depends on precise compatibility between the nuclear and mitochondrial components.” The study also introduces an innovative new tool: ConScore, a predictive index that assesses the clinical relevance of mutations in the 103 OxPhos proteins. “ConScore is based on the evolutionary divergence of these proteins across vertebrates—including primates and other mammals—and complements human population genetic data,” says Enríquez. The authors affirm that ConScore provides a new framework for interpreting potentially pathogenic mutations, opening the door to improved diagnosis and treatment of mitochondrial diseases. Ultimately, the researchers conclude, this study not only advances our understanding of how human cells evolved, but also brings us closer to new solutions for patients with rare genetic disease. The study has received funding from the European Union's NextGenerationEU/Recovery, Transformation and Resilience Plan/PRTR , CIBERFES; Fundación ‘la Caixa’, Human Frontier Science Fundation ; Severo Ochoa grant awarded by MICIU/AEI and the European Social Fund (ESF invests in your future). Cabrera-Alarcón JL, Rosa-Moreno M, Sánchez-García L, Hernansanz Agustín P, Jiménez-Gómez MC, Martínez F, Sánchez-Cabo F, Enríquez JA. Structural diversity and evolutionary constraints of oxidative phosphorylation. Cell Genomics . 2025 Jul 3. doi: 10.1016/j.xgen.2025.100945"
+  },
+  {
+    "title": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas",
+    "title_es": "Cell Genomics: Revelan cómo ha evolucionado el sistema energético de las células y cómo puede ayudar a entender las enfermedades genéticas",
+    "url": "https://www.cnic.es/es/noticias/cell-genomics-revelan-como-ha-evolucionado-sistema-energetico-celulas-como-puede-ayudar",
+    "date": "2025-07-02",
+    "source": "CNIC",
+    "content_es": "02/07/2025 Investigación Publicaciones Investigadores del CNIC descubren las claves evolutivas del sistema OxPhos, el \"motor\" de la célula, y desarrollan una herramienta para detectar mutaciones que causan enfermedades mitocondriales. Las mitocondrias son las “fábricas de energía” de nuestro organismo y su funcionamiento correcto es vital para producir la energía que necesitamos. En su interior funciona el sistema de fosforilación oxidativa, OxPhos, un conjunto de proteínas que trabaja como una cadena para transformar el oxígeno y los nutrientes en energía. Ahora, el estudio, liderado por el grupo GENOXPHOS del Centro Nacional de Investigaciones Cardiovasculares (CNIC) y del Centro de Investigación Biomédica en Red Fragilidad y Envejecimiento Saludable (CIBERFES), y dirigido por el Dr. José Antonio Enríquez , desvela cómo ha evolucionado este sistema a lo largo de millones de años, desde los primeros vertebrados hasta los seres humanos. “Comprender esta evolución ayuda a explicar por qué algunas mutaciones genéticas provocan enfermedades raras y graves que afectan a este sistema”, señala el Dr. José Luis Cabrera, autor principal del artículo cuya investigación cuenta con el apoyo de la Fundación ‘la Caixa’. El estudio, publicado en la revista Cell Genomics , desvela las estrategias evolutivas a nivel molecular que ha seguido el principal centro de integración metabólico y energético de la célula, el sistema OxPhos, y describe como esta información puede ser utilizada para identificar en personas mutaciones causantes de enfermedades. Los investigadores, en colaboración con el grupo de Fátima Sánchez-Cabo , jefa del grupo de Biomedicina de Sistemas Computacional del CNIC,  han analizado cómo interactúan los dos tipos de ADN que codifican las proteínas del sistema OxPhos: el ADN nuclear (heredado del padre y la madre) y el ADN mitocondrial (que solo se hereda de la madre). El sistema OxPhos, explica el Dr. Enríquez, jefe del grupo Genética Funcional del Sistema de Fosforilación Oxidativa (GENOXPHOS) del CNIC, está formado por cinco grandes bloques de proteínas : cuatro que transportan electrones y otro, llamado ATP-sintetasa, que produce energía en forma de ATP, el \"combustible\" celular. “Estos bloques pueden funcionar por separado o formar grupos según lo que necesite la célula. En total, están formados por unas 103 proteínas, codificadas por dos tipos de ADN: el nuclear y el mitocondrial. Y, mientras que el ADN nuclear cambia poco con el tiempo y gana variedad gracias a la mezcla genética durante la reproducción, el ADN mitocondrial se modifica mucho más rápido, aunque solo se transmite de madres a hijos”, aclara el Dr. Enríquez. Añade el Dr. Cabrera que las proteínas codificadas por el ADN mitocondrial constituyen el corazón de los complejos respiratorios, “cuyo correcto funcionamiento depende de que los componentes nucleares y los mitocondriales encajen adecuadamente”. Además, el estudio presenta una herramienta innovadora: ConScore, un índice de predicción funcional que permite evaluar la relevancia clínica de las mutaciones en las 103 proteínas que componen el sistema OxPhos. “Este índice se basa en la divergencia evolutiva de estas proteínas entre vertebrados —incluidos mamíferos y primates—, y complementa los estudios de variabilidad genética en poblaciones humanas”, señala el Dr. Enríquez. ConScore ofrece un nuevo marco para interpretar mutaciones potencialmente patológicas, abriendo la puerta al desarrollo de mejores estrategias diagnósticas y terapéuticas frente a enfermedades mitocondriales, aseguran los investigadores. Esta investigación, concluyen sus autores, no solo ayuda a entender cómo hemos evolucionado a nivel celular, sino que también acerca nuevas soluciones para mejorar la salud de las personas que sufren enfermedades genéticas raras. El estudio ha recibido financiación de la Unión Europea «NextGenerationEU»/Plan de Recuperación, Transformación y Resiliencia /PRTR, CIBERFES; Fundación ‘la Caixa’, Human Frontier Science Fundation ; beca Severo Ochoa concedida por MICIU/AEI y por los Fondos Sociales Europeos (FSE invierte en tu futuro ). Cabrera-Alarcón JL, Rosa-Moreno M, Sánchez-García L, Hernansanz Agustín P, Jiménez-Gómez MC, Martínez F, Sánchez-Cabo F, Enríquez JA. Structural diversity and evolutionary constraints of oxidative phosphorylation. Cell Genomics . 2025 Jul 3. doi: 10.1016/j.xgen.2025.100945"
+  },
+  {
+    "title": "Los daños en el ADN derivados de la contaminación atmosférica podrían contribuir al cáncer de pulmón en personas no fumadoras, halla un estudio",
+    "title_es": "Los daños en el ADN derivados de la contaminación atmosférica podrían contribuir al cáncer de pulmón en personas no fumadoras, halla un estudio",
+    "url": "https://www.cnio.es/noticias/los-danos-en-el-adn-derivados-de-la-contaminacion-atmosferica-podrian-contribuir-al-cancer-de-pulmon-en-personas-no-fumadoras-halla-un-estudio/",
+    "date": "2025-07-02",
+    "source": "CNIO",
+    "content_es": "Una cuarta parte de los casos de cáncer de pulmón se dan en personas que no han fumado nunca. ¿Cuál es la causa de estos cánceres? Un estudio que analiza las alteraciones genéticas (mutaciones) en tumores de 871 personas no fumadoras de cuatro continentes apunta a la contaminación atmosférica como una de las posibles causas. […] La entrada Los daños en el ADN derivados de la contaminación atmosférica podrían contribuir al cáncer de pulmón en personas no fumadoras, halla un estudio se publicó primero en CNIO ."
+  },
+  {
+    "title": "Roger Castells-Graells recibe el premio Hawk Biosystems de la Sociedad de Biofísica de España",
+    "title_es": "Roger Castells-Graells recibe el premio Hawk Biosystems de la Sociedad de Biofísica de España",
+    "url": "https://www.cnio.es/noticias/roger-castells-graells-recibe-el-premio-hawk-biosystems-de-la-sociedad-espanola-de-biofisica/",
+    "date": "2025-06-27",
+    "source": "CNIO",
+    "content_es": "El investigador Roger Castells-Graells, del Centro Nacional de Investigaciones Oncológicas (CNIO), ha recibido el premio “Hawk Biosystems”, que otorga la Sociedad de Biofísica de España (SBE) en el marco de su XVIII Congreso Internacional. Castells-Graells se incorporó recientemente al CNIO para dirigir el nuevo Grupo de Diseño Biomolecular y Nanomedicina Estructural, dedicado a crear nanopartículas […] La entrada Roger Castells-Graells recibe el premio Hawk Biosystems de la Sociedad de Biofísica de España se publicó primero en CNIO ."
+  },
+  {
+    "title": "Mariano Barbacid, Premio Valor Añadido a la Ciencia e Investigación",
+    "title_es": "Mariano Barbacid, Premio Valor Añadido a la Ciencia e Investigación",
+    "url": "https://www.cnio.es/noticias/mariano-barbacid-premio-valor-anadido-a-la-ciencia-e-investigacion/",
+    "date": "2025-06-26",
+    "source": "CNIO",
+    "content_es": "Mariano Barbacid, descubridor del primer oncogén humano, ha recibido el Premio Valor Añadido a la Ciencia e Investigación, que reconoce la “labor de cultivo y perfeccionamiento de la investigación, descubrimiento e invención”. Los Premios Valor Añadido son una iniciativa de la Fundación Transforma España, en colaboración con BBVA, para «impulsar el reconocimiento de la aportación […] La entrada Mariano Barbacid, Premio Valor Añadido a la Ciencia e Investigación se publicó primero en CNIO ."
+  },
+  {
+    "title": "El CNIO crea ‘nanopartículas de proteínas’ para acelerar el desarrollo de fármacos contra el cáncer",
+    "title_es": "El CNIO crea ‘nanopartículas de proteínas’ para acelerar el desarrollo de fármacos contra el cáncer",
+    "url": "https://www.cnio.es/noticias/el-cnio-crea-nanoparticulas-de-proteinas-para-acelerar-el-desarrollo-de-farmacos-contra-el-cancer/",
+    "date": "2025-06-24",
+    "source": "CNIO",
+    "content_es": "Las proteínas son moléculas complejas que realizan funciones cruciales en el organismo. Conocerlas es esencial para comprender e intentar curar enfermedades: si se conoce la estructura tridimensional de una proteína implicada en cáncer, por ejemplo, se puede intentar diseñar una molécula capaz de modificar esa proteína para tratarlo.     El Grupo de Diseño Biomolecular y […] La entrada El CNIO crea ‘nanopartículas de proteínas’ para acelerar el desarrollo de fármacos contra el cáncer se publicó primero en CNIO ."
+  },
+  {
+    "title": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones",
+    "title_es": "Visita de la Universidad de Shanghai al CNIC para explorar futuras colaboraciones",
+    "url": "https://www.cnic.es/es/noticias/visita-universidad-shanghai-al-cnic-para-explorar-futuras-colaboraciones",
+    "date": "2025-06-20",
+    "source": "CNIC",
+    "content_es": "20/06/2025 Sobre el CNIC Investigación Una delegación de la Universidad de Shanghai (China) ha visitado el CNIC con el objetivo de explorar posibles vías de colaboración en investigación biomédica. La comitiva estuvo encabezada por Gou Yannan , vicepresidente de la Universidad de Shanghai, y contó con la participación de Liu Jinsong, director del Departamento de Activos; Xiao Junjie, decano de la Escuela de Ciencias de la Vida; Wang Haisong, arquitecto jefe de desarrollo del campus y vicedecano de la Academia de Bellas Artes de Shanghai, y Huang Pei, directora adjunta de la Oficina de Asuntos Internacionales. Durante la reunión, se discutieron posibles estrategias para establecer proyectos conjuntos de investigación y cooperación institucional entre ambas entidades. Por parte del CNIC, participaron Vicente Andrés , director de Investigación Básica; Beatriz Ferreiro , Directora Gestión Científica, y Enrique Lara Pezzi , líder del grupo de Regulación Molecular de la Insuficiencia Cardiaca. Tras el encuentro, los representantes de la universidad china realizaron una visita a las instalaciones. Esta visita marca un primer paso en el establecimiento de lazos científicos entre el CNIC y la Universidad de Shanghai, con el propósito de impulsar el intercambio de conocimiento y el desarrollo de proyectos innovadores en el ámbito de la biomedicina."
   }
 ]
