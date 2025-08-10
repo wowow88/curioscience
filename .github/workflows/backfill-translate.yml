@@ -1,0 +1,120 @@
+name: Backfill Translations Only
+
+on:
+  workflow_dispatch:
+    inputs:
+      backfill_limit:
+        description: "Máximo de artículos a traducir (histórico)"
+        required: false
+        default: "300"
+      sleep_ms:
+        description: "Pausa entre llamadas DeepL (ms)"
+        required: false
+        default: "1200"
+      deepl_endpoint:
+        description: "Endpoint DeepL (opcional: https://api-free.deepl.com | https://api.deepl.com)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "backfill-translate"
+  cancel-in-progress: true
+
+env:
+  TZ: Europe/Madrid
+  FINAL_JSON: workspace/astro/public/articles.json
+  USER_AGENT: "curioscience-bot/1.0 (+https://tu-dominio)"
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    env:
+      DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      # Si introduces un endpoint en el formulario, se usa ese; si no, cae al repo var DEEPL_ENDPOINT
+      DEEPL_ENDPOINT: ${{ github.event.inputs.deepl_endpoint != '' && github.event.inputs.deepl_endpoint || vars.DEEPL_ENDPOINT }}
+      BACKFILL_LIMIT: ${{ github.event.inputs.backfill_limit }}
+      SLEEP_MS: ${{ github.event.inputs.sleep_ms }}
+
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: "Setup Node.js"
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: "Instalar dependencias Node"
+        run: |
+          set -euo pipefail
+          if [ -f package.json ]; then
+            if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+          else
+            echo '{"name":"ci-backfill","private":true,"type":"module"}' > package.json
+            npm install --no-audit --no-fund
+          fi
+          # dependencias que usa el script de backfill
+          npm install --no-audit --no-fund node-fetch@3 franc
+
+      - name: "Comprobar archivo objetivo"
+        run: |
+          set -euo pipefail
+          test -s "$FINAL_JSON" || (echo "$FINAL_JSON no existe o está vacío" && exit 1)
+          jq . "$FINAL_JSON" >/dev/null
+
+      - name: "Pendientes de traducción (antes)"
+        id: before
+        run: |
+          set -euo pipefail
+          echo "::group::Pendientes antes"
+          PEND=$(jq '[ .[] | select((.title_es|not) or (.title_es=="") or (.title_es==.title) or (.content_es|not) or (.content_es=="")) ] | length' "$FINAL_JSON")
+          echo "Pendientes: $PEND"
+          echo "pendientes=$PEND" >> $GITHUB_OUTPUT
+          echo "::endgroup::"
+
+      - name: "Ejecutar backfill de traducciones"
+        run: |
+          set -euo pipefail
+          if [ -f scripts/backfill-translate.js ]; then
+            node scripts/backfill-translate.js
+          elif [ -f workspace/scripts/backfill-translate.js ]; then
+            node workspace/scripts/backfill-translate.js
+          else
+            echo "No se encontró scripts/backfill-translate.js" && exit 1
+          fi
+
+      - name: "Pendientes de traducción (después)"
+        id: after
+        run: |
+          set -euo pipefail
+          echo "::group::Pendientes después"
+          PEND=$(jq '[ .[] | select((.title_es|not) or (.title_es=="") or (.title_es==.title) or (.content_es|not) or (.content_es=="")) ] | length' "$FINAL_JSON")
+          echo "Pendientes: $PEND"
+          echo "pendientes=$PEND" >> $GITHUB_OUTPUT
+          echo "::endgroup::"
+
+      - name: "Subir artifact (articles.json)"
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: articles-json-backfilled
+          path: |
+            ${{ env.FINAL_JSON }}
+
+      - name: "Commit & Push si hubo cambios"
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$FINAL_JSON"
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "chore: backfill translations [skip ci]"
+            git push
+          fi
