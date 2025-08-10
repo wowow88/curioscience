@@ -1,8 +1,7 @@
-// scripts/fetch-articles.js (actualizado)
-// - Alineado al esquema de tu web: title, title_es, url, date (YYYY-MM-DD), source, content_es
-// - Nunca devuelve campos undefined (si falta algo, usa "")
-// - No inventa fechas: si el feed no trae fecha, la deja vacía
-// - Traducción opcional con DeepL (si hay DEEPL_API_KEY)
+// scripts/fetch-articles.js (actualizado: Nature se traduce)
+// - Alineado al esquema de la web: title, title_es, url, date (YYYY-MM-DD), source, content_es
+// - Nunca devuelve campos undefined; no inventa fechas
+// - Traducción con DeepL con fallback de endpoint (free/pro) y prioridad a Nature
 
 import fs from "fs";
 import path from "path";
@@ -12,8 +11,10 @@ import RSSParser from "rss-parser";
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
 const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
+const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // si usas PRO, puedes setear https://api.deepl.com
+const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 120); // límite prudente
 
-// === TUS FEEDS ===
+// === FEEDS === (rellenado por ti)
 const RSS_SOURCES = [
   { name: 'arXiv',       url: 'http://export.arxiv.org/rss/cs' },
   { name: 'PubMed',      url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10' },
@@ -27,155 +28,90 @@ const RSS_SOURCES = [
   { name: 'IAC',         url: 'https://www.iac.es/en/rss.xml' },
 ];
 
-const parser = new RSSParser({
-  timeout: 10000,
-  headers: { "user-agent": USER_AGENT },
-});
+const parser = new RSSParser({ timeout: 10000, headers: { "user-agent": USER_AGENT } });
 
-function ensureDirFor(filePath) {
-  const dir = path.dirname(filePath);
-  fs.mkdirSync(dir, { recursive: true });
-}
+function ensureDirFor(filePath) { fs.mkdirSync(path.dirname(filePath), { recursive: true }); }
+function toISO(d) { const t = d ? Date.parse(d) : NaN; return Number.isFinite(t) ? new Date(t).toISOString() : ""; }
+function toDateShort(d) { const iso = toISO(d); return iso ? iso.slice(0,10) : ""; }
+function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && String(v).trim()!=='') return String(v); return ""; }
+function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=''; url.search=''; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
+function stripTags(html=''){ return String(html).replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>'); }
 
-function toISO(dateLike) {
-  if (!dateLike) return "";
-  const t = Date.parse(dateLike);
-  if (!Number.isFinite(t)) return "";
-  return new Date(t).toISOString();
-}
-
-function toDateShort(dateLike) {
-  const iso = toISO(dateLike);
-  return iso ? iso.slice(0, 10) : ""; // YYYY-MM-DD
-}
-
-function normUrl(u = "") {
-  const s = String(u || "").trim();
-  if (!s) return "";
-  try {
-    const url = new URL(s);
-    url.hash = ""; // evita duplicados por #
-    url.search = ""; // evita duplicados por query tracking
-    return url.toString().toLowerCase();
-  } catch {
-    return s.toLowerCase();
-  }
-}
-
-async function translateIfPossible(text, targetLang = "es") {
+async function deeplTranslate(text, targetLang){
   if (!DEEPL_KEY || !text) return text;
-  try {
-    const params = new URLSearchParams();
-    params.set("text", String(text).slice(0, 4000));
-    params.set("target_lang", targetLang.toUpperCase());
-    const res = await fetch("https://api-free.deepl.com/v2/translate", {
-      method: "POST",
-      headers: {
-        Authorization: `DeepL-Auth-Key ${DEEPL_KEY}`,
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-      body: params,
-    });
-    if (!res.ok) throw new Error(`DeepL HTTP ${res.status}`);
-    const data = await res.json();
-    return data?.translations?.[0]?.text || text;
-  } catch (e) {
-    console.warn("[translate]", e.message);
-    return text;
+  const body = new URLSearchParams();
+  body.set("text", String(text).slice(0, 4000));
+  body.set("target_lang", String(targetLang || 'ES').toUpperCase());
+  const endpoints = [DEEPL_ENDPOINT, "https://api.deepl.com", "https://api-free.deepl.com"];
+  let lastErr;
+  for (const base of [...new Set(endpoints)]){
+    try{
+      const res = await fetch(`${base}/v2/translate`, {
+        method: "POST",
+        headers: { Authorization: `DeepL-Auth-Key ${DEEPL_KEY}`, "Content-Type": "application/x-www-form-urlencoded" },
+        body
+      });
+      if (!res.ok) { lastErr = new Error(`DeepL ${base} HTTP ${res.status}`); continue; }
+      const data = await res.json();
+      const out = data?.translations?.[0]?.text;
+      if (out) return out;
+    }catch(e){ lastErr = e; }
   }
+  console.warn("[translate]", lastErr?.message || "fallo desconocido");
+  return text;
 }
 
-function pick(...vals) {
-  for (const v of vals) if (v !== undefined && v !== null && String(v).trim() !== "") return String(v);
-  return "";
-}
-
-function mapRssItemToArticle(item, sourceName) {
+function mapRssItemToArticle(item, sourceName){
   const link = pick(item.link?.href, item.link, item.id, item.guid, item.url);
   const url = normUrl(link);
-
-  const title = pick(item.title, item["title#text"], item["dc:title"], "");
-
+  const titleRaw = pick(item.title, item["title#text"], item["dc:title"], "");
+  const summaryRaw = pick(item.contentSnippet, item.summary, item.description, item.content, "");
+  const title = stripTags(titleRaw);
+  const summary = stripTags(summaryRaw);
   const publishedISO = toISO(pick(item.pubDate, item.published, item.updated, item.isoDate, item.date));
-  const dateShort = publishedISO ? publishedISO.slice(0, 10) : "";
-
-  const summary = pick(item.contentSnippet, item.summary, item.description, item.content, "");
-
-  // Campos alineados con tu web; sin undefined
-  return {
-    title,
-    title_es: title,             // si no hay DeepL, queda igual y la web no muestra "undefined"
-    url,
-    published: publishedISO || "",
-    date: dateShort,             // YYYY-MM-DD
-    content_es: summary,         // la web espera content_es
-    source: sourceName,
-  };
+  const dateShort = publishedISO ? publishedISO.slice(0,10) : "";
+  return { title, title_es: title, url, published: publishedISO || "", date: dateShort, content_es: summary, source: sourceName };
 }
 
-async function fetchRSS(url, sourceName) {
-  try {
-    const feed = await parser.parseURL(url);
-    const items = Array.isArray(feed.items) ? feed.items : [];
-    return items.map((it) => mapRssItemToArticle(it, sourceName));
-  } catch (e) {
-    console.warn(`[${sourceName}] Error RSS:`, e.message);
-    return [];
-  }
+async function fetchRSS(url, sourceName){
+  try{ const feed = await parser.parseURL(url); const items = Array.isArray(feed.items)?feed.items:[]; return items.map(it=>mapRssItemToArticle(it, sourceName)); }
+  catch(e){ console.warn(`[${sourceName}] Error RSS:`, e.message); return []; }
 }
 
-function dedupeByUrl(list) {
-  const seen = new Set();
-  const out = [];
-  for (const it of list) {
-    const k = normUrl(it.url);
-    if (!k || seen.has(k)) continue;
-    seen.add(k);
-    out.push({ ...it, url: k });
-  }
-  return out;
-}
+function dedupeByUrl(list){ const seen=new Set(); const out=[]; for(const it of list){ const k=normUrl(it.url); if(!k||seen.has(k)) continue; seen.add(k); out.push({...it,url:k}); } return out; }
+function sortByDateDesc(list){ return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0)); }
 
-function sortByDateDesc(list) {
-  return [...list].sort((a, b) => {
-    const ta = Date.parse(a.date || a.published || 0) || 0;
-    const tb = Date.parse(b.date || b.published || 0) || 0;
-    return tb - ta;
-  });
-}
-
-async function maybeTranslate(article) {
+async function maybeTranslate(article){
   if (!DEEPL_KEY) return article;
-  const title_es = await translateIfPossible(article.title, "ES");
-  const content_es = await translateIfPossible(article.content_es, "ES");
-  return { ...article, title_es, content_es };
+  const title_es = await deeplTranslate(article.title, "ES");
+  const content_es = await deeplTranslate(article.content_es, "ES");
+  return { ...article, title_es: title_es || article.title, content_es: content_es || article.content_es };
 }
 
-async function main() {
+async function main(){
   console.log("::group::fetch-articles.js");
-  const results = (await Promise.all(RSS_SOURCES.map(s => fetchRSS(s.url, s.name)))).flat();
+  const results = (await Promise.all(RSS_SOURCES.map(s=>fetchRSS(s.url, s.name)))).flat();
   let articles = dedupeByUrl(results);
 
-  // Traducción opcional (limita para cuidar cuota)
-  if (DEEPL_KEY && articles.length) {
+  // Priorizamos Nature en la traducción para asegurar que se traduzca siempre
+  if (DEEPL_KEY && articles.length){
+    const nature = articles.filter(a=>a.source==='Nature');
+    const rest   = articles.filter(a=>a.source!=='Nature');
+    const toTranslate = [...nature, ...rest].slice(0, TRANSLATE_LIMIT);
     const translated = [];
-    for (const it of articles.slice(0, 50)) translated.push(await maybeTranslate(it));
-    articles = [...translated, ...articles.slice(50)];
+    for (const it of toTranslate) translated.push(await maybeTranslate(it));
+    // Mezcla manteniendo orden (los no traducidos quedan con copia en inglés)
+    const translatedSet = new Set(translated.map(x=>x.url));
+    articles = sortByDateDesc([...translated, ...articles.filter(a=>!translatedSet.has(a.url))]);
+    console.log(`[translate] traducidos ${translated.length}/${articles.length} (prioridad Nature=${nature.length})`);
   }
 
   articles = sortByDateDesc(articles);
-
   ensureDirFor(OUT_PATH);
   fs.writeFileSync(OUT_PATH, JSON.stringify(articles, null, 2));
   console.log(`Guardados ${articles.length} artículos únicos en ${OUT_PATH}`);
   console.log("::endgroup::");
 }
 
-main().catch((err) => {
-  console.error("Fallo inesperado en fetch-articles:", err);
-  try {
-    ensureDirFor(OUT_PATH);
-    if (!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]");
-  } catch {}
-  process.exit(0);
-});
+main().catch(err=>{ console.error("Fallo inesperado en fetch-articles:", err); try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{} process.exit(0); });
+
