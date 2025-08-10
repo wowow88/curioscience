@@ -1,33 +1,7 @@
-// scripts/fetch-articles.js (actualizado: Nature se traduce)
-// - Alineado al esquema de la web: title, title_es, url, date (YYYY-MM-DD), source, content_es
-// - Nunca devuelve campos undefined; no inventa fechas
-// - Traducción con DeepL con fallback de endpoint (free/pro) y prioridad a Nature
-
-import fs from "fs";
-import path from "path";
-import fetch from "node-fetch";
-import RSSParser from "rss-parser";
-
-const OUT_PATH = "workspace/astro/public/articles_js.json";
-const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
-const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
-const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // si usas PRO, puedes setear https://api.deepl.com
-const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 120); // límite prudente
-
-// === FEEDS === (rellenado por ti)
-const RSS_SOURCES = [
-  { name: 'arXiv',       url: 'http://export.arxiv.org/rss/cs' },
-  { name: 'PubMed',      url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10' },
-  { name: 'Science.org', url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science' },
-  { name: 'Nature',      url: 'https://www.nature.com/nature.rss' },
-  { name: 'AEMET',       url: 'https://www.aemet.es/xml/boletin.rss' },
-  { name: 'CNIC',        url: 'https://www.cnic.es/es/rss.xml' },
-  { name: 'CNIO',        url: 'https://www.cnio.es/feed/' },
-  { name: 'ISCIII',      url: 'https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1' },
-  { name: 'IEO',         url: 'https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss' },
-  { name: 'IAC',         url: 'https://www.iac.es/en/rss.xml' },
-];
-
+// scripts/fetch-articles.js (limpio y sin duplicados)
+// - Traduce con DeepL Free priorizando Nature
+// - Fuerza source_lang='EN' para Nature/Science.org/PubMed/arXiv
+// - No inventa fechas ni devuelve undefined
 
 import fs from "fs";
 import path from "path";
@@ -63,7 +37,7 @@ function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && S
 function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=''; url.search=''; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
 function stripTags(html=''){ return String(html).replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>'); }
 
-// Feeds que sabemos que vienen en inglés → forzar EN para DeepL Free
+// Feeds en inglés → fuerza EN para DeepL Free
 const FORCE_EN = new Set(["Nature", "Science.org", "PubMed", "arXiv"]);
 
 async function deeplTranslate(text, targetLang, sourceLang){
@@ -72,26 +46,16 @@ async function deeplTranslate(text, targetLang, sourceLang){
   body.set("text", String(text).slice(0, 4000));
   body.set("target_lang", String(targetLang || 'ES').toUpperCase());
   if (sourceLang) body.set("source_lang", String(sourceLang).toUpperCase());
-
-  // Solo usamos Free por defecto; si alguien define DEEPL_ENDPOINT, se respeta
-  const base = DEEPL_ENDPOINT;
   try{
-    const res = await fetch(`${base}/v2/translate`, {
+    const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
       method: "POST",
       headers: { Authorization: `DeepL-Auth-Key ${DEEPL_KEY}`, "Content-Type": "application/x-www-form-urlencoded" },
       body
     });
-    if (!res.ok){
-      console.warn(`[translate] ${base} HTTP ${res.status}`);
-      return text;
-    }
+    if (!res.ok){ console.warn(`[translate] ${DEEPL_ENDPOINT} HTTP ${res.status}`); return text; }
     const data = await res.json();
-    const out = data?.translations?.[0]?.text;
-    return out || text;
-  }catch(e){
-    console.warn("[translate]", e.message);
-    return text;
-  }
+    return data?.translations?.[0]?.text || text;
+  }catch(e){ console.warn("[translate]", e.message); return text; }
 }
 
 function mapRssItemToArticle(item, sourceName){
@@ -111,10 +75,7 @@ async function fetchRSS(url, sourceName){
     const feed = await parser.parseURL(url);
     const items = Array.isArray(feed.items) ? feed.items : [];
     return items.map(it => mapRssItemToArticle(it, sourceName));
-  }catch(e){
-    console.warn(`[${sourceName}] Error RSS:`, e.message);
-    return [];
-  }
+  }catch(e){ console.warn(`[${sourceName}] Error RSS:`, e.message); return []; }
 }
 
 function dedupeByUrl(list){ const seen=new Set(); const out=[]; for(const it of list){ const k=normUrl(it.url); if(!k||seen.has(k)) continue; seen.add(k); out.push({...it,url:k}); } return out; }
@@ -133,7 +94,6 @@ async function main(){
   const results = (await Promise.all(RSS_SOURCES.map(s=>fetchRSS(s.url, s.name)))).flat();
   let articles = dedupeByUrl(results);
 
-  // Prioriza Nature para traducir primero y garantiza que entra en el límite
   if (DEEPL_KEY && articles.length){
     const first = articles.filter(a=>a.source==='Nature');
     const rest  = articles.filter(a=>a.source!=='Nature');
@@ -153,3 +113,4 @@ async function main(){
 }
 
 main().catch(err=>{ console.error("Fallo inesperado en fetch-articles:", err); try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{} process.exit(0); });
+
