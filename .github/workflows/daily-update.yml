@@ -151,3 +151,4 @@ async function main(){
 }
 
 main().catch(e=>{ console.error("Fallo en backfill-translate:", e); process.exit(1); });
+
