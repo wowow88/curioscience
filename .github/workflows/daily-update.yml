@@ -2,9 +2,21 @@ name: Daily Articles Update
 
 on:
   workflow_dispatch:
+    inputs:
+      run_backfill:
+        description: "Ejecutar backfill de traducciones (histórico)"
+        required: false
+        default: "false"
+      backfill_limit:
+        description: "Máximo de artículos a traducir en backfill"
+        required: false
+        default: "400"
+      sleep_ms:
+        description: "Pausa entre llamadas DeepL (ms)"
+        required: false
+        default: "800"
   schedule:
-    # Ejecuta cada día a las 05:15 UTC (~07:15 Europa/Madrid en verano)
-    - cron: '15 5 * * *'
+    - cron: '15 5 * * *'  # 05:15 UTC ≈ 07:15 Europa/Madrid (verano)
 
 permissions:
   contents: write
@@ -25,6 +37,9 @@ jobs:
     env:
       DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      USER_AGENT: curioscience-bot/1.0 (+https://tu-dominio)
+      TRANSLATE_LIMIT: 200
+
     steps:
       - name: "Checkout"
         uses: actions/checkout@v4
@@ -36,21 +51,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: "Instalar dependencias Python (si existen)"
+      - name: "Instalar dependencias Python"
         run: |
           set -euo pipefail
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
-          else
-            pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
           fi
+          pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
 
       - name: "Setup Node.js"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: "Instalar dependencias Node (root y Astro, si aplican)"
+      - name: "Instalar dependencias Node (root y Astro si aplican)"
         run: |
           set -euo pipefail
           if [ -f package.json ]; then
@@ -59,8 +74,8 @@ jobs:
             echo '{"name":"ci-temp","private":true,"type":"module"}' > package.json
             npm install --no-audit --no-fund
           fi
-          # Dependencias necesarias para fetch-articles.js si no hay proyecto Node definido
-          npm install --no-audit --no-fund node-fetch@3 rss-parser franc
+          # Paquetes usados por fetch/backfill
+          npm install --no-audit --no-fund node-fetch@3 rss-parser franc fast-xml-parser p-limit
           if [ -f workspace/astro/package.json ]; then
             pushd workspace/astro
             if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
@@ -109,7 +124,8 @@ jobs:
           else
             echo "No se encontró merge-articles.js" && exit 1
           fi
-      - name: "Validación rápida de archivos generados (logs + conteos)"
+
+      - name: "Validación rápida de archivos generados"
         run: |
           set -euo pipefail
           for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
@@ -123,50 +139,37 @@ jobs:
             echo "::endgroup::"
           done
 
-      - name: "Validar fusión: superset, sin duplicados y orden por fecha"
+      - name: "Validar fusión: superset + sin duplicados + orden fecha"
         uses: actions/github-script@v7
         with:
           script: |
-            const fs = require('fs');            const base = 'workspace/astro/public';
-            const files = {
-              py: `${base}/articles_py.json`,
-              js: `${base}/articles_js.json`,
-              merged: `${base}/articles.json`,
-            };
+            const fs = require('fs');
+            const core = require('@actions/core');
+            const base = 'workspace/astro/public';
+            const files = { py: `${base}/articles_py.json`, js: `${base}/articles_js.json`, merged: `${base}/articles.json` };
             const dateField = 'date';
             const read = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
-            const id = (it) => String((it.id||it.ID||it.doi||it.DOI||it.url||it.link||'').trim().toLowerCase().replace(/[\s?#]+/g,''));
-            const t  = (it) => { const d = it[dateField]||it.published||it.publishedAt||it.datePublished||''; const tt = Date.parse(d); return Number.isFinite(tt)?tt:0; };
-            const py = read(files.py);
-            const js = read(files.js);
-            const merged = read(files.merged);
+            const id   = (it) => String((it.id||it.ID||it.doi||it.DOI||it.url||it.link||'').trim().toLowerCase().replace(/[\s?#]+/g,''));
+            const t    = (it) => { const d = it[dateField]||it.published||it.publishedAt||it.datePublished||''; const tt = Date.parse(d); return Number.isFinite(tt)?tt:0; };
+            const py = read(files.py), js = read(files.js), merged = read(files.merged);
             core.info(`PY: ${py.length} | JS: ${js.length} | MERGED: ${merged.length}`);
             const mergedIds = new Set(merged.map(id));
             const missPy = py.filter(x=>!mergedIds.has(id(x)));
             const missJs = js.filter(x=>!mergedIds.has(id(x)));
             if (missPy.length||missJs.length){
-              if(missPy.length) core.error('- Faltan de PY (ids): ' + missPy.map(id).slice(0,20).join(', '));
-              if(missJs.length) core.error('- Faltan de JS (ids): ' + missJs.map(id).slice(0,20).join(', '));
-              core.setFailed('articles.json no contiene todo el superset PY+JS');
+              if(missPy.length) core.error('Faltan de PY: ' + missPy.map(id).slice(0,20).join(', '));
+              if(missJs.length) core.error('Faltan de JS: ' + missJs.map(id).slice(0,20).join(', '));
+              core.setFailed('articles.json NO es superset de PY+JS');
               return;
             }
-            core.info('articles.json contiene todas las entradas de PY y JS.');
-            const seen = new Set(); const dups = [];
-            for (const it of merged){ const k = id(it); if(seen.has(k)) dups.push(k); seen.add(k);} 
-            if (dups.length){
-              core.setFailed('Duplicados en articles.json (ej.: ' + dups.slice(0,20).join(', ') + ')');
-              return;
-            }
-            core.info('Sin duplicados en articles.json.');
-            let inOrder = true;
-            for (let i=1;i<merged.length;i++){ if (t(merged[i])>t(merged[i-1])) { inOrder=false; break; } }
-            if (!inOrder){
-              core.setFailed('articles.json no está ordenado por fecha descendente.');
-              return;
-            }
-            core.info('Orden correcto por fecha descendente.');
+            core.info('Superset OK.');
+            const seen = new Set();
+            for (const it of merged){ const k=id(it); if(seen.has(k)) { core.setFailed('Duplicados en articles.json (ej.: '+k+')'); return; } seen.add(k);} 
+            core.info('Sin duplicados.');
+            for (let i=1;i<merged.length;i++){ if (t(merged[i])>t(merged[i-1])) { core.setFailed('No está ordenado por fecha desc.'); return; } }
+            core.info('Orden por fecha descendente OK.');
 
-      - name: "Proteger histórico frente a regresiones (>20% menos que el commit previo)"
+      - name: "Proteger histórico (>20% menos que el commit previo)"
         run: |
           set -euo pipefail
           CUR=$(jq 'length' "$FINAL_JSON")
@@ -179,7 +182,30 @@ jobs:
             fi
           fi
 
-      - name: "Build Astro (opcional, si existe)"
+      - name: "Backfill traducciones históricas (opcional)"
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_backfill == 'true' }}
+        env:
+          BACKFILL_LIMIT: ${{ github.event.inputs.backfill_limit }}
+          SLEEP_MS: ${{ github.event.inputs.sleep_ms }}
+        run: |
+          set -euo pipefail
+          if [ -f scripts/backfill-translate.js ]; then
+            node scripts/backfill-translate.js
+          else
+            echo "scripts/backfill-translate.js no existe. Sáltate este paso o súbelo al repo." && exit 1
+          fi
+
+      - name: "Validación rápida tras backfill (si corrió)"
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_backfill == 'true' }}
+        run: |
+          set -euo pipefail
+          f="$FINAL_JSON"
+          test -s "$f" || (echo "$f no existe o está vacío" && exit 1)
+          jq . "$f" >/dev/null
+          echo "Entradas: $(jq 'length' "$f")"
+          echo "Primeras 3 entradas:"; jq -c '.[0:3]' "$f" || true
+
+      - name: "Build Astro (opcional)"
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: npm run build
