@@ -1,22 +1,22 @@
-// scripts/fetch-articles.js (forzar traducción en todas las fuentes)
+// scripts/fetch-articles.js (forzar traducción en TODAS las fuentes)
 // - Traduce títulos y resúmenes con DeepL Free para TODAS las fuentes.
-// - Detecta idioma con franc; si ya es ES, no traduce; si es EN (u otro), fuerza source_lang para evitar fallos de autodetección.
-// - Prioriza Nature en la cola, pero aplica a todas.
-// - No inventa fechas, no devuelve undefined, deduplica por URL normalizada.
+// - Usa franc para detectar idioma; si no puede, asume EN para forzar source_lang.
+// - Si ya está en ES, no traduce (ahorra cuota).
+// - No inventa fechas ni devuelve undefined; deduplica por URL normalizada.
 
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import RSSParser from "rss-parser";
-import { franc } from "franc"; // ISO 639-3 (eng, spa, fra, ...)
+import { franc } from "franc"; // ISO 639-3 (eng, spa, ...)
 
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
 const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
 const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // Free por defecto
-const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 200); // ajusta si quieres
+const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 200);
 
-// === FEEDS === (rellena con tus URLs; ejemplo con las tuyas)
+// === FEEDS === (tus URLs)
 const RSS_SOURCES = [
   { name: 'arXiv',       url: 'http://export.arxiv.org/rss/cs' },
   { name: 'PubMed',      url: 'https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10' },
@@ -39,16 +39,12 @@ function pick(...vals){ for (const v of vals) if (v!==undefined && v!==null && S
 function normUrl(u=""){ const s=String(u||"").trim(); if(!s) return ""; try{ const url=new URL(s); url.hash=''; url.search=''; return url.toString().toLowerCase(); }catch{ return s.toLowerCase(); } }
 function stripTags(html=''){ return String(html).replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>'); }
 
-// Mapa de franc (ISO-639-3) -> DeepL (2 letras)
-const LANG_MAP = {
-  eng: 'EN', spa: 'ES', fra: 'FR', deu: 'DE', ita: 'IT', por: 'PT', nld: 'NL', pol: 'PL', rus: 'RU', jpn: 'JA', zho: 'ZH',
-  bul: 'BG', ces: 'CS', dan: 'DA', ell: 'EL', est: 'ET', fin: 'FI', hun: 'HU', lit: 'LT', lav: 'LV', ron: 'RO', slk: 'SK', slv: 'SL', swe: 'SV', tur: 'TR', ukr: 'UK'
-};
-function detectDeepLLang(text, hint){
+// franc (ISO-639-3) -> DeepL (2 letras)
+const LANG_MAP = { eng:'EN', spa:'ES', fra:'FR', deu:'DE', ita:'IT', por:'PT', nld:'NL', pol:'PL', rus:'RU', jpn:'JA', zho:'ZH', bul:'BG', ces:'CS', dan:'DA', ell:'EL', est:'ET', fin:'FI', hun:'HU', lit:'LT', lav:'LV', ron:'RO', slk:'SK', slv:'SL', swe:'SV', tur:'TR', ukr:'UK' };
+function detectDeepLLang(text){
   const sample = String(text || '').slice(0, 800);
-  let code3 = franc(sample, { minLength: 10 }); // 'eng', 'spa', or 'und'
-  if (code3 === 'und' && hint) return hint; // usa pista si franc no sabe
-  return LANG_MAP[code3]; // puede ser undefined → dejamos que DeepL autodetecte
+  const code3 = franc(sample, { minLength: 10 }); // 'eng' | 'spa' | 'und'...
+  return LANG_MAP[code3]; // undefined ⇒ dejaremos EN por defecto
 }
 
 async function deeplTranslate(text, targetLang, sourceLang){
@@ -82,22 +78,18 @@ function mapRssItemToArticle(item, sourceName){
 }
 
 async function fetchRSS(url, sourceName){
-  try{
-    const feed = await parser.parseURL(url);
-    const items = Array.isArray(feed.items) ? feed.items : [];
-    return items.map(it => mapRssItemToArticle(it, sourceName));
-  }catch(e){ console.warn(`[${sourceName}] Error RSS:`, e.message); return []; }
+  try{ const feed = await parser.parseURL(url); const items = Array.isArray(feed.items) ? feed.items : []; return items.map(it => mapRssItemToArticle(it, sourceName)); }
+  catch(e){ console.warn(`[${sourceName}] Error RSS:`, e.message); return []; }
 }
 
 function dedupeByUrl(list){ const seen=new Set(); const out=[]; for(const it of list){ const k=normUrl(it.url); if(!k||seen.has(k)) continue; seen.add(k); out.push({...it,url:k}); } return out; }
 function sortByDateDesc(list){ return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0)); }
 
 async function translateArticle(article){
-  if (!DEEPL_KEY) return article; // sin clave → deja original
-  // Detecta idioma a partir de título+resumen
-  const hintBySource = /^(Nature|Science\.org|PubMed|arXiv)$/i.test(article.source) ? 'EN' : undefined;
-  const detected = detectDeepLLang(`${article.title} ${article.content_es}`, hintBySource);
-  if (detected === 'ES') return { ...article, title_es: article.title, content_es: article.content_es }; // ya está en español
+  if (!DEEPL_KEY) return article;
+  // Detecta; si no sabe, forzamos EN; si detecta ES, no traducimos
+  const detected = detectDeepLLang(`${article.title} ${article.content_es}`) || 'EN';
+  if (detected === 'ES') return { ...article, title_es: article.title, content_es: article.content_es };
   const title_es   = await deeplTranslate(article.title,      'ES', detected);
   const content_es = await deeplTranslate(article.content_es, 'ES', detected);
   return { ...article, title_es: title_es || article.title, content_es: content_es || article.content_es };
@@ -108,19 +100,17 @@ async function main(){
   const results = (await Promise.all(RSS_SOURCES.map(s=>fetchRSS(s.url, s.name)))).flat();
   let articles = dedupeByUrl(results);
 
-  // Cola de traducción: Nature primero, pero aplicamos a TODAS
+  // Ordena por fecha y traduce los N primeros más recientes (todas las fuentes)
+  articles = sortByDateDesc(articles);
   if (DEEPL_KEY && articles.length){
-    const priority = articles.filter(a=>a.source==='Nature');
-    const others   = articles.filter(a=>a.source!=='Nature');
-    const queue = [...priority, ...others].slice(0, TRANSLATE_LIMIT);
+    const queue = articles.slice(0, TRANSLATE_LIMIT);
     const translated = [];
     for (const it of queue) translated.push(await translateArticle(it));
     const translatedSet = new Set(translated.map(x=>x.url));
     articles = sortByDateDesc([...translated, ...articles.filter(a=>!translatedSet.has(a.url))]);
-    console.log(`[translate] traducidos ${translated.length}/${articles.length} (Nature prioridad: ${priority.length})`);
+    console.log(`[translate] traducidos ${translated.length}/${articles.length}`);
   }
 
-  articles = sortByDateDesc(articles);
   ensureDirFor(OUT_PATH);
   fs.writeFileSync(OUT_PATH, JSON.stringify(articles, null, 2));
   console.log(`Guardados ${articles.length} artículos únicos en ${OUT_PATH}`);
