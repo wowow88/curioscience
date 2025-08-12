@@ -1,5 +1,213 @@
 [
   {
+    "title": "Cut2Next: Generating Next Shot via In-Context Tuning",
+    "title_es": "CUT2Next: Generación del siguiente disparo a través de la sintonización en contexto",
+    "url": "http://arxiv.org/abs/2508.08244v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "La generación efectiva de múltiples disparos exige transiciones con forma de película,\nContinuidad cinematográfica estricta. Los métodos actuales, sin embargo, a menudo priorizan básico\nconsistencia visual, descuidando patrones de edición cruciales (por ejemplo, disparo/reverso\ndisparado, cortes) que impulsan el flujo narrativo para la narración convincente. Este\nproduce resultados que pueden ser visualmente coherentes pero carecen de sofisticación narrativa\ne verdadera integridad cinematográfica. Para unir esto, presentamos la próxima generación de disparos\n(NSG): sintetizar una toma posterior y de alta calidad que se ajuste críticamente a\nPatrones de edición profesional mientras mantiene una rigurosa continuidad cinematográfica.\nNuestro marco, Cut2Next, aprovecha un transformador de difusión (DIT). Emplea\nSintonización en contexto guiado por una nueva estrategia jerárquica de prompting múltiple. Este\nLa estrategia utiliza indicaciones relacionales para definir el contexto general y\nEstilos de edición. Las indicaciones individuales luego especifican contenido por disparo y\nAtributos cinematográficos. Juntos, estas guías Cut2Next para generar\nCinemáticamente apropiadas próximas tomas. Innovaciones arquitectónicas, consciente del contexto\nInyección de condición (CACI) y máscara de atención jerárquica (jamón), más allá\nIntegre estas diversas señales sin introducir nuevos parámetros. Nosotros\nConstruya conjuntos de datos RAWCUTS (a gran escala) y curatedcuts (refinados), ambos con\nindicaciones jerárquicas e introducir Cutbench para la evaluación. Experimentos Mostrar\nCut2Next sobresale en consistencia visual y fidelidad de texto. Crucialmente, usuario\nLos estudios revelan una fuerte preferencia por Cut2Next, particularmente por su adherencia\na los patrones de edición previstos y la continuidad cinematográfica general, validando su\ncapacidad de generar alta calidad, narrativamente expresivo y cinemato\ndisparos posteriores coherentes."
+  },
+  {
+    "title": "VGGSounder: Audio-Visual Evaluations for Foundation Models",
+    "title_es": "VGGSounder: evaluaciones audiovisuales para modelos de cimientos",
+    "url": "http://arxiv.org/abs/2508.08237v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "La aparición de modelos de base audiovisuales subraya la importancia de\nevaluando de manera confiable su comprensión multimodal. El conjunto de datos de VGGSounder es\ncomúnmente utilizado como punto de referencia para la clasificación de audiovisual de evaluación.\nSin embargo, nuestro análisis identifica varias limitaciones de VGGSounder, incluido\nEtiquetado incompleto, clases parcialmente superpuestas y modalidades desalineadas.\nEstos conducen a evaluaciones distorsionadas de capacidades auditivas y visuales. A\nabordar estas limitaciones, presentamos VGGSounder, una exhaustiva\nConjunto de prueba de múltiples etiquetas reannotado que extiende VGGSound y es específicamente\nDiseñado para evaluar modelos de base audiovisuales. Características de VGGSounder\nAnotaciones de modalidad detalladas, que habilitan análisis precisos de modalidad específica\nactuación. Además, revelamos limitaciones del modelo analizando el rendimiento\ndegradación al agregar otra modalidad de entrada con nuestra nueva confusión de modalidad\nmétrico."
+  },
+  {
+    "title": "LL3M: Large Language 3D Modelers",
+    "title_es": "LL3M: modeladores 3D de gran idioma",
+    "url": "http://arxiv.org/abs/2508.08228v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Presentamos LL3M, un sistema de múltiples agentes que aprovecha el petróleo grande\nModelos de idiomas (LLM) para generar activos 3D escribiendo Python interpretable\ncódigo en la licuadora. Nos separamos del enfoque generativo típico que aprende\nDe una colección de datos 3D. En cambio, reformulamos la generación de formas como un\nTarea de escritura de código, habilitando una mayor modularidad, capacidad de edición e integración\ncon flujos de trabajo del artista. Dado un mensaje de texto, LL3M coordina un equipo de\nAgentes especializados de LLM para planificar, recuperar, escribir, depurar y refinar licuadora\nScripts que generan y editan geometría y apariencia. El código generado\nFunciona como un de alto nivel, interpretable, legible y bien documentado\nRepresentación de escenas y objetos, haciendo uso completo de una licuadora sofisticada\nconstrucciones (por ejemplo, mallas B, modificadores de geometría, nodos de sombreador) para diversos,\nformas, materiales y escenas sin restricciones. Este código presenta muchas vías\npara más edición y experimentación de agentes y humanos a través de ajustes de código o\nParámetros de procedimiento. Este medio naturalmente habilita un bucle co-creativo en nuestro\nSistema: los agentes pueden automáticamente autocríticas utilizando código y imágenes, mientras que\nLas instrucciones iterativas del usuario proporcionan una forma intuitiva de refinar los activos. Un compartido\nEl contexto del código entre los agentes permite la conciencia de los intentos anteriores y un\nBase de conocimiento de generación de recuperación de recuperación construida a partir de la API de la licuadora\nDocumentación, Blenderrag, Equips agentes con ejemplos, tipos y funciones\nEmpoderar las operaciones de modelado avanzado y la corrección del código. Demostramos\nLa efectividad de LL3M en diversas categorías de forma, estilo y material\nediciones y refinamientos impulsados por el usuario. Nuestros experimentos muestran el poder del código\nComo medio generativo e interpretable para la creación de activos 3D. Nuestro proyecto\nLa página está en https://threedle.github.io/ll3m."
+  },
+  {
+    "title": "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution",
+    "title_es": "OMGSR: Solo necesita una guía de mediano plazo para la súper resolución de la imagen del mundo real",
+    "url": "http://arxiv.org/abs/2508.08227v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Modelos probabilísticos de difusión de difusión (DDPM) y coincidencia de flujo (FM) (FM)\nLos modelos generativos muestran un potencial prometedor para una imagen del mundo real de un solo paso\nSuper-resolución (Real-ISR). Los modelos recientes de ISR reales de un solo paso generalmente inyectan un\nDistribución latente de imagen de baja calidad (LQ) en el tiempo de tiempo inicial. Sin embargo, un\nExiste la brecha fundamental entre la distribución latente de la imagen LQ y el\nDistribución latente ruidosa gaussiana, que limita la utilización efectiva de\nPriors generativos. Observamos que la distribución latente ruidosa en DDPM/FM\nMid-Timesteps se alinea más estrechamente con la distribución latente de la imagen LQ. Basado\nSobre esta idea, presentamos una orientación de Timestep Real-ISR (OMGSR), un\nMarco universal aplicable a los modelos generativos basados en DDPM/FM. Omgsr\ninyecta la distribución latente de la imagen LQ en un medio-tiempo precomputado,\nincorporando la pérdida de refinamiento de distribución latente propuesta para aliviar el\nbrecha de distribución latente. También diseñamos la pérdida de LPIPS/GaN-GaN con superposición a\nElimine los artefactos de tablero de ajedrez en la generación de imágenes. Dentro de este marco, nosotros\nInstanciar OMGSR para modelos generativos basados en DDPM/FM con dos variantes:\nOMGSR-S (SD-TURBO) y OMGSR-F (flux.1-dev). Los resultados experimentales demuestran\nque OMGSR-S/F alcanza un rendimiento equilibrado/excelente a través de cuantitativa y\nMétricas cualitativas a 512 resolución. En particular, OMGSR-F establece\nDominio abrumador en todas las métricas de referencia. Entrenamos aún más a un\n1k-resolución OMGSR-F para que coincida con la resolución predeterminada de Flux.1-Dev, que\nproduce excelentes resultados, especialmente en los detalles de la generación de imágenes. Nosotros\nTambién genere imágenes de resolución de 2k por la resolución de 1k OMGSR-F usando nuestro\nVAE y difusión de mosaicos de dos etapas."
+  },
+  {
+    "title": "Capabilities of GPT-5 on Multimodal Medical Reasoning",
+    "title_es": "Capacidades de GPT-5 en razonamiento médico multimodal",
+    "url": "http://arxiv.org/abs/2508.08224v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Los avances recientes en modelos de idiomas grandes (LLM) han habilitado el propósito general\nsistemas para realizar un razonamiento de dominio cada vez más complejo sin\nextenso ajuste fino. En el dominio médico, la toma de decisiones a menudo requiere\nIntegrando fuentes de información heterogénea, incluidas las narrativas de los pacientes,\ndatos estructurados e imágenes médicas. Este estudio posiciona a GPT-5 como generalista\nrazonador multimodal para el apoyo a la decisión médica y evalúa sistemáticamente\nSu rendimiento de razonamiento de la cadena de pensamiento cero en ambos de texto\nPregunta respondiendo y a las tareas de respuesta de preguntas visuales bajo un unificado\nprotocolo. Benchmark GPT-5, GPT-5-Mini, GPT-5-Nano y GPT-4O-2024-11-20\nContra divisiones estandarizadas de Medqa, Medxpertqa (texto y multimodal), MMLU\nsubconjuntos médicos, exámenes de autoevaluación de USMLE y VQA-Rad. Los resultados muestran que\nGPT-5 supera constantemente todas las líneas de base, logrando\nprecisión en todos los puntos de referencia de control de calidad y entregando ganancias sustanciales en\nrazonamiento multimodal. En Medxpertqa MM, GPT-5 mejora el razonamiento y\nComprensión de los puntajes en +29.62% y +36.18% sobre GPT-4O, respectivamente, y\nsupera los expertos humanos pre-licenciosos en +24.23% en razonamiento y +29.40% en\ncomprensión. En contraste, GPT-4O permanece por debajo del rendimiento de los expertos humanos en\nla mayoría de las dimensiones. Un estudio de caso representativo demuestra la capacidad de GPT-5 para\nIntegre las señales visuales y textuales en una cadena de razonamiento de diagnóstico coherente,\nRecomendar intervenciones apropiadas de alto riesgo. Nuestros resultados muestran que, en\nEstos puntos de referencia de razonamiento multimodal controlados, GPT-5 se mueven desde\nHumano-comparable a la actuación superior a la experiencia humana. Esta mejora puede\nInforme sustancialmente el diseño de futuros sistemas de apoyo a la decisión clínica."
+  },
+  {
+    "title": "Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent",
+    "title_es": "Transformadores de múltiples cabezas Probablemente, aprenda un razonamiento simbólico de múltiples pasos a través de descenso de gradiente",
+    "url": "http://arxiv.org/abs/2508.08222v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Los transformadores han demostrado capacidades notables en múltiples pasos\ntareas de razonamiento. Sin embargo, entendimientos de los mecanismos subyacentes por los cuales\nadquieren estas habilidades a través de la capacitación siguen siendo limitadas, particularmente de\nun punto de vista teórico. Este trabajo investiga cómo los transformadores aprenden a\nResolver problemas simbólicos de razonamiento de varios pasos a través de la cadena de pensamiento\nProcesos, centrándose en la búsqueda de rutas en los árboles. Analizamos dos tareas entrelazadas:\nuna tarea de razonamiento hacia atrás, donde el modelo genera una ruta de un nodo objetivo a\nla raíz y una tarea de razonamiento avanzada más compleja, donde el modelo implementa\nrazonamiento de dos etapas identificando primero la ruta del objetivo de la raíz y luego\ninvertirlo para producir la ruta de la raíz a la gol. Nuestro análisis teórico,\nbasado en la dinámica de la descendencia de gradiente, muestra que la una capa entrenada\nLos transformadores pueden resolver ambas tareas con garantías de generalización para\nárboles invisibles. En particular, nuestra dinámica de entrenamiento multifase para adelante\nEl razonamiento aclara cómo los diferentes cabezas de atención aprenden a especializarse y\nCoordinar de forma autónoma para resolver las dos subtareas en una sola autorregresiva\ncamino. Estos resultados proporcionan una explicación mecanicista de cómo entrenado\nLos transformadores pueden implementar procedimientos algorítmicos secuenciales. Además, ellos\nofrecer información sobre la aparición de habilidades de razonamiento, lo que sugiere que cuando\nLas tareas están estructuradas para tomar pasos intermedios de la cadena de pensamiento, incluso superficiales\nLos transformadores de múltiples cabezas pueden resolver efectivamente problemas que de otro modo\nrequieren arquitecturas más profundas."
+  },
+  {
+    "title": "SAEMark: Multi-bit LLM Watermarking with Inference-Time Scaling",
+    "title_es": "Saemark: marca de agua LLM de múltiples bits con escala de tiempo de inferencia",
+    "url": "http://arxiv.org/abs/2508.08211v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "El texto generado por la marca de agua de LLM es fundamental para la atribución de contenido y\nPrevención de información errónea. Sin embargo, los métodos existentes comprometen la calidad del texto,\nrequiere acceso al modelo de caja blanca y manipulación logit. Estas limitaciones\nExcluir modelos basados en API y escenarios multilingües. Proponemos Saemark, un\nMarco general para la marca de agua de múltiples bits post-hoc que incorpora personalizada\nmensajes únicamente a través de un muestreo de rechazo basado en características de tiempo inferido sin características sin\nalterar logits del modelo o requerir capacitación. Nuestro enfoque opera en\ncaracterísticas deterministas extraídas del texto generado, seleccionando salidas cuyas\nLas estadísticas de características se alinean con los objetivos derivados clave. Este marco naturalmente\nse generaliza en todos los idiomas y dominios al tiempo que preserva la calidad del texto a través de\nmuestras de salidas LLM en lugar de modificar. Proporcionamos garantías teóricas\nrelacionarse con la probabilidad de éxito de la marca de agua y calcular el presupuesto que se mantiene para cualquier\nExtractor de características adecuado. Empíricamente, demostramos el marco\nefectividad utilizando autoencoders dispersos (SAE), logrando una detección superior\nprecisión y calidad de texto. Los experimentos en 4 conjuntos de datos muestran saemark's\nrendimiento constante, con 99.7% F1 en inglés y detección de múltiples bits fuertes\nexactitud. Saemark establece un nuevo paradigma para la marca de agua escalable que\nFunciona fuera de la caja con LLM de código cerrado mientras habilita el contenido\natribución."
+  },
+  {
+    "title": "Human-Alignment and Calibration of Inference-Time Uncertainty in Large Language Models",
+    "title_es": "Alineación humana y calibración de la incertidumbre de la inferencia en modelos de idiomas grandes",
+    "url": "http://arxiv.org/abs/2508.08204v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Ha habido mucho interés reciente en evaluar modelos de idiomas grandes para\nCalibración de incertidumbre para facilitar el control del modelo y modular la confianza del usuario.\nIncertidumbre del tiempo de inferencia, que puede proporcionar una señal en tiempo real al modelo\no módulos de control externos, es particularmente importante para aplicar estos\nConceptos para mejorar la experiencia del usuario de LLM en la práctica. Mientras que muchos de los existentes\nLos documentos consideran la calibración del modelo, relativamente poco trabajo ha buscado\nEvalúe cómo se alinea la incertidumbre de estrechamente con la incertidumbre humana. En esto\nTrabajo, evaluamos una colección de medidas de incertidumbre de tiempo de inferencia, utilizando\nTanto las métricas establecidas como las nuevas variaciones, para determinar cuán de cerca\nAlinearse tanto con la incertidumbre a nivel de grupo humano como con las nociones tradicionales del modelo\ncalibración. Encontramos que numerosas medidas muestran evidencia de una fuerte alineación.\na la incertidumbre humana, incluso a pesar de la falta de alineación a la respuesta humana\npreferencia. Para esas métricas exitosas, encontramos evidencia moderada a fuerte\nde calibración del modelo en términos de correlación de corrección y\nAnálisis de distribución."
+  },
+  {
+    "title": "Street-Level AI: Are Large Language Models Ready for Real-World Judgments?",
+    "title_es": "AI a nivel de calle: ¿Están listos grandes modelos de idiomas listos para juicios del mundo real?",
+    "url": "http://arxiv.org/abs/2508.08193v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Una oleada de trabajo reciente explora las implicaciones éticas y sociales de\nModelos de IA a gran escala que hacen juicios \"morales\". Gran parte de esta literatura\nse centra en la alineación con los juicios humanos a través de varios pensamientos\nExperimentos o sobre las implicaciones grupales de equidad de los juicios de IA. Sin embargo, el\nEl uso más inmediato y probable de IA es ayudar o reemplazar completamente el llamado\nburócratas a nivel de calle, las personas que deciden asignar escasas sociales\nrecursos o aprobar beneficios. Hay una rica historia subyacente a cómo\nPrincipios de la justicia local Determinar cómo la sociedad decide sobre la priorización\nmecanismos en tales dominios. En este documento, examinamos qué tan bien los juicios de LLM\nalinearse con los juicios humanos, así como con la determinación social y políticamente determinada\nLos sistemas de puntuación de vulnerabilidad se utilizan actualmente en el dominio de la falta de vivienda\nAsignación de recursos. De manera crucial, utilizamos datos reales sobre aquellos que necesitan servicios\n(mantener una confidencialidad estricta solo utilizando modelos grandes locales) para\nrealizar nuestros análisis. Encontramos que las priorizaciones de LLM son extremadamente\ninconsistente de varias maneras: internamente en diferentes carreras, entre diferentes\nLLMS, y entre LLM y los sistemas de puntuación de vulnerabilidad. Al mismo tiempo,\nLLMS demuestra una consistencia cualitativa con juicios humanos laicos en pares\npruebas. Los resultados cuestionan la preparación de la AI de la generación actual\nSistemas para la integración ingenua en la toma de decisiones sociales de alto riesgo."
+  },
+  {
+    "title": "RedDino: A foundation model for red blood cell analysis",
+    "title_es": "Reddino: un modelo de base para el análisis de glóbulos rojos",
+    "url": "http://arxiv.org/abs/2508.08180v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Los glóbulos rojos (glóbulos rojos) son esenciales para la salud humana, y su preciso\nEl análisis morfológico es importante para diagnosticar trastornos hematológicos.\nA pesar de la promesa de los modelos básicos en diagnósticos médicos, integrales\nLas soluciones de IA para el análisis RBC siguen siendo escasas. Presentamos a Reddino, un\nModelo de base auto-supervisado diseñado para el análisis de imágenes RBC. Reddino usa\nUna adaptación específica de RBC del marco de aprendizaje auto-supervisado de Dinov2 y\nestá capacitado en un conjunto de datos curado de 1.25 millones de imágenes de RBC de diversas\nModalidades de adquisición y fuentes. Evaluaciones extensas muestran que Reddino\nSuperpa los modelos de vanguardia existentes en la clasificación de forma RBC.\nA través de evaluaciones que incluyen sondeo lineal y vecino más cercano\nClasificación, confirmamos sus fuertes representaciones de características y\ncapacidad de generalización. Nuestras principales contribuciones son: (1) un modelo de base\nAdministrado para el análisis RBC, (2) estudios de ablación que exploran las configuraciones de Dinov2\nPara el modelado de RBC, y (3) una evaluación detallada del rendimiento de la generalización.\nReddino aborda los desafíos clave en la hematología computacional capturando\nCaracterísticas morfológicas matizadas, avanzando el desarrollo de confiables\nHerramientas de diagnóstico. El código fuente y los modelos previos a los retrasos para Reddino son\nDisponible en https://github.com/snarci/reddino, y los modelos previos a\nser descargado de nuestra colección de abrazaderas de abrazos en\nhttps://huggingface.co/collections/snarcy/reddino-689a13e29241d2e5690202fc"
+  },
+  {
+    "title": "MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision",
+    "title_es": "MedRazerer: Reforzing Learning impulsa el razonamiento de la base del pensamiento clínico hasta la precisión a nivel de píxel",
+    "url": "http://arxiv.org/abs/2508.08177v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Las regiones de interés de interés con precisión (ROI) son críticas para el diagnóstico y\nPlanificación del tratamiento en imágenes médicas. Mientras que los modelos de lenguaje grande multimodal\n(Mllms) Combinar la percepción visual con lenguaje natural, actual\nLas tuberías de tierra médica aún dependen del ajuste fino supervisado con explícito\nSugerencias espaciales, haciéndolos mal equipados para manejar las consultas implícitas comunes\nEn la práctica clínica. Este trabajo hace tres contribuciones centrales. Primero definimos\nRazonamiento médico unificado a tierra (UMRG), una nueva tarea en idioma de visión que\nExige un razonamiento clínico y una base a nivel de píxel. Segundo, lanzamos\nU-MRG-14K, un conjunto de datos de 14k muestras con máscaras de nivel de píxel junto a\nconsultas clínicas implícitas y rastros de razonamiento, que abarcan 10 modalidades, 15\nsupercategorías y 108 categorías específicas. Finalmente, presentamos\nMedRazerer, un marco modular que separa claramente el razonamiento de\nSegmentación: un razonador MLLM está optimizado con aprendizaje de refuerzo, mientras que\nUn experto en segmentación congelada convierte las indicaciones espaciales en máscaras, con\nAlineación lograda a través del formato y las recompensas de precisión. MedRazerer logra\nrendimiento de vanguardia en U-MRG-14K y demuestra fuerte\ngeneralización a consultas clínicas invisibles, subrayando la promesa significativa\nde aprendizaje de refuerzo para la base médica interpretable."
+  },
+  {
+    "title": "Neural Logic Networks for Interpretable Classification",
+    "title_es": "Redes de lógica neuronal para clasificación interpretable",
+    "url": "http://arxiv.org/abs/2508.08172v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Las redes neuronales tradicionales tienen un rendimiento de clasificación impresionante,\nPero lo que aprenden no se puede inspeccionar, verificar o extraer. Lógica neuronal\nLas redes, por otro lado, tienen una estructura interpretable que les permite\nAprenda un mecanismo lógico que relacione las entradas y salidas con y o\noperaciones. Generalizamos estas redes sin operaciones y prejuicios que\nTenga en cuenta los datos no observados y desarrolle una lógica rigurosa y\nModelado probabilístico en términos de combinaciones conceptuales para motivar su uso.\nTambién proponemos una nueva estructura de reglas factorizada para el modelo también\ncomo un algoritmo de aprendizaje modificado. Nuestro método mejora el estado del arte en\nDescubrimiento de las redes booleanas y es capaz de aprender reglas relevantes e interpretables\nen clasificación tabular, especialmente en un ejemplo del campo de la medicina donde\nLa interpretabilidad tiene un valor tangible."
+  },
+  {
+    "title": "PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C",
+    "title_es": "Pyveritas: sobre la verificación de Python a través de la transpilación basada en LLM y la verificación del modelo limitado para C",
+    "url": "http://arxiv.org/abs/2508.08171v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Python se ha convertido en el lenguaje dominante para la programación de uso general, pero\nCarece de herramientas robustas para la verificación formal. En contraste, programadores que trabajan\nEn idiomas como c beneficio de los controladores de modelos maduros, por ejemplo CBMC,\nque permiten un razonamiento simbólico exhaustivo y la localización de fallas. El inherente\ncomplejidad de la pitón, junto con la verbosidad y la naturaleza de bajo nivel de\nLos transpiladores existentes (por ejemplo, Cython) han limitado históricamente el\nAplicabilidad de la verificación formal a los programas de Python.\n  En este artículo, proponemos Pyveritas, un marco novedoso que aprovecha\nModelos de idiomas (LLM) para la transpilación de alto nivel de Python a C, seguido\npor verificación de modelo limitada y localización de fallas basada en MaxSat en la generada\nCódigo C. Pyveritas permite la verificación y la localización de errores para el código Python\nUso de herramientas de verificación de modelos existentes para C. nuestra evaluación empírica en dos\nLos puntos de referencia de Python demuestran que la transpilación basada en LLM puede lograr un alto\nGrado de precisión, hasta 80-90% para algunos LLM, permitiendo un desarrollo efectivo\nentorno que respalda la verificación basada en la afirmación y la falla interpretable\nDiagnóstico para programas de pitón pequeños pero no triviales."
+  },
+  {
+    "title": "LPI-RIT at LeWiDi-2025: Improving Distributional Predictions via Metadata and Loss Reweighting with DisCo",
+    "title_es": "LPI-RIT en LeWidi-2025: Mejora de las predicciones de distribución a través de metadatos y el reas de pérdida con disco",
+    "url": "http://arxiv.org/abs/2508.08163v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "El aprendizaje con desacuerdos (lewidi) 2025 tarea compartida es modelar\ndesacuerdo anotador a través de la predicción de distribución de etiquetas suaves y\nEvaluación perspectiva, anotadores de modelado. Adaptamos la discoteca (distribución\ndesde el contexto), una arquitectura neuronal que modela conjuntamente el nivel de elemento y\ndistribuciones de etiquetas a nivel de anotador, y presentar análisis detallados y\nmejoras. En este artículo, extendemos la discoteca incorporando anotador\nmetadatos, mejorar las representaciones de entrada y modificar las funciones de pérdida a\nCapture los patrones de desacuerdo mejor. A través de amplios experimentos, nosotros\nDemostrar mejoras sustanciales en la evaluación blanda y perspectiva\nmétricas en tres conjuntos de datos. También realizamos errores en profundidad y calibración\nAnálisis, destacando las condiciones bajo las cuales ocurren mejoras. Nuestro\nLos resultados subrayan el valor del modelado consciente de desacuerdo y ofrecen ideas\nen cómo los componentes del sistema interactúan con la complejidad de\ndatos."
+  },
+  {
+    "title": "Can AI Explanations Make You Change Your Mind?",
+    "title_es": "¿Pueden las explicaciones de IA hacerte cambiar de opinión?",
+    "url": "http://arxiv.org/abs/2508.08158v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "En el contexto de los sistemas de soporte de decisiones basados en IA, las explicaciones pueden ayudar\nLos usuarios juzgarán cuándo confiar en la sugerencia de la IA y cuándo cuestionarla. En\nDe esta manera, la supervisión humana puede prevenir errores de IA y la toma de decisiones sesgadas.\nSin embargo, esto se basa en la suposición de que los usuarios considerarán explicaciones en\nDetalle suficiente para poder captar tales errores. Realizamos un estudio en línea en\nConfía en DSS explicable y se sorprendió al descubrir que en muchos casos,\nLos participantes pasaron poco tiempo en la explicación y no siempre consideraron\nen detalle. Presentamos un análisis exploratorio de estos datos, investigando\n¿Qué factores afectan cómo cuidadosamente los participantes de los estudios consideran las explicaciones de AI?\ny cómo esto a su vez afecta si están abiertos a cambiar su mente.\nSobre lo que sugiere la IA."
+  },
+  {
+    "title": "From Natural Language to Solver-Ready Power System Optimization: An LLM-Assisted, Validation-in-the-Loop Framework",
+    "title_es": "Desde el lenguaje natural hasta la optimización del sistema de energía listo para solucionar: un marco de validación en el bucle asistido por LLM",
+    "url": "http://arxiv.org/abs/2508.08147v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Este artículo presenta un agente asistido de modelos de idiomas grandes (LLM)\nque convierte automáticamente las descripciones en el sistema de energía\nEscenarios de optimización en formulaciones compactas y listas para solucionar y genera\nSoluciones correspondientes. En contraste con los enfoques que dependen únicamente de LLM para\nproducir soluciones directamente, el método propuesto se centra en descubrir un\nformulación matemáticamente compatible que puede resolverse eficientemente por\nsolucionadores de optimización listos para usar. Usando directamente las LLM para producir soluciones\na menudo conduce a resultados inviantes o subóptimos, ya que estos modelos carecen del\nCapacidades de precisión numérica y manejo de restricciones de establecido\nsolucionadores de optimización. La tubería integra un mensaje y un esquema consciente del dominio\ncon un LLM, aplica la viabilidad a través de la validación sistemática y la iterativa\nRepare y devuelve tanto modelos listos para solucionadores como resultados orientados al usuario. Usando el\nProblema de compromiso de la unidad Como estudio de caso representativo, el agente produce\nhorarios óptimos o casi óptimos junto con los costos objetivos asociados.\nLos resultados demuestran que acoplar el solucionador con la validación específica de la tarea\nMejora significativamente la fiabilidad de la solución. Este trabajo muestra que combinar IA\ncon marcos de optimización establecidos puentes problemas de alto nivel\ndescripciones y modelos matemáticos ejecutables, permitiendo más eficiente\ntoma de decisiones en sistemas de energía"
+  },
+  {
+    "title": "COMponent-Aware Pruning for Accelerated Control Tasks in Latent Space Models",
+    "title_es": "Poda consciente de los componentes para tareas de control aceleradas en modelos de espacios latentes",
+    "url": "http://arxiv.org/abs/2508.08144v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "El rápido crecimiento de las plataformas móviles con recursos, incluidos los móviles\nrobots, sistemas portátiles y dispositivos de Internet de las cosas, ha aumentado el\ndemanda de controladores de red neuronales computacionalmente eficientes (NNC) que pueden\noperar dentro de estrictas limitaciones de hardware. Mientras que las redes neuronales profundas (DNN)\ndemostrar un rendimiento superior en aplicaciones de control, su sustancial\nLa complejidad computacional y los requisitos de memoria presentan barreras significativas\na la implementación práctica de dispositivos en el borde. Este documento presenta un completo\nMetodología de compresión modelo que aprovecha la poda estructurada consciente de los componentes\npara determinar la magnitud de poda óptima para cada grupo de poda, asegurando un\nequilibrio entre compresión y estabilidad para la implementación de NNC. Nuestro enfoque es\nEvaluado rigurosamente en el modelo predictivo del modelo de diferencia temporal (TD-MPC),\nun algoritmo de aprendizaje de refuerzo basado en modelos de última generación, con un\nIntegración sistemática de propiedades de garantía de estabilidad matemática,\nEspecíficamente criterios de Lyapunov. La contribución clave de este trabajo radica en\nproporcionar un marco de principios para determinar los límites teóricos de\nModelo de compresión mientras preserva la estabilidad del controlador. Experimental\nLa validación demuestra que nuestra metodología reduce con éxito el modelo\ncomplejidad mientras mantiene el rendimiento y la estabilidad de control necesarios\ncaracterísticas. Además, nuestro enfoque establece un límite cuantitativo\nPara relaciones de compresión seguras, lo que permite a los profesionales determinar sistemáticamente\nla reducción del modelo máximo permitido antes de violar la estabilidad crítica\npropiedades, facilitando así el despliegue confiado de NNC comprimidos en\nentornos de recursos limitados."
+  },
+  {
+    "title": "Can LLMs Detect Their Confabulations? Estimating Reliability in Uncertainty-Aware Language Models",
+    "title_es": "¿Pueden los LLM detectar sus confabulaciones? Estimación de la confiabilidad en los modelos de lenguaje consciente de la incertidumbre",
+    "url": "http://arxiv.org/abs/2508.08139v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) son propensos a generar fluidez pero incorrectos\ncontenido, conocido como confabulación, que plantea riesgos crecientes en múltiples vueltas o\nAplicaciones de agente donde las salidas pueden reutilizarse como contexto. En este trabajo, nosotros\ninvestigar cómo la información en contexto influye en el comportamiento del modelo y si\nLos LLM pueden identificar sus respuestas poco confiables. Proponemos una fiabilidad\nEstimación que aprovecha la incertidumbre a nivel de token para guiar la agregación de\nRepresentaciones de modelo interno. Específicamente, calculamos aleatórico y\nincertidumbre epistémica de los registros de salida para identificar tokens sobresalientes y\nAgregue sus estados ocultos a representaciones compactas para el nivel de respuesta\nPredicción de confiabilidad. A través de experimentos controlados en puntos de referencia de control de calidad abierto,\nEncontramos que la información correcta en el contexto mejora la precisión de la respuesta y\nLa confianza del modelo, mientras que el contexto engañoso a menudo induce confidentemente incorrecto\nrespuestas, revelando una desalineación entre la incertidumbre y la corrección. Nuestro\nEl método basado en el sondeo captura estos cambios en el comportamiento del modelo y mejora el\nDetección de salidas poco confiables en múltiples LLM de código abierto. Estos resultados\nsubrayar las limitaciones de las señales de incertidumbre directa y resaltar el\nPotencial del sondeo guiado por la incertidumbre para la generación de confiabilidad."
+  },
+  {
+    "title": "MuaLLM: A Multimodal Large Language Model Agent for Circuit Design Assistance with Hybrid Contextual Retrieval-Augmented Generation",
+    "title_es": "MUALLM: un agente de modelo de lenguaje grande para la asistencia de diseño de circuitos con generación híbrida de recuperación contextual auggada",
+    "url": "http://arxiv.org/abs/2508.08137v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Realizar una revisión integral de la literatura es crucial para avanzar en el circuito\nMetodologías de diseño. Sin embargo, la rápida afluencia de la investigación de vanguardia,\nRepresentación de datos inconsistentes y la complejidad de optimizar el circuito\nLos objetivos de diseño hacen que esta tarea sea significativamente desafiante. En este artículo, nosotros\nProponer MUALLM, un agente de modelo de lenguaje grande de código abierto (LLM) para\nAsistencia de diseño de circuito que integra una recuperación híbrida acuática\nMarco de generación (RAG) con una base de datos Vector adaptativa de diseño de circuitos\nDocumentos de investigación. A diferencia de los LLM convencionales, el agente de Mucallm emplea una razón +\nFlujo de trabajo de la Ley (React) para razonamiento iterativo, establecimiento de objetivos y múltiples pasos\nRecuperación de información. Funciona como un asistente de diseño de preguntas y respuestas,\ncapaz de interpretar consultas complejas y proporcionar respuestas razonadas\nconectado a tierra en la literatura del circuito. Sus capacidades multimodales permiten el procesamiento\nde datos textuales y visuales, facilitando más eficiente e integral\nanálisis. El sistema se adapta dinámicamente usando herramientas de búsqueda inteligentes,\nRecuperación automatizada de documentos de Internet y actualizaciones de bases de datos en tiempo real.\nA diferencia de los enfoques convencionales limitados por los límites de contexto del modelo, Mumallm\ndesacopla la recuperación de la inferencia, lo que permite un razonamiento escalable sobre\narbitrariamente grandes corpus. A la máxima longitud del contexto respaldada por estándar\nLLMS, MUALLM permanece hasta 10 veces menos costoso y 1.6 veces más rápido mientras mantiene\nla misma precisión. Esto permite la generación de bases de datos rápida y no humana en el bucle,\nSuperar el cuello de botella de la creación del conjunto de datos basado en simulación para circuitos. A\nEvaluar MUALLM, presentamos dos conjuntos de datos personalizados: RAG-250, Recuperación de orientación\ny el rendimiento de las citas, y el razonamiento-100 (reas-100), se centró en múltiples pasos\nrazonamiento en el diseño del circuito. MUALLM logra el 90.1% de retiro en RAG-250, y 86.8%\nPrecisión en Reas-100."
+  },
+  {
+    "title": "Optimal Transport Regularization for Speech Text Alignment in Spoken Language Models",
+    "title_es": "Regularización óptima de transporte para la alineación del texto del habla en modelos de lenguaje hablado",
+    "url": "http://arxiv.org/abs/2508.08131v1",
+    "date": "2025-08-11",
+    "source": "arXiv",
+    "content_es": "Modelos de lenguaje hablado (SLMS), que extienden modelos de idiomas grandes (LLM) a\npercibir los aportes del habla, han ganado una atención cada vez mayor por su potencial para\nAvanzar en las tareas de comprensión del habla. Sin embargo, a pesar del progreso reciente, los estudios\nDemuestre que los SLM a menudo luchan para generalizar en los conjuntos de datos, incluso para capacitados\nIdiomas y tareas, planteando preocupaciones sobre si procesan el discurso en un\nmanera similar al texto según lo previsto. Un desafío clave subyacente a esta limitación es el\nbrecha de modalidad entre las representaciones del habla y el texto. La alta variabilidad en\nLas incrustaciones del habla pueden permitir que los SLM logren un fuerte rendimiento en el dominio de\nExplotando las variaciones del habla no intencionadas, que finalmente obstaculiza la generalización.\nPara mitigar esta brecha de modalidad, introducimos una regularización óptima de transporte\n(Otreg), un método que formula la alineación del texto del habla como un transporte óptimo\nProblema y deriva una pérdida de regularización para mejorar el entrenamiento de SLM. En cada uno\niteración de capacitación, Otreg primero establece una correspondencia estructurada entre\nIncrustos de discurso y transcripción determinando el plan de transporte óptimo,\nluego incorpora la pérdida de regularización basada en este plan de transporte para\nOptimizar las SLM en la generación de incrustaciones del habla que se alinean de manera más efectiva con\nIncrustos de transcripción. OTREG es liviano, no requiere etiquetas adicionales o\nParámetros aprendibles e integra perfectamente en la capacitación SLM existente\nprocedimientos. Experimentos ASR multilingües extensos demuestran que OTREG\nMejora la alineación del texto del habla, mitiga la brecha de modalidad y, en consecuencia,\nMejora la generalización de SLM en diversos conjuntos de datos."
+  },
+  {
+    "title": "Author Correction: A virtual rodent predicts the structure of neural activity across behaviours",
+    "title_es": "Corrección del autor: un roedor virtual predice la estructura de la actividad neuronal a través de los comportamientos",
+    "url": "https://www.nature.com/articles/s41586-025-09407-y",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/s41586-025-09407-Y Corrección del autor: un roedor virtual predice la estructura de la actividad neuronal entre los comportamientos"
+  },
+  {
+    "title": "Catalytic enantioselective synthesis of alkylidenecyclopropanes",
+    "title_es": "Síntesis enantioselectiva catalítica de alquilideneciclopropopanos",
+    "url": "https://www.nature.com/articles/s41586-025-09485-y",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/s41586-025-09485-Y Síntesis enantioselectiva catalítica de alquilideneciclopropanos"
+  },
+  {
+    "title": "Author Correction: RNA codon expansion via programmable pseudouridine editing and decoding",
+    "title_es": "Corrección del autor: expansión del codón de ARN mediante edición y decodificación de pseudouridina programable",
+    "url": "https://www.nature.com/articles/s41586-025-09464-3",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/s41586-025-09464-3 Corrección del autor: expansión del codón de ARN mediante edición y decodificación de pseudouridina programable"
+  },
+  {
+    "title": "How does a forest return to abandoned land? I travel to find out",
+    "title_es": "¿Cómo regresa un bosque a la tierra abandonada? Viajo para descubrir",
+    "url": "https://www.nature.com/articles/d41586-025-02517-7",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/d41586-025-02517-7 Jennifer Khattar y Yang Mei El perro caminan a través de los bosques de Taiwán para comprender cómo se desarrollan."
+  },
+  {
+    "title": "How Indigenous values permeate my chemistry teaching and research",
+    "title_es": "Cómo los valores indígenas impregnan mi enseñanza e investigación de química",
+    "url": "https://www.nature.com/articles/d41586-025-02568-w",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/d41586-025-02568-w Joslynn Lee describe por qué busca cerrar la cosmovisión de los nativos americanos con la ciencia occidental."
+  },
+  {
+    "title": "Six questions to ask before jumping into a spreadsheet",
+    "title_es": "Seis preguntas para hacer antes de saltar a una hoja de cálculo",
+    "url": "https://www.nature.com/articles/d41586-025-02511-z",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/d41586-025-02511-z El software de hoja de cálculo puede ser frustrante, pero la adopción de algunos hábitos útiles puede mejorar su efectividad."
+  },
+  {
     "title": "Swift bricks, ancient tattoos and more: Books in brief",
     "title_es": "Ladrillos rápidos, tatuajes antiguos y más: libros en breve",
     "url": "https://www.nature.com/articles/d41586-025-02556-0",
@@ -206,6 +414,14 @@
     "date": "2025-08-08",
     "source": "arXiv",
     "content_es": "La tarea de diarización y reconocimiento del orador (SDR) tiene como objetivo predecir \"quién habló\ncuándo y qué \"dentro de un clip de audio, que es una tarea crucial en varios\nescenarios de múltiples altavoces del mundo real, como la transcripción y el diálogo de reuniones\nsistemas. Los sistemas SDR existentes generalmente adoptan un marco en cascada, combinando\nmúltiples módulos como la diarización del altavoz (SD) y el habla automática\nReconocimiento (ASR). Los sistemas en cascada sufren de varias limitaciones, como\ncomo propagación de errores, dificultad para manejar el discurso superpuesto y la falta de\nOptimización conjunta para explorar la sinergia entre las tareas SD y ASR. A\nabordar estas limitaciones, presentamos SpeakerLM, un gran multimodal unificado\nModelo de idioma para SDR que realiza conjuntamente SD y ASR en un de extremo a extremo\nmanera. Además, para facilitar diversos escenarios del mundo real, incorporamos un\nMecanismo de registro de altavoces flexible en altavoz, habilitando SDR bajo\nDiferentes configuraciones de registro de altavoces. Standerlm se desarrolla progresivamente\ncon una estrategia de entrenamiento en varias etapas sobre datos reales a gran escala. Extenso\nLos experimentos muestran que SpeakerLM demuestra una fuerte capacidad de escala de datos y\ngeneralización, superando las líneas de base en cascada de última generación en ambos\nEn el dominio y fuera de dominio Public SDR puntos de referencia. Además, experimental\nLos resultados muestran que el mecanismo de registro del altavoz propuesto de manera efectiva\nAsegura un rendimiento sólido de SDR de altavoz en diversos registros de altavoces\nCondiciones y números variables de altavoces registrados."
+  },
+  {
+    "title": "Daily briefing: US researchers fight back on key climate report",
+    "title_es": "Información diaria: los investigadores estadounidenses luchan en el informe climático clave",
+    "url": "https://www.nature.com/articles/d41586-025-02567-x",
+    "date": "2025-08-08",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 08 de agosto de 2025; doi: 10.1038/d41586-025-02567-x Los científicos del clima estadounidense se unen para desafiar un controvertido informe del gobierno sobre el calentamiento global. Además, un exoplanet en la zona de \"Ricitos de oro\" de su estrella y por qué los científicos pegaron un pato de goma a una roca."
   },
   {
     "title": "Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling",
