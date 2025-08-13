@@ -1,5 +1,269 @@
 [
   {
+    "title": "Astronomers gave up this comet for dead ― but they were wrong",
+    "title_es": "Los astrónomos renunciaron a este cometa por los muertos, pero estaban equivocados",
+    "url": "https://www.nature.com/articles/d41586-025-02561-3",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02561-3 Un cuerpo helado demostró ser un sobreviviente al reaparecer en las imágenes del telescopio después de pasar cerca del sol."
+  },
+  {
+    "title": "Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models",
+    "title_es": "El tiempo es una característica: explotar la dinámica temporal en los modelos de lenguaje de difusión",
+    "url": "http://arxiv.org/abs/2508.09138v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Modelos de lenguaje grande de difusión (DLLMS) generan texto a través de iterativo\nDinoising, sin embargo, las estrategias de decodificación actuales descartan los ricos intermedios\nPredicciones a favor de la salida final. Nuestro trabajo aquí revela un crítico\nfenómeno, oscilación temporal, donde a menudo surgen respuestas correctas en el\nProceso medio, pero se sobrescriben en pasos posteriores de renovación. Para abordar esto\nproblema, presentamos dos métodos complementarios que explotan temporal\nconsistencia: 1) votación temporal de autoconsistencia, un tiempo de prueba sin capacitación\nEstrategia de decodificación que agregue las predicciones a través de los pasos de renovación para seleccionar\nel resultado más consistente; y 2) un método posterior a la capacitación denominado temporal\nRefuerzo de consistencia, que utiliza entropía semántica temporal (TSE), un\nMedida de estabilidad semántica a través de predicciones intermedias, como recompensa\nseñal para alentar a las generaciones estables. Resultados empíricos en múltiples\nLos puntos de referencia demuestran la efectividad de nuestro enfoque. Usando el negativo\nRecompensa de tse solo, observamos una notable mejora promedio de 24.7% en el\nConjunto de datos Countdown sobre un DLLM existente. Combinado con la recompensa de precisión, nosotros\nlograr ganancias absolutas de 2.0% en GSM8K, 4.3% en Math500, 6.6% en SVAMP y\n25.3% en la cuenta regresiva, respectivamente. Nuestros hallazgos subrayan a los sin explotar\nPotencial de la dinámica temporal en DLLMS y ofrece dos simples pero efectivos\nHerramientas para aprovecharlos."
+  },
+  {
+    "title": "Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer",
+    "title_es": "Edición de color guiada por texto sin entrenamiento con transformador de difusión multimodal",
+    "url": "http://arxiv.org/abs/2508.09131v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "La edición de color guiada por texto en imágenes y videos es fundamental pero sin resolver\nproblema, que requiere una manipulación de grano fino de los atributos de color, incluidos\nAlbedo, color de la fuente de luz y iluminación ambiental, al tiempo que preserva físico\nconsistencia en geometría, propiedades del material e interacciones de la lumina.\nLos métodos existentes sin capacitación ofrecen una amplia aplicabilidad en las tareas de edición\nPero lucha con un control de color preciso y a menudo introduce visual\ninconsistencia en regiones editadas y no editadas. En este trabajo, presentamos\nColorCtrl, un método de edición de color sin entrenamiento que aprovecha la atención\nMecanismos de transformadores de difusión multimodal modernos (MM-DIT). Por\nEstructura y color desenredado a través de la manipulación de atención específica\nmapas y tokens de valor, nuestro método permite un color preciso y consistente\nEdición, junto con el control a nivel de palabra de la intensidad de los atributos. Nuestro método\nmodifica solo las regiones previstas especificadas por el aviso, dejando\náreas intactas. Experimentos extensos en SD3 y Flux.1-DEV Demostrar\nque ColorCtrl supera a los enfoques y logra existentes\nActuaciones de vanguardia tanto en calidad como consistencia.\nAdemás, nuestro método supera a modelos comerciales fuertes como Flux.1\nKontext Max y GPT-4O Generación de imágenes en términos de consistencia. Cuando se extiende\nA modelos de video como Cogvideox, nuestro enfoque exhibe mayores ventajas,\nparticularmente en el mantenimiento de la coherencia temporal y la estabilidad de edición. Finalmente,\nNuestro método también se generaliza a los modelos de difusión de edición basados en instrucciones como\ncomo step1x-edit y flux.1 kontext dev, demostrando aún más su versatilidad."
+  },
+  {
+    "title": "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair",
+    "title_es": "Browsmaster: hacia la navegación web escalable a través de un par de agentes programáticos acuáticos de herramientas",
+    "url": "http://arxiv.org/abs/2508.09129v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Información efectiva que busca en el vasto y cada vez mayor paisaje digital\nRequiere equilibrar la búsqueda expansiva con razonamiento estratégico. Corriente grande\nLos agentes basados en el modelo de idioma (LLM) luchan por lograr este equilibrio debido a\nLimitaciones en la amplitud de búsqueda y profundidad de razonamiento, donde la consulta en serie lenta\nrestringe la cobertura de fuentes relevantes y las entradas sin procesar ruidosas interrumpen el\nContinuidad del razonamiento de varios pasos. Para abordar estos desafíos, proponemos\nBrowsmaster, un marco escalable construido alrededor de un aumento programado\nPAR DE AGENTE Ejecutor de planificadores. El planificador formula y adapta la búsqueda\nestrategias basadas en limitaciones de tareas, mientras que el ejecutor realiza eficientes,\nrecuperación dirigida para proporcionar al planificador evidencia concisa y relevante. Este\nLa división del trabajo preserva el razonamiento coherente de Horizon mientras se mantiene\nexploración amplia y sistemática, superando la compensación que limita\nagentes. Experimentos extensos sobre desafíos de referencia inglés y chino\nDemuestre que BrowsMaster supera constantemente\nlíneas de base, logrando puntajes de 30.0 en Browsecomp-en y 46.5 en Browsecomp-zh,\nque demuestra su fuerte capacidad en el razonamiento complejo y pesado\ntareas de búsqueda de información a escala."
+  },
+  {
+    "title": "OpenCUA: Open Foundations for Computer-Use Agents",
+    "title_es": "OpenCua: Abrir bases para agentes de uso de computadora",
+    "url": "http://arxiv.org/abs/2508.09123v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los modelos en idioma de visión han demostrado capacidades impresionantes como\nAgentes de uso informático (CUAS) capaces de automatizar diversas tareas informáticas. Como\nSu potencial comercial crece, los detalles críticos del CUA más capaz\nLos sistemas permanecen cerrados. A medida que estos agentes mediarán cada vez más digital\ninteracciones y ejecutar decisiones consecuentes en nuestro nombre, la investigación\nLa comunidad necesita acceso a los marcos de CUA abiertos para estudiar sus capacidades,\nlimitaciones y riesgos. Para cerrar esta brecha, proponemos OpenCua, un completo\nMarco de código abierto para escalar datos CUA y modelos de base. Nuestro marco\nconsiste en: (1) una infraestructura de anotación que captura sin problemas humanos\ndemostraciones de uso de la computadora; (2) Agentnet, el primer uso de computadora a gran escala\nconjunto de datos de tareas que abarca 3 sistemas operativos y más de 200 aplicaciones y sitios web;\n(3) Una tubería escalable que transforma las demostraciones en pares de acción estatal\ncon un razonamiento reflexivo de la cadena de pensamiento larga que sostiene un rendimiento robusto\nganancias como escalas de datos. Nuestros modelos de agentes de extremo a extremo demuestran fuertes\nrendimiento en puntos de referencia de CUA. En particular, OpenCua-32b logra un\nTasa de éxito promedio de 34.8% en OsWorld-Vified, estableciendo un nuevo\nDe vanguardia (SOTA) entre modelos de código abierto y superando a OpenAI CUA\n(GPT-4O). Un análisis posterior confirma que nuestro enfoque se generaliza bien\ndominios y beneficios significativamente del aumento del cálculo del tiempo de prueba. Nosotros\nLibere nuestra herramienta de anotación, conjuntos de datos, código y modelos para construir Abierto\nFundamentos para una mayor investigación de CUA."
+  },
+  {
+    "title": "SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling",
+    "title_es": "SMA: ¿Quién dijo eso? Auditar la fuga de membresía en el control de trapo semi-negro",
+    "url": "http://arxiv.org/abs/2508.09105v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Generación de recuperación de recuperación (RAG) y su multimodal de recuperación suplente\nGeneración (MRAG) mejorar significativamente la cobertura de conocimiento y el contextual\nComprensión de los modelos de idiomas grandes (LLM) mediante la introducción de conocimientos externos\nfuentes. Sin embargo, la recuperación y la fusión multimodal oscilan la procedencia de contenido,\nRenderizar métodos de inferencia de membresía existentes que no se pueden atribuir de manera confiable\nsalidas generadas para el entrenamiento previo, la recuperación externa o la entrada del usuario, por lo tanto\nsocavando la responsabilidad de la fuga de privacidad\n  Para abordar estos desafíos, proponemos la primera membresía de la fuente\nAuditoría (SMA) que permite la atribución fuente de grano fino del contenido generado\nen una configuración de caja semi-negro con capacidades de control de recuperación. Para abordar el\nRestricciones ambientales de la auditoría semi-caja de negro, diseñamos aún más un\nMecanismo de estimación de atribución basado en la optimización de orden cero, que\nse aproxima robusta la verdadera influencia de los tokens de entrada en la salida a través de\nMuestreo de perturbación a gran escala y modelado de regresión de cresta. Además,\nSMA presenta una técnica de atribución intermodal que proyecta entradas de imágenes\nen descripciones textuales a través de MLLMS, habilitando la atribución de nivel token en el\nModalidad de texto, que por primera vez facilita la inferencia de membresía en\nRastras de recuperación de imágenes en sistemas MRAG. Este trabajo cambia el enfoque de\ninferencia de membresía de 'si los datos han sido memorizados' a 'donde el\nEl contenido se obtiene de ', que ofrece una perspectiva novedosa para auditar datos\nProcedencia en sistemas generativos complejos."
+  },
+  {
+    "title": "Towards Universal Neural Inference",
+    "title_es": "Hacia la inferencia neuronal universal",
+    "url": "http://arxiv.org/abs/2508.09100v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los datos del mundo real a menudo aparecen en diversas formas disjuntas, con variables\nesquemas, semántica inconsistente y sin pedidos de características fijas, lo que lo hace\nDesafiando a construir modelos de propósito general que pueda aprovechar la información\na través de conjuntos de datos. Introducimos a la permutación arbitraria de Aspire y arbitraria\nMotor de razonamiento, un modelo de inferencia neuronal universal para razonamiento semántico y\nPredicción sobre datos estructurados heterogéneos. Aspire combina un\nTransformador de permutación invariante, basado en establecimientos con un módulo de conexión a tierra semántica\nque incorpora descripciones del lenguaje natural, metadatos del conjunto de datos y\nEjemplos en contexto para aprender dependencias de características entre dataset. Este\nLa arquitectura permite a Aspire ingerir conjuntos arbitrarios de características: pares de valores y\nApoye ejemplos, alinee la semántica en las tablas disjuntas y haga predicciones\npara cualquier objetivo especificado. Una vez entrenado, Aspire se generaliza a una nueva inferencia\ntareas sin ajuste adicional. Además de entregar resultados fuertes\nEn diversos puntos de referencia, Aspire naturalmente admite la función activa consciente de los costos\nadquisición en una configuración del mundo abierto, seleccionando características informativas bajo\nPresupar restricciones presupuestarias para un conjunto de datos invisible arbitrario. Estos\nLa posición de las capacidades aspira como un paso hacia verdaderamente universal, consciente de la semántica\ninferencia sobre datos estructurados."
+  },
+  {
+    "title": "SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for recommender system",
+    "title_es": "SPARC: modelo de recuperación de múltiples intereses adaptativo de probable suave a través de libros de códigos para el sistema de recomendación",
+    "url": "http://arxiv.org/abs/2508.09090v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "El modelado de múltiples intereses ha surgido como un problema central en Rs del mundo real.\nLos métodos actuales de recuperación de múltiples intereses plantean tres desafíos principales: 1)\nLos intereses, típicamente extraídos del conocimiento externo predefinido, son\ninvariante. No se pudo evolucionar dinámicamente con el consumo en tiempo real de los usuarios\npreferencias. 2) La inferencia en línea generalmente emplea una estrategia demasiado explotada,\nprincipalmente coincidir los intereses existentes de los usuarios, sin exploración proactiva y\nDescubrimiento de intereses novedosos y de cola larga. Para abordar estos desafíos, nosotros\nProponer un marco de recuperación novedoso llamado SPARC (adaptativo probabilístico suave\nModelo de recuperación a través de libros de códigos). Nuestra contribución es de dos pliegues. Primero, el\nEl marco utiliza un autointeroder de variacional cuantificado residual (RQ-VAE) para\nconstruir un espacio de interés discretizado. Logra el entrenamiento conjunto del\nRQ-VAE con el modelo de recomendación industrial a gran escala, minería\nintereses conscientes del comportamiento que pueden percibir la retroalimentación de los usuarios y evolucionar\ndinamicamente. En segundo lugar, un módulo de interés probabilístico que predice el\nDistribución de probabilidad en todo el espacio de interés dinámico y discreto.\nEsto facilita una estrategia eficiente de \"búsqueda suave\" durante la inferencia en línea,\nRevolucionar el paradigma de recuperación de \"coincidencia pasiva\" a \"proactiva\nexploración \"y, por lo tanto, promoviendo efectivamente el descubrimiento de intereses. En línea A/B\nLas pruebas en una plataforma industrial con decenas de millones de usuarios activos diarios, tienen\nlogró ganancias sustanciales en las métricas comerciales: +0.9% de aumento en la vista del usuario\nduración, +0.4% de aumento en las vistas de la página del usuario (PV) y una mejora de +22.7% en\nPV500 (nuevo contenido que alcanza 500 PVS en 24 horas). Las evaluaciones fuera de línea son\nrealizado en conjuntos de datos de productos de Amazon de código abierto. Métricas, como recuperar@k y\nGanancia acumulativa con descuento normalizada@k (ndcg@k), también mostró consistente\nmejora. Los experimentos en línea y fuera de línea validan la eficacia y\nvalor práctico del método propuesto."
+  },
+  {
+    "title": "Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring",
+    "title_es": "Fusión multimodal consciente de la incertidumbre dinámica para el monitoreo de la salud al aire libre",
+    "url": "http://arxiv.org/abs/2508.09085v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "El monitoreo de la salud al aire libre es esencial para detectar el estado de salud anormal temprano\npara salvaguardar la salud y la seguridad humana. Monitoreo convencional al aire libre\nse basa en marcos estáticos de aprendizaje profundo multimodal, que requiere extenso\nCapacitación en datos desde cero y no puede capturar cambios sutiles de estado de salud.\nLos modelos de lenguaje grande multimodal (MLLMS) emergen como una alternativa prometedora,\nUtilizando solo pequeños conjuntos de datos para ajustar modelos ricos en información previamente capacitados\npara habilitar un poderoso monitoreo de estado de salud. Desafortunadamente, basado en MLLM\nEl monitoreo de la salud al aire libre también enfrenta desafíos significativos: i) Datos del sensor\ncontiene ruido de entrada derivado de la adquisición de datos y fluctuación de los datos del sensor\nruido causado por cambios repentinos en las señales fisiológicas debido a la dinámica al aire libre\nentornos, degradando así el rendimiento del entrenamiento; ii) transformador de corriente\nMllms basados lucha por lograr una fusión multimodal robusta, ya que carecen de un diseño\npor fusionar la modalidad ruidosa; iii) obstaculizan las modalidades con niveles de ruido variables\nLa recuperación precisa de los datos faltantes de las distribuciones fluctuantes. Para combatir\nEstos desafíos, proponemos un marco de fusión multimodal consciente de la incertidumbre,\nNombrado Dual-Health, para el monitoreo de la salud al aire libre en dinámico y ruidoso\nentornos. Primero, para evaluar el impacto del ruido, cuantificamos con precisión\nincertidumbre de modalidad causada por la entrada y el ruido de fluctuación con la corriente y\nCaracterísticas temporales. Segundo, para capacitar a la fusión de Muitimodal eficiente con\nModalidades de baja calidad, personalizamos el peso de la fusión para cada modalidad basada en la modalidad\nen incertidumbre cuantificada y calibrada. Tercero, para mejorar la recuperación de datos de\nfluctuantes modalidades ruidosas, alineamos distribuciones de modalidad dentro de un común\nespacio semántico. Experimentos extensos demuestran que nuestra salud dual\nSuperenta las líneas de base de última generación en la precisión de detección y robustez."
+  },
+  {
+    "title": "CVCM Track Circuits Pre-emptive Failure Diagnostics for Predictive Maintenance Using Deep Neural Networks",
+    "title_es": "CVCM Circuitos de seguimiento preventivo de diagnóstico para el mantenimiento predictivo utilizando redes neuronales profundas",
+    "url": "http://arxiv.org/abs/2508.09054v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los circuitos de pista son críticos para las operaciones ferroviarias, actuando como el principal\nSubsistema de señalización para localizar trenes. Modulación de corriente variable continua\n(CVCM) es una de esas tecnologías. Como cualquier activo de seguridad de seguridad desplegado en el campo,\nPuede fallar, desencadenando interrupciones en cascada. Muchas fallas se originan como\nanomalías sutiles que evolucionan con el tiempo, a menudo no visualmente aparentes en\nseñales monitoreadas. Enfoques convencionales que dependen de cambios claros de señal,\nlucha por detectarlos temprano. La identificación temprana de los tipos de falla es\nEsencial para mejorar la planificación del mantenimiento, minimizar el tiempo de inactividad y los ingresos\npérdida. Aprovechando redes neuronales profundas, proponemos un mantenimiento predictivo\nMarco que clasifica las anomalías mucho antes de que se conviertan en fallas.\nValidado en 10 casos de falla de CVCM en diferentes instalaciones, el método\nCumple con ISO-17359 y supera las técnicas convencionales, logrando\n99.31% precisión general con detección dentro del 1% del inicio de anomalía. A través de\nPredicción conforme, proporcionamos estimaciones de incertidumbre, alcanzando la confianza del 99%\ncon una cobertura constante en todas las clases. Dada la implementación global de CVCMS, el\nEl enfoque es escalable y adaptable a otros circuitos de vía y sistemas ferroviarios,\nMejora de la fiabilidad operativa."
+  },
+  {
+    "title": "Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams",
+    "title_es": "¿Podemos confiar en la IA para gobernar la IA? Benchmarking LLM Performance sobre Privacidad y Exámenes de Gobierno de AI",
+    "url": "http://arxiv.org/abs/2508.09036v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "La rápida aparición de modelos de idiomas grandes (LLM) ha aumentado urgente\nPreguntas en la fuerza laboral moderna sobre las fortalezas de esta nueva tecnología,\nDebilidades y capacidades. Para los profesionales de la privacidad, la pregunta es\nSi estos sistemas de IA pueden proporcionar un apoyo confiable sobre el cumplimiento regulatorio,\nGestión del programa de privacidad y gobierno de IA. En este estudio, evaluamos diez\nLLMS de apertura y cerrada líder, incluidos modelos de OpenAi, Anthrope, Google\nDeepMind, Meta y Deepseek, al evaluar su actuación en\nExámenes de certificación estándar de la industria: CIPP/EE. UU., CIPM, CIPT y AIGP del\nAsociación Internacional de Profesionales de la Privacidad (IAPP). Cada modelo era\nProbado utilizando exámenes de muestra oficiales en una configuración de libro cerrado y en comparación con\nLos umbrales de paso de IAPP. Nuestros hallazgos muestran que varios modelos fronterizos como\nA medida que GPT-5 de Gemini 2.5 Pro y OpenAi alcanzan los puntajes constantemente superiores a los\nEstándares para la certificación humana profesional: demostrar sustancial\nExperiencia en derecho de privacidad, controles técnicos y gobernanza de IA. Los resultados\nresaltar tanto las fortalezas como las brechas específicas del dominio de los LLM actuales y la oferta\nideas prácticas para oficiales de privacidad, liderazgo de cumplimiento y tecnólogos\nEvaluar la preparación de las herramientas de IA para los roles de gobierno de datos de alto riesgo. Este\nEl documento proporciona una visión general para los profesionales que navegan por la intersección de la IA\navance y riesgo regulatorio y establece un punto de referencia de máquina basado en\nEvaluaciones centradas en el ser humano."
+  },
+  {
+    "title": "Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding",
+    "title_es": "Traces espaciales: mejora de modelos VLA con comprensión espacial-temporal",
+    "url": "http://arxiv.org/abs/2508.09032v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los modelos de acción-idioma de visión han demostrado capacidades notables en\nPredicción de movimientos de agentes dentro de entornos virtuales y escenarios del mundo real\nbasado en observaciones visuales e instrucciones textuales. Aunque investigaciones recientes\nse ha centrado en mejorar la comprensión espacial y temporal de forma independiente, esto\nEl documento presenta un enfoque novedoso que integra ambos aspectos a través de\nincitación. Presentamos un método que proyecta rastros visuales de puntos clave desde\nObservaciones sobre mapas de profundidad, lo que permite que los modelos capturen tanto espaciales como espaciales y\nInformación temporal simultáneamente. Los experimentos en SimpleRenv muestran que\nEl número medio de tareas resueltas con éxito aumentó para un 4% en comparación con\nSpatialvla y 19% en comparación con TraceVla. Además, mostramos que esto\nLa mejora se puede lograr con datos de entrenamiento mínimos, lo que lo hace particularmente\nValioso para aplicaciones del mundo real donde la recopilación de datos es un desafío. El\nLa página del proyecto está disponible en https://ampiromax.github.io/st-vla."
+  },
+  {
+    "title": "A First Look at Predictability and Explainability of Pre-request Passenger Waiting Time in Ridesharing Systems",
+    "title_es": "Un primer vistazo a la previsibilidad y la explicación del tiempo de espera de pasajeros previos a la solicitud en los sistemas de viajes compartidos",
+    "url": "http://arxiv.org/abs/2508.09027v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "La predicción del tiempo de espera de pasajeros juega un papel fundamental en la mejora de ambos\nExperiencia de usuario y eficiencia de la plataforma. Mientras que la mayoría existe\nLa investigación se centra en la predicción del tiempo de espera posterior a la solicitud con el conocimiento del\nInformación del conductor emparejada, predicción del tiempo de espera previa a la solicitud (es decir, antes\nenviar una solicitud de viaje y sin coincidir con un conductor) también es importante, como\nPermite a los pasajeros planificar sus viajes de manera más efectiva y mejorar el\nExperiencia tanto de pasajeros como de conductores. Sin embargo, no ha sido completamente\nestudiado por obras existentes. En este artículo, damos el primer paso hacia\nComprender la previsibilidad y la explicación del pasajero previo a la solicitud\nTiempo de espera en sistemas de viajes compartidos. Particularmente, llevamos a cabo una profundidad\nEstudio basado en datos para investigar el impacto de la dinámica de la demanda y la oferta en\nTiempo de espera del pasajero. Basado en este análisis e ingeniería de características, nosotros\nProponer fixgboost, un nuevo modelo XGBOost basado en interacción con funciones diseñado para\nPredecir el tiempo de espera sin conocer la información del conductor asignado. Nosotros\nRealizar más un análisis de importancia para cuantificar la contribución de cada\nfactor. Experimentos en un conjunto de datos de viajes compartidos en el mundo real a gran escala que incluye\nMás de 30 millones de registros de viaje muestran que nuestro FixgBoost puede lograr un buen\nRENDIMIENTO PARA PREDICCIÓN DE TIEMPO DE PASAJE DE PASAJE PRESENTADAS\nexplicación."
+  },
+  {
+    "title": "E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence,and Efficiency",
+    "title_es": "E3-Reescribir: aprender a reescribir SQL para la ejecución, equivalencia y eficiencia",
+    "url": "http://arxiv.org/abs/2508.09023v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "La reescritura de consultas de SQL tiene como objetivo reformular una consulta en una forma más eficiente\nmientras preserva la equivalencia. La mayoría de los métodos existentes dependen de la reescritura predefinida\nnormas. Sin embargo, tales enfoques basados en reglas enfrentan limitaciones fundamentales: (1)\nLos conjuntos de reglas fijas se generalizan mal a nuevos patrones de consulta y luchan con\nconsultas complejas; (2) no se puede una amplia gama de estrategias de reescritura efectivas\nTotalmente capturado por reglas declarativas. Para superar estos problemas, proponemos usar\nModelos de idiomas grandes (LLM) para generar reescrituras. LLMS puede capturar complejo\nEstrategias, como la reordenamiento de la evaluación y la reescritura de CTE. A pesar de esto\npotencial, la aplicación de LLM a menudo da como resultado un subóptimo o no equivalente\nReescritas debido a la falta de conciencia de ejecución y una base semántica. A\nabordar estos desafíos, presentamos E3-Rewrite, una reescritura SQL basada en LLM\nMarco que produce consultas ejecutables, equivalentes y eficientes. Él\nintegra dos componentes centrales: un módulo de construcción de contexto y un\nMarco de aprendizaje de refuerzo. Primero, el módulo de contexto aprovecha la ejecución\nPlanes y manifestaciones recuperadas para construir un cuello de botella que consciente de esa guía\nReescritura de tiempo de inferencia. En segundo lugar, diseñamos una función de recompensa dirigida a\nejecución, equivalencia y eficiencia, evaluadas a través de verificaciones de sintaxis,\nVerificación de equivalencia y estimación de costos. Tercero, para garantizar estables\nAprendizaje de objetivos múltiples, adoptamos un plan de estudios escenificado que primero enfatiza\nLa ejecución y la equivalencia, luego incorpora gradualmente la eficiencia.\nExtensos experimentos muestran que E3-Rewrite logra una reducción de hasta 25.6 \\% en\nTiempo de ejecución de consultas en comparación con los métodos de última generación en múltiples SQL\npuntos de referencia. Además, ofrece hasta 24.4 \\% más reescrituras exitosas,\nLa cobertura de expansión a consultas complejas que los sistemas anteriores no lograron manejar."
+  },
+  {
+    "title": "When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges",
+    "title_es": "Cuando los defectos profundos se ven reales: detectar caras generadas por IA con datos no etiquetados debido a desafíos de anotación",
+    "url": "http://arxiv.org/abs/2508.09022v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los métodos existentes de detección de Deepfake dependen en gran medida de los datos de entrenamiento etiquetados.\nSin embargo, a medida que el contenido generado por IA se vuelve cada vez más realista, incluso\n\\ textbf {anotadores humanos luchan por distinguir} entre los defectos y\nImágenes auténticas. Esto hace que el proceso de etiquetado consuma y menos\nconfiable. Específicamente, existe una creciente demanda de enfoques que pueden\nUtilice efectivamente datos no etiquetados a gran escala de las redes sociales en línea.\nA diferencia de las tareas típicas de aprendizaje no supervisadas, donde las categorías son distintas,\nLas caras generadas por IA imitan de cerca las distribuciones de imágenes reales y comparten fuertes\nsimilitudes, causando caída de rendimiento en las estrategias convencionales. En esto\nDocumento, presentamos la red de orientación de doble vía (DPGNET), para abordar dos clave\nDesafíos: (1) Unir la brecha de dominio entre caras de diferentes generaciones\nmodelos, y (2) utilizando muestras de imágenes no etiquetadas. El método presenta dos núcleo\nMódulos: alineación de dominio cruzado guiado por texto, que utiliza indicaciones aprendices para\nUnificar incrustaciones visuales y textuales en un espacio de características invariante de dominio, y\nGeneración de pseudo etiqueta impulsada por el plan de estudios, que explotan dinámicamente más\nmuestras informativas sin etiqueta. Para evitar el olvido catastrófico, también\nFacilitar el puente entre dominios a través de la destilación de conocimiento de dominio cruzado.\nExperimentos extensos en \\ textbf {11 conjuntos de datos populares}, muestran que dpgnet\nSuperla supera los enfoques de SOTA por \\ textbf {6.3 \\%}, destacando su efectividad\nal aprovechar los datos no etiquetados para abordar los desafíos de anotación planteados por el\ncreciente realismo de los defensores profundos."
+  },
+  {
+    "title": "Attacks and Defenses Against LLM Fingerprinting",
+    "title_es": "Ataques y defensas contra huellas digitales de LLM",
+    "url": "http://arxiv.org/abs/2508.09021v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "A medida que los modelos de idiomas grandes se implementan cada vez más en entornos sensibles,\nLos ataques de huellas dactilares plantean riesgos significativos de privacidad y seguridad. Presentamos\nUn estudio de huellas dactilares de LLM desde perspectivas ofensivas y defensivas.\nNuestra metodología de ataque utiliza el aprendizaje de refuerzo para optimizar automáticamente\nSelección de consultas, logrando una mejor precisión de huellas dactilares con solo 3 consultas\nen comparación con la selección aleatoria de 3 consultas del mismo grupo. Nuestra defensiva\nEl enfoque emplea el filtrado de salida de preservación semántica a través de un LLM secundario\npara ofuscar la identidad del modelo mientras mantiene la integridad semántica. La defensiva\nEl método reduce la precisión de las huellas dactilares entre los modelos probados mientras se preserva\nCalidad de salida. Estas contribuciones muestran el potencial para mejorar\nCapacidades de herramientas de huellas dactilares mientras proporciona mitigación práctica\nEstrategias contra ataques de huellas digitales."
+  },
+  {
+    "title": "Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs",
+    "title_es": "Dirección de activación para la mitigación de sesgo: un enfoque interpretable para LLMS más seguros",
+    "url": "http://arxiv.org/abs/2508.09019v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "A medida que los modelos de idiomas grandes (LLM) se integran más en los sistemas sociales,\nEl riesgo de perpetuar y amplificar los sesgos dañinos se convierte en un crítico\npreocupación de seguridad. Los métodos tradicionales para mitigar el sesgo a menudo dependen de los datos\nfiltrado o moderación de salida post-hoc, que tratan el modelo como un opaco\ncaja negra. En este trabajo, presentamos un sistema completo y de extremo a extremo que utiliza\ntécnicas desde la interpretabilidad mecanicista hasta la identificación y activamente\nMitigia el sesgo directamente dentro de los trabajos internos de un modelo. Nuestro método implica\nDos etapas principales. Primero, entrenamos \"sondas\" lineales en las activaciones internas\nde un modelo para detectar las representaciones latentes de varios sesgos (por ejemplo,\nGénero, raza, edad). Nuestros experimentos en \\ texttt {gpt2-large} demuestran que\nEstas sondas pueden identificar contenido sesgado con precisión casi perfecta, revelando\nque las representaciones de sesgo se vuelven más destacadas en las capas posteriores del modelo.\nEn segundo lugar, aprovechamos estos hallazgos para calcular los \"vectores de dirección\" al contraste\nLos patrones de activación del modelo para declaraciones sesgadas y neutrales. Al agregar\nEstos vectores durante la inferencia, podemos dirigir activamente la generación del modelo\nProcesar lejos de producir contenido dañino, estereotípico o sesgado en\nen tiempo real. Demostramos la eficacia de esta técnica de dirección de activación,\nmostrando que altera con éxito las terminaciones sesgadas hacia más neutrales\nalternativas. Presentamos nuestro trabajo como un sistema robusto y reproducible que\nofrece un enfoque más directo e interpretable para construir más seguros y más\nLLMS responsable."
+  },
+  {
+    "title": "LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA",
+    "title_es": "Lys en Semeval 2025 Tarea 8: Generación de código de disparo cero para QA tabular",
+    "url": "http://arxiv.org/abs/2508.09012v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Este artículo describe nuestra participación en la Tarea 8 de Semeval 2025, centrada en\nRespuesta de preguntas tabulares. Desarrollamos una tubería de disparo cero que aprovecha un\nModelo de lenguaje grande para generar código funcional capaz de extraer el\nInformación relevante de datos tabulares basados en una pregunta de entrada. Nuestro enfoque\nconsiste en una tubería modular donde está el módulo del generador de código principal\ncompatible con componentes adicionales que identifican las columnas más relevantes y\nAnalice sus tipos de datos para mejorar la precisión de la extracción. En el caso de que el\nEl código generado falla, se desencadena un proceso de refinamiento iterativo,\nincorporando la retroalimentación de error en un mensaje de generación de nueva generación para mejorar\nrobustez. Nuestros resultados muestran que la generación de código de disparo cero es un enfoque válido\npara el control de calidad tabular, logre el rango 33 de 53 en la fase de prueba a pesar de la falta de\najuste fino específico de la tarea."
+  },
+  {
+    "title": "Retrospective Sparse Attention for Efficient Long-Context Generation",
+    "title_es": "Atención escasa retrospectiva para una generación eficiente de contexto largo",
+    "url": "http://arxiv.org/abs/2508.09001v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) se implementan cada vez más en tareas de contexto largo\ntales como razonamiento, generación de código y diálogo múltiple. Sin embargo, inferencia\ncontextos sobre extendidos se ve en cuello de botella por el caché de valor clave (KV), cuyo\nLa huella de memoria crece linealmente con la longitud de la secuencia y domina la latencia en\ncada paso de decodificación. Mientras que los métodos recientes de compresión de caché de KV se identifican y cargan\ntokens importantes, se centran predominantemente en los contextos de entrada y fallan en\nAborde los errores de atención acumulativos que surgen durante la decodificación larga. En\nEste documento, presentamos retroatención, una nueva técnica de actualización de caché de KV que\nrevise retrospectivamente los resultados de atención pasados utilizando entradas KV recién llegadas\nde pasos de decodificación posteriores. Manteniendo un caché de salida ligero,\nLa retroatención permite que las consultas pasadas accedan eficientemente más relevantes\ncontexto, al tiempo que incurre en la sobrecarga de latencia mínima. Esto rompe el\nParadigma de salida de atención fija y permite la corrección continua de anteriores\naproximaciones. Experimentos extensos en puntos de referencia de larga generación muestran que\nLa retroabatación supera constantemente la compresión de KV de última generación (SOTA)\nmétodos, aumentando la exposición efectiva de KV en hasta 1.6 $ \\ veces $ y precisión por\nhasta 21.9 \\%."
+  },
+  {
+    "title": "Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory",
+    "title_es": "Agentes de memoria intrínsecos: sistemas LLM múltiples heterogéneos a través de la memoria contextual estructurada",
+    "url": "http://arxiv.org/abs/2508.08997v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "Los sistemas de múltiples agentes construidos en modelos de idiomas grandes (LLMS) muestran excepcionales\nPromesa de resolución de problemas de colaboración compleja, sin embargo, se enfrentan a fundamentales\nDesafíos derivados de las limitaciones de las ventanas de contexto que afectan la memoria\nconsistencia, adherencia a roles e integridad procesal. Este documento presenta\nAgentes de memoria intrínsecos, un marco novedoso que aborda estas limitaciones\na través de recuerdos específicos de agente estructurado que evolucionan intrínsecamente con el agente\nsalidas. Específicamente, nuestro método mantiene plantillas de memoria alineadas\nPreserve perspectivas especializadas mientras se centra en la información relevante para la tarea.\nComparamos nuestro enfoque en el conjunto de datos PDDL, comparando su rendimiento con\nSe acerca a la memoria múltiple de vanguardia existente y muestran un\nMejora de 38.6 \\% con la mayor eficiencia de tokens. Un adicional\nLa evaluación se realiza en una tarea compleja de diseño de tuberías de datos, demostramos\nque nuestro enfoque produce diseños de mayor calidad al comparar 5 métricas:\nescalabilidad, confiabilidad, usabilidad, rentabilidad y documentación con\nEvidencia cualitativa adicional de las mejoras. Nuestros hallazgos sugieren que\nabordar las limitaciones de la memoria a través de enfoques estructurados e intrínsecos puede\nMejorar las capacidades de los sistemas LLM de múltiples agentes en la planificación estructurada\ntareas."
+  },
+  {
+    "title": "Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty",
+    "title_es": "La teoría del prospecto falla para LLM: revelando la inestabilidad de la toma de decisiones bajo la incertidumbre epistémica",
+    "url": "http://arxiv.org/abs/2508.08992v1",
+    "date": "2025-08-12",
+    "source": "arXiv",
+    "content_es": "La teoría de la perspectiva (PT) modela la toma de decisiones humanas bajo incertidumbre, mientras que\nLos marcadores epistémicos (por ejemplo, tal vez) sirven para expresar incertidumbre en el lenguaje.\nSin embargo, permanece en gran medida inexplorado si la teoría del prospecto se aplica a\nmodelos contemporáneos de lenguaje grande y si marcadores epistémicos, que expresan\nLa incertidumbre humana, afecta su comportamiento de toma de decisiones. Para abordar estos\nbrechas de investigación, diseñamos un experimento de tres etapas basado en económico\ncuestionarios. Proponemos un marco de evaluación más general y preciso para\nEl comportamiento de toma de decisiones del modelo LLMS bajo PT, introduciendo incertidumbre a través de\nLos valores de probabilidad empírica asociados con la epistémica de uso común\nMarcadores en contextos comparables. Luego incorporamos marcadores epistémicos en el\nMarco de evaluación basado en sus valores de probabilidad correspondientes para examinar\nSu influencia en los comportamientos de toma de decisiones de LLM. Nuestros hallazgos sugieren que\nEl modelado de la toma de decisiones de LLMS con PT no es constantemente confiable,\nparticularmente cuando la incertidumbre se expresa en diversas formas lingüísticas. Nuestro\nEl código se publica en https://github.com/hkust-knowcomp/marpt."
+  },
+  {
+    "title": "Use AI in the classroom to bring problems to life",
+    "title_es": "Use AI en el aula para dar vida a los problemas",
+    "url": "https://www.nature.com/articles/d41586-025-02571-1",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02571-1 use ai en el aula para dar vida a problemas"
+  },
+  {
+    "title": "Organs on chips could make biomedical research more equitable",
+    "title_es": "Los órganos en chips podrían hacer que la investigación biomédica sea más equitativa",
+    "url": "https://www.nature.com/articles/d41586-025-02569-9",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02569-9 Los órganos en chips podrían hacer que la investigación biomédica sea más equitativa"
+  },
+  {
+    "title": "Europe must safeguard climate data following NASA cuts",
+    "title_es": "Europa debe salvaguardar los datos climáticos después de los recortes de la NASA",
+    "url": "https://www.nature.com/articles/d41586-025-02572-0",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02572-0 Europa debe salvaguardar los datos climáticos después de los recortes de la NASA"
+  },
+  {
+    "title": "Study how screen time affects circadian rhythms",
+    "title_es": "Estudiar cómo el tiempo de pantalla afecta los ritmos circadianos",
+    "url": "https://www.nature.com/articles/d41586-025-02570-2",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02570-2 Estudiar cómo el tiempo de pantalla afecta los ritmos circadianos"
+  },
+  {
+    "title": "How Paris dealt with lightning in the Age of Enlightenment",
+    "title_es": "Cómo Paris lidió con los rayos en la era de la iluminación",
+    "url": "https://www.nature.com/articles/d41586-025-02429-6",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02429-6 Una mirada retrospectiva a los \"para-Tonergres\" en el París del siglo XVIII, y el artículo de debut de Paul Nurse, en nuestra salsa semanal en el archivo de la revista."
+  },
+  {
+    "title": "Impact of catastrophic flood might have been exacerbated by river-management programme",
+    "title_es": "El impacto de la inundación catastrófica podría haber sido exacerbado por el programa de gestión del río",
+    "url": "https://www.nature.com/articles/d41586-025-02354-8",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02354-8 Los esfuerzos para diseñar un río para reducir el riesgo de inundación podrían haber contribuido involuntariamente a la erosión severa del lecho del río, empeorando el impacto de la inundación."
+  },
+  {
+    "title": "Margaret Boden obituary: cognitive scientist who explored how machines might emulate human imagination",
+    "title_es": "Obituario de Margaret Boden: científico cognitivo que exploró cómo las máquinas podrían emular la imaginación humana",
+    "url": "https://www.nature.com/articles/d41586-025-02548-0",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02548-0 pionero erudito de inteligencia artificial, cuyo trabajo influyente cogida cigarrillos cognitivos, filosofía e informática."
+  },
+  {
+    "title": "Trump’s chief science adviser faces a storm of criticism: what's next?",
+    "title_es": "El principal asesor científico de Trump enfrenta una tormenta de críticas: ¿qué sigue?",
+    "url": "https://www.nature.com/articles/d41586-025-02510-0",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02510-0 Los investigadores estadounidenses tenían esperanzas cuando Donald Trump nombró a Michael Kratsios para una posición científica superior, pero muchos dicen que ha contribuido al caos. ¿Puede cambiar las cosas?"
+  },
+  {
+    "title": "AI content is tainting preprints: how moderators are fighting back",
+    "title_es": "El contenido de IA está contaminando preimpresiones: cómo los moderadores están luchando",
+    "url": "https://www.nature.com/articles/d41586-025-02469-y",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02469-Y Los servidores de preimpresión están viendo un aumento en las presentaciones aparentemente producidas por molinos de papel o con la ayuda de las herramientas de IA."
+  },
+  {
+    "title": "Postdoc depression and anxiety rates are rising, finds survey of 872 researchers",
+    "title_es": "Las tasas de depresión y ansiedad postdoc aumentan, encuentra una encuesta de 872 investigadores",
+    "url": "https://www.nature.com/articles/d41586-025-02450-9",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02450-9 La Sociedad Max Planck es buena para atraer postdocs internacionales pero lucha por retenerlos, según la encuesta."
+  },
+  {
+    "title": "‘A whole body of health-equity research is being disappeared’ — why I resigned from the NIH",
+    "title_es": "\"Se está desapareciendo todo un cuerpo de investigación de capital de la salud\", por qué renuncié al NIH",
+    "url": "https://www.nature.com/articles/d41586-025-02507-9",
+    "date": "2025-08-12",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02507-9 A medida que el apoyo federal se desvanece para la investigación que aborda las causas fundamentales de las disparidades de salud en los Estados Unidos, nos queda un vacío peligroso y una necesidad urgente de repensar los fondos de la ciencia."
+  },
+  {
+    "title": "Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
+    "title_es": "Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
+    "url": "https://www.cnio.es/noticias/nuevas-tesis-doctorales-en-el-cnio-enhorabuena-a-quienes-hacen-la-ciencia-del-futuro/",
+    "date": "2025-08-12",
+    "source": "CNIO",
+    "content_es": "Charles Darwin ponía sus esperanzas en los «naturalistas jóvenes y emergentes», que sabrían apreciar sus ideas rompedoras; a los veteranos, en cambio, no aspiraba a convencerlos porque sus mentes «están repletas de datos analizados desde un punto de vista opuesto al mío durante muchos años», escribió en El Origen de las Especies–. El físico Max […] La entrada Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro! se publicó primero en CNIO ."
+  },
+  {
     "title": "Cut2Next: Generating Next Shot via In-Context Tuning",
     "title_es": "CUT2Next: Generación del siguiente disparo a través de la sintonización en contexto",
     "url": "http://arxiv.org/abs/2508.08244v1",
@@ -206,6 +470,14 @@
     "date": "2025-08-11",
     "source": "Nature",
     "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/d41586-025-02511-z El software de hoja de cálculo puede ser frustrante, pero la adopción de algunos hábitos útiles puede mejorar su efectividad."
+  },
+  {
+    "title": "Daily briefing: Political officials could control US federal science grants",
+    "title_es": "Información diaria: los funcionarios políticos podrían controlar las subvenciones federales de la ciencia estadounidense",
+    "url": "https://www.nature.com/articles/d41586-025-02573-z",
+    "date": "2025-08-11",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 11 de agosto de 2025; doi: 10.1038/d41586-025-02573-Z Una orden ejecutiva del presidente de los Estados Unidos, Donald Trump, podría significar que los nombrados políticos examinarán las solicitudes de las solicitudes para la investigación \"antiamericana\". Además, ocho \"señales genéticas\" del síndrome de fatiga ME/crónica y el investigador que salió al mar, estilo vikingo."
   },
   {
     "title": "Swift bricks, ancient tattoos and more: Books in brief",
@@ -837,7 +1109,7 @@
     "url": "https://www.nature.com/articles/d41586-025-02505-x",
     "date": "2025-08-07",
     "source": "Nature",
-    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02505-x Informe Los autores dan la bienvenida a las refutaciones científicas \"serias\" para informar que algunos dicen que tergiversan décadas de ciencia climática."
+    "content_es": "Nature, publicado en línea: 07 de agosto de 2025; doi: 10.1038/d41586-025-02505-x Los autores dan la bienvenida a refutaciones científicas \"serias\" para informar que algunos dicen que tergiversan décadas de ciencia climática."
   },
   {
     "title": "How researcher visa curbs threaten science careers",
