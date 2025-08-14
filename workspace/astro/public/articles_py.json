@@ -8,6 +8,414 @@
     "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02561-3 Un cuerpo helado demostró ser un sobreviviente al reaparecer en las imágenes del telescopio después de pasar cerca del sol."
   },
   {
+    "title": "Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation",
+    "title_es": "Echo-4O: aprovechando el poder de las imágenes sintéticas GPT-4O para una generación de imágenes mejorado",
+    "url": "http://arxiv.org/abs/2508.09987v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Recientemente, GPT-4O ha atraído una atención significativa por su fuerte\nRendimiento en la generación de imágenes, pero los modelos de código abierto aún se quedan atrás.\nVarios estudios han explorado la destilación de datos de imágenes de GPT-4O para mejorar\nModelos de código abierto, logrando un progreso notable. Sin embargo, una pregunta clave\nrestos: dado que los conjuntos de datos de imágenes del mundo real ya constituyen un\nFuente de datos de alta calidad, ¿por qué deberíamos usar datos sintéticos generados por GPT-4O?\nEn este trabajo, identificamos dos ventajas clave de las imágenes sintéticas. Primero, ellos\npuede complementar escenarios raros en conjuntos de datos del mundo real, como la fantasía surrealista\no generación de imágenes de referencia múltiple, que se produce con frecuencia en las consultas de los usuarios.\nEn segundo lugar, proporcionan supervisión limpia y controlable. Datos del mundo real a menudo\ncontiene ruido de fondo complejo y desalineación inherente entre el texto\ndescripciones y contenido de imagen, mientras que las imágenes sintéticas ofrecen fondos puros\ny señales de supervisión de cola larga, que facilitan el texto a imagen más preciso\nalineación. Sobre la base de estas ideas, presentamos Echo-4O-Image, una escala de 180k\nconjunto de datos sintético generado por GPT-4O, aprovechando el poder de la imagen sintética\nDatos para abordar los puntos ciegos en la cobertura del mundo real. Usando este conjunto de datos, nosotros\nAtrae el bagel basal de la generación multimodal unificada para obtener ECHO-4O.\nAdemás, proponemos dos nuevos puntos de referencia de evaluación para un más preciso y\nEvaluación desafiante de las capacidades de generación de imágenes: Gineval ++, que\naumenta la complejidad de la instrucción para mitigar la saturación de puntaje y\nImagine-bench, que se centra en evaluar tanto la comprensión como\nGeneración de contenido imaginativo. Echo-4o demuestra un rendimiento fuerte\na través de puntos de referencia estándar. Además, aplicando ECHO-4O-IMAGE a otros\nLos modelos de base (por ejemplo, Omnigen2, Blip3-O) producen ganancias de rendimiento consistentes\nEn múltiples métricas, destacando los conjuntos de datos una fuerte transferibilidad."
+  },
+  {
+    "title": "Vision-driven River Following of UAV via Safe Reinforcement Learning using Semantic Dynamics Model",
+    "title_es": "Río impulsado por la visión después de UAV a través de un aprendizaje de refuerzo seguro utilizando el modelo de dinámica semántica",
+    "url": "http://arxiv.org/abs/2508.09971v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "El río autónomo impulsado por la visión después de los vehículos aéreos no tripulados es\ncrítico para aplicaciones como rescate, vigilancia y medio ambiente\nmonitoreo, particularmente en entornos ribereños densos donde las señales GPS son\nfaltón. Formalizamos el seguimiento del río como un problema de control de cobertura en el que\nLa función de recompensa es submodular, produciendo rendimientos decrecientes como más exclusivos\nSe visitan los segmentos del río, enmarcando así la tarea como un Markov submodular\nProceso de decisión. Primero, presentamos una estimación de ventaja de ganancia marginal, que\nRefina la función de ventaja de recompensa utilizando una línea de base de ventana deslizante\ncalculado a partir de retornos episódicos históricos, alineando así la ventaja\nEstimación con el reconocimiento en evolución del valor del valor de acción del agente en\nConfiguración no markoviana. En segundo lugar, desarrollamos un modelo de dinámica semántica basado en\nmáscaras semánticas de agua parcheadas que proporcionan más interpretables y\nPredicción a corto plazo eficiente de datos de observaciones futuras en comparación con latente\nModelos de dinámica de visión. Tercero, presentamos la dinámica del actor limitada\nArquitectura estimadora, que integra al actor, el estimador de costos y SDM\nPara la estimación de la ventaja de costo para formar un marco Saferl basado en modelos capaz de\nResolviendo procesos de decisión submodulares de Markov restringidos parcialmente observables.\nLos resultados de la simulación demuestran que MGAE logra una convergencia más rápida y\nrendimiento superior sobre métodos tradicionales basados en críticos como generalizado\nEstimación de ventaja. SDM proporciona predicciones estatales a corto plazo más precisas\nque permite que el estimador de costos predice mejor violaciones potenciales. En general,\nCade integra efectivamente la regulación de seguridad en RL basado en modelos, con el\nEnfoque lagrangiano que logra el equilibrio suave de recompensa y seguridad durante\nentrenamiento, mientras que la capa de seguridad mejora el rendimiento durante la inferencia por duro\nsuperposición de acción."
+  },
+  {
+    "title": "January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation Suite for Multimodal Food Analysis",
+    "title_es": "Enero Benchmark (JFB): un conjunto de datos de referencia pública y suite de evaluación para análisis multimodal de alimentos",
+    "url": "http://arxiv.org/abs/2508.09966v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "El progreso en la IA para el análisis nutricional automatizado se ve obstaculizado por\nLa falta de metodologías de evaluación estandarizadas y el mundo real de alta calidad\nconjuntos de datos de referencia. Para abordar esto, presentamos tres contribuciones principales.\nPrimero, presentamos el Benchmark de Food de enero (JFB), un\nColección de 1,000 imágenes de alimentos con anotaciones validadas humanas. Segundo, nosotros\ndetalla un marco integral de evaluación comparativa, que incluye métricas robustas y un\npuntaje general novedoso, orientado a la aplicación, diseñado para evaluar el rendimiento del modelo\nHolísticamente. En tercer lugar, proporcionamos resultados de referencia de ambos usos generales\nModelos en idioma de visión (VLMS) y nuestro propio modelo especializado,\nEnero/Food-Vision-V1. Nuestra evaluación demuestra que el modelo especializado\nlogra una puntuación general de 86.2, una mejora de 12.1 puntos sobre el\nConfiguración general de propósito general. Este trabajo ofrece la investigación\nComunidad Un conjunto de datos de evaluación nuevo y valioso y un marco riguroso para guiar\ny desarrollos futuros de referencia en análisis nutricional automatizado."
+  },
+  {
+    "title": "GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation",
+    "title_es": "GBC: Marco generalizado de clonación del comportamiento para la imitación humanoide de todo el cuerpo",
+    "url": "http://arxiv.org/abs/2508.09960v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "La creación de robots humanoides humanos se ve obstaculizada por un fundamental\nFragmentación: el procesamiento de datos y los algoritmos de aprendizaje rara vez son universales\na través de diferentes morfologías de robots. Este documento presenta el generalizado\nMarco de clonación de comportamiento (GBC), una solución integral y unificada diseñada\nPara resolver este desafío de extremo a extremo. GBC establece una vía completa desde\nMovimiento humano para la acción robot a través de tres innovaciones sinérgicas. Primero, un\nLa tubería de datos adaptativa aprovecha una red IK diferenciable para automáticamente\nVuelva a atar en cualquier dato de MOCAP humano a cualquier humanoide. Construyendo sobre esta base, nuestro\nAlgoritmo novedoso Dagger-Mmpo con su arquitectura MMTransformer aprende robusta,\nPolíticas de imitación de alta fidelidad. Para completar el ecosistema, todo\nEl marco se entrega como una plataforma eficiente de código abierto basada en ISAAC\nLaboratorio, capacitar a la comunidad para implementar el flujo de trabajo completo a través de simple\nScripts de configuración. Validamos el poder y la generalidad de GBC mediante el entrenamiento\nPolíticas sobre múltiples humanoides heterogéneos, demostrando excelentes\nrendimiento y transferencia a movimientos novedosos. Este trabajo establece el primero\nvía práctica y unificada para crear humanoide verdaderamente generalizado\ncontroladores."
+  },
+  {
+    "title": "Specialised or Generic? Tokenization Choices for Radiology Language Models",
+    "title_es": "Especializado o genérico? Opciones de tokenización para modelos de idiomas de radiología",
+    "url": "http://arxiv.org/abs/2508.09952v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "El vocabulario utilizado por los modelos de idiomas (LM), definido por el tokenizer -\njuega un papel clave en la calidad de la generación de texto. Sin embargo, su impacto permanece\npoco explorado en radiología. En este trabajo, abordamos esta brecha por\ncomparando sistemáticamente tokenizadores generales, médicos y específicos de dominio en\nLa tarea de resumen de los informes de radiología en tres modalidades de imagen. Nosotros\nTambién investigue escenarios con y sin pretraben de LM en PubMed\nresúmenes. Nuestros hallazgos demuestran que\nLos vocabularios superaron las alternativas de lenguaje natural ampliamente utilizados cuando los modelos\nestán entrenados desde cero. Prerreining-Mitiga parcialmente el rendimiento\nLas diferencias entre los tokenizadores, mientras que los tokenizadores específicos del dominio logran\nLos resultados más favorables. Los tokenizadores específicos del dominio también reducen la memoria\nRequisitos debidos a vocabularios más pequeños y secuencias más cortas. Estos resultados\nDemostrar que la adaptación del vocabulario de LMS al dominio clínico proporciona\nbeneficios prácticos, incluido un mejor rendimiento y una computación reducida\ndemandas, hacer que tales modelos sean más accesibles y efectivos tanto para la investigación como para\nConfiguración de salud del mundo real."
+  },
+  {
+    "title": "VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models",
+    "title_es": "Viscodex: generación de código multimodal unificado a través de modelos de visión y codificación de fusiones",
+    "url": "http://arxiv.org/abs/2508.09945v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Los modelos multimodales de lenguaje grande (MLLMS) han avanzado significativamente el\nIntegración de la comprensión visual y textual. Sin embargo, su capacidad para\nGenerar código a partir de entradas multimodales sigue siendo limitado. En este trabajo, nosotros\nIntroducir a Viscodex, un marco unificado que fusiona sin problemas la visión y\nCodificación de modelos de lenguaje para empoderar a MLLM con una fuerte generación de código multimodal\ntalento. Aprovechando una técnica de fusión de modelo basada en el vector de tareas, integramos\nuna codificación de vanguardia en una fuerte columna vertebral de la visión, mientras que\nPreservar tanto la comprensión visual como las habilidades de codificación avanzada. Para apoyar\ncapacitación y evaluación, presentamos el conjunto de datos de codificación multimodal (MCD), un\ncolección a gran escala y diversa de 598K muestras, incluido HTML de alta calidad\nCódigo, parejas de código de imagen de cuadro, QA Stackoverflow acuático y algorítmico\nproblemas. Además, proponemos Infibench-V, una novela y desafiante\nBenchmark diseñado específicamente para evaluar modelos en el mundo real visualmente rico\nPreguntas de programación que exigen una comprensión matizada de textual y\ncontextos visuales. Experimentos extensos muestran que Viscodex logra\nrendimiento de vanguardia entre MLLM de código abierto y enfoques propietarios\nmodelos como GPT-4O, destacando la efectividad de nuestro modelo Fusion\nestrategia y nuevos conjuntos de datos."
+  },
+  {
+    "title": "A Comprehensive Evaluation framework of Alignment Techniques for LLMs",
+    "title_es": "Un marco de evaluación integral de técnicas de alineación para LLMS",
+    "url": "http://arxiv.org/abs/2508.09937v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "A medida que los modelos de idiomas grandes (LLM) se integran cada vez más en\nAplicaciones del mundo real, asegurando que sus resultados se alineen con los valores humanos y\nLos estándares de seguridad se han vuelto críticos. El campo ha desarrollado una alineación diversa\nenfoques que incluyen métodos tradicionales de ajuste fino (RLHF, instrucción\najuste), sistemas de corrección post-hoc e intervenciones de inferencia, cada una\ncon distintas ventajas y limitaciones. Sin embargo, la falta de unificado\nLos marcos de evaluación dificulta la comparación sistemática de estos\nParadigmas y decisiones de implementación de guía. Este documento presenta un\nEvaluación multidimensional de técnicas de alineación para LLMS, una integral\nMarco de evaluación que proporciona una comparación sistemática en todos los principales\nParadigmas de alineación. Nuestro marco evalúa los métodos a lo largo de cuatro dimensiones clave:\ndetección de alineación, calidad de alineación, eficiencia computacional y\nrobustez. A través de experimentos en diversos modelos base y alineación\nestrategias, demostramos la utilidad de nuestro marco para identificar\nfortalezas y limitaciones de los modelos de vanguardia actuales, proporcionando\nValiosas ideas para futuras direcciones de investigación."
+  },
+  {
+    "title": "Mathematical Computation and Reasoning Errors by Large Language Models",
+    "title_es": "Errores de cálculo matemático y razonamiento por modelos de idiomas grandes",
+    "url": "http://arxiv.org/abs/2508.09932v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) se utilizan cada vez más en\ninstrucción educativa y evaluación, particularmente en matemáticas\neducación. La capacidad de los LLM para generar respuestas precisas y detalladas\nLas soluciones para las tareas de resolución de problemas matemáticos son fundamentales para garantizar\ny comentarios y evaluaciones precisas en prácticas de educación matemática. Nuestro estudio\nSe centra en evaluar la precisión de cuatro LLM (OpenAI GPT-4O y O1,\nDeepseek-v3 y Deepseek-r1) Resolver tres categorías de tareas matemáticas, incluidas\naritmética, álgebra y teoría de números, e identifica el razonamiento a nivel de paso\nErrores dentro de sus soluciones. En lugar de confiar en puntos de referencia estándar,\nConstruir intencionalmente tareas matemáticas (a través de modelos de elementos) que son desafiantes para LLMS\ny propenso a errores. La precisión de las respuestas finales y la presencia de errores\nEn la solución individual, los pasos se analizaron y codificaron sistemáticamente. Ambos\nSe probaron configuraciones de agente único y agente de doble agente. Se observa que el\nEl modelo OpenAI O1 OpenAI mejorado con el razonamiento logró constantemente más alto o casi\nPrecisión perfecta en las tres categorías de tareas matemáticas. Análisis de errores\nreveló que los resbalones de procedimiento fueron los más frecuentes y significativamente\nEl rendimiento general impactado, mientras que los malentendidos conceptuales fueron menos\nfrecuente. La implementación de configuraciones de doble agente mejoró sustancialmente en general\nactuación. Estos hallazgos ofrecen información procesable para mejorar la LLM\nrendimiento y subrayar estrategias efectivas para integrar LLM en\neducación matemática, avanzando así las prácticas de instrucción impulsadas por la IA y\nPrecisión de evaluación."
+  },
+  {
+    "title": "Residual Reservoir Memory Networks",
+    "title_es": "Redes de memoria de depósito residual",
+    "url": "http://arxiv.org/abs/2508.09925v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Presentamos una nueva clase de redes neuronales recurrentes no capacitadas (RNN)\nDentro del paradigma de la computación del depósito (RC), llamado memoria residual del depósito\nRedes (resrmns). RESRMN combina un depósito de memoria lineal con un no lineal\nembalse, donde este último se basa en conexiones ortogonales residuales a lo largo\nLa dimensión temporal para una propagación mejorada a largo plazo de la entrada. El\nLa dinámica del estado del depósito resultante se estudia a través de la lente de lineal\nanálisis de estabilidad, e investigamos diversas configuraciones para el temporal\nconexiones residuales. El enfoque propuesto se evalúa empíricamente en\nSerie de tiempo y tareas de clasificación 1-D de nivel de píxel. Nuestros resultados experimentales\nresaltar las ventajas del enfoque propuesto sobre otro RC convencional\nmodelos."
+  },
+  {
+    "title": "T-CACE: A Time-Conditioned Autoregressive Contrast Enhancement Multi-Task Framework for Contrast-Free Liver MRI Synthesis, Segmentation, and Diagnosis",
+    "title_es": "T-CACE: un marco de tareas múltiple de mejora de contraste autorregresivo de tiempo de tiempo para la síntesis de resonancia magnética hepática sin contraste, segmentación y diagnóstico",
+    "url": "http://arxiv.org/abs/2508.09919v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "La resonancia magnética (MRI) es una modalidad líder para el diagnóstico de\ncáncer de hígado, mejorando significativamente la clasificación de la lesión y\nResultados del paciente. Sin embargo, la resonancia magnética tradicional enfrenta desafíos que incluyen riesgos\na partir de la administración del agente de contraste (CA), la evaluación manual que consumen mucho tiempo y\nconjuntos de datos anotados limitados. Para abordar estas limitaciones, proponemos un\nMarco de mejora del contraste autorregresivo (T-CACE) condicionado por el tiempo para\nsintetizar la resonancia magnética de contraste multifásico (cemri) directamente de\nMRI sin contraste (NCMRI). T-CACE presenta tres innovaciones centrales: un\nmecanismo de codificación de token condicional (CTE) que unifica los antecedentes anatómicos y\ninformación de fase temporal en representaciones latentes; y una dinámica\nMáscara de atención con consumo de tiempo (DTAM) que modula adaptativamente la interfase\nFlujo de información utilizando un mecanismo de atención gaussiano, asegurando suave\ny transiciones fisiológicamente plausibles a través de fases. Además, un\nLa restricción para la consistencia de clasificación temporal (TCC) alinea la lesión\nsalida de clasificación con la evolución de la señal fisiológica, más allá\nMejora de la fiabilidad diagnóstica. Experimentos extensos en dos independientes\nLos conjuntos de datos de MRI de hígado demuestran que T-CACE supera a los métodos de vanguardia\nen síntesis de imagen, segmentación y clasificación de lesiones. Este marco\nofrece una alternativa clínicamente relevante y eficiente a\nimágenes con contraste, mejorando la seguridad, la eficiencia del diagnóstico y\nConfiabilidad para la evaluación de la lesión hepática. La implementación de T-CACE es\ndisponible públicamente en: https://github.com/xiaojiao929/t-cace."
+  },
+  {
+    "title": "Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs",
+    "title_es": "Más allá de la intención ingenua: estrategias para una pronóstico mejorado de contexto con contexto de disparo cero con LLMS",
+    "url": "http://arxiv.org/abs/2508.09904v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "El pronóstico en la configuración del mundo real requiere modelos para integrar no solo\ndatos históricos pero también información contextual relevante, a menudo disponible en\nforma textual. Si bien el trabajo reciente ha demostrado que los modelos de idiomas grandes (LLM) pueden\nser pronosticadores efectivos con el contexto a través de Na \\ \"Ive Direct Invition, su completo\nEl potencial permanece subexplorado. Abordamos esta brecha con 4 estrategias,\nProporcionar nuevas ideas sobre las capacidades de disparo cero de LLM en este entorno.\nREDP mejora la interpretabilidad al provocar rastros de razonamiento explícitos, permitiendo\nnosotros para evaluar el razonamiento del modelo sobre el contexto independientemente de su\nPronóstico precisión. CordP Aproveche LLM únicamente para refinar los pronósticos existentes\ncon contexto, mejorando su aplicabilidad en el pronóstico del mundo real\ntuberías. IC-DP propone integrar ejemplos históricos de contexto\nTareas de pronóstico en el aviso, mejorando sustancialmente la precisión incluso para el\nmodelos más grandes. Finalmente, RoutedP optimiza la eficiencia de los recursos mediante el uso de LLMS para\nestimar la dificultad de la tarea y enrutar las tareas más desafiantes para más grandes\nmodelos. Evaluado en diferentes tipos de tareas de pronóstico asistidas por contexto de\nEl punto de referencia de CIK, nuestras estrategias demuestran beneficios distintos sobre Na \\ \"ive\nprovocando a través de LLM de diferentes tamaños y familias. Estos resultados abren el\npuerta a mejoras simples pero efectivas en el contexto basado en LLM\npronóstico."
+  },
+  {
+    "title": "Rare anomalies require large datasets: About proving the existence of anomalies",
+    "title_es": "Las anomalías raras requieren grandes conjuntos de datos: sobre demostrar la existencia de anomalías",
+    "url": "http://arxiv.org/abs/2508.09894v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Detectar si existen anomalías dentro de un conjunto de datos es crucial para\nDetección efectiva de anomalías, sin embargo, sigue siendo sorprendentemente subexplorado en\nLiteratura de detección de anomalías. Este artículo presenta un estudio integral que\naborda la pregunta fundamental: ¿cuándo podemos determinar de manera concluyente que\nanomalías están presentes? A través de una amplia experimentación que involucra más de tres\nmillones de pruebas estadísticas en varias tareas de detección de anomalías y\nAlgoritmos, identificamos una relación entre el tamaño del conjunto de datos, la contaminación\ntasa, y una constante dependiente de algoritmo $ \\ alpha _ {\\ text {algo}} $. Nuestros resultados\nDemuestre que, para un conjunto de datos no etiquetado de tamaño $ n $ y tasa de contaminación\n$ \\ nu $, la condición $ n \\ ge \\ frac {\\ alpha _ {\\ text {algo}}} {\\ nu^2} $ representa\nUn límite inferior en el número de muestras requeridas para confirmar la existencia de anomalías.\nEste umbral implica un límite de lo raras que pueden ser las anomalías antes de probar\nSu existencia se vuelve infalible."
+  },
+  {
+    "title": "RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA",
+    "title_es": "Cumplimiento de ragulación: un gráfico de conocimiento de múltiples agentes para QA regulatorio",
+    "url": "http://arxiv.org/abs/2508.09893v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "La respuesta a la pregunta de cumplimiento regulatorio (QA) requiere preciso y verificable\ninformación y experiencia específica de dominio, que plantea desafíos para grandes\nModelos de idiomas (LLM). En este trabajo, presentamos un nuevo marco de agente múltiple\nque integra un gráfico de conocimiento (kg) de trillizos regulatorios con\nGeneración de recuperación de generación (RAG) para abordar estas demandas. Primero, agentes\nConstruya y mantiene un KG sin ontología extrayendo sujeto-predicando-Object\n(SPO) trillizos de documentos regulatorios y limpieza sistemáticamente,\nNormalizar, deduplicarlos y actualizarlos. Segundo, estos trillizos son\nincrustado y almacenado junto con sus secciones textuales correspondientes y\nmetadatos en una única base de datos vectorial enriquecida, lo que permite ambos\nrazonamiento y recuperación de información eficiente. Tercero, un agente orquestado\nLa tubería aprovecha la recuperación a nivel de triplete para la respuesta de las preguntas, asegurando\nalta alineación semántica entre consultas de usuario y lo hecho\nEl núcleo de \"Who-Did-what-whom\" capturado por el gráfico. Nuestro sistema híbrido\nSuperación supera los métodos convencionales en consultas regulatorias complejas, asegurando\nCorracción objetiva con trillizos integrados, lo que permite la trazabilidad a través de un\nbase de datos de vectores unificados y mejorar la comprensión a través de la subgraph\nvisualización, proporcionando una base robusta para el cumplimiento y más amplia\nAplicaciones centradas en la auditoría."
+  },
+  {
+    "title": "AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving",
+    "title_es": "Aworld: sistema dinámico de múltiples agentes con maniobras estables para resolver problemas de Gaia",
+    "url": "http://arxiv.org/abs/2508.09889v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "El rápido avance de los modelos de idiomas grandes (LLM) ha empoderado\nAgentes inteligentes para aprovechar diversas herramientas externas para resolver complejo\nProblemas del mundo real. Sin embargo, a medida que los agentes dependen cada vez más de múltiples herramientas,\nse encuentran con nuevos desafíos: contextos extendidos de fuentes dispares y\nLas salidas de herramientas ruidosas o irrelevantes pueden socavar la confiabilidad y precisión del sistema.\nEstos desafíos subrayan la necesidad de una mayor estabilidad en agente basado en agentes\nsistemas. Para abordar esto, presentamos supervisión dinámica y maniobra\nmecanismos, construyendo un sistema de agente múltiple robusto y dinámico (MAS)\nArquitectura dentro del marco de Aworld. En nuestro enfoque, el agente de ejecución\ninvoca al agente de la guardia en pasos críticos para verificar y corregir el razonamiento\nproceso, reduciendo efectivamente los errores derivados del ruido y la refuerzo\nRobustez de resolución de problemas. Experimentos extensos en el conjunto de datos de prueba de GAIA\nrevelar que nuestro mecanismo de maniobra dinámica mejora significativamente tanto el\nEfectividad y estabilidad de las soluciones, superando el sistema de agente único\n(SAS) y sistemas estándar de herramientas unidas. Como resultado, nuestro sistema MAS dinámico\nlogró el primer lugar entre los proyectos de código abierto en el prestigioso Gaia\ntabla de clasificación. Estos hallazgos resaltan el valor práctico de la colaboración\nRoles de agentes en el desarrollo de sistemas inteligentes más confiables y confiables."
+  },
+  {
+    "title": "COME: Dual Structure-Semantic Learning with Collaborative MoE for Universal Lesion Detection Across Heterogeneous Ultrasound Datasets",
+    "title_es": "Venga: Aprendizaje semántico de doble estructura con MOE colaborativo para la detección de lesiones universales en conjuntos de datos de ultrasonido heterogéneos",
+    "url": "http://arxiv.org/abs/2508.09886v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "La capacitación convencional de una sola dataSet a menudo falla con nuevas distribuciones de datos,\nespecialmente en el análisis de imagen de ultrasonido (EE. UU.) Debido a datos limitados, acústica\nsombras y ruido de moteos. Por lo tanto, construyendo un marco universal para\nLos conjuntos de datos estadounidenses multiheterogéneos son imperativos. Sin embargo, surge un desafío clave:\ncómo mitigar de manera efectiva la interferencia entre dataset mientras se preserva\n¿Características discriminativas específicas del conjunto de datos para una tarea robusta aguas abajo? Anterior\nLos enfoques utilizan un decodificador específico de una sola fuente o un dominio\nEstrategia de adaptación, pero estos métodos experimentaron una disminución en el rendimiento\ncuando se aplica a otros dominios. Teniendo en cuenta esto, proponemos un universal\nMezcla colaborativa de expertos heterogéneos específicos de la fuente (Come).\nEspecíficamente, Come establece expertos compartidos semánticos de estructura dual que\ncrear un espacio de representación universal y luego colaborar con\nExpertos específicos de la fuente para extraer características discriminatorias a través del proporcionar\nCaracterísticas complementarias. Este diseño permite una generalización robusta al aprovechar\nDistribuciones de experiencia entre datasets y proporcionando antecedentes universales de los Estados Unidos para\nescenarios de datos pequeños o no vistos. Experimentos extensos menores de tres\nModos de evaluación (Integración de una sola dataSet, Intra-Organ e Inter-Organg\nconjuntos de datos) demostrar la superioridad de Come, logrando una AP media significativa\nMejoras sobre los métodos de última generación. Nuestro proyecto está disponible en:\nhttps://universalcome.github.io/universalcome/."
+  },
+  {
+    "title": "Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning",
+    "title_es": "Más allá de la ley de escala: un marco de destilación de eficiencia de datos para el razonamiento",
+    "url": "http://arxiv.org/abs/2508.09883v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Modelos de idiomas grandes (LLM) demuestran capacidades de razonamiento notables en\nTareas como la codificación algorítmica y la resolución de problemas matemáticos. Reciente\nLos métodos han mejorado el razonamiento a través de un cuerpo ampliado y capacitación en varias etapas\nCombinando el aprendizaje de refuerzo y el ajuste fino supervisado. Aunque algunos\nLos métodos sugieren que el conjunto de datos pequeño pero dirigido puede incentivar el razonamiento a través de\nSolo la destilación, un razonamiento de las leyes de escala aún está tomando forma, aumentando, aumentando\ncostos computacionales. Para abordar esto, proponemos una destilación de eficiencia de datos\nMarco (DED) que optimiza la frontera de Pareto de la destilación de razonamiento.\nInspirado en el aprendizaje en la política y las diversas estrategias de implementación de\nAprendizaje de refuerzo, la idea clave de nuestro enfoque es triple: (1)\nIdentifique que las puntuaciones de referencia por sí solas no determinen un maestro efectivo\nmodelo. A través de comparaciones completas de LLM de razonamiento líder, desarrollamos\nUn método para seleccionar un modelo de maestro óptimo. (2) mientras la destilación de escala puede\nMejora el razonamiento, a menudo degrada el rendimiento fuera del dominio. Un cuidadosamente\nCorpus curado y más pequeño logra una compensación equilibrada entre el dominio y\ncapacidades fuera de dominio. (3) diversas trayectorias de razonamiento fomentan la\nmodelo de estudiante para desarrollar habilidades de razonamiento robustas. Validamos nuestro método\nA través de evaluaciones sobre razonamiento matemático (AIME 2024/2025, Math-500) y\nGeneración de código (LivecodeBench), logrando resultados de última generación con solo\n0.8K Ejemplos cuidadosamente seleccionados, evitando la necesidad de una escala extensa. Nuestro\nEl análisis sistemático demuestra que DED supera los métodos existentes por\nconsiderando factores más allá de la dureza superficial, la longitud de la ficha o el modelo de maestro\ncapacidad. Este trabajo ofrece una vía práctica y eficiente para avanzar\nrazonamiento mientras preserva las capacidades generales."
+  },
+  {
+    "title": "Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models",
+    "title_es": "Decodificador de memoria: una memoria previa a la aparición de modelos de idiomas grandes para grandes",
+    "url": "http://arxiv.org/abs/2508.09874v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) han mostrado fuertes habilidades en lenguaje general\nLas tareas, pero adaptarlas a dominios específicos sigue siendo un desafío. Actual\nMétodo como el pretratenamiento adaptativo de dominio (DAPT) requiere un parámetro completo costoso\nentrenamiento y sufre de olvido catastrófico. Mientras tanto,\nLa generación de recuperación de la generación (RAG) introduce una latencia de inferencia sustancial\nDebido a las costosas búsquedas de vecinos más cercanos y un contexto más largo. Este papel\nPresenta el decodificador de memoria, una memoria previa a la aparición de plug-and-play que habilita\nAdaptación de dominio eficiente sin cambiar los parámetros del modelo original.\nEl decodificador de memoria emplea un pequeño decodificador de transformadores que aprende a imitar el\nComportamiento de un retriever no paramétrico externo. Una vez entrenado, el decodificador de memoria\npuede integrarse sin problemas con cualquier modelo de lenguaje previamente practicado que comparta el\nEl mismo tokenizador, que no requiere modificaciones específicas del modelo. Resultados experimentales\ndemostrar que el decodificador de memoria permite una adaptación efectiva de varios qwen\ny modelos de llama para tres dominios especializados distintos: biomedicina, finanzas,\ny ley, reduciendo la perplejidad en un promedio de 6.17 puntos. En general, memoria\nDecoder presenta un noveloso paradigma centrado en una memoria especialmente previa\nComponente diseñado para la adaptación específica del dominio. Esta arquitectura de memoria puede\nestar integrado de manera plug-and-play, mejorando constantemente el rendimiento\nen múltiples modelos dentro del dominio objetivo."
+  },
+  {
+    "title": "Human-Aligned Procedural Level Generation Reinforcement Learning via Text-Level-Sketch Shared Representation",
+    "title_es": "Aprendizaje de refuerzo de generación a nivel de procedimiento alineado por humanos a través de la representación compartida",
+    "url": "http://arxiv.org/abs/2508.09860v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "La IA alineada por humanos es un componente crítico de la co-creatividad, como lo permite\nmodelos para interpretar con precisión la intención humana y generar salidas controlables\nque se alinean con los objetivos de diseño en la creación de contenido colaborativo. Esta dirección\nes especialmente relevante en la generación de contenido de procedimiento a través del refuerzo\nAprendizaje (PCGRL), que está destinado a servir como una herramienta para los diseñadores humanos.\nSin embargo, los sistemas existentes a menudo no tienen la exhibición\ncomportamiento, limitar la utilidad práctica de las herramientas de generación impulsadas por la IA en\nflujos de trabajo de diseño del mundo real. En este artículo, proponemos VIPCGRL\n(PCGRL de instrucción de visión), un nuevo marco de aprendizaje de refuerzo profundo que\nincorpora tres modalidades de texto, nivel y bocetos para extender el control\nmodalidad y mejorar la probabilidad humana. Presentamos un espacio de incrustación compartido\nEntrenado a través de un aprendizaje contrastante cuádruple a través de modalidades y humano-ai\nestilos y alinear la política utilizando una recompensa auxiliar basada en la incrustación\nsemejanza. Los resultados experimentales muestran que VIPCGRL supera a\nlíneas de base en la probabilidad humana, validada por las métricas cuantitativas y\nEvaluaciones humanas. El código y el conjunto de datos estarán disponibles después de la publicación."
+  },
+  {
+    "title": "STREAM (ChemBio): A Standard for Transparently Reporting Evaluations in AI Model Reports",
+    "title_es": "Stream (Chembio): un estándar para las evaluaciones de informes transparentes en los informes del modelo de IA",
+    "url": "http://arxiv.org/abs/2508.09853v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Las evaluaciones de las capacidades de IA peligrosas son importantes para administrar\nriesgos catastróficos. Transparencia pública en estas evaluaciones, incluida lo que\nProban, cómo se llevan a cabo y cómo sus resultados informan las decisiones\ncrucial para generar confianza en el desarrollo de la IA. Proponemos la corriente (un estándar para\nInforme de manera transparente evaluaciones en informes del modelo de IA), un estándar para mejorar\ncómo los informes del modelo revelan los resultados de la evaluación, inicialmente centrándose en químicos\ny puntos de referencia biológicos (Chembio). Desarrollado en consulta con 23 expertos\nEn todo el gobierno, la sociedad civil, la academia y las compañías de IA fronteriza, esto\nEl estándar está diseñado para (1) ser un recurso práctico para ayudar a los desarrolladores de IA\nPresente los resultados de la evaluación más claramente, y (2) ayudar a los terceros a identificar\nSi los informes del modelo proporcionan detalles suficientes para evaluar el rigor del\nEvaluaciones de Chembio. Demostramos concretamente nuestras mejores prácticas propuestas con\nEjemplos de \"estándar de oro\", y también proporcionan una plantilla de informe de tres páginas para\nHabilite a los desarrolladores de IA implementar nuestras recomendaciones más fácilmente."
+  },
+  {
+    "title": "Perceptual Reality Transformer: Neural Architectures for Simulating Neurological Perception Conditions",
+    "title_es": "Transformador de realidad perceptiva: arquitecturas neuronales para simular condiciones de percepción neurológica",
+    "url": "http://arxiv.org/abs/2508.09852v1",
+    "date": "2025-08-13",
+    "source": "arXiv",
+    "content_es": "Las condiciones neurológicas que afectan la percepción visual crean profundas\ndivisiones experimentales entre las personas afectadas y sus cuidadores,\nfamilias y profesionales médicos. Presentamos la realidad perceptiva\nTransformer, un marco integral que emplea seis neurales distintos\narquitecturas para simular ocho condiciones de percepción neurológica con\nTransformaciones visuales científicamente fundamentadas. Nuestro sistema aprende mapeos de\nImágenes naturales a estados perceptivos específicos de la condición, lo que permite a otros\nExperiencia aproximaciones de simultanognosia, prosopagnosia, atención con TDAH\ndéficits, agnosia visual, cambios relacionados con la depresión, visión del túnel de ansiedad,\ny los efectos de memoria de Alzheimer. A través de la evaluación sistemática en Imexenet\ny conjuntos de datos CIFAR-10, demostramos que las arquitecturas de transformadores de visión\nlograr un rendimiento óptimo, superando a CNN tradicional y generativo\naproches. Nuestro trabajo establece el primer punto de referencia sistemático para\nsimulación de percepción neurológica, contribuye con una nueva condición específica\nFunciones de perturbación basadas en la literatura clínica y proporciona\nMétricas cuantitativas para evaluar la fidelidad de la simulación. El marco tiene\nAplicaciones inmediatas en educación médica, capacitación de empatía y asistencia\nDesarrollo de la tecnología, al tiempo que avanza nuestra comprensión fundamental de cómo\nLas redes neuronales pueden modelar la percepción humana atípica."
+  },
+  {
+    "title": "Publisher Correction: Liquid–liquid interfacial tension stabilized Li-metal batteries",
+    "title_es": "Corrección del editor: baterías de metal estabilizadas con tensión interfacial líquido-líquido",
+    "url": "https://www.nature.com/articles/s41586-025-09504-y",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09504-Y Corrección del editor: baterías estabilizadas de li-metal de tensión interfacial líquido-líquido"
+  },
+  {
+    "title": "Spatial correlation in economic analysis of climate change",
+    "title_es": "Correlación espacial en el análisis económico del cambio climático",
+    "url": "https://www.nature.com/articles/s41586-025-09206-5",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09206-5 correlación espacial en el análisis económico del cambio climático"
+  },
+  {
+    "title": "Sun-powered flyers could explore the mysterious mesosphere",
+    "title_es": "Los volantes con energía solar podrían explorar la misteriosa mesosfera",
+    "url": "https://www.nature.com/articles/d41586-025-02582-y",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02582-y un centímetro de ancho puede usar el calor del sol para levitar, además, los nuevos experimentos que intentan responder si la gravedad es cuántica."
+  },
+  {
+    "title": "Rubber planting and deforestation",
+    "title_es": "Plantación de goma y deforestación",
+    "url": "https://www.nature.com/articles/s41586-025-08848-9",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-08848-9 plantación de goma y deforestación"
+  },
+  {
+    "title": "Y. Wang et al. reply",
+    "title_es": "Y. Wang et al. responder",
+    "url": "https://www.nature.com/articles/s41586-025-08849-8",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-08849-8 Y. Wang et al. responder"
+  },
+  {
+    "title": "Accuracy of rubber-related deforestation maps",
+    "title_es": "Precisión de los mapas de deforestación relacionados con el caucho",
+    "url": "https://www.nature.com/articles/s41586-025-08847-w",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-08847-W precisión de mapas de deforestación relacionados con el caucho"
+  },
+  {
+    "title": "Acidic oxygen reduction by single-atom Fe catalysts on curved supports",
+    "title_es": "Reducción de oxígeno ácido por catalizadores de Fe de un solo átomo en soportes curvos",
+    "url": "https://www.nature.com/articles/s41586-025-09364-6",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09364-6 Se ha desarrollado un nuevo tipo de catalizador Fe/N-C compuesto por numerosas nanoprotrusiones dispersas en capas de carbono bidimensionales con celda de combustible de combustible de Fe-Atom innerilizado."
+  },
+  {
+    "title": "The geologic history of marine dissolved organic carbon from iron oxides",
+    "title_es": "La historia geológica del carbono orgánico disuelto marino de los óxidos de hierro",
+    "url": "https://www.nature.com/articles/s41586-025-09383-3",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09383-3 Un proxy directo para las firmas de carbono orgánico disuelto pasado utilizando carbono orgánico co-precipitado en ooides de hierro permite la reconstrucción de señales de carbono orgánico disuelto marino que datan de la paleoprotrozooica."
+  },
+  {
+    "title": "New discoveries of <i>Australopithecus</i> and <i>Homo</i> from Ledi-Geraru, Ethiopia",
+    "title_es": "Nuevos descubrimientos de <i> Australopithecus </i> y <i> Homo </i> de Ledi-Geraru, Etiopía",
+    "url": "https://www.nature.com/articles/s41586-025-09390-4",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09390-4 fósiles de hominina del área del Proyecto de Investigación Ledi-Geraru, Etiopía, sugieren que las especies tempranas de Homo y Australopithecus coexistieron en la región hace más de 2.5 millones de años."
+  },
+  {
+    "title": "Expanding the cytokine receptor alphabet reprograms T cells into diverse states",
+    "title_es": "Expandir el alfabeto del receptor de citocinas reprogramas en las células T en diversos estados",
+    "url": "https://www.nature.com/articles/s41586-025-09393-1",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09393-1 receptores quiméricos ortogonales que contienen dominios intracelulares para IL-4R, IL-20R, IL-22R y GCSFR Reprogram T células T para promover distintos estados de células naturales y sintéticas con implicaciones funcionales y terapéuticas."
+  },
+  {
+    "title": "NASP modulates histone turnover to drive PARP inhibitor resistance",
+    "title_es": "NASP modula la rotación de histonas para impulsar la resistencia al inhibidor de PARP",
+    "url": "https://www.nature.com/articles/s41586-025-09414-z",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09414-Z El tratamiento con inhibidor de PARP desencadena la liberación de histona de la cromatina en las células cancerosas; En consecuencia, dirigirse a la histona chaperona NASP hace que las células vulnerables a la inhibición de PARP."
+  },
+  {
+    "title": "Clone copy number diversity is linked to survival in lung cancer",
+    "title_es": "La diversidad del número de copias de clones está vinculada a la supervivencia en el cáncer de pulmón",
+    "url": "https://www.nature.com/articles/s41586-025-09398-w",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09398-W Un estudio presenta Alpaca, un método computacional para inferir números de copias específicas de clonos y alelos de clones individuales de datos de secuencia de ADN a granel múltiples, y demuestra su uso para estudiar las travatas de metastasis."
+  },
+  {
+    "title": "Bending the curve of land degradation to achieve global environmental goals",
+    "title_es": "Doblar la curva de la degradación de la tierra para lograr objetivos ambientales globales",
+    "url": "https://www.nature.com/articles/s41586-025-09365-5",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09365-5 Los objetivos de las convenciones de Río se pueden cumplir transformando los sistemas alimentarios para doblar la curva de la degradación de la tierra."
+  },
+  {
+    "title": "Establishment of chromatin architecture interplays with embryo hypertranscription",
+    "title_es": "El establecimiento de la arquitectura de la cromatina se interpone con hipertranscripción de embriones",
+    "url": "https://www.nature.com/articles/s41586-025-09400-5",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09400-5 Un estudio revela la carga progresiva de la cohesina y un estado de hipertranscripción responsable de la formación de islas de cohesina genética en genes reguladores activos en embriones de ratón, destacando una interacción entre la arquitectura de cromatina y la transcripción como se establecen para el primer tiempo."
+  },
+  {
+    "title": "Multiple oestradiol functions inhibit ferroptosis and acute kidney injury",
+    "title_es": "Múltiples funciones de estradiol inhiben la ferroptosis y la lesión renal aguda",
+    "url": "https://www.nature.com/articles/s41586-025-09389-x",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09389-x 17β-oestradiol establece un estado anti-ferrroptótico en los túbulos renales femeninos."
+  },
+  {
+    "title": "Human emissions drive recent trends in North Pacific climate variations",
+    "title_es": "Las emisiones humanas impulsan las tendencias recientes en las variaciones climáticas del Pacífico Norte",
+    "url": "https://www.nature.com/articles/s41586-025-09368-2",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09368-2 Las principales variaciones multidecadales en el índice de PDO durante el siglo XX, incluida la tendencia negativa continua y de décadas, fueron impulsadas en gran medida por emisiones humanas de aerosoles y gases invernales en lugar de procesos internos."
+  },
+  {
+    "title": "Elementary 3D organization of active and silenced <i>E. coli</i> genome",
+    "title_es": "Organización 3D elemental de activo y silenciado <i> e. coli </i> genoma",
+    "url": "https://www.nature.com/articles/s41586-025-09396-y",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09396-y Un mapa de organización de cromatina de resolución ultra alta de E. coli, utilizando micro-C, revela intrincadas estructuras de cromatina involucradas en el silenciamiento de genes transferidos horizontalmente y aquellos asociados con operones activos."
+  },
+  {
+    "title": "The genomic origin of the unique chaetognath body plan",
+    "title_es": "El origen genómico del plan único del cuerpo chaetognath",
+    "url": "https://www.nature.com/articles/s41586-025-09403-2",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09403-2 Los análisis genómicos, transcriptómicos y epigenéticos genómicos muestran que los chaetognaths, siguiendo una pérdida de genes extensas en el linaje gnathiferan, se basan en genes recién evolucionados y duplicados tándem tandem tandem, no causados por un plano de tumbas de la nomina del linaje."
+  },
+  {
+    "title": "Delocalized electrolyte design enables 600 Wh kg<sup>−1</sup> lithium metal pouch cells",
+    "title_es": "El diseño de electrolitos delocalizado permite 600 wh kg <up> −1 </up> celdas de bolsas de metal de litio",
+    "url": "https://www.nature.com/articles/s41586-025-09382-4",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09382-4 El rendimiento de la batería de metal de litio se optimiza utilizando un diseño de electrolitos delocalizado que induce un microambiente de solvatación desordenado, combinando así las ventajas de las estructuras de los electrolitos convencionales dominados por el solvente y los aniones."
+  },
+  {
+    "title": "n-Type thermoelectric elastomers",
+    "title_es": "elastómeros termoeléctricos de tipo N",
+    "url": "https://www.nature.com/articles/s41586-025-09387-z",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09387-z Una estrategia de reticulación microfase, aprovechando los reticulantes basados en aziridina, se utiliza para hacer que los materiales termoeléctricos orgánicos sean estacionables y elásticos."
+  },
+  {
+    "title": "Calving-driven fjord dynamics resolved by seafloor fibre sensing",
+    "title_es": "Dinámica del fiordo impulsado por el parto resuelto por la detección de fibra de fondo marino",
+    "url": "https://www.nature.com/articles/s41586-025-09347-7",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09347-7 El parto de iceberg puede actuar como un amplificador de fusión submarino a través de la excitación de ondas internas transitorias."
+  },
+  {
+    "title": "Countrywide natural experiment links built environment to physical activity",
+    "title_es": "Enlaces de experimentos naturales en todo el país construyó el entorno para la actividad física",
+    "url": "https://www.nature.com/articles/s41586-025-09321-3",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09321-3 analizando los datos de los teléfonos inteligentes de 2,112,288 participantes, en particular observando y comparando la actividad del mismo individuo en dos entornos diferentes, encontramos que los aumentos en la capacidad de caminar de los entornos resultan en aumentos en la actividad física diaria, proporcionando evidencia de la importancia del entorno construido en la salud física."
+  },
+  {
+    "title": "Large riverbed sediment flux sustained for a decade after an earthquake&#xa0;",
+    "title_es": "Gran flujo de sedimentos de lecho del río sostenido durante una década después de un terremoto &#xa0;",
+    "url": "https://www.nature.com/articles/s41586-025-09354-8",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09354-8 La carga de camas puede dominar el flujo de sedimentos del río después de un terremoto importante durante un período de tiempo prolongado."
+  },
+  {
+    "title": "Photophoretic flight of perforated structures in near-space conditions",
+    "title_es": "Vuelo fotoforético de estructuras perforadas en condiciones de cerca del espacio",
+    "url": "https://www.nature.com/articles/s41586-025-09281-8",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/s41586-025-09281-8 Un avión fotoforético que puede levitar a través de la transpiración térmica se logra en condiciones cercanas al espacio, proporcionando una plataforma potencial para la detección climática, las comunicaciones y la exploración marciana."
+  },
+  {
+    "title": "Watch rappelling robots dive into a lava tube — for science",
+    "title_es": "Ver cómo los robots de rappel se sumergen en un tubo de lava - para la ciencia",
+    "url": "https://www.nature.com/articles/d41586-025-02585-9",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02585-9 La prueba de prueba muestra cómo un equipo de tres robots autónomos podría buscar entornos extraterrestres adecuados para proteger a los humanos."
+  },
+  {
+    "title": "These tiny flyers levitate on the Sun’s heat alone",
+    "title_es": "Estos pequeños volantes levitan solo en el calor del sol",
+    "url": "https://www.nature.com/articles/d41586-025-02576-w",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02576-W El diseño podría ayudar a sondear la \"ignorante\", una capa de aire ultra delgado que ha escapado en gran medida de la exploración por globos, aeronaves y satélites."
+  },
+  {
+    "title": "Many planets might be born with orbits misaligned from the spin of their stars",
+    "title_es": "Muchos planetas pueden nacer con órbitas desalineadas del giro de sus estrellas",
+    "url": "https://www.nature.com/articles/d41586-025-02536-4",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02536-4 Un análisis de la geometría de estrellas jóvenes con forma de sol con discos de formación de planetas, medidos por observatorios basados en el suelo y el espacio, muestra que al menos un tercio de los discos están desalineados con el giro de su estrella central. Esta distribución de configuraciones de Star -Disk sembra la diversidad posterior de las arquitecturas del sistema planetario."
+  },
+  {
+    "title": "Null empathy",
+    "title_es": "Empatía nula",
+    "url": "https://www.nature.com/articles/d41586-025-02489-8",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02489-8 Cómo desaparecer."
+  },
+  {
+    "title": "A humidity measure that accounts for redistribution of water across the landscape",
+    "title_es": "Una medida de humedad que explica la redistribución del agua en todo el paisaje",
+    "url": "https://www.nature.com/articles/d41586-025-02539-1",
+    "date": "2025-08-13",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 13 de agosto de 2025; doi: 10.1038/d41586-025-02539-1 Se ha desarrollado un índice de humedad que considera flujo lateral a lo largo de ríos y sistemas de agua subterránea, así como precipitación, evaporación potencial y transpiración de plantas. Se desempeña mejor que un índice de humedad convencional al describir la disponibilidad de agua para ecosistemas y sociedades en regiones áridas."
+  },
+  {
+    "title": "Science Translational Medicine: Una técnica de imagen disponible en hospitales y usada en cáncer mejora el seguimiento y tratamiento de la aterosclerosis",
+    "title_es": "Science Translational Medicine: Una técnica de imagen disponible en hospitales y usada en cáncer mejora el seguimiento y tratamiento de la aterosclerosis",
+    "url": "https://www.cnic.es/es/noticias/science-translational-medicine-tecnica-imagen-disponible-hospitales-usada-cancer-mejora",
+    "date": "2025-08-13",
+    "source": "CNIC",
+    "content_es": "12/08/2025 Investigación Publicaciones El 18 FDG-PET es una técnica de tomografía por emisión de positrones que mide la  cantidad de energía que consumen las células del cuerpo Una investigación realizada en el Centro Nacional de Investigaciones Cardiovasculares (CNIC) demuestra que el 18 FDG-PET , una técnica de imagen utilizada habitualmente para otras patologías y que mide la energía que consumen las células del cuerpo, también permite monitorizar la actividad de la aterosclerosis midiendo el metabolismo celular de las placas. El hallazgo, publicado en Science Translational Medicine , podría mejorar el seguimiento de esta enfermedad y acelerar el desarrollo de nuevos tratamientos. La aterosclerosis, causa principal de la mayoría de los infartos e ictus, es una enfermedad silenciosa que progresa durante años sin causar síntomas. Se caracteriza por la acumulación de placas de lípidos, células y otras sustancias en las paredes de las arterias, que pueden obstruir el flujo sanguíneo o romperse repentinamente, provocando eventos cardiovasculares graves. Aunque existen tratamientos eficaces para frenar su avance, sigue siendo difícil evaluar con precisión si una intervención médica está funcionando en los pacientes. El 18 FDG-PET es una técnica de tomografía por emisión de positrones que utiliza un derivado de la glucosa marcado radiactivamente para detectar la actividad metabólica de los tejidos. En este nuevo estudio, los autores muestran que la señal detectada en un examen de 18 FDG-PET refleja el metabolismo celular de las lesiones ateroscleróticas y no únicamente la presencia de inflamación, como se pensaba hasta ahora. Para llegar a esta conclusión, el equipo desarrolló un modelo experimental de aterosclerosis avanzada en animales transgénicos, cuya enfermedad pudo revertirse parcialmente mediante una intervención dietética y farmacológica similar a la aplicada en los pacientes. Durante el proceso de regresión de la enfermedad, la señal obtenida por 18 FDG-PET disminuyó de manera significativa, paralelamente a la reducción de genes relacionados con el metabolismo de la glucosa en diversos tipos celulares de la placa, incluidos macrófagos, linfocitos y células musculares lisas. “La técnica 18 FDG-PET refleja el nivel de actividad de las células de la lesión aterosclerótica, y por tanto puede servir como una herramienta sensible para evaluar el efecto de tratamientos o el riesgo de progresión de la enfermedad”, explica Paula Nogales , investigadora del CNIC y autora principal del trabajo, junto a Jacob Bentzon , líder del grupo en el CNIC y la Universidad de Aarhus (Dinamarca). Este hallazgo abre la puerta a aprovechar una técnica ya disponible en muchos hospitales para mejorar el seguimiento clínico de la aterosclerosis y acelerar el desarrollo de nuevos tratamientos dirigidos a esta enfermedad silenciosa pero potencialmente mortal. Este trabajo ha recibido financiación del European Research Council (ERC) en el marco del programa de investigación e innovación Horizon 2020 de la Unión Europea; del Ministerio de Economía, Industria y Competitividad (MEIC), con cofinanciación del Fondo Europeo de Desarrollo Regional (FEDER); del Instituto de Salud Carlos III con cofinanciación FEDER/Europa (“Una manera de hacer Europa”); de la Comunidad de Madrid, y de la Fundación ”la Caixa” (AtheroConvergence). Nogales, P., Velasco, C., González-Cintado, L., Sharysh, D., Mota-Cobián, A., Izquierdo-Serrano, R., Torroja, C., del Rio-Aledo, D., Morales-Cano, D., Mota, R. A., Benguría, A., Dopazo, A., Sánchez-Cabo, F., Vázquez, J., España, S., Carramolino, L., Mateo, J., & Bentzon, J. F. (2025). Atherosclerotic disease activity is associated with glycolytic enzyme expression across multiple cell types and is trackable by FDG-PET. Science Translational Medicine. https://doi.org/10.1126/scitranslmed.ado6467"
+  },
+  {
+    "title": "Science Translational Medicine: A hospital imaging technique used in cancer care improves the monitoring and treatment of atherosclerosis",
+    "title_es": "Science Translational Medicine: A hospital imaging technique used in cancer care improves the monitoring and treatment of atherosclerosis",
+    "url": "https://www.cnic.es/es/node/235897",
+    "date": "2025-08-13",
+    "source": "CNIC",
+    "content_es": "12/08/2025 Investigación Publicaciones El 18 FDG-PET is a type of positron emission tomography that measures how much energy the body’s cells consume. Scientists at the Centro Nacional de Investigaciones Cardiovasculares (CNIC) have shown that 18 FDG-PET, an imaging technique widely used to study other conditions, can also be used to monitor atherosclerosis by measuring cellular metabolism within arterial plaques. The findings, published in Science Translational Medicine , could improve the clinical management of this disease and accelerate the development of new treatments. Atherosclerosis—the underlying cause of most heart attacks and strokes—is a silent disease that progresses over many years without symptoms. The disease is characterized by the accumulation of fatty deposits, cells, and other materials in the walls of arteries, where they reduce blood flow and can eventually rupture, triggering serious cardiovascular events. While treatments are available to slow disease progression, it is still difficult to determine if a treatment is working in individual patients. 18 FDG-PET (fluorodeoxyglucose positron emission tomography) is a nuclear imaging technique that uses a radioactively labeled glucose analog to detect tissue metabolic activity. The new study demonstrates that the 18 FDG-PET signal reflects the metabolic activity of atherosclerotic plaques, rather than merely indicating inflammation, as was previously believed. To reach this conclusion, the research team developed an experimental model of advanced atherosclerosis in genetically modified animals and was able to partially reverse disease progression using a diet and drug-based intervention similar to strategies used in clinical care. As the disease regressed, the 18 FDG-PET signal declined in parallel with the reduced expression of genes linked to glucose metabolism in various plaque cell types, including macrophages, lymphocytes, and smooth muscle cells. “The 18 FDG-PET signal reflects the activity level of the cells within atherosclerotic lesions and can therefore serve as a sensitive tool for evaluating treatment efficacy and disease progression risk,” explains CNIC researcher Paula Nogales, lead author of the study together with Jacob Bentzon , of Aarhus University (Denmark) and head of the Experimental Pathology of Atherosclerosis group at the CNIC. This discovery opens the door to using a widely available hospital imaging technique to improve clinical monitoring of atherosclerosis and speed the development of new therapies for this silent but potentially deadly disease. The study received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme; the Spanish Ministry of Economy, Industry, and Competitiveness (MEIC), with co-funding from the European Regional Development Fund (FEDER); the Instituto de Salud Carlos III , with FEDER/EU co-funding; the Madrid regional government; and the “ la Caixa” Foundation (AtheroConvergence). Nogales, P., Velasco, C., González-Cintado, L., Sharysh, D., Mota-Cobián, A., Izquierdo-Serrano, R., Torroja, C., del Rio-Aledo, D., Morales-Cano, D., Mota, R. A., Benguría, A., Dopazo, A., Sánchez-Cabo, F., Vázquez, J., España, S., Carramolino, L., Mateo, J., & Bentzon, J. F. (2025). Atherosclerotic disease activity is associated with glycolytic enzyme expression across multiple cell types and is trackable by FDG-PET. Science Translational Medicine. https://doi.org/10.1126/scitranslmed.ado6467"
+  },
+  {
     "title": "Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models",
     "title_es": "El tiempo es una característica: explotar la dinámica temporal en los modelos de lenguaje de difusión",
     "url": "http://arxiv.org/abs/2508.09138v1",
@@ -256,12 +664,12 @@
     "content_es": "Nature, publicado en línea: 12 de agosto de 2025; doi: 10.1038/d41586-025-02507-9 A medida que el apoyo federal se desvanece para la investigación que aborda las causas fundamentales de las disparidades de salud en los Estados Unidos, nos queda un vacío peligroso y una necesidad urgente de repensar los fondos de la ciencia."
   },
   {
-    "title": "Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
-    "title_es": "Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
+    "title": "Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
+    "title_es": "Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
     "url": "https://www.cnio.es/noticias/nuevas-tesis-doctorales-en-el-cnio-enhorabuena-a-quienes-hacen-la-ciencia-del-futuro/",
     "date": "2025-08-12",
     "source": "CNIO",
-    "content_es": "Charles Darwin ponía sus esperanzas en los «naturalistas jóvenes y emergentes», que sabrían apreciar sus ideas rompedoras; a los veteranos, en cambio, no aspiraba a convencerlos porque sus mentes «están repletas de datos analizados desde un punto de vista opuesto al mío durante muchos años», escribió en El Origen de las Especies–. El físico Max […] La entrada Nuevas tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro! se publicó primero en CNIO ."
+    "content_es": "Charles Darwin ponía sus esperanzas en «naturalistas jóvenes y emergentes» que sabrían apreciar sus rompedoras ideas; a los veteranos no aspiraba a convencerlos, porque sus mentes «están repletas de datos que durante muchos años han sido analizados desde un punto de vista opuesto al mío», escribió en El Origen de las Especies–. El físico Max […] La entrada Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro! se publicó primero en CNIO ."
   },
   {
     "title": "Cut2Next: Generating Next Shot via In-Context Tuning",
