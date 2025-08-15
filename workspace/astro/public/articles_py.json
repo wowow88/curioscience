@@ -1,5 +1,437 @@
 [
   {
+    "title": "Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains",
+    "title_es": "Investigación empírica sobre la configuración de las redes de estado de echo para los dominios de problemas de referencia representativos",
+    "url": "http://arxiv.org/abs/2508.10887v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Este documento examina Echo State Network, una computadora de depósito, rendimiento\nutilizando cuatro problemas de referencia diferentes, luego propone heurística o reglas de\npulgar para configurar la arquitectura, así como la selección de parámetros\ny sus valores, que son aplicables a problemas dentro del mismo dominio, a\nayudar a servir para llenar el vacío de experiencia que necesita para quienes ingresan a este campo de\nestudiar. La influencia de varias selecciones de parámetros y su valor\najustes, así como cambios arquitectónicos realizados en una red estatal de eco, un\nPotente red neuronal recurrente configurada como una computadora de depósito, puede ser\ndesafiante para comprender completamente sin experiencia en el campo, e incluso algunos\nLos algoritmos de optimización de hiperparameter pueden tener dificultades para ajustar el parámetro\nValores sin selecciones manuales adecuadas se realizan primero. Por lo tanto, es imperativo\nPara comprender los efectos de los parámetros y su selección de valor en el estado de eco\nRendimiento de la arquitectura de red para una construcción exitosa. Así, para abordar el\nRequisito para una amplia experiencia en Echo State Network Architecture, como\nasí como examinar cómo el rendimiento de la red estatal de eco se ve afectado con respecto a\nVariaciones en arquitectura, diseño y selección y valores de parámetros, un\nserie de tareas de referencia que representan diferentes dominios de problemas, incluidos\nPredicción de series de tiempo, generación de patrones, predicción del sistema caótico y tiempo\nLa clasificación de la serie, se modeló y experimentó para mostrar el impacto en\nEl rendimiento de Echo State Network."
+  },
+  {
+    "title": "ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing",
+    "title_es": "TOONCOMPOSER: racionalización de la producción de dibujos animados con marco de tecla generativa",
+    "url": "http://arxiv.org/abs/2508.10881v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "La producción tradicional de dibujos animados y anime implica que la llave, intermedia,\ny etapas de colorización, que requieren un esfuerzo manual intensivo. A pesar de reciente\nAvances en la IA, los métodos existentes a menudo manejan estas etapas por separado, lo que lleva\nA la acumulación de errores y los artefactos. Por ejemplo, los enfoques intermedios\nlucha con grandes movimientos, mientras que los métodos de colorización requieren denso por marco\nbocetos. Para abordar esto, presentamos a ToONCOMPOSER, un modelo generativo que\nUnifica el inicio y la colorización en una sola etapa posterior a la marco.\nToonComposer emplea un mecanismo de inyección de boceto escaso para proporcionar preciso\nControl utilizando bocetos de fotograma clave. Además, utiliza una adaptación de dibujos animados\nMétodo con el adaptador espacial de bajo rango para adaptar una base de video moderna\nModele al dominio de dibujos animados mientras mantiene su previo temporal intacto. Requerido\ntan solo como un solo boceto y un marco de referencia de color, ToonComposer sobresale\ncon entradas escasas, al tiempo que admite múltiples bocetos en cualquier temporal\nUbicación para un control de movimiento más preciso. Esta doble capacidad reduce el manual\ncarga de trabajo y mejora la flexibilidad, empoderando a los artistas en escenarios del mundo real.\nPara evaluar nuestro modelo, creamos PKBench, un punto de referencia con\nBocetos dibujados por humanos que simulan casos de uso del mundo real. Nuestra evaluación\ndemuestra que ToONCOMPOSER supera a los métodos existentes en calidad visual,\nconsistencia del movimiento y eficiencia de producción, ofreciendo un superior y más\nSolución flexible para la producción de dibujos animados asistidos por AI."
+  },
+  {
+    "title": "Searching for Privacy Risks in LLM Agents via Simulation",
+    "title_es": "Buscando riesgos de privacidad en agentes de LLM mediante simulación",
+    "url": "http://arxiv.org/abs/2508.10880v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Es probable que el despliegue generalizado de los agentes basados en LLM introduzca un\nAmenaza de privacidad crítica: agentes maliciosos que involucran proactivamente a otros en\nInteracciones múltiples para extraer información confidencial. Estas dinámicas\nLos diálogos habilitan estrategias de ataque adaptativo que puedan causar una privacidad severa\nviolaciones, sin embargo, su naturaleza en evolución hace que sea difícil anticipar y\nDescubre vulnerabilidades sofisticadas manualmente. Para abordar este problema, nosotros\nPresente un marco basado en la búsqueda que se alterna entre mejorar el atacante y\nInstrucciones de defensor simulando las interacciones de agente crítico de privacidad. Cada\nLa simulación implica tres roles: sujeto de datos, remitente de datos y destinatario de datos.\nMientras se fija el comportamiento del sujeto de datos, el atacante (destinatario de datos)\nintentos de extraer información confidencial del defensor (remitente de datos)\na través de intercambios persistentes e interactivos. Para explorar este espacio de interacción\nDe manera eficiente, nuestro algoritmo de búsqueda emplea a LLM como optimizadores, utilizando paralelo\nBusque con múltiples hilos y propagación de subproceso para analizar la simulación\nTrayectorias y proponer iterativamente nuevas instrucciones. A través de este proceso, nosotros\nEncuentre que las estrategias de ataque aumentan de simples solicitudes directas a\ntácticas sofisticadas de múltiples vueltas, como suplantación y falsificación de consentimiento,\nmientras que las defensas avanzan de las limitaciones basadas en reglas a la verificación de identidad\nMáquinas de estado. Los ataques y las defensas descubiertas transfieren diversas\nescenarios y modelos de columna vertebral, demostrando una utilidad práctica fuerte para\nConstruyendo agentes conscientes de la privacidad."
+  },
+  {
+    "title": "A Survey on Diffusion Language Models",
+    "title_es": "Una encuesta sobre modelos de lenguaje de difusión",
+    "url": "http://arxiv.org/abs/2508.10875v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los modelos de lenguaje de difusión (DLM) están emergiendo rápidamente como un poderoso y\nAlternativa prometedora al paradigma dominante autorregresivo (AR). Por\nGenerando tokens en paralelo a través de un proceso iterativo de desaceleración, DLMS\nposeer ventajas inherentes para reducir la latencia de inferencia y capturar\ncontexto bidireccional, permitiendo así un control de grano fino sobre el\nproceso de generación. Mientras se logra una aceleración varias veces, reciente\nLos avances han permitido que los DLM muestren un rendimiento comparable a su\ncontrapartes autorregresivas, lo que los convierte en una elección convincente para varios\nTareas de procesamiento del lenguaje natural. En esta encuesta, proporcionamos un holístico\nDescripción general del panorama DLM actual. Rastreamos su evolución y relación\ncon otros paradigmas, como modelos de lenguaje autorregresivo y enmascarado, y\ncubren los principios fundamentales y los modelos de vanguardia. Nuestro trabajo ofrece\nuna taxonomía integral y actualizada y un análisis en profundidad de\nTécnicas, desde estrategias previas a la capacitación hasta métodos avanzados posteriores a la capacitación.\nOtra contribución de esta encuesta es una revisión exhaustiva de la inferencia de DLM\nEstrategias y optimizaciones, incluidas las mejoras en la decodificación del paralelismo,\nMecanismos de almacenamiento en caché y calidad de generación. También destacamos lo último\nEnfoques a las extensiones multimodales de DLMS y delinear sus aplicaciones\nEn varios escenarios prácticos. Además, nuestra discusión aborda el\nLimitaciones y desafíos de los DLM, incluida la eficiencia, la secuencia larga\nManejo y requisitos de infraestructura, al tiempo que describe futuras investigaciones\nInstrucciones para mantener el progreso en este campo en rápida evolución. Proyecto Github\nestá disponible en https://github.com/vila-lab/awesome-dlms."
+  },
+  {
+    "title": "TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning",
+    "title_es": "Agente A2C basado en TLE para la planificación del camino orbital de cobertura terrestre",
+    "url": "http://arxiv.org/abs/2508.10872v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "La creciente congestión de la órbita terrestre baja (LEO) posa persistente\nDesafíos para el despliegue eficiente y la operación segura de la observación de la Tierra\nsatélites. Los planificadores de la misión ahora deben tener en cuenta no solo para la misión específica\nrequisitos pero también para el riesgo de colisión creciente con satélites activos\ny escombros espaciales. Este trabajo presenta un marco de aprendizaje de refuerzo utilizando\nEl algoritmo Advantage Actor-Critic (A2C) para optimizar el orbital satelital\nParámetros para una cobertura terrestre precisa dentro de radios de superficie predefinidos. Por\nFormular el problema como un proceso de decisión de Markov (MDP) dentro de una personalización\nEntorno de gimnasio de Operai, nuestro método simula la dinámica orbital utilizando\nElementos clásicos de Keplerian. El agente aprende progresivamente a ajustar cinco de\nLos parámetros orbitales: eje semi -mayor, excentricidad, inclinación, derecha\nAscensión del nodo ascendente y el argumento del perigeo para lograr el objetivo\ncobertura terrestre. Evaluación comparativa contra la política proximal\nLa optimización (PPO) demuestra el rendimiento superior de A2C, logrando 5.8x\nrecompensas acumulativas más altas (10.0 vs 9.263025) mientras converge en 31.5x menos\nTimesteps (2,000 vs 63,000). El agente de A2C cumple constantemente la misión\nObjetivos a través de diversas coordenadas objetivo mientras se mantiene computacional\nEficiencia adecuada para aplicaciones de planificación de misiones en tiempo real. Llave\nLas contribuciones incluyen: (1) un entorno de simulación orbital basado en TLE\nIncorporación de restricciones físicas, (2) validación de métodos críticos de actor '\nSuperioridad sobre los enfoques de la región de confianza en el control orbital continuo y (3)\ndemostración de una convergencia rápida que permite el despliegue de satélite adaptativo. Este\nEl enfoque establece el aprendizaje de refuerzo como un eficiente computacionalmente eficiente\nAlternativa para la planificación de la misión LEO escalable e inteligente."
+  },
+  {
+    "title": "Medico 2025: Visual Question Answering for Gastrointestinal Imaging",
+    "title_es": "Mégro 2025: Respuesta de preguntas visuales para imágenes gastrointestinales",
+    "url": "http://arxiv.org/abs/2508.10869v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "El desafío Medico 2025 aborda la respuesta de las preguntas visuales (VQA) para\nImágenes gastrointestinales (GI), organizadas como parte de la serie de tareas medievales.\nEl desafío se centra en desarrollar inteligencia artificial explicable (XAI)\nModelos que responden preguntas clínicamente relevantes basadas en imágenes de endoscopia gastrointestinosa\nmientras proporciona justificaciones interpretables alineadas con el razonamiento médico. Él\nPresenta dos subtareas: (1) Responder a diversos tipos de preguntas visuales utilizando\nel conjunto de datos KVASIR-VQA-X1, y (2) generando explicaciones multimodales para\nApoye la toma de decisiones clínicas. El conjunto de datos KVASIR-VQA-X1, creado a partir de 6.500\nimágenes y 159,549 pares de preguntas complejas (QA), sirve como punto de referencia\npara el desafío. Combinando métricas cuantitativas de rendimiento y\nEvaluaciones de explicabilidad revisadas por expertos, esta tarea tiene como objetivo avanzar\nInteligencia artificial (IA) confiable en el análisis de imágenes médicas.\nEstán disponibles instrucciones, acceso a datos y una guía actualizada para la participación\nEn el repositorio oficial de la competencia:\nhttps://github.com/simula/mediaeval-medico-2025"
+  },
+  {
+    "title": "Performance of GPT-5 in Brain Tumor MRI Reasoning",
+    "title_es": "Rendimiento de GPT-5 en razonamiento de resonancia magnética de tumores cerebrales",
+    "url": "http://arxiv.org/abs/2508.10865v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Diferenciación precisa de los tipos de tumores cerebrales en la resonancia magnética\n(MRI) es fundamental para guiar la planificación del tratamiento en neuro-oncología. Reciente\nLos avances en modelos de lenguaje grande (LLMS) han habilitado la respuesta de preguntas visuales\n(VQA) enfoques que integran la interpretación de imágenes con el lenguaje natural\nrazonamiento. En este estudio, evaluamos GPT-4O, GPT-5-Nano, GPT-5-Mini y\nGPT-5 en un tumor cerebral curado de referencia VQA derivado de 3 tumor cerebral\nConjuntos de datos de segmentación (mechones): glioblastoma (GLI), meningioma (hombres) y cerebro\nmetástasis (MET). Cada caso incluyó mosaicos triplanar de resonancia magnética de secuencia múltiple y\nCaracterísticas clínicas estructuradas transformadas en elementos VQA estandarizados. Modelos\nfueron evaluados en un entorno de cadena de pensamiento de disparo cero para la precisión en ambos\nTareas visuales y de razonamiento. Los resultados mostraron que GPT-5-Mini logró el más alto\nPrecisión macro-promedio (44.19%), seguida de GPT-5 (43.71%), GPT-4O (41.49%),\ny GPT-5-Nano (35.85%). El rendimiento varió según el subtipo tumoral, sin un solo\nmodelo dominante en todas las cohortes. Estos hallazgos sugieren que la familia GPT-5\nLos modelos pueden lograr una precisión moderada en tareas de VQA neuro-oncológicas estructuradas,\npero no a un nivel aceptable para uso clínico."
+  },
+  {
+    "title": "From Black Box to Transparency: Enhancing Automated Interpreting Assessment with Explainable AI in College Classrooms",
+    "title_es": "Desde la caja negra hasta la transparencia: mejora de la evaluación de interpretación automatizada con IA explicable en las aulas de la universidad",
+    "url": "http://arxiv.org/abs/2508.10860v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los avances recientes en el aprendizaje automático han estimulado los crecientes intereses en\nEvaluación de calidad de interpretación automatizada. Sin embargo, la investigación existente\nsufre de un examen insuficiente de la calidad del uso del idioma, insatisfactorio\nefectividad del modelado debido a la escasez de datos y el desequilibrio, y la falta de\nEsfuerzos para explicar las predicciones del modelo. Para abordar estas brechas, proponemos un\nMarco de modelado multidimensional que integra ingeniería de funciones, datos\nAumento y aprendizaje automático explicable. Este enfoque prioriza\nExplicar la capacidad sobre `` caja negra '' predicciones utilizando solo\nCaracterísticas transparentes y relevantes para la construcción y el valor de conducción de Shapley (SHAP)\nanálisis. Nuestros resultados demuestran un fuerte rendimiento predictivo en una novela\nConjunto de datos de interpretación consecutiva inglesa, identificación de bleurt y\nCometkiwi anota para ser las características predictivas más fuertes para la fidelidad,\nCaracterísticas relacionadas con la pausa para la fluidez y fraseológica específica de chino\nMétricas de diversidad para el uso del idioma. En general, al poner un énfasis particular en\nExplicabilidad, presentamos una alternativa escalable, confiable y transparente a\nEvaluación humana tradicional, facilitando la provisión de diagnóstico detallado\nComentarios para los alumnos y apoyar ventajas de aprendizaje autorreguladas no\nProporcionado por puntajes automatizados de forma aislada."
+  },
+  {
+    "title": "Reinforced Language Models for Sequential Decision Making",
+    "title_es": "Modelos de lenguaje reforzado para la toma de decisiones secuenciales",
+    "url": "http://arxiv.org/abs/2508.10839v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los modelos de idiomas grandes (LLM) muestran potencial como toma de decisiones secuenciales\nagentes, pero su aplicación a menudo se limita debido a una dependencia de grandes,\nmodelos computacionalmente caros. Esto crea la necesidad de mejorar más pequeño\nmodelos, sin embargo, los métodos existentes posteriores a la capacitación están diseñados para una sola vuelta\ninteracciones y no puede manejar la asignación de crédito en tareas de agente de múltiples pasos.\nPara abordar esto, presentamos la optimización de políticas relativas a los grupos de varios pasos\n(MS-GRPO), un nuevo algoritmo para los agentes de LLM posteriores a la capacitación, basado en formal\nJuego estocástico mediado por texto (TSMG) y política de agente de lenguaje (LAP)\nmarcos. Para la asignación de crédito, MS-Grpo atribuye todo el acumulativo\nRecompensa del episodio a cada paso de episodio individual. Complementamos este algoritmo\ncon una novela estrategia de muestreo de episodios con ventaja absoluta que mostramos\nMejora el rendimiento del entrenamiento. Evaluamos nuestro enfoque posterior a la capacitación a\nModelo de parámetros de 3 mil millones en Snake y Frozen Lake. Nuestros experimentos demuestran\nque el método es efectivo para mejorar el rendimiento de la toma de decisiones: nuestro\nEl modelo de parámetros 3B post-entrenado supera una línea de base de parámetros de 72B en un 50% en\nLa tarea de lago congelado. Este trabajo demuestra que el post-entrenamiento dirigido es un\nAlternativa práctica y eficiente para confiar en la escala de modelo para crear\nAgentes de toma de decisiones secuenciales utilizando LLM."
+  },
+  {
+    "title": "A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots",
+    "title_es": "Una red neuronal multimodal para reconocer la autocompasión subjetiva hacia los robots sociales",
+    "url": "http://arxiv.org/abs/2508.10828v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "La auto-divulgación subjetiva es una característica importante de las sociales humanas\ninteracción. Mientras que se ha hecho mucho en la literatura social y conductual\npara caracterizar las características y las consecuencias de la revelación subjetiva,\nHasta ahora se ha realizado poco trabajo para desarrollar sistemas computacionales que sean\ncapaz de modelarlo con precisión. Se ha hecho aún menos trabajo que intentan\nModele específicamente cómo los interactuantes humanos se auto-revelan con parejas robóticas.\nSe está volviendo más apremiante ya que requerimos que los robots sociales funcionen en conjunto.\ncon y establecer relaciones con humanos en varios entornos sociales. En\nEste documento, nuestro objetivo es desarrollar una red multimodal personalizada basada en la red\nen modelos de la literatura de reconocimiento de emociones, entrenando este modelo en un\nGran corpus de videos de autodisculación de autocollectados, y construyendo una nueva pérdida\nla función, la escala que presenta la pérdida de entropía cruzada, que mejora tanto\nVersiones de clasificación y regresión de este problema. Nuestros resultados muestran que\nEl modelo de mejor rendimiento, entrenado con nuestra nueva función de pérdida, logra un F1\npuntaje de 0.83, una mejora de 0.48 del mejor modelo de referencia. Este resultado\nHace un avance significativo en el objetivo de permitir que los robots sociales se retiren en un\nDiscursos de sí mismo de la pareja de interacción, una capacidad que será esencial en\nRobots sociales con cognición social."
+  },
+  {
+    "title": "Who Benefits from AI Explanations? Towards Accessible and Interpretable Systems",
+    "title_es": "¿Quién se beneficia de las explicaciones de AI? Hacia sistemas accesibles e interpretables",
+    "url": "http://arxiv.org/abs/2508.10806v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "A medida que los sistemas de IA se implementan cada vez más para apoyar la toma de decisiones en\ndominios críticos, la explicación se ha convertido en un medio para mejorar el\ncomprensión de estos resultados y permite a los usuarios hacer más informados y\nelecciones conscientes. Sin embargo, a pesar del creciente interés en la usabilidad de\nAI explicable (xai), la accesibilidad de estos métodos, particularmente para\nLos usuarios con discapacidades de la visión, permanecen subexplorados. Este documento investiga\nbrechas de accesibilidad en XAI a través de un enfoque de dos puntas. Primero, una literatura\nLa revisión de 79 estudios revela que las evaluaciones de las técnicas de XAI rara vez incluyen\nUsuarios para discapacitados, con la mayoría de las explicaciones que dependen de formatos inherentemente visuales.\nEn segundo lugar, presentamos una prueba metodológica de concepto de cuatro partes que\nOperacionaliza el diseño de XAI inclusivo: (1) Categorización de sistemas de IA, (2)\nDefinición y contextualización de la persona, (3) diseño de prototipo y\nimplementación y (4) evaluación de expertos y usuarios de las técnicas de XAI para\naccesibilidad. Los resultados preliminares sugieren que las explicaciones simplificadas son\nmás comprensible para usuarios no visuales que los detallados, y que\nSe requiere una presentación multimodal para una interpretabilidad más equitativa."
+  },
+  {
+    "title": "The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems",
+    "title_es": "El marco de factores perceptivos establecidos: hacia la percepción asegurada para los sistemas autónomos",
+    "url": "http://arxiv.org/abs/2508.10798v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los futuros sistemas autónomos prometen beneficios sociales significativos, pero sus\nEl despliegue plantea preocupaciones sobre la seguridad y la confiabilidad. Una preocupación clave es\nasegurando la fiabilidad de la percepción del robot, como las semillas de percepción seguras\nToma de decisiones. Las fallas en la percepción a menudo se deben a complejos pero comunes\nFactores ambientales y pueden conducir a accidentes que erosionan la confianza pública. A\nabordar esta preocupación, presentamos el conjunto (self, entorno y objetivo)\nMarco de factores perceptivos. Diseñamos el marco para sistemáticamente\nAnalizar cómo factores como el clima, la oclusión o las limitaciones del sensor\nafectar negativamente la percepción. Para lograr esto, el marco emplea el estado set\nÁrboles para clasificar donde dichos factores se originan y establecen árboles factores para modelar\nCómo estas fuentes y factores afectan las tareas perceptivas como la detección de objetos o\nPose de estimación. A continuación, desarrollamos modelos de factores perceptuales que usan ambos árboles para\nCuantifique la incertidumbre para una tarea determinada. Nuestro marco tiene como objetivo promover\ngarantías de seguridad rigurosas y cultivando una mayor comprensión pública y confianza\nen sistemas autónomos ofreciendo un método transparente y estandarizado para\nidentificar, modelar y comunicar riesgos perceptivos."
+  },
+  {
+    "title": "Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection",
+    "title_es": "Mejora de la equidad en autoencoders para la detección de anomalías de gráficos a nivel de nodo",
+    "url": "http://arxiv.org/abs/2508.10785v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "La detección de anomalías gráficas (GAD) se ha convertido en una tarea cada vez más importante\na través de varios dominios. Con el rápido desarrollo de redes neuronales gráficas\n(GNNS), los métodos GAD han logrado mejoras significativas de rendimiento.\nSin embargo, las consideraciones de equidad en GAD siguen siendo en gran medida iluminadas. En efecto,\nLos modelos GAD basados en GNN pueden heredar y amplificar los sesgos presentes en los datos de capacitación,\npotencialmente conduciendo a resultados injustos. Mientras que los esfuerzos existentes se han centrado en\nDesarrollo de GNN justos, la mayoría de los enfoques de tareas de clasificación de nodo objetivo, donde\nLos modelos a menudo dependen de arquitecturas simples de capa en lugar de automáticamente basadas en autoencoder\nEstructuras, que son los arquitectros más utilizados para la detección de anomalías.\nPara abordar la equidad en los modelos GAD basados en autoencoder, proponemos\n\\ textbf {d} es \\ textbf {e} ntangled \\ textbf {c} oUnterfactual \\ textbf {a} dversarial\n\\ textbf {f} air (Decaf) -gad, un marco que alivia el sesgo mientras se preserva\nRendimiento de gad. Específicamente, presentamos un modelo causal estructural (SCM) para\nDesenredar atributos sensibles de representaciones aprendidas. Basado en esto\nMarco causal, formulamos una arquitectura de autoencoder especializada\ncon una función de pérdida guiada por equidad. A través de amplios experimentos en ambos\nconjuntos de datos sintéticos y del mundo real, demostramos que el gad de descafeque no solo\nlogra el rendimiento competitivo de detección de anomalías pero también significativamente\nMejora las métricas de equidad en comparación con los métodos BAD de referencia. Nuestro código es\nDisponible en https://github.com/tlhey/decaf_code."
+  },
+  {
+    "title": "Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior",
+    "title_es": "Ultra-High-Definition Súper resolución de imagen de referencia basada en referencia con difusión generativa Prior",
+    "url": "http://arxiv.org/abs/2508.10779v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Imagen basada en referencia Super-Resolution (REFSR) tiene como objetivo restaurar un\nImagen de baja resolución (LR) utilizando la información semántica y de textura\nde una imagen de alta resolución de referencia (HR) de alta resolución de referencia. Existente\nLos métodos de referencia basados en difusión se basan típicamente en el control de control, que\nlucha por alinear efectivamente la información entre la imagen LR y el\nImagen de referencia de recursos humanos. Además, los conjuntos de datos de refsr actuales sufren de limitado\nresolución y mala calidad de imagen, lo que resulta en las imágenes de referencia que faltan\nsuficientes detalles de grano fino para apoyar la restauración de alta calidad. A\nsuperar las limitaciones anteriores, proponemos Triflowsr, un marco novedoso que\nlogra explícitamente la coincidencia de patrones entre la imagen LR y la referencia de recursos humanos\nimagen. Mientras tanto, presentamos Landmark-4K, el primer conjunto de datos de referencia para\nEscenarios de referencia ultra-alta definición (UHD). Considerando los escenarios de UHD\nCon la degradación del mundo real, en triflowsr, diseñamos una coincidencia de referencia\nEstrategia para que coincida de manera efectiva la imagen LR con la imagen de referencia HR.\nLos resultados experimentales muestran que nuestro enfoque puede utilizar mejor la semántica y\nInformación de textura de la imagen HR de referencia en comparación con métodos anteriores. A\nLo mejor de nuestro conocimiento, proponemos la primera tubería de referencia basada en difusión\nPara escenarios de referencia de ultra alta definición bajo degradación del mundo real. Nuestro\nEl código y el modelo estarán disponibles en https://github.com/nkicsl/triflowsr."
+  },
+  {
+    "title": "The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference",
+    "title_es": "La disociación de la condición de conocimiento: limitaciones fundamentales de los LLM en la inferencia clínica del lenguaje natural",
+    "url": "http://arxiv.org/abs/2508.10777v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "A menudo se supone que los modelos de idiomas grandes adquieren cada vez más estructurados,\nRepresentaciones internas generalizables simplemente escalando datos y parámetros.\nInterrogamos esta suposición mediante la introducción de un lenguaje natural de ensayo clínico\nEl punto de referencia de inferencia que comprende cuatro familias de razonamiento, atribución causal,\nLa base compositiva, la verificación epistémica y la abstracción del estado de riesgo.\nCada elemento se combina con un conocimiento de tierra dirigido y un razonamiento de nivel meta\nSonda de verificación (GKMRV), lo que nos permite disociar fallas de hecho\nAcceso desde fallas de inferencia. Evaluamos seis LLM contemporáneos bajo ambos\nDirección y cadena de pensamiento de pensamiento.\n  Los modelos alcanzan la precisión de GKMRV del centro de techo (precisión media 0.918) aún funcionan\nMal a las principales tareas de razonamiento (precisión media 0.25). A pesar de la baja precisión,\nLas inferencias de salida son altamente consistentes en todas las muestras (media 0.87), lo que indica\nUna aplicación sistemática de heurísticas y atajos subyacentes.\n  Estos resultados revelan limitaciones estructurales y representativas fundamentales:\nLos LLM actuales a menudo poseen el conocimiento clínico relevante pero carecen del\nrepresentaciones internas estructuradas y compuestas necesarias para implementarlo de manera confiable\n(por ejemplo, integrar restricciones, pesar la evidencia o la simulación\ncontrafactual). Desacoplar el conocimiento del razonamiento con GKMRV hace esto\ndisociación explícita y medible, proporcionando un marco efectivo para\nProbar la fiabilidad de los LLM en dominios de alto riesgo."
+  },
+  {
+    "title": "Estimating Covariance for Global Minimum Variance Portfolio: A Decision-Focused Learning Approach",
+    "title_es": "Estimación de covarianza para la cartera de varianza mínima global: un enfoque de aprendizaje centrado en la decisión",
+    "url": "http://arxiv.org/abs/2508.10776v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "La optimización de la cartera constituye una piedra angular de la gestión de riesgos por parte de\nCuantificación de la compensación de riesgo de riesgo. Ya que inherentemente depende de preciso\nEstimación de parámetros en condiciones de incertidumbre futura, la selección de\nLos parámetros de entrada apropiados son críticos para la construcción efectiva de la cartera.\nSin embargo, la mayoría de los estimadores estadísticos convencionales y el aprendizaje automático\nLos algoritmos determinan estos parámetros minimizando el error de cuadrícula media (MSE), un\ncriterio que puede producir decisiones de inversión subóptimas. En este artículo, nosotros\nAdoptar el aprendizaje centrado en la decisión (DFL): un enfoque que optimiza directamente\nCalidad de la decisión en lugar del error de predicción como MSE - para derivar el\nCartera global de varianza mínima (GMVP). Específicamente, teóricamente derivamos\nel gradiente de pérdida de decisión utilizando la solución analítica de GMVP y su\nPropiedades con respecto a los componentes principales de sí mismo. A través de extenso\nEvaluación empírica, mostramos que los métodos de estimación centrados en la predicción pueden\nno producir asignaciones óptimas en la práctica, mientras que los métodos basados en DFL\nentregar constantemente un rendimiento de decisión superior. Además, proporcionamos un\nAnálisis exhaustivo del mecanismo de DFL en la construcción de GMVP, centrándose en su\nCapacidad de reducción de volatilidad, características de conducción de decisiones y estimación\ncaracterísticas."
+  },
+  {
+    "title": "Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation",
+    "title_es": "Lugar de video: la atención de bloque de bloques se encuentra con la destilación de pasos para una generación de videos eficiente",
+    "url": "http://arxiv.org/abs/2508.10774v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los transformadores de difusión actualmente lideran el campo en video de alta calidad\ngeneración, pero su lento proceso de desocipación iterativo y su prohibitivo\nLos costos de atención cuadrática para secuencias largas crean una inferencia significativa\ncuellos de botella. Mientras que tanto la destilación escalonada como los mecanismos de atención escasa\nmostrada prometida como estrategias de aceleración independientes, combinando efectivamente\nEstos enfoques presentan desafíos críticos: integración sin capacitación\nproduce resultados subóptimos, mientras se capacita por separado la atención escasa después de\nLa destilación de pasos requiere datos de video de alta calidad prohibitivamente costosos. A\nsuperar estas limitaciones, proponemos Blade, una articulación innovadora sin datos\nMarco de capacitación que presenta: (1) Atención adaptativa de la pareja de bloques\n(Asa) mecanismo para generar dinámicamente máscaras de escasez conscientes de contenido para\nCOMPUTACIÓN DE COMENTARSE EN CARACTERÍSTICAS DE SEPATIOMPORALES SALIENTES, y (2) un sparsity consciente\nParadigma de destilación de pasos basado en la coincidencia de distribución de trayectoria (TDM)\nque incorpora directamente la escasez en el proceso de destilación en lugar de\nTratarlo como un paso de compresión separado, con una convergencia rápida. Validamos\nHoja en modelos de texto a video como Cogvideox-5B y WAN2.1-1.3B. Nuestro marco\nDemuestra notables ganancias de eficiencia en diferentes escalas. En\nWan2.1-1.3b, Blade logra una aceleración de inferencia de extremo a extremo de 14.10x sobre un\nLínea de base de 50 pasos. Además, en modelos como Cogvideox-5B con video corto\nLongitud de secuencia, nuestro marco ofrece una aceleración robusta de 8.89x. Crucialmente, el\nLa aceleración se acompaña de una mejora de calidad consistente. En el\nVBench-2.0 Benchmark, Blade aumenta la puntuación de COGVIDEOX-5B a 0.569 (de\n0.534) y wan2.1-1.3b a 0.570 (de 0.563), resultados que están más allá\ncorroborado por calificaciones superiores en evaluaciones humanas. Nuestro código y modelo\nLos pesos están disponibles públicamente en: http://ziplab.co/blade-homepage/."
+  },
+  {
+    "title": "AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences",
+    "title_es": "AEGIS: punto de referencia de evaluación de autenticidad para secuencias de video generadas por IA",
+    "url": "http://arxiv.org/abs/2508.10771v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Los recientes avances en el contenido generado por IA han alimentado el aumento de la altamente\nvideos sintéticos realistas, que plantean riesgos severos para la confianza social y digital\nintegridad. Los puntos de referencia existentes para la detección de autenticidad de video típicamente\nsufrir de realismo limitado, escala insuficiente y complejidad inadecuada,\nno evaluar de manera efectiva los modelos modernos en idioma de visión contra\nfalsificaciones sofisticadas. Para abordar esta brecha crítica, presentamos aegis, un\nnuevo punto de referencia a gran escala dirigida explícitamente a la detección de\nVideos generados por IA hiperrealistas y semánticamente matizados. Aegis comprende\nMás de 10,000 videos reales y sintéticos rigurosamente curados generados por diversos,\nmodelos generativos de última generación, incluida la difusión de video estable,\nCogvideox-5b, Kling y Sora, que abarca de código abierto y propietarios\narquitecturas. En particular, AEGIS presenta un desafío especialmente construido\nsubconjuntos mejorados con evaluación de robustez. Además, proporcionamos multimodal\nanotaciones que abarcan descripciones de autoridad semántica, características de movimiento y\nCaracterísticas visuales de bajo nivel, facilitando la detección de autenticidad y soporte\nTareas posteriores, como la fusión multimodal y la localización de falsificación. Extenso\nExperimentos que utilizan modelos avanzados en idioma de visión demuestran una detección limitada\ncapacidades en los subconjuntos más desafiantes de Aegis, destacando el\nLa complejidad y el realismo únicos del conjunto de datos más allá de la generalización actual\ncapacidades de los modelos existentes. En esencia, Aegis establece un indispensable\nBenchmark de evaluación, que avanza fundamentalmente la investigación para desarrollar\nDetección de autenticidad de video genuinamente robusta, confiable y ampliamente generalizable\nMetodologías capaces de abordar las amenazas de falsificación del mundo real. Nuestro conjunto de datos es\nDisponible en https://huggingface.co/datasets/clarifiedfish/aegis."
+  },
+  {
+    "title": "Modeling Human Responses to Multimodal AI Content",
+    "title_es": "Modelado de respuestas humanas al contenido de IA multimodal",
+    "url": "http://arxiv.org/abs/2508.10769v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "A medida que el contenido generado por AI se generaliza, también lo hace el riesgo de\ndesinformación. Mientras que la investigación previa se ha centrado principalmente en identificar\nSi el contenido es auténtico, se sabe mucho menos sobre cómo dicho contenido\ninfluye en la percepción y el comportamiento humanos. En dominios como el comercio o la acción\nmercado, prediciendo cómo reaccionan las personas (por ejemplo, si una publicación de noticias se volverá viral),\npuede ser más crítico que verificar su precisión objetiva. Para abordar esto, nosotros\nadoptar un enfoque centrado en el ser humano e introducir el conjunto de datos Mhaim, que contiene\n154,552 publicaciones en línea (111,153 de ellas generadas por IA), habilitando a gran escala\nAnálisis de cómo las personas responden al contenido generado por IA. Nuestro estudio humano revela\nque las personas son mejores para identificar contenido de IA cuando las publicaciones incluyen ambos texto\ny imágenes, particularmente cuando existen inconsistencias entre los dos. Nosotros\nProponer tres nuevas métricas: confiabilidad, impacto y apertura, para cuantificar\nCómo los usuarios juzgan e interactúan con el contenido en línea. Presentamos T-Lens, un LLM basado en\nSistema de agente diseñado para responder consultas de los usuarios incorporando humanos predichos\nrespuestas a información multimodal. En su núcleo está HR-MCP (respuesta humana\nProtocolo de contexto del modelo), basado en el protocolo de contexto de modelo estandarizado\n(MCP), que permite una integración perfecta con cualquier LLM. Esta integración permite\nT-lente para alinearse mejor con las reacciones humanas, mejorando ambas interpretabilidad\ny capacidades de interacción. Nuestro trabajo proporciona ideas empíricas y\nHerramientas prácticas para equipar LLM con capacidades de conciencia humana. Por\nDestacando la compleja interacción entre IA, cognición humana e información\nRecepción, nuestros hallazgos sugieren estrategias procesables para mitigar los riesgos\nde información errónea impulsada por IA."
+  },
+  {
+    "title": "FROGENT: An End-to-End Full-process Drug Design Agent",
+    "title_es": "Frogent: un agente de diseño de medicamentos de proceso completo de extremo a extremo",
+    "url": "http://arxiv.org/abs/2508.10760v1",
+    "date": "2025-08-14",
+    "source": "arXiv",
+    "content_es": "Las potentes herramientas de IA para el descubrimiento de fármacos residen en aplicaciones web aisladas, escritorio\nprogramas y bibliotecas de código. Tal fragmentación obliga a los científicos a administrar\nInterfaces incompatibles y scripts especializados, que pueden ser engorrosos y\nproceso repetitivo. Para abordar este problema, un agente de diseño de medicamentos de procesamiento completo,\nLlamado Frogent, ha sido propuesto. Específicamente, Frogent utiliza un gran\nModelo de lenguaje y protocolo de contexto del modelo para integrar múltiples dinámicas\nBasas de datos bioquímicas, bibliotecas de herramientas extensibles y modelos de IA específicos de tareas.\nEste marco de agente le permite a Frogent ejecutar un complicado descubrimiento de fármacos\nflujos de trabajo dinámicamente, incluidas tareas de componentes como la identificación de objetivos,\nGeneración de moléculas y planificación retrosintética. Frogent ha sido evaluado en\nOcho puntos de referencia que cubren varios aspectos del descubrimiento de drogas, como\nrecuperación de conocimiento, predicción de propiedades, detección virtual, mecanicista\nAnálisis, diseño molecular y síntesis. Se comparó con seis\nagentes de estilo react cada vez más avanzados que admiten la ejecución del código y\nBúsquedas de literatura. Los resultados empíricos demostraron que Frogent triplica el\nEl mejor rendimiento de referencia en la búsqueda de éxito y lo duplica en interacción\nperfiles, superando significativamente el modelo de código abierto QWEN3-32B y\nEl modelo comercial GPT-4O. Además, se han utilizado casos del mundo real\npara validar la práctica y la generalización de Frogent. Este desarrollo\nsugiere que la optimización de la tubería de descubrimiento de fármacos de agente puede\nMejora significativamente la productividad del investigador."
+  },
+  {
+    "title": "Leading a lab, and all it entails",
+    "title_es": "Liderar un laboratorio, y todo lo que implica",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady7700",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 690-690, agosto de 2025."
+  },
+  {
+    "title": "The Sisyphean quest for scientific certainty",
+    "title_es": "La búsqueda de la certeza sisifana de certeza científica",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea4594",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 691-691, agosto de 2025."
+  },
+  {
+    "title": "Predicting fusion ignition at the National Ignition Facility with physics-informed deep learning",
+    "title_es": "Predicción de la encendido por fusión en el National Ignition Facility con el aprendizaje profundo informado por la física",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adm8201",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 727-731, agosto de 2025."
+  },
+  {
+    "title": "Observation of many-body dynamical localization",
+    "title_es": "Observación de la localización dinámica de muchos cuerpos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adn8625",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 716-719, agosto de 2025."
+  },
+  {
+    "title": "Breast milk IgG engages the mouse neonatal immune system to instruct responses to gut antigens",
+    "title_es": "La IgG de la leche materna involucra el sistema inmune neonatal de ratón para instruir las respuestas a los antígenos intestinales",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ado5294",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "Platelets sequester extracellular DNA, capturing tumor-derived and free fetal DNA",
+    "title_es": "Las plaquetas secuestran el ADN extracelular, capturando el ADN fetal derivado del tumor y libre",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp3971",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "Cross-species implementation of an innate courtship behavior by manipulation of the sex-determinant gene",
+    "title_es": "Implementación de las especies cruzadas de un comportamiento de cortejo innato mediante la manipulación del gen determinante del sexo",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adp5831",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 747-752, agosto de 2025."
+  },
+  {
+    "title": "Mitochondria protect against an intracellular pathogen by restricting access to folate",
+    "title_es": "Las mitocondrias protegen contra un patógeno intracelular restringiendo el acceso al folato",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adr6326",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "Enantioconvergent benzylic C(sp3)‒N coupling with a copper-substituted nonheme enzyme",
+    "title_es": "Enantioconvergente Bencilícoll C (SP3) ‒N acoplamiento con una enzima no hemo sustituida por cobre",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adt5986",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 741-746, agosto de 2025."
+  },
+  {
+    "title": "Hierarchical chiral supramolecular assemblies with strong and invertible chiroptical properties",
+    "title_es": "Conjuntos supramoleculares quirales jerárquicos con propiedades quirópticas fuertes e invertibles",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu0296",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "Modulation of methyl–coenzyme M reductase expression alters the isotopic composition of microbial methane",
+    "title_es": "La modulación de la expresión de metil -coenzima M reductasa altera la composición isotópica del metano microbiano",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu2098",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 711-715, agosto de 2025."
+  },
+  {
+    "title": "Early germline sequestration in a basidiomycete fungus",
+    "title_es": "Secuestación temprana de la línea germinal en un hongo basidiomiceto",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu8580",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 720-723, agosto de 2025."
+  },
+  {
+    "title": "Linalool-triggered plant-soil feedback drives defense adaptation in dense maize plantings",
+    "title_es": "La retroalimentación de la planta del suelo de planta desencadenada por Lineool impulsa la adaptación de defensa en plantaciones de maíz densas",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv6675",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "Solution-phase stabilization of a cyclocarbon by catenane formation",
+    "title_es": "Estabilización en fase de solución de un ciclocarbono por formación de catenano",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady6054",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 708-710, agosto de 2025."
+  },
+  {
+    "title": "Diffraction of helium and hydrogen atoms through single-layer graphene",
+    "title_es": "Difracción de átomos de helio e hidrógeno a través de grafeno de una sola capa",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx5679",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 724-726, agosto de 2025."
+  },
+  {
+    "title": "Artificial farnesol epoxidase enables a concise synthesis of meroterpenoids",
+    "title_es": "La epoxidasa de farnesol artificial permite una síntesis concisa de meroterpenoides",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adt2096",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 732-735, agosto de 2025."
+  },
+  {
+    "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
+    "title_es": "La emulación escalable de los conjuntos de equilibrio de proteínas con aprendizaje profundo generativo",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv9817",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, agosto de 2025."
+  },
+  {
+    "title": "How I learned to ride",
+    "title_es": "Cómo aprendí a montar",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb3342",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 754-754, agosto de 2025."
+  },
+  {
+    "title": "In Other Journals",
+    "title_es": "En otras revistas",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb3932",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 696-697, agosto de 2025."
+  },
+  {
+    "title": "The scent of a crowd",
+    "title_es": "El aroma de una multitud",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz7633",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 680-681, agosto de 2025."
+  },
+  {
+    "title": "Seeing with atoms",
+    "title_es": "Ver con átomos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz7660",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 682-682, agosto de 2025."
+  },
+  {
+    "title": "Setting the table for immune tolerance",
+    "title_es": "Establecer la tabla para la tolerancia inmune",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz8687",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 684-685, agosto de 2025."
+  },
+  {
+    "title": "Mitochondria hoard folate to starve a parasite",
+    "title_es": "Mitocondria acumulada folato para morir de hambre un parásito",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea0875",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 685-686, agosto de 2025."
+  },
+  {
+    "title": "The ins and outs of circulating DNA",
+    "title_es": "Los entresijos del ADN circulante",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea0555",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 683-684, agosto de 2025."
+  },
+  {
+    "title": "West Philippine Sea dispute threatens sea life",
+    "title_es": "La disputa del mar de Filipinas Occidental amenaza la vida marina",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx9555",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 694-694, agosto de 2025."
+  },
+  {
+    "title": "Risks of ending US science-policy training",
+    "title_es": "Riesgos de poner fin a la capacitación en ciencias de la ciencia estadounidense",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz0737",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 692-692, agosto de 2025."
+  },
+  {
+    "title": "Editor’s Note",
+    "title_es": "Nota del editor",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea4953",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 692-692, agosto de 2025."
+  },
+  {
+    "title": "Addressing Southeast Asia’s plastic pollution",
+    "title_es": "Dirigirse a la contaminación plástica del sudeste asiático",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx7543",
+    "date": "2025-08-14",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 693-693, agosto de 2025."
+  },
+  {
+    "title": "Mysterious coffee species turns out to be a blend",
+    "title_es": "La misteriosa especie de café resulta ser una mezcla",
+    "url": "https://www.nature.com/articles/d41586-025-02562-2",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02562-2 Una variedad de café llamada Liberica, que está ganando popularidad para el sabor distintivo de sus frijoles, es en realidad tres especies."
+  },
+  {
+    "title": "Summer 2025 is roasting hot: these charts show why it matters",
+    "title_es": "El verano 2025 está asado: estos gráficos muestran por qué importa",
+    "url": "https://www.nature.com/articles/d41586-025-02553-3",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02553-3 Los datos revelan cómo las ondas de calor consecutivas de este año están afectando a las poblaciones y economías en toda Europa."
+  },
+  {
+    "title": "A mind–reading brain implant that comes with password protection",
+    "title_es": "Un implante cerebral de lectura de mente que viene con protección de contraseña",
+    "url": "https://www.nature.com/articles/d41586-025-02589-5",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02589-5 Una interfaz cerebral-computadora decodifica casi el discurso imaginado de las personas que tienen dificultades para enunciar las palabras."
+  },
+  {
+    "title": "Controversial quantum-computing paper gets hefty correction — but concerns linger",
+    "title_es": "El controvertido papel que computa cuántico tiene una corrección considerable, pero las preocupaciones demoradas",
+    "url": "https://www.nature.com/articles/d41586-025-02587-7",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02587-7 La revista Science ha levantado una expresión de preocupación en un documento que reclama evidencia de cuasipartículas de Majorana y agregó nuevos detalles."
+  },
+  {
+    "title": "Brazilian PhD students opt out of US research opportunities",
+    "title_es": "Los estudiantes de doctorado brasileño optan por no recibir oportunidades de investigación estadounidenses",
+    "url": "https://www.nature.com/articles/d41586-025-02486-x",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02486-x Al menos 96 estudiantes que habían planeado realizar investigaciones de posgrado en los Estados Unidos han cambiado su destino previsto, citando políticas hostiles de inmigración y ciencias."
+  },
+  {
+    "title": "Brain editing now ‘closer to reality’: the gene-altering tools tackling deadly disorders",
+    "title_es": "Edición cerebral ahora \"más cerca de la realidad\": las herramientas que alteran el gen que abordan los trastornos mortales",
+    "url": "https://www.nature.com/articles/d41586-025-02578-8",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02578-8 resultados impresionantes en ratones que anuncian los avances de edición de genes para enfermedades neurológicas."
+  },
+  {
     "title": "Astronomers gave up this comet for dead ― but they were wrong",
     "title_es": "Los astrónomos renunciaron a este cometa por los muertos, pero estaban equivocados",
     "url": "https://www.nature.com/articles/d41586-025-02561-3",
@@ -1912,6 +2344,14 @@
     "content_es": "Una parte importante del conocimiento que genera el Centro Nacional de Investigaciones Oncológicas (CNIO), y que se orienta a mejorar la prevención, el diagnóstico y el tratamiento del cáncer, es fruto de la generosidad. La generosidad de las personas, empresas y fundaciones que realizan donaciones al centro a través del programa ‘Amigos/as del CNIO’.  Desde que se estableció, en 2015, todos los fondos […] La entrada El CNIO celebra la solidaridad de sus Amigos y Amigas, clave para atraer talento y avanzar en la investigación del cáncer se publicó primero en CNIO ."
   },
   {
+    "title": "Strong interactions and isospin symmetry breaking in a supermoiré lattice",
+    "title_es": "Interacciones fuertes y simetría de isospin rompiendo en una red de supermuré",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adl2544",
+    "date": "2025-07-03",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 736-740, agosto de 2025."
+  },
+  {
     "title": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
     "title_es": "Cell Genomics: CNIC scientists reveal how the cellular energy system evolved—and how this knowledge could improve the diagnosis of rare genetic diseases",
     "url": "https://www.cnic.es/es/node/235158",
@@ -1966,5 +2406,13 @@
     "date": "2025-06-20",
     "source": "CNIC",
     "content_es": "20/06/2025 Sobre el CNIC Investigación Una delegación de la Universidad de Shanghai (China) ha visitado el CNIC con el objetivo de explorar posibles vías de colaboración en investigación biomédica. La comitiva estuvo encabezada por Gou Yannan , vicepresidente de la Universidad de Shanghai, y contó con la participación de Liu Jinsong, director del Departamento de Activos; Xiao Junjie, decano de la Escuela de Ciencias de la Vida; Wang Haisong, arquitecto jefe de desarrollo del campus y vicedecano de la Academia de Bellas Artes de Shanghai, y Huang Pei, directora adjunta de la Oficina de Asuntos Internacionales. Durante la reunión, se discutieron posibles estrategias para establecer proyectos conjuntos de investigación y cooperación institucional entre ambas entidades. Por parte del CNIC, participaron Vicente Andrés , director de Investigación Básica; Beatriz Ferreiro , Directora Gestión Científica, y Enrique Lara Pezzi , líder del grupo de Regulación Molecular de la Insuficiencia Cardiaca. Tras el encuentro, los representantes de la universidad china realizaron una visita a las instalaciones. Esta visita marca un primer paso en el establecimiento de lazos científicos entre el CNIC y la Universidad de Shanghai, con el propósito de impulsar el intercambio de conocimiento y el desarrollo de proyectos innovadores en el ámbito de la biomedicina."
+  },
+  {
+    "title": "The proteome of the late Middle Pleistocene Harbin individual",
+    "title_es": "El proteoma del individuo de Harbin del Pleistoceno medio tardío",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu9677",
+    "date": "2025-06-18",
+    "source": "Science.org",
+    "content_es": "Science, Volumen 389, número 6761, página 704-707, agosto de 2025."
   }
 ]
