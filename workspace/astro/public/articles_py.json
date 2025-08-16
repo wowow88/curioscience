@@ -1,5 +1,53 @@
 [
   {
+    "title": "Controversial climate report from Trump team galvanizes scientists into action",
+    "title_es": "El controvertido informe climático del equipo de Trump genera a los científicos a la acción",
+    "url": "https://www.nature.com/articles/d41586-025-02658-9",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02658-9 Los autores dan la bienvenida a la refutación científica \"seria\", mientras que los investigadores dicen que el informe tergiversa décadas de ciencia climática."
+  },
+  {
+    "title": "Super-efficient teamwork is possible — if you’re an ant",
+    "title_es": "El trabajo en equipo súper eficiente es posible: si eres una hormiga",
+    "url": "https://www.nature.com/articles/d41586-025-02564-0",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02564-0 Los trabajadores individuales en una tripulación de 15 hormigas tejer ejercen más fuerza que una sola hormiga que trabaja sola."
+  },
+  {
+    "title": "A clear prompt",
+    "title_es": "Un aviso claro",
+    "url": "https://www.nature.com/articles/d41586-025-02624-5",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02624-5 La brecha generativa."
+  },
+  {
+    "title": "AI helps assemble ‘brain’ of future quantum computer",
+    "title_es": "AI ayuda a ensamblar el \"cerebro\" de la futura computadora cuántica",
+    "url": "https://www.nature.com/articles/d41586-025-02577-9",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02577-9 Como demostración, el sistema de IA ayuda a hacer una animación en miniatura de alta velocidad del felino favorito de los físicos."
+  },
+  {
+    "title": "Cancelling mRNA studies is the highest irresponsibility",
+    "title_es": "Cancelar estudios de ARNm es la mayor irresponsabilidad",
+    "url": "https://www.nature.com/articles/d41586-025-02612-9",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02612-9 El resto del mundo no sigue el camino peligroso del gobierno de EE. UU., Y se mantendrá con la tecnología que ayudó al mundo a salir de la pandemia Covid-19."
+  },
+  {
+    "title": "Watch a human embryo implant itself — with brute force",
+    "title_es": "Mira un implante de embrión humano en sí, con fuerza bruta",
+    "url": "https://www.nature.com/articles/d41586-025-02627-2",
+    "date": "2025-08-15",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 15 de agosto de 2025; doi: 10.1038/d41586-025-02627-2 El video proporciona una mirada de cerca a un embrión humano que se hunde en el tejido que simula el revestimiento uterino."
+  },
+  {
     "title": "Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains",
     "title_es": "Investigación empírica sobre la configuración de las redes de estado de echo para los dominios de problemas de referencia representativos",
     "url": "http://arxiv.org/abs/2508.10887v1",
@@ -400,8 +448,8 @@
     "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02553-3 Los datos revelan cómo las ondas de calor consecutivas de este año están afectando a las poblaciones y economías en toda Europa."
   },
   {
-    "title": "A mind–reading brain implant that comes with password protection",
-    "title_es": "Un implante cerebral de lectura de mente que viene con protección de contraseña",
+    "title": "A mind-reading brain implant that comes with password protection",
+    "title_es": "Un implante cerebral de lectura mental que viene con protección de contraseña",
     "url": "https://www.nature.com/articles/d41586-025-02589-5",
     "date": "2025-08-14",
     "source": "Nature",
@@ -432,8 +480,16 @@
     "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02578-8 resultados impresionantes en ratones que anuncian los avances de edición de genes para enfermedades neurológicas."
   },
   {
-    "title": "Astronomers gave up this comet for dead ― but they were wrong",
-    "title_es": "Los astrónomos renunciaron a este cometa por los muertos, pero estaban equivocados",
+    "title": "Daily briefing: These rappelling robots autonomously explore underground tunnels",
+    "title_es": "Información diaria: estos robots de rappel exploran de forma autónoma túneles subterráneos",
+    "url": "https://www.nature.com/articles/d41586-025-02657-w",
+    "date": "2025-08-14",
+    "source": "Nature",
+    "content_es": "Nature, publicado en línea: 14 de agosto de 2025; doi: 10.1038/d41586-025-02657-W Un trío de robots se ayuda mutuamente a los tubos de lava sin supervisión humana. Además, las aves de \"inversión de sexo\" son sorprendentemente comunes y el comienzo de una nueva era para la investigación de gravedad cuántica."
+  },
+  {
+    "title": "Astronomers gave up this comet for dead — but they were wrong",
+    "title_es": "Los astrónomos renunciaron a este cometa por muerto, pero estaban equivocados",
     "url": "https://www.nature.com/articles/d41586-025-02561-3",
     "date": "2025-08-13",
     "source": "Nature",
