@@ -1,6 +1,6 @@
-# data_pipeline.py — Modo secuencial 1-por-fuente
+# data_pipeline.py — Modo secuencial 1-por-fuente (actualizado con nuevas fuentes y fallbacks)
 # Genera workspace/astro/public/articles_py.json tomando 1 artículo por fuente en orden.
-# Traduce con GoogleTranslator salvo fuentes ES.
+# Traduce con GoogleTranslator salvo fuentes ES. Fallback HTML (requests+BS4) para ISCIII/IEO.
 
 import json, os, time
 from datetime import datetime
@@ -10,21 +10,37 @@ import feedparser
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 from arxiv import Search, SortCriterion, Client
+import requests
 
 FINAL_PATH = "workspace/astro/public/articles_py.json"
 BACKUP_DIR = "workspace/astro/backups"
-SPANISH_SOURCES = {"AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC"}
+SPANISH_SOURCES = {"AEMET", "CNIC", "CNIO", "ISCIII", "IEO", "IAC", "Agencia SINC - Ciencia"}
 
 SOURCES = [
     ("arXiv",       "arxiv"),  # manejado aparte
     ("Science.org", "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"),
     ("Nature",      "https://www.nature.com/nature.rss"),
-    ("AEMET",       "https://www.aemet.es/xml/boletin.rss"),
+    ("AEMET",       "https://www.aemet.es/es/rss_info/avisos/esp"),
     ("CNIC",        "https://www.cnic.es/es/rss.xml"),
     ("CNIO",        "https://www.cnio.es/feed/"),
-    ("ISCIII",      "https://www.isciii.es/Noticias/Paginas/Noticias.aspx?rss=1"),
-    ("IEO",         "https://www.ieo.es/es_ES/web/ieo/noticias?p_p_id=rss_WAR_rssportlet_INSTANCE_wMyGl9T8Kpyx&p_p_lifecycle=2&p_p_resource_id=rss"),
-    ("IAC",         "https://www.iac.es/en/rss.xml"),
+    ("ISCIII",      "HTML_FALLBACK:https://www.isciii.es/actualidad"),
+    ("IEO",         "HTML_FALLBACK:https://www.ieo.es/es_ES/web/ieo/actualidad"),
+    ("IAC",         "https://www.iac.es/es/feed_news"),
+    # Nuevas
+    ("NASA (Top News)",            "https://www.nasa.gov/rss/dyn/breaking_news.rss"),
+    ("ESA (Top News)",             "https://www.esa.int/rssfeed/topnews"),
+    ("CERN News",                  "https://home.cern/api/news/news/feed.rss"),
+    ("CERN Press",                 "https://home.cern/api/news/press-release/feed.rss"),
+    ("NIH News Releases",          "https://www.nih.gov/news-events/news-releases/rss.xml"),
+    ("NCI (Cancer.gov)",           "https://www.cancer.gov/rss/news"),
+    ("Science News",               "https://www.sciencenews.org/feed"),
+    ("Science News Explores",      "https://www.snexplores.org/feed"),
+    ("ScienceDaily (Top)",         "https://www.sciencedaily.com/rss/top/science.xml"),
+    ("Phys.org (Latest)",          "https://phys.org/rss-feed/"),
+    ("PNAS (Latest)",              "https://www.pnas.org/rss/latest"),
+    ("PLOS ONE",                   "https://journals.plos.org/plosone/feed/atom"),
+    ("Nature News",                "https://www.nature.com/nature/articles?type=news&format=rss"),
+    ("Agencia SINC - Ciencia",     "https://www.agenciasinc.es/rss/ciencia"),
 ]
 
 
@@ -105,20 +121,23 @@ def make_article(title, url, date, source, summary) -> dict:
     }
 
 
-def fetch_one_arxiv():
+# ——— RSS y HTML fallbacks ———
+
+def fetch_one_html(name: str, url: str):
     try:
-        client = Client()
-        search = Search(query="cat:cs.AI", max_results=1, sort_by=SortCriterion.SubmittedDate)
-        for r in client.results(search):
-            return make_article(
-                title=r.title,
-                url=r.entry_id,
-                date=r.published.date().isoformat() if getattr(r, "published", None) else "",
-                source="arXiv",
-                summary=r.summary,
-            )
+        headers = {"User-Agent": "FuturoCientificoBot/1.0"}
+        r = requests.get(url, headers=headers, timeout=12)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        # estrategia genérica: primer enlace con texto decente
+        for a in soup.find_all('a', href=True):
+            title = (a.get_text() or "").strip()
+            if len(title) >= 10:
+                href = a['href']
+                abs_url = requests.compat.urljoin(url, href)
+                return make_article(title, abs_url, "", name, title)
     except Exception as e:
-        print("[arXiv]", e)
+        print(f"[{name}] HTML fallback error: {e}")
     return None
 
 
@@ -126,7 +145,7 @@ def fetch_one_rss(name: str, url: str):
     try:
         feed = feedparser.parse(url)
         items = getattr(feed, "entries", [])
-        # ordenamos por fecha desc y tomamos el primero válido
+        # orden por fecha desc y tomo el primero válido
         def ts(e):
             d = to_iso_date(e)
             try:
@@ -146,26 +165,55 @@ def fetch_one_rss(name: str, url: str):
     return None
 
 
+def fetch_one(name: str, url: str):
+    if url.startswith("HTML_FALLBACK:"):
+        return fetch_one_html(name, url.replace("HTML_FALLBACK:", ""))
+    return fetch_one_rss(name, url)
+
+
+def fetch_one_arxiv():
+    try:
+        client = Client()
+        search = Search(query="cat:cs.AI", max_results=1, sort_by=SortCriterion.SubmittedDate)
+        for r in client.results(search):
+            return make_article(
+                title=r.title,
+                url=r.entry_id,
+                date=r.published.date().isoformat() if getattr(r, "published", None) else "",
+                source="arXiv",
+                summary=r.summary,
+            )
+    except Exception as e:
+        print("[arXiv]", e)
+    return None
+
+
 def main():
+    # backup y merge incremental
+    os.makedirs(os.path.dirname(FINAL_PATH), exist_ok=True)
     backup_previous_version()
 
     picked = []
     seen = set()
 
-    # 1) arXiv (1 artículo)
+    # 1) arXiv (1)
     art = fetch_one_arxiv()
     if art and art["url"] and art["url"] not in seen:
         picked.append(art); seen.add(art["url"]) ; print("[arXiv] tomado 1")
     else:
         print("[arXiv] ninguno")
 
-    # 2) resto de fuentes (1 por cada una)
+    # 2) resto (1 por fuente)
     for name, url in SOURCES:
         if name == "arXiv":
             continue
-        art = fetch_one_rss(name, url)
-        if art and art["url"] and art["url"] not in seen:
-            picked.append(art); seen.add(art["url"]) ; print(f"[{name}] tomado 1")
+        art = fetch_one(name, url)
+        if art and art["url"]:
+            key = norm_url(art["url"]) or art["url"]
+            if key in seen:
+                print(f"[{name}] duplicado, salto")
+                continue
+            picked.append(art); seen.add(key); print(f"[{name}] tomado 1")
         else:
             print(f"[{name}] ninguno")
 
@@ -184,10 +232,7 @@ def main():
         if not k: continue
         prev = by_url.get(k, {})
         # No pisamos con vacíos
-        merged = {
-            **prev,
-            **{k2: v for k2, v in a.items() if isinstance(v, str) and v.strip() != ""}
-        }
+        merged = { **prev, **{k2: v for k2, v in a.items() if isinstance(v, str) and v.strip() != ""} }
         by_url[k] = merged
 
     out = list(by_url.values())
@@ -200,7 +245,6 @@ def main():
             except Exception: return 0
     out.sort(key=t, reverse=True)
 
-    os.makedirs(os.path.dirname(FINAL_PATH), exist_ok=True)
     with open(FINAL_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
