@@ -1,7 +1,8 @@
 // scripts/fetch-articles.js
-// - Traduce títulos y resúmenes con DeepL Free/Pro para TODAS las fuentes.
-// - Si no detecta idioma, asume EN y fija source_lang=EN (evita fallos).
-// - Nunca inventa fechas ni devuelve undefined; deduplica por URL normalizada.
+// — Modo secuencial 1-por-fuente —
+// Recorre RSS_SOURCES en orden, toma 1 artículo por fuente (más reciente),
+// lo traduce si no está en ES y pasa a la siguiente. Evita duplicados.
+// Salida: workspace/astro/public/articles_js.json
 
 import fs from "fs";
 import path from "path";
@@ -12,11 +13,10 @@ import { franc } from "franc"; // ISO 639-3 (eng, spa, ...)
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
 const DEEPL_KEY = process.env.DEEPL_API_KEY || "";
-// Free por defecto; si usas PRO, exporta DEEPL_ENDPOINT=https://api.deepl.com
-const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com";
-const TRANSLATE_LIMIT = Number(process.env.TRANSLATE_LIMIT || 200);
+const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || "https://api-free.deepl.com"; // Free por defecto
+const PER_SOURCE = Number(process.env.PER_SOURCE || 1);        // 👈 1 artículo por fuente
+const DEEPL_SLEEP_MS = Number(process.env.DEEPL_SLEEP_MS || 1200);
 
-// === FEEDS === (rellena con tus URLs)
 const RSS_SOURCES = [
   { name: "arXiv",       url: "http://export.arxiv.org/rss/cs" },
   { name: "PubMed",      url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10" },
@@ -74,19 +74,8 @@ function mapRssItemToArticle(item, sourceName){
   const summary = stripTags(summaryRaw);
   const publishedISO = toISO(pick(item.pubDate, item.published, item.updated, item.isoDate, item.date));
   const dateShort = publishedISO ? publishedISO.slice(0,10) : "";
-
-  // 👇 content_es siempre tendrá algo: resumen o, si no, el título (evita vacíos)
-  const contentSeed = summary || title;
-
-  return {
-    title,
-    title_es: title,           // siempre presente
-    url,
-    published: publishedISO || "",
-    date: dateShort,           // YYYY-MM-DD
-    content_es: contentSeed,   // nunca vacío
-    source: sourceName,
-  };
+  const contentSeed = summary || title; // nunca vacío
+  return { title, title_es: title, url, published: publishedISO || "", date: dateShort, content_es: contentSeed, source: sourceName };
 }
 
 async function fetchRSS(url, sourceName){
@@ -100,55 +89,54 @@ async function fetchRSS(url, sourceName){
   }
 }
 
-function dedupeByUrl(list){
-  const seen=new Set(); const out=[];
-  for(const it of list){
-    const k=normUrl(it.url);
-    if(!k || seen.has(k)) continue;
-    seen.add(k);
-    out.push({ ...it, url:k });
-  }
-  return out;
-}
-
 function sortByDateDesc(list){
   return [...list].sort((a,b)=> (Date.parse(b.date||b.published||0)||0) - (Date.parse(a.date||a.published||0)||0));
 }
 
-async function translateArticle(article){
+async function translateIfNeeded(article){
   if (!DEEPL_KEY) return article;
-  // Detecta; si no sabe, forzamos EN; si detecta ES, no traducimos
   const detected = detectDeepLLang(`${article.title} ${article.content_es}`) || "EN";
   if (detected === "ES") return { ...article, title_es: article.title, content_es: article.content_es };
   const title_es   = await deeplTranslate(article.title,      "ES", detected);
+  await new Promise(r=>setTimeout(r, DEEPL_SLEEP_MS));
   const content_es = await deeplTranslate(article.content_es, "ES", detected);
   return { ...article, title_es: title_es || article.title, content_es: content_es || article.content_es };
 }
 
 async function main(){
-  console.log("::group::fetch-articles.js");
-  const results = (await Promise.all(RSS_SOURCES.map(s=>fetchRSS(s.url, s.name)))).flat();
-  let articles = dedupeByUrl(results);
+  console.log("::group::fetch-articles.js (secuencial 1 por fuente)");
+  const picked = [];
+  const perSrcCount = new Map();
+  const seen = new Set();
 
-  // Ordena por fecha y traduce los N primeros más recientes (todas las fuentes)
-  articles = sortByDateDesc(articles);
-  if (DEEPL_KEY && articles.length){
-    const queue = articles.slice(0, TRANSLATE_LIMIT);
-    const translated = [];
-    for (const it of queue) translated.push(await translateArticle(it));
-    const translatedSet = new Set(translated.map(x=>x.url));
-    articles = sortByDateDesc([...translated, ...articles.filter(a=>!translatedSet.has(a.url))]);
-    console.log(`[translate] traducidos ${translated.length}/${articles.length}`);
+  for (const src of RSS_SOURCES){
+    try{
+      const list = sortByDateDesc(await fetchRSS(src.url, src.name));
+      let taken = 0;
+      for (const it of list){
+        if (!it.url || seen.has(it.url)) continue;
+        let art = await translateIfNeeded(it);
+        picked.push(art);
+        seen.add(it.url);
+        taken++;
+        perSrcCount.set(src.name, (perSrcCount.get(src.name)||0)+1);
+        break; // 👈 sólo 1 por fuente
+      }
+      console.log(`  [${src.name}] tomado: ${taken}`);
+    }catch(e){
+      console.warn(`  [${src.name}] error:`, e.message);
+    }
   }
 
-  ensureDirFor(OUT_PATH);
-  fs.writeFileSync(OUT_PATH, JSON.stringify(articles, null, 2));
-  console.log(`Guardados ${articles.length} artículos únicos en ${OUT_PATH}`);
+  // Guardar
+  const out = sortByDateDesc(picked);
+  console.log(`Total seleccionados: ${out.length}`);
+  for (const [s,n] of perSrcCount) console.log(`  - ${s}: ${n}`);
+
+  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
+  fs.writeFileSync(OUT_PATH, JSON.stringify(out, null, 2));
+  console.log(`Guardados ${out.length} artículos en ${OUT_PATH}`);
   console.log("::endgroup::");
 }
 
-main().catch(err=>{
-  console.error("Fallo inesperado en fetch-articles:", err);
-  try{ ensureDirFor(OUT_PATH); if(!fs.existsSync(OUT_PATH)) fs.writeFileSync(OUT_PATH, "[]"); }catch{}
-  process.exit(0);
-});
+main().catch(e=>{ console.error(e); process.exit(1); });
