@@ -16,8 +16,8 @@ const DEEPL_ENDPOINT =
   process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
 
 const knownEnglish = new Set([
-  "Nature","Science.org","Science","AAAS","arXiv","PubMed","ScienceDaily","Phys.org",
-  "Quanta Magazine","MIT News","NASA","ESA","PNAS","PLOS ONE"
+  "Nature","Science.org","Science","AAAS","arXiv","PubMed","ScienceDaily (Top)","NIH News Releases","Science News","Science News Explores","NCI (Cancer.gov)","Phys.org (Latest)","CERN News","CERN Press",
+  "Quanta Magazine","MIT News","NASA (Top News)","ESA (Top News)","PNAS (Latest)","PLOS ONE","Nature News"
 ]);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
