@@ -117,13 +117,10 @@ function mapRssItemToArticle(item, sourceName){
   );
   const url = normUrl(link);
   const titleRaw = pick(item.title, item["title#text"], item["dc:title"], "");
-  const summaryRaw = pick(item.contentSnippet, item.summary, item.description, item.content, "");
   const title = stripTags(titleRaw);
-  const summary = stripTags(summaryRaw);
   const publishedISO = toISO(pick(item.pubDate, item.published, item.updated, item.isoDate, item.date));
   const dateShort = publishedISO ? publishedISO.slice(0,10) : "";
-  const contentSeed = summary || title; // nunca vacío
-  return { title, title_es: title, url, published: publishedISO || "", date: dateShort, content_es: contentSeed, source: sourceName };
+  return { title, title_es: title, url, published: publishedISO || "", date: dateShort, source: sourceName };
 }
 
 async function parseRSSWithRetry(url, tries=3){
