@@ -57,13 +57,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'pnpm'
 
-      - name: 🟩 Enable pnpm via Corepack
+      - name: 🟩 Ensure pnpm installed (Corepack or npm -g)
         run: |
           set -euo pipefail
-          corepack enable
-          corepack prepare pnpm@9 --activate
+          corepack enable || true
+          corepack prepare pnpm@9 --activate || true
+          if ! command -v pnpm >/dev/null 2>&1; then
+            npm i -g pnpm@9
+          fi
           pnpm --version
 
       - name: 📦 Install Node deps (prefer pnpm; fallback npm)
