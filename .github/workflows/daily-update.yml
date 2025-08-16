@@ -26,17 +26,25 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: ⬇️ Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Python
+      - name: Ensure jq installed
+        run: |
+          set -euo pipefail
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
+
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
-      - name: Install Python deps
+
+      - name: 📦 Install Python deps
         run: |
           set -euo pipefail
           if [ -f requirements.txt ]; then
@@ -45,22 +53,31 @@ jobs:
             pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
           fi
 
-      - name: Setup Node.js
+      - name: 🟦 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'pnpm'
 
-      - name: Setup pnpm
+      - name: 🟩 Setup pnpm
         uses: pnpm/action-setup@v4
         with:
           version: 9
           run_install: false
 
-      - name: Install Node deps (pnpm if lock; else npm)
+      - name: ✅ Ensure pnpm in PATH (Corepack fallback)
         run: |
           set -euo pipefail
-          if [ -f pnpm-lock.yaml ]; then
+          if ! command -v pnpm >/dev/null 2>&1; then
+            corepack enable
+            corepack prepare pnpm@9 --activate
+          fi
+          pnpm --version
+
+      - name: 📦 Install Node deps (prefer pnpm; fallback npm)
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
             [ -f package.json ] && pnpm install --frozen-lockfile
             if [ -f workspace/astro/package.json ]; then
               pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install
@@ -74,7 +91,13 @@ jobs:
             fi
           fi
 
-      - name: Run data_pipeline.py → articles_py.json
+      - name: 🔑 Export secrets (optional)
+        if: ${{ env.DEEPL_API_KEY != '' || env.OPENAI_API_KEY != '' }}
+        run: |
+          echo "DEEPL_API_KEY=${{ env.DEEPL_API_KEY }}" >> $GITHUB_ENV
+          echo "OPENAI_API_KEY=${{ env.OPENAI_API_KEY }}" >> $GITHUB_ENV
+
+      - name: 🐍 Run data_pipeline.py → articles_py.json
         run: |
           set -euo pipefail
           python -V
@@ -88,7 +111,7 @@ jobs:
             echo "❌ No se encontró data_pipeline.py" && exit 1
           fi
 
-      - name: Run fetch-articles.js → articles_js.json
+      - name: 🟦 Run fetch-articles.js → articles_js.json
         run: |
           set -euo pipefail
           node -v
@@ -104,7 +127,7 @@ jobs:
             echo "❌ No se encontró fetch-articles.js" && exit 1
           fi
 
-      - name: Run merge-articles.js → articles.json
+      - name: 🟦 Run merge-articles.js → articles.json
         run: |
           set -euo pipefail
           if [ -f scripts/merge-articles.js ]; then
@@ -119,20 +142,23 @@ jobs:
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
 
-      - name: Quick check (existence)
+      - name: ✅ Quick check (existence + length)
         run: |
           set -euo pipefail
           for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
+            echo "::group::Comprobando $f"
             test -s "$f" || (echo "❌ $f no existe o está vacío" && exit 1)
+            jq 'length' "$f" || true
+            echo "::endgroup::"
           done
 
-      - name: Build Astro (if exists)
+      - name: 🏗️ Build Astro (if exists)
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: |
-          if [ -f pnpm-lock.yaml ]; then pnpm run build; else npm run build; fi
+          if command -v pnpm >/dev/null 2>&1; then pnpm run build; else npm run build; fi
 
-      - name: Upload artifacts
+      - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
@@ -142,7 +168,7 @@ jobs:
             ${{ env.JS_JSON }}
             ${{ env.FINAL_JSON }}
 
-      - name: Commit & Push
+      - name: 📝 Commit & Push
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
