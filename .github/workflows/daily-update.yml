@@ -18,6 +18,9 @@ env:
   PY_JSON: workspace/astro/public/articles_py.json
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
+  # No traduzcas en fetch para ahorrar cuota; lo hará el backfill dedicado
+  TRANSLATE_IN_FETCH: '0'
+  DEEPL_SLEEP_MS: '1200'
 
 jobs:
   update:
@@ -74,9 +77,7 @@ jobs:
             fi
           fi
 
-      - name: 🔑 Exportar claves (opcional, según scripts)
-
-      - name: 🔑 Exportar claves (opcional, según scripts)
+            - name: 🔑 Exportar claves (opcional, según scripts)
         if: ${{ secrets.DEEPL_API_KEY != '' || secrets.OPENAI_API_KEY != '' }}
         run: |
           echo "DEEPL_API_KEY=${{ secrets.DEEPL_API_KEY }}" >> $GITHUB_ENV
@@ -102,6 +103,10 @@ jobs:
             node fetch-articles.js
           elif [ -f workspace/fetch-articles.js ]; then
             node workspace/fetch-articles.js
+          elif [ -f scripts/fetch-articles.js ]; then
+            node scripts/fetch-articles.js
+          elif [ -f workspace/scripts/fetch-articles.js ]; then
+            node workspace/scripts/fetch-articles.js
           else
             echo "❌ No se encontró fetch-articles.js" && exit 1
           fi
@@ -113,6 +118,10 @@ jobs:
             node merge-articles.js
           elif [ -f workspace/merge-articles.js ]; then
             node workspace/merge-articles.js
+          elif [ -f scripts/merge-articles.js ]; then
+            node scripts/merge-articles.js
+          elif [ -f workspace/scripts/merge-articles.js ]; then
+            node workspace/scripts/merge-articles.js
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
