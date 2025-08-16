@@ -57,7 +57,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'pnpm'
+          cache: 'npm'
 
       - name: 🟩 Enable pnpm via Corepack
         run: |
@@ -172,4 +172,3 @@ jobs:
             git commit -m "chore: daily articles update [skip ci]"
             git push
           fi
-
