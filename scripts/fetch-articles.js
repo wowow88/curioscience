@@ -9,7 +9,7 @@ import path from "path";
 import fetch from "node-fetch";
 import RSSParser from "rss-parser";
 import { franc } from "franc"; // ISO 639-3 (eng, spa, ...)
-import cheerio from "cheerio";  // ⬅️ para fallbacks HTML (ISCIII/IEO)
+import { load as cheerioLoad } from "cheerio";  // ⬅️ para fallbacks HTML (ISCIII/IEO)
 
 const OUT_PATH = "workspace/astro/public/articles_js.json";
 const USER_AGENT = process.env.USER_AGENT || "curioscience-bot/1.0";
