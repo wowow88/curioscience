@@ -168,7 +168,7 @@ async function fetchHTMLList(url, sourceName){
     const res = await fetch(url, { headers: { 'user-agent': USER_AGENT }});
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const html = await res.text();
-    const $ = cheerio.load(html);
+    const $ = cheerioLoad(html);
     const items = [];
 
     if (sourceName === 'ISCIII') {
