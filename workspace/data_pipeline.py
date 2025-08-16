@@ -96,28 +96,24 @@ def translate_text(txt: str) -> str:
         return txt
 
 
-def make_article(title, url, date, source, summary) -> dict:
+def make_article(title, url, date, source) -> dict:
     title = (title or "").strip()
     url = norm_url(url)
     date = (date or "").strip()
     source = (source or "").strip()
-    summary_txt = clean_text(summary or "")
-    content_seed = summary_txt or title
 
     if source in SPANISH_SOURCES:
         title_es = title
-        content_es = content_seed
+
     else:
         title_es = translate_text(title)
-        content_es = translate_text(content_seed)
-
+        
     return {
         "title": title,
         "title_es": title_es or title,
         "url": url,
         "date": date,  # YYYY-MM-DD o ''
         "source": source,
-        "content_es": content_es or content_seed,
     }
 
 
@@ -157,9 +153,8 @@ def fetch_one_rss(name: str, url: str):
             title = getattr(entry, "title", "")
             link = getattr(entry, "link", "")
             date = to_iso_date(entry)
-            summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
             if link and title:
-                return make_article(title, link, date, name, summary)
+                return make_article(title, link, date, name)
     except Exception as e:
         print(f"[{name}] RSS error: {e}")
     return None
@@ -181,7 +176,6 @@ def fetch_one_arxiv():
                 url=r.entry_id,
                 date=r.published.date().isoformat() if getattr(r, "published", None) else "",
                 source="arXiv",
-                summary=r.summary,
             )
     except Exception as e:
         print("[arXiv]", e)
