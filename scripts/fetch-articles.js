@@ -6,7 +6,6 @@
 
 import fs from "fs";
 import path from "path";
-import fetch from "node-fetch";
 import RSSParser from "rss-parser";
 import { franc } from "franc"; // ISO 639-3 (eng, spa, ...)
 import { load as cheerioLoad } from "cheerio";  // ⬅️ para fallbacks HTML (ISCIII/IEO)
