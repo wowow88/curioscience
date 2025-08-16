@@ -31,6 +31,7 @@ env:
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
   USER_AGENT: "curioscience-bot/1.0 (+https://tu-dominio)"
+  TRANSLATE_IN_FETCH: '0'
   TRANSLATE_LIMIT: 200
 
 jobs:
