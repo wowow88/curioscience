@@ -58,38 +58,15 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 🟩 Ensure pnpm installed (Corepack or npm -g)
+      - name: 📦 Install Node deps (npm)
         run: |
           set -euo pipefail
-          corepack enable || true
-          corepack prepare pnpm@9 --activate || true
-          if ! command -v pnpm >/dev/null 2>&1; then
-            npm i -g pnpm@9
+          if [ -f package.json ]; then
+            if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
           fi
-          pnpm --version
-
-      - name: 📦 Install Node deps (prefer pnpm; fallback npm)
-        run: |
-          set -euo pipefail
-          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
-            [ -f package.json ] && pnpm install --frozen-lockfile
-            if [ -f workspace/astro/package.json ]; then
-              pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install
-            fi
-          else
-            if [ -f package.json ]; then
-              if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
-            fi
-            if [ -f workspace/astro/package.json ]; then
-              (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
-            fi
+          if [ -f workspace/astro/package.json ]; then
+            (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
           fi
-
-      - name: 🔑 Export secrets (optional)
-        if: ${{ env.DEEPL_API_KEY != '' || env.OPENAI_API_KEY != '' }}
-        run: |
-          echo "DEEPL_API_KEY=${{ env.DEEPL_API_KEY }}" >> $GITHUB_ENV
-          echo "OPENAI_API_KEY=${{ env.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
       - name: 🐍 Run data_pipeline.py → articles_py.json
         run: |
@@ -135,20 +112,6 @@ jobs:
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
-            - name: 🟨 Ensure title_es post-merge (DeepL)
-        env:
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-          DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
-          DEEPL_SLEEP_MS: '1200'
-          TITLES_PER_RUN: '500'
-          FINAL_JSON: ${{ env.FINAL_JSON }}
-        run: |
-          set -euo pipefail
-          if [ -f scripts/ensure-title-es.mjs ]; then
-            node scripts/ensure-title-es.mjs
-          else
-            echo "❌ Falta scripts/ensure-title-es.mjs" && exit 1
-          fi
 
       - name: ✅ Quick check (existence + length)
         run: |
@@ -164,7 +127,7 @@ jobs:
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: |
-          if command -v pnpm >/dev/null 2>&1; then pnpm run build; else npm run build; fi
+          npm run build
 
       - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
