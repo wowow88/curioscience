@@ -1,8 +1,8 @@
 // scripts/ensure-title-es.mjs
-// Asegura title_es traducido en workspace/astro/public/articles.json
 // - Solo escribe title_es si la traducción es DIFERENTE del title.
-// - Si DeepL falla/devuelve igual, NO toca title_es (se reintenta en otro pase).
-// - Fuerza EN para fuentes típicamente en inglés. Maneja 403/429/456.
+// - Fuerza EN para fuentes típicamente en inglés (detección por subcadena).
+// - Fallback a MyMemory si DeepL devuelve igual o null.
+// - Maneja 403/429/456 y respeta pausas/cuota.
 
 import fs from "fs/promises";
 
@@ -15,12 +15,19 @@ const isFreeKey = /:fx$/i.test(DEEPL_API_KEY) || /^fk[-_]/i.test(DEEPL_API_KEY);
 const DEEPL_ENDPOINT =
   process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
 
-const knownEnglish = new Set([
-  "Nature","Science.org","Science","AAAS","arXiv","PubMed","ScienceDaily (Top)","NIH News Releases","Science News","Science News Explores","NCI (Cancer.gov)","Phys.org (Latest)","CERN News","CERN Press",
-  "Quanta Magazine","MIT News","NASA (Top News)","ESA (Top News)","PNAS (Latest)","PLOS ONE","Nature News"
-]);
+// tokens para detectar fuentes en inglés por subcadena (lowercase)
+const EN_TOKENS = [
+  "nature", "science.org", "science ", "aaas", "arxiv", "pubmed",
+  "sciencedaily", "phys.org", "quanta", "mit news", "nasa", "esa",
+  "pnas", "plos one", "science news", "explores", "nih", "nci", "cern"
+];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+function looksEnglishSource(src = "") {
+  const s = String(src).toLowerCase();
+  return EN_TOKENS.some(tok => s.includes(tok));
+}
 
 async function deeplTranslate(text, forceEN = false) {
   if (!DEEPL_API_KEY) return { noKey: true };
@@ -32,30 +39,39 @@ async function deeplTranslate(text, forceEN = false) {
     split_sentences: "0",
   });
   if (forceEN) body.set("source_lang", "EN");
-
   const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body,
   });
-
   if (res.status === 403) return { forbidden: true };
   if (res.status === 429 || res.status === 456) return { rateLimited: true };
   if (!res.ok) return null;
-
   const data = await res.json();
   const t = data?.translations?.[0]?.text;
   return t ? { text: t } : null;
+}
+
+// Fallback muy ligero a MyMemory (gratuito, sin clave). EN→ES
+async function fallbackMyMemoryENES(text) {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|es`;
+  const res = await fetch(url, { headers: { "User-Agent": "curioscience-bot/1.0" } });
+  if (!res.ok) return null;
+  const data = await res.json();
+  const t = data?.responseData?.translatedText;
+  return t && typeof t === "string" ? t : null;
 }
 
 function needsTranslationTitle(it) {
   const t = (it.title || "").trim();
   const te = (it.title_es || "").trim();
   if (!t) return false;
-  // Traducir si falta o está idéntico al original
   if (!te || te.length === 0) return true;
-  if (te === t) return true;
-  return false;
+  return te === t; // idéntico al original ⇒ volver a intentar
+}
+
+function norm(x) {
+  return String(x || "").trim().replace(/\s+/g, " ");
 }
 
 (async () => {
@@ -73,18 +89,26 @@ function needsTranslationTitle(it) {
     if (attempted >= MAX_TITLES) break;
     if (!needsTranslationTitle(it)) continue;
 
-    const title = (it.title || "").trim();
+    const title = norm(it.title);
     if (!title) continue;
 
-    const forceEN = knownEnglish.has(it.source || "");
-    const out = await deeplTranslate(title, forceEN);
+    const forceEN = looksEnglishSource(it.source);
+    let out = await deeplTranslate(title, forceEN);
+
+    // Si DeepL no traduce o devuelve igual, intentamos fallback EN→ES
+    let translated = out?.text;
+    if (!translated || norm(translated) === title) {
+      if (forceEN) {
+        const fb = await fallbackMyMemoryENES(title);
+        if (fb && norm(fb) !== title) translated = fb;
+      }
+    }
 
     if (out?.forbidden) { forbidden = true; break; }
     if (out?.rateLimited) { limited = true; break; }
 
-    // Solo guardar si es realmente distinta
-    if (out?.text && out.text !== title) {
-      it.title_es = out.text;
+    if (translated && norm(translated) !== title) {
+      it.title_es = translated;
       changed++;
     }
     attempted++;
@@ -95,9 +119,8 @@ function needsTranslationTitle(it) {
     await fs.writeFile(FINAL_JSON, JSON.stringify(arr, null, 2), "utf8");
   }
   console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, rateLimited=${limited}, forbidden=${forbidden}`);
-
   if (forbidden) {
-    console.error("❌ DeepL 403: revisa clave y endpoint (FREE → api-free.deepl.com, PRO → api.deepl.com).");
+    console.error("❌ DeepL 403: clave/endpoint incorrectos (FREE → api-free.deepl.com, PRO → api.deepl.com).");
     process.exit(1);
   }
 })().catch((e) => { console.error(e); process.exit(1); });
