@@ -23,59 +23,48 @@ const EN_TOKENS = [
 ];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const norm  = (x) => String(x || "").trim().replace(/\s+/g, " ");
+const looksEnglishSource = (src = "") => EN_TOKENS.some(tok => String(src).toLowerCase().includes(tok));
 
-function looksEnglishSource(src = "") {
-  const s = String(src).toLowerCase();
-  return EN_TOKENS.some(tok => s.includes(tok));
-}
-
-async function deeplTranslate(text, forceEN = false) {
-  if (!DEEPL_API_KEY) return { noKey: true };
+async function deeplTranslate(text, sourceLang){
+  if (!DEEPL_API_KEY) return { noKey:true };
   const body = new URLSearchParams({
-    auth_key: DEEPL_API_KEY,
-    text,
-    target_lang: "ES",
-    preserve_formatting: "1",
-    split_sentences: "0",
+    auth_key: DEEPL_API_KEY, text,
+    target_lang: "ES", preserve_formatting: "1", split_sentences: "0"
   });
-  if (forceEN) body.set("source_lang", "EN");
+  if (sourceLang) body.set("source_lang", sourceLang);
   const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
-    method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body,
+    method:"POST",
+    headers:{ "Content-Type":"application/x-www-form-urlencoded" },
+    body
   });
-  if (res.status === 403) return { forbidden: true };
-  if (res.status === 429 || res.status === 456) return { rateLimited: true };
-  if (!res.ok) return null;
+  if (res.status === 403) return { forbidden:true };
+  if (res.status === 429 || res.status === 456) return { rateLimited:true };
+  if (!res.ok) { console.warn(`[DeepL] HTTP ${res.status}`); return null; }
   const data = await res.json();
   const t = data?.translations?.[0]?.text;
-  return t ? { text: t } : null;
+  return t ? { text:t } : null;
 }
 
-// Fallback muy ligero a MyMemory (gratuito, sin clave). EN→ES
-async function fallbackMyMemoryENES(text) {
+// Fallback ligero EN→ES (gratuito)
+async function fallbackMyMemoryENES(text){
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|es`;
-  const res = await fetch(url, { headers: { "User-Agent": "curioscience-bot/1.0" } });
+  const res = await fetch(url, { headers:{ "User-Agent":"curioscience-bot/1.0" } });
   if (!res.ok) return null;
   const data = await res.json();
   const t = data?.responseData?.translatedText;
   return t && typeof t === "string" ? t : null;
 }
 
-function needsTranslationTitle(it) {
-  const t = (it.title || "").trim();
-  const te = (it.title_es || "").trim();
+function needsTitle(it){
+  const t = norm(it.title), te = norm(it.title_es);
   if (!t) return false;
-  if (!te || te.length === 0) return true;
-  return te === t; // idéntico al original ⇒ volver a intentar
+  if (!te) return true;       // falta
+  return te === t;            // idéntico ⇒ volver a intentar
 }
 
-function norm(x) {
-  return String(x || "").trim().replace(/\s+/g, " ");
-}
-
-(async () => {
-  if (!DEEPL_API_KEY) {
+(async()=>{
+  if (!DEEPL_API_KEY){
     console.error("❌ Falta DEEPL_API_KEY en Secrets.");
     process.exit(1);
   }
@@ -83,44 +72,40 @@ function norm(x) {
 
   const raw = await fs.readFile(FINAL_JSON, "utf8");
   const arr = JSON.parse(raw);
-  let changed = 0, attempted = 0, limited = false, forbidden = false;
+  let changed=0, attempted=0, limited=false, forbidden=false;
 
-  for (const it of arr) {
-    if (attempted >= MAX_TITLES) break;
-    if (!needsTranslationTitle(it)) continue;
+  for (const it of arr){
+    if (attempted>=MAX_TITLES) break;
+    if (!needsTitle(it)) continue;
 
     const title = norm(it.title);
     if (!title) continue;
 
-    const forceEN = looksEnglishSource(it.source);
-    let out = await deeplTranslate(title, forceEN);
+    const forceEN = looksEnglishSource(it.source) ? 'EN' : undefined;
+    const out = await deeplTranslate(title, forceEN);
 
-    // Si DeepL no traduce o devuelve igual, intentamos fallback EN→ES
+    if (out?.forbidden){ forbidden=true; break; }
+    if (out?.rateLimited){ limited=true; break; }
+
     let translated = out?.text;
-    if (!translated || norm(translated) === title) {
-      if (forceEN) {
+    if (!translated || norm(translated) === title){
+      if (forceEN){
         const fb = await fallbackMyMemoryENES(title);
         if (fb && norm(fb) !== title) translated = fb;
       }
     }
 
-    if (out?.forbidden) { forbidden = true; break; }
-    if (out?.rateLimited) { limited = true; break; }
-
-    if (translated && norm(translated) !== title) {
-      it.title_es = translated;
+    if (translated && norm(translated) !== title){
+      it.title_es = translated; // solo si realmente es distinta
       changed++;
     }
     attempted++;
     await sleep(SLEEP_MS);
   }
 
-  if (changed > 0) {
+  if (changed>0){
     await fs.writeFile(FINAL_JSON, JSON.stringify(arr, null, 2), "utf8");
   }
   console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, rateLimited=${limited}, forbidden=${forbidden}`);
-  if (forbidden) {
-    console.error("❌ DeepL 403: clave/endpoint incorrectos (FREE → api-free.deepl.com, PRO → api.deepl.com).");
-    process.exit(1);
-  }
-})().catch((e) => { console.error(e); process.exit(1); });
+  if (forbidden){ console.error("❌ DeepL 403: clave/endpoint incorrectos (FREE → api-free.deepl.com, PRO → api.deepl.com)."); process.exit(1); }
+})().catch(e=>{ console.error(e); process.exit(1); });
