@@ -58,14 +58,31 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 📦 Install Node deps (npm)
+      - name: 🟩 Enable pnpm (Corepack) o instalarlo si falta
         run: |
           set -euo pipefail
-          if [ -f package.json ]; then
-            if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+          corepack enable || true
+          corepack prepare pnpm@9 --activate || true
+          if ! command -v pnpm >/dev/null 2>&1; then
+            npm i -g pnpm@9
           fi
-          if [ -f workspace/astro/package.json ]; then
-            (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
+          pnpm --version
+
+      - name: 📦 Install Node deps (prefer pnpm; fallback npm)
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
+            [ -f package.json ] && pnpm install --frozen-lockfile
+            if [ -f workspace/astro/package.json ]; then
+              pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install
+            fi
+          else
+            if [ -f package.json ]; then
+              if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+            fi
+            if [ -f workspace/astro/package.json ]; then
+              (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
+            fi
           fi
 
       - name: 🐍 Run data_pipeline.py → articles_py.json
@@ -113,6 +130,85 @@ jobs:
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
 
+      - name: 🟨 Crear script ensure-title-es.mjs (si no existe)
+        run: |
+          set -euo pipefail
+          mkdir -p scripts
+          if [ ! -f scripts/ensure-title-es.mjs ]; then
+            cat > scripts/ensure-title-es.mjs <<'JS'
+          // scripts/ensure-title-es.mjs
+          // Asegura title_es traducido en workspace/astro/public/articles.json
+          // - Solo traduce si falta, está vacío o es idéntico al title.
+          // - Fuerza EN para fuentes comúnmente en inglés.
+          // - Respeta cuota DeepL con pausas. No toca fecha/orden.
+
+          import fs from 'fs/promises';
+
+          const FINAL_JSON = process.env.FINAL_JSON || 'workspace/astro/public/articles.json';
+          const SLEEP_MS = Number(process.env.DEEPL_SLEEP_MS || process.env.SLEEP_MS || 1200);
+          const MAX_TITLES = Number(process.env.TITLES_PER_RUN || 500);
+
+          const DEEPL_API_KEY = process.env.DEEPL_API_KEY || '';
+          const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || (DEEPL_API_KEY.startsWith('fk') ? 'https://api-free.deepl.com' : 'https://api.deepl.com');
+
+          const knownEnglish = new Set(['Nature','Science.org','Science','AAAS','arXiv','PubMed','ScienceDaily','Phys.org','Quanta Magazine','MIT News','NASA','ESA','PNAS','PLOS ONE']);
+
+          const sleep = (ms)=>new Promise(r=>setTimeout(r,ms));
+
+          async function deeplTranslate(text, forceEN=false){
+            if (!DEEPL_API_KEY) return null;
+            const body = new URLSearchParams({ auth_key: DEEPL_API_KEY, text, target_lang: 'ES', preserve_formatting: '1', split_sentences: '0' });
+            if (forceEN) body.set('source_lang','EN');
+            const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, { method:'POST', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body });
+            if (res.status===429 || res.status===456){ console.warn(`[DeepL] rate/quota: HTTP ${res.status}`); return { rateLimited:true }; }
+            if (!res.ok){ console.warn(`[DeepL] HTTP ${res.status}`); return null; }
+            const data = await res.json();
+            const t = data?.translations?.[0]?.text;
+            return t ? { text:t } : null;
+          }
+
+          function needsTranslationTitle(it){
+            const t = (it.title||'').trim();
+            const te = (it.title_es||'').trim();
+            if (!t) return false;
+            if (!te || te.length===0) return true;
+            if (te === t) return true;
+            if (knownEnglish.has(it.source||'') && te === t) return true;
+            return false;
+          }
+
+          (async()=>{
+            const raw = await fs.readFile(FINAL_JSON,'utf8');
+            const arr = JSON.parse(raw);
+            let changed=0, attempted=0, limited=false;
+            for (const it of arr){
+              if (attempted>=MAX_TITLES) break;
+              if (!needsTranslationTitle(it)) continue;
+              const title = (it.title||'').trim();
+              if (!title) continue;
+              const forceEN = knownEnglish.has(it.source||'');
+              const out = await deeplTranslate(title, forceEN);
+              if (out?.rateLimited){ limited=true; break; }
+              if (out?.text && out.text !== title){ it.title_es = out.text; changed++; attempted++; await sleep(SLEEP_MS); }
+              else { if (!it.title_es) it.title_es = title; attempted++; await sleep(150); }
+            }
+            if (changed>0){ await fs.writeFile(FINAL_JSON, JSON.stringify(arr,null,2),'utf8'); }
+            console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, rateLimited=${limited}`);
+          })().catch(e=>{ console.error(e); process.exit(1); });
+          JS
+          fi
+
+      - name: 🟨 Ensure title_es post-merge (DeepL)
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
+          DEEPL_SLEEP_MS: '1200'
+          TITLES_PER_RUN: '500'
+          FINAL_JSON: ${{ env.FINAL_JSON }}
+        run: |
+          set -euo pipefail
+          node scripts/ensure-title-es.mjs
+
       - name: ✅ Quick check (existence + length)
         run: |
           set -euo pipefail
@@ -127,7 +223,7 @@ jobs:
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: |
-          npm run build
+          if command -v pnpm >/dev/null 2>&1 && [ -f pnpm-lock.yaml ]; then pnpm run build; else npm run build; fi
 
       - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
