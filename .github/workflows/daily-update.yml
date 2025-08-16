@@ -1,13 +1,13 @@
 name: Daily Articles Update
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
     # Ejecuta cada día a las 05:15 UTC (~07:15 Europa/Madrid en verano)
     - cron: '15 5 * * *'
 
 permissions:
-  contents: write  # necesario para commit/push
+  contents: write
 
 concurrency:
   group: daily-articles-update
@@ -29,7 +29,15 @@ jobs:
       - name: ⬇️ Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # necesitamos historial para comparar tamaños
+          fetch-depth: 0
+
+      - name: Ensure jq installed
+        run: |
+          set -euo pipefail
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -37,14 +45,13 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
-      - name: 📦 Instalar dependencias Python (si existen)
+      - name: 📦 Instalar dependencias Python (mínimas)
         run: |
           set -euo pipefail
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            # fallback mínimos (ajusta a tus scripts)
-            pip install requests feedparser beautifulsoup4 python-dateutil
+            pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
           fi
 
       - name: 🟦 Setup Node.js
@@ -71,13 +78,11 @@ jobs:
               if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
             fi
             if [ -f workspace/astro/package.json ]; then
-              pushd workspace/astro
-              if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
-              popd
+              (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
             fi
           fi
 
-            - name: 🔑 Exportar claves (opcional, según scripts)
+      - name: 🔑 Exportar claves (opcional)
         if: ${{ secrets.DEEPL_API_KEY != '' || secrets.OPENAI_API_KEY != '' }}
         run: |
           echo "DEEPL_API_KEY=${{ secrets.DEEPL_API_KEY }}" >> $GITHUB_ENV
@@ -91,6 +96,8 @@ jobs:
             python data_pipeline.py
           elif [ -f workspace/data_pipeline.py ]; then
             python workspace/data_pipeline.py
+          elif [ -f scripts/data_pipeline.py ]; then
+            python scripts/data_pipeline.py
           else
             echo "❌ No se encontró data_pipeline.py" && exit 1
           fi
@@ -99,14 +106,14 @@ jobs:
         run: |
           set -euo pipefail
           node -v
-          if [ -f fetch-articles.js ]; then
-            node fetch-articles.js
-          elif [ -f workspace/fetch-articles.js ]; then
-            node workspace/fetch-articles.js
-          elif [ -f scripts/fetch-articles.js ]; then
+          if [ -f scripts/fetch-articles.js ]; then
             node scripts/fetch-articles.js
           elif [ -f workspace/scripts/fetch-articles.js ]; then
             node workspace/scripts/fetch-articles.js
+          elif [ -f fetch-articles.js ]; then
+            node fetch-articles.js
+          elif [ -f workspace/fetch-articles.js ]; then
+            node workspace/fetch-articles.js
           else
             echo "❌ No se encontró fetch-articles.js" && exit 1
           fi
@@ -114,14 +121,14 @@ jobs:
       - name: 🟦 Ejecutar merge-articles.js (fusiona en articles.json)
         run: |
           set -euo pipefail
-          if [ -f merge-articles.js ]; then
-            node merge-articles.js
-          elif [ -f workspace/merge-articles.js ]; then
-            node workspace/merge-articles.js
-          elif [ -f scripts/merge-articles.js ]; then
+          if [ -f scripts/merge-articles.js ]; then
             node scripts/merge-articles.js
           elif [ -f workspace/scripts/merge-articles.js ]; then
             node workspace/scripts/merge-articles.js
+          elif [ -f merge-articles.js ]; then
+            node merge-articles.js
+          elif [ -f workspace/merge-articles.js ]; then
+            node workspace/merge-articles.js
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
@@ -144,8 +151,8 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p scripts
-          cat > scripts/validate-merge.js <<'JS'
-          const fs = require('fs');
+          cat > scripts/validate-merge.mjs <<'JS'
+          import fs from 'fs';
           const base = 'workspace/astro/public';
           const files = {
             py: `${base}/articles_py.json`,
@@ -174,15 +181,15 @@ jobs:
           }
           const seen = new Set(); const dups = [];
           for (const it of merged){ const k = id(it); if(seen.has(k)) dups.push(k); seen.add(k);} 
-          assert(dups.length===0, `Duplicados en articles.json (ej.: ${dups.slice(0,20).join(', ')})`);
+          if (dups.length) { throw new Error(`Duplicados en articles.json (ej.: ${dups.slice(0,20).join(', ')})`); }
           console.log('✔️ Sin duplicados en articles.json.');
           let inOrder = true;
           for (let i=1;i<merged.length;i++){ if (t(merged[i])>t(merged[i-1])) { inOrder=false; break; } }
-          assert(inOrder, `articles.json no está ordenado por fecha descendente.`);
+          if (!inOrder) { throw new Error('articles.json no está ordenado por fecha descendente.'); }
           console.log('✔️ Orden correcto por fecha descendente.');
           console.log('ℹ️ Validación completada.');
           JS
-          node scripts/validate-merge.js
+          node scripts/validate-merge.mjs
 
       - name: 🛟 Proteger histórico frente a regresiones (>20% menos que el commit previo)
         run: |
