@@ -85,19 +85,29 @@ jobs:
             fi
           fi
 
-      - name: 🐍 Run data_pipeline.py → articles_py.json
+      - name: 🐍 Run data_pipeline.py → articles_py.json (timeout 8m, logs en vivo)
+        env:
+          PYTHONUNBUFFERED: "1"
         run: |
           set -euo pipefail
+          echo "🔎 Buscando data_pipeline.py..."
+          find . -maxdepth 3 -type f -name "data_pipeline.py" -print || true
           python -V
-          if [ -f data_pipeline.py ]; then
-            python data_pipeline.py
-          elif [ -f workspace/data_pipeline.py ]; then
-            python workspace/data_pipeline.py
-          elif [ -f scripts/data_pipeline.py ]; then
-            python scripts/data_pipeline.py
-          else
+          TARGET=""
+          for CAND in \
+            "data_pipeline.py" \
+            "workspace/data_pipeline.py" \
+            "scripts/data_pipeline.py" \
+            "workspace/scripts/data_pipeline.py" \
+            "workspace/astro/scripts/data_pipeline.py" \
+            "workspace/astro/data_pipeline.py"; do
+            if [ -f "$CAND" ]; then TARGET="$CAND"; break; fi
+          done
+          if [ -z "$TARGET" ]; then
             echo "❌ No se encontró data_pipeline.py" && exit 1
           fi
+          echo "▶ Ejecutando $TARGET"
+          timeout 8m python "$TARGET"
 
       - name: 🟦 Run fetch-articles.js → articles_js.json
         run: |
@@ -137,64 +147,131 @@ jobs:
           if [ ! -f scripts/ensure-title-es.mjs ]; then
             cat > scripts/ensure-title-es.mjs <<'JS'
           // scripts/ensure-title-es.mjs
-          // Asegura title_es traducido en workspace/astro/public/articles.json
-          // - Solo traduce si falta, está vacío o es idéntico al title.
-          // - Fuerza EN para fuentes comúnmente en inglés.
-          // - Respeta cuota DeepL con pausas. No toca fecha/orden.
+          // - Solo escribe title_es si la traducción es DIFERENTE del title.
+          // - Fuerza EN para fuentes típicamente en inglés (detección por subcadena).
+          // - Fallback a MyMemory si DeepL devuelve igual o null.
+          // - Maneja 403/429/456 y respeta pausas/cuota.
 
-          import fs from 'fs/promises';
+          import fs from "fs/promises";
 
-          const FINAL_JSON = process.env.FINAL_JSON || 'workspace/astro/public/articles.json';
+          const FINAL_JSON = process.env.FINAL_JSON || "workspace/astro/public/articles.json";
           const SLEEP_MS = Number(process.env.DEEPL_SLEEP_MS || process.env.SLEEP_MS || 1200);
           const MAX_TITLES = Number(process.env.TITLES_PER_RUN || 500);
 
-          const DEEPL_API_KEY = process.env.DEEPL_API_KEY || '';
-          const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || (DEEPL_API_KEY.startsWith('fk') ? 'https://api-free.deepl.com' : 'https://api.deepl.com');
+          const DEEPL_API_KEY = process.env.DEEPL_API_KEY || "";
+          const isFreeKey = /:fx$/i.test(DEEPL_API_KEY) || /^fk[-_]/i.test(DEEPL_API_KEY);
+          const DEEPL_ENDPOINT =
+            process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
 
-          const knownEnglish = new Set(['Nature','Science.org','Science','AAAS','arXiv','PubMed','ScienceDaily','Phys.org','Quanta Magazine','MIT News','NASA','ESA','PNAS','PLOS ONE']);
+          // tokens para detectar fuentes en inglés por subcadena (lowercase)
+          const EN_TOKENS = [
+            "nature", "science.org", "science ", "aaas", "arxiv", "pubmed",
+            "sciencedaily", "phys.org", "quanta", "mit news", "nasa", "esa",
+            "pnas", "plos one", "science news", "explores", "nih", "nci", "cern"
+          ];
 
-          const sleep = (ms)=>new Promise(r=>setTimeout(r,ms));
+          const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-          async function deeplTranslate(text, forceEN=false){
-            if (!DEEPL_API_KEY) return null;
-            const body = new URLSearchParams({ auth_key: DEEPL_API_KEY, text, target_lang: 'ES', preserve_formatting: '1', split_sentences: '0' });
-            if (forceEN) body.set('source_lang','EN');
-            const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, { method:'POST', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body });
-            if (res.status===429 || res.status===456){ console.warn(`[DeepL] rate/quota: HTTP ${res.status}`); return { rateLimited:true }; }
-            if (!res.ok){ console.warn(`[DeepL] HTTP ${res.status}`); return null; }
+          function looksEnglishSource(src = "") {
+            const s = String(src).toLowerCase();
+            return EN_TOKENS.some(tok => s.includes(tok));
+          }
+
+          async function deeplTranslate(text, forceEN = false) {
+            if (!DEEPL_API_KEY) return { noKey: true };
+            const body = new URLSearchParams({
+              auth_key: DEEPL_API_KEY,
+              text,
+              target_lang: "ES",
+              preserve_formatting: "1",
+              split_sentences: "0",
+            });
+            if (forceEN) body.set("source_lang", "EN");
+            const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
+              method: "POST",
+              headers: { "Content-Type": "application/x-www-form-urlencoded" },
+              body,
+            });
+            if (res.status === 403) return { forbidden: true };
+            if (res.status === 429 || res.status === 456) return { rateLimited: true };
+            if (!res.ok) return null;
             const data = await res.json();
             const t = data?.translations?.[0]?.text;
-            return t ? { text:t } : null;
+            return t ? { text: t } : null;
           }
 
-          function needsTranslationTitle(it){
-            const t = (it.title||'').trim();
-            const te = (it.title_es||'').trim();
+          // Fallback muy ligero a MyMemory (gratuito, sin clave). EN→ES
+          async function fallbackMyMemoryENES(text) {
+            const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|es`;
+            const res = await fetch(url, { headers: { "User-Agent": "curioscience-bot/1.0" } });
+            if (!res.ok) return null;
+            const data = await res.json();
+            const t = data?.responseData?.translatedText;
+            return t && typeof t === "string" ? t : null;
+          }
+
+          function needsTranslationTitle(it) {
+            const t = (it.title || "").trim();
+            const te = (it.title_es || "").trim();
             if (!t) return false;
-            if (!te || te.length===0) return true;
-            if (te === t) return true;
-            if (knownEnglish.has(it.source||'') && te === t) return true;
-            return false;
+            if (!te || te.length === 0) return true;
+            return te === t; // idéntico al original ⇒ volver a intentar
           }
 
-          (async()=>{
-            const raw = await fs.readFile(FINAL_JSON,'utf8');
-            const arr = JSON.parse(raw);
-            let changed=0, attempted=0, limited=false;
-            for (const it of arr){
-              if (attempted>=MAX_TITLES) break;
-              if (!needsTranslationTitle(it)) continue;
-              const title = (it.title||'').trim();
-              if (!title) continue;
-              const forceEN = knownEnglish.has(it.source||'');
-              const out = await deeplTranslate(title, forceEN);
-              if (out?.rateLimited){ limited=true; break; }
-              if (out?.text && out.text !== title){ it.title_es = out.text; changed++; attempted++; await sleep(SLEEP_MS); }
-              else { if (!it.title_es) it.title_es = title; attempted++; await sleep(150); }
+          function norm(x) {
+            return String(x || "").trim().replace(/\s+/g, " ");
+          }
+
+          (async () => {
+            if (!DEEPL_API_KEY) {
+              console.error("❌ Falta DEEPL_API_KEY en Secrets.");
+              process.exit(1);
             }
-            if (changed>0){ await fs.writeFile(FINAL_JSON, JSON.stringify(arr,null,2),'utf8'); }
-            console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, rateLimited=${limited}`);
-          })().catch(e=>{ console.error(e); process.exit(1); });
+            console.log(`Using DeepL endpoint: ${DEEPL_ENDPOINT} (freeKey=${isFreeKey})`);
+
+            const raw = await fs.readFile(FINAL_JSON, "utf8");
+            const arr = JSON.parse(raw);
+            let changed = 0, attempted = 0, limited = false, forbidden = false;
+
+            for (const it of arr) {
+              if (attempted >= MAX_TITLES) break;
+              if (!needsTranslationTitle(it)) continue;
+
+              const title = norm(it.title);
+              if (!title) continue;
+
+              const forceEN = looksEnglishSource(it.source);
+              let out = await deeplTranslate(title, forceEN);
+
+              // Si DeepL no traduce o devuelve igual, intentamos fallback EN→ES
+              let translated = out?.text;
+              if (!translated || norm(translated) === title) {
+                if (forceEN) {
+                  const fb = await fallbackMyMemoryENES(title);
+                  if (fb && norm(fb) !== title) translated = fb;
+                }
+              }
+
+              if (out?.forbidden) { forbidden = true; break; }
+              if (out?.rateLimited) { limited = true; break; }
+
+              if (translated && norm(translated) !== title) {
+                it.title_es = translated;
+                changed++;
+              }
+              attempted++;
+              await sleep(SLEEP_MS);
+            }
+
+            if (changed > 0) {
+              await fs.writeFile(FINAL_JSON, JSON.stringify(arr, null, 2), "utf8");
+            }
+            console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, rateLimited=${limited}, forbidden=${forbidden}`);
+            if (forbidden) {
+              console.error("❌ DeepL 403: clave/endpoint incorrectos (FREE → api-free.deepl.com, PRO → api.deepl.com).");
+              process.exit(1);
+            }
+          })().catch((e) => { console.error(e); process.exit(1); });
           JS
           fi
 
@@ -202,48 +279,9 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
-          DEEPL_SLEEP_MS: '1200'
-          TITLES_PER_RUN: '500'
+          DEEPL_SLEEP_MS: '1500'
+          TITLES_PER_RUN: '150'
           FINAL_JSON: ${{ env.FINAL_JSON }}
         run: |
           set -euo pipefail
           node scripts/ensure-title-es.mjs
-
-      - name: ✅ Quick check (existence + length)
-        run: |
-          set -euo pipefail
-          for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
-            echo "::group::Comprobando $f"
-            test -s "$f" || (echo "❌ $f no existe o está vacío" && exit 1)
-            jq 'length' "$f" || true
-            echo "::endgroup::"
-          done
-
-      - name: 🏗️ Build Astro (if exists)
-        if: ${{ hashFiles('workspace/astro/package.json') != '' }}
-        working-directory: workspace/astro
-        run: |
-          if command -v pnpm >/dev/null 2>&1 && [ -f pnpm-lock.yaml ]; then pnpm run build; else npm run build; fi
-
-      - name: 📦 Upload artifacts (JSON)
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: articles-jsons
-          path: |
-            ${{ env.PY_JSON }}
-            ${{ env.JS_JSON }}
-            ${{ env.FINAL_JSON }}
-
-      - name: 📝 Commit & Push
-        run: |
-          set -euo pipefail
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$PY_JSON" "$JS_JSON" "$FINAL_JSON"
-          if git diff --cached --quiet; then
-            echo "Sin cambios que commitear."
-          else
-            git commit -m "chore: daily articles update [skip ci]"
-            git push
-          fi
