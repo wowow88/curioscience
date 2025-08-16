@@ -135,6 +135,20 @@ jobs:
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
+            - name: 🟨 Ensure title_es post-merge (DeepL)
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
+          DEEPL_SLEEP_MS: '1200'
+          TITLES_PER_RUN: '500'
+          FINAL_JSON: ${{ env.FINAL_JSON }}
+        run: |
+          set -euo pipefail
+          if [ -f scripts/ensure-title-es.mjs ]; then
+            node scripts/ensure-title-es.mjs
+          else
+            echo "❌ Falta scripts/ensure-title-es.mjs" && exit 1
+          fi
 
       - name: ✅ Quick check (existence + length)
         run: |
