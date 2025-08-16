@@ -1,5 +1,23 @@
 [
   {
+    "title": "The ocean’s fragile fortresses are crumbling under climate pressure",
+    "title_es": "The ocean’s fragile fortresses are crumbling under climate pressure",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250814094700.htm",
+    "published": "2025-08-16T10:08:48.000Z",
+    "date": "2025-08-16",
+    "content_es": "Mediterranean bryozoans, including the “false coral,” are showing alarming changes in structure and microbiomes under acidification and warming. Field studies at volcanic CO₂ vents reveal that these stressors combined sharply reduce survival, posing risks to marine ecosystems.",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Saturday Citations: A new category of supernovas; neurons beat machine learning; depression and vitiligo",
+    "title_es": "Saturday Citations: A new category of supernovas; neurons beat machine learning; depression and vitiligo",
+    "url": "https://phys.org/news/2025-08-saturday-citations-category-supernovas-neurons.html",
+    "published": "2025-08-16T12:30:01.000Z",
+    "date": "2025-08-16",
+    "content_es": "Based on simulations, researchers report that the next big earthquake along the San Andreas fault is unlikely to resemble previous quakes. Researchers at the intersection of algebra, geometry, particle physics and cosmology are making headway in describing the shape of the universe. And common food thickeners based on derivatives of cellulose don't just pass through your digestive tract as previously believed—gut bacteria are able to feed on them.",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Controversial climate report from Trump team galvanizes scientists into action",
     "title_es": "Controversial climate report from Trump team galvanizes scientists into action",
     "url": "https://www.nature.com/articles/d41586-025-02658-9",
@@ -7,6 +25,33 @@
     "date": "2025-08-15",
     "content_es": "Controversial climate report from Trump team galvanizes scientists into action",
     "source": "Nature"
+  },
+  {
+    "title": "NASA-Developed Printable Metal Can Take the Heat",
+    "title_es": "NASA-Developed Printable Metal Can Take the Heat",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/",
+    "published": "2025-08-15T20:13:43.000Z",
+    "date": "2025-08-15",
+    "content_es": "Until now, additive manufacturing, commonly known as 3D printing, of engine components was limited by the lack of affordable metal alloys that could withstand the extreme temperatures of spaceflight. Expensive metal alloys were the only option for 3D printing engine parts until NASA’s Glenn Research Center in Cleveland, Ohio, developed the GRX-810 alloy. The primary […]",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Ancient hominids made long road trips to collect stone for tools",
+    "title_es": "Ancient hominids made long road trips to collect stone for tools",
+    "url": "https://www.sciencenews.org/article/ancient-hominids-road-trips-stone-tools",
+    "published": "2025-08-15T18:00:00.000Z",
+    "date": "2025-08-15",
+    "content_es": "A Kenyan site shows early hominids transported stone 13 kilometers for toolmaking as early as 2.6 million years ago.",
+    "source": "Science News"
+  },
+  {
+    "title": "Clinical manifestations and immune correlations in anti-centromere antibody-positive and anti-SSA/Ro antibody-positive primary Sjögren’s syndrome: A retrospective analysis",
+    "title_es": "Clinical manifestations and immune correlations in anti-centromere antibody-positive and anti-SSA/Ro antibody-positive primary Sjögren’s syndrome: A retrospective analysis",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-08-15T14:00:00.000Z",
+    "date": "2025-08-15",
+    "content_es": "by Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu\n\r\n\r\nPrimary Sjögren’s syndrome (pSS) is an autoimmune disorder characterized by dry eyes and mouth, often with systemic involvement. This study aimed to investigate the clinical manifestations and laboratory features in pSS patients, particularly focusing on those with anti-centromere antibodies (ACA) and anti-SSA/Ro antibodies. We conducted a retrospective analysis of 152 patients diagnosed with pSS at Ningbo Medical Center Lihuili Hospital from 2018 to 2023, using the 2016 ACR/EULAR criteria. Additionally, 105 age- and sex-matched healthy controls were included to establish a comparative baseline for laboratory parameters. Clinical data were obtained from medical records, and patients were categorized into ACA-positive and SSA-positive groups based on their autoantibody profiles. Appropriate statistical analyses, including ANOVA, chi-square tests, correlation analysis, and multivariate regression analysis, were used to compare clinical and laboratory parameters in pSS patients. ACA-positive patients were significantly older and exhibited a higher prevalence of Raynaud’s phenomenon and left ventricular diastolic dysfunction, while SSA-positive patients presented with more marked hematological abnormalities. ACA-positive patients have a more prevalent occurrence of positive antinuclear antibodies (ANA) and anti-mitochondrial M2 antibodies (AMA-M2), as well as significantly higher levels of left ventricular end-diastolic diameter (LVEDD), IgM, and lactate dehydrogenase (LDH). In addition, SSA-positive patients exhibited elevated levels of globulins (GLB), IgG, IgA, and rheumatoid factor (RF), accompanied by decreased albumin (ALB) levels. ACA-positive patients had abnormal proportions of CD4+ and CD8+ T cells and had reduced counts of NK cells (CD16+CD56+), CD3+ T cells, and CD8+ T cells. Correlation and multivariate regression analyses revealed a significant association between NK cell and levels of IgG, IgM, GLB, and LDH. Furthermore, SSA-positive patients showed abnormal proportions of CD19+ B cells and NK cells, with reduced counts of CD3+ T cells (including CD4+ and CD8+ T cells) and NK cells. Correlation and multivariate regression analyses indicated a significant correlation between CD4+ T cell and levels of IgG, ALB, and GLB. Overall, T cell-mediated immunity plays a significant role in SSA-positive patients; NK cells are shown to be critically involved in the pathogenesis of ACA-positive pSS.",
+    "source": "PLOS ONE"
   },
   {
     "title": "Leading a lab, and all it entails",
@@ -18,6 +63,15 @@
     "source": "Science.org"
   },
   {
+    "title": "This device creates rainbows of sound",
+    "title_es": "This device creates rainbows of sound",
+    "url": "https://www.snexplores.org/article/acoustic-sound-rainbow-device",
+    "published": "2025-08-14T10:30:00.000Z",
+    "date": "2025-08-14",
+    "content_es": "A plastic structure separates the pitches in mixed sounds like white noise, much like a rainbow spreads out colors of light.",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Science Translational Medicine: Una técnica de imagen disponible en hospitales y usada en cáncer mejora el seguimiento y tratamiento de la aterosclerosis  ",
     "title_es": "Science Translational Medicine: Una técnica de imagen disponible en hospitales y usada en cáncer mejora el seguimiento y tratamiento de la aterosclerosis  ",
     "url": "https://www.cnic.es/es/noticias/science-translational-medicine-tecnica-imagen-disponible-hospitales-usada-cancer-mejora",
@@ -27,6 +81,15 @@
     "source": "CNIC"
   },
   {
+    "title": "CERN technology showcased in the context of UN Plastic Treaty discussions",
+    "title_es": "CERN technology showcased in the context of UN Plastic Treaty discussions",
+    "url": "https://home.cern/news/news/knowledge-sharing/cern-technology-showcased-context-un-plastic-treaty-discussions",
+    "published": "2025-08-13T09:35:12.000Z",
+    "date": "2025-08-13",
+    "content_es": "CERN technology showcased in the context of UN Plastic Treaty discussions\n\n\t\t\t\t\t\t\n\n\nSioni Summers from Edge SpAIce and Paola Catapano from Polarquest Association speaking at the event (Image: CERN)\n\n\nAn event at CERN’s IdeaSquare held on 8 August demonstrated how citizen science and novel artificial intelligence (AI) techniques developed at the Large Hadron Collider can contribute to combating plastic pollution. The IdeaSquare event was part of a programme of side events aimed at attendees of INC-5.2 – the second part of the fifth session of an intergovernmental negotiating committee established by the United Nations in 2022 to develop an international legally binding instrument on plastic pollution, which is meeting in Geneva from 5 to 14 August.\nIn 2024 a European Union project called Edge SpAIce was established to use CERN’s expertise in data management to combat marine plastic litter. The aim of the project is to develop an on-board system for satellites that will make it possible to acquire and process high-resolution pictures using a deep neural network. The system will process data in near real time directly on the satellite, mirroring the efficient filtering of data in particle detectors at the Large Hadron Collider.\nThe IdeaSquare event “Citizen Science and AI to combat plastic pollution”, which was organised by the Polarquest Association in partnership with Edge SpAIce, included presentations and workshops by experts in citizen science, AI, marine biology and geography. More than 70 delegates from the UN Plastic Treaty INC-5.2 session attended the event and toured CERN’s facilities. \nThe unique combination of AI and citizen science promises to make monitoring and implementation of Plastic Treaty rules more efficient and accessible: AI can process thousands of satellite and drone images to map pollution in real time, while citizens can perform ground-truthing and can help AI systems learn and improve. “Together, they enable faster responses, smarter policies, and stronger community engagement in reducing plastic waste,” said speaker Rosy Mondardini, Director of Research at Citizen Science Zurich (UZH and ETH Zurich).\n“For this ‘once-in-a-planet’ opportunity to succeed, we have to ensure that science plays a pivotal role,” said marine biologist Stefano Aliani (CNR-ISMAR), who is a member of the International Science Council delegation at INC-5 and spoke at the event on the importance of science-based decisions.\nWatch the IdeaSquare event:\n\nProgramme and presentations:\nhttps://indico.cern.ch/event/1562356/\nkatebrad\n\nWed, 08/13/2025 - 11:35\n\n\n\t\nByline\nPaola Catapano\nPublication Date\nWed, 08/13/2025 - 12:51",
+    "source": "CERN News"
+  },
+  {
     "title": "Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
     "title_es": "Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro!",
     "url": "https://www.cnio.es/noticias/nuevas-tesis-doctorales-en-el-cnio-enhorabuena-a-quienes-hacen-la-ciencia-del-futuro/",
@@ -34,5 +97,23 @@
     "date": "2025-08-12",
     "content_es": "Charles Darwin ponía sus esperanzas en «naturalistas jóvenes y emergentes» que sabrían apreciar sus rompedoras ideas; a los veteranos no aspiraba a convencerlos, porque sus mentes «están repletas de datos que durante muchos años han sido analizados desde un punto de vista opuesto al mío», escribió en El Origen de las Especies–. El físico Max […]\nLa entrada Tesis doctorales en el CNIO: ¡Enhorabuena a quienes hacen la ciencia del futuro! se publicó primero en CNIO.",
     "source": "CNIO"
+  },
+  {
+    "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
+    "title_es": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
+    "url": "https://home.cern/news/press-release/cern/students-belgium-canada-mexico-turkiye-and-usa-win-12th-edition-beamline",
+    "published": "2025-07-09T07:13:54.000Z",
+    "date": "2025-07-09",
+    "content_es": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools\n\n\t\t\t\t\t\t\nBeamline for Schools (BL4S) is a physics competition that was initiated by CERN, the European Laboratory for Particle Physics, and is open to secondary school pupils from all around the world. Participants are invited to submit a proposal for a physics experiment to be undertaken at the beamline of a particle accelerator, either at CERN or at one of the partner institutes: DESY (Deutsches Elektronen-Synchrotron in Hamburg, Germany) and ELSA (Elektronen-Stretcher-Anlage of the University of Bonn, Germany). In 2025, a record number of five winning teams have been chosen, based on both the scientific merit of their proposals and the communication merit of their submission video.\n“The Spallateam”, a team from the Collège Cardinal Mercier in Belgium, and the team “Physical”, from Cağaloğlu Anadolu Lisesi in Türkiye, will travel to CERN in September 2025 to perform their proposed experiments. The teams “Dawson Technicolor” from Dawson College in Canada and “Pumas in Kollision” from Escuela Nacional Preparatoria N° 6 \"Antonio Caso\" in Mexico will carry out their experiment at a DESY beamline, while “Team XTReme” from Centennial High School in the USA will be welcomed at the University of Bonn. It is the first time that teams from Belgium and Türkiye have won the competition.\nA beamline is a facility that provides high-energy fluxes of subatomic particles that can be used to conduct experiments in different fields, including fundamental physics, material science and medicine. \nThe participation rate has been rising consistently since the launch of Beamline for Schools in 2014, with a record number of 508 teams from 72 countries submitting an experiment proposal in 2025. More than 3500 high-school students participated this year.\n“Year after year, we keep being amazed by the quality of the students’ proposals,” says Charlotte Warakaulle, CERN Director for International Relations. “Education is at the core of our mission, and the consistent growth in the number of students taking part in the competition demonstrates the strong interest of students in science, technology, engineering and maths. We want to nurture this interest and talent, and we are looking forward to welcoming the winners on site!”\nThe fruitful collaboration between CERN and DESY started in 2019 during a long shutdown period of the CERN accelerators. This is the sixth year that the German laboratory has hosted competition winners. \nBeate Heinemann, chair of DESY’s Board of Directors, adds: “My heartfelt congratulations not only to this year’s winners but also to all the other participants. You got together and worked as teams for your proposals – such teamwork is the first step towards great science! I look forward to welcoming the Canadian and Mexican teams at DESY and hope they will find answers to their scientific questions using the DESY beamlines.”\nFor the first time this year, the University of Bonn will also be welcoming a team, who will use its electron accelerator ELSA.\n“At the University of Bonn we are proud to contribute the ELSA beam for the first time and very much look forward to hosting a winning team. I am very impressed by the proposal of Team XTReme and we will do our best to provide them with a good experimental environment. We know that the BL4S participants of today are the scientists of tomorrow,” says Professor Klaus Desch, who is in charge of the ELSA accelerator facility.\n“Our team proposes to compare the numbers of neutrons emitted by two different spallation targets. The first, a homogeneous target, would be made of a heavy metal: tungsten. The second target would be composite: tungsten combined with elements of aluminium (a light metal). We are hoping for an increase in neutrons in the second case,” says “the Spallateam”, from Belgium. “We cannot wait to conduct our experiment at CERN!”\n“Our experiment focuses on optimising nuclear spallation by investigating how different target materials and their thicknesses affect neutron yield. This research could inform future methods for radioactive waste reduction and sustainable neutron source design. Being selected to conduct our experiment at CERN feels surreal; it was beyond our dreams. Getting to be at the heart of scientific discovery, not as observers but as contributors, is the most meaningful moment of our lives so far,” says Defne Karaoğluol from the Turkish “Physical” team.\n“Our experiment aims to observe the trajectories of muons with a three-dimensional scintillator-based detector, the Scintillating Chamber,” says Danah Dézémé from the Canadian “Dawson Technicolor” team. “The opportunity that has been presented to us fills us with so much excitement and anticipation for the future of the Scintillating Chamber as well as for the future of particle physics as a whole!”\n“Our project explores the use of kidneywood pigment and fluorite as scintillating media, combining scientific inquiry with cultural heritage,” explains “Pumas in Kollision”, the team from Mexico. “We aim to demonstrate that it is possible to propose new alternatives to standard procedures, thereby making them more accessible and adaptable for laboratories with limited infrastructure. Winning meant to all of us that the effort we invested was completely worth it, and we're very excited to be able to work with world-class scientists.”\n“Our project investigates the production of transition radiation as high-energy electrons pass through multilayer dielectric interfaces,” says “Team XTReme”, from the USA. “It's almost surreal to think that we've made it to the point where we get to push the boundaries of particle physics through hands-on experimentation at ELSA. We're grateful to the whole BL4S organisation for making this happen, and we're so excited for this opportunity!”\nThe winning proposals were selected by a committee of CERN, DESY and ELSA scientists from a shortlist of 50 particularly promising experiments. In addition, three teams will be recognised for the most creative video proposals and another 15 teams for the quality of their physics outreach activities in their local communities, taking advantage of the knowledge they have gained by participating in BL4S.\nBeamline for Schools is an education and outreach project funded by the CERN & Society Foundation’s donors. This 12th edition is supported notably by ROLEX through its Perpetual Planet Initiative and by the Wilhelm and Else Heraeus Foundation.\nFurther information:\nBL4S website: https://cern.ch/bl4s\nShortlisted teams and special prizes in 2025: https://cern.ch/bl4s/2025-edition\nPrevious winners: https://cern.ch/bl4s/resources/winners\nShortlisted teams from Argentina, Bangladesh, Belgium, Canada, China, France, Germany, Hong Kong SAR China, India, Kazakhstan, Mexico, Nepal, Pakistan, Philippines, Poland, Portugal, Romania, Singapore, Spain, Sri Lanka, Thailand, Türkiye, Ukraine, United Kingdom, United States, Uzbekistan.\nThe prizes awarded for the best outreach projects – 15 telescopes – have been kindly provided by the Belgian project “Stars Shine for Everyone”. The telescopes are signed by five Nobel Prize Laureates and CERN’s Director-General.\nangerard\n\nWed, 07/09/2025 - 09:13\n\n\n\t\nPublication Date\nWed, 07/09/2025 - 14:00",
+    "source": "CERN Press"
+  },
+  {
+    "title": "Saltar al contenido principal",
+    "title_es": "Saltar al contenido principal",
+    "url": "https://www.isciii.es/actualidad#main-content",
+    "date": "",
+    "published": "",
+    "content_es": "Saltar al contenido principal",
+    "source": "ISCIII"
   }
 ]
