@@ -68,38 +68,33 @@ async function deeplTranslate(text, targetLang, sourceLang){
 
 function needsTranslation(item){
   const titleSrc = (item.title_es && item.title_es.trim() !== '') ? item.title_es : (item.title || "");
-  const summarySrc = (item.content_es && item.content_es.trim() !== '') ? item.content_es : (item.summary || item.description || "");
-
   const titleMissing   = !item.title_es || item.title_es.trim() === '';
   const titleSameAsSrc = (item.title_es || '').trim() === (item.title || '').trim();
-  const contentMissing = !item.content_es || item.content_es.trim() === '';
+
 
   // Detecta idioma del material disponible; si no sabe, asumimos EN
   const lang = detectLang2(`${titleSrc} ${summarySrc}`) || 'EN';
 
-  return (lang !== 'ES') || titleMissing || titleSameAsSrc || contentMissing;
+  return (lang !== 'ES') || titleMissing || titleSameAsSrc ;
 }
 
 async function translateItem(item){
   const title = item.title || '';
-  const summarySeed = item.content_es || item.summary || item.description || '';
   const lang = (detectLang2(`${title} ${summarySeed}`) || 'EN');
 
   if (lang === 'ES') {
     return {
       ...item,
       title_es: (item.title_es && item.title_es.trim() !== '') ? item.title_es : title,
-      content_es: (item.content_es && item.content_es.trim() !== '') ? item.content_es : (summarySeed || title),
+    
     };
   }
   const title_es = await deeplTranslate(title, 'ES', lang);
   await sleep(SLEEP_MS);
-  const content_src = summarySeed || title; // si no hay resumen, traducimos el título como contenido
-  const content_es = await deeplTranslate(content_src, 'ES', lang);
+
   return {
     ...item,
     title_es: title_es || title,
-    content_es: content_es || content_src,
   };
 }
 
@@ -137,7 +132,6 @@ async function main(){
       all[idx] = {
         ...original,
         title_es: translated.title_es,
-        content_es: translated.content_es,
       };
       if ((k+1) % 25 === 0) console.log(`...${k+1}/${limit} traducidos`);
     }catch(e){
