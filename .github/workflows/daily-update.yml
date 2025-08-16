@@ -59,22 +59,14 @@ jobs:
           node-version: '20'
           cache: 'pnpm'
 
-      - name: 🟩 Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
-          run_install: false
-
-      - name: ✅ Ensure pnpm in PATH (Corepack fallback)
+      - name: 🟩 Enable pnpm via Corepack
         run: |
           set -euo pipefail
-          if ! command -v pnpm >/dev/null 2>&1; then
-            corepack enable
-            corepack prepare pnpm@9 --activate
-          fi
+          corepack enable
+          corepack prepare pnpm@9 --activate
           pnpm --version
 
-      - name: 📦 Install Node deps (prefer pnpm; fallback npm)
+            - name: 📦 Install Node deps (prefer pnpm; fallback npm)
         run: |
           set -euo pipefail
           if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
