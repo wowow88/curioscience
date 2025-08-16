@@ -275,13 +275,24 @@ jobs:
           JS
           fi
 
-      - name: 🟨 Ensure title_es post-merge (DeepL)
+      - name: 🟨 Ensure title_es post-merge (DeepL + fallbacks)
         env:
+          # Desactiva DeepL si estás en 456; usa solo fallbacks
+          DISABLE_DEEPL: '1'
+          # Si tienes una instancia de LibreTranslate, úsala (mejor que MyMemory)
+          LIBRETRANSLATE_URL: https://libretranslate.com
+          LIBRETRANSLATE_API_KEY: ''
+          # Si DeepL está activo y devuelve 429/456, seguir con fallbacks
+          FALLBACK_ON_RATELIMIT: '1'
+          FALLBACK_MAX: '400'
+          # DeepL vars (por si vuelves a activarlo)
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
-          DEEPL_SLEEP_MS: '1500'
-          TITLES_PER_RUN: '150'
+          # Ritmo y lote
+          DEEPL_SLEEP_MS: '0'
+          TITLES_PER_RUN: '300'
           FINAL_JSON: ${{ env.FINAL_JSON }}
         run: |
-          set -euo pipefail
-          node scripts/ensure-title-es.mjs
+            set -euo pipefail
+            node scripts/ensure-title-es.mjs
+
