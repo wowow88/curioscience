@@ -1,9 +1,9 @@
 name: Daily Articles Update
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch: {}          # botón "Run workflow"
   schedule:
-    - cron: '15 5 * * *'   # 05:15 UTC (~07:15 Madrid en verano)
+    - cron: '15 5 * * *'         # 05:15 UTC (~07:15 Madrid en verano)
 
 permissions:
   contents: write
@@ -18,8 +18,8 @@ env:
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
 
-  # Traducción de títulos (usa fallbacks gratuitos por defecto)
-  DISABLE_DEEPL: '1'                 # pon '0' si quieres usar DeepL
+  # Traducción de títulos (por defecto: fallbacks sin DeepL)
+  DISABLE_DEEPL: '1'                    # pon '0' para usar DeepL
   DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
   DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
   TITLES_PER_RUN: '300'
@@ -28,6 +28,8 @@ env:
   FALLBACK_MAX: '400'
   LIBRETRANSLATE_URL: https://libretranslate.com
   LIBRETRANSLATE_API_KEY: ''
+  RETRY_IF_IDENTICAL: '0'               # no reintentar si title_es === title
+  TRANSLATE_IN_FETCH: '0'               # no traducir durante el fetch
 
 jobs:
   update:
@@ -126,8 +128,238 @@ jobs:
           elif [ -f workspace/merge-articles.js ]; then node workspace/merge-articles.js
           else echo "❌ No se encontró merge-articles.js"; exit 1; fi
 
+      # ---------- 🔍 Diagnóstico: URLs nuevas vs HEAD ----------
+      - name: 🔍 Diff vs HEAD (¿hay URLs nuevas?)
+        run: |
+          set -euo pipefail
+          PREV=$(mktemp)
+          CURR=$(mktemp)
+          if git cat-file -e HEAD^{commit} 2>/dev/null; then
+            git show HEAD:${{ env.FINAL_JSON }} 2>/dev/null | jq -r '.[].url' | sort -u > "$PREV" || true
+          fi
+          jq -r '.[].url' ${{ env.FINAL_JSON }} | sort -u > "$CURR"
+          echo "::group::Resumen"
+          echo "Previas: $(wc -l < "$PREV" 2>/dev/null || echo 0)"
+          echo "Actuales: $(wc -l < "$CURR")"
+          echo "Nuevas hoy:"
+          comm -13 "$PREV" "$CURR" | sed 's/^/  + /' || true
+          echo "::endgroup::"
+          echo "::group::Top por fuente (10)"
+          jq -r '.[].source' ${{ env.FINAL_JSON }} | sort | uniq -c | sort -nr | head -10
+          echo "::endgroup::"
+
       # ---------- Traducción de títulos (post-merge) ----------
-      # Requiere que exista scripts/ensure-title-es.mjs en el repo
+      - name: 🟨 Ensure title_es post-merge (DeepL + fallbacks)
+        run: |
+          set -euo pipefail
+          if [ ! -f scripts/ensure-title-es.mjs ]; then
+            echo "❌ Falta scripts/ensure-title-es.mjs en el repo." && exit 1
+          fi
+          node scripts/ensure-title-es.mjs
+
+      # ---------- Quitar content_es siempre ----------
+      - name: 🧹 Strip content_es en articles.json
+        run: |
+          set -euo pipefail
+          test -s "$FINAL_JSON" || (echo "❌ $FINAL_JSON vacío" && exit 1)
+          tmp="$(mktemp)"
+          jq 'map(del(.content_es))' "$FINAL_JSON" > "$tmp" && mv "$tmp" "$FINAL_JSON"
+          echo "strip-content-es: OK"
+
+      # ---------- Comprobaciones / build opcional ----------
+      - name: ✅ Quick check (existence + length)
+        run: |
+          set -euo pipefail
+          for f in "$PY_JSON" "$JS_JSON" "$FINAL_JSON"; do
+            echo "::group::Comprobando $f"
+            test -s "$f" || (echo "❌ $f no existe o está vacío" && exit 1)
+            jq 'length' "$f" || true
+            echo "::endgroup::"
+          done
+
+      - name: 🏗️ Build Astro (if exists)
+        if: ${{ hashFiles('workspace/astro/package.json') != '' }}
+        working-directory: workspace/astro
+        run: |
+          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
+            pnpm run build
+          else
+            npm run build
+          fi
+
+      - name: 📦 Upload artifacts (JSON)
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: articles-jsons
+          path: |
+            ${{ env.PY_JSON }}
+            ${{ env.JS_JSON }}
+            ${{ env.FINAL_JSON }}
+
+      - name: 📝 Commit & Push
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$PY_JSON" "$JS_JSON" "$FINAL_JSON"
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "chore: daily articles update [skip ci]"
+            git push
+          fi
+name: Daily Articles Update
+
+on:
+  workflow_dispatch: {}          # botón "Run workflow"
+  schedule:
+    - cron: '15 5 * * *'         # 05:15 UTC (~07:15 Madrid en verano)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-articles-update
+  cancel-in-progress: true
+
+env:
+  TZ: Europe/Madrid
+  PY_JSON: workspace/astro/public/articles_py.json
+  JS_JSON: workspace/astro/public/articles_js.json
+  FINAL_JSON: workspace/astro/public/articles.json
+
+  # Traducción de títulos (por defecto: fallbacks sin DeepL)
+  DISABLE_DEEPL: '1'                    # pon '0' para usar DeepL
+  DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+  DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
+  TITLES_PER_RUN: '300'
+  DEEPL_SLEEP_MS: '0'
+  FALLBACK_ON_RATELIMIT: '1'
+  FALLBACK_MAX: '400'
+  LIBRETRANSLATE_URL: https://libretranslate.com
+  LIBRETRANSLATE_API_KEY: ''
+  RETRY_IF_IDENTICAL: '0'               # no reintentar si title_es === title
+  TRANSLATE_IN_FETCH: '0'               # no traducir durante el fetch
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🔧 Ensure jq
+        run: |
+          set -euo pipefail
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
+
+      # ---------- Python ----------
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Python deps
+        run: |
+          set -euo pipefail
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
+          fi
+
+      # ---------- Node ----------
+      - name: 🟦 Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install Node deps (pnpm si hay lock; si no, npm)
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable || true
+            corepack prepare pnpm@9 --activate || true
+            command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+            if [ -f package.json ]; then pnpm install --frozen-lockfile || pnpm install; fi
+            if [ -f workspace/astro/package.json ]; then pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install; fi
+          else
+            if [ -f package.json ]; then
+              if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+            fi
+            if [ -f workspace/astro/package.json ]; then
+              (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
+            fi
+          fi
+
+      # ---------- Pipeline ----------
+      - name: 🐍 Run data_pipeline.py → articles_py.json (timeout 8m)
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          set -euo pipefail
+          python -V
+          TARGET=""
+          for CAND in \
+            "data_pipeline.py" \
+            "workspace/data_pipeline.py" \
+            "scripts/data_pipeline.py" \
+            "workspace/scripts/data_pipeline.py" \
+            "workspace/astro/scripts/data_pipeline.py" \
+            "workspace/astro/data_pipeline.py"; do
+            if [ -f "$CAND" ]; then TARGET="$CAND"; break; fi
+          done
+          if [ -z "$TARGET" ]; then
+            echo "❌ No se encontró data_pipeline.py" && exit 1
+          fi
+          timeout 8m python "$TARGET"
+
+      - name: 🟦 Run fetch-articles.js → articles_js.json
+        run: |
+          set -euo pipefail
+          node -v
+          if   [ -f scripts/fetch-articles.js ]; then node scripts/fetch-articles.js
+          elif [ -f workspace/scripts/fetch-articles.js ]; then node workspace/scripts/fetch-articles.js
+          elif [ -f fetch-articles.js ]; then node fetch-articles.js
+          elif [ -f workspace/fetch-articles.js ]; then node workspace/fetch-articles.js
+          else echo "❌ No se encontró fetch-articles.js"; exit 1; fi
+
+      - name: 🟦 Run merge-articles.js → articles.json
+        run: |
+          set -euo pipefail
+          if   [ -f scripts/merge-articles.js ]; then node scripts/merge-articles.js
+          elif [ -f workspace/scripts/merge-articles.js ]; then node workspace/scripts/merge-articles.js
+          elif [ -f merge-articles.js ]; then node merge-articles.js
+          elif [ -f workspace/merge-articles.js ]; then node workspace/merge-articles.js
+          else echo "❌ No se encontró merge-articles.js"; exit 1; fi
+
+      # ---------- 🔍 Diagnóstico: URLs nuevas vs HEAD ----------
+      - name: 🔍 Diff vs HEAD (¿hay URLs nuevas?)
+        run: |
+          set -euo pipefail
+          PREV=$(mktemp)
+          CURR=$(mktemp)
+          if git cat-file -e HEAD^{commit} 2>/dev/null; then
+            git show HEAD:${{ env.FINAL_JSON }} 2>/dev/null | jq -r '.[].url' | sort -u > "$PREV" || true
+          fi
+          jq -r '.[].url' ${{ env.FINAL_JSON }} | sort -u > "$CURR"
+          echo "::group::Resumen"
+          echo "Previas: $(wc -l < "$PREV" 2>/dev/null || echo 0)"
+          echo "Actuales: $(wc -l < "$CURR")"
+          echo "Nuevas hoy:"
+          comm -13 "$PREV" "$CURR" | sed 's/^/  + /' || true
+          echo "::endgroup::"
+          echo "::group::Top por fuente (10)"
+          jq -r '.[].source' ${{ env.FINAL_JSON }} | sort | uniq -c | sort -nr | head -10
+          echo "::endgroup::"
+
+      # ---------- Traducción de títulos (post-merge) ----------
       - name: 🟨 Ensure title_es post-merge (DeepL + fallbacks)
         run: |
           set -euo pipefail
