@@ -1,10 +1,18 @@
 [
   {
     "title": "Scientists stunned by record-breaking, watermelon-shaped nucleus",
-    "title_es": "Científicos sorprendidos por el núcleo récord en forma de sandía",
+    "title_es": "Científicos aturdidos por el núcleo récord en forma de sandía",
     "url": "https://www.sciencedaily.com/releases/2025/08/250816113512.htm",
     "date": "2025-08-17",
     "source": "ScienceDaily (Top)",
+    "published": "2025-08-17T00:00:00.000Z"
+  },
+  {
+    "title": "Predicting the topological properties of quantum spin liquids using Rydberg atom lattices",
+    "title_es": "Predicción de las propiedades topológicas de los líquidos de giro cuántico utilizando redes de átomos de Rydberg",
+    "url": "https://phys.org/news/2025-08-topological-properties-quantum-liquids-rydberg.html",
+    "date": "2025-08-17",
+    "source": "Phys.org (Latest)",
     "published": "2025-08-17T00:00:00.000Z"
   },
   {
@@ -57,7 +65,7 @@
   },
   {
     "title": "'Australiana' images made by AI are racist and full of tired cliches, researchers say",
-    "title_es": "Las imágenes de 'Australiana' hechas por IA son racistas y están llenas de clichés cansados, dicen los investigadores",
+    "title_es": "Las imágenes de 'Australiana' realizadas por AI son racistas y llenas de clichés cansados, dicen los investigadores",
     "url": "https://phys.org/news/2025-08-australiana-images-ai-racist-full.html",
     "date": "2025-08-16",
     "source": "Phys.org (Latest)",
@@ -5889,7 +5897,7 @@
   },
   {
     "title": "Controversial climate report from Trump team galvanizes scientists into action",
-    "title_es": "Controversial climate report from Trump team galvanizes scientists into action",
+    "title_es": "El controvertido informe climático del equipo de Trump genera a los científicos a la acción",
     "url": "https://www.nature.com/articles/d41586-025-02658-9",
     "date": "2025-08-15",
     "source": "Nature",
@@ -5937,7 +5945,7 @@
   },
   {
     "title": "NASA-Developed Printable Metal Can Take the Heat",
-    "title_es": "NASA-Developed Printable Metal Can Take the Heat",
+    "title_es": "El metal imprimible desarrollado por la NASA puede tomar el calor",
     "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/",
     "date": "2025-08-15",
     "source": "NASA (Top News)",
@@ -5945,7 +5953,7 @@
   },
   {
     "title": "Ancient hominids made long road trips to collect stone for tools",
-    "title_es": "Ancient hominids made long road trips to collect stone for tools",
+    "title_es": "Antiguos homínidos hicieron largos viajes por carretera para recolectar piedras para herramientas",
     "url": "https://www.sciencenews.org/article/ancient-hominids-road-trips-stone-tools",
     "date": "2025-08-15",
     "source": "Science News",
@@ -5953,7 +5961,7 @@
   },
   {
     "title": "Clinical manifestations and immune correlations in anti-centromere antibody-positive and anti-SSA/Ro antibody-positive primary Sjögren’s syndrome: A retrospective analysis",
-    "title_es": "Clinical manifestations and immune correlations in anti-centromere antibody-positive and anti-SSA/Ro antibody-positive primary Sjögren’s syndrome: A retrospective analysis",
+    "title_es": "Manifestaciones clínicas y correlaciones inmunes en el síndrome primario de Sjögren positivo para anticuerpos anti-centrómero y anti-SSA/RO positivo para anticuerpos positivos: un análisis retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -12193,7 +12201,7 @@
   },
   {
     "title": "Leading a lab, and all it entails",
-    "title_es": "Leading a lab, and all it entails",
+    "title_es": "Liderar un laboratorio, y todo lo que implica",
     "url": "https://www.science.org/doi/abs/10.1126/science.ady7700",
     "date": "2025-08-14",
     "source": "Science.org",
@@ -12473,7 +12481,7 @@
   },
   {
     "title": "This device creates rainbows of sound",
-    "title_es": "This device creates rainbows of sound",
+    "title_es": "Este dispositivo crea arcoiris de sonido",
     "url": "https://www.snexplores.org/article/acoustic-sound-rainbow-device",
     "date": "2025-08-14",
     "source": "Science News Explores",
@@ -18433,7 +18441,7 @@
   },
   {
     "title": "CERN technology showcased in the context of UN Plastic Treaty discussions",
-    "title_es": "CERN technology showcased in the context of UN Plastic Treaty discussions",
+    "title_es": "La tecnología del CERN se muestra en el contexto de las discusiones de tratados plásticos de la ONU",
     "url": "https://home.cern/news/news/knowledge-sharing/cern-technology-showcased-context-un-plastic-treaty-discussions",
     "date": "2025-08-13",
     "source": "CERN News",
@@ -39046,7 +39054,7 @@
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
-    "title_es": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
+    "title_es": "Estudiantes de Bélgica, Canadá, México, Türkiye y los Estados Unidos ganan la duodécima edición de Beamline para escuelas",
     "url": "https://home.cern/news/press-release/cern/students-belgium-canada-mexico-turkiye-and-usa-win-12th-edition-beamline",
     "date": "2025-07-09",
     "source": "CERN Press",
