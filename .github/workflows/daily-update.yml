@@ -139,6 +139,7 @@ jobs:
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
+          
       - name: 🔍 Diff vs HEAD (¿hay URLs nuevas?)
         run: |
           set -euo pipefail
