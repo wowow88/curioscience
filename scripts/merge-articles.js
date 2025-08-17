@@ -1,14 +1,16 @@
 // scripts/merge-articles.js
-// - Fusiona histórico + PY + JS sin perder fechas antiguas.
-// - Deduplica por URL normalizada.
-// - NO pisa campos con vacíos: si llega "" no borra title_es/content_es previos.
-// - Orden final por fecha (published/date) descendente.
+// - Fusiona histórico + PY + JS SIN perder traducciones previas.
+// - Deduplica por URL normalizada (sin hash ni query).
+// - NO pisa campos con vacíos: si llega "" no borra previos.
+// - NO crea ni publica `content_es`.
+// - NO copia `title` -> `title_es` (solo mantiene el real).
+// - Orden final por fecha descendente.
 
 import fs from "fs";
 
-const PY_PATH    = "workspace/astro/public/articles_py.json";
-const JS_PATH    = "workspace/astro/public/articles_js.json";
-const FINAL_PATH = "workspace/astro/public/articles.json";
+const PY_PATH    = process.env.PY_JSON    || "workspace/astro/public/articles_py.json";
+const JS_PATH    = process.env.JS_JSON    || "workspace/astro/public/articles_js.json";
+const FINAL_PATH = process.env.FINAL_JSON || "workspace/astro/public/articles.json";
 
 const DATE_FIELDS = [
   "published", "pubDate", "datePublished", "publishedAt", "date", "updated", "isoDate"
@@ -60,63 +62,79 @@ function pickNewNoBlank(prev, inc) {
 }
 
 function mergeRecords(prev, inc) {
-  // Clave común ya es la URL; empezamos del previo (histórico)
+  // Clave común ya es la URL normalizada
   const base = { ...prev, ...inc };
 
-  // Fecha de publicación: PRIORIDAD histórico
+  // Fecha de publicación: prioridad histórico
   const prevPub = publishedOf(prev);
   const incPub  = publishedOf(inc);
   const published = prevPub || incPub || base.published || base.date || "";
 
   // Campos que no deben ser pisados por vacíos
-  const title      = pickNewNoBlank(prev.title,      inc.title);
-  const title_es   = pickNewNoBlank(prev.title_es,   inc.title_es);
-  const content_es = pickNewNoBlank(prev.content_es, inc.content_es);
-  const summary    = pickNewNoBlank(prev.summary,    inc.summary);
-  const source     = pickNewNoBlank(prev.source,     inc.source);
+  const title    = pickNewNoBlank(prev.title,    inc.title);
+  const summary  = pickNewNoBlank(prev.summary,  inc.summary);
+  const source   = pickNewNoBlank(prev.source,   inc.source);
+  const title_es = pickNewNoBlank(prev.title_es, inc.title_es); // <-- NO fallback desde title
 
-  return {
+  const merged = {
     ...base,
     url: normUrl(base.url || prev.url || inc.url || ""),
     title,
-    title_es: isNonEmpty(title_es) ? title_es : (title || prev.title || inc.title || ""),
-    content_es: isNonEmpty(content_es) ? content_es : (summary || title || ""),
+    title_es, // ya hidratado si existía antes
     summary,
     source,
     published,
     date: toDateShort(published) || base.date || "",
   };
+
+  // NUNCA publicar content_es
+  if ("content_es" in merged) delete merged.content_es;
+
+  return merged;
 }
 
 function mergeAll(...lists) {
   const out = new Map();
   for (const item of lists.flat()) {
-    const key = normUrl(item?.url || item?.link || "");
+    if (!item) continue;
+
+    // Limpia content_es ya desde la entrada
+    const clean = { ...item };
+    if ("content_es" in clean) delete clean.content_es;
+
+    const key = normUrl(clean?.url || clean?.link || "");
     if (!key) continue;
 
     if (!out.has(key)) {
-      const published = publishedOf(item) || item.published || item.date || "";
+      const published = publishedOf(clean) || clean.published || clean.date || "";
       out.set(key, {
-        ...item,
+        ...clean,
         url: key,
         published,
-        date: toDateShort(published) || item.date || "",
+        date: toDateShort(published) || clean.date || "",
       });
     } else {
-      const merged = mergeRecords(out.get(key), item);
+      const merged = mergeRecords(out.get(key), clean);
       out.set(key, merged);
     }
   }
+
   // Orden descendente por fecha
   const t = (it) => Date.parse(it.published || it.date || 0) || 0;
   return Array.from(out.values()).sort((a, b) => t(b) - t(a));
 }
 
+// Carga listas
 const prev = loadJSON(FINAL_PATH);
 const py   = loadJSON(PY_PATH);
 const js   = loadJSON(JS_PATH);
 
-const merged = mergeAll(prev, py, js);
+// Merge incluyendo histórico para hidratar title_es ya traducidos
+let merged = mergeAll(prev, py, js);
 
-fs.writeFileSync(FINAL_PATH, JSON.stringify(merged, null, 2));
+// Garantía final: quitar cualquier content_es rezagado
+merged = merged.map(({ content_es, ...rest }) => rest);
+
+// Escribir resultado
+fs.writeFileSync(FINAL_PATH, JSON.stringify(merged, null, 2), "utf8");
 console.log(`✅ Artículos fusionados: ${merged.length} → ${FINAL_PATH}`);
