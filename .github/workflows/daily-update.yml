@@ -1,37 +1,35 @@
-- name: Daily Articles Update
+name: Daily Articles Update
 
-- on:
-  workflow_dispatch: {}
+on:
+  workflow_dispatch: {}          # ← habilita el botón "Run workflow"
   schedule:
-    - cron: '15 5 * * *'  # 05:15 UTC (~07:15 Europe/Madrid en verano)
+    - cron: '15 5 * * *'         # 05:15 UTC (~07:15 Madrid en verano)
 
-- permissions:
+permissions:
   contents: write
 
-- concurrency:
+concurrency:
   group: daily-articles-update
   cancel-in-progress: true
 
-- env:
+env:
   TZ: Europe/Madrid
   PY_JSON: workspace/astro/public/articles_py.json
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
-  TRANSLATE_IN_FETCH: '0'         # NO traducir summaries en fetch
-  DEEPL_SLEEP_MS: '1600'
-  # Puedes dejar DEEPL desactivado y usar fallbacks gratuitos mientras no haya cuota:
-  DISABLE_DEEPL: '1'              # pon '0' cuando quieras volver a DeepL
-  # Opcional: usa una instancia de LibreTranslate (mejor que MyMemory)
-  LIBRETRANSLATE_URL: https://libretranslate.com
-  LIBRETRANSLATE_API_KEY: ''
-  FALLBACK_ON_RATELIMIT: '1'
-  FALLBACK_MAX: '400'
-  TITLES_PER_RUN: '300'
+
+  # Traducción de títulos (por defecto con fallbacks gratuitos)
+  DISABLE_DEEPL: '1'                  # pon '0' si quieres usar DeepL
   DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
   DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  TITLES_PER_RUN: '300'
+  DEEPL_SLEEP_MS: '0'
+  FALLBACK_ON_RATELIMIT: '1'
+  FALLBACK_MAX: '400'
+  LIBRETRANSLATE_URL: https://libretranslate.com
+  LIBRETRANSLATE_API_KEY: ''
 
-- jobs:
+jobs:
   update:
     runs-on: ubuntu-latest
     steps:
@@ -40,15 +38,13 @@
         with:
           fetch-depth: 0
 
-      - name: Ensure jq installed
+      - name: 🔧 Ensure jq
         run: |
           set -euo pipefail
-          if ! command -v jq >/dev/null 2>&1; then
-            sudo apt-get update
-            sudo apt-get install -y jq
-          fi
+          command -v jq >/dev/null || { sudo apt-get update && sudo apt-get install -y jq; }
 
-      - name: 🐍 Setup Python
+      # ---------- Python ----------
+      - name: 🐍 Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -62,19 +58,18 @@
             pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
           fi
 
-      - name: 🟦 Setup Node.js
+      # ---------- Node / pnpm ----------
+      - name: 🟦 Setup Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 🟩 Enable pnpm (Corepack) o instalarlo si falta
+      - name: 🟩 Enable pnpm (Corepack) or install if missing
         run: |
           set -euo pipefail
           corepack enable || true
           corepack prepare pnpm@9 --activate || true
-          if ! command -v pnpm >/dev/null 2>&1; then
-            npm i -g pnpm@9
-          fi
+          command -v pnpm >/dev/null || npm i -g pnpm@9
           pnpm --version
 
       - name: 📦 Install Node deps (prefer pnpm; fallback npm)
@@ -94,7 +89,8 @@
             fi
           fi
 
-      - name: 🐍 Run data_pipeline.py → articles_py.json (timeout 8m, logs en vivo)
+      # ---------- Pipeline ----------
+      - name: 🐍 Run data_pipeline.py → articles_py.json (timeout 8m)
         env:
           PYTHONUNBUFFERED: "1"
         run: |
@@ -112,9 +108,7 @@
             "workspace/astro/data_pipeline.py"; do
             if [ -f "$CAND" ]; then TARGET="$CAND"; break; fi
           done
-          if [ -z "$TARGET" ]; then
-            echo "❌ No se encontró data_pipeline.py" && exit 1
-          fi
+          [ -n "$TARGET" ] || { echo "❌ No se encontró data_pipeline.py"; exit 1; }
           echo "▶ Ejecutando $TARGET"
           timeout 8m python "$TARGET"
 
@@ -122,197 +116,76 @@
         run: |
           set -euo pipefail
           node -v
-          if [ -f scripts/fetch-articles.js ]; then
-            node scripts/fetch-articles.js
-          elif [ -f workspace/scripts/fetch-articles.js ]; then
-            node workspace/scripts/fetch-articles.js
-          elif [ -f fetch-articles.js ]; then
-            node fetch-articles.js
-          elif [ -f workspace/fetch-articles.js ]; then
-            node workspace/fetch-articles.js
-          else
-            echo "❌ No se encontró fetch-articles.js" && exit 1
-          fi
+          if   [ -f scripts/fetch-articles.js ]; then node scripts/fetch-articles.js
+          elif [ -f workspace/scripts/fetch-articles.js ]; then node workspace/scripts/fetch-articles.js
+          elif [ -f fetch-articles.js ]; then node fetch-articles.js
+          elif [ -f workspace/fetch-articles.js ]; then node workspace/fetch-articles.js
+          else echo "❌ No se encontró fetch-articles.js"; exit 1; fi
 
       - name: 🟦 Run merge-articles.js → articles.json
         run: |
           set -euo pipefail
-          if [ -f scripts/merge-articles.js ]; then
-            node scripts/merge-articles.js
-          elif [ -f workspace/scripts/merge-articles.js ]; then
-            node workspace/scripts/merge-articles.js
-          elif [ -f merge-articles.js ]; then
-            node merge-articles.js
-          elif [ -f workspace/merge-articles.js ]; then
-            node workspace/merge-articles.js
-          else
-            echo "❌ No se encontró merge-articles.js" && exit 1
-          fi
+          if   [ -f scripts/merge-articles.js ]; then node scripts/merge-articles.js
+          elif [ -f workspace/scripts/merge-articles.js ]; then node workspace/scripts/merge-articles.js
+          elif [ -f merge-articles.js ]; then node merge-articles.js
+          elif [ -f workspace/merge-articles.js ]; then node workspace/merge-articles.js
+          else echo "❌ No se encontró merge-articles.js"; exit 1; fi
 
-      - name: 🟨 Crear script ensure-title-es.mjs (si no existe)
+      # ---------- Traducción de títulos (post-merge) ----------
+      - name: 🟨 Create ensure-title-es.mjs if missing
         run: |
           set -euo pipefail
           mkdir -p scripts
           if [ ! -f scripts/ensure-title-es.mjs ]; then
             cat > scripts/ensure-title-es.mjs <<'JS'
-// scripts/ensure-title-es.mjs
-// - Solo escribe title_es si la traducción es DIFERENTE del title.
-// - Detecta fuentes en inglés por subcadenas.
-// - DISABLE_DEEPL='1' → usa LibreTranslate/MyMemory directamente.
-// - Con DeepL activo: si 429/456, usa fallbacks. Nunca copia title -> title_es.
-
+// scripts/ensure-title-es.mjs (fallbacks activos; no copia title→title_es)
 import fs from "fs/promises";
-
 const FINAL_JSON   = process.env.FINAL_JSON || "workspace/astro/public/articles.json";
-const SLEEP_MS     = Number(process.env.DEEPL_SLEEP_MS || process.env.SLEEP_MS || 1200);
-const MAX_TITLES   = Number(process.env.TITLES_PER_RUN || 500);
-
+const SLEEP_MS     = Number(process.env.DEEPL_SLEEP_MS || 0);
+const MAX_TITLES   = Number(process.env.TITLES_PER_RUN || 300);
 const DEEPL_API_KEY = process.env.DEEPL_API_KEY || "";
 const isFreeKey     = /:fx$/i.test(DEEPL_API_KEY) || /^fk[-_]/i.test(DEEPL_API_KEY);
-const DEEPL_ENDPOINT =
-  process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
-
-const DISABLE_DEEPL         = process.env.DISABLE_DEEPL === "1";
+const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
+const DISABLE_DEEPL  = process.env.DISABLE_DEEPL === "1";
 const FALLBACK_ON_RATELIMIT = process.env.FALLBACK_ON_RATELIMIT === "1";
-const FALLBACK_MAX          = Number(process.env.FALLBACK_MAX || 300);
-
-const LIBRE_URL     = process.env.LIBRETRANSLATE_URL || "";
-const LIBRE_API_KEY = process.env.LIBRETRANSLATE_API_KEY || "";
-
-const EN_TOKENS = [
-  "nature","science.org","science ","aaas","arxiv","pubmed",
-  "sciencedaily","phys.org","quanta","mit news","nasa","esa",
-  "pnas","plos one","science news","explores","nih","nci","cern"
-];
-
-const sleep = (ms)=>new Promise(r=>setTimeout(r,ms));
-const norm  = (x)=>String(x||"").trim().replace(/\s+/g," ");
-const looksEnglishSource = (src="")=> EN_TOKENS.some(tok => String(src).toLowerCase().includes(tok));
-
-async function deeplTranslate(text, sourceLang){
-  if (!DEEPL_API_KEY) return { noKey:true };
-  const body = new URLSearchParams({
-    auth_key: DEEPL_API_KEY, text,
-    target_lang: "ES", preserve_formatting: "1", split_sentences: "0"
-  });
-  if (sourceLang) body.set("source_lang", sourceLang);
-  const res = await fetch(`${DEEPL_ENDPOINT}/v2/translate`, {
-    method:"POST",
-    headers:{ "Content-Type":"application/x-www-form-urlencoded" },
-    body
-  });
-  if (res.status === 403) return { forbidden:true, status:403 };
-  if (res.status === 429 || res.status === 456) return { rateLimited:true, status:res.status };
-  if (!res.ok) { console.warn(`[DeepL] HTTP ${res.status}`); return { bad:true, status:res.status }; }
-  const data = await res.json();
-  const t = data?.translations?.[0]?.text;
-  return t ? { text:t } : null;
-}
-
-async function libreTranslate(text, source="en", target="es"){
-  if (!LIBRE_URL) return null;
-  const body = { q:text, source, target, format:"text" };
-  if (LIBRE_API_KEY) body.api_key = LIBRE_API_KEY;
-  const res = await fetch(`${LIBRE_URL}/translate`, {
-    method:"POST",
-    headers:{ "Content-Type":"application/json" },
-    body: JSON.stringify(body)
-  });
-  if (!res.ok) return null;
-  const data = await res.json();
-  const t = data?.translatedText;
-  return t && typeof t === "string" ? t : null;
-}
-
-async function myMemoryENES(text){
-  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|es`;
-  const res = await fetch(url, { headers:{ "User-Agent":"curioscience-bot/1.0" } });
-  if (!res.ok) return null;
-  const data = await res.json();
-  const t = data?.responseData?.translatedText;
-  return t && typeof t === "string" ? t : null;
-}
-
-function needsTitle(it){
-  const t = norm(it.title), te = norm(it.title_es);
-  if (!t) return false;
-  if (!te) return true;       // falta
-  return te === t;            // idéntico ⇒ reintentar (pero nunca copiamos el original)
-}
-
+const FALLBACK_MAX   = Number(process.env.FALLBACK_MAX || 400);
+const LIBRE_URL      = process.env.LIBRETRANSLATE_URL || "";
+const LIBRE_API_KEY  = process.env.LIBRETRANSLATE_API_KEY || "";
+const EN_TOKENS = ["nature","science.org","science ","aaas","arxiv","pubmed","sciencedaily","phys.org","quanta","mit news","nasa","esa","pnas","plos one","science news","explores","nih","nci","cern"];
+const sleep=(ms)=>new Promise(r=>setTimeout(r,ms)); const norm=(x)=>String(x||"").trim().replace(/\s+/g," "); const looksEN=(s="")=>EN_TOKENS.some(t=>String(s).toLowerCase().includes(t));
+async function deepl(t,src){ if(!DEEPL_API_KEY) return {noKey:true}; const p=new URLSearchParams({auth_key:DEEPL_API_KEY,text:t,target_lang:"ES",preserve_formatting:"1",split_sentences:"0"}); if(src) p.set("source_lang",src); const r=await fetch(`${DEEPL_ENDPOINT}/v2/translate`,{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:p}); if(r.status===403) return {forbidden:true,status:403}; if(r.status===429||r.status===456) return {rateLimited:true,status:r.status}; if(!r.ok) return {bad:true,status:r.status}; const j=await r.json(); const out=j?.translations?.[0]?.text; return out?{text:out}:null; }
+async function libre(t){ if(!LIBRE_URL) return null; const b={q:t,source:"en",target:"es",format:"text"}; if(LIBRE_API_KEY) b.api_key=LIBRE_API_KEY; const r=await fetch(`${LIBRE_URL}/translate`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(b)}); if(!r.ok) return null; const j=await r.json(); const out=j?.translatedText; return out&&typeof out==="string"?out:null; }
+async function memory(t){ const u=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(t)}&langpair=en|es`; const r=await fetch(u,{headers:{"User-Agent":"curioscience-bot/1.0"}}); if(!r.ok) return null; const j=await r.json(); const out=j?.responseData?.translatedText; return out&&typeof out==="string"?out:null; }
+function needs(it){ const t=norm(it.title), te=norm(it.title_es); if(!t) return false; if(!te) return true; return te===t; }
 (async()=>{
-  if (!DISABLE_DEEPL && !DEEPL_API_KEY){
-    console.error("❌ Falta DEEPL_API_KEY (o usa DISABLE_DEEPL='1').");
-    process.exit(1);
-  }
-  console.log(`DeepL: ${DISABLE_DEEPL ? "DESACTIVADO (fallbacks)" : `endpoint ${DEEPL_ENDPOINT} (freeKey=${isFreeKey})`}`);
-  if (LIBRE_URL) console.log(`LibreTranslate: ${LIBRE_URL}`);
-
-  const raw = await fs.readFile(FINAL_JSON, "utf8");
-  const arr = JSON.parse(raw);
-
-  const idx = [];
-  for (let i=0;i<arr.length;i++){ if (needsTitle(arr[i])) idx.push(i); }
-  console.log(`Pendientes a traducir: ${idx.length}`);
-  if (!idx.length){ console.log("Nada que traducir."); return; }
-
-  let changed=0, attempted=0, limited=false, forbidden=false, fbLibre=0, fbMemory=0, rateStatus=0;
-
-  for (const i of idx){
-    if (attempted>=MAX_TITLES) break;
-    const it = arr[i];
-    const title = norm(it.title);
-    if (!title) continue;
-
-    const enSource = looksEnglishSource(it.source);
-    let translated = null;
-
-    if ( DISABLE_DEEPL ){
-      if (enSource){
-        translated = (await libreTranslate(title,'en','es')) || (await myMemoryENES(title));
-        if (translated && norm(translated) === title) translated = null;
-        if (translated) { if (LIBRE_URL) fbLibre++; else fbMemory++; }
-      }
-    } else {
-      const out = await deeplTranslate(title, enSource ? 'EN' : undefined);
-      if (out?.forbidden){ forbidden=true; rateStatus=out.status||0; break; }
-      if (out?.rateLimited){
-        limited=true; rateStatus=out.status||0;
-        if (FALLBACK_ON_RATELIMIT && enSource){
-          translated = (await libreTranslate(title,'en','es')) || (await myMemoryENES(title));
-          if (translated && norm(translated) === title) translated = null;
-          if (translated) { if (LIBRE_URL) fbLibre++; else fbMemory++; }
-        } else {
-          break;
-        }
-      } else {
-        translated = out?.text || null;
-        if (!translated || norm(translated) === title){
-          if (enSource){
-            translated = (await libreTranslate(title,'en','es')) || (await myMemoryENES(title));
-            if (translated && norm(translated) === title) translated = null;
-            if (translated) { if (LIBRE_URL) fbLibre++; else fbMemory++; }
-          } else {
-            translated = null;
-          }
-        }
+  console.log(`DeepL: ${DISABLE_DEEPL?"OFF (fallbacks)":"ON"} ${DISABLE_DEEPL?"":`@ ${DEEPL_ENDPOINT} (freeKey=${isFreeKey})`}`);
+  const arr=JSON.parse(await fs.readFile(FINAL_JSON,"utf8"));
+  const idx=[]; for(let i=0;i<arr.length;i++){ if(needs(arr[i])) idx.push(i); }
+  console.log(`Pendientes a traducir: ${idx.length}`); if(!idx.length) return;
+  let changed=0,attempted=0,limited=false,forbidden=false,fbL=0,fbM=0,rate=0;
+  for(const i of idx){
+    if(attempted>=MAX_TITLES) break;
+    const it=arr[i]; const title=norm(it.title); if(!title) continue;
+    const en=looksEN(it.source); let tr=null;
+    if(DISABLE_DEEPL){
+      if(en){ tr=await libre(title) || await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } }
+    }else{
+      const out=await deepl(title,en?"EN":undefined);
+      if(out?.forbidden){ forbidden=true; rate=out.status||0; break; }
+      if(out?.rateLimited){ limited=true; rate=out.status||0;
+        if(FALLBACK_ON_RATELIMIT&&en){ tr=await libre(title)||await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } }
+        else break;
+      }else{
+        tr=out?.text||null;
+        if(!tr||norm(tr)===title){ if(en){ tr=await libre(title)||await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } } }
       }
     }
-
-    if (translated && norm(translated) !== title){
-      it.title_es = translated;
-      changed++;
-    }
-    attempted++;
-    await sleep(SLEEP_MS);
-    if ((fbLibre + fbMemory) >= FALLBACK_MAX) break;
+    if(tr&&norm(tr)!==title){ it.title_es=tr; changed++; }
+    attempted++; await sleep(Number(SLEEP_MS));
+    if((fbL+fbM)>=Number(FALLBACK_MAX)) break;
   }
-
-  if (changed>0){
-    await fs.writeFile(FINAL_JSON, JSON.stringify(arr, null, 2), "utf8");
-  }
-  console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, fbLibre=${fbLibre}, fbMyMemory=${fbMemory}, rateLimited=${limited}${rateStatus?`(${rateStatus})`:""}, forbidden=${forbidden}`);
-  if (forbidden){ process.exit(1); }
+  if(changed>0) await fs.writeFile(FINAL_JSON,JSON.stringify(arr,null,2),"utf8");
+  console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, fbLibre=${fbL}, fbMyMemory=${fbM}, rateLimited=${limited}${rate?`(${rate})`:""}, forbidden=${forbidden}`);
 })().catch(e=>{ console.error(e); process.exit(1); });
 JS
           fi
@@ -325,44 +198,7 @@ JS
       - name: 🧹 Strip content_es en articles.json
         run: |
           set -euo pipefail
-          mkdir -p scripts
-          cat > scripts/strip-content-es.mjs <<'JS'
-import fs from 'fs/promises';
-const FINAL_JSON = process.env.FINAL_JSON || 'workspace/astro/public/articles.json';
-const raw = await fs.readFile(FINAL_JSON, 'utf8');
-const arr = JSON.parse(raw);
-let removed = 0;
-for (const it of arr) {
-  if (Object.prototype.hasOwnProperty.call(it, 'content_es')) {
-    delete it.content_es;
-    removed++;
-  }
-}
-if (removed > 0) {
-  await fs.writeFile(FINAL_JSON, JSON.stringify(arr, null, 2), 'utf8');
-}
-console.log(`strip-content-es: eliminados ${removed} campos content_es`);
-JS
-          node scripts/strip-content-es.mjs
-
-      - name: 🔍 Diff vs HEAD (¿hay URLs nuevas?)
-        run: |
-          set -euo pipefail
-          PREV=$(mktemp)
-          CURR=$(mktemp)
-          if git cat-file -e HEAD^{commit} 2>/dev/null; then
-            git show HEAD:${{ env.FINAL_JSON }} 2>/dev/null | jq -r '.[].url' | sort -u > "$PREV" || true
-          fi
-          jq -r '.[].url' ${{ env.FINAL_JSON }} | sort -u > "$CURR"
-          echo "::group::Resumen"
-          echo "Previas: $(wc -l < "$PREV" || echo 0)"
-          echo "Actuales: $(wc -l < "$CURR")"
-          echo "Nuevas hoy:"
-          comm -13 "$PREV" "$CURR" | sed 's/^/  + /' || true
-          echo "::endgroup::"
-          echo "::group::Top por fuente (10)"
-          jq -r '.[].source' ${{ env.FINAL_JSON }} | sort | uniq -c | sort -nr | head -10
-          echo "::endgroup::"
+          node -e "import('fs/promises').then(fs=>fs.readFile(process.env.FINAL_JSON,'utf8').then(r=>{const a=JSON.parse(r);let rm=0;for(const it of a){if(Object.hasOwn(it,'content_es')){delete it.content_es;rm++;}} return rm?fs.writeFile(process.env.FINAL_JSON,JSON.stringify(a,null,2),'utf8').then(()=>console.log('strip-content-es:',rm)) : console.log('strip-content-es: 0');}))"
 
       - name: ✅ Quick check (existence + length)
         run: |
