@@ -139,6 +139,27 @@ jobs:
           else
             echo "❌ No se encontró merge-articles.js" && exit 1
           fi
+      - name: 🔍 Diff vs HEAD (¿hay URLs nuevas?)
+        run: |
+          set -euo pipefail
+          # extrae URLs del HEAD anterior (si existe) y del JSON actual
+          PREV=$(mktemp)
+          CURR=$(mktemp)
+          if git cat-file -e HEAD^{commit} 2>/dev/null; then
+          git show HEAD:${{ env.FINAL_JSON }} 2>/dev/null | jq -r '.[].url' | sort -u > "$PREV" || true
+          fi
+          jq -r '.[].url' ${{ env.FINAL_JSON }} | sort -u > "$CURR"
+          echo "::group::Resumen"
+          echo "Previas: $(wc -l < "$PREV" || echo 0)"
+          echo "Actuales: $(wc -l < "$CURR")"
+          echo "Nuevas hoy:"
+          comm -13 "$PREV" "$CURR" | sed 's/^/  + /' || true
+          echo "::endgroup::"
+
+    # listado rápido por fuente (top 10)
+          echo "::group::Top por fuente (10)"
+          jq -r '.[].source' ${{ env.FINAL_JSON }} | sort | uniq -c | sort -nr | head -10
+          echo "::endgroup::"
 
       - name: 🟨 Crear script ensure-title-es.mjs (si no existe)
         run: |
