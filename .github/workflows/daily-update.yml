@@ -1,7 +1,7 @@
 name: Daily Articles Update
 
 on:
-  workflow_dispatch: {}          # ← habilita el botón "Run workflow"
+  workflow_dispatch: {}          # ← habilita botón "Run workflow"
   schedule:
     - cron: '15 5 * * *'         # 05:15 UTC (~07:15 Madrid en verano)
 
@@ -18,8 +18,8 @@ env:
   JS_JSON: workspace/astro/public/articles_js.json
   FINAL_JSON: workspace/astro/public/articles.json
 
-  # Traducción de títulos (por defecto con fallbacks gratuitos)
-  DISABLE_DEEPL: '1'                  # pon '0' si quieres usar DeepL
+  # Traducción de títulos (por defecto, sin DeepL: fallbacks gratis)
+  DISABLE_DEEPL: '1'                    # pon '0' si quieres usar DeepL
   DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
   DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
   TITLES_PER_RUN: '300'
@@ -41,7 +41,10 @@ jobs:
       - name: 🔧 Ensure jq
         run: |
           set -euo pipefail
-          command -v jq >/dev/null || { sudo apt-get update && sudo apt-get install -y jq; }
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
 
       # ---------- Python ----------
       - name: 🐍 Setup Python 3.11
@@ -58,28 +61,21 @@ jobs:
             pip install requests feedparser beautifulsoup4 python-dateutil arxiv deep-translator
           fi
 
-      # ---------- Node / pnpm ----------
+      # ---------- Node (simple, con fallback a npm) ----------
       - name: 🟦 Setup Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 🟩 Enable pnpm (Corepack) or install if missing
+      - name: 📦 Install Node deps
         run: |
           set -euo pipefail
-          corepack enable || true
-          corepack prepare pnpm@9 --activate || true
-          command -v pnpm >/dev/null || npm i -g pnpm@9
-          pnpm --version
-
-      - name: 📦 Install Node deps (prefer pnpm; fallback npm)
-        run: |
-          set -euo pipefail
-          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
-            [ -f package.json ] && pnpm install --frozen-lockfile
-            if [ -f workspace/astro/package.json ]; then
-              pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install
-            fi
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable || true
+            corepack prepare pnpm@9 --activate || true
+            command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+            if [ -f package.json ]; then pnpm install --frozen-lockfile || pnpm install; fi
+            if [ -f workspace/astro/package.json ]; then pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install; fi
           else
             if [ -f package.json ]; then
               if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
@@ -95,8 +91,6 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           set -euo pipefail
-          echo "🔎 Buscando data_pipeline.py..."
-          find . -maxdepth 3 -type f -name "data_pipeline.py" -print || true
           python -V
           TARGET=""
           for CAND in \
@@ -108,8 +102,9 @@ jobs:
             "workspace/astro/data_pipeline.py"; do
             if [ -f "$CAND" ]; then TARGET="$CAND"; break; fi
           done
-          [ -n "$TARGET" ] || { echo "❌ No se encontró data_pipeline.py"; exit 1; }
-          echo "▶ Ejecutando $TARGET"
+          if [ -z "$TARGET" ]; then
+            echo "❌ No se encontró data_pipeline.py" && exit 1
+          fi
           timeout 8m python "$TARGET"
 
       - name: 🟦 Run fetch-articles.js → articles_js.json
@@ -132,74 +127,54 @@ jobs:
           else echo "❌ No se encontró merge-articles.js"; exit 1; fi
 
       # ---------- Traducción de títulos (post-merge) ----------
-      - name: 🟨 Create ensure-title-es.mjs if missing
-        run: |
-          set -euo pipefail
-          mkdir -p scripts
-          if [ ! -f scripts/ensure-title-es.mjs ]; then
-            cat > scripts/ensure-title-es.mjs <<'JS'
-// scripts/ensure-title-es.mjs (fallbacks activos; no copia title→title_es)
-import fs from "fs/promises";
-const FINAL_JSON   = process.env.FINAL_JSON || "workspace/astro/public/articles.json";
-const SLEEP_MS     = Number(process.env.DEEPL_SLEEP_MS || 0);
-const MAX_TITLES   = Number(process.env.TITLES_PER_RUN || 300);
-const DEEPL_API_KEY = process.env.DEEPL_API_KEY || "";
-const isFreeKey     = /:fx$/i.test(DEEPL_API_KEY) || /^fk[-_]/i.test(DEEPL_API_KEY);
-const DEEPL_ENDPOINT = process.env.DEEPL_ENDPOINT || (isFreeKey ? "https://api-free.deepl.com" : "https://api.deepl.com");
-const DISABLE_DEEPL  = process.env.DISABLE_DEEPL === "1";
-const FALLBACK_ON_RATELIMIT = process.env.FALLBACK_ON_RATELIMIT === "1";
-const FALLBACK_MAX   = Number(process.env.FALLBACK_MAX || 400);
-const LIBRE_URL      = process.env.LIBRETRANSLATE_URL || "";
-const LIBRE_API_KEY  = process.env.LIBRETRANSLATE_API_KEY || "";
-const EN_TOKENS = ["nature","science.org","science ","aaas","arxiv","pubmed","sciencedaily","phys.org","quanta","mit news","nasa","esa","pnas","plos one","science news","explores","nih","nci","cern"];
-const sleep=(ms)=>new Promise(r=>setTimeout(r,ms)); const norm=(x)=>String(x||"").trim().replace(/\s+/g," "); const looksEN=(s="")=>EN_TOKENS.some(t=>String(s).toLowerCase().includes(t));
-async function deepl(t,src){ if(!DEEPL_API_KEY) return {noKey:true}; const p=new URLSearchParams({auth_key:DEEPL_API_KEY,text:t,target_lang:"ES",preserve_formatting:"1",split_sentences:"0"}); if(src) p.set("source_lang",src); const r=await fetch(`${DEEPL_ENDPOINT}/v2/translate`,{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:p}); if(r.status===403) return {forbidden:true,status:403}; if(r.status===429||r.status===456) return {rateLimited:true,status:r.status}; if(!r.ok) return {bad:true,status:r.status}; const j=await r.json(); const out=j?.translations?.[0]?.text; return out?{text:out}:null; }
-async function libre(t){ if(!LIBRE_URL) return null; const b={q:t,source:"en",target:"es",format:"text"}; if(LIBRE_API_KEY) b.api_key=LIBRE_API_KEY; const r=await fetch(`${LIBRE_URL}/translate`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(b)}); if(!r.ok) return null; const j=await r.json(); const out=j?.translatedText; return out&&typeof out==="string"?out:null; }
-async function memory(t){ const u=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(t)}&langpair=en|es`; const r=await fetch(u,{headers:{"User-Agent":"curioscience-bot/1.0"}}); if(!r.ok) return null; const j=await r.json(); const out=j?.responseData?.translatedText; return out&&typeof out==="string"?out:null; }
-function needs(it){ const t=norm(it.title), te=norm(it.title_es); if(!t) return false; if(!te) return true; return te===t; }
-(async()=>{
-  console.log(`DeepL: ${DISABLE_DEEPL?"OFF (fallbacks)":"ON"} ${DISABLE_DEEPL?"":`@ ${DEEPL_ENDPOINT} (freeKey=${isFreeKey})`}`);
-  const arr=JSON.parse(await fs.readFile(FINAL_JSON,"utf8"));
-  const idx=[]; for(let i=0;i<arr.length;i++){ if(needs(arr[i])) idx.push(i); }
-  console.log(`Pendientes a traducir: ${idx.length}`); if(!idx.length) return;
-  let changed=0,attempted=0,limited=false,forbidden=false,fbL=0,fbM=0,rate=0;
-  for(const i of idx){
-    if(attempted>=MAX_TITLES) break;
-    const it=arr[i]; const title=norm(it.title); if(!title) continue;
-    const en=looksEN(it.source); let tr=null;
-    if(DISABLE_DEEPL){
-      if(en){ tr=await libre(title) || await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } }
-    }else{
-      const out=await deepl(title,en?"EN":undefined);
-      if(out?.forbidden){ forbidden=true; rate=out.status||0; break; }
-      if(out?.rateLimited){ limited=true; rate=out.status||0;
-        if(FALLBACK_ON_RATELIMIT&&en){ tr=await libre(title)||await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } }
-        else break;
-      }else{
-        tr=out?.text||null;
-        if(!tr||norm(tr)===title){ if(en){ tr=await libre(title)||await memory(title); if(tr&&norm(tr)===title) tr=null; if(tr){ if(LIBRE_URL) fbL++; else fbM++; } } }
-      }
-    }
-    if(tr&&norm(tr)!==title){ it.title_es=tr; changed++; }
-    attempted++; await sleep(Number(SLEEP_MS));
-    if((fbL+fbM)>=Number(FALLBACK_MAX)) break;
-  }
-  if(changed>0) await fs.writeFile(FINAL_JSON,JSON.stringify(arr,null,2),"utf8");
-  console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}, fbLibre=${fbL}, fbMyMemory=${fbM}, rateLimited=${limited}${rate?`(${rate})`:""}, forbidden=${forbidden}`);
-})().catch(e=>{ console.error(e); process.exit(1); });
-JS
-          fi
-
       - name: 🟨 Ensure title_es post-merge (DeepL + fallbacks)
         run: |
           set -euo pipefail
+          if [ ! -f scripts/ensure-title-es.mjs ]; then
+            echo "⚠️ Falta scripts/ensure-title-es.mjs. Creando mínimo con fallbacks..."
+            mkdir -p scripts
+            cat > scripts/ensure-title-es.mjs <<'JS'
+import fs from "fs/promises";
+const FINAL_JSON = process.env.FINAL_JSON || "workspace/astro/public/articles.json";
+const TITLES_PER_RUN = Number(process.env.TITLES_PER_RUN || 300);
+const SLEEP_MS = Number(process.env.DEEPL_SLEEP_MS || 0);
+const DISABLE_DEEPL = process.env.DISABLE_DEEPL === "1";
+const LIBRE_URL = process.env.LIBRETRANSLATE_URL || "";
+const LIBRE_API_KEY = process.env.LIBRETRANSLATE_API_KEY || "";
+const EN_TOKENS = ["nature","science.org","science ","aaas","arxiv","pubmed","sciencedaily","phys.org","quanta","mit news","nasa","esa","pnas","plos one","science news","explores","nih","nci","cern"];
+const norm=(x)=>String(x||"").trim().replace(/\s+/g," "); const sleep=(ms)=>new Promise(r=>setTimeout(r,ms)); const looksEN=(s="")=>EN_TOKENS.some(t=>String(s).toLowerCase().includes(t));
+async function libre(t){ if(!LIBRE_URL) return null; const b={q:t,source:"en",target:"es",format:"text"}; if(LIBRE_API_KEY) b.api_key=LIBRE_API_KEY; const r=await fetch(`${LIBRE_URL}/translate`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(b)}); if(!r.ok) return null; const j=await r.json(); return j?.translatedText||null; }
+async function memory(t){ const u=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(t)}&langpair=en|es`; const r=await fetch(u,{headers:{"User-Agent":"curioscience-bot/1.0"}}); if(!r.ok) return null; const j=await r.json(); return j?.responseData?.translatedText||null; }
+function needs(it){ const t=norm(it.title), te=norm(it.title_es); if(!t) return false; if(!te) return true; return te===t; }
+(async()=>{
+  const arr=JSON.parse(await fs.readFile(FINAL_JSON,"utf8"));
+  const idx=[]; for(let i=0;i<arr.length;i++){ if(needs(arr[i])) idx.push(i); }
+  let changed=0,attempted=0;
+  for(const i of idx){
+    if(attempted>=TITLES_PER_RUN) break;
+    const it=arr[i]; const title=norm(it.title); if(!title) continue;
+    let tr=null;
+    if(looksEN(it.source)){ tr=await libre(title) || await memory(title); if(tr && norm(tr)===title) tr=null; }
+    if(tr && norm(tr)!==title){ it.title_es=tr; changed++; }
+    attempted++; await sleep(SLEEP_MS);
+  }
+  if(changed>0) await fs.writeFile(FINAL_JSON, JSON.stringify(arr,null,2), "utf8");
+  console.log(`ensure-title-es: traducidos ${changed}, intentos ${attempted}`);
+})().catch(e=>{ console.error(e); process.exit(1); });
+JS
+          fi
           node scripts/ensure-title-es.mjs
 
+      # ---------- Quitar content_es siempre ----------
       - name: 🧹 Strip content_es en articles.json
         run: |
           set -euo pipefail
-          node -e "import('fs/promises').then(fs=>fs.readFile(process.env.FINAL_JSON,'utf8').then(r=>{const a=JSON.parse(r);let rm=0;for(const it of a){if(Object.hasOwn(it,'content_es')){delete it.content_es;rm++;}} return rm?fs.writeFile(process.env.FINAL_JSON,JSON.stringify(a,null,2),'utf8').then(()=>console.log('strip-content-es:',rm)) : console.log('strip-content-es: 0');}))"
+          test -s "$FINAL_JSON" || (echo "❌ $FINAL_JSON vacío" && exit 1)
+          tmp=$(mktemp)
+          jq 'map(del(.content_es))' "$FINAL_JSON" > "$tmp" && mv "$tmp" "$FINAL_JSON"
+          echo "strip-content-es: OK"
 
+      # ---------- Comprobaciones / build opcional ----------
       - name: ✅ Quick check (existence + length)
         run: |
           set -euo pipefail
@@ -214,7 +189,7 @@ JS
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: |
-          if command -v pnpm >/dev/null 2>&1 && [ -f pnpm-lock.yaml ]; then pnpm run build; else npm run build; fi
+          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then pnpm run build; else npm run build; fi
 
       - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
