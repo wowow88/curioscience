@@ -4,6 +4,7 @@
 // - NO pisa campos con vacíos: si llega "" no borra previos.
 // - NO crea ni publica `content_es`.
 // - NO copia `title` -> `title_es` (solo mantiene el real).
+// - Evita machacar un title_es previo con uno "placebo" (igual a title).
 // - Orden final por fecha descendente.
 
 import fs from "fs";
@@ -61,6 +62,15 @@ function pickNewNoBlank(prev, inc) {
   return isNonEmpty(inc) ? inc : prev;
 }
 
+// Evita que un title_es entrante igual a su title machaque un title_es histórico
+function pickTitleEs(prevEs, incEs, incTitle) {
+  if (!isNonEmpty(incEs)) return prevEs;
+  const incEsNorm = String(incEs).trim();
+  const incTitleNorm = String(incTitle || "").trim();
+  if (incEsNorm === incTitleNorm) return prevEs; // "placebo": mantenemos el previo
+  return incEs;
+}
+
 function mergeRecords(prev, inc) {
   // Clave común ya es la URL normalizada
   const base = { ...prev, ...inc };
@@ -74,7 +84,7 @@ function mergeRecords(prev, inc) {
   const title    = pickNewNoBlank(prev.title,    inc.title);
   const summary  = pickNewNoBlank(prev.summary,  inc.summary);
   const source   = pickNewNoBlank(prev.source,   inc.source);
-  const title_es = pickNewNoBlank(prev.title_es, inc.title_es); // <-- NO fallback desde title
+  const title_es = pickTitleEs(prev.title_es, inc.title_es, inc.title); // ⬅️ protegido
 
   const merged = {
     ...base,
