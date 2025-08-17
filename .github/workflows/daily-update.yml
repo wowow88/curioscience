@@ -1,18 +1,18 @@
-name: Daily Articles Update
+- name: Daily Articles Update
 
-on:
+- on:
   workflow_dispatch: {}
   schedule:
     - cron: '15 5 * * *'  # 05:15 UTC (~07:15 Europe/Madrid en verano)
 
-permissions:
+- permissions:
   contents: write
 
-concurrency:
+- concurrency:
   group: daily-articles-update
   cancel-in-progress: true
 
-env:
+- env:
   TZ: Europe/Madrid
   PY_JSON: workspace/astro/public/articles_py.json
   JS_JSON: workspace/astro/public/articles_js.json
@@ -31,7 +31,7 @@ env:
   DEEPL_ENDPOINT: ${{ vars.DEEPL_ENDPOINT }}
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-jobs:
+- jobs:
   update:
     runs-on: ubuntu-latest
     steps:
