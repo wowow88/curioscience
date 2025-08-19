@@ -1,5 +1,12 @@
 [
   {
+    "title": "Midlife adults are overextended with multiple roles",
+    "title_es": "Los adultos de la mediana edad están demasiado extendidos con múltiples roles",
+    "url": "https://phys.org/news/2025-08-midlife-adults-overextended-multiple-roles.html",
+    "date": "2025-08-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists just found a hidden factor behind Earth’s methane surge",
     "title_es": "Los científicos acaban de encontrar un factor oculto detrás del aumento de metano de la Tierra",
     "url": "https://www.sciencedaily.com/releases/2025/08/250816113528.htm",
@@ -12,6 +19,63 @@
     "url": "https://phys.org/news/2025-08-qa-dog-ingests-cocaine.html",
     "date": "2025-08-18",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Impact of technological turbulence and competitive intensity on employee job performance: The role of workplace digitalization and job crafting",
+    "title_es": "Impacto de la turbulencia tecnológica e intensidad competitiva en el desempeño laboral de los empleados: el papel de la digitalización laboral y la elaboración de empleo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-08-18",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns",
+    "title_es": "Repregue: Detección de texto generado por LLM revelando patrones de representación ocultos",
+    "url": "http://arxiv.org/abs/2508.13152v1",
+    "date": "2025-08-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ancient coins unveil web of trade across southeast Asia",
+    "title_es": "Las monedas antiguas revelan la red de comercio en todo el sudeste asiático",
+    "url": "https://www.nature.com/articles/d41586-025-02563-1",
+    "date": "2025-08-18",
+    "source": "Nature"
+  },
+  {
+    "title": "Nueva convocatoria del Programa de Contratos “Amigos/as del CNIO”",
+    "title_es": "Nueva convocatoria del Programa de Contratos “Amigos/as del CNIO”",
+    "url": "https://www.cnio.es/noticias/convocatoria-programa-de-contratos-amigos-as-del-cnio/",
+    "date": "2025-08-18",
+    "source": "CNIO"
+  },
+  {
+    "title": "Where the Wild Things Are: Wildlife Management with Johnson’s Matt Strausser",
+    "title_es": "Dónde están las cosas salvajes: gestión de la vida silvestre con Matt Strausser de Johnson",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/where-the-wild-things-are-wildlife-management-with-johnsons-matt-strausser/",
+    "date": "2025-08-18",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "These female divers spend more time underwater than any other humans",
+    "title_es": "Estas buzos femeninas pasan más tiempo bajo el agua que cualquier otro humano",
+    "url": "https://www.sciencenews.org/article/female-divers-underwater-haenyeo-korea",
+    "date": "2025-08-18",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Steppe",
+    "title_es": "Los científicos dicen: estepa",
+    "url": "https://www.snexplores.org/article/scientists-say-steppe-definition-pronunciation",
+    "date": "2025-08-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Forget LASIK: Safer, cheaper vision correction could be coming soon",
+    "title_es": "Olvídese de Lasik: la corrección de visión más segura y barata podría llegar pronto",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250818102941.htm",
+    "date": "2025-08-18",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Scientists stunned by record-breaking, watermelon-shaped nucleus",
@@ -144,14 +208,6 @@
     "date": "2025-08-15",
     "source": "Science News",
     "content_es": "Un sitio de Kenia muestra que los homínidos tempranos transportaron a Stone 13 kilómetros para la fabricación de herramientas hace 2.6 millones de años."
-  },
-  {
-    "title": "Clinical manifestations and immune correlations in anti-centromere antibody-positive and anti-SSA/Ro antibody-positive primary Sjögren’s syndrome: A retrospective analysis",
-    "title_es": "Manifestaciones clínicas y correlaciones inmunes en el síndrome primario de Sjögren positivo para anticuerpos anti-centrómero y anti-SSA/RO positivo para anticuerpos positivos: un análisis retrospectivo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-15",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Is ChatGPT-5 Ready for Mammogram VQA?",
