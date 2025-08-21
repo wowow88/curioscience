@@ -1,5 +1,29 @@
 [
   {
+    "title": "A comparative study of some wavelet and sampling operators on various features of an image",
+    "title_es": "A comparative study of some wavelet and sampling operators on various features of an image",
+    "url": "https://arxiv.org/abs/2508.14043",
+    "published": "2025-08-21T04:00:00.000Z",
+    "date": "2025-08-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
+    "title_es": "Blog de Curiosity, Sols 4636-4637: ARRIBA A CONTRA UN",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/",
+    "date": "2025-08-21",
+    "source": "NASA (Top News)",
+    "published": "2025-08-21T00:00:00.000Z"
+  },
+  {
+    "title": "Plastics: All around us and inside us",
+    "title_es": "Plásticos: a nuestro alrededor y dentro de nosotros",
+    "url": "https://phys.org/news/2025-08-plastics.html",
+    "date": "2025-08-21",
+    "source": "Phys.org (Latest)",
+    "published": "2025-08-21T00:00:00.000Z"
+  },
+  {
     "title": "EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code",
     "title_es": "EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code",
     "url": "https://arxiv.org/abs/2508.13156",
@@ -22,6 +46,54 @@
     "date": "2025-08-20",
     "source": "Phys.org (Latest)",
     "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs",
+    "title_es": "La cuantización cumple con los DLLM: un estudio sistemático de la cuantización posterior al entrenamiento para la difusión LLMS",
+    "url": "http://arxiv.org/abs/2508.14896v1",
+    "date": "2025-08-20",
+    "source": "arXiv",
+    "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "STING induces ZBP1-mediated necroptosis independently of TNFR1 and FADD",
+    "title_es": "La picadura induce necroptosis mediada por ZBP1 independientemente de TNFR1 y FADD",
+    "url": "https://www.nature.com/articles/s41586-025-09536-4",
+    "date": "2025-08-20",
+    "source": "Nature",
+    "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "mRNA vaccines hold promise for many diseases. Now the tech is under fire",
+    "title_es": "Las vacunas de ARNm son prometedoras para muchas enfermedades. Ahora la tecnología está bajo fuego",
+    "url": "https://www.sciencenews.org/article/mrna-vaccines-diseases-tech",
+    "date": "2025-08-20",
+    "source": "Science News",
+    "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "Lasers can eavesdrop on microbes, including viruses",
+    "title_es": "Los láseres pueden espiar los microbios, incluidos los virus",
+    "url": "https://www.snexplores.org/article/lasers-can-eavesdrop-on-microbes-including-viruses",
+    "date": "2025-08-20",
+    "source": "Science News Explores",
+    "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists just found a protein that reverses brain aging",
+    "title_es": "Los científicos acaban de encontrar una proteína que revierte el envejecimiento del cerebro",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250820000808.htm",
+    "date": "2025-08-20",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "title": "What counts as plagiarism? AI-generated papers pose new risks",
+    "title_es": "What counts as plagiarism? AI-generated papers pose new risks",
+    "url": "https://www.nature.com/articles/d41586-025-02616-5",
+    "published": "2025-08-20T00:00:00.000Z",
+    "date": "2025-08-20",
+    "source": "Nature"
   },
   {
     "title": "Prediction of Spotify Chart Success Using Audio and Streaming Features",
@@ -77,6 +149,14 @@
     "url": "https://www.snexplores.org/article/dwarf-planet-nine-solar-system",
     "date": "2025-08-19",
     "source": "Science News Explores",
+    "published": "2025-08-19T00:00:00.000Z"
+  },
+  {
+    "title": "Summer students shine at CERN",
+    "title_es": "Los estudiantes de verano brillan en el CERN",
+    "url": "https://home.cern/news/news/cern/summer-students-shine-cern",
+    "date": "2025-08-19",
+    "source": "CERN News",
     "published": "2025-08-19T00:00:00.000Z"
   },
   {
@@ -6120,8 +6200,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A real-world pharmacovigilance analysis of ALK inhibitor-associated pleural and pericardial effusion using the FDA Adverse Events Reporting System (FAERS) database from 2013 to 2024",
-    "title_es": "Un análisis de farmacovigilancia del mundo real de derrame pleural y pericárdico asociado a inhibidores de ALK utilizando la base de datos del Sistema de Informes de Eventos Adversos de la FDA (FAERS) de 2013 a 2024",
+    "title": "Effects of Pilates combined with breathing exercise on lung function, body posture and postural stability among female college students: A randomized controlled trial",
+    "title_es": "Efectos de Pilates combinados con el ejercicio de respiración sobre la función pulmonar, la postura corporal y la estabilidad postural entre las estudiantes universitarias: un ensayo controlado aleatorio",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -12653,6 +12733,14 @@
     "url": "https://www.snexplores.org/article/acoustic-sound-rainbow-device",
     "date": "2025-08-14",
     "source": "Science News Explores",
+    "published": "2025-08-14T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar\" hreflang=\"es\">El Observatorio del Teide reduce su consumo eléctrico gracias a la energía solar</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar\" hreflang=\"es\">El Observatorio del Teide reduce su consumo eléctrico gracias a la energía solar</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar",
+    "date": "2025-08-14",
+    "source": "IAC",
     "published": "2025-08-14T00:00:00.000Z"
   },
   {

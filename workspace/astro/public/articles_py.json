@@ -1,5 +1,19 @@
 [
   {
+    "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
+    "title_es": "Blog de Curiosity, Sols 4636-4637: ARRIBA A CONTRA UN",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/",
+    "date": "2025-08-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Plastics: All around us and inside us",
+    "title_es": "Plásticos: a nuestro alrededor y dentro de nosotros",
+    "url": "https://phys.org/news/2025-08-plastics.html",
+    "date": "2025-08-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Why recycling ‘dead’ batteries could save billions and slash pollution",
     "title_es": "Por qué reciclar las baterías \"muertas\" podría ahorrar miles de millones y recortar la contaminación",
     "url": "https://www.sciencedaily.com/releases/2025/08/250818103002.htm",
@@ -14,19 +28,54 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Effects of Pilates combined with breathing exercise on lung function, body posture and postural stability among female college students: A randomized controlled trial",
+    "title_es": "Efectos de Pilates combinados con el ejercicio de respiración sobre la función pulmonar, la postura corporal y la estabilidad postural entre las estudiantes universitarias: un ensayo controlado aleatorio",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-08-20",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs",
+    "title_es": "La cuantización cumple con los DLLM: un estudio sistemático de la cuantización posterior al entrenamiento para la difusión LLMS",
+    "url": "http://arxiv.org/abs/2508.14896v1",
+    "date": "2025-08-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "STING induces ZBP1-mediated necroptosis independently of TNFR1 and FADD",
+    "title_es": "La picadura induce necroptosis mediada por ZBP1 independientemente de TNFR1 y FADD",
+    "url": "https://www.nature.com/articles/s41586-025-09536-4",
+    "date": "2025-08-20",
+    "source": "Nature"
+  },
+  {
+    "title": "mRNA vaccines hold promise for many diseases. Now the tech is under fire",
+    "title_es": "Las vacunas de ARNm son prometedoras para muchas enfermedades. Ahora la tecnología está bajo fuego",
+    "url": "https://www.sciencenews.org/article/mrna-vaccines-diseases-tech",
+    "date": "2025-08-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Lasers can eavesdrop on microbes, including viruses",
+    "title_es": "Los láseres pueden espiar los microbios, incluidos los virus",
+    "url": "https://www.snexplores.org/article/lasers-can-eavesdrop-on-microbes-including-viruses",
+    "date": "2025-08-20",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists just found a protein that reverses brain aging",
+    "title_es": "Los científicos acaban de encontrar una proteína que revierte el envejecimiento del cerebro",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250820000808.htm",
+    "date": "2025-08-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Midlife adults are overextended with multiple roles",
     "title_es": "Los adultos de la mediana edad están demasiado extendidos con múltiples roles",
     "url": "https://phys.org/news/2025-08-midlife-adults-overextended-multiple-roles.html",
     "date": "2025-08-19",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "A real-world pharmacovigilance analysis of ALK inhibitor-associated pleural and pericardial effusion using the FDA Adverse Events Reporting System (FAERS) database from 2013 to 2024",
-    "title_es": "Un análisis de farmacovigilancia del mundo real de derrame pleural y pericárdico asociado a inhibidores de ALK utilizando la base de datos del Sistema de Informes de Eventos Adversos de la FDA (FAERS) de 2013 a 2024",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-19",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents",
@@ -62,6 +111,13 @@
     "url": "https://www.snexplores.org/article/dwarf-planet-nine-solar-system",
     "date": "2025-08-19",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Summer students shine at CERN",
+    "title_es": "Los estudiantes de verano brillan en el CERN",
+    "url": "https://home.cern/news/news/cern/summer-students-shine-cern",
+    "date": "2025-08-19",
+    "source": "CERN News"
   },
   {
     "title": "Scientists just found a hidden factor behind Earth’s methane surge",
@@ -712,6 +768,13 @@
     "date": "2025-08-14",
     "source": "Science News Explores",
     "content_es": "Una estructura de plástico separa los lanzamientos en sonidos mixtos como el ruido blanco, al igual que un arco iris extiende los colores de la luz."
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar\" hreflang=\"es\">El Observatorio del Teide reduce su consumo eléctrico gracias a la energía solar</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar\" hreflang=\"es\">El Observatorio del Teide reduce su consumo eléctrico gracias a la energía solar</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-reduce-su-consumo-electrico-gracias-la-energia-solar",
+    "date": "2025-08-14",
+    "source": "IAC"
   },
   {
     "title": "Astronomers gave up this comet for dead — but they were wrong",

@@ -1,67 +1,75 @@
 [
   {
-    "title": "EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code",
-    "title_es": "EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code",
-    "url": "https://arxiv.org/abs/2508.13156",
-    "published": "2025-08-20T04:00:00.000Z",
-    "date": "2025-08-20",
+    "title": "A comparative study of some wavelet and sampling operators on various features of an image",
+    "title_es": "A comparative study of some wavelet and sampling operators on various features of an image",
+    "url": "https://arxiv.org/abs/2508.14043",
+    "published": "2025-08-21T04:00:00.000Z",
+    "date": "2025-08-21",
     "source": "arXiv"
   },
   {
-    "title": "Why recycling ‘dead’ batteries could save billions and slash pollution",
-    "title_es": "Why recycling ‘dead’ batteries could save billions and slash pollution",
-    "url": "https://www.sciencedaily.com/releases/2025/08/250818103002.htm",
-    "published": "2025-08-20T03:03:48.000Z",
+    "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
+    "title_es": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/",
+    "published": "2025-08-21T02:28:07.000Z",
+    "date": "2025-08-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Plastics: All around us and inside us",
+    "title_es": "Plastics: All around us and inside us",
+    "url": "https://phys.org/news/2025-08-plastics.html",
+    "published": "2025-08-21T02:50:01.000Z",
+    "date": "2025-08-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "What counts as plagiarism? AI-generated papers pose new risks",
+    "title_es": "What counts as plagiarism? AI-generated papers pose new risks",
+    "url": "https://www.nature.com/articles/d41586-025-02616-5",
+    "published": "2025-08-20T00:00:00.000Z",
+    "date": "2025-08-20",
+    "source": "Nature"
+  },
+  {
+    "title": "mRNA vaccines hold promise for many diseases. Now the tech is under fire",
+    "title_es": "mRNA vaccines hold promise for many diseases. Now the tech is under fire",
+    "url": "https://www.sciencenews.org/article/mrna-vaccines-diseases-tech",
+    "published": "2025-08-20T19:01:54.000Z",
+    "date": "2025-08-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Lasers can eavesdrop on microbes, including viruses",
+    "title_es": "Lasers can eavesdrop on microbes, including viruses",
+    "url": "https://www.snexplores.org/article/lasers-can-eavesdrop-on-microbes-including-viruses",
+    "published": "2025-08-20T10:30:00.000Z",
+    "date": "2025-08-20",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists just found a protein that reverses brain aging",
+    "title_es": "Scientists just found a protein that reverses brain aging",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250820000808.htm",
+    "published": "2025-08-20T15:27:58.000Z",
     "date": "2025-08-20",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Most known species evolved during 'explosions' of diversity, shows first analysis across 'tree of life'",
-    "title_es": "Most known species evolved during 'explosions' of diversity, shows first analysis across 'tree of life'",
-    "url": "https://phys.org/news/2025-08-species-evolved-explosions-diversity-analysis.html",
-    "published": "2025-08-20T04:00:02.000Z",
-    "date": "2025-08-20",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "African countries must rethink health-care financing",
-    "title_es": "African countries must rethink health-care financing",
-    "url": "https://www.nature.com/articles/d41586-025-02663-y",
-    "published": "2025-08-19T00:00:00.000Z",
-    "date": "2025-08-19",
-    "source": "Nature"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4634-4635: A Waiting Game",
-    "title_es": "Curiosity Blog, Sols 4634-4635: A Waiting Game",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/",
-    "published": "2025-08-19T19:22:47.000Z",
-    "date": "2025-08-19",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "See how fractals forever changed math and science",
-    "title_es": "See how fractals forever changed math and science",
-    "url": "https://www.sciencenews.org/article/fractals-math-science-society-50-years",
-    "published": "2025-08-19T17:00:00.000Z",
-    "date": "2025-08-19",
-    "source": "Science News"
-  },
-  {
-    "title": "A new dwarf planet may skirt the edge of our solar system",
-    "title_es": "A new dwarf planet may skirt the edge of our solar system",
-    "url": "https://www.snexplores.org/article/dwarf-planet-nine-solar-system",
-    "published": "2025-08-19T10:30:00.000Z",
-    "date": "2025-08-19",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "A real-world pharmacovigilance analysis of ALK inhibitor-associated pleural and pericardial effusion using the FDA Adverse Events Reporting System (FAERS) database from 2013 to 2024",
-    "title_es": "A real-world pharmacovigilance analysis of ALK inhibitor-associated pleural and pericardial effusion using the FDA Adverse Events Reporting System (FAERS) database from 2013 to 2024",
+    "title": "Effects of Pilates combined with breathing exercise on lung function, body posture and postural stability among female college students: A randomized controlled trial",
+    "title_es": "Effects of Pilates combined with breathing exercise on lung function, body posture and postural stability among female college students: A randomized controlled trial",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-19T14:00:00.000Z",
-    "date": "2025-08-19",
+    "published": "2025-08-20T14:00:00.000Z",
+    "date": "2025-08-20",
     "source": "PLOS ONE"
+  },
+  {
+    "title": "Summer students shine at CERN",
+    "title_es": "Summer students shine at CERN",
+    "url": "https://home.cern/news/news/cern/summer-students-shine-cern",
+    "published": "2025-08-19T14:18:37.000Z",
+    "date": "2025-08-19",
+    "source": "CERN News"
   },
   {
     "title": "Nueva convocatoria del Programa de Contratos “Amigos/as del CNIO”",
@@ -86,14 +94,6 @@
     "published": "2025-08-14T06:00:16.000Z",
     "date": "2025-08-14",
     "source": "Science.org"
-  },
-  {
-    "title": "CERN technology showcased in the context of UN Plastic Treaty discussions",
-    "title_es": "CERN technology showcased in the context of UN Plastic Treaty discussions",
-    "url": "https://home.cern/news/news/knowledge-sharing/cern-technology-showcased-context-un-plastic-treaty-discussions",
-    "published": "2025-08-13T09:35:12.000Z",
-    "date": "2025-08-13",
-    "source": "CERN News"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
