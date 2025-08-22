@@ -1,5 +1,26 @@
 [
   {
+    "title": "RFK Jr demanded a vaccine study be retracted — the journal said no",
+    "title_es": "RFK JR exigió que se retirara un estudio de vacuna: el Journal dijo que no",
+    "url": "https://www.nature.com/articles/d41586-025-02682-9",
+    "date": "2025-08-22",
+    "source": "Nature"
+  },
+  {
+    "title": "Ancient fossil discovery in Ethiopia rewrites human origins",
+    "title_es": "El descubrimiento fósil antiguo en Etiopía reescribe orígenes humanos",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250821094506.htm",
+    "date": "2025-08-22",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Wildfire raised local death rate by 67%, shows study on 2023 Hawaiʻi fires",
+    "title_es": "El incendio forestal aumentó la tasa de mortalidad local en un 67%, muestra el estudio en los incendios de 2023 Hawaiʻi",
+    "url": "https://phys.org/news/2025-08-wildfire-local-death-hawaii.html",
+    "date": "2025-08-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
     "title_es": "Blog de Curiosity, Sols 4636-4637: ARRIBA A CONTRA UN",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/",
@@ -14,6 +35,49 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Analysis of blood screening strategies and their efficacy among voluntary blood donors in a region of East China",
+    "title_es": "Análisis de estrategias de detección de sangre y su eficacia entre los donantes voluntarios de sangre en una región del este de China",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-08-21",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass",
+    "title_es": "Escenagen: generación de escena 3D de imagen única en un pase de feedforward",
+    "url": "http://arxiv.org/abs/2508.15769v1",
+    "date": "2025-08-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mutualism—here, there, and everywhere",
+    "title_es": "Mutualismo: aquí, allí, y en todas partes",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz6497",
+    "date": "2025-08-21",
+    "source": "Science.org"
+  },
+  {
+    "title": "NASA’s SpaceX 33rd Commercial Resupply Mission Overview",
+    "title_es": "Descripción general de la misión de reabastecimiento de reabastecimiento SpaceX de la NASA",
+    "url": "https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/",
+    "date": "2025-08-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Frilly bug feet inspire a water-striding robot",
+    "title_es": "Los pies de insecto con frilly inspiran un robot que se extiende por el agua",
+    "url": "https://www.sciencenews.org/article/ripple-bug-feet-water-robots",
+    "date": "2025-08-21",
+    "source": "Science News"
+  },
+  {
+    "title": "35 years on, Hubble continues to revolutionize astronomy",
+    "title_es": "35 años después, Hubble continúa revolucionando la astronomía",
+    "url": "https://www.snexplores.org/article/35-years-on-hubble-continues-to-revolutionize-astronomy",
+    "date": "2025-08-21",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Why recycling ‘dead’ batteries could save billions and slash pollution",
     "title_es": "Por qué reciclar las baterías \"muertas\" podría ahorrar miles de millones y recortar la contaminación",
     "url": "https://www.sciencedaily.com/releases/2025/08/250818103002.htm",
@@ -26,14 +90,6 @@
     "url": "https://phys.org/news/2025-08-species-evolved-explosions-diversity-analysis.html",
     "date": "2025-08-20",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Effects of Pilates combined with breathing exercise on lung function, body posture and postural stability among female college students: A randomized controlled trial",
-    "title_es": "Efectos de Pilates combinados con el ejercicio de respiración sobre la función pulmonar, la postura corporal y la estabilidad postural entre las estudiantes universitarias: un ensayo controlado aleatorio",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-20",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs",
@@ -69,6 +125,13 @@
     "url": "https://www.sciencedaily.com/releases/2025/08/250820000808.htm",
     "date": "2025-08-20",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Accelerator Report:  A summer of hot spells for the LHC",
+    "title_es": "Informe del acelerador: un verano de hechizos calientes para el LHC",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-summer-hot-spells-lhc",
+    "date": "2025-08-20",
+    "source": "CERN News"
   },
   {
     "title": "Midlife adults are overextended with multiple roles",
