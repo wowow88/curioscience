@@ -1,27 +1,67 @@
 [
   {
-    "title": "Accelerating GenAI Workloads by Enabling RISC-V Microkernel Support in IREE",
-    "title_es": "Accelerating GenAI Workloads by Enabling RISC-V Microkernel Support in IREE",
-    "url": "https://arxiv.org/abs/2508.14899",
-    "published": "2025-08-22T04:00:00.000Z",
-    "date": "2025-08-22",
-    "source": "arXiv"
+    "title": "Employees more likely to 'quiet quit' when feeling less control, study finds",
+    "title_es": "Employees more likely to 'quiet quit' when feeling less control, study finds",
+    "url": "https://phys.org/news/2025-08-employees-quiet.html",
+    "published": "2025-08-23T02:40:02.000Z",
+    "date": "2025-08-23",
+    "source": "Phys.org (Latest)"
   },
   {
-    "title": "Ancient fossil discovery in Ethiopia rewrites human origins",
-    "title_es": "Ancient fossil discovery in Ethiopia rewrites human origins",
-    "url": "https://www.sciencedaily.com/releases/2025/08/250821094506.htm",
-    "published": "2025-08-22T01:33:39.000Z",
+    "title": "Does dark energy spawn from black holes? Could be a bright idea",
+    "title_es": "Does dark energy spawn from black holes? Could be a bright idea",
+    "url": "https://www.nature.com/articles/d41586-025-02720-6",
+    "published": "2025-08-22T00:00:00.000Z",
+    "date": "2025-08-22",
+    "source": "Nature"
+  },
+  {
+    "title": "Vivir la ciencia de excelencia en el CNIO antes de acabar la carrera",
+    "title_es": "Vivir la ciencia de excelencia en el CNIO antes de acabar la carrera",
+    "url": "https://www.cnio.es/noticias/vivir-la-ciencia-de-excelencia-antes-de-acabar-la-carrera/",
+    "published": "2025-08-22T10:49:29.000Z",
+    "date": "2025-08-22",
+    "source": "CNIO"
+  },
+  {
+    "title": "NASA Tests Tools to Assess Drone Safety Over Cities",
+    "title_es": "NASA Tests Tools to Assess Drone Safety Over Cities",
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/",
+    "published": "2025-08-22T16:15:55.000Z",
+    "date": "2025-08-22",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA’s Webb telescope spotted a new moon orbiting Uranus",
+    "title_es": "NASA’s Webb telescope spotted a new moon orbiting Uranus",
+    "url": "https://www.sciencenews.org/article/nasas-webb-telescope-moon-uranus",
+    "published": "2025-08-22T17:00:00.000Z",
+    "date": "2025-08-22",
+    "source": "Science News"
+  },
+  {
+    "title": "New clues about dino speed come from birds strutting through mud",
+    "title_es": "New clues about dino speed come from birds strutting through mud",
+    "url": "https://www.snexplores.org/article/new-clues-about-dino-speed-come-from-birds-strutting-through-mud",
+    "published": "2025-08-22T10:30:00.000Z",
+    "date": "2025-08-22",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "What came before the Big Bang? Supercomputers may hold the answer",
+    "title_es": "What came before the Big Bang? Supercomputers may hold the answer",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250821094530.htm",
+    "published": "2025-08-22T08:59:00.000Z",
     "date": "2025-08-22",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Wildfire raised local death rate by 67%, shows study on 2023 Hawaiʻi fires",
-    "title_es": "Wildfire raised local death rate by 67%, shows study on 2023 Hawaiʻi fires",
-    "url": "https://phys.org/news/2025-08-wildfire-local-death-hawaii.html",
-    "published": "2025-08-22T04:00:01.000Z",
+    "title": "Understanding the evolving treatment landscape of hidradenitis suppurativa: An analysis of All of Us",
+    "title_es": "Understanding the evolving treatment landscape of hidradenitis suppurativa: An analysis of All of Us",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-08-22T14:00:00.000Z",
     "date": "2025-08-22",
-    "source": "Phys.org (Latest)"
+    "source": "PLOS ONE"
   },
   {
     "title": "Mutualism—here, there, and everywhere",
@@ -32,60 +72,12 @@
     "source": "Science.org"
   },
   {
-    "title": "The brain’s map of the body is surprisingly stable — even after a limb is lost",
-    "title_es": "The brain’s map of the body is surprisingly stable — even after a limb is lost",
-    "url": "https://www.nature.com/articles/d41586-025-02686-5",
-    "published": "2025-08-21T00:00:00.000Z",
-    "date": "2025-08-21",
-    "source": "Nature"
-  },
-  {
-    "title": "NASA’s SpaceX 33rd Commercial Resupply Mission Overview",
-    "title_es": "NASA’s SpaceX 33rd Commercial Resupply Mission Overview",
-    "url": "https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/",
-    "published": "2025-08-21T20:51:21.000Z",
-    "date": "2025-08-21",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Frilly bug feet inspire a water-striding robot",
-    "title_es": "Frilly bug feet inspire a water-striding robot",
-    "url": "https://www.sciencenews.org/article/ripple-bug-feet-water-robots",
-    "published": "2025-08-21T18:00:00.000Z",
-    "date": "2025-08-21",
-    "source": "Science News"
-  },
-  {
-    "title": "35 years on, Hubble continues to revolutionize astronomy",
-    "title_es": "35 years on, Hubble continues to revolutionize astronomy",
-    "url": "https://www.snexplores.org/article/35-years-on-hubble-continues-to-revolutionize-astronomy",
-    "published": "2025-08-21T10:30:00.000Z",
-    "date": "2025-08-21",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Analysis of blood screening strategies and their efficacy among voluntary blood donors in a region of East China",
-    "title_es": "Analysis of blood screening strategies and their efficacy among voluntary blood donors in a region of East China",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-21T14:00:00.000Z",
-    "date": "2025-08-21",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "Accelerator Report: A summer of hot spells for the LHC",
     "title_es": "Accelerator Report: A summer of hot spells for the LHC",
     "url": "https://home.cern/news/news/accelerators/accelerator-report-summer-hot-spells-lhc",
     "published": "2025-08-20T08:56:30.000Z",
     "date": "2025-08-20",
     "source": "CERN News"
-  },
-  {
-    "title": "Nueva convocatoria del Programa de Contratos “Amigos/as del CNIO”",
-    "title_es": "Nueva convocatoria del Programa de Contratos “Amigos/as del CNIO”",
-    "url": "https://www.cnio.es/noticias/convocatoria-programa-de-contratos-amigos-as-del-cnio/",
-    "published": "2025-08-18T13:08:31.000Z",
-    "date": "2025-08-18",
-    "source": "CNIO"
   },
   {
     "title": "Pascual Sánchez-Juan: “Como clínico, me frustra que todavía no veamos beneficios claros para el paciente”",
