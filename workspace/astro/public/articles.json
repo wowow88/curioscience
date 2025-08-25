@@ -1,10 +1,42 @@
 [
   {
+    "title": "Implementing Zero Trust Architecture to Enhance Security and Resilience in the Pharmaceutical Supply Chain",
+    "title_es": "Implementing Zero Trust Architecture to Enhance Security and Resilience in the Pharmaceutical Supply Chain",
+    "url": "https://arxiv.org/abs/2508.15776",
+    "published": "2025-08-25T04:00:00.000Z",
+    "date": "2025-08-25",
+    "source": "arXiv"
+  },
+  {
     "title": "Tiny green tea beads trap fat and melt away pounds without side effects",
     "title_es": "Pequeñas cuentas de té verde atrapan la grasa y se derriten las libras sin efectos secundarios",
     "url": "https://www.sciencedaily.com/releases/2025/08/250822073820.htm",
     "date": "2025-08-24",
     "source": "ScienceDaily (Top)",
+    "published": "2025-08-24T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Science, Cargo Launch on 33rd SpaceX Resupply Mission to Station",
+    "title_es": "Ciencia de la NASA, lanzamiento de carga en la 33a misión de reabastecimiento de SpaceX a la estación",
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-33rd-spacex-resupply-mission-to-station/",
+    "date": "2025-08-24",
+    "source": "NASA (Top News)",
+    "published": "2025-08-24T00:00:00.000Z"
+  },
+  {
+    "title": "Strange ripples frozen in Mars’ sands could hold keys to human survival",
+    "title_es": "Extrañas ondas congeladas en las arenas de Marte podrían contener las llaves de la supervivencia humana",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250824032203.htm",
+    "date": "2025-08-24",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-24T00:00:00.000Z"
+  },
+  {
+    "title": "Astronomers have glimpsed the core of a dying star—confirming theories of how atoms are made",
+    "title_es": "Los astrónomos han vislumbrado el núcleo de una estrella moribunda, confirmando teorías de cómo se hacen los átomos",
+    "url": "https://phys.org/news/2025-08-astronomers-glimpsed-core-dying-star.html",
+    "date": "2025-08-24",
+    "source": "Phys.org (Latest)",
     "published": "2025-08-24T00:00:00.000Z"
   },
   {
@@ -117,6 +149,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/08/250821094530.htm",
     "date": "2025-08-22",
     "source": "ScienceDaily (Top)",
+    "published": "2025-08-22T00:00:00.000Z"
+  },
+  {
+    "title": "MV-RAG: Retrieval Augmented Multiview Diffusion",
+    "title_es": "MV-RAG: Difusión de MultiView de recuperación aumentada",
+    "url": "http://arxiv.org/abs/2508.16577v1",
+    "date": "2025-08-22",
+    "source": "arXiv",
     "published": "2025-08-22T00:00:00.000Z"
   },
   {

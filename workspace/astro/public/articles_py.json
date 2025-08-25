@@ -7,6 +7,27 @@
     "source": "ScienceDaily (Top)"
   },
   {
+    "title": "NASA Science, Cargo Launch on 33rd SpaceX Resupply Mission to Station",
+    "title_es": "Ciencia de la NASA, lanzamiento de carga en la 33a misión de reabastecimiento de SpaceX a la estación",
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-33rd-spacex-resupply-mission-to-station/",
+    "date": "2025-08-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Strange ripples frozen in Mars’ sands could hold keys to human survival",
+    "title_es": "Extrañas ondas congeladas en las arenas de Marte podrían contener las llaves de la supervivencia humana",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250824032203.htm",
+    "date": "2025-08-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Astronomers have glimpsed the core of a dying star—confirming theories of how atoms are made",
+    "title_es": "Los astrónomos han vislumbrado el núcleo de una estrella moribunda, confirmando teorías de cómo se hacen los átomos",
+    "url": "https://phys.org/news/2025-08-astronomers-glimpsed-core-dying-star.html",
+    "date": "2025-08-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Employees more likely to 'quiet quit' when feeling less control, study finds",
     "title_es": "Los empleados tienen más probabilidades de 'tranquilizar' al sentirse menos control, el estudio encuentra",
     "url": "https://phys.org/news/2025-08-employees-quiet.html",
@@ -104,6 +125,13 @@
     "url": "https://www.sciencedaily.com/releases/2025/08/250821094530.htm",
     "date": "2025-08-22",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "MV-RAG: Retrieval Augmented Multiview Diffusion",
+    "title_es": "MV-RAG: Difusión de MultiView de recuperación aumentada",
+    "url": "http://arxiv.org/abs/2508.16577v1",
+    "date": "2025-08-22",
+    "source": "arXiv"
   },
   {
     "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
