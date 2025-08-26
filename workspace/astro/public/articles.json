@@ -1,11 +1,83 @@
 [
   {
+    "title": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
+    "title_es": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4638-4640-imaging-extravaganza-atop-a-ridge/",
+    "published": "2025-08-26T04:38:45.000Z",
+    "date": "2025-08-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Towards High-Precision Depth Sensing via Monocular-Aided iToF and RGB Integration",
+    "title_es": "Towards High-Precision Depth Sensing via Monocular-Aided iToF and RGB Integration",
+    "url": "https://arxiv.org/abs/2508.16579",
+    "published": "2025-08-26T04:00:00.000Z",
+    "date": "2025-08-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "Pig lung transplanted into a person in world first",
+    "title_es": "Pig Lung trasplantado en una persona en el mundo primero",
+    "url": "https://www.nature.com/articles/d41586-025-02708-2",
+    "date": "2025-08-26",
+    "source": "Nature",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "Maui’s fires drove a 67% jump in deaths. Most went uncounted",
+    "title_es": "Los incendios de Maui generaron un salto del 67% en las muertes. La mayoría no fue contado",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
+    "date": "2025-08-26",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
     "title": "Implementing Zero Trust Architecture to Enhance Security and Resilience in the Pharmaceutical Supply Chain",
     "title_es": "Implementing Zero Trust Architecture to Enhance Security and Resilience in the Pharmaceutical Supply Chain",
     "url": "https://arxiv.org/abs/2508.15776",
     "published": "2025-08-25T04:00:00.000Z",
     "date": "2025-08-25",
     "source": "arXiv"
+  },
+  {
+    "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",
+    "title_es": "SAFBIMANUAL: Optimización de trayectoria basada en difusión para la manipulación bimanual SAFE",
+    "url": "http://arxiv.org/abs/2508.18268v1",
+    "date": "2025-08-25",
+    "source": "arXiv",
+    "published": "2025-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "From NASA Citizen Scientist to Astronaut Training: An Interview with Benedetta Facini",
+    "title_es": "Desde la NASA Ciudadano científico hasta la capacitación de astronautas: una entrevista con Benedetta Facini",
+    "url": "https://science.nasa.gov/science-research/astrophysics/from-nasa-citizen-scientist-to-astronaut-training-an-interview-with-benedetta-facini/",
+    "date": "2025-08-25",
+    "source": "NASA (Top News)",
+    "published": "2025-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists perform the first pig-to-human lung transplant",
+    "title_es": "Los científicos realizan el primer trasplante de pulmón de cerdo a humano",
+    "url": "https://www.sciencenews.org/article/first-pig-to-human-lung-transplant",
+    "date": "2025-08-25",
+    "source": "Science News",
+    "published": "2025-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "DNA reveals the origin of East Asia’s favorite sweet bean",
+    "title_es": "El ADN revela el origen del frijol dulce favorito de Asia Oriental",
+    "url": "https://www.snexplores.org/article/sweet-red-adzuki-bean-origin-asia-dna",
+    "date": "2025-08-25",
+    "source": "Science News Explores",
+    "published": "2025-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "High-binding-energy material achieves record QLED efficiency and lifetime",
+    "title_es": "El material de alta unión de energía logra la eficiencia y vida útil de QLED récord",
+    "url": "https://phys.org/news/2025-08-high-energy-material-qled-efficiency.html",
+    "date": "2025-08-25",
+    "source": "Phys.org (Latest)",
+    "published": "2025-08-25T00:00:00.000Z"
   },
   {
     "title": "Tiny green tea beads trap fat and melt away pounds without side effects",
@@ -6416,8 +6488,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Understanding the evolving treatment landscape of hidradenitis suppurativa: An analysis of All of Us",
-    "title_es": "Comprender el panorama del tratamiento en evolución de la hidradenitis supurativa: un análisis de todos nosotros",
+    "title": "Comprehensive genomic analysis of Xenorhabdus bovienii strain MEL2.2",
+    "title_es": "Análisis genómico integral de <i> xenorhabdus bovienii </i> cepa mel2.2",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

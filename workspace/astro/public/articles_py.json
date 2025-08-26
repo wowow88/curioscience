@@ -1,5 +1,62 @@
 [
   {
+    "title": "Pig lung transplanted into a person in world first",
+    "title_es": "Pig Lung trasplantado en una persona en el mundo primero",
+    "url": "https://www.nature.com/articles/d41586-025-02708-2",
+    "date": "2025-08-26",
+    "source": "Nature"
+  },
+  {
+    "title": "Maui’s fires drove a 67% jump in deaths. Most went uncounted",
+    "title_es": "Los incendios de Maui generaron un salto del 67% en las muertes. La mayoría no fue contado",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
+    "date": "2025-08-26",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Comprehensive genomic analysis of <i>Xenorhabdus bovienii</i> strain MEL2.2",
+    "title_es": "Análisis genómico integral de <i> xenorhabdus bovienii </i> cepa mel2.2",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-08-25",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",
+    "title_es": "SAFBIMANUAL: Optimización de trayectoria basada en difusión para la manipulación bimanual SAFE",
+    "url": "http://arxiv.org/abs/2508.18268v1",
+    "date": "2025-08-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "From NASA Citizen Scientist to Astronaut Training: An Interview with Benedetta Facini",
+    "title_es": "Desde la NASA Ciudadano científico hasta la capacitación de astronautas: una entrevista con Benedetta Facini",
+    "url": "https://science.nasa.gov/science-research/astrophysics/from-nasa-citizen-scientist-to-astronaut-training-an-interview-with-benedetta-facini/",
+    "date": "2025-08-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists perform the first pig-to-human lung transplant",
+    "title_es": "Los científicos realizan el primer trasplante de pulmón de cerdo a humano",
+    "url": "https://www.sciencenews.org/article/first-pig-to-human-lung-transplant",
+    "date": "2025-08-25",
+    "source": "Science News"
+  },
+  {
+    "title": "DNA reveals the origin of East Asia’s favorite sweet bean",
+    "title_es": "El ADN revela el origen del frijol dulce favorito de Asia Oriental",
+    "url": "https://www.snexplores.org/article/sweet-red-adzuki-bean-origin-asia-dna",
+    "date": "2025-08-25",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "High-binding-energy material achieves record QLED efficiency and lifetime",
+    "title_es": "El material de alta unión de energía logra la eficiencia y vida útil de QLED récord",
+    "url": "https://phys.org/news/2025-08-high-energy-material-qled-efficiency.html",
+    "date": "2025-08-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Tiny green tea beads trap fat and melt away pounds without side effects",
     "title_es": "Pequeñas cuentas de té verde atrapan la grasa y se derriten las libras sin efectos secundarios",
     "url": "https://www.sciencedaily.com/releases/2025/08/250822073820.htm",
@@ -68,14 +125,6 @@
     "url": "https://phys.org/news/2025-08-wildfire-local-death-hawaii.html",
     "date": "2025-08-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Understanding the evolving treatment landscape of hidradenitis suppurativa: An analysis of All of Us",
-    "title_es": "Comprender el panorama del tratamiento en evolución de la hidradenitis supurativa: un análisis de todos nosotros",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-22",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Does dark energy spawn from black holes? Could be a bright idea",
