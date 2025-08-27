@@ -1,5 +1,26 @@
 [
   {
+    "title": "Bright city lights make birds around the world sing longer",
+    "title_es": "Las luces de la ciudad brillantes hacen que los pájaros en todo el mundo cantan más",
+    "url": "https://www.nature.com/articles/d41586-025-02726-0",
+    "date": "2025-08-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
+    "title_es": "Los científicos finalmente identifican el nacimiento de Júpiter usando \"gotas de lluvia de roca fundida\"",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250826005233.htm",
+    "date": "2025-08-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Sharks may be losing deadly teeth to ocean acidification",
+    "title_es": "Los tiburones pueden estar perdiendo dientes mortales por la acidificación del océano",
+    "url": "https://phys.org/news/2025-08-sharks-deadly-teeth-ocean-acidification.html",
+    "date": "2025-08-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Pig lung transplanted into a person in world first",
     "title_es": "Pig Lung trasplantado en una persona en el mundo primero",
     "url": "https://www.nature.com/articles/d41586-025-02708-2",
@@ -14,12 +35,54 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Comprehensive genomic analysis of <i>Xenorhabdus bovienii</i> strain MEL2.2",
-    "title_es": "Análisis genómico integral de <i> xenorhabdus bovienii </i> cepa mel2.2",
+    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
+    "title_es": "Comparación de la fórmula ABC/2 con volumetría asistida por computadora de accidente cerebrovascular cerebeloso isquémico",
     "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-25",
+    "date": "2025-08-26",
     "source": "PLOS ONE",
     "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Model Context Protocols in Adaptive Transport Systems: A Survey",
+    "title_es": "Protocolos de contexto modelo en sistemas de transporte adaptativo: una encuesta",
+    "url": "http://arxiv.org/abs/2508.19239v1",
+    "date": "2025-08-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "The CNIC at the European Cardiology Congress 2025",
+    "title_es": "The CNIC at the European Cardiology Congress 2025",
+    "url": "https://www.cnic.es/es/node/236064",
+    "date": "2025-08-26",
+    "source": "CNIC"
+  },
+  {
+    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
+    "title_es": "Dentro de la nueva sala de evaluación de la misión de Orión de la NASA para Artemis II",
+    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
+    "date": "2025-08-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
+    "title_es": "CERN y Pro Helvetia extienden la colaboración \"Connect\" y el lanzamiento de la residencia de Connect Argentina",
+    "url": "https://home.cern/news/news/cern/cern-and-pro-helvetia-extend-connect-collaboration-and-launch-connect-argentina",
+    "date": "2025-08-26",
+    "source": "CERN News"
+  },
+  {
+    "title": "Useful metals get unearthed in U.S. mines, then they’re tossed",
+    "title_es": "Los metales útiles se desenterran en las minas estadounidenses, luego son arrojados",
+    "url": "https://www.sciencenews.org/article/useful-metals-tossed-us-mines",
+    "date": "2025-08-26",
+    "source": "Science News"
+  },
+  {
+    "title": "This astronomer searches for alien chemistry and tech",
+    "title_es": "Este astrónomo busca química y tecnología alienígena",
+    "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
+    "date": "2025-08-26",
+    "source": "Science News Explores"
   },
   {
     "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",

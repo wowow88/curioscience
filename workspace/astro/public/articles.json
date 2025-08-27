@@ -1,5 +1,37 @@
 [
   {
+    "title": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
+    "title_es": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
+    "url": "https://arxiv.org/abs/2508.18279",
+    "published": "2025-08-27T04:00:00.000Z",
+    "date": "2025-08-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Bright city lights make birds around the world sing longer",
+    "title_es": "Las luces de la ciudad brillantes hacen que los pájaros en todo el mundo cantan más",
+    "url": "https://www.nature.com/articles/d41586-025-02726-0",
+    "date": "2025-08-27",
+    "source": "Nature",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
+    "title_es": "Los científicos finalmente identifican el nacimiento de Júpiter usando \"gotas de lluvia de roca fundida\"",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250826005233.htm",
+    "date": "2025-08-27",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Sharks may be losing deadly teeth to ocean acidification",
+    "title_es": "Los tiburones pueden estar perdiendo dientes mortales por la acidificación del océano",
+    "url": "https://phys.org/news/2025-08-sharks-deadly-teeth-ocean-acidification.html",
+    "date": "2025-08-27",
+    "source": "Phys.org (Latest)",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
     "title": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
     "title_es": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4638-4640-imaging-extravaganza-atop-a-ridge/",
@@ -29,6 +61,54 @@
     "url": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
     "date": "2025-08-26",
     "source": "ScienceDaily (Top)",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "Model Context Protocols in Adaptive Transport Systems: A Survey",
+    "title_es": "Protocolos de contexto modelo en sistemas de transporte adaptativo: una encuesta",
+    "url": "http://arxiv.org/abs/2508.19239v1",
+    "date": "2025-08-26",
+    "source": "arXiv",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "The CNIC at the European Cardiology Congress 2025",
+    "title_es": "The CNIC at the European Cardiology Congress 2025",
+    "url": "https://www.cnic.es/es/node/236064",
+    "date": "2025-08-26",
+    "source": "CNIC",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
+    "title_es": "Dentro de la nueva sala de evaluación de la misión de Orión de la NASA para Artemis II",
+    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
+    "date": "2025-08-26",
+    "source": "NASA (Top News)",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
+    "title_es": "CERN y Pro Helvetia extienden la colaboración \"Connect\" y el lanzamiento de la residencia de Connect Argentina",
+    "url": "https://home.cern/news/news/cern/cern-and-pro-helvetia-extend-connect-collaboration-and-launch-connect-argentina",
+    "date": "2025-08-26",
+    "source": "CERN News",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "Useful metals get unearthed in U.S. mines, then they’re tossed",
+    "title_es": "Los metales útiles se desenterran en las minas estadounidenses, luego son arrojados",
+    "url": "https://www.sciencenews.org/article/useful-metals-tossed-us-mines",
+    "date": "2025-08-26",
+    "source": "Science News",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "This astronomer searches for alien chemistry and tech",
+    "title_es": "Este astrónomo busca química y tecnología alienígena",
+    "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
+    "date": "2025-08-26",
+    "source": "Science News Explores",
     "published": "2025-08-26T00:00:00.000Z"
   },
   {
@@ -376,7 +456,7 @@
     "source": "Nature"
   },
   {
-    "title": "Accelerator Report: A summer of hot spells for the LHC",
+    "title": "Accelerator Report:  A summer of hot spells for the LHC",
     "title_es": "Informe del acelerador: un verano de hechizos calientes para el LHC",
     "url": "https://home.cern/news/news/accelerators/accelerator-report-summer-hot-spells-lhc",
     "date": "2025-08-20",
@@ -6488,8 +6568,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Comprehensive genomic analysis of Xenorhabdus bovienii strain MEL2.2",
-    "title_es": "Análisis genómico integral de <i> xenorhabdus bovienii </i> cepa mel2.2",
+    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
+    "title_es": "Comparación de la fórmula ABC/2 con volumetría asistida por computadora de accidente cerebrovascular cerebeloso isquémico",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

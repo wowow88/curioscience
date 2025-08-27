@@ -1,66 +1,82 @@
 [
   {
-    "title": "Towards High-Precision Depth Sensing via Monocular-Aided iToF and RGB Integration",
-    "title_es": "Towards High-Precision Depth Sensing via Monocular-Aided iToF and RGB Integration",
-    "url": "https://arxiv.org/abs/2508.16579",
-    "published": "2025-08-26T04:00:00.000Z",
-    "date": "2025-08-26",
+    "title": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
+    "title_es": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
+    "url": "https://arxiv.org/abs/2508.18279",
+    "published": "2025-08-27T04:00:00.000Z",
+    "date": "2025-08-27",
     "source": "arXiv"
   },
   {
-    "title": "Pig lung transplanted into a person in world first",
-    "title_es": "Pig lung transplanted into a person in world first",
-    "url": "https://www.nature.com/articles/d41586-025-02708-2",
-    "published": "2025-08-26T00:00:00.000Z",
-    "date": "2025-08-26",
+    "title": "Bright city lights make birds around the world sing longer",
+    "title_es": "Bright city lights make birds around the world sing longer",
+    "url": "https://www.nature.com/articles/d41586-025-02726-0",
+    "published": "2025-08-27T00:00:00.000Z",
+    "date": "2025-08-27",
     "source": "Nature"
   },
   {
-    "title": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
-    "title_es": "Curiosity Blog, Sols 4638-4640: Imaging Extravaganza Atop a Ridge",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4638-4640-imaging-extravaganza-atop-a-ridge/",
-    "published": "2025-08-26T04:38:45.000Z",
+    "title": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
+    "title_es": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250826005233.htm",
+    "published": "2025-08-27T03:29:48.000Z",
+    "date": "2025-08-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Sharks may be losing deadly teeth to ocean acidification",
+    "title_es": "Sharks may be losing deadly teeth to ocean acidification",
+    "url": "https://phys.org/news/2025-08-sharks-deadly-teeth-ocean-acidification.html",
+    "published": "2025-08-27T04:00:02.000Z",
+    "date": "2025-08-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "The CNIC at the European Cardiology Congress 2025",
+    "title_es": "The CNIC at the European Cardiology Congress 2025",
+    "url": "https://www.cnic.es/es/node/236064",
+    "published": "2025-08-26T09:59:11.000Z",
+    "date": "2025-08-26",
+    "source": "CNIC"
+  },
+  {
+    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
+    "title_es": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
+    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
+    "published": "2025-08-26T20:46:20.000Z",
     "date": "2025-08-26",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Maui’s fires drove a 67% jump in deaths. Most went uncounted",
-    "title_es": "Maui’s fires drove a 67% jump in deaths. Most went uncounted",
-    "url": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
-    "published": "2025-08-26T03:57:00.000Z",
+    "title": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
+    "title_es": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
+    "url": "https://home.cern/news/news/cern/cern-and-pro-helvetia-extend-connect-collaboration-and-launch-connect-argentina",
+    "published": "2025-08-26T09:15:28.000Z",
     "date": "2025-08-26",
-    "source": "ScienceDaily (Top)"
+    "source": "CERN News"
   },
   {
-    "title": "Scientists perform the first pig-to-human lung transplant",
-    "title_es": "Scientists perform the first pig-to-human lung transplant",
-    "url": "https://www.sciencenews.org/article/first-pig-to-human-lung-transplant",
-    "published": "2025-08-25T15:00:00.000Z",
-    "date": "2025-08-25",
+    "title": "Useful metals get unearthed in U.S. mines, then they’re tossed",
+    "title_es": "Useful metals get unearthed in U.S. mines, then they’re tossed",
+    "url": "https://www.sciencenews.org/article/useful-metals-tossed-us-mines",
+    "published": "2025-08-26T15:00:00.000Z",
+    "date": "2025-08-26",
     "source": "Science News"
   },
   {
-    "title": "DNA reveals the origin of East Asia’s favorite sweet bean",
-    "title_es": "DNA reveals the origin of East Asia’s favorite sweet bean",
-    "url": "https://www.snexplores.org/article/sweet-red-adzuki-bean-origin-asia-dna",
-    "published": "2025-08-25T10:30:00.000Z",
-    "date": "2025-08-25",
+    "title": "This astronomer searches for alien chemistry and tech",
+    "title_es": "This astronomer searches for alien chemistry and tech",
+    "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
+    "published": "2025-08-26T10:30:00.000Z",
+    "date": "2025-08-26",
     "source": "Science News Explores"
   },
   {
-    "title": "High-binding-energy material achieves record QLED efficiency and lifetime",
-    "title_es": "High-binding-energy material achieves record QLED efficiency and lifetime",
-    "url": "https://phys.org/news/2025-08-high-energy-material-qled-efficiency.html",
-    "published": "2025-08-25T20:55:03.000Z",
-    "date": "2025-08-25",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Comprehensive genomic analysis of Xenorhabdus bovienii strain MEL2.2",
-    "title_es": "Comprehensive genomic analysis of Xenorhabdus bovienii strain MEL2.2",
+    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
+    "title_es": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-25T14:00:00.000Z",
-    "date": "2025-08-25",
+    "published": "2025-08-26T14:00:00.000Z",
+    "date": "2025-08-26",
     "source": "PLOS ONE"
   },
   {
@@ -78,22 +94,6 @@
     "published": "2025-08-21T06:00:16.000Z",
     "date": "2025-08-21",
     "source": "Science.org"
-  },
-  {
-    "title": "Accelerator Report: A summer of hot spells for the LHC",
-    "title_es": "Accelerator Report: A summer of hot spells for the LHC",
-    "url": "https://home.cern/news/news/accelerators/accelerator-report-summer-hot-spells-lhc",
-    "published": "2025-08-20T08:56:30.000Z",
-    "date": "2025-08-20",
-    "source": "CERN News"
-  },
-  {
-    "title": "Pascual Sánchez-Juan: “Como clínico, me frustra que todavía no veamos beneficios claros para el paciente”",
-    "title_es": "Pascual Sánchez-Juan: “Como clínico, me frustra que todavía no veamos beneficios claros para el paciente”",
-    "url": "https://www.cnic.es/es/noticias/pascual-sanchez-juan-como-clinico-me-frustra-que-todavia-no-veamos-beneficios-claros-para",
-    "published": "2025-08-16T22:10:00.000Z",
-    "date": "2025-08-16",
-    "source": "CNIC"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
