@@ -1,5 +1,19 @@
 [
   {
+    "title": "Caltech breakthrough makes quantum memory last 30 times longer",
+    "title_es": "El avance de Caltech hace que la memoria cuántica dure 30 veces más",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250827234137.htm",
+    "date": "2025-08-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How AI can build bridges between nations, if diplomats use it wisely",
+    "title_es": "Cómo la IA puede construir puentes entre las naciones, si los diplomáticos lo usan sabiamente",
+    "url": "https://phys.org/news/2025-08-ai-bridges-nations-diplomats-wisely.html",
+    "date": "2025-08-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Bright city lights make birds around the world sing longer",
     "title_es": "Las luces de la ciudad brillantes hacen que los pájaros en todo el mundo cantan más",
     "url": "https://www.nature.com/articles/d41586-025-02726-0",
@@ -21,6 +35,49 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
+    "title_es": "Nota editorial: Discutir aplicaciones de blockchain en conversaciones de TED: un enfoque de onda de moda para comprender el fenómeno de blockchain",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-08-27",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning",
+    "title_es": "Coda: coordinación del cerebro y el cerebelo para un agente de uso de computadora de doble cerebro con aprendizaje de refuerzo desacoplado",
+    "url": "http://arxiv.org/abs/2508.20096v1",
+    "date": "2025-08-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB<sub>1</sub>",
+    "title_es": "Nota de retracción: Estructuras cristalinas del receptor cannabinoide humano unido a agonistas CB <Sub> 1 </sub>",
+    "url": "https://www.nature.com/articles/s41586-025-09538-2",
+    "date": "2025-08-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Over Soroya Ridge & Onward!",
+    "title_es": "¡Sobre Soroya Ridge y en adelante!",
+    "url": "https://science.nasa.gov/blog/over-soroya-ridge-onward/",
+    "date": "2025-08-27",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
+    "title_es": "Un nuevo antiviral bloquea 6 virus mortales en ratones, pero enfrenta un largo camino por delante",
+    "url": "https://www.sciencenews.org/article/antiviral-broad-spectrum-mice",
+    "date": "2025-08-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Birds of paradise have a newly discovered glow",
+    "title_es": "Las aves del paraíso tienen un brillo recién descubierto",
+    "url": "https://www.snexplores.org/article/birds-of-paradise-have-a-newly-discovered-glow",
+    "date": "2025-08-27",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Pig lung transplanted into a person in world first",
     "title_es": "Pig Lung trasplantado en una persona en el mundo primero",
     "url": "https://www.nature.com/articles/d41586-025-02708-2",
@@ -33,14 +90,6 @@
     "url": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
     "date": "2025-08-26",
     "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
-    "title_es": "Comparación de la fórmula ABC/2 con volumetría asistida por computadora de accidente cerebrovascular cerebeloso isquémico",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-08-26",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Model Context Protocols in Adaptive Transport Systems: A Survey",
@@ -83,6 +132,13 @@
     "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
     "date": "2025-08-26",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Students step up to the I.FAST innovation challenge",
+    "title_es": "Los estudiantes se acercan al desafío de innovación de I.",
+    "url": "https://home.cern/news/news/knowledge-sharing/students-step-ifast-innovation-challenge",
+    "date": "2025-08-26",
+    "source": "CERN News"
   },
   {
     "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",

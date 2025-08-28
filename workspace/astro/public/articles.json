@@ -1,5 +1,29 @@
 [
   {
+    "title": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
+    "title_es": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
+    "url": "https://arxiv.org/abs/2508.19249",
+    "published": "2025-08-28T04:00:00.000Z",
+    "date": "2025-08-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Caltech breakthrough makes quantum memory last 30 times longer",
+    "title_es": "El avance de Caltech hace que la memoria cuántica dure 30 veces más",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250827234137.htm",
+    "date": "2025-08-28",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-28T00:00:00.000Z"
+  },
+  {
+    "title": "How AI can build bridges between nations, if diplomats use it wisely",
+    "title_es": "Cómo la IA puede construir puentes entre las naciones, si los diplomáticos lo usan sabiamente",
+    "url": "https://phys.org/news/2025-08-ai-bridges-nations-diplomats-wisely.html",
+    "date": "2025-08-28",
+    "source": "Phys.org (Latest)",
+    "published": "2025-08-28T00:00:00.000Z"
+  },
+  {
     "title": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
     "title_es": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
     "url": "https://arxiv.org/abs/2508.18279",
@@ -29,6 +53,46 @@
     "url": "https://phys.org/news/2025-08-sharks-deadly-teeth-ocean-acidification.html",
     "date": "2025-08-27",
     "source": "Phys.org (Latest)",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning",
+    "title_es": "Coda: coordinación del cerebro y el cerebelo para un agente de uso de computadora de doble cerebro con aprendizaje de refuerzo desacoplado",
+    "url": "http://arxiv.org/abs/2508.20096v1",
+    "date": "2025-08-27",
+    "source": "arXiv",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
+    "title_es": "Nota de retracción: Estructuras cristalinas del receptor cannabinoide humano unido a agonistas CB <Sub> 1 </sub>",
+    "url": "https://www.nature.com/articles/s41586-025-09538-2",
+    "date": "2025-08-27",
+    "source": "Nature",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Over Soroya Ridge & Onward!",
+    "title_es": "¡Sobre Soroya Ridge y en adelante!",
+    "url": "https://science.nasa.gov/blog/over-soroya-ridge-onward/",
+    "date": "2025-08-27",
+    "source": "NASA (Top News)",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
+    "title_es": "Un nuevo antiviral bloquea 6 virus mortales en ratones, pero enfrenta un largo camino por delante",
+    "url": "https://www.sciencenews.org/article/antiviral-broad-spectrum-mice",
+    "date": "2025-08-27",
+    "source": "Science News",
+    "published": "2025-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Birds of paradise have a newly discovered glow",
+    "title_es": "Las aves del paraíso tienen un brillo recién descubierto",
+    "url": "https://www.snexplores.org/article/birds-of-paradise-have-a-newly-discovered-glow",
+    "date": "2025-08-27",
+    "source": "Science News Explores",
     "published": "2025-08-27T00:00:00.000Z"
   },
   {
@@ -109,6 +173,14 @@
     "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
     "date": "2025-08-26",
     "source": "Science News Explores",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "Students step up to the I.FAST innovation challenge",
+    "title_es": "Los estudiantes se acercan al desafío de innovación de I.",
+    "url": "https://home.cern/news/news/knowledge-sharing/students-step-ifast-innovation-challenge",
+    "date": "2025-08-26",
+    "source": "CERN News",
     "published": "2025-08-26T00:00:00.000Z"
   },
   {
@@ -6568,8 +6640,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
-    "title_es": "Comparación de la fórmula ABC/2 con volumetría asistida por computadora de accidente cerebrovascular cerebeloso isquémico",
+    "title": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
+    "title_es": "Nota editorial: Discutir aplicaciones de blockchain en conversaciones de TED: un enfoque de onda de moda para comprender el fenómeno de blockchain",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

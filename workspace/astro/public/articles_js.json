@@ -1,35 +1,67 @@
 [
   {
-    "title": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
-    "title_es": "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs",
-    "url": "https://arxiv.org/abs/2508.18279",
-    "published": "2025-08-27T04:00:00.000Z",
-    "date": "2025-08-27",
+    "title": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
+    "title_es": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
+    "url": "https://arxiv.org/abs/2508.19249",
+    "published": "2025-08-28T04:00:00.000Z",
+    "date": "2025-08-28",
     "source": "arXiv"
   },
   {
-    "title": "Bright city lights make birds around the world sing longer",
-    "title_es": "Bright city lights make birds around the world sing longer",
-    "url": "https://www.nature.com/articles/d41586-025-02726-0",
+    "title": "Caltech breakthrough makes quantum memory last 30 times longer",
+    "title_es": "Caltech breakthrough makes quantum memory last 30 times longer",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250827234137.htm",
+    "published": "2025-08-28T03:49:15.000Z",
+    "date": "2025-08-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How AI can build bridges between nations, if diplomats use it wisely",
+    "title_es": "How AI can build bridges between nations, if diplomats use it wisely",
+    "url": "https://phys.org/news/2025-08-ai-bridges-nations-diplomats-wisely.html",
+    "published": "2025-08-28T04:10:04.000Z",
+    "date": "2025-08-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
+    "title_es": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
+    "url": "https://www.nature.com/articles/s41586-025-09538-2",
     "published": "2025-08-27T00:00:00.000Z",
     "date": "2025-08-27",
     "source": "Nature"
   },
   {
-    "title": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
-    "title_es": "Scientists finally pinpoint Jupiter’s birth using “molten rock raindrops”",
-    "url": "https://www.sciencedaily.com/releases/2025/08/250826005233.htm",
-    "published": "2025-08-27T03:29:48.000Z",
+    "title": "Over Soroya Ridge & Onward!",
+    "title_es": "Over Soroya Ridge & Onward!",
+    "url": "https://science.nasa.gov/blog/over-soroya-ridge-onward/",
+    "published": "2025-08-27T21:33:42.000Z",
     "date": "2025-08-27",
-    "source": "ScienceDaily (Top)"
+    "source": "NASA (Top News)"
   },
   {
-    "title": "Sharks may be losing deadly teeth to ocean acidification",
-    "title_es": "Sharks may be losing deadly teeth to ocean acidification",
-    "url": "https://phys.org/news/2025-08-sharks-deadly-teeth-ocean-acidification.html",
-    "published": "2025-08-27T04:00:02.000Z",
+    "title": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
+    "title_es": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
+    "url": "https://www.sciencenews.org/article/antiviral-broad-spectrum-mice",
+    "published": "2025-08-27T18:00:00.000Z",
     "date": "2025-08-27",
-    "source": "Phys.org (Latest)"
+    "source": "Science News"
+  },
+  {
+    "title": "Birds of paradise have a newly discovered glow",
+    "title_es": "Birds of paradise have a newly discovered glow",
+    "url": "https://www.snexplores.org/article/birds-of-paradise-have-a-newly-discovered-glow",
+    "published": "2025-08-27T10:30:00.000Z",
+    "date": "2025-08-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
+    "title_es": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-08-27T14:00:00.000Z",
+    "date": "2025-08-27",
+    "source": "PLOS ONE"
   },
   {
     "title": "The CNIC at the European Cardiology Congress 2025",
@@ -40,44 +72,12 @@
     "source": "CNIC"
   },
   {
-    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
-    "title_es": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
-    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
-    "published": "2025-08-26T20:46:20.000Z",
-    "date": "2025-08-26",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
-    "title_es": "CERN and Pro Helvetia extend “Connect” collaboration and launch Connect Argentina residency",
-    "url": "https://home.cern/news/news/cern/cern-and-pro-helvetia-extend-connect-collaboration-and-launch-connect-argentina",
-    "published": "2025-08-26T09:15:28.000Z",
+    "title": "Students step up to the I.FAST innovation challenge",
+    "title_es": "Students step up to the I.FAST innovation challenge",
+    "url": "https://home.cern/news/news/knowledge-sharing/students-step-ifast-innovation-challenge",
+    "published": "2025-08-26T10:00:30.000Z",
     "date": "2025-08-26",
     "source": "CERN News"
-  },
-  {
-    "title": "Useful metals get unearthed in U.S. mines, then they’re tossed",
-    "title_es": "Useful metals get unearthed in U.S. mines, then they’re tossed",
-    "url": "https://www.sciencenews.org/article/useful-metals-tossed-us-mines",
-    "published": "2025-08-26T15:00:00.000Z",
-    "date": "2025-08-26",
-    "source": "Science News"
-  },
-  {
-    "title": "This astronomer searches for alien chemistry and tech",
-    "title_es": "This astronomer searches for alien chemistry and tech",
-    "url": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
-    "published": "2025-08-26T10:30:00.000Z",
-    "date": "2025-08-26",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
-    "title_es": "Comparison of the ABC/2 formula with computer-assisted volumetry of ischemic cerebellar stroke",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-26T14:00:00.000Z",
-    "date": "2025-08-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "Vivir la ciencia de excelencia en el CNIO antes de acabar la carrera",
