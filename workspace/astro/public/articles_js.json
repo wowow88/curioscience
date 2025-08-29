@@ -1,66 +1,74 @@
 [
   {
-    "title": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
-    "title_es": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
-    "url": "https://arxiv.org/abs/2508.19249",
-    "published": "2025-08-28T04:00:00.000Z",
-    "date": "2025-08-28",
+    "title": "A Hierarchical Signal Coordination and Control System Using a Hybrid Model-based and Reinforcement Learning Approach",
+    "title_es": "A Hierarchical Signal Coordination and Control System Using a Hybrid Model-based and Reinforcement Learning Approach",
+    "url": "https://arxiv.org/abs/2508.20102",
+    "published": "2025-08-29T04:00:00.000Z",
+    "date": "2025-08-29",
     "source": "arXiv"
   },
   {
-    "title": "Caltech breakthrough makes quantum memory last 30 times longer",
-    "title_es": "Caltech breakthrough makes quantum memory last 30 times longer",
-    "url": "https://www.sciencedaily.com/releases/2025/08/250827234137.htm",
-    "published": "2025-08-28T03:49:15.000Z",
+    "title": "Mars mania and the making of scientific authority",
+    "title_es": "Mars mania and the making of scientific authority",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea2456",
+    "published": "2025-08-28T06:00:02.000Z",
+    "date": "2025-08-28",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: Endophilin marks and controls a clathrin-independent endocytic pathway",
+    "title_es": "Author Correction: Endophilin marks and controls a clathrin-independent endocytic pathway",
+    "url": "https://www.nature.com/articles/s41586-025-09552-4",
+    "published": "2025-08-28T00:00:00.000Z",
+    "date": "2025-08-28",
+    "source": "Nature"
+  },
+  {
+    "title": "NASA Awards Spaceflight Operations, Systems Organization Contract",
+    "title_es": "NASA Awards Spaceflight Operations, Systems Organization Contract",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-spaceflight-operations-systems-organization-contract/",
+    "published": "2025-08-28T20:52:40.000Z",
+    "date": "2025-08-28",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Horses may have become rideable with the help of a genetic mutation",
+    "title_es": "Horses may have become rideable with the help of a genetic mutation",
+    "url": "https://www.sciencenews.org/article/tamed-horses-rideable-genetic-mutation",
+    "published": "2025-08-28T18:00:00.000Z",
+    "date": "2025-08-28",
+    "source": "Science News"
+  },
+  {
+    "title": "A century later, impacts of the Scopes ‘Monkey Trial’ still echo",
+    "title_es": "A century later, impacts of the Scopes ‘Monkey Trial’ still echo",
+    "url": "https://www.snexplores.org/article/a-century-later-impacts-of-the-scopes-monkey-trial-still-echo",
+    "published": "2025-08-28T10:30:00.000Z",
+    "date": "2025-08-28",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A tiny chip may have solved one of clean energy’s biggest problems",
+    "title_es": "A tiny chip may have solved one of clean energy’s biggest problems",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250828060040.htm",
+    "published": "2025-08-28T13:20:54.000Z",
     "date": "2025-08-28",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "How AI can build bridges between nations, if diplomats use it wisely",
-    "title_es": "How AI can build bridges between nations, if diplomats use it wisely",
-    "url": "https://phys.org/news/2025-08-ai-bridges-nations-diplomats-wisely.html",
-    "published": "2025-08-28T04:10:04.000Z",
+    "title": "Talking about sex isn't always easy for teachers in South Africa. Here's what they told us",
+    "title_es": "Talking about sex isn't always easy for teachers in South Africa. Here's what they told us",
+    "url": "https://phys.org/news/2025-08-sex-isnt-easy-teachers-south.html",
+    "published": "2025-08-28T21:20:02.000Z",
     "date": "2025-08-28",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
-    "title_es": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
-    "url": "https://www.nature.com/articles/s41586-025-09538-2",
-    "published": "2025-08-27T00:00:00.000Z",
-    "date": "2025-08-27",
-    "source": "Nature"
-  },
-  {
-    "title": "Over Soroya Ridge & Onward!",
-    "title_es": "Over Soroya Ridge & Onward!",
-    "url": "https://science.nasa.gov/blog/over-soroya-ridge-onward/",
-    "published": "2025-08-27T21:33:42.000Z",
-    "date": "2025-08-27",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
-    "title_es": "A new antiviral blocks 6 deadly viruses in mice but faces a long road ahead",
-    "url": "https://www.sciencenews.org/article/antiviral-broad-spectrum-mice",
-    "published": "2025-08-27T18:00:00.000Z",
-    "date": "2025-08-27",
-    "source": "Science News"
-  },
-  {
-    "title": "Birds of paradise have a newly discovered glow",
-    "title_es": "Birds of paradise have a newly discovered glow",
-    "url": "https://www.snexplores.org/article/birds-of-paradise-have-a-newly-discovered-glow",
-    "published": "2025-08-27T10:30:00.000Z",
-    "date": "2025-08-27",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
-    "title_es": "Editorial Note: Discussing blockchain applications in TED Talks: A fashion wave approach to understanding the blockchain phenomenon",
+    "title": "Correction: The role of supplier-induced demand on the occurrence of information overload in managerial reporting environments",
+    "title_es": "Correction: The role of supplier-induced demand on the occurrence of information overload in managerial reporting environments",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-27T14:00:00.000Z",
-    "date": "2025-08-27",
+    "published": "2025-08-28T14:00:00.000Z",
+    "date": "2025-08-28",
     "source": "PLOS ONE"
   },
   {
@@ -86,14 +94,6 @@
     "published": "2025-08-22T10:49:29.000Z",
     "date": "2025-08-22",
     "source": "CNIO"
-  },
-  {
-    "title": "Mutualism—here, there, and everywhere",
-    "title_es": "Mutualism—here, there, and everywhere",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz6497",
-    "published": "2025-08-21T06:00:16.000Z",
-    "date": "2025-08-21",
-    "source": "Science.org"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
