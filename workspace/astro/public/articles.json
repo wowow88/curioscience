@@ -1,11 +1,67 @@
 [
   {
+    "title": "Our solar system has a new interstellar visitor: Meet 3I/ATLAS",
+    "title_es": "Nuestro sistema solar tiene un nuevo visitante interestelar: conocer 3i/atlas",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250829235726.htm",
+    "date": "2025-08-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-08-30T00:00:00.000Z"
+  },
+  {
     "title": "A Hierarchical Signal Coordination and Control System Using a Hybrid Model-based and Reinforcement Learning Approach",
     "title_es": "A Hierarchical Signal Coordination and Control System Using a Hybrid Model-based and Reinforcement Learning Approach",
     "url": "https://arxiv.org/abs/2508.20102",
     "published": "2025-08-29T04:00:00.000Z",
     "date": "2025-08-29",
     "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Dual neuromodulatory dynamics underlie birdsong learning",
+    "title_es": "Corrección del autor: dinámica neuromoduladora dual subyacente al aprendizaje de pájaros",
+    "url": "https://www.nature.com/articles/s41586-025-09563-1",
+    "date": "2025-08-29",
+    "source": "Nature",
+    "published": "2025-08-29T00:00:00.000Z"
+  },
+  {
+    "title": "La científica tunecina Marwa Mahdouani investiga en el CNIO el cáncer colorrectal hereditario",
+    "title_es": "La científica tunecina Marwa Mahdouani investiga en el CNIO el cáncer colorrectal hereditario",
+    "url": "https://www.cnio.es/noticias/la-cientifica-tunecina-marwa-mahdouani-investiga-en-el-cnio-el-cancer-colorrectal-hereditario/",
+    "date": "2025-08-29",
+    "source": "CNIO",
+    "published": "2025-08-29T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Astronaut Megan McArthur Retires",
+    "title_es": "La astronauta de la NASA Megan McArthur se retira",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/",
+    "date": "2025-08-29",
+    "source": "NASA (Top News)",
+    "published": "2025-08-29T00:00:00.000Z"
+  },
+  {
+    "title": "A cold today helps keep the COVID away",
+    "title_es": "Un resfriado hoy ayuda a mantener alejado al Covid",
+    "url": "https://www.sciencenews.org/article/recent-cold-helps-keep-covid-away",
+    "date": "2025-08-29",
+    "source": "Science News",
+    "published": "2025-08-29T00:00:00.000Z"
+  },
+  {
+    "title": "A real-life vampire probably couldn’t survive on blood alone",
+    "title_es": "Un vampiro de la vida real probablemente no podría sobrevivir solo con la sangre",
+    "url": "https://www.snexplores.org/article/real-vampire-couldnt-survive-blood-alone",
+    "date": "2025-08-29",
+    "source": "Science News Explores",
+    "published": "2025-08-29T00:00:00.000Z"
+  },
+  {
+    "title": "Biochemists uncover new rules of mitochondrial protein import",
+    "title_es": "Los bioquímicos descubren nuevas reglas de importación de proteínas mitocondriales",
+    "url": "https://phys.org/news/2025-08-biochemists-uncover-mitochondrial-protein-import.html",
+    "date": "2025-08-29",
+    "source": "Phys.org (Latest)",
+    "published": "2025-08-29T00:00:00.000Z"
   },
   {
     "title": "Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models",
@@ -64,7 +120,7 @@
     "published": "2025-08-28T00:00:00.000Z"
   },
   {
-    "title": "Horses may have become rideable with the help of a genetic mutation",
+    "title": "Horses may have become rideable with the help of a genetic mutation",
     "title_es": "Los caballos pueden haberse vuelto a ser mayores con la ayuda de una mutación genética",
     "url": "https://www.sciencenews.org/article/tamed-horses-rideable-genetic-mutation",
     "date": "2025-08-28",
@@ -93,6 +149,14 @@
     "url": "https://phys.org/news/2025-08-sex-isnt-easy-teachers-south.html",
     "date": "2025-08-28",
     "source": "Phys.org (Latest)",
+    "published": "2025-08-28T00:00:00.000Z"
+  },
+  {
+    "title": "Towards new physics with bent crystals",
+    "title_es": "Hacia una nueva física con cristales doblados",
+    "url": "https://home.cern/news/news/experiments/towards-new-physics-bent-crystals",
+    "date": "2025-08-28",
+    "source": "CERN News",
     "published": "2025-08-28T00:00:00.000Z"
   },
   {
@@ -6720,8 +6784,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: The role of supplier-induced demand on the occurrence of information overload in managerial reporting environments",
-    "title_es": "Corrección: el papel de la demanda inducida por el proveedor sobre la aparición de sobrecarga de información en entornos de informes gerenciales",
+    "title": "Mg²⁺-modified corncob biochar and natural zeolite significantly enhanced simultaneous N and P recovery from livestock wastewater",
+    "title_es": "Corncob de Corncob modificado por Mg²⁺ y la zeolita natural mejoraron significativamente la recuperación de N y P de las aguas residuales de ganado",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
