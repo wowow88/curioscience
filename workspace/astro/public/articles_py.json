@@ -1,10 +1,31 @@
 [
   {
+    "title": "NASA’s x-ray telescope finds bizarre features in a cosmic hand",
+    "title_es": "El telescopio de rayos X de la NASA encuentra características extrañas en una mano cósmica",
+    "url": "https://www.sciencedaily.com/releases/2025/08/250831112518.htm",
+    "date": "2025-09-01",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Circle versus rectangle: Finding 'Earth 2.0' may be easier using a new telescope shape",
+    "title_es": "Círculo versus rectángulo: encontrar 'Earth 2.0' puede ser más fácil usando una nueva forma de telescopio",
+    "url": "https://phys.org/news/2025-08-circle-rectangle-earth-easier-telescope.html",
+    "date": "2025-09-01",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "NASA’s Webb Telescope just found 300 galaxies that defy explanation",
     "title_es": "El telescopio Webb de la NASA acaba de encontrar 300 galaxias que desafían la explicación",
     "url": "https://www.sciencedaily.com/releases/2025/08/250830001153.htm",
     "date": "2025-08-31",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "El Dr. Valentín Fuster pronuncia la Conferencia Inaugural de la World Heart Federation en el Congreso Europeo de Cardiología en Madrid",
+    "title_es": "El Dr. Valentín Fuster pronuncia la Conferencia Inaugural de la World Heart Federation en el Congreso Europeo de Cardiología en Madrid",
+    "url": "https://www.cnic.es/es/noticias/dr-valentin-fuster-pronuncia-conferencia-inaugural-world-heart-federation-congreso-europeo",
+    "date": "2025-08-31",
+    "source": "CNIC"
   },
   {
     "title": "Our solar system has a new interstellar visitor: Meet 3I/ATLAS",
@@ -76,6 +97,13 @@
     "url": "https://phys.org/news/2025-08-biochemists-uncover-mitochondrial-protein-import.html",
     "date": "2025-08-29",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning",
+    "title_es": "El demonio está en ambigüedad: revisión del reconocimiento de la situación con un solo aprendizaje positivo de múltiples etiquetas",
+    "url": "http://arxiv.org/abs/2508.21816v1",
+    "date": "2025-08-29",
+    "source": "arXiv"
   },
   {
     "title": "Caltech breakthrough makes quantum memory last 30 times longer",
