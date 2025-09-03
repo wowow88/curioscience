@@ -1,35 +1,67 @@
 [
   {
-    "title": "The next Ozempic: A 4-in-1 breakthrough for lasting weight loss",
-    "title_es": "The next Ozempic: A 4-in-1 breakthrough for lasting weight loss",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250901104645.htm",
-    "published": "2025-09-02T03:48:41.000Z",
-    "date": "2025-09-02",
+    "title": "Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models",
+    "title_es": "Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models",
+    "url": "https://arxiv.org/abs/2509.00083",
+    "published": "2025-09-03T04:00:00.000Z",
+    "date": "2025-09-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons",
+    "title_es": "Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons",
+    "url": "https://science.nasa.gov/missions/juno/juno-detected-the-final-missing-auroral-signature-from-jupiters-four-largest-moons/",
+    "published": "2025-09-03T00:56:53.000Z",
+    "date": "2025-09-03",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Warped planet nurseries rewrite the rules of how worlds are born",
+    "title_es": "Warped planet nurseries rewrite the rules of how worlds are born",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250902085152.htm",
+    "published": "2025-09-03T02:56:49.000Z",
+    "date": "2025-09-03",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'Greetings from 51 Pegasi b': How NASA made exoplanets into tourist destinations",
-    "title_es": "'Greetings from 51 Pegasi b': How NASA made exoplanets into tourist destinations",
-    "url": "https://phys.org/news/2025-08-pegasi-nasa-exoplanets-tourist-destinations.html",
-    "published": "2025-09-02T04:00:01.000Z",
-    "date": "2025-09-02",
+    "title": "Fossil fish sheds new light on extra teeth evolution to devour prey",
+    "title_es": "Fossil fish sheds new light on extra teeth evolution to devour prey",
+    "url": "https://phys.org/news/2025-09-fossil-fish-extra-teeth-evolution.html",
+    "published": "2025-09-03T04:00:01.000Z",
+    "date": "2025-09-03",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Who is afraid of quantum mechanics? Books in brief",
-    "title_es": "Who is afraid of quantum mechanics? Books in brief",
-    "url": "https://www.nature.com/articles/d41586-025-02755-9",
-    "published": "2025-09-01T00:00:00.000Z",
-    "date": "2025-09-01",
+    "title": "Liquid-crystal specs refocus with the push of a button",
+    "title_es": "Liquid-crystal specs refocus with the push of a button",
+    "url": "https://www.nature.com/articles/d41586-025-02786-2",
+    "published": "2025-09-02T00:00:00.000Z",
+    "date": "2025-09-02",
     "source": "Nature"
   },
   {
-    "title": "New study links chemical in plastics to fatal heart disease",
-    "title_es": "New study links chemical in plastics to fatal heart disease",
-    "url": "https://www.snexplores.org/article/plastic-chemical-heart-disease-dehp",
-    "published": "2025-09-01T10:30:00.000Z",
-    "date": "2025-09-01",
+    "title": "This lizard can tolerate extreme levels of lead",
+    "title_es": "This lizard can tolerate extreme levels of lead",
+    "url": "https://www.sciencenews.org/article/lizard-cuban-brown-anole-extreme-lead",
+    "published": "2025-09-02T15:00:00.000Z",
+    "date": "2025-09-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Watch out: Hail can get really big!",
+    "title_es": "Watch out: Hail can get really big!",
+    "url": "https://www.snexplores.org/article/how-hail-forms-weather",
+    "published": "2025-09-02T10:30:00.000Z",
+    "date": "2025-09-02",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Journal data-sharing policies and its impact in publications: A cross-sectional study protocol",
+    "title_es": "Journal data-sharing policies and its impact in publications: A cross-sectional study protocol",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-02T14:00:00.000Z",
+    "date": "2025-09-02",
+    "source": "PLOS ONE"
   },
   {
     "title": "El Dr. Valentín Fuster pronuncia la Conferencia Inaugural de la World Heart Federation en el Congreso Europeo de Cardiología en Madrid",
@@ -46,30 +78,6 @@
     "published": "2025-08-29T11:04:07.000Z",
     "date": "2025-08-29",
     "source": "CNIO"
-  },
-  {
-    "title": "NASA Astronaut Megan McArthur Retires",
-    "title_es": "NASA Astronaut Megan McArthur Retires",
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/",
-    "published": "2025-08-29T15:21:40.000Z",
-    "date": "2025-08-29",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "A cold today helps keep the COVID away",
-    "title_es": "A cold today helps keep the COVID away",
-    "url": "https://www.sciencenews.org/article/recent-cold-helps-keep-covid-away",
-    "published": "2025-08-29T15:00:00.000Z",
-    "date": "2025-08-29",
-    "source": "Science News"
-  },
-  {
-    "title": "Mg²⁺-modified corncob biochar and natural zeolite significantly enhanced simultaneous N and P recovery from livestock wastewater",
-    "title_es": "Mg²⁺-modified corncob biochar and natural zeolite significantly enhanced simultaneous N and P recovery from livestock wastewater",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-08-29T14:00:00.000Z",
-    "date": "2025-08-29",
-    "source": "PLOS ONE"
   },
   {
     "title": "Mars mania and the making of scientific authority",
