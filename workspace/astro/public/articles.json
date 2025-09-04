@@ -1,5 +1,13 @@
 [
   {
+    "title": "Use of Physicochemical Modification Methods for Producing Traditional and Nanomodified Polymeric Composites with Improved Operational Properties",
+    "title_es": "Use of Physicochemical Modification Methods for Producing Traditional and Nanomodified Polymeric Composites with Improved Operational Properties",
+    "url": "https://arxiv.org/abs/2509.02572",
+    "published": "2025-09-04T04:00:00.000Z",
+    "date": "2025-09-04",
+    "source": "arXiv"
+  },
+  {
     "title": "Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models",
     "title_es": "Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models",
     "url": "https://arxiv.org/abs/2509.00083",
@@ -27,6 +35,78 @@
     "title": "Fossil fish sheds new light on extra teeth evolution to devour prey",
     "title_es": "El pez fósil arroja nueva luz sobre la evolución de los dientes adicionales para devorar presas",
     "url": "https://phys.org/news/2025-09-fossil-fish-extra-teeth-evolution.html",
+    "date": "2025-09-03",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling? A Validation Study with Naturalistic Trajectories",
+    "title_es": "¿Puede el conjunto de datos de movimiento abierto Waymo admitir el modelado de comportamiento realista? Un estudio de validación con trayectorias naturalistas",
+    "url": "http://arxiv.org/abs/2509.03515v1",
+    "date": "2025-09-03",
+    "source": "arXiv",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Cas9 senses CRISPR RNA abundance to regulate CRISPR spacer acquisition",
+    "title_es": "CAS9 Senes La abundancia de ARN CRISPR para regular la adquisición de espaciadores CRISPR",
+    "url": "https://www.nature.com/articles/s41586-025-09577-9",
+    "date": "2025-09-03",
+    "source": "Nature",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "European Heart Journal: Genes linked to sudden cardiac death increase the risk of heart failure in patients with genetic dilated cardiomyopathy",
+    "title_es": "European Heart Journal: Genes linked to sudden cardiac death increase the risk of heart failure in patients with genetic dilated cardiomyopathy",
+    "url": "https://www.cnic.es/es/node/236226",
+    "date": "2025-09-03",
+    "source": "CNIC",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Thinning Arctic Sea Ice",
+    "title_es": "Adelgazamiento del hielo marino del Ártico",
+    "url": "https://www.nasa.gov/image-article/thinning-arctic-sea-ice/",
+    "date": "2025-09-03",
+    "source": "NASA (Top News)",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Accelerator Report: The accelerator complex, between precision repairs and future-facing studies",
+    "title_es": "Informe del acelerador: el complejo acelerador, entre reparaciones de precisión y estudios de orientación futura",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-accelerator-complex-between-precision-repairs-and-future",
+    "date": "2025-09-03",
+    "source": "CERN News",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Venice’s iconic winged lion statue originated in ancient China",
+    "title_es": "La icónica estatua del león alada de Venecia se originó en la antigua China",
+    "url": "https://www.sciencenews.org/article/venice-winged-lion-statue-ancient-china",
+    "date": "2025-09-03",
+    "source": "Science News",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Sleeping in — but not too much — may ease anxiety",
+    "title_es": "Dormir, pero no demasiado, puede aliviar la ansiedad",
+    "url": "https://www.snexplores.org/article/weekend-sleeping-in-teens-anxiety",
+    "date": "2025-09-03",
+    "source": "Science News Explores",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "The Sun’s hidden particle engines finally exposed",
+    "title_es": "Los motores de partículas ocultos del sol finalmente se expusieron",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250903075244.htm",
+    "date": "2025-09-03",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "How probation officers—criminal legal system's most diverse group—experience their roles",
+    "title_es": "Cómo los oficiales de libertad condicional, el grupo más diverso del sistema legal criminal, experiencia en sus roles",
+    "url": "https://phys.org/news/2025-09-probation-officers-criminal-legal-diverse.html",
     "date": "2025-09-03",
     "source": "Phys.org (Latest)",
     "published": "2025-09-03T00:00:00.000Z"
@@ -6952,8 +7032,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Journal data-sharing policies and its impact in publications: A cross-sectional study protocol",
-    "title_es": "Políticas de intercambio de datos de revista y su impacto en las publicaciones: un protocolo de estudio transversal",
+    "title": "Exploring the coupling dynamics between accessibility of tourist attractions and tourism demand in Anhui Province",
+    "title_es": "Explorando la dinámica de acoplamiento entre la accesibilidad de las atracciones turísticas y la demanda turística en la provincia de Anhui",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
