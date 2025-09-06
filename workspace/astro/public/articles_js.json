@@ -1,27 +1,59 @@
 [
   {
-    "title": "Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies",
-    "title_es": "Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies",
-    "url": "https://arxiv.org/abs/2509.03525",
-    "published": "2025-09-05T04:00:00.000Z",
+    "title": "Publisher Correction: In situ light-field imaging of octopus locomotion reveals simplified control",
+    "title_es": "Publisher Correction: In situ light-field imaging of octopus locomotion reveals simplified control",
+    "url": "https://www.nature.com/articles/s41586-025-09512-y",
+    "published": "2025-09-05T00:00:00.000Z",
     "date": "2025-09-05",
-    "source": "arXiv"
+    "source": "Nature"
   },
   {
-    "title": "Scientists watch Parkinson’s protein drill holes in brain cells",
-    "title_es": "Scientists watch Parkinson’s protein drill holes in brain cells",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250904103922.htm",
-    "published": "2025-09-05T01:16:59.000Z",
+    "title": "NASA Seeks Industry Input on Next Phase of Commercial Space Stations",
+    "title_es": "NASA Seeks Industry Input on Next Phase of Commercial Space Stations",
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-seeks-industry-input-on-next-phase-of-commercial-space-stations/",
+    "published": "2025-09-05T20:17:05.000Z",
+    "date": "2025-09-05",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Young pterosaurs probably died in violent Jurassic storms",
+    "title_es": "Young pterosaurs probably died in violent Jurassic storms",
+    "url": "https://www.sciencenews.org/article/young-pterosaurs-died-storms-jurassic",
+    "published": "2025-09-05T15:00:00.000Z",
+    "date": "2025-09-05",
+    "source": "Science News"
+  },
+  {
+    "title": "Here’s a spider whose barf is worse than its bite",
+    "title_es": "Here’s a spider whose barf is worse than its bite",
+    "url": "https://www.snexplores.org/article/spider-vomit-toxic-barf",
+    "published": "2025-09-05T10:30:00.000Z",
+    "date": "2025-09-05",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Ghost sharks grow teeth on their heads to mate",
+    "title_es": "Ghost sharks grow teeth on their heads to mate",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250905180732.htm",
+    "published": "2025-09-05T22:59:33.000Z",
     "date": "2025-09-05",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Gold quantum needles could sharpen imaging resolution and boost energy conversion",
-    "title_es": "Gold quantum needles could sharpen imaging resolution and boost energy conversion",
-    "url": "https://phys.org/news/2025-09-gold-quantum-needles-sharpen-imaging.html",
-    "published": "2025-09-05T04:00:02.000Z",
+    "title": "Asia will get a prime view of this weekend's total lunar eclipse",
+    "title_es": "Asia will get a prime view of this weekend's total lunar eclipse",
+    "url": "https://phys.org/news/2025-09-asia-prime-view-weekend-total.html",
+    "published": "2025-09-05T20:30:01.000Z",
     "date": "2025-09-05",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
+    "title_es": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-05T14:00:00.000Z",
+    "date": "2025-09-05",
+    "source": "PLOS ONE"
   },
   {
     "title": "The end of human exceptionalism",
@@ -32,52 +64,12 @@
     "source": "Science.org"
   },
   {
-    "title": "Will a child survive? Older siblings have a powerful influence",
-    "title_es": "Will a child survive? Older siblings have a powerful influence",
-    "url": "https://www.nature.com/articles/d41586-025-02836-9",
-    "published": "2025-09-04T00:00:00.000Z",
-    "date": "2025-09-04",
-    "source": "Nature"
-  },
-  {
     "title": "Dr Héctor Bueno presents the ESC consensus document on mental health and CVD",
     "title_es": "Dr Héctor Bueno presents the ESC consensus document on mental health and CVD",
     "url": "https://www.cnic.es/es/node/236338",
     "published": "2025-09-04T10:26:33.000Z",
     "date": "2025-09-04",
     "source": "CNIC"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’",
-    "title_es": "Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4641-4648-thinking-outside-and-inside-the-boxwork/",
-    "published": "2025-09-04T20:34:41.000Z",
-    "date": "2025-09-04",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "A sixth mass extinction? Not so fast, some scientists say",
-    "title_es": "A sixth mass extinction? Not so fast, some scientists say",
-    "url": "https://www.sciencenews.org/article/sixth-mass-extinction-scientists-debate",
-    "published": "2025-09-04T18:00:00.000Z",
-    "date": "2025-09-04",
-    "source": "Science News"
-  },
-  {
-    "title": "Get a sneak peek at the tech you may use in the future",
-    "title_es": "Get a sneak peek at the tech you may use in the future",
-    "url": "https://www.snexplores.org/article/future-lifestyle-tech-home-robots",
-    "published": "2025-09-04T10:30:00.000Z",
-    "date": "2025-09-04",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Benefits and challenges: Qualitative exploration of women’s experiences during the COVID-19 pandemic in Fiji",
-    "title_es": "Benefits and challenges: Qualitative exploration of women’s experiences during the COVID-19 pandemic in Fiji",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-04T14:00:00.000Z",
-    "date": "2025-09-04",
-    "source": "PLOS ONE"
   },
   {
     "title": "Accelerator Report: The accelerator complex, between precision repairs and future-facing studies",
