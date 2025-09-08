@@ -1,5 +1,26 @@
 [
   {
+    "title": "AI has no idea what it’s doing, but it’s threatening us all",
+    "title_es": "Ai no tiene idea de lo que está haciendo, pero nos está amenazando a todos",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250907172635.htm",
+    "date": "2025-09-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Jeni Morrison Continues a Family Legacy of Service at NASA",
+    "title_es": "Jeni Morrison continúa un legado familiar de servicio en la NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/",
+    "date": "2025-09-07",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Insurers have detailed data on your home's flood risk. So why don't you?",
+    "title_es": "Las aseguradoras tienen datos detallados sobre el riesgo de inundación de su hogar. Entonces, ¿por qué no?",
+    "url": "https://phys.org/news/2025-09-home-dont.html",
+    "date": "2025-09-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Strange new bacteria found in Amazon sand flies. Could it spread to humans?",
     "title_es": "Extrañas bacterias nuevas que se encuentran en las moscas de arena de Amazon. ¿Podría extenderse a los humanos?",
     "url": "https://www.sciencedaily.com/releases/2025/09/250906155049.htm",
@@ -83,6 +104,13 @@
     "url": "https://phys.org/news/2025-09-asia-prime-view-weekend-total.html",
     "date": "2025-09-05",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool",
+    "title_es": "WINT3R: Reconstrucción de transmisión basada en ventanas con piscina de tokens de cámara",
+    "url": "http://arxiv.org/abs/2509.05296v1",
+    "date": "2025-09-05",
+    "source": "arXiv"
   },
   {
     "title": "ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset",
