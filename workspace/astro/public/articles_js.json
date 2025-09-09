@@ -1,66 +1,74 @@
 [
   {
-    "title": "PRREACH: Probabilistic Risk Assessment Using Reachability for UAV Control",
-    "title_es": "PRREACH: Probabilistic Risk Assessment Using Reachability for UAV Control",
-    "url": "https://arxiv.org/abs/2509.04451",
-    "published": "2025-09-08T04:00:00.000Z",
-    "date": "2025-09-08",
+    "title": "Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression",
+    "title_es": "Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression",
+    "url": "https://arxiv.org/abs/2509.05298",
+    "published": "2025-09-09T04:00:00.000Z",
+    "date": "2025-09-09",
     "source": "arXiv"
   },
   {
-    "title": "AI has no idea what it’s doing, but it’s threatening us all",
-    "title_es": "AI has no idea what it’s doing, but it’s threatening us all",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250907172635.htm",
-    "published": "2025-09-08T01:23:41.000Z",
-    "date": "2025-09-08",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Jeni Morrison Continues a Family Legacy of Service at NASA",
-    "title_es": "Jeni Morrison Continues a Family Legacy of Service at NASA",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/",
-    "published": "2025-09-07T22:32:24.000Z",
-    "date": "2025-09-07",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Insurers have detailed data on your home's flood risk. So why don't you?",
-    "title_es": "Insurers have detailed data on your home's flood risk. So why don't you?",
-    "url": "https://phys.org/news/2025-09-home-dont.html",
-    "published": "2025-09-07T21:00:01.000Z",
-    "date": "2025-09-07",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Publisher Correction: In situ light-field imaging of octopus locomotion reveals simplified control",
-    "title_es": "Publisher Correction: In situ light-field imaging of octopus locomotion reveals simplified control",
-    "url": "https://www.nature.com/articles/s41586-025-09512-y",
-    "published": "2025-09-05T00:00:00.000Z",
-    "date": "2025-09-05",
+    "title": "These nations are wooing PhD students amid US funding uncertainties",
+    "title_es": "These nations are wooing PhD students amid US funding uncertainties",
+    "url": "https://www.nature.com/articles/d41586-025-02416-x",
+    "published": "2025-09-09T00:00:00.000Z",
+    "date": "2025-09-09",
     "source": "Nature"
   },
   {
-    "title": "Young pterosaurs probably died in violent Jurassic storms",
-    "title_es": "Young pterosaurs probably died in violent Jurassic storms",
-    "url": "https://www.sciencenews.org/article/young-pterosaurs-died-storms-jurassic",
-    "published": "2025-09-05T15:00:00.000Z",
-    "date": "2025-09-05",
+    "title": "Smog in the brain: Dirty air speeds Alzheimer’s decline",
+    "title_es": "Smog in the brain: Dirty air speeds Alzheimer’s decline",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250908175450.htm",
+    "published": "2025-09-09T03:04:00.000Z",
+    "date": "2025-09-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How evolution explains autism rates in humans",
+    "title_es": "How evolution explains autism rates in humans",
+    "url": "https://phys.org/news/2025-09-evolution-autism-humans.html",
+    "published": "2025-09-09T04:00:01.000Z",
+    "date": "2025-09-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "title_es": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "url": "https://www.cnio.es/noticias/los-ultimos-avances-en-la-investigacion-del-cancer-de-pancreas-en-un-congreso-organizado-por-investigadores-del-cnio-en-la-fundacion-ramon-areces/",
+    "published": "2025-09-08T12:55:57.000Z",
+    "date": "2025-09-08",
+    "source": "CNIO"
+  },
+  {
+    "title": "Perseverance Meets the Megabreccia",
+    "title_es": "Perseverance Meets the Megabreccia",
+    "url": "https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/",
+    "published": "2025-09-08T23:32:18.000Z",
+    "date": "2025-09-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This laser would shoot beams of neutrinos, not light",
+    "title_es": "This laser would shoot beams of neutrinos, not light",
+    "url": "https://www.sciencenews.org/article/laser-beam-neutrinos-light-subatomic",
+    "published": "2025-09-08T19:00:00.000Z",
+    "date": "2025-09-08",
     "source": "Science News"
   },
   {
-    "title": "Here’s a spider whose barf is worse than its bite",
-    "title_es": "Here’s a spider whose barf is worse than its bite",
-    "url": "https://www.snexplores.org/article/spider-vomit-toxic-barf",
-    "published": "2025-09-05T10:30:00.000Z",
-    "date": "2025-09-05",
+    "title": "Zap! Peeling off tape can spark chemical reactions in the air",
+    "title_es": "Zap! Peeling off tape can spark chemical reactions in the air",
+    "url": "https://www.snexplores.org/article/peeling-tape-sparks-chemical-reactions",
+    "published": "2025-09-08T10:30:00.000Z",
+    "date": "2025-09-08",
     "source": "Science News Explores"
   },
   {
-    "title": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
-    "title_es": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
+    "title": "Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest",
+    "title_es": "Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-05T14:00:00.000Z",
-    "date": "2025-09-05",
+    "published": "2025-09-08T14:00:00.000Z",
+    "date": "2025-09-08",
     "source": "PLOS ONE"
   },
   {
@@ -80,20 +88,12 @@
     "source": "CNIC"
   },
   {
-    "title": "Accelerator Report: The accelerator complex, between precision repairs and future-facing studies",
-    "title_es": "Accelerator Report: The accelerator complex, between precision repairs and future-facing studies",
-    "url": "https://home.cern/news/news/accelerators/accelerator-report-accelerator-complex-between-precision-repairs-and-future",
-    "published": "2025-09-03T09:49:37.000Z",
+    "title": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
+    "title_es": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
+    "url": "https://home.cern/news/news/cern/cern-launches-generation-higgs-its-new-cultural-season-cedric-klapisch-25-september",
+    "published": "2025-09-03T13:18:58.000Z",
     "date": "2025-09-03",
     "source": "CERN News"
-  },
-  {
-    "title": "La científica tunecina Marwa Mahdouani investiga en el CNIO el cáncer colorrectal hereditario",
-    "title_es": "La científica tunecina Marwa Mahdouani investiga en el CNIO el cáncer colorrectal hereditario",
-    "url": "https://www.cnio.es/noticias/la-cientifica-tunecina-marwa-mahdouani-investiga-en-el-cnio-el-cancer-colorrectal-hereditario/",
-    "published": "2025-08-29T11:04:07.000Z",
-    "date": "2025-08-29",
-    "source": "CNIO"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",

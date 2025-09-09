@@ -1,10 +1,74 @@
 [
   {
+    "title": "These nations are wooing PhD students amid US funding uncertainties",
+    "title_es": "Estas naciones están atrayendo a los estudiantes de doctorado en medio de las incertidumbres de financiación de EE. UU.",
+    "url": "https://www.nature.com/articles/d41586-025-02416-x",
+    "date": "2025-09-09",
+    "source": "Nature"
+  },
+  {
+    "title": "Smog in the brain: Dirty air speeds Alzheimer’s decline",
+    "title_es": "Smog en el cerebro: el aire sucio acelera el declive de Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250908175450.htm",
+    "date": "2025-09-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How evolution explains autism rates in humans",
+    "title_es": "Cómo la evolución explica las tasas de autismo en humanos",
+    "url": "https://phys.org/news/2025-09-evolution-autism-humans.html",
+    "date": "2025-09-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "AI has no idea what it’s doing, but it’s threatening us all",
     "title_es": "Ai no tiene idea de lo que está haciendo, pero nos está amenazando a todos",
     "url": "https://www.sciencedaily.com/releases/2025/09/250907172635.htm",
     "date": "2025-09-08",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest",
+    "title_es": "Perspectivas para la mejora silvicultural de la resistencia al fuego en los bosques de mesices del lado oeste del noroeste del Pacífico",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-09-08",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers",
+    "title_es": "H $ _ {2} $ OT: tokenizador jerárquico de reloj de arena para transformadores de pose de video eficientes",
+    "url": "http://arxiv.org/abs/2509.06956v1",
+    "date": "2025-09-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "title_es": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "url": "https://www.cnio.es/noticias/los-ultimos-avances-en-la-investigacion-del-cancer-de-pancreas-en-un-congreso-organizado-por-investigadores-del-cnio-en-la-fundacion-ramon-areces/",
+    "date": "2025-09-08",
+    "source": "CNIO"
+  },
+  {
+    "title": "Perseverance Meets the Megabreccia",
+    "title_es": "La perseverancia se encuentra con la megabreccia",
+    "url": "https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/",
+    "date": "2025-09-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This laser would shoot beams of neutrinos, not light",
+    "title_es": "Este láser dispararía rayos de neutrinos, no luz",
+    "url": "https://www.sciencenews.org/article/laser-beam-neutrinos-light-subatomic",
+    "date": "2025-09-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Zap! Peeling off tape can spark chemical reactions in the air",
+    "title_es": "¡Borrar! Pelear la cinta puede provocar reacciones químicas en el aire",
+    "url": "https://www.snexplores.org/article/peeling-tape-sparks-chemical-reactions",
+    "date": "2025-09-08",
+    "source": "Science News Explores"
   },
   {
     "title": "Jeni Morrison Continues a Family Legacy of Service at NASA",
@@ -47,14 +111,6 @@
     "url": "https://phys.org/news/2025-09-gold-quantum-needles-sharpen-imaging.html",
     "date": "2025-09-05",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
-    "title_es": "Optimización del rendimiento del motor diesel y las emisiones con mezclas de biodiesel Mahua utilizando la metodología Taguchi",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-09-05",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Publisher Correction: In situ light-field imaging of octopus locomotion reveals simplified control",
@@ -244,6 +300,13 @@
     "url": "https://phys.org/news/2025-09-probation-officers-criminal-legal-diverse.html",
     "date": "2025-09-03",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
+    "title_es": "CERN lanza Generation Higgs, su nueva temporada cultural, con Cédric Klapisch el 25 de septiembre",
+    "url": "https://home.cern/news/news/cern/cern-launches-generation-higgs-its-new-cultural-season-cedric-klapisch-25-september",
+    "date": "2025-09-03",
+    "source": "CERN News"
   },
   {
     "title": "The next Ozempic: A 4-in-1 breakthrough for lasting weight loss",

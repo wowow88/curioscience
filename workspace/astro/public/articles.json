@@ -1,5 +1,37 @@
 [
   {
+    "title": "Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression",
+    "title_es": "Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression",
+    "url": "https://arxiv.org/abs/2509.05298",
+    "published": "2025-09-09T04:00:00.000Z",
+    "date": "2025-09-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "These nations are wooing PhD students amid US funding uncertainties",
+    "title_es": "Estas naciones están atrayendo a los estudiantes de doctorado en medio de las incertidumbres de financiación de EE. UU.",
+    "url": "https://www.nature.com/articles/d41586-025-02416-x",
+    "date": "2025-09-09",
+    "source": "Nature",
+    "published": "2025-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "Smog in the brain: Dirty air speeds Alzheimer’s decline",
+    "title_es": "Smog en el cerebro: el aire sucio acelera el declive de Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250908175450.htm",
+    "date": "2025-09-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "How evolution explains autism rates in humans",
+    "title_es": "Cómo la evolución explica las tasas de autismo en humanos",
+    "url": "https://phys.org/news/2025-09-evolution-autism-humans.html",
+    "date": "2025-09-09",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-09T00:00:00.000Z"
+  },
+  {
     "title": "PRREACH: Probabilistic Risk Assessment Using Reachability for UAV Control",
     "title_es": "PRREACH: Probabilistic Risk Assessment Using Reachability for UAV Control",
     "url": "https://arxiv.org/abs/2509.04451",
@@ -13,6 +45,46 @@
     "url": "https://www.sciencedaily.com/releases/2025/09/250907172635.htm",
     "date": "2025-09-08",
     "source": "ScienceDaily (Top)",
+    "published": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers",
+    "title_es": "H $ _ {2} $ OT: tokenizador jerárquico de reloj de arena para transformadores de pose de video eficientes",
+    "url": "http://arxiv.org/abs/2509.06956v1",
+    "date": "2025-09-08",
+    "source": "arXiv",
+    "published": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "title": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "title_es": "Los últimos avances en la investigación del cáncer de páncreas, en un congreso organizado por investigadores del CNIO en la Fundación Ramón Areces",
+    "url": "https://www.cnio.es/noticias/los-ultimos-avances-en-la-investigacion-del-cancer-de-pancreas-en-un-congreso-organizado-por-investigadores-del-cnio-en-la-fundacion-ramon-areces/",
+    "date": "2025-09-08",
+    "source": "CNIO",
+    "published": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "title": "Perseverance Meets the Megabreccia",
+    "title_es": "La perseverancia se encuentra con la megabreccia",
+    "url": "https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/",
+    "date": "2025-09-08",
+    "source": "NASA (Top News)",
+    "published": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "title": "This laser would shoot beams of neutrinos, not light",
+    "title_es": "Este láser dispararía rayos de neutrinos, no luz",
+    "url": "https://www.sciencenews.org/article/laser-beam-neutrinos-light-subatomic",
+    "date": "2025-09-08",
+    "source": "Science News",
+    "published": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "title": "Zap! Peeling off tape can spark chemical reactions in the air",
+    "title_es": "¡Borrar! Pelear la cinta puede provocar reacciones químicas en el aire",
+    "url": "https://www.snexplores.org/article/peeling-tape-sparks-chemical-reactions",
+    "date": "2025-09-08",
+    "source": "Science News Explores",
     "published": "2025-09-08T00:00:00.000Z"
   },
   {
@@ -301,6 +373,14 @@
     "url": "https://phys.org/news/2025-09-probation-officers-criminal-legal-diverse.html",
     "date": "2025-09-03",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
+    "title_es": "CERN lanza Generation Higgs, su nueva temporada cultural, con Cédric Klapisch el 25 de septiembre",
+    "url": "https://home.cern/news/news/cern/cern-launches-generation-higgs-its-new-cultural-season-cedric-klapisch-25-september",
+    "date": "2025-09-03",
+    "source": "CERN News",
     "published": "2025-09-03T00:00:00.000Z"
   },
   {
@@ -7224,8 +7304,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Optimizing diesel engine performance and emissions with mahua biodiesel blends using taguchi methodology",
-    "title_es": "Optimización del rendimiento del motor diesel y las emisiones con mezclas de biodiesel Mahua utilizando la metodología Taguchi",
+    "title": "Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest",
+    "title_es": "Perspectivas para la mejora silvicultural de la resistencia al fuego en los bosques de mesices del lado oeste del noroeste del Pacífico",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
