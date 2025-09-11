@@ -1,5 +1,37 @@
 [
   {
+    "title": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
+    "title_es": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
+    "url": "https://arxiv.org/abs/2509.07993",
+    "published": "2025-09-11T04:00:00.000Z",
+    "date": "2025-09-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Crystallized dino eggs provide a peek into the tumultuous Late Cretaceous",
+    "title_es": "Los huevos de dinosaurios cristalizados proporcionan un vistazo al tumultuoso Cretácico tardío",
+    "url": "https://www.sciencenews.org/article/dino-eggs-peek-late-cretaceous",
+    "date": "2025-09-11",
+    "source": "Science News",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Surprising gut discovery reveals a hidden trigger of diabetes and liver disease",
+    "title_es": "El sorprendente descubrimiento intestinal revela un desencadenante oculto de diabetes y enfermedad hepática",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250910000309.htm",
+    "date": "2025-09-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Newly dated 85-million-year-old dinosaur eggs could improve understanding of Cretaceous climate",
+    "title_es": "Los huevos de dinosaurio de 85 millones de años podrían mejorar la comprensión del clima cretáceo",
+    "url": "https://phys.org/news/2025-09-newly-dated-million-year-dinosaur.html",
+    "date": "2025-09-11",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
     "title": "Prototype: A Keyword Spotting-Based Intelligent Audio SoC for IoT",
     "title_es": "Prototype: A Keyword Spotting-Based Intelligent Audio SoC for IoT",
     "url": "https://arxiv.org/abs/2509.06964",
@@ -13,6 +45,62 @@
     "url": "https://phys.org/news/2025-09-corporate-capture-strategies-environmental-efforts.html",
     "date": "2025-09-10",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "title_es": "Una encuesta sobre el aprendizaje de refuerzo para grandes modelos de razonamiento",
+    "url": "http://arxiv.org/abs/2509.08827v1",
+    "date": "2025-09-10",
+    "source": "arXiv",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: Recovery of learning and memory is associated with chromatin remodelling",
+    "title_es": "Expresión editorial de preocupación: la recuperación del aprendizaje y la memoria se asocia con la remodelación de la cromatina",
+    "url": "https://www.nature.com/articles/s41586-025-09590-y",
+    "date": "2025-09-10",
+    "source": "Nature",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "European Heart Journal: CNIC scientists report the first use of CRISPR activation to treat a cardiac disease in mice",
+    "title_es": "European Heart Journal: CNIC scientists report the first use of CRISPR activation to treat a cardiac disease in mice",
+    "url": "https://www.cnic.es/es/node/236428",
+    "date": "2025-09-10",
+    "source": "CNIC",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "Boletín Amigos/as del CNIO 52",
+    "title_es": "Boletín Amigos/as del CNIO 52",
+    "url": "https://www.cnio.es/noticias/boletin-amigos/boletin-amigos-as-del-cnio-52/",
+    "date": "2025-09-10",
+    "source": "CNIO",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-congreso-internacional-solar-polarization-workshop-rinde-homenaje-al-investigador-del-iac-javier\" hreflang=\"es\">El congreso internacional Solar Polarization Workshop rinde homenaje al investigador del IAC Javier Trujillo Bueno en su 30º aniversario</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-congreso-internacional-solar-polarization-workshop-rinde-homenaje-al-investigador-del-iac-javier\" hreflang=\"es\">El congreso internacional Solar Polarization Workshop rinde homenaje al investigador del IAC Javier Trujillo Bueno en su 30º aniversario</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-congreso-internacional-solar-polarization-workshop-rinde-homenaje-al-investigador-del-iac-javier",
+    "date": "2025-09-10",
+    "source": "IAC",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course",
+    "title_es": "La NASA utiliza montañas de Colorado para el curso simulado de Luna de Artemis Moon",
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/",
+    "date": "2025-09-10",
+    "source": "NASA (Top News)",
+    "published": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "What dogs see on TV depends on their temperament",
+    "title_es": "Lo que los perros ven en la televisión depende de su temperamento",
+    "url": "https://www.snexplores.org/article/dogs-watching-tv-temperament",
+    "date": "2025-09-10",
+    "source": "Science News Explores",
     "published": "2025-09-10T00:00:00.000Z"
   },
   {
@@ -7376,8 +7464,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A volumetric modulated arc therapy-based dynamic conformal arc technique with limited monitor units (VMAT liMU ) to reduce multileaf collimator interplay effects: A computational phantom study for stage I non-small-cell lung cancer",
-    "title_es": "Una técnica de arco dinámico de arco de arco modulado volumétrico con unidades de monitor limitadas (VMAT <Sub> Limu </sub>) para reducir",
+    "title": "Time-restricted feeding leads to sex- and organ-specific responses in the murine digestive system",
+    "title_es": "La alimentación restringida en el tiempo conduce a respuestas específicas de sexo y órganos en el sistema digestivo murino",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
