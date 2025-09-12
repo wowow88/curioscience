@@ -1,5 +1,13 @@
 [
   {
+    "title": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
+    "title_es": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
+    "url": "https://arxiv.org/abs/2509.08829",
+    "published": "2025-09-12T04:00:00.000Z",
+    "date": "2025-09-12",
+    "source": "arXiv"
+  },
+  {
     "title": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
     "title_es": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
     "url": "https://arxiv.org/abs/2509.07993",
@@ -27,6 +35,86 @@
     "title": "Newly dated 85-million-year-old dinosaur eggs could improve understanding of Cretaceous climate",
     "title_es": "Los huevos de dinosaurio de 85 millones de años podrían mejorar la comprensión del clima cretáceo",
     "url": "https://phys.org/news/2025-09-newly-dated-million-year-dinosaur.html",
+    "date": "2025-09-11",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms",
+    "title_es": "Butterflyquant: cuantificación LLM ultra-bit a través de transformaciones de mariposas ortogonales aprendibles",
+    "url": "http://arxiv.org/abs/2509.09679v1",
+    "date": "2025-09-11",
+    "source": "arXiv",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Restoring trust in science",
+    "title_es": "Restaurando la confianza en la ciencia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz8298",
+    "date": "2025-09-11",
+    "source": "Science.org",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: A broad-spectrum lasso peptide antibiotic targeting the bacterial ribosome",
+    "title_es": "Corrección del autor: un antibiótico de péptido lásso de amplio espectro dirigido al ribosoma bacteriano",
+    "url": "https://www.nature.com/articles/s41586-025-09597-5",
+    "date": "2025-09-11",
+    "source": "Nature",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Firmado el preacuerdo del primer convenio colectivo del que se beneficiarán los más de 400 profesionales del CNIC",
+    "title_es": "Firmado el preacuerdo del primer convenio colectivo del que se beneficiarán los más de 400 profesionales del CNIC",
+    "url": "https://www.cnic.es/es/noticias/firmado-preacuerdo-primer-convenio-colectivo-que-se-beneficiaran-mas-400-profesionales-cnic",
+    "date": "2025-09-11",
+    "source": "CNIC",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-lehendakari-imanol-pradales-y-el-presidente-de-canarias-fernando-clavijo-visitan-el-observatorio-del\" hreflang=\"es\">El Lehendakari, Imanol Pradales, y el presidente de Canarias, Fernando Clavijo, visitan el Observatorio del Teide, del Instituto de Astrofísica de Canarias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-lehendakari-imanol-pradales-y-el-presidente-de-canarias-fernando-clavijo-visitan-el-observatorio-del\" hreflang=\"es\">El Lehendakari, Imanol Pradales, y el presidente de Canarias, Fernando Clavijo, visitan el Observatorio del Teide, del Instituto de Astrofísica de Canarias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-lehendakari-imanol-pradales-y-el-presidente-de-canarias-fernando-clavijo-visitan-el-observatorio-del",
+    "date": "2025-09-11",
+    "source": "IAC",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Armstrong to Host Partnership Day Oct. 21-22",
+    "title_es": "NASA Armstrong organizará el Día de la Asociación del 21 al 22 de octubre",
+    "url": "https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/",
+    "date": "2025-09-11",
+    "source": "NASA (Top News)",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Future Martians will need to breathe. It won’t be easy",
+    "title_es": "Los futuros marcianos deberán respirar. No será fácil",
+    "url": "https://www.sciencenews.org/article/future-martians-breathe-atmosphere-mars",
+    "date": "2025-09-11",
+    "source": "Science News",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Quashing the spotted lanternfly may require help from other species",
+    "title_es": "Retirar la mosca manchada puede requerir ayuda de otras especies",
+    "url": "https://www.snexplores.org/article/spotted-lanternfly-invasive-control",
+    "date": "2025-09-11",
+    "source": "Science News Explores",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Your morning coffee could secretly be weakening antibiotics",
+    "title_es": "Tu café de la mañana podría debilitar en secreto los antibióticos",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250911080113.htm",
+    "date": "2025-09-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Independent palm oil farmers excluded from sustainable market, finds study",
+    "title_es": "Los agricultores independientes de aceite de palma excluidos del mercado sostenible, encuentra estudio",
+    "url": "https://phys.org/news/2025-09-independent-palm-oil-farmers-excluded.html",
     "date": "2025-09-11",
     "source": "Phys.org (Latest)",
     "published": "2025-09-11T00:00:00.000Z"
@@ -7464,8 +7552,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Time-restricted feeding leads to sex- and organ-specific responses in the murine digestive system",
-    "title_es": "La alimentación restringida en el tiempo conduce a respuestas específicas de sexo y órganos en el sistema digestivo murino",
+    "title": "Correction: Knowledge and perception of mHealth medication adherence applications among pharmacists and pharmacy students in Jazan, Kingdom of Saudi Arabia",
+    "title_es": "Corrección: Conocimiento y percepción de las aplicaciones de adherencia a la medicación MHealth entre farmacéuticos y estudiantes de farmacia en Jazan, Reino de Arabia Saudita",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

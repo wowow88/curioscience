@@ -1,51 +1,83 @@
 [
   {
-    "title": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
-    "title_es": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
-    "url": "https://arxiv.org/abs/2509.07993",
-    "published": "2025-09-11T04:00:00.000Z",
-    "date": "2025-09-11",
+    "title": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
+    "title_es": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
+    "url": "https://arxiv.org/abs/2509.08829",
+    "published": "2025-09-12T04:00:00.000Z",
+    "date": "2025-09-12",
     "source": "arXiv"
   },
   {
-    "title": "Crystallized dino eggs provide a peek into the tumultuous Late Cretaceous",
-    "title_es": "Crystallized dino eggs provide a peek into the tumultuous Late Cretaceous",
-    "url": "https://www.sciencenews.org/article/dino-eggs-peek-late-cretaceous",
-    "published": "2025-09-11T04:00:00.000Z",
+    "title": "Restoring trust in science",
+    "title_es": "Restoring trust in science",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz8298",
+    "published": "2025-09-11T06:00:15.000Z",
+    "date": "2025-09-11",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: A broad-spectrum lasso peptide antibiotic targeting the bacterial ribosome",
+    "title_es": "Author Correction: A broad-spectrum lasso peptide antibiotic targeting the bacterial ribosome",
+    "url": "https://www.nature.com/articles/s41586-025-09597-5",
+    "published": "2025-09-11T00:00:00.000Z",
+    "date": "2025-09-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Firmado el preacuerdo del primer convenio colectivo del que se beneficiarán los más de 400 profesionales del CNIC",
+    "title_es": "Firmado el preacuerdo del primer convenio colectivo del que se beneficiarán los más de 400 profesionales del CNIC",
+    "url": "https://www.cnic.es/es/noticias/firmado-preacuerdo-primer-convenio-colectivo-que-se-beneficiaran-mas-400-profesionales-cnic",
+    "published": "2025-09-11T09:33:32.000Z",
+    "date": "2025-09-11",
+    "source": "CNIC"
+  },
+  {
+    "title": "NASA Armstrong to Host Partnership Day Oct. 21-22",
+    "title_es": "NASA Armstrong to Host Partnership Day Oct. 21-22",
+    "url": "https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/",
+    "published": "2025-09-11T21:09:53.000Z",
+    "date": "2025-09-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Future Martians will need to breathe. It won’t be easy",
+    "title_es": "Future Martians will need to breathe. It won’t be easy",
+    "url": "https://www.sciencenews.org/article/future-martians-breathe-atmosphere-mars",
+    "published": "2025-09-11T17:00:00.000Z",
     "date": "2025-09-11",
     "source": "Science News"
   },
   {
-    "title": "Surprising gut discovery reveals a hidden trigger of diabetes and liver disease",
-    "title_es": "Surprising gut discovery reveals a hidden trigger of diabetes and liver disease",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250910000309.htm",
-    "published": "2025-09-11T01:41:54.000Z",
+    "title": "Quashing the spotted lanternfly may require help from other species",
+    "title_es": "Quashing the spotted lanternfly may require help from other species",
+    "url": "https://www.snexplores.org/article/spotted-lanternfly-invasive-control",
+    "published": "2025-09-11T10:30:00.000Z",
+    "date": "2025-09-11",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Your morning coffee could secretly be weakening antibiotics",
+    "title_es": "Your morning coffee could secretly be weakening antibiotics",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250911080113.htm",
+    "published": "2025-09-11T12:12:32.000Z",
     "date": "2025-09-11",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Newly dated 85-million-year-old dinosaur eggs could improve understanding of Cretaceous climate",
-    "title_es": "Newly dated 85-million-year-old dinosaur eggs could improve understanding of Cretaceous climate",
-    "url": "https://phys.org/news/2025-09-newly-dated-million-year-dinosaur.html",
-    "published": "2025-09-11T04:00:01.000Z",
+    "title": "Independent palm oil farmers excluded from sustainable market, finds study",
+    "title_es": "Independent palm oil farmers excluded from sustainable market, finds study",
+    "url": "https://phys.org/news/2025-09-independent-palm-oil-farmers-excluded.html",
+    "published": "2025-09-11T20:53:04.000Z",
     "date": "2025-09-11",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Editorial Expression of Concern: Recovery of learning and memory is associated with chromatin remodelling",
-    "title_es": "Editorial Expression of Concern: Recovery of learning and memory is associated with chromatin remodelling",
-    "url": "https://www.nature.com/articles/s41586-025-09590-y",
-    "published": "2025-09-10T00:00:00.000Z",
-    "date": "2025-09-10",
-    "source": "Nature"
-  },
-  {
-    "title": "European Heart Journal: CNIC scientists report the first use of CRISPR activation to treat a cardiac disease in mice",
-    "title_es": "European Heart Journal: CNIC scientists report the first use of CRISPR activation to treat a cardiac disease in mice",
-    "url": "https://www.cnic.es/es/node/236428",
-    "published": "2025-09-10T10:43:50.000Z",
-    "date": "2025-09-10",
-    "source": "CNIC"
+    "title": "Correction: Knowledge and perception of mHealth medication adherence applications among pharmacists and pharmacy students in Jazan, Kingdom of Saudi Arabia",
+    "title_es": "Correction: Knowledge and perception of mHealth medication adherence applications among pharmacists and pharmacy students in Jazan, Kingdom of Saudi Arabia",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-11T14:00:00.000Z",
+    "date": "2025-09-11",
+    "source": "PLOS ONE"
   },
   {
     "title": "Boletín Amigos/as del CNIO 52",
@@ -54,38 +86,6 @@
     "published": "2025-09-10T08:32:53.000Z",
     "date": "2025-09-10",
     "source": "CNIO"
-  },
-  {
-    "title": "NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course",
-    "title_es": "NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course",
-    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/",
-    "published": "2025-09-10T20:25:15.000Z",
-    "date": "2025-09-10",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "What dogs see on TV depends on their temperament",
-    "title_es": "What dogs see on TV depends on their temperament",
-    "url": "https://www.snexplores.org/article/dogs-watching-tv-temperament",
-    "published": "2025-09-10T10:30:00.000Z",
-    "date": "2025-09-10",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Time-restricted feeding leads to sex- and organ-specific responses in the murine digestive system",
-    "title_es": "Time-restricted feeding leads to sex- and organ-specific responses in the murine digestive system",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-10T14:00:00.000Z",
-    "date": "2025-09-10",
-    "source": "PLOS ONE"
-  },
-  {
-    "title": "The end of human exceptionalism",
-    "title_es": "The end of human exceptionalism",
-    "url": "https://www.science.org/doi/abs/10.1126/science.ady5473",
-    "published": "2025-09-04T06:00:03.000Z",
-    "date": "2025-09-04",
-    "source": "Science.org"
   },
   {
     "title": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
