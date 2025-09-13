@@ -1,11 +1,67 @@
 [
   {
+    "title": "Hidden gut molecule found to wreck kidneys",
+    "title_es": "Molécula intestinal oculta que se encuentra a los riñones",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250912195133.htm",
+    "date": "2025-09-13",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-13T00:00:00.000Z"
+  },
+  {
     "title": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
     "title_es": "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?",
     "url": "https://arxiv.org/abs/2509.08829",
     "published": "2025-09-12T04:00:00.000Z",
     "date": "2025-09-12",
     "source": "arXiv"
+  },
+  {
+    "title": "How to help refugees thrive: have local families host them",
+    "title_es": "Cómo ayudar a los refugiados a prosperar: las familias locales los organicen",
+    "url": "https://www.nature.com/articles/d41586-025-02873-4",
+    "date": "2025-09-12",
+    "source": "Nature",
+    "published": "2025-09-12T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-colabora-un-ano-mas-con-el-festival-hispanoamericano-de-escritores-de-la-palma\" hreflang=\"es\">El IAC colabora un año más con el Festival Hispanoamericano de Escritores de La Palma</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-colabora-un-ano-mas-con-el-festival-hispanoamericano-de-escritores-de-la-palma\" hreflang=\"es\">El IAC colabora un año más con el Festival Hispanoamericano de Escritores de La Palma</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-colabora-un-ano-mas-con-el-festival-hispanoamericano-de-escritores-de-la-palma",
+    "date": "2025-09-12",
+    "source": "IAC",
+    "published": "2025-09-12T00:00:00.000Z"
+  },
+  {
+    "title": "Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My",
+    "title_es": "Blog de curiosidad, sols 4649-4654: crestas, huecos y nódulos, oh mi",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/",
+    "date": "2025-09-12",
+    "source": "NASA (Top News)",
+    "published": "2025-09-12T00:00:00.000Z"
+  },
+  {
+    "title": "Recycled glass could help fend off coastal erosion",
+    "title_es": "El vidrio reciclado podría ayudar a defenderse de la erosión costera",
+    "url": "https://www.sciencenews.org/article/recycled-glass-fend-off-coastal-erosion",
+    "date": "2025-09-12",
+    "source": "Science News",
+    "published": "2025-09-12T00:00:00.000Z"
+  },
+  {
+    "title": "Forget droplets. Here’s how sweat really forms",
+    "title_es": "Olvídese de las gotas. Así es como se forma realmente el sudor",
+    "url": "https://www.snexplores.org/article/how-sweat-forms-skin",
+    "date": "2025-09-12",
+    "source": "Science News Explores",
+    "published": "2025-09-12T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change",
+    "title_es": "El ADN antiguo revela una familia de Mastodon profundamente compleja y migraciones repetidas impulsadas por el cambio climático",
+    "url": "https://phys.org/news/2025-09-ancient-dna-reveals-deeply-complex.html",
+    "date": "2025-09-12",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-12T00:00:00.000Z"
   },
   {
     "title": "Revisiting Deepfake Detection: Chronological Continual Learning and the Limits of Generalization",
@@ -7552,8 +7608,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Knowledge and perception of mHealth medication adherence applications among pharmacists and pharmacy students in Jazan, Kingdom of Saudi Arabia",
-    "title_es": "Corrección: Conocimiento y percepción de las aplicaciones de adherencia a la medicación MHealth entre farmacéuticos y estudiantes de farmacia en Jazan, Reino de Arabia Saudita",
+    "title": "Comparative outcomes of laparoscopic lateral suspension, sacrocolpopexy, and transvaginal mesh for advanced apical prolapse: A retrospective cohort study",
+    "title_es": "Resultados comparativos de la suspensión lateral laparoscópica, sacrocolpopexia y malla transvaginal para prolapso apical avanzado: un estudio de cohorte retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
