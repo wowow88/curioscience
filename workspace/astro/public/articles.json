@@ -1,5 +1,21 @@
 [
   {
+    "title": "Energy-Aware Data Center Management: A Sustainable Approach to Reducing Carbon Footprint",
+    "title_es": "Energy-Aware Data Center Management: A Sustainable Approach to Reducing Carbon Footprint",
+    "url": "https://arxiv.org/abs/2509.10462",
+    "published": "2025-09-16T04:00:00.000Z",
+    "date": "2025-09-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mapping the universe, faster and with the same accuracy",
+    "title_es": "Mapeo del universo, más rápido y con la misma precisión",
+    "url": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
+    "date": "2025-09-16",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-16T00:00:00.000Z"
+  },
+  {
     "title": "DB3 Team's Solution For Meta KDD Cup' 25",
     "title_es": "DB3 Team's Solution For Meta KDD Cup' 25",
     "url": "https://arxiv.org/abs/2509.09681",
@@ -21,6 +37,70 @@
     "url": "https://phys.org/news/2025-09-reconciliation-oil-sands-health.html",
     "date": "2025-09-15",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Dynamic Relational Priming Improves Transformer in Multivariate Time Series",
+    "title_es": "El cebado relacional dinámico mejora el transformador en series de tiempo multivariadas",
+    "url": "http://arxiv.org/abs/2509.12196v1",
+    "date": "2025-09-15",
+    "source": "arXiv",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Experimental determination of partial charges with electron diffraction",
+    "title_es": "Corrección del editor: determinación experimental de cargas parciales con difracción de electrones",
+    "url": "https://www.nature.com/articles/s41586-025-09608-5",
+    "date": "2025-09-15",
+    "source": "Nature",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC recibe una donación para investigar el síndrome de progeria de Hutchinson-Gilford",
+    "title_es": "El CNIC recibe una donación para investigar el síndrome de progeria de Hutchinson-Gilford",
+    "url": "https://www.cnic.es/es/noticias/cnic-recibe-donacion-para-investigar-sindrome-progeria-hutchinson-gilford-0",
+    "date": "2025-09-15",
+    "source": "CNIC",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Un algoritmo que predice si un cáncer de páncreas se ha extendido a otros órganos podrá ayudar a evitar cirugías innecesarias",
+    "title_es": "Un algoritmo que predice si un cáncer de páncreas se ha extendido a otros órganos podrá ayudar a evitar cirugías innecesarias",
+    "url": "https://www.cnio.es/noticias/un-algoritmo-que-predice-si-un-cancer-de-pancreas-se-ha-extendido-a-otros-organos-podra-ayudar-a-evitar-cirugias-innecesarias/",
+    "date": "2025-09-15",
+    "source": "CNIO",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Sets Launch Coverage for Space Weather Missions",
+    "title_es": "NASA establece cobertura de lanzamiento para misiones meteorológicas espaciales",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/",
+    "date": "2025-09-15",
+    "source": "NASA (Top News)",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "The oldest known mummies have been found — in Southeast Asia",
+    "title_es": "Se han encontrado las momias más antiguas conocidas: en el sudeste asiático",
+    "url": "https://www.sciencenews.org/article/oldest-mummies-found-southeast-asia",
+    "date": "2025-09-15",
+    "source": "Science News",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Quantitative and Qualitative",
+    "title_es": "Los científicos dicen: cuantitativo y cualitativo",
+    "url": "https://www.snexplores.org/article/scientists-say-quantitative-and-qualitative-definition-pronunciation",
+    "date": "2025-09-15",
+    "source": "Science News Explores",
+    "published": "2025-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists are closing in on Leonardo da Vinci’s DNA",
+    "title_es": "Los científicos se están acercando al ADN de Leonardo da Vinci",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
+    "date": "2025-09-15",
+    "source": "ScienceDaily (Top)",
     "published": "2025-09-15T00:00:00.000Z"
   },
   {
@@ -7656,8 +7736,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Comparative outcomes of laparoscopic lateral suspension, sacrocolpopexy, and transvaginal mesh for advanced apical prolapse: A retrospective cohort study",
-    "title_es": "Resultados comparativos de la suspensión lateral laparoscópica, sacrocolpopexia y malla transvaginal para prolapso apical avanzado: un estudio de cohorte retrospectivo",
+    "title": "Enhancing security in instant messaging systems with a hybrid SM2, SM3, and SM4 encryption framework",
+    "title_es": "Mejora de la seguridad en sistemas de mensajería instantánea con un marco de cifrado Hybrid SM2, SM3 y SM4",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
