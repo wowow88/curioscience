@@ -1,27 +1,75 @@
 [
   {
-    "title": "Energy-Aware Data Center Management: A Sustainable Approach to Reducing Carbon Footprint",
-    "title_es": "Energy-Aware Data Center Management: A Sustainable Approach to Reducing Carbon Footprint",
-    "url": "https://arxiv.org/abs/2509.10462",
-    "published": "2025-09-16T04:00:00.000Z",
-    "date": "2025-09-16",
+    "title": "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving",
+    "title_es": "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving",
+    "url": "https://arxiv.org/abs/2509.12207",
+    "published": "2025-09-17T04:00:00.000Z",
+    "date": "2025-09-17",
     "source": "arXiv"
   },
   {
-    "title": "Mapping the universe, faster and with the same accuracy",
-    "title_es": "Mapping the universe, faster and with the same accuracy",
-    "url": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
-    "published": "2025-09-16T04:00:01.000Z",
+    "title": "Ozempic, Wegovy and Mounjaro makes food taste sweeter and saltier, and that may quiet cravings",
+    "title_es": "Ozempic, Wegovy and Mounjaro makes food taste sweeter and saltier, and that may quiet cravings",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250915202848.htm",
+    "published": "2025-09-17T00:48:50.000Z",
+    "date": "2025-09-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Delta-type glutamate receptors are ligand-gated ion channels",
+    "title_es": "Delta-type glutamate receptors are ligand-gated ion channels",
+    "url": "https://www.nature.com/articles/s41586-025-09610-x",
+    "published": "2025-09-16T00:00:00.000Z",
+    "date": "2025-09-16",
+    "source": "Nature"
+  },
+  {
+    "title": "NASA, Partners Push Forward with Remotely Piloted Airspace Integration",
+    "title_es": "NASA, Partners Push Forward with Remotely Piloted Airspace Integration",
+    "url": "https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/",
+    "published": "2025-09-16T18:43:39.000Z",
+    "date": "2025-09-16",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "CERN and fusion energy, advancing together",
+    "title_es": "CERN and fusion energy, advancing together",
+    "url": "https://home.cern/news/news/knowledge-sharing/cern-and-fusion-energy-advancing-together",
+    "published": "2025-09-16T10:11:00.000Z",
+    "date": "2025-09-16",
+    "source": "CERN News"
+  },
+  {
+    "title": "COVID-19 is still a threat, but getting a vaccine is harder for many people",
+    "title_es": "COVID-19 is still a threat, but getting a vaccine is harder for many people",
+    "url": "https://www.sciencenews.org/article/covid-19-coronavirus-vaccine-access",
+    "published": "2025-09-16T18:00:00.000Z",
+    "date": "2025-09-16",
+    "source": "Science News"
+  },
+  {
+    "title": "Looking for aliens from the far side of the moon [COMIC]",
+    "title_es": "Looking for aliens from the far side of the moon [COMIC]",
+    "url": "https://www.snexplores.org/article/telescopes-far-side-moon-comic",
+    "published": "2025-09-16T10:30:00.000Z",
+    "date": "2025-09-16",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "When smoke signals danger: How Australian lizards evolved to escape fire",
+    "title_es": "When smoke signals danger: How Australian lizards evolved to escape fire",
+    "url": "https://phys.org/news/2025-09-danger-australian-lizards-evolved.html",
+    "published": "2025-09-16T23:10:01.000Z",
     "date": "2025-09-16",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Publisher Correction: Experimental determination of partial charges with electron diffraction",
-    "title_es": "Publisher Correction: Experimental determination of partial charges with electron diffraction",
-    "url": "https://www.nature.com/articles/s41586-025-09608-5",
-    "published": "2025-09-15T00:00:00.000Z",
-    "date": "2025-09-15",
-    "source": "Nature"
+    "title": "Development of a prostate cancer biochemical recurrence risk signature using machine learning and motor protein-related genes",
+    "title_es": "Development of a prostate cancer biochemical recurrence risk signature using machine learning and motor protein-related genes",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-16T14:00:00.000Z",
+    "date": "2025-09-16",
+    "source": "PLOS ONE"
   },
   {
     "title": "El CNIC recibe una donación para investigar el síndrome de progeria de Hutchinson-Gilford",
@@ -40,60 +88,12 @@
     "source": "CNIO"
   },
   {
-    "title": "NASA Sets Launch Coverage for Space Weather Missions",
-    "title_es": "NASA Sets Launch Coverage for Space Weather Missions",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/",
-    "published": "2025-09-15T21:29:53.000Z",
-    "date": "2025-09-15",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "The oldest known mummies have been found — in Southeast Asia",
-    "title_es": "The oldest known mummies have been found — in Southeast Asia",
-    "url": "https://www.sciencenews.org/article/oldest-mummies-found-southeast-asia",
-    "published": "2025-09-15T19:00:00.000Z",
-    "date": "2025-09-15",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists Say: Quantitative and Qualitative",
-    "title_es": "Scientists Say: Quantitative and Qualitative",
-    "url": "https://www.snexplores.org/article/scientists-say-quantitative-and-qualitative-definition-pronunciation",
-    "published": "2025-09-15T10:30:00.000Z",
-    "date": "2025-09-15",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Scientists are closing in on Leonardo da Vinci’s DNA",
-    "title_es": "Scientists are closing in on Leonardo da Vinci’s DNA",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
-    "published": "2025-09-15T13:07:55.000Z",
-    "date": "2025-09-15",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Enhancing security in instant messaging systems with a hybrid SM2, SM3, and SM4 encryption framework",
-    "title_es": "Enhancing security in instant messaging systems with a hybrid SM2, SM3, and SM4 encryption framework",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-15T14:00:00.000Z",
-    "date": "2025-09-15",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "Restoring trust in science",
     "title_es": "Restoring trust in science",
     "url": "https://www.science.org/doi/abs/10.1126/science.adz8298",
     "published": "2025-09-11T06:00:15.000Z",
     "date": "2025-09-11",
     "source": "Science.org"
-  },
-  {
-    "title": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
-    "title_es": "CERN launches Generation Higgs, its new cultural season, with Cédric Klapisch on 25 September",
-    "url": "https://home.cern/news/news/cern/cern-launches-generation-higgs-its-new-cultural-season-cedric-klapisch-25-september",
-    "published": "2025-09-03T13:18:58.000Z",
-    "date": "2025-09-03",
-    "source": "CERN News"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",

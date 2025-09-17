@@ -1,8 +1,79 @@
 [
   {
+    "title": "Ozempic, Wegovy and Mounjaro makes food taste sweeter and saltier, and that may quiet cravings",
+    "title_es": "Ozempic, Wogovy y Mounjaro hacen que la comida tenga un sabor más dulce y salado, y eso puede tener antojos tranquilos",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250915202848.htm",
+    "date": "2025-09-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Mapping the universe, faster and with the same accuracy",
     "title_es": "Mapeo del universo, más rápido y con la misma precisión",
     "url": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
+    "date": "2025-09-16",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Development of a prostate cancer biochemical recurrence risk signature using machine learning and motor protein-related genes",
+    "title_es": "Desarrollo de una firma de riesgo de recurrencia bioquímica de cáncer de próstata utilizando el aprendizaje automático y los genes relacionados con las proteínas motoras",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-09-16",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Shapes of Cognition for Computational Cognitive Modeling",
+    "title_es": "Formas de cognición para modelado cognitivo computacional",
+    "url": "http://arxiv.org/abs/2509.13288v1",
+    "date": "2025-09-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Delta-type glutamate receptors are ligand-gated ion channels",
+    "title_es": "Los receptores de glutamato de tipo Delta son canales de iones activados por ligando",
+    "url": "https://www.nature.com/articles/s41586-025-09610-x",
+    "date": "2025-09-16",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-escuela-avanzada-sobre-simulaciones-astrofisicas-en-durham-organizada-por-el\" hreflang=\"es\">El IAC participa en una escuela avanzada sobre simulaciones astrofísicas en Durham organizada por el proyecto ExGal-Twin</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-escuela-avanzada-sobre-simulaciones-astrofisicas-en-durham-organizada-por-el\" hreflang=\"es\">El IAC participa en una escuela avanzada sobre simulaciones astrofísicas en Durham organizada por el proyecto ExGal-Twin</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-escuela-avanzada-sobre-simulaciones-astrofisicas-en-durham-organizada-por-el",
+    "date": "2025-09-16",
+    "source": "IAC"
+  },
+  {
+    "title": "NASA, Partners Push Forward with Remotely Piloted Airspace Integration",
+    "title_es": "La NASA, los socios avanzan con integración de espacio aéreo a pilotos remotos",
+    "url": "https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/",
+    "date": "2025-09-16",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "CERN and fusion energy, advancing together",
+    "title_es": "Energía de CERN y Fusión, avanzando juntos",
+    "url": "https://home.cern/news/news/knowledge-sharing/cern-and-fusion-energy-advancing-together",
+    "date": "2025-09-16",
+    "source": "CERN News"
+  },
+  {
+    "title": "COVID-19 is still a threat, but getting a vaccine is harder for many people",
+    "title_es": "Covid-19 sigue siendo una amenaza, pero obtener una vacuna es más difícil para muchas personas",
+    "url": "https://www.sciencenews.org/article/covid-19-coronavirus-vaccine-access",
+    "date": "2025-09-16",
+    "source": "Science News"
+  },
+  {
+    "title": "Looking for aliens from the far side of the moon [COMIC]",
+    "title_es": "Buscando extraterrestres desde el lado lejano de la luna [cómic]",
+    "url": "https://www.snexplores.org/article/telescopes-far-side-moon-comic",
+    "date": "2025-09-16",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "When smoke signals danger: How Australian lizards evolved to escape fire",
+    "title_es": "Cuando el humo señala peligro: cómo evolucionaron los lagartos australianos para escapar del fuego",
+    "url": "https://phys.org/news/2025-09-danger-australian-lizards-evolved.html",
     "date": "2025-09-16",
     "source": "Phys.org (Latest)"
   },
@@ -19,14 +90,6 @@
     "url": "https://phys.org/news/2025-09-reconciliation-oil-sands-health.html",
     "date": "2025-09-15",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Enhancing security in instant messaging systems with a hybrid SM2, SM3, and SM4 encryption framework",
-    "title_es": "Mejora de la seguridad en sistemas de mensajería instantánea con un marco de cifrado Hybrid SM2, SM3 y SM4",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-09-15",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Dynamic Relational Priming Improves Transformer in Multivariate Time Series",
