@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI Behavioral Science",
+    "title_es": "AI Behavioral Science",
+    "url": "https://arxiv.org/abs/2509.13323",
+    "published": "2025-09-18T04:00:00.000Z",
+    "date": "2025-09-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
+    "title_es": "¿Adiós colonoscopia? La prueba de heces simple detecta el 90% de los cánceres colorrectales",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
+    "date": "2025-09-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Oil rig study reveals vital role of tiny hoverflies",
+    "title_es": "El estudio de la plataforma petrolera revela un papel vital de pequeñas moscas",
+    "url": "https://phys.org/news/2025-09-oil-rig-reveals-vital-role.html",
+    "date": "2025-09-18",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
     "title": "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving",
     "title_es": "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving",
     "url": "https://arxiv.org/abs/2509.12207",
@@ -13,6 +37,62 @@
     "url": "https://www.sciencedaily.com/releases/2025/09/250915202848.htm",
     "date": "2025-09-17",
     "source": "ScienceDaily (Top)",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Apertus: Democratizing Open and Compliant LLMs for Global Language Environments",
+    "title_es": "Apertus: Democratizando LLM abiertos y cumplidos para entornos de lenguaje global",
+    "url": "http://arxiv.org/abs/2509.14233v1",
+    "date": "2025-09-17",
+    "source": "arXiv",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "A plant-forward menu is linked to lower diabetes risk",
+    "title_es": "Un menú de planta se relaciona con un riesgo de diabetes inferior",
+    "url": "https://www.nature.com/articles/d41586-025-02992-y",
+    "date": "2025-09-17",
+    "source": "Nature",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC to host CardioTox 25, the leading international congress on cardiovascular health in cancer patients",
+    "title_es": "CNIC to host CardioTox 25, the leading international congress on cardiovascular health in cancer patients",
+    "url": "https://www.cnic.es/es/node/236571",
+    "date": "2025-09-17",
+    "source": "CNIC",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/doctorandos-del-iac-abordan-la-arqueologia-galactica-y-la-investigacion-de-otros-mundos-en-el-museo-de\" hreflang=\"es\">Doctorandos del IAC abordan la Arqueología galáctica y la investigación de ‘otros mundos’ en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/doctorandos-del-iac-abordan-la-arqueologia-galactica-y-la-investigacion-de-otros-mundos-en-el-museo-de\" hreflang=\"es\">Doctorandos del IAC abordan la Arqueología galáctica y la investigación de ‘otros mundos’ en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/doctorandos-del-iac-abordan-la-arqueologia-galactica-y-la-investigacion-de-otros-mundos-en-el-museo-de",
+    "date": "2025-09-17",
+    "source": "IAC",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Artemis II Moon Rocket Ready to Fly Crew",
+    "title_es": "NASA Artemis II Rocket de luna listo para volar",
+    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/",
+    "date": "2025-09-17",
+    "source": "NASA (Top News)",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Cancer patients froze reproductive tissue as kids. Now they’re coming back for it",
+    "title_es": "Los pacientes con cáncer congelan el tejido reproductivo cuando eran niños. Ahora regresan por ello",
+    "url": "https://www.sciencenews.org/article/childhood-cancer-patients-fertility",
+    "date": "2025-09-17",
+    "source": "Science News",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "This ‘megaflash’ is now the longest lightning bolt on record",
+    "title_es": "Este \"megaflash\" es ahora el rayo más largo registrado",
+    "url": "https://www.snexplores.org/article/megaflash-longest-lightning-bolt-record",
+    "date": "2025-09-17",
+    "source": "Science News Explores",
     "published": "2025-09-17T00:00:00.000Z"
   },
   {
@@ -7816,8 +7896,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Development of a prostate cancer biochemical recurrence risk signature using machine learning and motor protein-related genes",
-    "title_es": "Desarrollo de una firma de riesgo de recurrencia bioquímica de cáncer de próstata utilizando el aprendizaje automático y los genes relacionados con las proteínas motoras",
+    "title": "The relationship between agility and vertical jump performance in male handball players: A cross-sectional analysis on the role of developmental characteristics",
+    "title_es": "La relación entre la agilidad y el rendimiento de salto vertical en jugadores de balonmano masculino: un análisis transversal sobre el papel de las características del desarrollo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
