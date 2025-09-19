@@ -1,5 +1,29 @@
 [
   {
+    "title": "Tokenization Strategies for Low-Resource Agglutinative Languages in Word2Vec: Case Study on Turkish and Finnish",
+    "title_es": "Tokenization Strategies for Low-Resource Agglutinative Languages in Word2Vec: Case Study on Turkish and Finnish",
+    "url": "https://arxiv.org/abs/2509.14238",
+    "published": "2025-09-19T04:00:00.000Z",
+    "date": "2025-09-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
+    "title_es": "Los científicos acaban de encontrar las huellas dactilares cósmicas ocultas de la materia oscura",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
+    "date": "2025-09-19",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "title": "Chemists create light-switchable magnets that remain active for hours",
+    "title_es": "Los químicos crean imanes de luz que permanecen activos durante horas",
+    "url": "https://phys.org/news/2025-09-chemists-switchable-magnets-hours.html",
+    "date": "2025-09-19",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-19T00:00:00.000Z"
+  },
+  {
     "title": "AI Behavioral Science",
     "title_es": "AI Behavioral Science",
     "url": "https://arxiv.org/abs/2509.13323",
@@ -21,6 +45,70 @@
     "url": "https://phys.org/news/2025-09-oil-rig-reveals-vital-role.html",
     "date": "2025-09-18",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Generalizable Geometric Image Caption Synthesis",
+    "title_es": "Síntesis de subtítulos de imágenes geométricas generalizables",
+    "url": "http://arxiv.org/abs/2509.15217v1",
+    "date": "2025-09-18",
+    "source": "arXiv",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Fall Books 2025",
+    "title_es": "Libros de otoño 2025",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb4192",
+    "date": "2025-09-18",
+    "source": "Science.org",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Global warming amplifies wildfire health burden and reshapes inequality",
+    "title_es": "El calentamiento global amplifica la carga de la salud de los incendios forestales y la desigualdad",
+    "url": "https://www.nature.com/articles/s41586-025-09612-9",
+    "date": "2025-09-18",
+    "source": "Nature",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Nuevos resultados explican por qué una mutación en un gen implicado en cáncer produce fibrosis pulmonar",
+    "title_es": "Nuevos resultados explican por qué una mutación en un gen implicado en cáncer produce fibrosis pulmonar",
+    "url": "https://www.cnio.es/noticias/nuevos-resultados-explican-por-que-una-mutacion-en-un-gen-implicado-en-cancer-produce-fibrosis-pulmonar/",
+    "date": "2025-09-18",
+    "source": "CNIO",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II",
+    "title_es": "Desde las supercomputadoras hasta los túneles de viento: el camino de la NASA a Artemis II",
+    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/",
+    "date": "2025-09-18",
+    "source": "NASA (Top News)",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Shape-shifting collisions probe secrets of early Universe",
+    "title_es": "Las colisiones que cambian de forma sondean secretos del universo temprano",
+    "url": "https://home.cern/news/news/physics/shape-shifting-collisions-probe-secrets-early-universe",
+    "date": "2025-09-18",
+    "source": "CERN News",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "A handheld ‘bone printer’ shows promise in animal tests",
+    "title_es": "Una \"impresora ósea\" de la mano se muestra prometedora en las pruebas de animales",
+    "url": "https://www.sciencenews.org/article/handheld-bone-printer",
+    "date": "2025-09-18",
+    "source": "Science News",
+    "published": "2025-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "How to make a pitched ball curve to your will",
+    "title_es": "Cómo hacer una curva de pelota lanzada para tu testamento",
+    "url": "https://www.snexplores.org/article/pitch-physics-curve-baseball-softball-cricket",
+    "date": "2025-09-18",
+    "source": "Science News Explores",
     "published": "2025-09-18T00:00:00.000Z"
   },
   {
@@ -93,6 +181,14 @@
     "url": "https://www.snexplores.org/article/megaflash-longest-lightning-bolt-record",
     "date": "2025-09-17",
     "source": "Science News Explores",
+    "published": "2025-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/observaciones-del-grantecan-confirman-que-el-asteroide-de-la-mision-hayabusa2-es-mas-pequeno-y-rapido\" hreflang=\"es\">Observaciones del Grantecan confirman que el asteroide de la misión Hayabusa2 es más pequeño y rápido de lo esperado</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/observaciones-del-grantecan-confirman-que-el-asteroide-de-la-mision-hayabusa2-es-mas-pequeno-y-rapido\" hreflang=\"es\">Observaciones del Grantecan confirman que el asteroide de la misión Hayabusa2 es más pequeño y rápido de lo esperado</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/observaciones-del-grantecan-confirman-que-el-asteroide-de-la-mision-hayabusa2-es-mas-pequeno-y-rapido",
+    "date": "2025-09-17",
+    "source": "IAC",
     "published": "2025-09-17T00:00:00.000Z"
   },
   {
@@ -7896,8 +7992,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "The relationship between agility and vertical jump performance in male handball players: A cross-sectional analysis on the role of developmental characteristics",
-    "title_es": "La relación entre la agilidad y el rendimiento de salto vertical en jugadores de balonmano masculino: un análisis transversal sobre el papel de las características del desarrollo",
+    "title": "β-sitosterol alleviated HFD-induced atherosclerosis by regulating the MAPK/Nrf2/NLRP3 pathway in ApoE −/− mice",
+    "title_es": "El β-sitosterol alivió la aterosclerosis inducida por HFD regulando la vía MAPK/NRF2/NLRP3 en ratones ApoE <up>-/-</up>",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

@@ -1,35 +1,91 @@
 [
   {
-    "title": "AI Behavioral Science",
-    "title_es": "AI Behavioral Science",
-    "url": "https://arxiv.org/abs/2509.13323",
-    "published": "2025-09-18T04:00:00.000Z",
-    "date": "2025-09-18",
+    "title": "Tokenization Strategies for Low-Resource Agglutinative Languages in Word2Vec: Case Study on Turkish and Finnish",
+    "title_es": "Tokenization Strategies for Low-Resource Agglutinative Languages in Word2Vec: Case Study on Turkish and Finnish",
+    "url": "https://arxiv.org/abs/2509.14238",
+    "published": "2025-09-19T04:00:00.000Z",
+    "date": "2025-09-19",
     "source": "arXiv"
   },
   {
-    "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
-    "title_es": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
-    "published": "2025-09-18T01:50:20.000Z",
-    "date": "2025-09-18",
+    "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
+    "title_es": "Scientists just found the hidden cosmic fingerprints of dark matter",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
+    "published": "2025-09-19T04:10:48.000Z",
+    "date": "2025-09-19",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Oil rig study reveals vital role of tiny hoverflies",
-    "title_es": "Oil rig study reveals vital role of tiny hoverflies",
-    "url": "https://phys.org/news/2025-09-oil-rig-reveals-vital-role.html",
-    "published": "2025-09-18T04:10:04.000Z",
-    "date": "2025-09-18",
+    "title": "Chemists create light-switchable magnets that remain active for hours",
+    "title_es": "Chemists create light-switchable magnets that remain active for hours",
+    "url": "https://phys.org/news/2025-09-chemists-switchable-magnets-hours.html",
+    "published": "2025-09-19T04:30:01.000Z",
+    "date": "2025-09-19",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "A plant-forward menu is linked to lower diabetes risk",
-    "title_es": "A plant-forward menu is linked to lower diabetes risk",
-    "url": "https://www.nature.com/articles/d41586-025-02992-y",
-    "published": "2025-09-17T00:00:00.000Z",
-    "date": "2025-09-17",
+    "title": "Fall Books 2025",
+    "title_es": "Fall Books 2025",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb4192",
+    "published": "2025-09-18T06:00:04.000Z",
+    "date": "2025-09-18",
+    "source": "Science.org"
+  },
+  {
+    "title": "Global warming amplifies wildfire health burden and reshapes inequality",
+    "title_es": "Global warming amplifies wildfire health burden and reshapes inequality",
+    "url": "https://www.nature.com/articles/s41586-025-09612-9",
+    "published": "2025-09-18T00:00:00.000Z",
+    "date": "2025-09-18",
     "source": "Nature"
+  },
+  {
+    "title": "Nuevos resultados explican por qué una mutación en un gen implicado en cáncer produce fibrosis pulmonar",
+    "title_es": "Nuevos resultados explican por qué una mutación en un gen implicado en cáncer produce fibrosis pulmonar",
+    "url": "https://www.cnio.es/noticias/nuevos-resultados-explican-por-que-una-mutacion-en-un-gen-implicado-en-cancer-produce-fibrosis-pulmonar/",
+    "published": "2025-09-18T09:33:25.000Z",
+    "date": "2025-09-18",
+    "source": "CNIO"
+  },
+  {
+    "title": "From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II",
+    "title_es": "From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II",
+    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/",
+    "published": "2025-09-18T20:41:17.000Z",
+    "date": "2025-09-18",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Shape-shifting collisions probe secrets of early Universe",
+    "title_es": "Shape-shifting collisions probe secrets of early Universe",
+    "url": "https://home.cern/news/news/physics/shape-shifting-collisions-probe-secrets-early-universe",
+    "published": "2025-09-18T09:23:50.000Z",
+    "date": "2025-09-18",
+    "source": "CERN News"
+  },
+  {
+    "title": "A handheld ‘bone printer’ shows promise in animal tests",
+    "title_es": "A handheld ‘bone printer’ shows promise in animal tests",
+    "url": "https://www.sciencenews.org/article/handheld-bone-printer",
+    "published": "2025-09-18T17:00:00.000Z",
+    "date": "2025-09-18",
+    "source": "Science News"
+  },
+  {
+    "title": "How to make a pitched ball curve to your will",
+    "title_es": "How to make a pitched ball curve to your will",
+    "url": "https://www.snexplores.org/article/pitch-physics-curve-baseball-softball-cricket",
+    "published": "2025-09-18T10:30:00.000Z",
+    "date": "2025-09-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "β-sitosterol alleviated HFD-induced atherosclerosis by regulating the MAPK/Nrf2/NLRP3 pathway in ApoE −/− mice",
+    "title_es": "β-sitosterol alleviated HFD-induced atherosclerosis by regulating the MAPK/Nrf2/NLRP3 pathway in ApoE −/− mice",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-18T14:00:00.000Z",
+    "date": "2025-09-18",
+    "source": "PLOS ONE"
   },
   {
     "title": "CNIC to host CardioTox 25, the leading international congress on cardiovascular health in cancer patients",
@@ -38,62 +94,6 @@
     "published": "2025-09-17T06:47:51.000Z",
     "date": "2025-09-17",
     "source": "CNIC"
-  },
-  {
-    "title": "NASA Artemis II Moon Rocket Ready to Fly Crew",
-    "title_es": "NASA Artemis II Moon Rocket Ready to Fly Crew",
-    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/",
-    "published": "2025-09-17T20:37:00.000Z",
-    "date": "2025-09-17",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Cancer patients froze reproductive tissue as kids. Now they’re coming back for it",
-    "title_es": "Cancer patients froze reproductive tissue as kids. Now they’re coming back for it",
-    "url": "https://www.sciencenews.org/article/childhood-cancer-patients-fertility",
-    "published": "2025-09-17T17:00:00.000Z",
-    "date": "2025-09-17",
-    "source": "Science News"
-  },
-  {
-    "title": "This ‘megaflash’ is now the longest lightning bolt on record",
-    "title_es": "This ‘megaflash’ is now the longest lightning bolt on record",
-    "url": "https://www.snexplores.org/article/megaflash-longest-lightning-bolt-record",
-    "published": "2025-09-17T10:30:00.000Z",
-    "date": "2025-09-17",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "The relationship between agility and vertical jump performance in male handball players: A cross-sectional analysis on the role of developmental characteristics",
-    "title_es": "The relationship between agility and vertical jump performance in male handball players: A cross-sectional analysis on the role of developmental characteristics",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-17T14:00:00.000Z",
-    "date": "2025-09-17",
-    "source": "PLOS ONE"
-  },
-  {
-    "title": "CERN and fusion energy, advancing together",
-    "title_es": "CERN and fusion energy, advancing together",
-    "url": "https://home.cern/news/news/knowledge-sharing/cern-and-fusion-energy-advancing-together",
-    "published": "2025-09-16T10:11:00.000Z",
-    "date": "2025-09-16",
-    "source": "CERN News"
-  },
-  {
-    "title": "Un algoritmo que predice si un cáncer de páncreas se ha extendido a otros órganos podrá ayudar a evitar cirugías innecesarias",
-    "title_es": "Un algoritmo que predice si un cáncer de páncreas se ha extendido a otros órganos podrá ayudar a evitar cirugías innecesarias",
-    "url": "https://www.cnio.es/noticias/un-algoritmo-que-predice-si-un-cancer-de-pancreas-se-ha-extendido-a-otros-organos-podra-ayudar-a-evitar-cirugias-innecesarias/",
-    "published": "2025-09-15T10:32:09.000Z",
-    "date": "2025-09-15",
-    "source": "CNIO"
-  },
-  {
-    "title": "Restoring trust in science",
-    "title_es": "Restoring trust in science",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz8298",
-    "published": "2025-09-11T06:00:15.000Z",
-    "date": "2025-09-11",
-    "source": "Science.org"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
