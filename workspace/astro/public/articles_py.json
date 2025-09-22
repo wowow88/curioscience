@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ordinary ice found to have shocking electrical powers",
+    "title_es": "Se descubre que el hielo ordinario tiene poderes eléctricos impactantes",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
+    "date": "2025-09-22",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Science journalists as brokers of trust",
+    "title_es": "Periodistas científicos como corredores de confianza",
+    "url": "https://phys.org/news/2025-09-science-journalists-brokers.html",
+    "date": "2025-09-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Strange new hybrid bird spotted in Texas backyard",
     "title_es": "Strange nuevo pájaro híbrido visto en el patio trasero de Texas",
     "url": "https://www.sciencedaily.com/releases/2025/09/250920214309.htm",
@@ -90,6 +104,13 @@
     "url": "https://phys.org/news/2025-09-hormone-roots-downward-gravity.html",
     "date": "2025-09-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation",
+    "title_es": "RPG: un gráfico de planificación de repositorio para la generación de bases de código unificable y escalable",
+    "url": "http://arxiv.org/abs/2509.16198v1",
+    "date": "2025-09-19",
+    "source": "arXiv"
   },
   {
     "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
