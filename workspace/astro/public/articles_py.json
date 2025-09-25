@@ -1,5 +1,12 @@
 [
   {
+    "title": "Brain fat, not just plaques, may be the hidden driver of Alzheimer’s",
+    "title_es": "La grasa cerebral, no solo las placas, puede ser el conductor oculto de Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250924012257.htm",
+    "date": "2025-09-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows",
     "title_es": "Blog de Curiosity, Sols 4661-4667: Pegar en los huecos",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/",
@@ -21,12 +28,61 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: The relationship between COVID-19 anxiety and self-efficacy among adolescent students: A cross-sectional study",
-    "title_es": "Corrección: la relación entre la ansiedad Covid-19 y la autoeficacia entre los estudiantes adolescentes: un estudio transversal",
+    "title": "Correction: A plaque recognition algorithm for coronary OCT images by Dense Atrous Convolution and attention mechanism",
+    "title_es": "Corrección: un algoritmo de reconocimiento de placa para imágenes coronarias de OCT por una convolución atuada densa y mecanismo de atención",
     "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-09-23",
+    "date": "2025-09-24",
     "source": "PLOS ONE",
     "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "EmbeddingGemma: Powerful and Lightweight Text Representations",
+    "title_es": "Increddinggemma: representaciones de texto potentes y livianas",
+    "url": "http://arxiv.org/abs/2509.20354v1",
+    "date": "2025-09-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "A tweezer array with 6100 highly coherent atomic qubits",
+    "title_es": "Una matriz de tweezer con 6100 qubits atómicos altamente coherentes",
+    "url": "https://www.nature.com/articles/s41586-025-09641-4",
+    "date": "2025-09-24",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y\" hreflang=\"es\">Descubrimiento de un candidato a un mundo acuático caliente en tránsito orbitando Ross 176 con TESS y CARMENES</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y\" hreflang=\"es\">Descubrimiento de un candidato a un mundo acuático caliente en tránsito orbitando Ross 176 con TESS y CARMENES</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y",
+    "date": "2025-09-24",
+    "source": "IAC"
+  },
+  {
+    "title": "NASA Awards Atmosphere Research Support Contract",
+    "title_es": "Contrato de apoyo de investigación de atmósfera de premios de la NASA",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
+    "date": "2025-09-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Dwarf planet Makemake sports the most remote gas in the solar system",
+    "title_es": "Dwarf Planet Makemake tiene el gas más remoto en el sistema solar",
+    "url": "https://www.sciencenews.org/article/makemake-dwarf-planet-gas-solar-system",
+    "date": "2025-09-24",
+    "source": "Science News"
+  },
+  {
+    "title": "Could we ever build the tech to shrink ourselves?",
+    "title_es": "¿Podríamos construir la tecnología para encogernos?",
+    "url": "https://www.snexplores.org/article/tech-shrinking-people-possible",
+    "date": "2025-09-24",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A smarter way to control mosquitoes: New method streamlines separation of nonbiting males from females",
+    "title_es": "Una forma más inteligente de controlar los mosquitos: el nuevo método optimiza la separación de machos que no son machos de las hembras",
+    "url": "https://phys.org/news/2025-09-smarter-mosquitoes-method-nonbiting-males.html",
+    "date": "2025-09-24",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "Audio-Based Pedestrian Detection in the Presence of Vehicular Noise",
@@ -62,6 +118,13 @@
     "url": "https://www.snexplores.org/article/potatoes-origin-tomatoes-breeding",
     "date": "2025-09-23",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Searching for new physics with beauty particles",
+    "title_es": "Buscando una nueva física con partículas de belleza",
+    "url": "https://home.cern/news/news/physics/searching-new-physics-beauty-particles",
+    "date": "2025-09-23",
+    "source": "CERN News"
   },
   {
     "title": "Ordinary ice found to have shocking electrical powers",

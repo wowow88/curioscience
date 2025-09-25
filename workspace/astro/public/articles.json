@@ -1,5 +1,21 @@
 [
   {
+    "title": "Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning",
+    "title_es": "Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2509.19305",
+    "published": "2025-09-25T04:00:00.000Z",
+    "date": "2025-09-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "Brain fat, not just plaques, may be the hidden driver of Alzheimer’s",
+    "title_es": "La grasa cerebral, no solo las placas, puede ser el conductor oculto de Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250924012257.htm",
+    "date": "2025-09-25",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-25T00:00:00.000Z"
+  },
+  {
     "title": "Stochastic Economic Dispatch with Battery Energy Storage considering Wind and Load Uncertainty",
     "title_es": "Stochastic Economic Dispatch with Battery Energy Storage considering Wind and Load Uncertainty",
     "url": "https://arxiv.org/abs/2509.18100",
@@ -27,6 +43,62 @@
     "title": "Different types of magic mushrooms use unique biochemical paths to produce the same active compound",
     "title_es": "Diferentes tipos de hongos mágicos usan caminos bioquímicos únicos para producir el mismo compuesto activo",
     "url": "https://phys.org/news/2025-09-magic-mushrooms-unique-biochemical-paths.html",
+    "date": "2025-09-24",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "EmbeddingGemma: Powerful and Lightweight Text Representations",
+    "title_es": "Increddinggemma: representaciones de texto potentes y livianas",
+    "url": "http://arxiv.org/abs/2509.20354v1",
+    "date": "2025-09-24",
+    "source": "arXiv",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "A tweezer array with 6100 highly coherent atomic qubits",
+    "title_es": "Una matriz de tweezer con 6100 qubits atómicos altamente coherentes",
+    "url": "https://www.nature.com/articles/s41586-025-09641-4",
+    "date": "2025-09-24",
+    "source": "Nature",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y\" hreflang=\"es\">Descubrimiento de un candidato a un mundo acuático caliente en tránsito orbitando Ross 176 con TESS y CARMENES</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y\" hreflang=\"es\">Descubrimiento de un candidato a un mundo acuático caliente en tránsito orbitando Ross 176 con TESS y CARMENES</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/descubrimiento-de-un-candidato-un-mundo-acuatico-caliente-en-transito-orbitando-ross-176-con-tess-y",
+    "date": "2025-09-24",
+    "source": "IAC",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Awards Atmosphere Research Support Contract",
+    "title_es": "Contrato de apoyo de investigación de atmósfera de premios de la NASA",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
+    "date": "2025-09-24",
+    "source": "NASA (Top News)",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "Dwarf planet Makemake sports the most remote gas in the solar system",
+    "title_es": "Dwarf Planet Makemake tiene el gas más remoto en el sistema solar",
+    "url": "https://www.sciencenews.org/article/makemake-dwarf-planet-gas-solar-system",
+    "date": "2025-09-24",
+    "source": "Science News",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "Could we ever build the tech to shrink ourselves?",
+    "title_es": "¿Podríamos construir la tecnología para encogernos?",
+    "url": "https://www.snexplores.org/article/tech-shrinking-people-possible",
+    "date": "2025-09-24",
+    "source": "Science News Explores",
+    "published": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "A smarter way to control mosquitoes: New method streamlines separation of nonbiting males from females",
+    "title_es": "Una forma más inteligente de controlar los mosquitos: el nuevo método optimiza la separación de machos que no son machos de las hembras",
+    "url": "https://phys.org/news/2025-09-smarter-mosquitoes-method-nonbiting-males.html",
     "date": "2025-09-24",
     "source": "Phys.org (Latest)",
     "published": "2025-09-24T00:00:00.000Z"
@@ -69,6 +141,14 @@
     "url": "https://www.snexplores.org/article/potatoes-origin-tomatoes-breeding",
     "date": "2025-09-23",
     "source": "Science News Explores",
+    "published": "2025-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "Searching for new physics with beauty particles",
+    "title_es": "Buscando una nueva física con partículas de belleza",
+    "url": "https://home.cern/news/news/physics/searching-new-physics-beauty-particles",
+    "date": "2025-09-23",
+    "source": "CERN News",
     "published": "2025-09-23T00:00:00.000Z"
   },
   {
@@ -8248,8 +8328,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: The relationship between COVID-19 anxiety and self-efficacy among adolescent students: A cross-sectional study",
-    "title_es": "Corrección: la relación entre la ansiedad Covid-19 y la autoeficacia entre los estudiantes adolescentes: un estudio transversal",
+    "title": "Correction: A plaque recognition algorithm for coronary OCT images by Dense Atrous Convolution and attention mechanism",
+    "title_es": "Corrección: un algoritmo de reconocimiento de placa para imágenes coronarias de OCT por una convolución atuada densa y mecanismo de atención",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
