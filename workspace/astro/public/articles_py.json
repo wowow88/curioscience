@@ -1,5 +1,19 @@
 [
   {
+    "title": "Fruit might be the surprising key to healthier lungs",
+    "title_es": "La fruta podría ser la clave sorprendente para los pulmones más saludables",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
+    "date": "2025-09-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Mushrooms may have been part of early human diets: Primate study explores who eats what, and when",
+    "title_es": "Los hongos pueden haber sido parte de las primeras dietas humanas: el estudio de primates explora quién come qué, y cuándo",
+    "url": "https://phys.org/news/2025-09-mushrooms-early-human-diets-primate.html",
+    "date": "2025-09-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Cocoa supplements show surprising anti-aging potential",
     "title_es": "Los suplementos de cacao muestran un potencial antienvejecimiento sorprendente sorprendente",
     "url": "https://www.sciencedaily.com/releases/2025/09/250927031221.htm",
@@ -97,6 +111,13 @@
     "url": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html",
     "date": "2025-09-26",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing",
+    "title_es": "Voiceassistant-Eval: Asistentes de IA de comparación benchmarinos a través de la escucha, hablar y ver",
+    "url": "http://arxiv.org/abs/2509.22651v1",
+    "date": "2025-09-26",
+    "source": "arXiv"
   },
   {
     "title": "Brain fat, not just plaques, may be the hidden driver of Alzheimer’s",

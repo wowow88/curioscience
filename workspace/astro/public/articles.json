@@ -1,5 +1,29 @@
 [
   {
+    "title": "QUBOLite: A lightweigth Python toolkit for QUBO",
+    "title_es": "QUBOLite: A lightweigth Python toolkit for QUBO",
+    "url": "https://arxiv.org/abs/2509.21321",
+    "published": "2025-09-29T04:00:00.000Z",
+    "date": "2025-09-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fruit might be the surprising key to healthier lungs",
+    "title_es": "La fruta podría ser la clave sorprendente para los pulmones más saludables",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
+    "date": "2025-09-28",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "Mushrooms may have been part of early human diets: Primate study explores who eats what, and when",
+    "title_es": "Los hongos pueden haber sido parte de las primeras dietas humanas: el estudio de primates explora quién come qué, y cuándo",
+    "url": "https://phys.org/news/2025-09-mushrooms-early-human-diets-primate.html",
+    "date": "2025-09-28",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-28T00:00:00.000Z"
+  },
+  {
     "title": "Cocoa supplements show surprising anti-aging potential",
     "title_es": "Los suplementos de cacao muestran un potencial antienvejecimiento sorprendente sorprendente",
     "url": "https://www.sciencedaily.com/releases/2025/09/250927031221.htm",
@@ -109,6 +133,14 @@
     "url": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html",
     "date": "2025-09-26",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-26T00:00:00.000Z"
+  },
+  {
+    "title": "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing",
+    "title_es": "Voiceassistant-Eval: Asistentes de IA de comparación benchmarinos a través de la escucha, hablar y ver",
+    "url": "http://arxiv.org/abs/2509.22651v1",
+    "date": "2025-09-26",
+    "source": "arXiv",
     "published": "2025-09-26T00:00:00.000Z"
   },
   {
