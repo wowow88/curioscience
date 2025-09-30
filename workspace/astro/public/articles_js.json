@@ -1,43 +1,75 @@
 [
   {
-    "title": "QUBOLite: A lightweigth Python toolkit for QUBO",
-    "title_es": "QUBOLite: A lightweigth Python toolkit for QUBO",
-    "url": "https://arxiv.org/abs/2509.21321",
-    "published": "2025-09-29T04:00:00.000Z",
-    "date": "2025-09-29",
+    "title": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
+    "title_es": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
+    "url": "https://arxiv.org/abs/2509.23646",
+    "published": "2025-09-30T04:00:00.000Z",
+    "date": "2025-09-30",
     "source": "arXiv"
   },
   {
-    "title": "Fruit might be the surprising key to healthier lungs",
-    "title_es": "Fruit might be the surprising key to healthier lungs",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
-    "published": "2025-09-28T15:21:31.000Z",
-    "date": "2025-09-28",
+    "title": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
+    "title_es": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/",
+    "published": "2025-09-30T00:13:24.000Z",
+    "date": "2025-09-30",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
+    "title_es": "This tiny butterfly has the most chromosomes of any animal on Earth",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
+    "published": "2025-09-30T03:31:07.000Z",
+    "date": "2025-09-30",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Mushrooms may have been part of early human diets: Primate study explores who eats what, and when",
-    "title_es": "Mushrooms may have been part of early human diets: Primate study explores who eats what, and when",
-    "url": "https://phys.org/news/2025-09-mushrooms-early-human-diets-primate.html",
-    "published": "2025-09-28T18:50:01.000Z",
-    "date": "2025-09-28",
+    "title": "Natural antimicrobial drugs found in pollen could help protect bee colonies from infection",
+    "title_es": "Natural antimicrobial drugs found in pollen could help protect bee colonies from infection",
+    "url": "https://phys.org/news/2025-09-natural-antimicrobial-drugs-pollen-bee.html",
+    "published": "2025-09-30T04:00:01.000Z",
+    "date": "2025-09-30",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Audio long read: Autism is on the rise — what’s really behind the increase?",
-    "title_es": "Audio long read: Autism is on the rise — what’s really behind the increase?",
-    "url": "https://www.nature.com/articles/d41586-025-03173-7",
-    "published": "2025-09-26T00:00:00.000Z",
-    "date": "2025-09-26",
+    "title": "Publisher Correction: Psilocybin’s lasting action requires pyramidal cell types and 5-HT2A receptors",
+    "title_es": "Publisher Correction: Psilocybin’s lasting action requires pyramidal cell types and 5-HT2A receptors",
+    "url": "https://www.nature.com/articles/s41586-025-09671-y",
+    "published": "2025-09-29T00:00:00.000Z",
+    "date": "2025-09-29",
     "source": "Nature"
   },
   {
-    "title": "El CNIC desarrollará un dispositivo de ultrasonido con inteligencia artificial para la prevención personalizada de enfermedades cardiovasculares",
-    "title_es": "El CNIC desarrollará un dispositivo de ultrasonido con inteligencia artificial para la prevención personalizada de enfermedades cardiovasculares",
-    "url": "https://www.cnic.es/es/noticias/cnic-desarrollara-un-dispositivo-ultrasonido-con-inteligencia-artificial-para-prevencion",
-    "published": "2025-09-26T06:17:07.000Z",
-    "date": "2025-09-26",
+    "title": "Noche Europea de los Investigadores en el CNIC",
+    "title_es": "Noche Europea de los Investigadores en el CNIC",
+    "url": "https://www.cnic.es/es/noticias/noche-europea-investigadores-cnic",
+    "published": "2025-09-29T10:19:39.000Z",
+    "date": "2025-09-29",
     "source": "CNIC"
+  },
+  {
+    "title": "Here’s what might spark ghostly will-o’-the-wisps",
+    "title_es": "Here’s what might spark ghostly will-o’-the-wisps",
+    "url": "https://www.sciencenews.org/article/spark-will-o-the-wisps",
+    "published": "2025-09-29T19:05:00.000Z",
+    "date": "2025-09-29",
+    "source": "Science News"
+  },
+  {
+    "title": "New theory may at last explain a swamp’s ghostly will-o’-the-wisps",
+    "title_es": "New theory may at last explain a swamp’s ghostly will-o’-the-wisps",
+    "url": "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry",
+    "published": "2025-09-29T19:00:00.000Z",
+    "date": "2025-09-29",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Uncovering biomarkers and molecular pathways linking NAFLD and AIS: Insights from bioinformatic analysis and experiment",
+    "title_es": "Uncovering biomarkers and molecular pathways linking NAFLD and AIS: Insights from bioinformatic analysis and experiment",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-09-29T14:00:00.000Z",
+    "date": "2025-09-29",
+    "source": "PLOS ONE"
   },
   {
     "title": "Llevamos a niños y niñas con cáncer del Hospital La Paz los robots de juguete que construimos para ellos",
@@ -46,38 +78,6 @@
     "published": "2025-09-26T13:28:28.000Z",
     "date": "2025-09-26",
     "source": "CNIO"
-  },
-  {
-    "title": "From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science",
-    "title_es": "From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science",
-    "url": "https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/",
-    "published": "2025-09-26T20:44:26.000Z",
-    "date": "2025-09-26",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Pasteurization destroys H5N1 bird flu in milk",
-    "title_es": "Pasteurization destroys H5N1 bird flu in milk",
-    "url": "https://www.sciencenews.org/article/pasteurization-milk-no-h5n1-bird-flu",
-    "published": "2025-09-26T18:17:28.000Z",
-    "date": "2025-09-26",
-    "source": "Science News"
-  },
-  {
-    "title": "Analyze This: Ice around baby stars may hint at origins of Earth’s water",
-    "title_es": "Analyze This: Ice around baby stars may hint at origins of Earth’s water",
-    "url": "https://www.snexplores.org/article/star-ice-hydrogen-origin-earth-water",
-    "published": "2025-09-26T10:30:00.000Z",
-    "date": "2025-09-26",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Enhanced Bézier curve-based trajectory planning for high-altitude autonomous trucks",
-    "title_es": "Enhanced Bézier curve-based trajectory planning for high-altitude autonomous trucks",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-26T14:00:00.000Z",
-    "date": "2025-09-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "The vitality of old age",

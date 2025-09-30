@@ -1,11 +1,91 @@
 [
   {
+    "title": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
+    "title_es": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
+    "url": "https://arxiv.org/abs/2509.23646",
+    "published": "2025-09-30T04:00:00.000Z",
+    "date": "2025-09-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
+    "title_es": "Blog de Curiosity, Sols 4668-4674: Avanzar nuestro camino",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/",
+    "date": "2025-09-30",
+    "source": "NASA (Top News)",
+    "published": "2025-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
+    "title_es": "Esta pequeña mariposa tiene la mayoría de los cromosomas de cualquier animal en la tierra.",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
+    "date": "2025-09-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "Natural antimicrobial drugs found in pollen could help protect bee colonies from infection",
+    "title_es": "Los medicamentos antimicrobianos naturales que se encuentran en el polen podrían ayudar a proteger las colonias de abejas de la infección",
+    "url": "https://phys.org/news/2025-09-natural-antimicrobial-drugs-pollen-bee.html",
+    "date": "2025-09-30",
+    "source": "Phys.org (Latest)",
+    "published": "2025-09-30T00:00:00.000Z"
+  },
+  {
     "title": "QUBOLite: A lightweigth Python toolkit for QUBO",
     "title_es": "QUBOLite: A lightweigth Python toolkit for QUBO",
     "url": "https://arxiv.org/abs/2509.21321",
     "published": "2025-09-29T04:00:00.000Z",
     "date": "2025-09-29",
     "source": "arXiv"
+  },
+  {
+    "title": "UniAPL: A Unified Adversarial Preference Learning Framework for Instruct-Following",
+    "title_es": "UNIAPL: un marco de aprendizaje de preferencia adversa unificado para el seguimiento de instrucciones",
+    "url": "http://arxiv.org/abs/2509.25148v1",
+    "date": "2025-09-29",
+    "source": "arXiv",
+    "published": "2025-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Psilocybin’s lasting action requires pyramidal cell types and 5-HT2A receptors",
+    "title_es": "Corrección del editor: la acción duradera de la psilocibina requiere tipos de células piramidales y receptores 5-HT2A",
+    "url": "https://www.nature.com/articles/s41586-025-09671-y",
+    "date": "2025-09-29",
+    "source": "Nature",
+    "published": "2025-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "Noche Europea de los Investigadores en el CNIC",
+    "title_es": "Noche Europea de los Investigadores en el CNIC",
+    "url": "https://www.cnic.es/es/noticias/noche-europea-investigadores-cnic",
+    "date": "2025-09-29",
+    "source": "CNIC",
+    "published": "2025-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-primer-workshop-undark-para-desvelar-los-secretos-del-universo-oscuro\" hreflang=\"es\">El IAC celebra el primer Workshop UNDARK para desvelar los secretos del universo oscuro</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-primer-workshop-undark-para-desvelar-los-secretos-del-universo-oscuro\" hreflang=\"es\">El IAC celebra el primer Workshop UNDARK para desvelar los secretos del universo oscuro</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-primer-workshop-undark-para-desvelar-los-secretos-del-universo-oscuro",
+    "date": "2025-09-29",
+    "source": "IAC",
+    "published": "2025-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "Here’s what might spark ghostly will-o’-the-wisps",
+    "title_es": "Esto es lo que podría provocar fantasmales Will-O’-the Wisps",
+    "url": "https://www.sciencenews.org/article/spark-will-o-the-wisps",
+    "date": "2025-09-29",
+    "source": "Science News",
+    "published": "2025-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "New theory may at last explain a swamp’s ghostly will-o’-the-wisps",
+    "title_es": "La nueva teoría puede explicar por fin los Will-O’-the Wisps de un pantano de un pantano de pantano",
+    "url": "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry",
+    "date": "2025-09-29",
+    "source": "Science News Explores",
+    "published": "2025-09-29T00:00:00.000Z"
   },
   {
     "title": "Fruit might be the surprising key to healthier lungs",
@@ -8552,8 +8632,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Enhanced Bézier curve-based trajectory planning for high-altitude autonomous trucks",
-    "title_es": "Planificación de trayectoria basada en la curva de Bézier mejorada para camiones autónomos a gran altitud",
+    "title": "Uncovering biomarkers and molecular pathways linking NAFLD and AIS: Insights from bioinformatic analysis and experiment",
+    "title_es": "Descubrimiento de biomarcadores y vías moleculares que vinculan NAFLD y AIS: ideas del análisis y experimento bioinformáticos",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
