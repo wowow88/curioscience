@@ -1,83 +1,91 @@
 [
   {
-    "title": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
-    "title_es": "Sparse-Up: Learnable Sparse Upsampling for 3D Generation with High-Fidelity Textures",
-    "url": "https://arxiv.org/abs/2509.23646",
-    "published": "2025-09-30T04:00:00.000Z",
-    "date": "2025-09-30",
+    "title": "WARP -- Web-Augmented Real-time Program Repairer: A Real-Time Compilation Error Resolution using LLMs and Web-Augmented Synthesis",
+    "title_es": "WARP -- Web-Augmented Real-time Program Repairer: A Real-Time Compilation Error Resolution using LLMs and Web-Augmented Synthesis",
+    "url": "https://arxiv.org/abs/2509.25192",
+    "published": "2025-10-01T04:00:00.000Z",
+    "date": "2025-10-01",
     "source": "arXiv"
   },
   {
-    "title": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
-    "title_es": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/",
-    "published": "2025-09-30T00:13:24.000Z",
-    "date": "2025-09-30",
+    "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
+    "title_es": "October’s Night Sky Notes: Let’s Go, LIGO!",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
+    "published": "2025-10-01T02:22:25.000Z",
+    "date": "2025-10-01",
     "source": "NASA (Top News)"
   },
   {
-    "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
-    "title_es": "This tiny butterfly has the most chromosomes of any animal on Earth",
-    "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
-    "published": "2025-09-30T03:31:07.000Z",
+    "title": "Author Correction: Crystal structure of heliorhodopsin",
+    "title_es": "Author Correction: Crystal structure of heliorhodopsin",
+    "url": "https://www.nature.com/articles/s41586-025-09669-6",
+    "published": "2025-09-30T00:00:00.000Z",
+    "date": "2025-09-30",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC participa en la XVI Carrera Popular del Corazón para impulsar la prevención cardiovascular",
+    "title_es": "El CNIC participa en la XVI Carrera Popular del Corazón para impulsar la prevención cardiovascular",
+    "url": "https://www.cnic.es/es/noticias/cnic-participa-xvi-carrera-popular-corazon-para-impulsar-prevencion-cardiovascular",
+    "published": "2025-09-30T07:09:22.000Z",
+    "date": "2025-09-30",
+    "source": "CNIC"
+  },
+  {
+    "title": "María Casanova investigará el cáncer de ovario avanzado con una ayuda de la Fundación BBVA",
+    "title_es": "María Casanova investigará el cáncer de ovario avanzado con una ayuda de la Fundación BBVA",
+    "url": "https://www.cnio.es/noticias/maria-casanova-investigara-el-cancer-de-ovario-avanzado-con-una-ayuda-de-la-fundacion-bbva/",
+    "published": "2025-09-30T11:53:29.000Z",
+    "date": "2025-09-30",
+    "source": "CNIO"
+  },
+  {
+    "title": "Can AI spot harmful health side effects on social media?",
+    "title_es": "Can AI spot harmful health side effects on social media?",
+    "url": "https://www.sciencenews.org/article/ai-health-side-effects-social-media",
+    "published": "2025-09-30T18:00:00.000Z",
+    "date": "2025-09-30",
+    "source": "Science News"
+  },
+  {
+    "title": "A shark encounter inspired this researcher’s career in marine biology",
+    "title_es": "A shark encounter inspired this researcher’s career in marine biology",
+    "url": "https://www.snexplores.org/article/shark-marine-biology",
+    "published": "2025-09-30T10:30:00.000Z",
+    "date": "2025-09-30",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Pollen holds a secret that could save honeybees",
+    "title_es": "Pollen holds a secret that could save honeybees",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250930034200.htm",
+    "published": "2025-09-30T13:08:38.000Z",
     "date": "2025-09-30",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Natural antimicrobial drugs found in pollen could help protect bee colonies from infection",
-    "title_es": "Natural antimicrobial drugs found in pollen could help protect bee colonies from infection",
-    "url": "https://phys.org/news/2025-09-natural-antimicrobial-drugs-pollen-bee.html",
-    "published": "2025-09-30T04:00:01.000Z",
+    "title": "Seal's sensitive whiskers hold key to foiling fish escapes",
+    "title_es": "Seal's sensitive whiskers hold key to foiling fish escapes",
+    "url": "https://phys.org/news/2025-09-sensitive-whiskers-key-foiling-fish.html",
+    "published": "2025-09-30T22:00:01.000Z",
     "date": "2025-09-30",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Publisher Correction: Psilocybin’s lasting action requires pyramidal cell types and 5-HT2A receptors",
-    "title_es": "Publisher Correction: Psilocybin’s lasting action requires pyramidal cell types and 5-HT2A receptors",
-    "url": "https://www.nature.com/articles/s41586-025-09671-y",
-    "published": "2025-09-29T00:00:00.000Z",
-    "date": "2025-09-29",
-    "source": "Nature"
-  },
-  {
-    "title": "Noche Europea de los Investigadores en el CNIC",
-    "title_es": "Noche Europea de los Investigadores en el CNIC",
-    "url": "https://www.cnic.es/es/noticias/noche-europea-investigadores-cnic",
-    "published": "2025-09-29T10:19:39.000Z",
-    "date": "2025-09-29",
-    "source": "CNIC"
-  },
-  {
-    "title": "Here’s what might spark ghostly will-o’-the-wisps",
-    "title_es": "Here’s what might spark ghostly will-o’-the-wisps",
-    "url": "https://www.sciencenews.org/article/spark-will-o-the-wisps",
-    "published": "2025-09-29T19:05:00.000Z",
-    "date": "2025-09-29",
-    "source": "Science News"
-  },
-  {
-    "title": "New theory may at last explain a swamp’s ghostly will-o’-the-wisps",
-    "title_es": "New theory may at last explain a swamp’s ghostly will-o’-the-wisps",
-    "url": "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry",
-    "published": "2025-09-29T19:00:00.000Z",
-    "date": "2025-09-29",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Uncovering biomarkers and molecular pathways linking NAFLD and AIS: Insights from bioinformatic analysis and experiment",
-    "title_es": "Uncovering biomarkers and molecular pathways linking NAFLD and AIS: Insights from bioinformatic analysis and experiment",
+    "title": "Influence of gestational weight gain and maternal depression on offspring BMI trajectory from birth to 3 years: A longitudinal mother-infant study",
+    "title_es": "Influence of gestational weight gain and maternal depression on offspring BMI trajectory from birth to 3 years: A longitudinal mother-infant study",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-09-29T14:00:00.000Z",
-    "date": "2025-09-29",
+    "published": "2025-09-30T14:00:00.000Z",
+    "date": "2025-09-30",
     "source": "PLOS ONE"
   },
   {
-    "title": "Llevamos a niños y niñas con cáncer del Hospital La Paz los robots de juguete que construimos para ellos",
-    "title_es": "Llevamos a niños y niñas con cáncer del Hospital La Paz los robots de juguete que construimos para ellos",
-    "url": "https://www.cnio.es/noticias/llevamos-a-ninos-y-ninas-con-cancer-del-hospital-la-paz-los-robots-de-juguete-que-construimos-para-ellos/",
-    "published": "2025-09-26T13:28:28.000Z",
+    "title": "Writing with style? There’s a guide for that",
+    "title_es": "Writing with style? There’s a guide for that",
+    "url": "https://home.cern/news/news/knowledge-sharing/writing-style-theres-guide",
+    "published": "2025-09-26T15:16:29.000Z",
     "date": "2025-09-26",
-    "source": "CNIO"
+    "source": "CERN News"
   },
   {
     "title": "The vitality of old age",
@@ -86,14 +94,6 @@
     "published": "2025-09-25T06:00:05.000Z",
     "date": "2025-09-25",
     "source": "Science.org"
-  },
-  {
-    "title": "Preserving particle physics data",
-    "title_es": "Preserving particle physics data",
-    "url": "https://home.cern/news/news/experiments/preserving-particle-physics-data",
-    "published": "2025-09-24T13:29:27.000Z",
-    "date": "2025-09-24",
-    "source": "CERN News"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
