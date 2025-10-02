@@ -1,5 +1,21 @@
 [
   {
+    "title": "Methodological Framework for Quantifying Semantic Test Coverage in RAG Systems",
+    "title_es": "Methodological Framework for Quantifying Semantic Test Coverage in RAG Systems",
+    "url": "https://arxiv.org/abs/2510.00001",
+    "published": "2025-10-02T04:00:00.000Z",
+    "date": "2025-10-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Viral apple cider vinegar weight loss study retracted for flawed science",
+    "title_es": "Estudio de pérdida de peso de vinagre de manzana viral para la ciencia defectuosa",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251001092216.htm",
+    "date": "2025-10-02",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-02T00:00:00.000Z"
+  },
+  {
     "title": "WARP -- Web-Augmented Real-time Program Repairer: A Real-Time Compilation Error Resolution using LLMs and Web-Augmented Synthesis",
     "title_es": "WARP -- Web-Augmented Real-time Program Repairer: A Real-Time Compilation Error Resolution using LLMs and Web-Augmented Synthesis",
     "url": "https://arxiv.org/abs/2509.25192",
@@ -13,6 +29,46 @@
     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
     "date": "2025-10-01",
     "source": "NASA (Top News)",
+    "published": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Prophylactic TNF blockade uncouples efficacy and toxicity in dual CTLA-4 and PD-1 immunotherapy",
+    "title_es": "Corrección del autor: bloqueo de TNF profiláctico desacopla la eficacia y la toxicidad en inmunoterapia Dual CTLA-4 y PD-1",
+    "url": "https://www.nature.com/articles/s41586-025-09672-x",
+    "date": "2025-10-01",
+    "source": "Nature",
+    "published": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
+    "title_es": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
+    "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-curiosidad-con-ciencia-para-ver-tocar-y-jugar/",
+    "date": "2025-10-01",
+    "source": "CNIO",
+    "published": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "A grapevine bacteria may help douse wildfire-tainted wine’s ashy aftertaste",
+    "title_es": "Una bacteria de la vid puede ayudar a mojar el regusto cenicero del vino contaminado con incendios forestales",
+    "url": "https://www.sciencenews.org/article/bacteria-douse-wildfire-wine-aftertaste",
+    "date": "2025-10-01",
+    "source": "Science News",
+    "published": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists transform pee into a golden opportunity",
+    "title_es": "Los científicos transforman PEE en una oportunidad de oro",
+    "url": "https://www.snexplores.org/article/yeast-transform-pee-valuable-mineral",
+    "date": "2025-10-01",
+    "source": "Science News Explores",
+    "published": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "Soil fungus forms durable hydrogels with potential for biomedical materials",
+    "title_es": "El hongo del suelo forma hidrogeles duraderos con potencial para materiales biomédicos",
+    "url": "https://phys.org/news/2025-10-soil-fungus-durable-hydrogels-potential.html",
+    "date": "2025-10-01",
+    "source": "Phys.org (Latest)",
     "published": "2025-10-01T00:00:00.000Z"
   },
   {
@@ -109,6 +165,14 @@
     "url": "https://phys.org/news/2025-09-sensitive-whiskers-key-foiling-fish.html",
     "date": "2025-09-30",
     "source": "Phys.org (Latest)",
+    "published": "2025-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "2025 Beamline for Schools winners at CERN, DESY and the University of Bonn",
+    "title_es": "2025 Línea de luz para ganadores de escuelas en CERN, Desy y la Universidad de Bonn",
+    "url": "https://home.cern/news/news/cern/2025-beamline-schools-winners-cern-desy-and-university-bonn",
+    "date": "2025-09-30",
+    "source": "CERN News",
     "published": "2025-09-30T00:00:00.000Z"
   },
   {
@@ -8720,8 +8784,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Influence of gestational weight gain and maternal depression on offspring BMI trajectory from birth to 3 years: A longitudinal mother-infant study",
-    "title_es": "Influencia del aumento de peso gestacional y la depresión materna en la trayectoria del IMC de la descendencia desde el nacimiento hasta los 3 años: un estudio longitudinal de la madre infantil",
+    "title": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
+    "title_es": "Retirada: Astragalósido IV combinado con quercetina atenúa la fibrosis pulmonar inducida por sílice mediante la promoción de la autofagia y suprimiendo la piroptosis",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

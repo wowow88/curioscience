@@ -1,10 +1,60 @@
 [
   {
+    "title": "Viral apple cider vinegar weight loss study retracted for flawed science",
+    "title_es": "Estudio de pérdida de peso de vinagre de manzana viral para la ciencia defectuosa",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251001092216.htm",
+    "date": "2025-10-02",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
     "title_es": "Notas del cielo nocturno de octubre: ¡vamos, Ligo!",
     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
     "date": "2025-10-01",
     "source": "NASA (Top News)"
+  },
+  {
+    "title": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
+    "title_es": "Retirada: Astragalósido IV combinado con quercetina atenúa la fibrosis pulmonar inducida por sílice mediante la promoción de la autofagia y suprimiendo la piroptosis",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-10-01",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Author Correction: Prophylactic TNF blockade uncouples efficacy and toxicity in dual CTLA-4 and PD-1 immunotherapy",
+    "title_es": "Corrección del autor: bloqueo de TNF profiláctico desacopla la eficacia y la toxicidad en inmunoterapia Dual CTLA-4 y PD-1",
+    "url": "https://www.nature.com/articles/s41586-025-09672-x",
+    "date": "2025-10-01",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
+    "title_es": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
+    "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-curiosidad-con-ciencia-para-ver-tocar-y-jugar/",
+    "date": "2025-10-01",
+    "source": "CNIO"
+  },
+  {
+    "title": "A grapevine bacteria may help douse wildfire-tainted wine’s ashy aftertaste",
+    "title_es": "Una bacteria de la vid puede ayudar a mojar el regusto cenicero del vino contaminado con incendios forestales",
+    "url": "https://www.sciencenews.org/article/bacteria-douse-wildfire-wine-aftertaste",
+    "date": "2025-10-01",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists transform pee into a golden opportunity",
+    "title_es": "Los científicos transforman PEE en una oportunidad de oro",
+    "url": "https://www.snexplores.org/article/yeast-transform-pee-valuable-mineral",
+    "date": "2025-10-01",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Soil fungus forms durable hydrogels with potential for biomedical materials",
+    "title_es": "El hongo del suelo forma hidrogeles duraderos con potencial para materiales biomédicos",
+    "url": "https://phys.org/news/2025-10-soil-fungus-durable-hydrogels-potential.html",
+    "date": "2025-10-01",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "Curiosity Blog, Sols 4668-4674: Winding Our Way Along",
@@ -26,14 +76,6 @@
     "url": "https://phys.org/news/2025-09-natural-antimicrobial-drugs-pollen-bee.html",
     "date": "2025-09-30",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Influence of gestational weight gain and maternal depression on offspring BMI trajectory from birth to 3 years: A longitudinal mother-infant study",
-    "title_es": "Influencia del aumento de peso gestacional y la depresión materna en la trayectoria del IMC de la descendencia desde el nacimiento hasta los 3 años: un estudio longitudinal de la madre infantil",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-09-30",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Stitch: Training-Free Position Control in Multimodal Diffusion Transformers",
@@ -90,6 +132,13 @@
     "url": "https://phys.org/news/2025-09-sensitive-whiskers-key-foiling-fish.html",
     "date": "2025-09-30",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "2025 Beamline for Schools winners at CERN, DESY and the University of Bonn",
+    "title_es": "2025 Línea de luz para ganadores de escuelas en CERN, Desy y la Universidad de Bonn",
+    "url": "https://home.cern/news/news/cern/2025-beamline-schools-winners-cern-desy-and-university-bonn",
+    "date": "2025-09-30",
+    "source": "CERN News"
   },
   {
     "title": "UniAPL: A Unified Adversarial Preference Learning Framework for Instruct-Following",
