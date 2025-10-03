@@ -1,10 +1,87 @@
 [
   {
+    "title": "Scientists just recreated a wildfire that made its own weather",
+    "title_es": "Los científicos acaban de recrear un incendio forestal que hizo su propio clima",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251002074001.htm",
+    "date": "2025-10-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Viral apple cider vinegar weight loss study retracted for flawed science",
     "title_es": "Estudio de pérdida de peso de vinagre de manzana viral para la ciencia defectuosa",
     "url": "https://www.sciencedaily.com/releases/2025/10/251001092216.htm",
     "date": "2025-10-02",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation",
+    "title_es": "Noiseshift: recalibración de ruido de resolución para una mejor generación de imágenes de baja resolución",
+    "url": "http://arxiv.org/abs/2510.02307v1",
+    "date": "2025-10-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "A computer scientist’s technological gamble",
+    "title_es": "La apuesta tecnológica de un científico informático",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb1091",
+    "date": "2025-10-02",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: EBI2 augments Tfh cell fate by promoting interaction with IL-2-quenching dendritic cells",
+    "title_es": "Corrección del autor: EBI2 aumenta el destino de las células TFH al promover la interacción con las células dendríticas que calculan IL-2",
+    "url": "https://www.nature.com/articles/s41586-025-09691-8",
+    "date": "2025-10-02",
+    "source": "Nature"
+  },
+  {
+    "title": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
+    "title_es": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
+    "url": "https://www.cnic.es/es/noticias/abierta-2a-convocatoria-2025-para-acceso-abierto-competitivo-aac-redib",
+    "date": "2025-10-02",
+    "source": "CNIC"
+  },
+  {
+    "title": "Felipe Cortés: “Entender los mecanismos de reparación de roturas en el ADN tiene implicaciones directas muy relevantes para la salud”",
+    "title_es": "Felipe Cortés: “Entender los mecanismos de reparación de roturas en el ADN tiene implicaciones directas muy relevantes para la salud”",
+    "url": "https://www.cnio.es/noticias/felipe-cortes-entender-los-mecanismos-de-reparacion-de-roturas-en-el-adn-tiene-implicaciones-directas-muy-relevantes-para-la-salud/",
+    "date": "2025-10-02",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acercara-el-cosmos-le-good-market-con-actividades-de-divulgacion-en-el-parque-garcia-sanabria\" hreflang=\"es\">El IAC acercará el Cosmos a Le Good Market con actividades de divulgación en el Parque García Sanabria con motivo de Plenilunio</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acercara-el-cosmos-le-good-market-con-actividades-de-divulgacion-en-el-parque-garcia-sanabria\" hreflang=\"es\">El IAC acercará el Cosmos a Le Good Market con actividades de divulgación en el Parque García Sanabria con motivo de Plenilunio</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acercara-el-cosmos-le-good-market-con-actividades-de-divulgacion-en-el-parque-garcia-sanabria",
+    "date": "2025-10-02",
+    "source": "IAC"
+  },
+  {
+    "title": "Computer Security: CERN, beautified",
+    "title_es": "Seguridad informática: CERN, embellecido",
+    "url": "https://home.cern/news/news/computing/computer-security-cern-beautified",
+    "date": "2025-10-02",
+    "source": "CERN News"
+  },
+  {
+    "title": "AI-designed proteins test biosecurity safeguards",
+    "title_es": "Proteínas diseñadas por IA Prueba de salvaguardas",
+    "url": "https://www.sciencenews.org/article/ai-proteins-biosecurity-safeguards",
+    "date": "2025-10-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What is a shark?",
+    "title_es": "Explicador: ¿Qué es un tiburón?",
+    "url": "https://www.snexplores.org/article/explainer-what-is-a-shark",
+    "date": "2025-10-02",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "New approach to gravitational wave detection opens the milli-Hz frontier",
+    "title_es": "El nuevo enfoque para la detección de ondas gravitacionales abre la frontera de Milli-Hz",
+    "url": "https://phys.org/news/2025-10-approach-gravitational-milli-hz-frontier.html",
+    "date": "2025-10-02",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",

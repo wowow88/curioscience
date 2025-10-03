@@ -1,35 +1,83 @@
 [
   {
-    "title": "Methodological Framework for Quantifying Semantic Test Coverage in RAG Systems",
-    "title_es": "Methodological Framework for Quantifying Semantic Test Coverage in RAG Systems",
-    "url": "https://arxiv.org/abs/2510.00001",
-    "published": "2025-10-02T04:00:00.000Z",
-    "date": "2025-10-02",
+    "title": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
+    "title_es": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
+    "url": "https://arxiv.org/abs/2510.01187",
+    "published": "2025-10-03T04:00:00.000Z",
+    "date": "2025-10-03",
     "source": "arXiv"
   },
   {
-    "title": "Viral apple cider vinegar weight loss study retracted for flawed science",
-    "title_es": "Viral apple cider vinegar weight loss study retracted for flawed science",
-    "url": "https://www.sciencedaily.com/releases/2025/10/251001092216.htm",
-    "published": "2025-10-02T03:34:47.000Z",
-    "date": "2025-10-02",
+    "title": "Scientists just recreated a wildfire that made its own weather",
+    "title_es": "Scientists just recreated a wildfire that made its own weather",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251002074001.htm",
+    "published": "2025-10-03T02:57:01.000Z",
+    "date": "2025-10-03",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Author Correction: Prophylactic TNF blockade uncouples efficacy and toxicity in dual CTLA-4 and PD-1 immunotherapy",
-    "title_es": "Author Correction: Prophylactic TNF blockade uncouples efficacy and toxicity in dual CTLA-4 and PD-1 immunotherapy",
-    "url": "https://www.nature.com/articles/s41586-025-09672-x",
-    "published": "2025-10-01T00:00:00.000Z",
-    "date": "2025-10-01",
+    "title": "A computer scientist’s technological gamble",
+    "title_es": "A computer scientist’s technological gamble",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb1091",
+    "published": "2025-10-02T06:00:10.000Z",
+    "date": "2025-10-02",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: EBI2 augments Tfh cell fate by promoting interaction with IL-2-quenching dendritic cells",
+    "title_es": "Author Correction: EBI2 augments Tfh cell fate by promoting interaction with IL-2-quenching dendritic cells",
+    "url": "https://www.nature.com/articles/s41586-025-09691-8",
+    "published": "2025-10-02T00:00:00.000Z",
+    "date": "2025-10-02",
     "source": "Nature"
   },
   {
-    "title": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
-    "title_es": "El CNIO celebra la curiosidad con ciencia para ver, tocar y jugar",
-    "url": "https://www.cnio.es/noticias/el-cnio-celebra-la-curiosidad-con-ciencia-para-ver-tocar-y-jugar/",
-    "published": "2025-10-01T11:57:23.000Z",
-    "date": "2025-10-01",
+    "title": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
+    "title_es": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
+    "url": "https://www.cnic.es/es/noticias/abierta-2a-convocatoria-2025-para-acceso-abierto-competitivo-aac-redib",
+    "published": "2025-10-02T11:29:18.000Z",
+    "date": "2025-10-02",
+    "source": "CNIC"
+  },
+  {
+    "title": "Felipe Cortés: “Entender los mecanismos de reparación de roturas en el ADN tiene implicaciones directas muy relevantes para la salud”",
+    "title_es": "Felipe Cortés: “Entender los mecanismos de reparación de roturas en el ADN tiene implicaciones directas muy relevantes para la salud”",
+    "url": "https://www.cnio.es/noticias/felipe-cortes-entender-los-mecanismos-de-reparacion-de-roturas-en-el-adn-tiene-implicaciones-directas-muy-relevantes-para-la-salud/",
+    "published": "2025-10-02T18:02:02.000Z",
+    "date": "2025-10-02",
     "source": "CNIO"
+  },
+  {
+    "title": "Computer Security: CERN, beautified",
+    "title_es": "Computer Security: CERN, beautified",
+    "url": "https://home.cern/news/news/computing/computer-security-cern-beautified",
+    "published": "2025-10-02T08:32:46.000Z",
+    "date": "2025-10-02",
+    "source": "CERN News"
+  },
+  {
+    "title": "AI-designed proteins test biosecurity safeguards",
+    "title_es": "AI-designed proteins test biosecurity safeguards",
+    "url": "https://www.sciencenews.org/article/ai-proteins-biosecurity-safeguards",
+    "published": "2025-10-02T18:00:00.000Z",
+    "date": "2025-10-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What is a shark?",
+    "title_es": "Explainer: What is a shark?",
+    "url": "https://www.snexplores.org/article/explainer-what-is-a-shark",
+    "published": "2025-10-02T10:30:00.000Z",
+    "date": "2025-10-02",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "New approach to gravitational wave detection opens the milli-Hz frontier",
+    "title_es": "New approach to gravitational wave detection opens the milli-Hz frontier",
+    "url": "https://phys.org/news/2025-10-approach-gravitational-milli-hz-frontier.html",
+    "published": "2025-10-02T23:00:01.000Z",
+    "date": "2025-10-02",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
@@ -40,60 +88,12 @@
     "source": "NASA (Top News)"
   },
   {
-    "title": "A grapevine bacteria may help douse wildfire-tainted wine’s ashy aftertaste",
-    "title_es": "A grapevine bacteria may help douse wildfire-tainted wine’s ashy aftertaste",
-    "url": "https://www.sciencenews.org/article/bacteria-douse-wildfire-wine-aftertaste",
-    "published": "2025-10-01T18:00:00.000Z",
-    "date": "2025-10-01",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists transform pee into a golden opportunity",
-    "title_es": "Scientists transform pee into a golden opportunity",
-    "url": "https://www.snexplores.org/article/yeast-transform-pee-valuable-mineral",
-    "published": "2025-10-01T10:30:00.000Z",
-    "date": "2025-10-01",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Soil fungus forms durable hydrogels with potential for biomedical materials",
-    "title_es": "Soil fungus forms durable hydrogels with potential for biomedical materials",
-    "url": "https://phys.org/news/2025-10-soil-fungus-durable-hydrogels-potential.html",
-    "published": "2025-10-01T21:24:04.000Z",
-    "date": "2025-10-01",
-    "source": "Phys.org (Latest)"
-  },
-  {
     "title": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
     "title_es": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
     "url": "https://journals.plos.org/plosone/article",
     "published": "2025-10-01T14:00:00.000Z",
     "date": "2025-10-01",
     "source": "PLOS ONE"
-  },
-  {
-    "title": "El CNIC participa en la XVI Carrera Popular del Corazón para impulsar la prevención cardiovascular",
-    "title_es": "El CNIC participa en la XVI Carrera Popular del Corazón para impulsar la prevención cardiovascular",
-    "url": "https://www.cnic.es/es/noticias/cnic-participa-xvi-carrera-popular-corazon-para-impulsar-prevencion-cardiovascular",
-    "published": "2025-09-30T07:09:22.000Z",
-    "date": "2025-09-30",
-    "source": "CNIC"
-  },
-  {
-    "title": "2025 Beamline for Schools winners at CERN, DESY and the University of Bonn",
-    "title_es": "2025 Beamline for Schools winners at CERN, DESY and the University of Bonn",
-    "url": "https://home.cern/news/news/cern/2025-beamline-schools-winners-cern-desy-and-university-bonn",
-    "published": "2025-09-30T10:00:34.000Z",
-    "date": "2025-09-30",
-    "source": "CERN News"
-  },
-  {
-    "title": "The vitality of old age",
-    "title_es": "The vitality of old age",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz7694",
-    "published": "2025-09-25T06:00:05.000Z",
-    "date": "2025-09-25",
-    "source": "Science.org"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
