@@ -1,5 +1,13 @@
 [
   {
+    "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+    "title_es": "Médicos aturdidos por el poder de un medicamento barato contra el cáncer de colon",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+    "date": "2025-10-04",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-04T00:00:00.000Z"
+  },
+  {
     "title": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
     "title_es": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
     "url": "https://arxiv.org/abs/2510.01187",
@@ -13,6 +21,46 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251002074001.htm",
     "date": "2025-10-03",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Ribonucleotide incorporation into mitochondrial DNA drives inflammation",
+    "title_es": "Corrección del autor: incorporación de ribonucleótidos en el ADN mitocondrial impulsa la inflamación",
+    "url": "https://www.nature.com/articles/s41586-025-09682-9",
+    "date": "2025-10-03",
+    "source": "Nature",
+    "published": "2025-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "Accelerator Report: LHC performance stays on track and is cruising towards the target",
+    "title_es": "Informe del acelerador: el rendimiento de LHC se mantiene en el camino y está navegando hacia el objetivo",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-lhc-performance-stays-track-and-cruising-towards-target",
+    "date": "2025-10-03",
+    "source": "CERN News",
+    "published": "2025-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "What Jane Goodall taught me about bones, loss and not wasting anything",
+    "title_es": "Lo que Jane Goodall me enseñó sobre los huesos, la pérdida y no desperdiciar nada",
+    "url": "https://www.sciencenews.org/article/jane-goodall-death-chimpanzee-skeletons",
+    "date": "2025-10-03",
+    "source": "Science News",
+    "published": "2025-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "Knotted strands of 500-year-old hair tell a surprising story",
+    "title_es": "Hilos anudados de cabello de 500 años Cuentan una historia sorprendente",
+    "url": "https://www.snexplores.org/article/knotted-inca-hair-keep-records",
+    "date": "2025-10-03",
+    "source": "Science News Explores",
+    "published": "2025-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "Molecular coating cleans up noisy quantum light",
+    "title_es": "El revestimiento molecular limpia la luz cuántica ruidosa",
+    "url": "https://phys.org/news/2025-10-molecular-coating-noisy-quantum.html",
+    "date": "2025-10-03",
+    "source": "Phys.org (Latest)",
     "published": "2025-10-03T00:00:00.000Z"
   },
   {
@@ -8880,8 +8928,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
-    "title_es": "Retirada: Astragalósido IV combinado con quercetina atenúa la fibrosis pulmonar inducida por sílice mediante la promoción de la autofagia y suprimiendo la piroptosis",
+    "title": "Gardenia jasminoides fruit extract ameliorates non-alcoholic steatohepatitis with fibrosis by modulating inflammatory and fibrogenic pathways",
+    "title_es": "<i> Gardenia jasminoides </i> El extracto de fruta mejora la esteatohepatitis no alcohólica con fibrosis al modular las vías inflamatorias y fibrogénicas",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

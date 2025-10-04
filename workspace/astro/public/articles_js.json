@@ -1,19 +1,59 @@
 [
   {
-    "title": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
-    "title_es": "Manim for STEM Education: Visualizing Complex Problems Through Animation",
-    "url": "https://arxiv.org/abs/2510.01187",
-    "published": "2025-10-03T04:00:00.000Z",
-    "date": "2025-10-03",
-    "source": "arXiv"
+    "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+    "title_es": "Doctors stunned by a cheap drug’s power against colon cancer",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+    "published": "2025-10-04T05:03:47.000Z",
+    "date": "2025-10-04",
+    "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Scientists just recreated a wildfire that made its own weather",
-    "title_es": "Scientists just recreated a wildfire that made its own weather",
-    "url": "https://www.sciencedaily.com/releases/2025/10/251002074001.htm",
-    "published": "2025-10-03T02:57:01.000Z",
+    "title": "Author Correction: Ribonucleotide incorporation into mitochondrial DNA drives inflammation",
+    "title_es": "Author Correction: Ribonucleotide incorporation into mitochondrial DNA drives inflammation",
+    "url": "https://www.nature.com/articles/s41586-025-09682-9",
+    "published": "2025-10-03T00:00:00.000Z",
     "date": "2025-10-03",
-    "source": "ScienceDaily (Top)"
+    "source": "Nature"
+  },
+  {
+    "title": "Accelerator Report: LHC performance stays on track and is cruising towards the target",
+    "title_es": "Accelerator Report: LHC performance stays on track and is cruising towards the target",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-lhc-performance-stays-track-and-cruising-towards-target",
+    "published": "2025-10-03T08:16:49.000Z",
+    "date": "2025-10-03",
+    "source": "CERN News"
+  },
+  {
+    "title": "What Jane Goodall taught me about bones, loss and not wasting anything",
+    "title_es": "What Jane Goodall taught me about bones, loss and not wasting anything",
+    "url": "https://www.sciencenews.org/article/jane-goodall-death-chimpanzee-skeletons",
+    "published": "2025-10-03T18:04:38.000Z",
+    "date": "2025-10-03",
+    "source": "Science News"
+  },
+  {
+    "title": "Knotted strands of 500-year-old hair tell a surprising story",
+    "title_es": "Knotted strands of 500-year-old hair tell a surprising story",
+    "url": "https://www.snexplores.org/article/knotted-inca-hair-keep-records",
+    "published": "2025-10-03T10:30:00.000Z",
+    "date": "2025-10-03",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Molecular coating cleans up noisy quantum light",
+    "title_es": "Molecular coating cleans up noisy quantum light",
+    "url": "https://phys.org/news/2025-10-molecular-coating-noisy-quantum.html",
+    "published": "2025-10-03T18:00:04.000Z",
+    "date": "2025-10-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Gardenia jasminoides fruit extract ameliorates non-alcoholic steatohepatitis with fibrosis by modulating inflammatory and fibrogenic pathways",
+    "title_es": "Gardenia jasminoides fruit extract ameliorates non-alcoholic steatohepatitis with fibrosis by modulating inflammatory and fibrogenic pathways",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-10-03T14:00:00.000Z",
+    "date": "2025-10-03",
+    "source": "PLOS ONE"
   },
   {
     "title": "A computer scientist’s technological gamble",
@@ -22,14 +62,6 @@
     "published": "2025-10-02T06:00:10.000Z",
     "date": "2025-10-02",
     "source": "Science.org"
-  },
-  {
-    "title": "Author Correction: EBI2 augments Tfh cell fate by promoting interaction with IL-2-quenching dendritic cells",
-    "title_es": "Author Correction: EBI2 augments Tfh cell fate by promoting interaction with IL-2-quenching dendritic cells",
-    "url": "https://www.nature.com/articles/s41586-025-09691-8",
-    "published": "2025-10-02T00:00:00.000Z",
-    "date": "2025-10-02",
-    "source": "Nature"
   },
   {
     "title": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
@@ -48,52 +80,12 @@
     "source": "CNIO"
   },
   {
-    "title": "Computer Security: CERN, beautified",
-    "title_es": "Computer Security: CERN, beautified",
-    "url": "https://home.cern/news/news/computing/computer-security-cern-beautified",
-    "published": "2025-10-02T08:32:46.000Z",
-    "date": "2025-10-02",
-    "source": "CERN News"
-  },
-  {
-    "title": "AI-designed proteins test biosecurity safeguards",
-    "title_es": "AI-designed proteins test biosecurity safeguards",
-    "url": "https://www.sciencenews.org/article/ai-proteins-biosecurity-safeguards",
-    "published": "2025-10-02T18:00:00.000Z",
-    "date": "2025-10-02",
-    "source": "Science News"
-  },
-  {
-    "title": "Explainer: What is a shark?",
-    "title_es": "Explainer: What is a shark?",
-    "url": "https://www.snexplores.org/article/explainer-what-is-a-shark",
-    "published": "2025-10-02T10:30:00.000Z",
-    "date": "2025-10-02",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "New approach to gravitational wave detection opens the milli-Hz frontier",
-    "title_es": "New approach to gravitational wave detection opens the milli-Hz frontier",
-    "url": "https://phys.org/news/2025-10-approach-gravitational-milli-hz-frontier.html",
-    "published": "2025-10-02T23:00:01.000Z",
-    "date": "2025-10-02",
-    "source": "Phys.org (Latest)"
-  },
-  {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
     "title_es": "October’s Night Sky Notes: Let’s Go, LIGO!",
     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
     "published": "2025-10-01T02:22:25.000Z",
     "date": "2025-10-01",
     "source": "NASA (Top News)"
-  },
-  {
-    "title": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
-    "title_es": "Withdrawal: Astragaloside IV combined with quercetin attenuates silica-induced pulmonary fibrosis by promoting autophagy and suppressing pyroptosis",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-10-01T14:00:00.000Z",
-    "date": "2025-10-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
