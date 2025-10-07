@@ -1,5 +1,21 @@
 [
   {
+    "title": "Generalization and the Rise of System-level Creativity in Science",
+    "title_es": "Generalization and the Rise of System-level Creativity in Science",
+    "url": "https://arxiv.org/abs/2510.03240",
+    "published": "2025-10-07T04:00:00.000Z",
+    "date": "2025-10-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Birds around the world share a mysterious warning cry",
+    "title_es": "Los pájaros de todo el mundo comparten un misterioso grito de advertencia",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251006051113.htm",
+    "date": "2025-10-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
     "title": "Hybrid Horizons: Policy for Post-Quantum Security",
     "title_es": "Hybrid Horizons: Policy for Post-Quantum Security",
     "url": "https://arxiv.org/abs/2510.02317",
@@ -13,6 +29,46 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251005085754.htm",
     "date": "2025-10-06",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration",
+    "title_es": "Toping: aprendizaje de gráficos topológicamente interpretables a través de la filtración de justificación persistente",
+    "url": "http://arxiv.org/abs/2510.05102v1",
+    "date": "2025-10-06",
+    "source": "arXiv",
+    "published": "2025-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "Connecting the dots: I trace the history of the East Kolkata Wetlands",
+    "title_es": "Conectando los puntos: Trace la historia de los humedales de Kolkata East",
+    "url": "https://www.nature.com/articles/d41586-025-03231-0",
+    "date": "2025-10-06",
+    "source": "Nature",
+    "published": "2025-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "Finding immune cells that stop a body from attacking itself wins medicine Nobel",
+    "title_es": "Encontrar células inmunes que impiden que un cuerpo se ataque a sí mismo gana la medicina Nobel",
+    "url": "https://www.sciencenews.org/article/immune-cells-medicine-nobel-prize-t-reg",
+    "date": "2025-10-06",
+    "source": "Science News",
+    "published": "2025-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "During heat waves, trees spew chemicals that worsen air pollution",
+    "title_es": "Durante las ondas de calor, los árboles arrojan productos químicos que empeoran la contaminación del aire",
+    "url": "https://www.snexplores.org/article/heat-waves-trees-worsen-air-pollution",
+    "date": "2025-10-06",
+    "source": "Science News Explores",
+    "published": "2025-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "Waste management workers have gone from hero to zero in the public's eyes since the pandemic, UK research says",
+    "title_es": "Los trabajadores de gestión de residuos han ido de héroe a cero a los ojos del público desde la pandemia, dice la investigación del Reino Unido",
+    "url": "https://phys.org/news/2025-10-workers-hero-eyes-pandemic-uk.html",
+    "date": "2025-10-06",
+    "source": "Phys.org (Latest)",
     "published": "2025-10-06T00:00:00.000Z"
   },
   {
@@ -8976,8 +9032,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Gardenia jasminoides fruit extract ameliorates non-alcoholic steatohepatitis with fibrosis by modulating inflammatory and fibrogenic pathways",
-    "title_es": "<i> Gardenia jasminoides </i> El extracto de fruta mejora la esteatohepatitis no alcohólica con fibrosis al modular las vías inflamatorias y fibrogénicas",
+    "title": "Nutrient synergy in wheat: Impacts of nitrogen and boron on productivity, accumulation, and soil nutrient retention",
+    "title_es": "Sinergia de nutrientes en el trigo: impactos del nitrógeno y el boro en la productividad, la acumulación y la retención de nutrientes del suelo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
