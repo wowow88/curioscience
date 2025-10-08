@@ -1,5 +1,29 @@
 [
   {
+    "title": "A note on a paper by Hashemi and Kapur",
+    "title_es": "A note on a paper by Hashemi and Kapur",
+    "url": "https://arxiv.org/abs/2510.05103",
+    "published": "2025-10-08T04:00:00.000Z",
+    "date": "2025-10-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Hubble captures a galaxy that glows in blue and gold",
+    "title_es": "Hubble capta una galaxia que brilla en azul y oro",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251007234522.htm",
+    "date": "2025-10-08",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Tree swallows thrive despite pollution from forever chemicals",
+    "title_es": "Las golondrinas arbóreas prosperan a pesar de la contaminación causada por productos químicos permanentes",
+    "url": "https://phys.org/news/2025-10-tree-swallows-pollution-chemicals.html",
+    "date": "2025-10-08",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
     "title": "Generalization and the Rise of System-level Creativity in Science",
     "title_es": "Generalization and the Rise of System-level Creativity in Science",
     "url": "https://arxiv.org/abs/2510.03240",
@@ -13,6 +37,46 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251006051113.htm",
     "date": "2025-10-07",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark",
+    "title_es": "EGONIGHT: Hacia la comprensión de la visión egocéntrica por la noche con un punto de referencia desafiante",
+    "url": "http://arxiv.org/abs/2510.06218v1",
+    "date": "2025-10-07",
+    "source": "arXiv",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Insect biodiversity monitoring must be expanded",
+    "title_es": "Se debe ampliar el monitoreo de la biodiversidad de los insectos",
+    "url": "https://www.nature.com/articles/d41586-025-03107-3",
+    "date": "2025-10-07",
+    "source": "Nature",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "De un descubrimiento de Nobel, a anticuerpos que generan millones a un centro público de investigación español",
+    "title_es": "De un descubrimiento de Nobel, a anticuerpos que generan millones a un centro público de investigación español",
+    "url": "https://www.cnio.es/noticias/de-un-descubrimiento-de-nobel-a-anticuerpos-que-generan-millones-a-un-centro-publico-de-investigacion-espanol/",
+    "date": "2025-10-07",
+    "source": "CNIO",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Antarctic krill eject more food when it’s contaminated with plastic",
+    "title_es": "Antártico Krill expulsa más alimentos cuando está contaminado con plástico",
+    "url": "https://www.sciencenews.org/article/antarctic-krill-eject-more-food-plastic",
+    "date": "2025-10-07",
+    "source": "Science News",
+    "published": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Finding cells that stop our body from attacking itself lands a Nobel",
+    "title_es": "Encontrar células que impiden que nuestro cuerpo se ataque a sí mismo aterriza a un Nobel",
+    "url": "https://www.snexplores.org/article/regulatory-immune-cells-medicine-nobel",
+    "date": "2025-10-07",
+    "source": "Science News Explores",
     "published": "2025-10-07T00:00:00.000Z"
   },
   {
@@ -129,7 +193,7 @@
   },
   {
     "title": "Accelerator Report: LHC performance stays on track and is cruising towards the target",
-    "title_es": "Informe del acelerador: el rendimiento de LHC se mantiene en el camino y está navegando hacia el objetivo",
+    "title_es": "Informe del acelerador: el rendimiento del LHC se mantiene encaminado y avanza hacia el objetivo",
     "url": "https://home.cern/news/news/accelerators/accelerator-report-lhc-performance-stays-track-and-cruising-towards-target",
     "date": "2025-10-03",
     "source": "CERN News",
@@ -193,7 +257,7 @@
   },
   {
     "title": "A computer scientist’s technological gamble",
-    "title_es": "La apuesta tecnológica de un científico informático",
+    "title_es": "La apuesta tecnológica de un informático",
     "url": "https://www.science.org/doi/abs/10.1126/science.aeb1091",
     "date": "2025-10-02",
     "source": "Science.org",
@@ -273,7 +337,7 @@
   },
   {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
-    "title_es": "Notas del cielo nocturno de octubre: ¡vamos, Ligo!",
+    "title_es": "Notas del cielo nocturno de octubre: ¡Vamos, LIGO!",
     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
     "date": "2025-10-01",
     "source": "NASA (Top News)",
@@ -9032,8 +9096,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Nutrient synergy in wheat: Impacts of nitrogen and boron on productivity, accumulation, and soil nutrient retention",
-    "title_es": "Sinergia de nutrientes en el trigo: impactos del nitrógeno y el boro en la productividad, la acumulación y la retención de nutrientes del suelo",
+    "title": "Prospective associations of COVID-related stress with vaping nicotine and cannabis among high school students: Mediated by vaping susceptibility",
+    "title_es": "Asociaciones prospectivas del estrés relacionado con COVID con el vapeo de nicotina y cannabis entre estudiantes de secundaria: mediado por la susceptibilidad al vapeo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -42142,7 +42206,7 @@
   },
   {
     "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
-    "title_es": "Estudiantes de Bélgica, Canadá, México, Türkiye y los Estados Unidos ganan la duodécima edición de Beamline para escuelas",
+    "title_es": "Estudiantes de Bélgica, Canadá, México, Turquía y Estados Unidos ganan la 12ª edición de Beamline for Schools",
     "url": "https://home.cern/news/press-release/cern/students-belgium-canada-mexico-turkiye-and-usa-win-12th-edition-beamline",
     "date": "2025-07-09",
     "source": "CERN Press",
