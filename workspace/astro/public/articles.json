@@ -1,5 +1,21 @@
 [
   {
+    "title": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
+    "title_es": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
+    "url": "https://arxiv.org/abs/2510.06222",
+    "published": "2025-10-09T04:00:00.000Z",
+    "date": "2025-10-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
+    "title_es": "Los científicos sugieren que el cerebro puede funcionar mejor con 7 sentidos, no solo con 5",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+    "date": "2025-10-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
     "title": "A note on a paper by Hashemi and Kapur",
     "title_es": "A note on a paper by Hashemi and Kapur",
     "url": "https://arxiv.org/abs/2510.05103",
@@ -19,6 +35,54 @@
     "title": "Tree swallows thrive despite pollution from forever chemicals",
     "title_es": "Las golondrinas arbóreas prosperan a pesar de la contaminación causada por productos químicos permanentes",
     "url": "https://phys.org/news/2025-10-tree-swallows-pollution-chemicals.html",
+    "date": "2025-10-08",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Artificial Hippocampus Networks for Efficient Long-Context Modeling",
+    "title_es": "Redes artificiales de hipocampo para un modelado eficiente de contexto largo",
+    "url": "http://arxiv.org/abs/2510.07318v1",
+    "date": "2025-10-08",
+    "source": "arXiv",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Enzyme specificity prediction using cross attention graph neural networks",
+    "title_es": "Predicción de la especificidad enzimática mediante redes neuronales de gráficos de atención cruzada",
+    "url": "https://www.nature.com/articles/s41586-025-09697-2",
+    "date": "2025-10-08",
+    "source": "Nature",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
+    "title_es": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
+    "url": "https://www.cnic.es/es/noticias/cnic-recibe-distintivo-igualdad-empresa",
+    "date": "2025-10-08",
+    "source": "CNIC",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
+    "title_es": "La química que funciona como el bolso mágico de Hermione gana el Nobel de química en 2025",
+    "url": "https://www.sciencenews.org/article/2025-chemistry-nobel-prize-hermione",
+    "date": "2025-10-08",
+    "source": "Science News",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Discoveries behind quantum computers win the Nobel Prize in physics",
+    "title_es": "Los descubrimientos detrás de las computadoras cuánticas ganan el Premio Nobel de Física",
+    "url": "https://www.snexplores.org/article/quantum-computers-circuits-physics-nobel",
+    "date": "2025-10-08",
+    "source": "Science News Explores",
+    "published": "2025-10-08T00:00:00.000Z"
+  },
+  {
+    "title": "Antarctic Ocean of the last ice age reveals how a critical process of CO&#8322; storage may slow again",
+    "title_es": "El Océano Antártico de la última glaciación revela cómo un proceso crítico de CO&#8322; el almacenamiento puede volver a ralentizarse",
+    "url": "https://phys.org/news/2025-10-antarctic-ocean-ice-age-reveals.html",
     "date": "2025-10-08",
     "source": "Phys.org (Latest)",
     "published": "2025-10-08T00:00:00.000Z"
@@ -9096,8 +9160,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Prospective associations of COVID-related stress with vaping nicotine and cannabis among high school students: Mediated by vaping susceptibility",
-    "title_es": "Asociaciones prospectivas del estrés relacionado con COVID con el vapeo de nicotina y cannabis entre estudiantes de secundaria: mediado por la susceptibilidad al vapeo",
+    "title": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
+    "title_es": "Pronóstico basado en aprendizaje automático del índice de calidad del aire bajo patrones ambientales a largo plazo: un enfoque comparativo con XGBoost, LightGBM y SVM",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

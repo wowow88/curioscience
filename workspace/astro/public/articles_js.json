@@ -1,35 +1,67 @@
 [
   {
-    "title": "A note on a paper by Hashemi and Kapur",
-    "title_es": "A note on a paper by Hashemi and Kapur",
-    "url": "https://arxiv.org/abs/2510.05103",
-    "published": "2025-10-08T04:00:00.000Z",
-    "date": "2025-10-08",
+    "title": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
+    "title_es": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
+    "url": "https://arxiv.org/abs/2510.06222",
+    "published": "2025-10-09T04:00:00.000Z",
+    "date": "2025-10-09",
     "source": "arXiv"
   },
   {
-    "title": "Hubble captures a galaxy that glows in blue and gold",
-    "title_es": "Hubble captures a galaxy that glows in blue and gold",
-    "url": "https://www.sciencedaily.com/releases/2025/10/251007234522.htm",
-    "published": "2025-10-08T03:53:13.000Z",
-    "date": "2025-10-08",
+    "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
+    "title_es": "Scientists suggest the brain may work best with 7 senses, not just 5",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+    "published": "2025-10-09T03:55:49.000Z",
+    "date": "2025-10-09",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Tree swallows thrive despite pollution from forever chemicals",
-    "title_es": "Tree swallows thrive despite pollution from forever chemicals",
-    "url": "https://phys.org/news/2025-10-tree-swallows-pollution-chemicals.html",
-    "published": "2025-10-08T04:10:01.000Z",
+    "title": "Enzyme specificity prediction using cross attention graph neural networks",
+    "title_es": "Enzyme specificity prediction using cross attention graph neural networks",
+    "url": "https://www.nature.com/articles/s41586-025-09697-2",
+    "published": "2025-10-08T00:00:00.000Z",
+    "date": "2025-10-08",
+    "source": "Nature"
+  },
+  {
+    "title": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
+    "title_es": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
+    "url": "https://www.cnic.es/es/noticias/cnic-recibe-distintivo-igualdad-empresa",
+    "published": "2025-10-08T10:21:09.000Z",
+    "date": "2025-10-08",
+    "source": "CNIC"
+  },
+  {
+    "title": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
+    "title_es": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
+    "url": "https://www.sciencenews.org/article/2025-chemistry-nobel-prize-hermione",
+    "published": "2025-10-08T17:27:19.000Z",
+    "date": "2025-10-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Discoveries behind quantum computers win the Nobel Prize in physics",
+    "title_es": "Discoveries behind quantum computers win the Nobel Prize in physics",
+    "url": "https://www.snexplores.org/article/quantum-computers-circuits-physics-nobel",
+    "published": "2025-10-08T19:19:26.000Z",
+    "date": "2025-10-08",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Antarctic Ocean of the last ice age reveals how a critical process of CO&#8322; storage may slow again",
+    "title_es": "Antarctic Ocean of the last ice age reveals how a critical process of CO&#8322; storage may slow again",
+    "url": "https://phys.org/news/2025-10-antarctic-ocean-ice-age-reveals.html",
+    "published": "2025-10-08T21:07:04.000Z",
     "date": "2025-10-08",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Insect biodiversity monitoring must be expanded",
-    "title_es": "Insect biodiversity monitoring must be expanded",
-    "url": "https://www.nature.com/articles/d41586-025-03107-3",
-    "published": "2025-10-07T00:00:00.000Z",
-    "date": "2025-10-07",
-    "source": "Nature"
+    "title": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
+    "title_es": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-10-08T14:00:00.000Z",
+    "date": "2025-10-08",
+    "source": "PLOS ONE"
   },
   {
     "title": "De un descubrimiento de Nobel, a anticuerpos que generan millones a un centro público de investigación español",
@@ -38,30 +70,6 @@
     "published": "2025-10-07T13:20:43.000Z",
     "date": "2025-10-07",
     "source": "CNIO"
-  },
-  {
-    "title": "Antarctic krill eject more food when it’s contaminated with plastic",
-    "title_es": "Antarctic krill eject more food when it’s contaminated with plastic",
-    "url": "https://www.sciencenews.org/article/antarctic-krill-eject-more-food-plastic",
-    "published": "2025-10-07T23:01:00.000Z",
-    "date": "2025-10-07",
-    "source": "Science News"
-  },
-  {
-    "title": "Finding cells that stop our body from attacking itself lands a Nobel",
-    "title_es": "Finding cells that stop our body from attacking itself lands a Nobel",
-    "url": "https://www.snexplores.org/article/regulatory-immune-cells-medicine-nobel",
-    "published": "2025-10-07T16:25:26.000Z",
-    "date": "2025-10-07",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Prospective associations of COVID-related stress with vaping nicotine and cannabis among high school students: Mediated by vaping susceptibility",
-    "title_es": "Prospective associations of COVID-related stress with vaping nicotine and cannabis among high school students: Mediated by vaping susceptibility",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-10-07T14:00:00.000Z",
-    "date": "2025-10-07",
-    "source": "PLOS ONE"
   },
   {
     "title": "Accelerator Report: LHC performance stays on track and is cruising towards the target",
@@ -78,14 +86,6 @@
     "published": "2025-10-02T06:00:10.000Z",
     "date": "2025-10-02",
     "source": "Science.org"
-  },
-  {
-    "title": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
-    "title_es": "Abierta la 2ª convocatoria 2025 para el Acceso Abierto Competitivo (AAC) de ReDib",
-    "url": "https://www.cnic.es/es/noticias/abierta-2a-convocatoria-2025-para-acceso-abierto-competitivo-aac-redib",
-    "published": "2025-10-02T11:29:18.000Z",
-    "date": "2025-10-02",
-    "source": "CNIC"
   },
   {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",
