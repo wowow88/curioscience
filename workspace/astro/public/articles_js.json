@@ -1,66 +1,74 @@
 [
   {
-    "title": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
-    "title_es": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
-    "url": "https://arxiv.org/abs/2510.06222",
-    "published": "2025-10-09T04:00:00.000Z",
-    "date": "2025-10-09",
+    "title": "Deep Learning Based Approach to Enhanced Recognition of Emotions and Behavioral Patterns of Autistic Children",
+    "title_es": "Deep Learning Based Approach to Enhanced Recognition of Emotions and Behavioral Patterns of Autistic Children",
+    "url": "https://arxiv.org/abs/2510.07320",
+    "published": "2025-10-10T04:00:00.000Z",
+    "date": "2025-10-10",
     "source": "arXiv"
   },
   {
-    "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
-    "title_es": "Scientists suggest the brain may work best with 7 senses, not just 5",
-    "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
-    "published": "2025-10-09T03:55:49.000Z",
+    "title": "Lessons from Ascension Island's shark troubles could help boost conservation",
+    "title_es": "Lessons from Ascension Island's shark troubles could help boost conservation",
+    "url": "https://phys.org/news/2025-10-lessons-ascension-island-shark-boost.html",
+    "published": "2025-10-10T04:10:01.000Z",
+    "date": "2025-10-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "The complicated legacy of antibiotics",
+    "title_es": "The complicated legacy of antibiotics",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea3949",
+    "published": "2025-10-09T06:00:29.000Z",
+    "date": "2025-10-09",
+    "source": "Science.org"
+  },
+  {
+    "title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing",
+    "title_es": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing",
+    "url": "https://www.nature.com/articles/d41586-025-03279-y",
+    "published": "2025-10-09T00:00:00.000Z",
+    "date": "2025-10-09",
+    "source": "Nature"
+  },
+  {
+    "title": "Ven al CNIC a celebrar la Semana de la Ciencia y la Innovación 2025",
+    "title_es": "Ven al CNIC a celebrar la Semana de la Ciencia y la Innovación 2025",
+    "url": "https://www.cnic.es/es/noticias/ven-al-cnic-celebrar-semana-ciencia-innovacion-2025",
+    "published": "2025-10-09T10:41:30.000Z",
+    "date": "2025-10-09",
+    "source": "CNIC"
+  },
+  {
+    "title": "Mic’d bats reveal midnight songbird attacks",
+    "title_es": "Mic’d bats reveal midnight songbird attacks",
+    "url": "https://www.sciencenews.org/article/bats-attack-birds-halloween-night",
+    "published": "2025-10-09T18:00:00.000Z",
+    "date": "2025-10-09",
+    "source": "Science News"
+  },
+  {
+    "title": "The Vera Rubin Observatory is set to revolutionize astronomy",
+    "title_es": "The Vera Rubin Observatory is set to revolutionize astronomy",
+    "url": "https://www.snexplores.org/article/vera-rubin-observatory-telescope",
+    "published": "2025-10-09T10:30:00.000Z",
+    "date": "2025-10-09",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Tiny asteroid flew right over Antarctica, and no one saw it coming",
+    "title_es": "Tiny asteroid flew right over Antarctica, and no one saw it coming",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251009033240.htm",
+    "published": "2025-10-09T11:06:47.000Z",
     "date": "2025-10-09",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Enzyme specificity prediction using cross attention graph neural networks",
-    "title_es": "Enzyme specificity prediction using cross attention graph neural networks",
-    "url": "https://www.nature.com/articles/s41586-025-09697-2",
-    "published": "2025-10-08T00:00:00.000Z",
-    "date": "2025-10-08",
-    "source": "Nature"
-  },
-  {
-    "title": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
-    "title_es": "CNIC recibe el distintivo ‘Igualdad en la Empresa’",
-    "url": "https://www.cnic.es/es/noticias/cnic-recibe-distintivo-igualdad-empresa",
-    "published": "2025-10-08T10:21:09.000Z",
-    "date": "2025-10-08",
-    "source": "CNIC"
-  },
-  {
-    "title": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
-    "title_es": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
-    "url": "https://www.sciencenews.org/article/2025-chemistry-nobel-prize-hermione",
-    "published": "2025-10-08T17:27:19.000Z",
-    "date": "2025-10-08",
-    "source": "Science News"
-  },
-  {
-    "title": "Discoveries behind quantum computers win the Nobel Prize in physics",
-    "title_es": "Discoveries behind quantum computers win the Nobel Prize in physics",
-    "url": "https://www.snexplores.org/article/quantum-computers-circuits-physics-nobel",
-    "published": "2025-10-08T19:19:26.000Z",
-    "date": "2025-10-08",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Antarctic Ocean of the last ice age reveals how a critical process of CO&#8322; storage may slow again",
-    "title_es": "Antarctic Ocean of the last ice age reveals how a critical process of CO&#8322; storage may slow again",
-    "url": "https://phys.org/news/2025-10-antarctic-ocean-ice-age-reveals.html",
-    "published": "2025-10-08T21:07:04.000Z",
-    "date": "2025-10-08",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
-    "title_es": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
+    "title": "Analysis of factors impacting electoral integrity in Africa between 2006–2023 - Examining the association between free and fair election and rule of law",
+    "title_es": "Analysis of factors impacting electoral integrity in Africa between 2006–2023 - Examining the association between free and fair election and rule of law",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-10-08T14:00:00.000Z",
-    "date": "2025-10-08",
+    "published": "2025-10-09T14:00:00.000Z",
+    "date": "2025-10-09",
     "source": "PLOS ONE"
   },
   {
@@ -78,14 +86,6 @@
     "published": "2025-10-03T08:16:49.000Z",
     "date": "2025-10-03",
     "source": "CERN News"
-  },
-  {
-    "title": "A computer scientist’s technological gamble",
-    "title_es": "A computer scientist’s technological gamble",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeb1091",
-    "published": "2025-10-02T06:00:10.000Z",
-    "date": "2025-10-02",
-    "source": "Science.org"
   },
   {
     "title": "October’s Night Sky Notes: Let’s Go, LIGO!",

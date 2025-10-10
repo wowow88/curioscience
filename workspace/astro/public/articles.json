@@ -1,5 +1,21 @@
 [
   {
+    "title": "Deep Learning Based Approach to Enhanced Recognition of Emotions and Behavioral Patterns of Autistic Children",
+    "title_es": "Deep Learning Based Approach to Enhanced Recognition of Emotions and Behavioral Patterns of Autistic Children",
+    "url": "https://arxiv.org/abs/2510.07320",
+    "published": "2025-10-10T04:00:00.000Z",
+    "date": "2025-10-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Lessons from Ascension Island's shark troubles could help boost conservation",
+    "title_es": "Las lecciones de los problemas de los tiburones de la Isla Ascensión podrían ayudar a impulsar la conservación",
+    "url": "https://phys.org/news/2025-10-lessons-ascension-island-shark-boost.html",
+    "date": "2025-10-10",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-10T00:00:00.000Z"
+  },
+  {
     "title": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
     "title_es": "Inducing State Anxiety in LLM Agents Reproduces Human-Like Biases in Consumer Decision-Making",
     "url": "https://arxiv.org/abs/2510.06222",
@@ -11,6 +27,70 @@
     "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
     "title_es": "Los científicos sugieren que el cerebro puede funcionar mejor con 7 sentidos, no solo con 5",
     "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+    "date": "2025-10-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "BLAZER: Bootstrapping LLM-based Manipulation Agents with Zero-Shot Data Generation",
+    "title_es": "BLAZER: Arranque de agentes de manipulación basados ​​en LLM con generación de datos Zero-Shot",
+    "url": "http://arxiv.org/abs/2510.08572v1",
+    "date": "2025-10-09",
+    "source": "arXiv",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "The complicated legacy of antibiotics",
+    "title_es": "El complicado legado de los antibióticos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea3949",
+    "date": "2025-10-09",
+    "source": "Science.org",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing",
+    "title_es": "Las ratas topo desnudas viven durante décadas: los ajustes genéticos revelan información sobre el envejecimiento",
+    "url": "https://www.nature.com/articles/d41586-025-03279-y",
+    "date": "2025-10-09",
+    "source": "Nature",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "Ven al CNIC a celebrar la Semana de la Ciencia y la Innovación 2025",
+    "title_es": "Ven al CNIC a celebrar la Semana de la Ciencia y la Innovación 2025",
+    "url": "https://www.cnic.es/es/noticias/ven-al-cnic-celebrar-semana-ciencia-innovacion-2025",
+    "date": "2025-10-09",
+    "source": "CNIC",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acoge-la-presentacion-de-los-telescopios-ttt\" hreflang=\"es\">El Observatorio del Teide acoge la presentación de los telescopios TTT</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acoge-la-presentacion-de-los-telescopios-ttt\" hreflang=\"es\">El Observatorio del Teide acoge la presentación de los telescopios TTT</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acoge-la-presentacion-de-los-telescopios-ttt",
+    "date": "2025-10-09",
+    "source": "IAC",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "Mic’d bats reveal midnight songbird attacks",
+    "title_es": "Los murciélagos microfoneados revelan ataques de pájaros cantores a medianoche",
+    "url": "https://www.sciencenews.org/article/bats-attack-birds-halloween-night",
+    "date": "2025-10-09",
+    "source": "Science News",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "The Vera Rubin Observatory is set to revolutionize astronomy",
+    "title_es": "El Observatorio Vera Rubin está llamado a revolucionar la astronomía",
+    "url": "https://www.snexplores.org/article/vera-rubin-observatory-telescope",
+    "date": "2025-10-09",
+    "source": "Science News Explores",
+    "published": "2025-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny asteroid flew right over Antarctica, and no one saw it coming",
+    "title_es": "Un pequeño asteroide pasó sobre la Antártida y nadie lo vio venir",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251009033240.htm",
     "date": "2025-10-09",
     "source": "ScienceDaily (Top)",
     "published": "2025-10-09T00:00:00.000Z"
@@ -9160,8 +9240,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Machine learning-based forecasting of air quality index under long-term environmental patterns: A comparative approach with XGBoost, LightGBM, and SVM",
-    "title_es": "Pronóstico basado en aprendizaje automático del índice de calidad del aire bajo patrones ambientales a largo plazo: un enfoque comparativo con XGBoost, LightGBM y SVM",
+    "title": "Analysis of factors impacting electoral integrity in Africa between 2006–2023 - Examining the association between free and fair election and rule of law",
+    "title_es": "Análisis de los factores que influyen en la integridad electoral en África entre 2006 y 2023: examen de la asociación entre elecciones libres y justas y el estado de derecho",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
