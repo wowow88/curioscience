@@ -1,8 +1,48 @@
 [
   {
+    "title": "Comparative Analysis of Large Language Models for the Machine-Assisted Resolution of User Intentions",
+    "title_es": "Comparative Analysis of Large Language Models for the Machine-Assisted Resolution of User Intentions",
+    "url": "https://arxiv.org/abs/2510.08576",
+    "published": "2025-10-13T04:00:00.000Z",
+    "date": "2025-10-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "California’s next big one could be faster and far more destructive",
+    "title_es": "El próximo gran desastre de California podría ser más rápido y mucho más destructivo",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251012054628.htm",
+    "date": "2025-10-13",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
     "title": "DNA repair mechanisms help explain why naked mole-rats live a long life",
     "title_es": "Los mecanismos de reparación del ADN ayudan a explicar por qué las ratas topo desnudas viven una vida larga",
     "url": "https://phys.org/news/2025-10-dna-mechanisms-naked-mole-rats.html",
+    "date": "2025-10-12",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-12T00:00:00.000Z"
+  },
+  {
+    "title": "Coral die-off marks Earth’s first climate ‘tipping point’, scientists say",
+    "title_es": "La extinción de corales marca el primer “punto de inflexión” climático de la Tierra, dicen los científicos",
+    "url": "https://www.nature.com/articles/d41586-025-03316-w",
+    "date": "2025-10-12",
+    "source": "Nature",
+    "published": "2025-10-12T00:00:00.000Z"
+  },
+  {
+    "title": "Coral collapse signals Earth’s first climate tipping point",
+    "title_es": "El colapso de los corales señala el primer punto de inflexión climático de la Tierra",
+    "url": "https://www.sciencenews.org/article/coral-collapse-climate-tipping-point",
+    "date": "2025-10-12",
+    "source": "Science News",
+    "published": "2025-10-12T00:00:00.000Z"
+  },
+  {
+    "title": "Earth enters 'new reality' as coral reefs reach first climate tipping point",
+    "title_es": "La Tierra entra en una 'nueva realidad' cuando los arrecifes de coral alcanzan el primer punto de inflexión climático",
+    "url": "https://phys.org/news/2025-10-earth-reality-coral-reefs-climate.html",
     "date": "2025-10-12",
     "source": "Phys.org (Latest)",
     "published": "2025-10-12T00:00:00.000Z"
@@ -65,7 +105,7 @@
   },
   {
     "title": "Structures that work like Hermione’s magic handbag land a chemistry Nobel",
-    "title_es": "Estructuras que funcionan como el bolso mágico de Hermione obtienen el Nobel de Química",
+    "title_es": "Las estructuras que funcionan como el bolso mágico de Hermione obtienen el Nobel de química",
     "url": "https://www.snexplores.org/article/mof-metal-organic-chemistry-nobel",
     "date": "2025-10-10",
     "source": "Science News Explores",
