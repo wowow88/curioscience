@@ -1,10 +1,60 @@
 [
   {
+    "title": "Scientists build artificial neurons that work like real ones",
+    "title_es": "Los científicos construyen neuronas artificiales que funcionan como las reales",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+    "date": "2025-10-14",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "California’s next big one could be faster and far more destructive",
     "title_es": "El próximo gran desastre de California podría ser más rápido y mucho más destructivo",
     "url": "https://www.sciencedaily.com/releases/2025/10/251012054628.htm",
     "date": "2025-10-13",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Withdrawal: Shaping environmental responsibility through virtual wilderness: The key role of aesthetic psychology",
+    "title_es": "Retiro: Dar forma a la responsabilidad ambiental a través de la naturaleza virtual: el papel clave de la psicología estética",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-10-13",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images",
+    "title_es": "CodePlot-CoT: razonamiento visual matemático pensando con imágenes basadas en código",
+    "url": "http://arxiv.org/abs/2510.11718v1",
+    "date": "2025-10-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "Host cell Z-RNAs activate ZBP1 during virus infections",
+    "title_es": "Los Z-RNA de la célula huésped activan ZBP1 durante las infecciones virales",
+    "url": "https://www.nature.com/articles/s41586-025-09705-5",
+    "date": "2025-10-13",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x\" hreflang=\"es\">Una métrica Hα para identificar agujeros negros durmientes en binarias transitorias de rayos X</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x\" hreflang=\"es\">Una métrica Hα para identificar agujeros negros durmientes en binarias transitorias de rayos X</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x",
+    "date": "2025-10-13",
+    "source": "IAC"
+  },
+  {
+    "title": "Short exercise workouts can boost classroom performance",
+    "title_es": "Los entrenamientos cortos pueden mejorar el rendimiento en el aula",
+    "url": "https://www.snexplores.org/article/classroom-exercise-workouts-boost-brain",
+    "date": "2025-10-13",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "'Space tornadoes' could cause geomagnetic storms, but these phenomena aren't easy to study",
+    "title_es": "Los 'tornados espaciales' podrían provocar tormentas geomagnéticas, pero estos fenómenos no son fáciles de estudiar",
+    "url": "https://phys.org/news/2025-10-space-tornadoes-geomagnetic-storms-phenomena.html",
+    "date": "2025-10-13",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "DNA repair mechanisms help explain why naked mole-rats live a long life",
@@ -49,14 +99,6 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Antimicrobial and quorum sensing interference of a cysteine- and arginine-deleted linear Tachyplesin analog (CRDT) against <i>Staphylococcus aureus</i> and <i>Pseudomonas aeruginosa</i>",
-    "title_es": "Interferencia antimicrobiana y de detección de quórum de un análogo de taquiplesina lineal (CRDT) con eliminación de cisteína y arginina contra <i>Staphylococcus aureus</i> y <i>Pseudomonas aeruginosa</i>",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-10-10",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
-  },
-  {
     "title": "Author Correction: Loss-of-function mutations in PLD4 lead to systemic lupus erythematosus",
     "title_es": "Corrección del autor: las mutaciones de pérdida de función en PLD4 conducen al lupus eritematoso sistémico",
     "url": "https://www.nature.com/articles/s41586-025-09692-7",
@@ -64,8 +106,8 @@
     "source": "Nature"
   },
   {
-    "title": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada",
-    "title_es": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada",
+    "title": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada de precisión",
+    "title_es": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada de precisión",
     "url": "https://www.cnio.es/noticias/el-master-que-ha-impulsado-la-bioinformatica-en-espana-se-enfoca-en-la-medicina-personalizada/",
     "date": "2025-10-10",
     "source": "CNIO"

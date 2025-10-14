@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sequential Convex Programming for 6-DoF Powered Descent Guidance with Continuous-Time Compound State-Triggered Constraints",
+    "title_es": "Sequential Convex Programming for 6-DoF Powered Descent Guidance with Continuous-Time Compound State-Triggered Constraints",
+    "url": "https://arxiv.org/abs/2510.09610",
+    "published": "2025-10-14T04:00:00.000Z",
+    "date": "2025-10-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists build artificial neurons that work like real ones",
+    "title_es": "Los científicos construyen neuronas artificiales que funcionan como las reales",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+    "date": "2025-10-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
     "title": "Comparative Analysis of Large Language Models for the Machine-Assisted Resolution of User Intentions",
     "title_es": "Comparative Analysis of Large Language Models for the Machine-Assisted Resolution of User Intentions",
     "url": "https://arxiv.org/abs/2510.08576",
@@ -13,6 +29,46 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251012054628.htm",
     "date": "2025-10-13",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images",
+    "title_es": "CodePlot-CoT: razonamiento visual matemático pensando con imágenes basadas en código",
+    "url": "http://arxiv.org/abs/2510.11718v1",
+    "date": "2025-10-13",
+    "source": "arXiv",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "Host cell Z-RNAs activate ZBP1 during virus infections",
+    "title_es": "Los Z-RNA de la célula huésped activan ZBP1 durante las infecciones virales",
+    "url": "https://www.nature.com/articles/s41586-025-09705-5",
+    "date": "2025-10-13",
+    "source": "Nature",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x\" hreflang=\"es\">Una métrica Hα para identificar agujeros negros durmientes en binarias transitorias de rayos X</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x\" hreflang=\"es\">Una métrica Hα para identificar agujeros negros durmientes en binarias transitorias de rayos X</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/una-metrica-ha-para-identificar-agujeros-negros-durmientes-en-binarias-transitorias-de-rayos-x",
+    "date": "2025-10-13",
+    "source": "IAC",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "Short exercise workouts can boost classroom performance",
+    "title_es": "Los entrenamientos cortos pueden mejorar el rendimiento en el aula",
+    "url": "https://www.snexplores.org/article/classroom-exercise-workouts-boost-brain",
+    "date": "2025-10-13",
+    "source": "Science News Explores",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "'Space tornadoes' could cause geomagnetic storms, but these phenomena aren't easy to study",
+    "title_es": "Los 'tornados espaciales' podrían provocar tormentas geomagnéticas, pero estos fenómenos no son fáciles de estudiar",
+    "url": "https://phys.org/news/2025-10-space-tornadoes-geomagnetic-storms-phenomena.html",
+    "date": "2025-10-13",
+    "source": "Phys.org (Latest)",
     "published": "2025-10-13T00:00:00.000Z"
   },
   {
@@ -80,7 +136,7 @@
     "published": "2025-10-10T00:00:00.000Z"
   },
   {
-    "title": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada",
+    "title": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada de precisión",
     "title_es": "El máster que ha impulsado la bioinformática en España se enfoca en la medicina personalizada",
     "url": "https://www.cnio.es/noticias/el-master-que-ha-impulsado-la-bioinformatica-en-espana-se-enfoca-en-la-medicina-personalizada/",
     "date": "2025-10-10",
@@ -9360,8 +9416,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Antimicrobial and quorum sensing interference of a cysteine- and arginine-deleted linear Tachyplesin analog (CRDT) against Staphylococcus aureus and Pseudomonas aeruginosa",
-    "title_es": "Interferencia antimicrobiana y de detección de quórum de un análogo de taquiplesina lineal (CRDT) con eliminación de cisteína y arginina contra <i>Staphylococcus aureus</i> y <i>Pseudomonas aeruginosa</i>",
+    "title": "Withdrawal: Shaping environmental responsibility through virtual wilderness: The key role of aesthetic psychology",
+    "title_es": "Retiro: Dar forma a la responsabilidad ambiental a través de la naturaleza virtual: el papel clave de la psicología estética",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
