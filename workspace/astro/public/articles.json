@@ -1,5 +1,29 @@
 [
   {
+    "title": "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis",
+    "title_es": "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis",
+    "url": "https://arxiv.org/abs/2510.11722",
+    "published": "2025-10-15T04:00:00.000Z",
+    "date": "2025-10-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists lose jobs and grants as US government shutdown takes a toll",
+    "title_es": "Los científicos pierden empleos y subvenciones mientras el cierre del gobierno de EE. UU. pasa factura",
+    "url": "https://www.nature.com/articles/d41586-025-03365-1",
+    "date": "2025-10-15",
+    "source": "Nature",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "World's largest rays may be diving to extreme depths to build mental maps of vast oceans",
+    "title_es": "Las rayas más grandes del mundo pueden estar sumergiéndose a profundidades extremas para construir mapas mentales de vastos océanos",
+    "url": "https://phys.org/news/2025-10-world-largest-rays-extreme-depths.html",
+    "date": "2025-10-15",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
     "title": "Sequential Convex Programming for 6-DoF Powered Descent Guidance with Continuous-Time Compound State-Triggered Constraints",
     "title_es": "Sequential Convex Programming for 6-DoF Powered Descent Guidance with Continuous-Time Compound State-Triggered Constraints",
     "url": "https://arxiv.org/abs/2510.09610",
@@ -11,6 +35,46 @@
     "title": "Scientists build artificial neurons that work like real ones",
     "title_es": "Los científicos construyen neuronas artificiales que funcionan como las reales",
     "url": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+    "date": "2025-10-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving",
+    "title_es": "DriveVLA-W0: Los modelos mundiales amplifican la ley de escalamiento de datos en la conducción autónoma",
+    "url": "http://arxiv.org/abs/2510.12796v1",
+    "date": "2025-10-14",
+    "source": "arXiv",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "An upgrade to simplify CERN expenditure tracking (CET)",
+    "title_es": "Una actualización para simplificar el seguimiento de gastos del CERN (CET)",
+    "url": "https://home.cern/news/news/cern/upgrade-simplify-cern-expenditure-tracking-cet",
+    "date": "2025-10-14",
+    "source": "CERN News",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "The viral Chicago ‘Rat Hole’ almost certainly wasn’t made by a rat",
+    "title_es": "Es casi seguro que el 'Rat Hole' viral de Chicago no fue creado por una rata",
+    "url": "https://www.sciencenews.org/article/viral-chicago-rat-hole-squirrel",
+    "date": "2025-10-14",
+    "source": "Science News",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Fossil teeth reveal some dinos were fussy eaters",
+    "title_es": "Los dientes fósiles revelan que algunos dinosaurios eran quisquillosos con la comida",
+    "url": "https://www.snexplores.org/article/fossil-teeth-calcium-dinos-fussy-eaters",
+    "date": "2025-10-14",
+    "source": "Science News Explores",
+    "published": "2025-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "The Sun’s hidden poles could finally reveal its greatest secrets",
+    "title_es": "Los polos ocultos del Sol finalmente podrían revelar sus mayores secretos",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251014014438.htm",
     "date": "2025-10-14",
     "source": "ScienceDaily (Top)",
     "published": "2025-10-14T00:00:00.000Z"
@@ -88,7 +152,7 @@
     "published": "2025-10-12T00:00:00.000Z"
   },
   {
-    "title": "Coral collapse signals Earth’s first climate tipping point",
+    "title": "Coral collapse signals Earth’s first climate tipping point",
     "title_es": "El colapso de los corales señala el primer punto de inflexión climático de la Tierra",
     "url": "https://www.sciencenews.org/article/coral-collapse-climate-tipping-point",
     "date": "2025-10-12",
@@ -9416,8 +9480,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Withdrawal: Shaping environmental responsibility through virtual wilderness: The key role of aesthetic psychology",
-    "title_es": "Retiro: Dar forma a la responsabilidad ambiental a través de la naturaleza virtual: el papel clave de la psicología estética",
+    "title": "Correction: The relationship between teacher commitment, teacher self-efficacy, and work-related quality of life among science teachers",
+    "title_es": "Corrección: La relación entre el compromiso docente, la autoeficacia docente y la calidad de vida relacionada con el trabajo entre los profesores de ciencias.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
