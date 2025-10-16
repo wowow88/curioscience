@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Beautiful Deception: How 256 Bits Pretend to be Infinity",
+    "title_es": "The Beautiful Deception: How 256 Bits Pretend to be Infinity",
+    "url": "https://arxiv.org/abs/2510.12802",
+    "published": "2025-10-16T04:00:00.000Z",
+    "date": "2025-10-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Who or what dug Mars’ mysterious gullies? The answer is explosive",
+    "title_es": "¿Quién o qué excavó los misteriosos barrancos de Marte? La respuesta es explosiva",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251015230949.htm",
+    "date": "2025-10-16",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "DNA signaling cascades offer a better way to monitor drug therapy at home",
+    "title_es": "Las cascadas de señalización de ADN ofrecen una mejor manera de controlar la terapia farmacológica en casa",
+    "url": "https://phys.org/news/2025-10-dna-cascades-drug-therapy-home.html",
+    "date": "2025-10-16",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-16T00:00:00.000Z"
+  },
+  {
     "title": "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis",
     "title_es": "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis",
     "url": "https://arxiv.org/abs/2510.11722",
@@ -21,6 +45,46 @@
     "url": "https://phys.org/news/2025-10-world-largest-rays-extreme-depths.html",
     "date": "2025-10-15",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Generative Universal Verifier as Multimodal Meta-Reasoner",
+    "title_es": "Verificador universal generativo como meta-razonador multimodal",
+    "url": "http://arxiv.org/abs/2510.13804v1",
+    "date": "2025-10-15",
+    "source": "arXiv",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Deaminative cross-coupling of amines by boryl radical β-scission",
+    "title_es": "Acoplamiento cruzado desaminado de aminas mediante escisión β del radical borilo",
+    "url": "https://www.nature.com/articles/s41586-025-09725-1",
+    "date": "2025-10-15",
+    "source": "Nature",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Fusing forces – accelerating open science through collaboration",
+    "title_es": "Fusionando fuerzas: acelerando la ciencia abierta a través de la colaboración",
+    "url": "https://home.cern/news/news/cern/fusing-forces-accelerating-open-science-through-collaboration",
+    "date": "2025-10-15",
+    "source": "CERN News",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "These ancient bumblebees were found with their pollen source",
+    "title_es": "Estos antiguos abejorros fueron encontrados con su fuente de polen.",
+    "url": "https://www.sciencenews.org/article/ancient-bumblebees-found-pollen",
+    "date": "2025-10-15",
+    "source": "Science News",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Connections at school could limit bullying’s harm to mental health",
+    "title_es": "Las conexiones en la escuela podrían limitar el daño del acoso a la salud mental",
+    "url": "https://www.snexplores.org/article/school-bullying-teen-mental-health",
+    "date": "2025-10-15",
+    "source": "Science News Explores",
     "published": "2025-10-15T00:00:00.000Z"
   },
   {
@@ -9480,8 +9544,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: The relationship between teacher commitment, teacher self-efficacy, and work-related quality of life among science teachers",
-    "title_es": "Corrección: La relación entre el compromiso docente, la autoeficacia docente y la calidad de vida relacionada con el trabajo entre los profesores de ciencias.",
+    "title": "Functions of coastal feeder bluff systems: Implications for prioritizing protection and restoration",
+    "title_es": "Funciones de los sistemas de acantilados alimentadores costeros: implicaciones para priorizar la protección y restauración",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
