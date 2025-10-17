@@ -1,5 +1,12 @@
 [
   {
+    "title": "Rogue black hole shocks astronomers with record radio blast",
+    "title_es": "Un agujero negro rebelde sorprende a los astrónomos con una explosión de radio récord",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251016223026.htm",
+    "date": "2025-10-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Who or what dug Mars’ mysterious gullies? The answer is explosive",
     "title_es": "¿Quién o qué excavó los misteriosos barrancos de Marte? La respuesta es explosiva",
     "url": "https://www.sciencedaily.com/releases/2025/10/251015230949.htm",
@@ -10,6 +17,70 @@
     "title": "DNA signaling cascades offer a better way to monitor drug therapy at home",
     "title_es": "Las cascadas de señalización de ADN ofrecen una mejor manera de controlar la terapia farmacológica en casa",
     "url": "https://phys.org/news/2025-10-dna-cascades-drug-therapy-home.html",
+    "date": "2025-10-16",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Performance and carcass characteristics of Nellore cattle fed a high-concentrate diet with a phytogenic additive blend",
+    "title_es": "Rendimiento y características de la canal de ganado Nellore alimentado con una dieta alta en concentrado con una mezcla de aditivos fitógenos",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-10-16",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Coupled Diffusion Sampling for Training-Free Multi-View Image Editing",
+    "title_es": "Muestreo de difusión acoplado para edición de imágenes de vista múltiple sin capacitación",
+    "url": "http://arxiv.org/abs/2510.14981v1",
+    "date": "2025-10-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "A radically organic worldview turns 100",
+    "title_es": "Una cosmovisión radicalmente orgánica cumple 100 años",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz5359",
+    "date": "2025-10-16",
+    "source": "Science.org"
+  },
+  {
+    "title": "This gene causes obesity — and shields against heart disease",
+    "title_es": "Este gen causa obesidad y protege contra las enfermedades cardíacas",
+    "url": "https://www.nature.com/articles/d41586-025-03387-9",
+    "date": "2025-10-16",
+    "source": "Nature"
+  },
+  {
+    "title": "Fármaco en ensayo contra el principal oncogén en cáncer de páncreas: pequeño paso para pacientes, gran salto para la investigación",
+    "title_es": "Fármaco en ensayo contra el principal oncogén en cáncer de páncreas: pequeño paso para pacientes, gran salto para la investigación",
+    "url": "https://www.cnio.es/noticias/farmaco-en-ensayo-contra-el-principal-oncogen-en-cancer-de-pancreas-pequeno-paso-para-pacientes-gran-salto-para-la-investigacion/",
+    "date": "2025-10-16",
+    "source": "CNIO"
+  },
+  {
+    "title": "Leadership handover at HL-LHC",
+    "title_es": "Traspaso de liderazgo en HL-LHC",
+    "url": "https://home.cern/news/news/accelerators/leadership-handover-hl-lhc",
+    "date": "2025-10-16",
+    "source": "CERN News"
+  },
+  {
+    "title": "An estimated 54,600 young children are malnourished in Gaza",
+    "title_es": "Se estima que 54.600 niños pequeños están desnutridos en Gaza",
+    "url": "https://www.sciencenews.org/article/gaza-children-malnourished-palestine",
+    "date": "2025-10-16",
+    "source": "Science News"
+  },
+  {
+    "title": "Cities across the world are sinking. Here’s how they might rebound",
+    "title_es": "Las ciudades de todo el mundo se están hundiendo. Así es como podrían recuperarse",
+    "url": "https://www.snexplores.org/article/cities-sinking-floods-groundwater",
+    "date": "2025-10-16",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Surprising bacteria discovery links Hawaiʻi's groundwater to the ocean",
+    "title_es": "Sorprendente descubrimiento de bacterias vincula el agua subterránea de Hawái con el océano",
+    "url": "https://phys.org/news/2025-10-bacteria-discovery-links-hawaii-groundwater.html",
     "date": "2025-10-16",
     "source": "Phys.org (Latest)"
   },
@@ -26,14 +97,6 @@
     "url": "https://phys.org/news/2025-10-world-largest-rays-extreme-depths.html",
     "date": "2025-10-15",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Functions of coastal feeder bluff systems: Implications for prioritizing protection and restoration",
-    "title_es": "Funciones de los sistemas de acantilados alimentadores costeros: implicaciones para priorizar la protección y restauración",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-10-15",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Generative Universal Verifier as Multimodal Meta-Reasoner",
