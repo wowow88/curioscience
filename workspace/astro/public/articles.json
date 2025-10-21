@@ -1,11 +1,75 @@
 [
   {
+    "title": "A Semantic Generalization of Shannon's Information Theory and Applications",
+    "title_es": "A Semantic Generalization of Shannon's Information Theory and Applications",
+    "url": "https://arxiv.org/abs/2510.15871",
+    "published": "2025-10-21T04:00:00.000Z",
+    "date": "2025-10-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Feeling stressed? Science finds a simple way to take back control",
+    "title_es": "¿Te sientes estresado? La ciencia encuentra una forma sencilla de recuperar el control",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251020092833.htm",
+    "date": "2025-10-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "Life in the fast (and slow) lanes for salmon",
+    "title_es": "La vida en las vías rápidas (y lentas) del salmón",
+    "url": "https://phys.org/news/2025-10-life-fast-lanes-salmon.html",
+    "date": "2025-10-21",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-21T00:00:00.000Z"
+  },
+  {
     "title": "Design and Analysis of Parallel Artificial Protozoa Optimizer (P-APO) using CUDA Architecture",
     "title_es": "Design and Analysis of Parallel Artificial Protozoa Optimizer (P-APO) using CUDA Architecture",
     "url": "https://arxiv.org/abs/2510.14982",
     "published": "2025-10-20T04:00:00.000Z",
     "date": "2025-10-20",
     "source": "arXiv"
+  },
+  {
+    "title": "Unbiased Gradient Low-Rank Projection",
+    "title_es": "Proyección de gradiente imparcial de bajo rango",
+    "url": "http://arxiv.org/abs/2510.17802v1",
+    "date": "2025-10-20",
+    "source": "arXiv",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Selective Methylene Oxidation in α,β-Unsaturated Carbonyl Natural Products",
+    "title_es": "Oxidación selectiva de metileno en productos naturales de carbonilo α,β-insaturados",
+    "url": "https://www.nature.com/articles/s41586-025-09742-0",
+    "date": "2025-10-20",
+    "source": "Nature",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Cardiovascular health with a gender perspective: Experts from 21 European countries gather in Madrid for the JACARDI General Assembly",
+    "title_es": "Cardiovascular health with a gender perspective: Experts from 21 European countries gather in Madrid for the JACARDI General Assembly",
+    "url": "https://www.cnic.es/es/node/237512",
+    "date": "2025-10-20",
+    "source": "CNIC",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Guppies fall for a classic optical illusion. Doves, usually, do too",
+    "title_es": "Los guppies se enamoran de una ilusión óptica clásica. Las palomas, por lo general, también lo hacen.",
+    "url": "https://www.sciencenews.org/article/guppies-optical-illusion-doves",
+    "date": "2025-10-20",
+    "source": "Science News",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Ripple bugs’ frilly feet inspired a water-striding robot",
+    "title_es": "Los pies con volantes de los insectos ondulados inspiraron un robot que caminaba sobre el agua",
+    "url": "https://www.snexplores.org/article/ripple-bug-robot-feet-walk-on-water",
+    "date": "2025-10-20",
+    "source": "Science News Explores",
+    "published": "2025-10-20T00:00:00.000Z"
   },
   {
     "title": "Einstein’s overlooked idea could explain how the Universe really began",
@@ -277,6 +341,14 @@
     "url": "https://www.snexplores.org/article/school-bullying-teen-mental-health",
     "date": "2025-10-15",
     "source": "Science News Explores",
+    "published": "2025-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-inteligencia-artificial-y-los-agujeros-negros-protagonizan-una-nueva-sesion-del-ciclo-del-cielo-la\" hreflang=\"es\">La inteligencia artificial y los agujeros negros protagonizan una nueva sesión del ciclo “Del cielo a la tesis” en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-inteligencia-artificial-y-los-agujeros-negros-protagonizan-una-nueva-sesion-del-ciclo-del-cielo-la\" hreflang=\"es\">La inteligencia artificial y los agujeros negros protagonizan una nueva sesión del ciclo “Del cielo a la tesis” en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-inteligencia-artificial-y-los-agujeros-negros-protagonizan-una-nueva-sesion-del-ciclo-del-cielo-la",
+    "date": "2025-10-15",
+    "source": "IAC",
     "published": "2025-10-15T00:00:00.000Z"
   },
   {
@@ -9736,8 +9808,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effects of a loaded change of direction training program on physical performance in U-19 elite soccer players",
-    "title_es": "Efectos de un programa de entrenamiento cargado de cambios de dirección sobre el rendimiento físico en jugadores de fútbol de élite sub-19",
+    "title": "Correction: Occupational and geographical differentials in financial protection against healthcare out-of-pocket payments in Nepal: Evidence for universal health coverage",
+    "title_es": "Corrección: Diferenciales ocupacionales y geográficos en la protección financiera contra los pagos directos de atención médica en Nepal: evidencia de la cobertura sanitaria universal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
