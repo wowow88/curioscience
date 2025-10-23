@@ -1,5 +1,21 @@
 [
   {
+    "title": "LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure",
+    "title_es": "LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure",
+    "url": "https://arxiv.org/abs/2510.18877",
+    "published": "2025-10-23T04:00:00.000Z",
+    "date": "2025-10-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "College faculty are under pressure to say and do the right thing. The stress also trickles down to students",
+    "title_es": "Los profesores universitarios están bajo presión para decir y hacer lo correcto. El estrés también llega a los estudiantes",
+    "url": "https://phys.org/news/2025-10-college-faculty-pressure-stress-trickles.html",
+    "date": "2025-10-23",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
     "title": "LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA",
     "title_es": "LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA",
     "url": "https://arxiv.org/abs/2510.17814",
@@ -21,6 +37,54 @@
     "url": "https://phys.org/news/2025-10-ghosts.html",
     "date": "2025-10-22",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Semantic World Models",
+    "title_es": "Modelos del mundo semántico",
+    "url": "http://arxiv.org/abs/2510.19818v1",
+    "date": "2025-10-22",
+    "source": "arXiv",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Discovering state-of-the-art reinforcement learning algorithms",
+    "title_es": "Descubriendo algoritmos de aprendizaje por refuerzo de última generación",
+    "url": "https://www.nature.com/articles/s41586-025-09761-x",
+    "date": "2025-10-22",
+    "source": "Nature",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "The Dominican Republic Honors Dr. Valentín Fuster with Its Highest Distinction",
+    "title_es": "The Dominican Republic Honors Dr. Valentín Fuster with Its Highest Distinction",
+    "url": "https://www.cnic.es/es/node/237586",
+    "date": "2025-10-22",
+    "source": "CNIC",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Quantum ‘echoes’ reveal the potential of Google’s quantum computer",
+    "title_es": "Los 'ecos' cuánticos revelan el potencial del ordenador cuántico de Google",
+    "url": "https://www.sciencenews.org/article/quantum-echoes-google-computer",
+    "date": "2025-10-22",
+    "source": "Science News",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "This ancient Siberian ice mummy had intricate tattoos",
+    "title_es": "Esta antigua momia de hielo siberiana tenía tatuajes intrincados",
+    "url": "https://www.snexplores.org/article/ancient-tattoos-siberian-ice-mummy",
+    "date": "2025-10-22",
+    "source": "Science News Explores",
+    "published": "2025-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Stanford’s tiny eye chip helps the blind see again",
+    "title_es": "El pequeño chip ocular de Stanford ayuda a los ciegos a volver a ver",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251022023118.htm",
+    "date": "2025-10-22",
+    "source": "ScienceDaily (Top)",
     "published": "2025-10-22T00:00:00.000Z"
   },
   {
@@ -133,6 +197,14 @@
     "url": "https://www.snexplores.org/article/ripple-bug-robot-feet-walk-on-water",
     "date": "2025-10-20",
     "source": "Science News Explores",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Ireland becomes an Associate Member State of CERN",
+    "title_es": "Irlanda se convierte en Estado miembro asociado del CERN",
+    "url": "https://home.cern/news/news/cern/ireland-becomes-associate-member-state-cern",
+    "date": "2025-10-20",
+    "source": "CERN News",
     "published": "2025-10-20T00:00:00.000Z"
   },
   {
@@ -9872,8 +9944,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Beyond potency: A proposed lexicon for sensory differentiation of Cannabis sativa L. aroma",
-    "title_es": "Más allá de la potencia: una propuesta de léxico para la diferenciación sensorial del aroma de <i>Cannabis sativa</i> L.",
+    "title": "Association between dietary B vitamins intake and age-specific blood pressure: A cross-sectional study in American adults",
+    "title_es": "Asociación entre la ingesta dietética de vitaminas B y la presión arterial específica de la edad: un estudio transversal en adultos estadounidenses",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
