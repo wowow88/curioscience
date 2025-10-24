@@ -1,5 +1,21 @@
 [
   {
+    "title": "Excitation of Looped Bistable Bands for High-Speed Linear Actuation",
+    "title_es": "Excitation of Looped Bistable Bands for High-Speed Linear Actuation",
+    "url": "https://arxiv.org/abs/2510.19834",
+    "published": "2025-10-24T04:00:00.000Z",
+    "date": "2025-10-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "A tiny fossil suggests bowerbirds once lived in ancient New Zealand—new research",
+    "title_es": "Un pequeño fósil sugiere que los glorietas vivieron alguna vez en la antigua Nueva Zelanda: nueva investigación",
+    "url": "https://phys.org/news/2025-10-tiny-fossil-bowerbirds-ancient-zealand.html",
+    "date": "2025-10-24",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-24T00:00:00.000Z"
+  },
+  {
     "title": "LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure",
     "title_es": "LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure",
     "url": "https://arxiv.org/abs/2510.18877",
@@ -13,6 +29,78 @@
     "url": "https://phys.org/news/2025-10-college-faculty-pressure-stress-trickles.html",
     "date": "2025-10-23",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge",
+    "title_es": "Hacia la traducción de modalidad general con puente de difusión latente contrastiva y predictiva",
+    "url": "http://arxiv.org/abs/2510.20819v1",
+    "date": "2025-10-23",
+    "source": "arXiv",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Vaccinations for all",
+    "title_es": "Vacunas para todos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea2464",
+    "date": "2025-10-23",
+    "source": "Science.org",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "This AI method could turbocharge the hunt for new medicines",
+    "title_es": "Este método de IA podría impulsar la búsqueda de nuevos medicamentos",
+    "url": "https://www.nature.com/articles/d41586-025-03441-6",
+    "date": "2025-10-23",
+    "source": "Nature",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "El trabajo investigador del CNIC, portada de National Geographic España",
+    "title_es": "El trabajo investigador del CNIC, portada de National Geographic España",
+    "url": "https://www.cnic.es/es/noticias/trabajo-investigador-cnic-portada-national-geographic-espana",
+    "date": "2025-10-23",
+    "source": "CNIC",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Las casi 56.000 muestras del Biobanco del CNIO ya forman parte de la mayor red de recursos biológicos del mundo, para uso de toda la comunidad científica",
+    "title_es": "Las casi 56.000 muestras del Biobanco del CNIO ya forman parte de la mayor red de recursos biológicos del mundo, para uso de toda la comunidad científica",
+    "url": "https://www.cnio.es/noticias/las-casi-56-000-muestras-del-biobanco-del-cnio-ya-forman-parte-de-la-mayor-red-de-recursos-biologicos-del-mundo-para-uso-de-toda-la-comunidad-cientifica/",
+    "date": "2025-10-23",
+    "source": "CNIO",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/john-beckman-investigador-emerito-del-iac-galardonado-con-el-premio-la-investigacion-de-la-feria-de-la\" hreflang=\"es\">John Beckman, investigador emérito del IAC, galardonado con el Premio a la Investigación de la Feria de la Ciencia de La Orotava</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/john-beckman-investigador-emerito-del-iac-galardonado-con-el-premio-la-investigacion-de-la-feria-de-la\" hreflang=\"es\">John Beckman, investigador emérito del IAC, galardonado con el Premio a la Investigación de la Feria de la Ciencia de La Orotava</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/john-beckman-investigador-emerito-del-iac-galardonado-con-el-premio-la-investigacion-de-la-feria-de-la",
+    "date": "2025-10-23",
+    "source": "IAC",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Dinosaurs were thriving before the asteroid hit, new analysis suggests",
+    "title_es": "Los dinosaurios prosperaban antes del impacto del asteroide, sugiere un nuevo análisis",
+    "url": "https://www.sciencenews.org/article/dinosaurs-thriving-before-asteroid",
+    "date": "2025-10-23",
+    "source": "Science News",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Parrotfish shape the future of coral reefs, one bite at a time",
+    "title_es": "Los peces loro dan forma al futuro de los arrecifes de coral, un bocado a la vez",
+    "url": "https://www.snexplores.org/article/parrotfish-algae-coral-reef-ecosystems",
+    "date": "2025-10-23",
+    "source": "Science News Explores",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Gold flakes expose the secret forces binding our world together",
+    "title_es": "Los copos de oro exponen las fuerzas secretas que unen a nuestro mundo",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251023031607.htm",
+    "date": "2025-10-23",
+    "source": "ScienceDaily (Top)",
     "published": "2025-10-23T00:00:00.000Z"
   },
   {
@@ -64,7 +152,7 @@
     "published": "2025-10-22T00:00:00.000Z"
   },
   {
-    "title": "Quantum ‘echoes’ reveal the potential of Google’s quantum computer",
+    "title": "Quantum ‘echoes’ reveal the potential of Google’s quantum computer",
     "title_es": "Los 'ecos' cuánticos revelan el potencial del ordenador cuántico de Google",
     "url": "https://www.sciencenews.org/article/quantum-echoes-google-computer",
     "date": "2025-10-22",
@@ -203,6 +291,14 @@
     "title": "Ireland becomes an Associate Member State of CERN",
     "title_es": "Irlanda se convierte en Estado miembro asociado del CERN",
     "url": "https://home.cern/news/news/cern/ireland-becomes-associate-member-state-cern",
+    "date": "2025-10-20",
+    "source": "CERN News",
+    "published": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Molecules of pear-shaped atomic nuclei bear fruit",
+    "title_es": "Las moléculas de núcleos atómicos en forma de pera dan fruto",
+    "url": "https://home.cern/news/news/physics/molecules-pear-shaped-atomic-nuclei-bear-fruit",
     "date": "2025-10-20",
     "source": "CERN News",
     "published": "2025-10-20T00:00:00.000Z"
@@ -9944,8 +10040,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Association between dietary B vitamins intake and age-specific blood pressure: A cross-sectional study in American adults",
-    "title_es": "Asociación entre la ingesta dietética de vitaminas B y la presión arterial específica de la edad: un estudio transversal en adultos estadounidenses",
+    "title": "Alignment of PrEP adherence and HIV exposure risk among pregnant and postpartum women in Lilongwe, Malawi",
+    "title_es": "Alineación de la adherencia a la PrEP y el riesgo de exposición al VIH entre mujeres embarazadas y en posparto en Lilongwe, Malawi",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
