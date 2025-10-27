@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
+    "title_es": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
+    "url": "https://arxiv.org/abs/2510.20838",
+    "published": "2025-10-27T04:00:00.000Z",
+    "date": "2025-10-27",
+    "source": "arXiv"
+  },
+  {
     "title": "Fat-fueled neuron discovery could unlock new treatments for brain disease",
     "title_es": "El descubrimiento de neuronas alimentadas por grasas podría desbloquear nuevos tratamientos para enfermedades cerebrales",
     "url": "https://www.sciencedaily.com/releases/2025/10/251025084536.htm",
@@ -11,6 +19,22 @@
     "title": "4MOST telescope facility captures first light",
     "title_es": "La instalación del telescopio 4MOST capta la primera luz",
     "url": "https://phys.org/news/2025-10-4most-telescope-facility-captures.html",
+    "date": "2025-10-26",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-26T00:00:00.000Z"
+  },
+  {
+    "title": "The math says life shouldn’t exist, but somehow it does",
+    "title_es": "Las matemáticas dicen que la vida no debería existir, pero de alguna manera existe",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251026021759.htm",
+    "date": "2025-10-26",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-26T00:00:00.000Z"
+  },
+  {
+    "title": "White oak genome reveals genetic markers for climate adaptability and pest resistance",
+    "title_es": "El genoma del roble blanco revela marcadores genéticos de adaptabilidad climática y resistencia a plagas",
+    "url": "https://phys.org/news/2025-10-white-oak-genome-reveals-genetic.html",
     "date": "2025-10-26",
     "source": "Phys.org (Latest)",
     "published": "2025-10-26T00:00:00.000Z"
@@ -93,6 +117,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251024041828.htm",
     "date": "2025-10-24",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-24T00:00:00.000Z"
+  },
+  {
+    "title": "A Knowledge-Graph Translation Layer for Mission-Aware Multi-Agent Path Planning in Spatiotemporal Dynamics",
+    "title_es": "Una capa de traducción de gráficos de conocimiento para la planificación de rutas multiagente consciente de la misión en dinámica espaciotemporal",
+    "url": "http://arxiv.org/abs/2510.21695v1",
+    "date": "2025-10-24",
+    "source": "arXiv",
     "published": "2025-10-24T00:00:00.000Z"
   },
   {
