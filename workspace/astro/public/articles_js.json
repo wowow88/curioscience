@@ -1,43 +1,67 @@
 [
   {
-    "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
-    "title_es": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
-    "url": "https://arxiv.org/abs/2510.20838",
-    "published": "2025-10-27T04:00:00.000Z",
-    "date": "2025-10-27",
+    "title": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
+    "title_es": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
+    "url": "https://arxiv.org/abs/2510.21710",
+    "published": "2025-10-28T04:00:00.000Z",
+    "date": "2025-10-28",
     "source": "arXiv"
   },
   {
-    "title": "The math says life shouldn’t exist, but somehow it does",
-    "title_es": "The math says life shouldn’t exist, but somehow it does",
-    "url": "https://www.sciencedaily.com/releases/2025/10/251026021759.htm",
-    "published": "2025-10-26T06:17:59.000Z",
-    "date": "2025-10-26",
+    "title": "Scientists just solved the mystery of perfect spaghetti",
+    "title_es": "Scientists just solved the mystery of perfect spaghetti",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251027224848.htm",
+    "published": "2025-10-28T04:00:49.000Z",
+    "date": "2025-10-28",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "White oak genome reveals genetic markers for climate adaptability and pest resistance",
-    "title_es": "White oak genome reveals genetic markers for climate adaptability and pest resistance",
-    "url": "https://phys.org/news/2025-10-white-oak-genome-reveals-genetic.html",
-    "published": "2025-10-26T17:30:01.000Z",
-    "date": "2025-10-26",
+    "title": "China's Zhuque-3 reusable rocket passes key milestone",
+    "title_es": "China's Zhuque-3 reusable rocket passes key milestone",
+    "url": "https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html",
+    "published": "2025-10-28T05:30:01.000Z",
+    "date": "2025-10-28",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "How to grow crystals when and where you want them",
-    "title_es": "How to grow crystals when and where you want them",
-    "url": "https://www.nature.com/articles/d41586-025-03415-8",
-    "published": "2025-10-24T00:00:00.000Z",
-    "date": "2025-10-24",
+    "title": "Direct deaminative functionalization with N -nitroamines",
+    "title_es": "Direct deaminative functionalization with N -nitroamines",
+    "url": "https://www.nature.com/articles/s41586-025-09791-5",
+    "published": "2025-10-27T00:00:00.000Z",
+    "date": "2025-10-27",
     "source": "Nature"
   },
   {
-    "title": "CNIC acoge una jornada clave sobre las novedades de los Programas de Trabajo del ERC para 2026 y 2027",
-    "title_es": "CNIC acoge una jornada clave sobre las novedades de los Programas de Trabajo del ERC para 2026 y 2027",
-    "url": "https://www.cnic.es/es/noticias/cnic-acoge-jornada-clave-sobre-novedades-programas-trabajo-erc-para-2026-2027",
-    "published": "2025-10-24T14:06:09.000Z",
-    "date": "2025-10-24",
+    "title": "FECYT concede el distintivo de calidad a REPISALUD, el repositorio científico institucional del ISCIII que incluye al CNIC y al CNIO",
+    "title_es": "FECYT concede el distintivo de calidad a REPISALUD, el repositorio científico institucional del ISCIII que incluye al CNIC y al CNIO",
+    "url": "https://www.cnic.es/es/noticias/fecyt-concede-distintivo-calidad-repisalud-repositorio-cientifico-institucional-isciii-que",
+    "published": "2025-10-27T11:21:03.000Z",
+    "date": "2025-10-27",
     "source": "CNIC"
+  },
+  {
+    "title": "DNA reveals Neandertals traveled thousands of kilometers into Asia",
+    "title_es": "DNA reveals Neandertals traveled thousands of kilometers into Asia",
+    "url": "https://www.sciencenews.org/article/dna-neandertals-traveled-asia",
+    "published": "2025-10-27T19:00:00.000Z",
+    "date": "2025-10-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Benthic",
+    "title_es": "Scientists Say: Benthic",
+    "url": "https://www.snexplores.org/article/scientists-say-benthic-definition-pronunciation",
+    "published": "2025-10-27T10:30:00.000Z",
+    "date": "2025-10-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
+    "title_es": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-10-27T14:00:00.000Z",
+    "date": "2025-10-27",
+    "source": "PLOS ONE"
   },
   {
     "title": "El repositorio científico del ISCIII, el CNIO y el CNIC, premiado con el distintivo de calidad de la FECYT",
@@ -46,30 +70,6 @@
     "published": "2025-10-24T12:44:53.000Z",
     "date": "2025-10-24",
     "source": "CNIO"
-  },
-  {
-    "title": "A conference just tested AI agents’ ability to do science",
-    "title_es": "A conference just tested AI agents’ ability to do science",
-    "url": "https://www.sciencenews.org/article/science-conference-test-ai-agents",
-    "published": "2025-10-24T16:00:00.000Z",
-    "date": "2025-10-24",
-    "source": "Science News"
-  },
-  {
-    "title": "What are vitamins?",
-    "title_es": "What are vitamins?",
-    "url": "https://www.snexplores.org/article/what-are-vitamins",
-    "published": "2025-10-24T10:30:00.000Z",
-    "date": "2025-10-24",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "The importance of crash reporting requirements and how they affect analyses of factors associated with wildlife-vehicle collisions",
-    "title_es": "The importance of crash reporting requirements and how they affect analyses of factors associated with wildlife-vehicle collisions",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-10-24T14:00:00.000Z",
-    "date": "2025-10-24",
-    "source": "PLOS ONE"
   },
   {
     "title": "Vaccinations for all",

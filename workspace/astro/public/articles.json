@@ -1,11 +1,83 @@
 [
   {
+    "title": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
+    "title_es": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
+    "url": "https://arxiv.org/abs/2510.21710",
+    "published": "2025-10-28T04:00:00.000Z",
+    "date": "2025-10-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists just solved the mystery of perfect spaghetti",
+    "title_es": "Los científicos acaban de resolver el misterio de los espaguetis perfectos",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251027224848.htm",
+    "date": "2025-10-28",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "China's Zhuque-3 reusable rocket passes key milestone",
+    "title_es": "El cohete reutilizable Zhuque-3 de China supera un hito clave",
+    "url": "https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html",
+    "date": "2025-10-28",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-28T00:00:00.000Z"
+  },
+  {
     "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
     "title_es": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
     "url": "https://arxiv.org/abs/2510.20838",
     "published": "2025-10-27T04:00:00.000Z",
     "date": "2025-10-27",
     "source": "arXiv"
+  },
+  {
+    "title": "Variational Masked Diffusion Models",
+    "title_es": "Modelos de difusión enmascarada variacional",
+    "url": "http://arxiv.org/abs/2510.23606v1",
+    "date": "2025-10-27",
+    "source": "arXiv",
+    "published": "2025-10-27T00:00:00.000Z"
+  },
+  {
+    "title": "Direct deaminative functionalization with N -nitroamines",
+    "title_es": "Funcionalización desaminativa directa con <i>N</i>-nitroaminas",
+    "url": "https://www.nature.com/articles/s41586-025-09791-5",
+    "date": "2025-10-27",
+    "source": "Nature",
+    "published": "2025-10-27T00:00:00.000Z"
+  },
+  {
+    "title": "FECYT concede el distintivo de calidad a REPISALUD, el repositorio científico institucional del ISCIII que incluye al CNIC y al CNIO",
+    "title_es": "FECYT concede el distintivo de calidad a REPISALUD, el repositorio científico institucional del ISCIII que incluye al CNIC y al CNIO",
+    "url": "https://www.cnic.es/es/noticias/fecyt-concede-distintivo-calidad-repisalud-repositorio-cientifico-institucional-isciii-que",
+    "date": "2025-10-27",
+    "source": "CNIC",
+    "published": "2025-10-27T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-supera-con-exito-la-revision-del-diseno-preliminar-de-edificacion-y\" hreflang=\"es\">El Telescopio Solar Europeo (EST) supera con éxito la revisión del diseño preliminar de Edificación y Obra Civil</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-supera-con-exito-la-revision-del-diseno-preliminar-de-edificacion-y\" hreflang=\"es\">El Telescopio Solar Europeo (EST) supera con éxito la revisión del diseño preliminar de Edificación y Obra Civil</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-supera-con-exito-la-revision-del-diseno-preliminar-de-edificacion-y",
+    "date": "2025-10-27",
+    "source": "IAC",
+    "published": "2025-10-27T00:00:00.000Z"
+  },
+  {
+    "title": "DNA reveals Neandertals traveled thousands of kilometers into Asia",
+    "title_es": "El ADN revela que los neandertales viajaron miles de kilómetros hacia Asia",
+    "url": "https://www.sciencenews.org/article/dna-neandertals-traveled-asia",
+    "date": "2025-10-27",
+    "source": "Science News",
+    "published": "2025-10-27T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Benthic",
+    "title_es": "Los científicos dicen: bentónico",
+    "url": "https://www.snexplores.org/article/scientists-say-benthic-definition-pronunciation",
+    "date": "2025-10-27",
+    "source": "Science News Explores",
+    "published": "2025-10-27T00:00:00.000Z"
   },
   {
     "title": "Fat-fueled neuron discovery could unlock new treatments for brain disease",
@@ -10152,8 +10224,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "The importance of crash reporting requirements and how they affect analyses of factors associated with wildlife-vehicle collisions",
-    "title_es": "La importancia de los requisitos de notificación de accidentes y cómo afectan los análisis de los factores asociados con las colisiones de vehículos contra animales silvestres",
+    "title": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
+    "title_es": "Protocolo estandarizado para la cría y reproducción en laboratorio del caracol Lymnaeidae, <i>Radix natalensis</i> (Krauss, 1848)",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
