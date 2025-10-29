@@ -1,5 +1,29 @@
 [
   {
+    "title": "How to see the forest for the trees",
+    "title_es": "How to see the forest for the trees",
+    "url": "https://arxiv.org/abs/2510.23614",
+    "published": "2025-10-29T04:00:00.000Z",
+    "date": "2025-10-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Deep Antarctic waters hold geometric communities of fish nests",
+    "title_es": "Las aguas profundas de la Antártida albergan comunidades geométricas de nidos de peces",
+    "url": "https://www.sciencenews.org/article/antarctic-waters-geometric-fish-nests",
+    "date": "2025-10-29",
+    "source": "Science News",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Nigeria's government is using digital technology to repress citizens. A researcher explains how",
+    "title_es": "El gobierno de Nigeria está utilizando la tecnología digital para reprimir a los ciudadanos. Un investigador explica cómo",
+    "url": "https://phys.org/news/2025-10-nigeria-digital-technology-repress-citizens.html",
+    "date": "2025-10-29",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
     "title": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
     "title_es": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
     "url": "https://arxiv.org/abs/2510.21710",
@@ -24,6 +48,30 @@
     "published": "2025-10-28T00:00:00.000Z"
   },
   {
+    "title": "Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?",
+    "title_es": "¿La unión de objetos surge naturalmente en grandes transformadores de visión previamente entrenados?",
+    "url": "http://arxiv.org/abs/2510.24709v1",
+    "date": "2025-10-28",
+    "source": "arXiv",
+    "published": "2025-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "Don’t overlook the plastic footprint of fireworks",
+    "title_es": "No pases por alto la huella plástica de los fuegos artificiales",
+    "url": "https://www.nature.com/articles/d41586-025-03500-y",
+    "date": "2025-10-28",
+    "source": "Nature",
+    "published": "2025-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "Thank microbes for chocolate’s tasty flavors",
+    "title_es": "Gracias a los microbios por los sabrosos sabores del chocolate",
+    "url": "https://www.snexplores.org/article/chocolate-flavor-bacteria-yeast",
+    "date": "2025-10-28",
+    "source": "Science News Explores",
+    "published": "2025-10-28T00:00:00.000Z"
+  },
+  {
     "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
     "title_es": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
     "url": "https://arxiv.org/abs/2510.20838",
@@ -40,7 +88,7 @@
     "published": "2025-10-27T00:00:00.000Z"
   },
   {
-    "title": "Direct deaminative functionalization with N -nitroamines",
+    "title": "Direct deaminative functionalization with <i>N</i>-nitroamines",
     "title_es": "Funcionalización desaminativa directa con <i>N</i>-nitroaminas",
     "url": "https://www.nature.com/articles/s41586-025-09791-5",
     "date": "2025-10-27",
@@ -285,6 +333,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251023031607.htm",
     "date": "2025-10-23",
     "source": "ScienceDaily (Top)",
+    "published": "2025-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Correcting the record on race and medicine",
+    "title_es": "Corrección del historial sobre raza y medicina.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8984",
+    "date": "2025-10-23",
+    "source": "Science.org",
     "published": "2025-10-23T00:00:00.000Z"
   },
   {
@@ -10224,8 +10280,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
-    "title_es": "Protocolo estandarizado para la cría y reproducción en laboratorio del caracol Lymnaeidae, <i>Radix natalensis</i> (Krauss, 1848)",
+    "title": "Development of a risk predictive score for intraoperative hypothermia in pediatric patients: A retrospective cohort study",
+    "title_es": "Desarrollo de una puntuación predictiva de riesgo de hipotermia intraoperatoria en pacientes pediátricos: un estudio de cohorte retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

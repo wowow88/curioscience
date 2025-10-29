@@ -1,5 +1,19 @@
 [
   {
+    "title": "Deep Antarctic waters hold geometric communities of fish nests",
+    "title_es": "Las aguas profundas de la Antártida albergan comunidades geométricas de nidos de peces",
+    "url": "https://www.sciencenews.org/article/antarctic-waters-geometric-fish-nests",
+    "date": "2025-10-29",
+    "source": "Science News"
+  },
+  {
+    "title": "Nigeria's government is using digital technology to repress citizens. A researcher explains how",
+    "title_es": "El gobierno de Nigeria está utilizando la tecnología digital para reprimir a los ciudadanos. Un investigador explica cómo",
+    "url": "https://phys.org/news/2025-10-nigeria-digital-technology-repress-citizens.html",
+    "date": "2025-10-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists just solved the mystery of perfect spaghetti",
     "title_es": "Los científicos acaban de resolver el misterio de los espaguetis perfectos",
     "url": "https://www.sciencedaily.com/releases/2025/10/251027224848.htm",
@@ -14,12 +28,33 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, <i>Radix natalensis</i> (Krauss, 1848)",
-    "title_es": "Protocolo estandarizado para la cría y reproducción en laboratorio del caracol Lymnaeidae, <i>Radix natalensis</i> (Krauss, 1848)",
+    "title": "Development of a risk predictive score for intraoperative hypothermia in pediatric patients: A retrospective cohort study",
+    "title_es": "Desarrollo de una puntuación predictiva de riesgo de hipotermia intraoperatoria en pacientes pediátricos: un estudio de cohorte retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-10-27",
+    "date": "2025-10-28",
     "source": "PLOS ONE",
     "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?",
+    "title_es": "¿La unión de objetos surge naturalmente en grandes transformadores de visión previamente entrenados?",
+    "url": "http://arxiv.org/abs/2510.24709v1",
+    "date": "2025-10-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Don’t overlook the plastic footprint of fireworks",
+    "title_es": "No pases por alto la huella plástica de los fuegos artificiales",
+    "url": "https://www.nature.com/articles/d41586-025-03500-y",
+    "date": "2025-10-28",
+    "source": "Nature"
+  },
+  {
+    "title": "Thank microbes for chocolate’s tasty flavors",
+    "title_es": "Gracias a los microbios por los sabrosos sabores del chocolate",
+    "url": "https://www.snexplores.org/article/chocolate-flavor-bacteria-yeast",
+    "date": "2025-10-28",
+    "source": "Science News Explores"
   },
   {
     "title": "Variational Masked Diffusion Models",
@@ -230,6 +265,13 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251023031607.htm",
     "date": "2025-10-23",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Correcting the record on race and medicine",
+    "title_es": "Corrección del historial sobre raza y medicina.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8984",
+    "date": "2025-10-23",
+    "source": "Science.org"
   },
   {
     "title": "Running fixes what junk food breaks in the brain",

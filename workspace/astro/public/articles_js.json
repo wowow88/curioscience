@@ -1,11 +1,43 @@
 [
   {
-    "title": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
-    "title_es": "A Feature Engineering Approach for Business Impact-Oriented Failure Detection in Distributed Instant Payment Systems",
-    "url": "https://arxiv.org/abs/2510.21710",
-    "published": "2025-10-28T04:00:00.000Z",
-    "date": "2025-10-28",
+    "title": "How to see the forest for the trees",
+    "title_es": "How to see the forest for the trees",
+    "url": "https://arxiv.org/abs/2510.23614",
+    "published": "2025-10-29T04:00:00.000Z",
+    "date": "2025-10-29",
     "source": "arXiv"
+  },
+  {
+    "title": "Deep Antarctic waters hold geometric communities of fish nests",
+    "title_es": "Deep Antarctic waters hold geometric communities of fish nests",
+    "url": "https://www.sciencenews.org/article/antarctic-waters-geometric-fish-nests",
+    "published": "2025-10-29T04:00:00.000Z",
+    "date": "2025-10-29",
+    "source": "Science News"
+  },
+  {
+    "title": "Nigeria's government is using digital technology to repress citizens. A researcher explains how",
+    "title_es": "Nigeria's government is using digital technology to repress citizens. A researcher explains how",
+    "url": "https://phys.org/news/2025-10-nigeria-digital-technology-repress-citizens.html",
+    "published": "2025-10-29T05:10:01.000Z",
+    "date": "2025-10-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Don’t overlook the plastic footprint of fireworks",
+    "title_es": "Don’t overlook the plastic footprint of fireworks",
+    "url": "https://www.nature.com/articles/d41586-025-03500-y",
+    "published": "2025-10-28T00:00:00.000Z",
+    "date": "2025-10-28",
+    "source": "Nature"
+  },
+  {
+    "title": "Thank microbes for chocolate’s tasty flavors",
+    "title_es": "Thank microbes for chocolate’s tasty flavors",
+    "url": "https://www.snexplores.org/article/chocolate-flavor-bacteria-yeast",
+    "published": "2025-10-28T10:30:00.000Z",
+    "date": "2025-10-28",
+    "source": "Science News Explores"
   },
   {
     "title": "Scientists just solved the mystery of perfect spaghetti",
@@ -16,20 +48,12 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "China's Zhuque-3 reusable rocket passes key milestone",
-    "title_es": "China's Zhuque-3 reusable rocket passes key milestone",
-    "url": "https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html",
-    "published": "2025-10-28T05:30:01.000Z",
+    "title": "Development of a risk predictive score for intraoperative hypothermia in pediatric patients: A retrospective cohort study",
+    "title_es": "Development of a risk predictive score for intraoperative hypothermia in pediatric patients: A retrospective cohort study",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-10-28T14:00:00.000Z",
     "date": "2025-10-28",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Direct deaminative functionalization with N -nitroamines",
-    "title_es": "Direct deaminative functionalization with N -nitroamines",
-    "url": "https://www.nature.com/articles/s41586-025-09791-5",
-    "published": "2025-10-27T00:00:00.000Z",
-    "date": "2025-10-27",
-    "source": "Nature"
+    "source": "PLOS ONE"
   },
   {
     "title": "FECYT concede el distintivo de calidad a REPISALUD, el repositorio científico institucional del ISCIII que incluye al CNIC y al CNIO",
@@ -40,30 +64,6 @@
     "source": "CNIC"
   },
   {
-    "title": "DNA reveals Neandertals traveled thousands of kilometers into Asia",
-    "title_es": "DNA reveals Neandertals traveled thousands of kilometers into Asia",
-    "url": "https://www.sciencenews.org/article/dna-neandertals-traveled-asia",
-    "published": "2025-10-27T19:00:00.000Z",
-    "date": "2025-10-27",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists Say: Benthic",
-    "title_es": "Scientists Say: Benthic",
-    "url": "https://www.snexplores.org/article/scientists-say-benthic-definition-pronunciation",
-    "published": "2025-10-27T10:30:00.000Z",
-    "date": "2025-10-27",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
-    "title_es": "Standardized protocol for laboratory rearing and breeding of the Lymnaeidae snail, Radix natalensis (Krauss, 1848)",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-10-27T14:00:00.000Z",
-    "date": "2025-10-27",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "El repositorio científico del ISCIII, el CNIO y el CNIC, premiado con el distintivo de calidad de la FECYT",
     "title_es": "El repositorio científico del ISCIII, el CNIO y el CNIC, premiado con el distintivo de calidad de la FECYT",
     "url": "https://www.cnio.es/noticias/el-repositorio-cientifico-del-isciii-el-cnio-y-el-cnic-premiado-con-el-distintivo-de-calidad-de-la-fecyt/",
@@ -72,9 +72,9 @@
     "source": "CNIO"
   },
   {
-    "title": "Vaccinations for all",
-    "title_es": "Vaccinations for all",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aea2464",
+    "title": "Correcting the record on race and medicine",
+    "title_es": "Correcting the record on race and medicine",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8984",
     "published": "2025-10-23T06:00:08.000Z",
     "date": "2025-10-23",
     "source": "Science.org"
