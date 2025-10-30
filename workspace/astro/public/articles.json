@@ -1,5 +1,29 @@
 [
   {
+    "title": "Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries",
+    "title_es": "Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries",
+    "url": "https://arxiv.org/abs/2510.24719",
+    "published": "2025-10-30T04:00:00.000Z",
+    "date": "2025-10-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "Gum disease may quietly damage the brain, scientists warn",
+    "title_es": "La enfermedad de las encías puede dañar silenciosamente el cerebro, advierten los científicos",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251029100147.htm",
+    "date": "2025-10-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "What made the moon?",
+    "title_es": "¿Qué hizo la luna?",
+    "url": "https://phys.org/news/2025-10-moon.html",
+    "date": "2025-10-30",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
     "title": "How to see the forest for the trees",
     "title_es": "How to see the forest for the trees",
     "url": "https://arxiv.org/abs/2510.23614",
@@ -21,6 +45,38 @@
     "url": "https://phys.org/news/2025-10-nigeria-digital-technology-repress-citizens.html",
     "date": "2025-10-29",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Gaperon: A Peppered English-French Generative Language Model Suite",
+    "title_es": "Gaperon: un conjunto de modelos de lenguaje generativo inglés-francés salpicado",
+    "url": "http://arxiv.org/abs/2510.25771v1",
+    "date": "2025-10-29",
+    "source": "arXiv",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Reply to: On anisotropy in cubic Cu 2 O photoelectrodes",
+    "title_es": "Responder a: Sobre la anisotropía en fotoelectrodos cúbicos de Cu<sub>2</sub>O",
+    "url": "https://www.nature.com/articles/s41586-025-09629-0",
+    "date": "2025-10-29",
+    "source": "Nature",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Some planets might home brew their own water",
+    "title_es": "Algunos planetas podrían producir en casa su propia agua",
+    "url": "https://www.sciencenews.org/article/planets-make-own-water",
+    "date": "2025-10-29",
+    "source": "Science News",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: Some bats feast on songbirds midflight",
+    "title_es": "Analice esto: algunos murciélagos se alimentan de pájaros cantores en pleno vuelo",
+    "url": "https://www.snexplores.org/article/bats-midflight-bird-feast",
+    "date": "2025-10-29",
+    "source": "Science News Explores",
     "published": "2025-10-29T00:00:00.000Z"
   },
   {
@@ -10280,8 +10336,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Development of a risk predictive score for intraoperative hypothermia in pediatric patients: A retrospective cohort study",
-    "title_es": "Desarrollo de una puntuación predictiva de riesgo de hipotermia intraoperatoria en pacientes pediátricos: un estudio de cohorte retrospectivo",
+    "title": "Correction: Environmental Response and Genomic Regions Correlated with Rice Root Growth and Yield under Drought in the OryzaSNP Panel across Multiple Study Systems",
+    "title_es": "Corrección: Respuesta ambiental y regiones genómicas correlacionadas con el crecimiento y el rendimiento de las raíces del arroz en condiciones de sequía en el panel OryzaSNP en múltiples sistemas de estudio",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
