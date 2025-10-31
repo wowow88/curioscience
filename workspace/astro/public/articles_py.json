@@ -1,5 +1,12 @@
 [
   {
+    "title": "Grandparenting tells us much about our history—it's important to preserve these stories",
+    "title_es": "Ser abuelos nos dice mucho sobre nuestra historia; es importante preservar estas historias",
+    "url": "https://phys.org/news/2025-10-grandparenting-history-important-stories.html",
+    "date": "2025-10-31",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Gum disease may quietly damage the brain, scientists warn",
     "title_es": "La enfermedad de las encías puede dañar silenciosamente el cerebro, advierten los científicos",
     "url": "https://www.sciencedaily.com/releases/2025/10/251029100147.htm",
@@ -14,6 +21,77 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Effective coverage of antenatal care services in post war Tigray, Northern Ethiopia: An analysis of community and health facility–based surveys",
+    "title_es": "Cobertura efectiva de los servicios de atención prenatal en Tigray, norte de Etiopía, después de la guerra: un análisis de encuestas basadas en comunidades y centros de salud",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-10-30",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark",
+    "title_es": "¿Están preparados los modelos de vídeo como razonadores de disparo cero? Un estudio empírico con el punto de referencia MME-CoF",
+    "url": "http://arxiv.org/abs/2510.26802v1",
+    "date": "2025-10-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "More than a miracle",
+    "title_es": "Más que un milagro",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb9832",
+    "date": "2025-10-30",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: Reciprocal signalling by Notch–Collagen V–CALCR retains muscle stem cells in their niche",
+    "title_es": "Corrección del autor: la señalización recíproca de Notch-Collagen V-CALCR retiene las células madre musculares en su nicho",
+    "url": "https://www.nature.com/articles/s41586-025-09787-1",
+    "date": "2025-10-30",
+    "source": "Nature"
+  },
+  {
+    "title": "Sabrina Molinaro: “The best choices for public health aren’t always implemented immediately”",
+    "title_es": "Sabrina Molinaro: “The best choices for public health aren’t always implemented immediately”",
+    "url": "https://www.cnic.es/es/node/237775",
+    "date": "2025-10-30",
+    "source": "CNIC"
+  },
+  {
+    "title": "La revolución de la bioinformática: descifrar el código de la vida para hacer realidad la medicina personalizada",
+    "title_es": "La revolución de la bioinformática: descifrar el código de la vida para hacer realidad la medicina personalizada",
+    "url": "https://www.cnio.es/noticias/la-revolucion-de-la-bioinformatica-descifrar-el-codigo-de-la-vida-para-hacer-realidad-la-medicina-personalizada/",
+    "date": "2025-10-30",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida\" hreflang=\"es\">La cadena SER premia la carrera de la investigadora del IAC Cristina Ramos Almeida</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida\" hreflang=\"es\">La cadena SER premia la carrera de la investigadora del IAC Cristina Ramos Almeida</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida",
+    "date": "2025-10-30",
+    "source": "IAC"
+  },
+  {
+    "title": "Nanotyrannus was not a teenaged T. rex",
+    "title_es": "Nanotyrannus no era un T.rex adolescente",
+    "url": "https://www.sciencenews.org/article/nanotyrannus-not-teenaged-t-rex",
+    "date": "2025-10-30",
+    "source": "Science News"
+  },
+  {
+    "title": "Behold the world’s weirdest library — which might save your life",
+    "title_es": "Contempla la biblioteca más extraña del mundo, que podría salvarte la vida",
+    "url": "https://www.snexplores.org/article/nist-standard-materials-weird-library",
+    "date": "2025-10-30",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Your pumpkin might be hiding a toxic secret",
+    "title_es": "Tu calabaza podría estar escondiendo un secreto tóxico",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251030075117.htm",
+    "date": "2025-10-30",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Deep Antarctic waters hold geometric communities of fish nests",
     "title_es": "Las aguas profundas de la Antártida albergan comunidades geométricas de nidos de peces",
     "url": "https://www.sciencenews.org/article/antarctic-waters-geometric-fish-nests",
@@ -26,14 +104,6 @@
     "url": "https://phys.org/news/2025-10-nigeria-digital-technology-repress-citizens.html",
     "date": "2025-10-29",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Environmental Response and Genomic Regions Correlated with Rice Root Growth and Yield under Drought in the OryzaSNP Panel across Multiple Study Systems",
-    "title_es": "Corrección: Respuesta ambiental y regiones genómicas correlacionadas con el crecimiento y el rendimiento de las raíces del arroz en condiciones de sequía en el panel OryzaSNP en múltiples sistemas de estudio",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-10-29",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Gaperon: A Peppered English-French Generative Language Model Suite",
@@ -62,6 +132,13 @@
     "url": "https://www.snexplores.org/article/bats-midflight-bird-feast",
     "date": "2025-10-29",
     "source": "Science News Explores"
+  },
+  {
+    "title": "CMS congratulates its 2024 Thesis Award and 2025 Young Researcher Prize winners",
+    "title_es": "CMS felicita a los ganadores del Premio Tesis 2024 y del Premio Joven Investigador 2025",
+    "url": "https://home.cern/news/news/experiments/cms-congratulates-its-2024-thesis-award-and-2025-young-researcher-prize",
+    "date": "2025-10-29",
+    "source": "CERN News"
   },
   {
     "title": "Scientists just solved the mystery of perfect spaghetti",

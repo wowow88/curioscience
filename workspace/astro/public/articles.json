@@ -1,5 +1,21 @@
 [
   {
+    "title": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP",
+    "title_es": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP",
+    "url": "https://arxiv.org/abs/2510.25775",
+    "published": "2025-10-31T04:00:00.000Z",
+    "date": "2025-10-31",
+    "source": "arXiv"
+  },
+  {
+    "title": "Grandparenting tells us much about our history—it's important to preserve these stories",
+    "title_es": "Ser abuelos nos dice mucho sobre nuestra historia; es importante preservar estas historias",
+    "url": "https://phys.org/news/2025-10-grandparenting-history-important-stories.html",
+    "date": "2025-10-31",
+    "source": "Phys.org (Latest)",
+    "published": "2025-10-31T00:00:00.000Z"
+  },
+  {
     "title": "Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries",
     "title_es": "Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries",
     "url": "https://arxiv.org/abs/2510.24719",
@@ -21,6 +37,78 @@
     "url": "https://phys.org/news/2025-10-moon.html",
     "date": "2025-10-30",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark",
+    "title_es": "¿Están preparados los modelos de vídeo como razonadores de disparo cero? Un estudio empírico con el punto de referencia MME-CoF",
+    "url": "http://arxiv.org/abs/2510.26802v1",
+    "date": "2025-10-30",
+    "source": "arXiv",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "More than a miracle",
+    "title_es": "Más que un milagro",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb9832",
+    "date": "2025-10-30",
+    "source": "Science.org",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Reciprocal signalling by Notch–Collagen V–CALCR retains muscle stem cells in their niche",
+    "title_es": "Corrección del autor: la señalización recíproca de Notch-Collagen V-CALCR retiene las células madre musculares en su nicho",
+    "url": "https://www.nature.com/articles/s41586-025-09787-1",
+    "date": "2025-10-30",
+    "source": "Nature",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Sabrina Molinaro: “The best choices for public health aren’t always implemented immediately”",
+    "title_es": "Sabrina Molinaro: “The best choices for public health aren’t always implemented immediately”",
+    "url": "https://www.cnic.es/es/node/237775",
+    "date": "2025-10-30",
+    "source": "CNIC",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "La revolución de la bioinformática: descifrar el código de la vida para hacer realidad la medicina personalizada",
+    "title_es": "La revolución de la bioinformática: descifrar el código de la vida para hacer realidad la medicina personalizada",
+    "url": "https://www.cnio.es/noticias/la-revolucion-de-la-bioinformatica-descifrar-el-codigo-de-la-vida-para-hacer-realidad-la-medicina-personalizada/",
+    "date": "2025-10-30",
+    "source": "CNIO",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida\" hreflang=\"es\">La cadena SER premia la carrera de la investigadora del IAC Cristina Ramos Almeida</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida\" hreflang=\"es\">La cadena SER premia la carrera de la investigadora del IAC Cristina Ramos Almeida</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-cadena-ser-premia-la-carrera-de-la-investigadora-del-iac-cristina-ramos-almeida",
+    "date": "2025-10-30",
+    "source": "IAC",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Nanotyrannus was not a teenaged T. rex",
+    "title_es": "Nanotyrannus no era un T.rex adolescente",
+    "url": "https://www.sciencenews.org/article/nanotyrannus-not-teenaged-t-rex",
+    "date": "2025-10-30",
+    "source": "Science News",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Behold the world’s weirdest library — which might save your life",
+    "title_es": "Contempla la biblioteca más extraña del mundo, que podría salvarte la vida",
+    "url": "https://www.snexplores.org/article/nist-standard-materials-weird-library",
+    "date": "2025-10-30",
+    "source": "Science News Explores",
+    "published": "2025-10-30T00:00:00.000Z"
+  },
+  {
+    "title": "Your pumpkin might be hiding a toxic secret",
+    "title_es": "Tu calabaza podría estar escondiendo un secreto tóxico",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251030075117.htm",
+    "date": "2025-10-30",
+    "source": "ScienceDaily (Top)",
     "published": "2025-10-30T00:00:00.000Z"
   },
   {
@@ -56,7 +144,7 @@
     "published": "2025-10-29T00:00:00.000Z"
   },
   {
-    "title": "Reply to: On anisotropy in cubic Cu 2 O photoelectrodes",
+    "title": "Reply to: On anisotropy in cubic Cu<sub>2</sub>O photoelectrodes",
     "title_es": "Responder a: Sobre la anisotropía en fotoelectrodos cúbicos de Cu<sub>2</sub>O",
     "url": "https://www.nature.com/articles/s41586-025-09629-0",
     "date": "2025-10-29",
@@ -77,6 +165,14 @@
     "url": "https://www.snexplores.org/article/bats-midflight-bird-feast",
     "date": "2025-10-29",
     "source": "Science News Explores",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "CMS congratulates its 2024 Thesis Award and 2025 Young Researcher Prize winners",
+    "title_es": "CMS felicita a los ganadores del Premio Tesis 2024 y del Premio Joven Investigador 2025",
+    "url": "https://home.cern/news/news/experiments/cms-congratulates-its-2024-thesis-award-and-2025-young-researcher-prize",
+    "date": "2025-10-29",
+    "source": "CERN News",
     "published": "2025-10-29T00:00:00.000Z"
   },
   {
@@ -10336,8 +10432,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Environmental Response and Genomic Regions Correlated with Rice Root Growth and Yield under Drought in the OryzaSNP Panel across Multiple Study Systems",
-    "title_es": "Corrección: Respuesta ambiental y regiones genómicas correlacionadas con el crecimiento y el rendimiento de las raíces del arroz en condiciones de sequía en el panel OryzaSNP en múltiples sistemas de estudio",
+    "title": "Effective coverage of antenatal care services in post war Tigray, Northern Ethiopia: An analysis of community and health facility–based surveys",
+    "title_es": "Cobertura efectiva de los servicios de atención prenatal en Tigray, norte de Etiopía, después de la guerra: un análisis de encuestas basadas en comunidades y centros de salud",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
