@@ -1,5 +1,21 @@
 [
   {
+    "title": "By the time you hear these bats, it’s too late",
+    "title_es": "Cuando escuchas a estos murciélagos, ya es demasiado tarde.",
+    "url": "https://www.nature.com/articles/d41586-025-03515-5",
+    "date": "2025-11-01",
+    "source": "Nature",
+    "published": "2025-11-01T00:00:00.000Z"
+  },
+  {
+    "title": "Rate my AI teacher? Students' perceptions of chatbots will influence how they learn with AI",
+    "title_es": "¿Calificar a mi profesor de IA? Las percepciones de los estudiantes sobre los chatbots influirán en su forma de aprender con IA",
+    "url": "https://phys.org/news/2025-10-ai-teacher-students-perceptions-chatbots.html",
+    "date": "2025-11-01",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-01T00:00:00.000Z"
+  },
+  {
     "title": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP",
     "title_es": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP",
     "url": "https://arxiv.org/abs/2510.25775",
@@ -13,6 +29,38 @@
     "url": "https://phys.org/news/2025-10-grandparenting-history-important-stories.html",
     "date": "2025-10-31",
     "source": "Phys.org (Latest)",
+    "published": "2025-10-31T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-julia-de-leon-premio-mujeres-seguir-en-la-categoria-de-ciencia\" hreflang=\"es\">La investigadora del IAC Julia de León, Premio Mujeres a Seguir en la categoría de Ciencia</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-julia-de-leon-premio-mujeres-seguir-en-la-categoria-de-ciencia\" hreflang=\"es\">La investigadora del IAC Julia de León, Premio Mujeres a Seguir en la categoría de Ciencia</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-julia-de-leon-premio-mujeres-seguir-en-la-categoria-de-ciencia",
+    "date": "2025-10-31",
+    "source": "IAC",
+    "published": "2025-10-31T00:00:00.000Z"
+  },
+  {
+    "title": "A new AI technique may aid violent crime forensics",
+    "title_es": "Una nueva técnica de inteligencia artificial puede ayudar a la investigación forense de delitos violentos",
+    "url": "https://www.sciencenews.org/article/ai-violent-crime-forensics-blowflies",
+    "date": "2025-10-31",
+    "source": "Science News",
+    "published": "2025-10-31T00:00:00.000Z"
+  },
+  {
+    "title": "Smoke-dried mummies found in Southeast Asia are the oldest known",
+    "title_es": "Las momias secadas con humo encontradas en el sudeste asiático son las más antiguas conocidas",
+    "url": "https://www.snexplores.org/article/oldest-mummies-smoke-dried-asia",
+    "date": "2025-10-31",
+    "source": "Science News Explores",
+    "published": "2025-10-31T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists shocked by reversed electric field around Earth",
+    "title_es": "Los científicos se sorprenden por el campo eléctrico invertido alrededor de la Tierra",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251030075141.htm",
+    "date": "2025-10-31",
+    "source": "ScienceDaily (Top)",
     "published": "2025-10-31T00:00:00.000Z"
   },
   {
@@ -88,7 +136,7 @@
     "published": "2025-10-30T00:00:00.000Z"
   },
   {
-    "title": "Nanotyrannus was not a teenaged T. rex",
+    "title": "Nanotyrannus was not a teenaged T. rex",
     "title_es": "Nanotyrannus no era un T.rex adolescente",
     "url": "https://www.sciencenews.org/article/nanotyrannus-not-teenaged-t-rex",
     "date": "2025-10-30",
@@ -10432,8 +10480,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effective coverage of antenatal care services in post war Tigray, Northern Ethiopia: An analysis of community and health facility–based surveys",
-    "title_es": "Cobertura efectiva de los servicios de atención prenatal en Tigray, norte de Etiopía, después de la guerra: un análisis de encuestas basadas en comunidades y centros de salud",
+    "title": "Vocalization behaviors in captive bottlenose dolphins ( Tursiops truncatus ) and rough-toothed dolphins ( Steno bredanensis )",
+    "title_es": "Comportamientos de vocalización en delfines mulares (<i>Tursiops truncatus</i>) y delfines de dientes rugosos (<i>Steno bredanensis</i>) en cautiverio.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
