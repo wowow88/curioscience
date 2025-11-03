@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists stunned as island spider loses half its genome",
+    "title_es": "Los científicos quedan atónitos cuando la araña isleña pierde la mitad de su genoma",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251102205006.htm",
+    "date": "2025-11-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Orcas seen killing young great white sharks by flipping them upside-down",
+    "title_es": "Se ve a orcas matando tiburones blancos jóvenes volteándolos boca abajo",
+    "url": "https://phys.org/news/2025-10-orcas-young-great-white-sharks.html",
+    "date": "2025-11-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "By the time you hear these bats, it’s too late",
     "title_es": "Cuando escuchas a estos murciélagos, ya es demasiado tarde.",
     "url": "https://www.nature.com/articles/d41586-025-03515-5",
@@ -69,6 +83,13 @@
     "url": "https://www.sciencedaily.com/releases/2025/10/251030075141.htm",
     "date": "2025-10-31",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Continuous Autoregressive Language Models",
+    "title_es": "Modelos de lenguaje autorregresivos continuos",
+    "url": "http://arxiv.org/abs/2510.27688v1",
+    "date": "2025-10-31",
+    "source": "arXiv"
   },
   {
     "title": "Gum disease may quietly damage the brain, scientists warn",
