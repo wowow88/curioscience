@@ -1,5 +1,29 @@
 [
   {
+    "title": "MazeMate: An LLM-Powered Chatbot to Support Computational Thinking in Gamified Programming Learning",
+    "title_es": "MazeMate: An LLM-Powered Chatbot to Support Computational Thinking in Gamified Programming Learning",
+    "url": "https://arxiv.org/abs/2511.03727",
+    "published": "2025-11-07T05:00:00.000Z",
+    "date": "2025-11-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mini llama proteins show promise for Alzheimer’s treatment",
+    "title_es": "Las proteínas de mini llama son prometedoras para el tratamiento del Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251106213557.htm",
+    "date": "2025-11-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "title": "Agriculture in Brazil: How land-use choices affect biodiversity and the global climate",
+    "title_es": "Agricultura en Brasil: cómo las elecciones de uso de la tierra afectan la biodiversidad y el clima global",
+    "url": "https://phys.org/news/2025-11-agriculture-brazil-choices-affect-biodiversity.html",
+    "date": "2025-11-07",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
     "title": "Quantum-Classical Hybrid Encryption Framework Based on Simulated BB84 and AES-256: Design and Experimental Evaluation",
     "title_es": "Quantum-Classical Hybrid Encryption Framework Based on Simulated BB84 and AES-256: Design and Experimental Evaluation",
     "url": "https://arxiv.org/abs/2511.02836",
@@ -21,6 +45,62 @@
     "url": "https://phys.org/news/2025-11-landscape-clues-indigenous-peoples-southwestern.html",
     "date": "2025-11-06",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations",
+    "title_es": "X-Diffusion: Políticas de difusión de formación sobre manifestaciones humanas transcorporales",
+    "url": "http://arxiv.org/abs/2511.04671v1",
+    "date": "2025-11-06",
+    "source": "arXiv",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "Platforms of power",
+    "title_es": "Plataformas de poder",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea3088",
+    "date": "2025-11-06",
+    "source": "Science.org",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: The emergence of transcriptional identity in somatosensory neurons",
+    "title_es": "Corrección del autor: El surgimiento de la identidad transcripcional en las neuronas somatosensoriales",
+    "url": "https://www.nature.com/articles/s41586-025-09817-y",
+    "date": "2025-11-06",
+    "source": "Nature",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIO lidera un proyecto europeo de 10 millones de euros para descifrar cómo la grasa controla la salud de nuestro cuerpo",
+    "title_es": "El CNIO lidera un proyecto europeo de 10 millones de euros para descifrar cómo la grasa controla la salud de nuestro cuerpo",
+    "url": "https://www.cnio.es/noticias/el-cnio-lidera-un-proyecto-europeo-de-10-millones-de-euros-para-descifrar-como-la-grasa-controla-la-salud-de-nuestro-cuerpo/",
+    "date": "2025-11-06",
+    "source": "CNIO",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-la-divulgacion-con-su-participacion-en-la-feria-de-la-ciencia-de-la-orotava\" hreflang=\"es\">El IAC impulsa la divulgación con su participación en la Feria de La Ciencia de La Orotava </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-la-divulgacion-con-su-participacion-en-la-feria-de-la-ciencia-de-la-orotava\" hreflang=\"es\">El IAC impulsa la divulgación con su participación en la Feria de La Ciencia de La Orotava </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-la-divulgacion-con-su-participacion-en-la-feria-de-la-ciencia-de-la-orotava",
+    "date": "2025-11-06",
+    "source": "IAC",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "Woodpecker hammering is a full-body affair",
+    "title_es": "El martilleo del pájaro carpintero es un asunto de todo el cuerpo",
+    "url": "https://www.sciencenews.org/article/woodpecker-hammering-full-body-muscles",
+    "date": "2025-11-06",
+    "source": "Science News",
+    "published": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "title": "These ultra-long experiments outlive their scientists — on purpose",
+    "title_es": "Estos experimentos ultralargos sobreviven a sus científicos, a propósito",
+    "url": "https://www.snexplores.org/article/long-term-experiments-outlive-scientists",
+    "date": "2025-11-06",
+    "source": "Science News Explores",
     "published": "2025-11-06T00:00:00.000Z"
   },
   {
@@ -10744,8 +10824,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Counterintuitive relationship between the triglyceride glucose index and diabetic foot in diabetes patients: A cross-sectional study",
-    "title_es": "Corrección: Relación contraintuitiva entre el índice de glucosa triglicéridos y el pie diabético en pacientes diabéticos: un estudio transversal",
+    "title": "Substituted cysteine modification and protection indicates selective interactions of the anesthetic photolabel pTFD-di-iPr-BnOH with α+/β– and α+/γ– transmembrane subunit interfaces of synaptic GABA A receptors",
+    "title_es": "La modificación y protección de la cisteína sustituida indica interacciones selectivas del fotomarcador anestésico pTFD-di-iPr-BnOH con las interfaces de las subunidades transmembrana α+/β– y α+/γ– de los receptores sinápticos GABA<sub>A</sub>",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
