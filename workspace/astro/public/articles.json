@@ -1,5 +1,29 @@
 [
   {
+    "title": "DNA pioneer James Watson has died ― colleagues wrestle with his legacy",
+    "title_es": "El pionero del ADN James Watson ha muerto; sus colegas luchan con su legado",
+    "url": "https://www.nature.com/articles/d41586-025-03380-2",
+    "date": "2025-11-08",
+    "source": "Nature",
+    "published": "2025-11-08T00:00:00.000Z"
+  },
+  {
+    "title": "A hidden cellular cleanup trick could reverse aging",
+    "title_es": "Un truco oculto de limpieza celular podría revertir el envejecimiento",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251107010326.htm",
+    "date": "2025-11-08",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-08T00:00:00.000Z"
+  },
+  {
+    "title": "Turning undersea cables into a global monitoring system for seismic and environmental hazards",
+    "title_es": "Convertir los cables submarinos en un sistema de monitoreo global de riesgos sísmicos y ambientales",
+    "url": "https://phys.org/news/2025-11-undersea-cables-global-seismic-environmental.html",
+    "date": "2025-11-08",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-08T00:00:00.000Z"
+  },
+  {
     "title": "MazeMate: An LLM-Powered Chatbot to Support Computational Thinking in Gamified Programming Learning",
     "title_es": "MazeMate: An LLM-Powered Chatbot to Support Computational Thinking in Gamified Programming Learning",
     "url": "https://arxiv.org/abs/2511.03727",
@@ -21,6 +45,38 @@
     "url": "https://phys.org/news/2025-11-agriculture-brazil-choices-affect-biodiversity.html",
     "date": "2025-11-07",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "title": "Edgar Gomes: \"Los europeos del sur solemos ser muy creativos e ingeniosos; encontramos formas de resolver los problemas\"",
+    "title_es": "Edgar Gomes: \"Los europeos del sur solemos ser muy creativos e ingeniosos; encontramos formas de resolver los problemas\"",
+    "url": "https://www.cnic.es/es/noticias/edgar-gomes-europeos-sur-solemos-ser-muy-creativos-e-ingeniosos-encontramos-formas-resolver",
+    "date": "2025-11-07",
+    "source": "CNIC",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-seobirdlife-canarias-organizan-una-conferencia-sobre-las-amenazas-de-la-contaminacion-luminica\" hreflang=\"es\">El IAC y SEO/BirdLife Canarias organizan una conferencia sobre las amenazas de la contaminación lumínica</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-seobirdlife-canarias-organizan-una-conferencia-sobre-las-amenazas-de-la-contaminacion-luminica\" hreflang=\"es\">El IAC y SEO/BirdLife Canarias organizan una conferencia sobre las amenazas de la contaminación lumínica</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-seobirdlife-canarias-organizan-una-conferencia-sobre-las-amenazas-de-la-contaminacion-luminica",
+    "date": "2025-11-07",
+    "source": "IAC",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "title": "A special shape shift helps a shrub thrive in blistering heat",
+    "title_es": "Un cambio de forma especial ayuda a un arbusto a prosperar en un calor abrasador",
+    "url": "https://www.sciencenews.org/article/death-valley-shrub-survival-heat",
+    "date": "2025-11-07",
+    "source": "Science News",
+    "published": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists caught a black hole ringing like a bell",
+    "title_es": "Los científicos captaron un agujero negro que suena como una campana",
+    "url": "https://www.snexplores.org/article/black-hole-ringing-gravitational-waves",
+    "date": "2025-11-07",
+    "source": "Science News Explores",
     "published": "2025-11-07T00:00:00.000Z"
   },
   {
@@ -10824,8 +10880,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Substituted cysteine modification and protection indicates selective interactions of the anesthetic photolabel pTFD-di-iPr-BnOH with α+/β– and α+/γ– transmembrane subunit interfaces of synaptic GABA A receptors",
-    "title_es": "La modificación y protección de la cisteína sustituida indica interacciones selectivas del fotomarcador anestésico pTFD-di-iPr-BnOH con las interfaces de las subunidades transmembrana α+/β– y α+/γ– de los receptores sinápticos GABA<sub>A</sub>",
+    "title": "Complete molecular spectrum of β-globin gene mutations via direct sequencing identifies seven novel variants in β-thalassemia major",
+    "title_es": "El espectro molecular completo de mutaciones del gen de la β-globina mediante secuenciación directa identifica siete variantes novedosas en la β-talasemia mayor",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
