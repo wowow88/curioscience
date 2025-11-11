@@ -1,35 +1,67 @@
 [
   {
-    "title": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
-    "title_es": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
-    "url": "https://arxiv.org/abs/2511.04682",
-    "published": "2025-11-10T05:00:00.000Z",
-    "date": "2025-11-10",
+    "title": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
+    "title_es": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
+    "url": "https://arxiv.org/abs/2511.05493",
+    "published": "2025-11-11T05:00:00.000Z",
+    "date": "2025-11-11",
     "source": "arXiv"
   },
   {
-    "title": "New bacterial therapy destroys cancer without the immune system",
-    "title_es": "New bacterial therapy destroys cancer without the immune system",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251109013250.htm",
-    "published": "2025-11-10T03:55:25.000Z",
+    "title": "Vegan diet can halve your carbon footprint, study finds",
+    "title_es": "Vegan diet can halve your carbon footprint, study finds",
+    "url": "https://phys.org/news/2025-11-vegan-diet-halve-carbon-footprint.html",
+    "published": "2025-11-11T05:00:01.000Z",
+    "date": "2025-11-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Author Correction: The oldest known lepidosaur and origins of lepidosaur feeding adaptations",
+    "title_es": "Author Correction: The oldest known lepidosaur and origins of lepidosaur feeding adaptations",
+    "url": "https://www.nature.com/articles/s41586-025-09782-6",
+    "published": "2025-11-10T00:00:00.000Z",
+    "date": "2025-11-10",
+    "source": "Nature"
+  },
+  {
+    "title": "CERN Council reviews feasibility study for a next-generation collider",
+    "title_es": "CERN Council reviews feasibility study for a next-generation collider",
+    "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
+    "published": "2025-11-10T15:45:19.000Z",
+    "date": "2025-11-10",
+    "source": "CERN Press"
+  },
+  {
+    "title": "Peru’s Serpent Mountain sheds its mysterious past",
+    "title_es": "Peru’s Serpent Mountain sheds its mysterious past",
+    "url": "https://www.sciencenews.org/article/peru-serpent-mountain-mystery-inca",
+    "published": "2025-11-10T17:00:00.000Z",
+    "date": "2025-11-10",
+    "source": "Science News"
+  },
+  {
+    "title": "A modified glue gun squirts a material to help heal broken bones",
+    "title_es": "A modified glue gun squirts a material to help heal broken bones",
+    "url": "https://www.snexplores.org/article/glue-gun-heal-broken-bones",
+    "published": "2025-11-10T11:30:00.000Z",
+    "date": "2025-11-10",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists find brain chemical tied to trauma and depression",
+    "title_es": "Scientists find brain chemical tied to trauma and depression",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251110021114.htm",
+    "published": "2025-11-10T15:28:58.000Z",
     "date": "2025-11-10",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Between solstices and equinoxes: Reducing stigma around bipolar disorder on stage",
-    "title_es": "Between solstices and equinoxes: Reducing stigma around bipolar disorder on stage",
-    "url": "https://phys.org/news/2025-11-solstices-equinoxes-stigma-bipolar-disorder.html",
-    "published": "2025-11-10T05:00:03.000Z",
+    "title": "Correction: Evaluating the effectiveness of integrating biofeedback in the treatment of aggressive outbursts (BRET-IA2): A study protocol",
+    "title_es": "Correction: Evaluating the effectiveness of integrating biofeedback in the treatment of aggressive outbursts (BRET-IA2): A study protocol",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-11-10T14:00:00.000Z",
     "date": "2025-11-10",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "DNA pioneer James Watson has died ― colleagues wrestle with his legacy",
-    "title_es": "DNA pioneer James Watson has died ― colleagues wrestle with his legacy",
-    "url": "https://www.nature.com/articles/d41586-025-03380-2",
-    "published": "2025-11-08T00:00:00.000Z",
-    "date": "2025-11-08",
-    "source": "Nature"
+    "source": "PLOS ONE"
   },
   {
     "title": "Edgar Gomes: \"Los europeos del sur solemos ser muy creativos e ingeniosos; encontramos formas de resolver los problemas\"",
@@ -38,30 +70,6 @@
     "published": "2025-11-07T09:52:18.000Z",
     "date": "2025-11-07",
     "source": "CNIC"
-  },
-  {
-    "title": "A special shape shift helps a shrub thrive in blistering heat",
-    "title_es": "A special shape shift helps a shrub thrive in blistering heat",
-    "url": "https://www.sciencenews.org/article/death-valley-shrub-survival-heat",
-    "published": "2025-11-07T16:00:00.000Z",
-    "date": "2025-11-07",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists caught a black hole ringing like a bell",
-    "title_es": "Scientists caught a black hole ringing like a bell",
-    "url": "https://www.snexplores.org/article/black-hole-ringing-gravitational-waves",
-    "published": "2025-11-07T11:30:00.000Z",
-    "date": "2025-11-07",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Complete molecular spectrum of β-globin gene mutations via direct sequencing identifies seven novel variants in β-thalassemia major",
-    "title_es": "Complete molecular spectrum of β-globin gene mutations via direct sequencing identifies seven novel variants in β-thalassemia major",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-11-07T14:00:00.000Z",
-    "date": "2025-11-07",
-    "source": "PLOS ONE"
   },
   {
     "title": "Platforms of power",
@@ -94,14 +102,6 @@
     "published": "2025-10-01T02:22:25.000Z",
     "date": "2025-10-01",
     "source": "NASA (Top News)"
-  },
-  {
-    "title": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
-    "title_es": "Students from Belgium, Canada, Mexico, Türkiye and the USA win the 12th edition of Beamline for Schools",
-    "url": "https://home.cern/news/press-release/cern/students-belgium-canada-mexico-turkiye-and-usa-win-12th-edition-beamline",
-    "published": "2025-07-09T07:13:54.000Z",
-    "date": "2025-07-09",
-    "source": "CERN Press"
   },
   {
     "title": "Saltar al contenido principal",

@@ -1,5 +1,21 @@
 [
   {
+    "title": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
+    "title_es": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
+    "url": "https://arxiv.org/abs/2511.05493",
+    "published": "2025-11-11T05:00:00.000Z",
+    "date": "2025-11-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Vegan diet can halve your carbon footprint, study finds",
+    "title_es": "La dieta vegana puede reducir a la mitad la huella de carbono, según un estudio",
+    "url": "https://phys.org/news/2025-11-vegan-diet-halve-carbon-footprint.html",
+    "date": "2025-11-11",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
     "title": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
     "title_es": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
     "url": "https://arxiv.org/abs/2511.04682",
@@ -21,6 +37,54 @@
     "url": "https://phys.org/news/2025-11-solstices-equinoxes-stigma-bipolar-disorder.html",
     "date": "2025-11-10",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields",
+    "title_es": "Lightning Grasp: Síntesis de agarre procesal de alto rendimiento con campos de contacto",
+    "url": "http://arxiv.org/abs/2511.07418v1",
+    "date": "2025-11-10",
+    "source": "arXiv",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: The oldest known lepidosaur and origins of lepidosaur feeding adaptations",
+    "title_es": "Corrección del autor: El lepidosaurio más antiguo conocido y los orígenes de las adaptaciones alimentarias de los lepidosaurios",
+    "url": "https://www.nature.com/articles/s41586-025-09782-6",
+    "date": "2025-11-10",
+    "source": "Nature",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "CERN Council reviews feasibility study for a next-generation collider",
+    "title_es": "El Consejo del CERN revisa el estudio de viabilidad de un colisionador de próxima generación",
+    "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
+    "date": "2025-11-10",
+    "source": "CERN Press",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "Peru’s Serpent Mountain sheds its mysterious past",
+    "title_es": "La Montaña de la Serpiente de Perú se deshace de su misterioso pasado",
+    "url": "https://www.sciencenews.org/article/peru-serpent-mountain-mystery-inca",
+    "date": "2025-11-10",
+    "source": "Science News",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "A modified glue gun squirts a material to help heal broken bones",
+    "title_es": "Una pistola de pegamento modificada lanza un material para ayudar a curar huesos rotos",
+    "url": "https://www.snexplores.org/article/glue-gun-heal-broken-bones",
+    "date": "2025-11-10",
+    "source": "Science News Explores",
+    "published": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists find brain chemical tied to trauma and depression",
+    "title_es": "Los científicos encuentran una sustancia química cerebral relacionada con el trauma y la depresión",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251110021114.htm",
+    "date": "2025-11-10",
+    "source": "ScienceDaily (Top)",
     "published": "2025-11-10T00:00:00.000Z"
   },
   {
@@ -10928,8 +10992,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Complete molecular spectrum of β-globin gene mutations via direct sequencing identifies seven novel variants in β-thalassemia major",
-    "title_es": "El espectro molecular completo de mutaciones del gen de la β-globina mediante secuenciación directa identifica siete variantes novedosas en la β-talasemia mayor",
+    "title": "Correction: Evaluating the effectiveness of integrating biofeedback in the treatment of aggressive outbursts (BRET-IA2): A study protocol",
+    "title_es": "Corrección: Evaluación de la eficacia de la integración de la biorretroalimentación en el tratamiento de arrebatos agresivos (BRET-IA2): un protocolo de estudio",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
