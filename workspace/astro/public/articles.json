@@ -1,5 +1,21 @@
 [
   {
+    "title": "Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms",
+    "title_es": "Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms",
+    "url": "https://arxiv.org/abs/2511.07421",
+    "published": "2025-11-12T05:00:00.000Z",
+    "date": "2025-11-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Researchers validate measurement-protection quantum key distribution",
+    "title_es": "Los investigadores validan la distribución de claves cuánticas de protección de medición",
+    "url": "https://phys.org/news/2025-11-validate-quantum-key.html",
+    "date": "2025-11-12",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-12T00:00:00.000Z"
+  },
+  {
     "title": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
     "title_es": "GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",
     "url": "https://arxiv.org/abs/2511.05493",
@@ -13,6 +29,54 @@
     "url": "https://phys.org/news/2025-11-vegan-diet-halve-carbon-footprint.html",
     "date": "2025-11-11",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Comprehensive echocardiogram evaluation with view primed vision language AI",
+    "title_es": "Evaluación integral de ecocardiograma con vista preparada lenguaje de visión AI",
+    "url": "https://www.nature.com/articles/s41586-025-09850-x",
+    "date": "2025-11-11",
+    "source": "Nature",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Vicente Andrés y Ana Barettino reciben el premio a los Mejores Trabajos Científicos de la Cátedra de Enfermedades Poco Frecuentes de la Universidad de Almería",
+    "title_es": "Vicente Andrés y Ana Barettino reciben el premio a los Mejores Trabajos Científicos de la Cátedra de Enfermedades Poco Frecuentes de la Universidad de Almería",
+    "url": "https://www.cnic.es/es/noticias/vicente-andres-ana-barettino-reciben-premio-mejores-trabajos-cientificos-catedra",
+    "date": "2025-11-11",
+    "source": "CNIC",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/publicacion-rapida-de-datos-de-euclid-q1-busqueda-espectroscopica-clasificacion-y-analisis-de-enanas\" hreflang=\"es\">Publicación rápida de datos de Euclid (Q1) — Búsqueda espectroscópica, clasificación y análisis de enanas ultrafrías en los campos profundos (Deep Fields)</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/publicacion-rapida-de-datos-de-euclid-q1-busqueda-espectroscopica-clasificacion-y-analisis-de-enanas\" hreflang=\"es\">Publicación rápida de datos de Euclid (Q1) — Búsqueda espectroscópica, clasificación y análisis de enanas ultrafrías en los campos profundos (Deep Fields)</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/publicacion-rapida-de-datos-de-euclid-q1-busqueda-espectroscopica-clasificacion-y-analisis-de-enanas",
+    "date": "2025-11-11",
+    "source": "IAC",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Arts at CERN and the Nobel Prize Museum collaborate on the Collide residency",
+    "title_es": "Arts at CERN y el Museo del Premio Nobel colaboran en la residencia Collide",
+    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-collaborate-collide-residency",
+    "date": "2025-11-11",
+    "source": "CERN News",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Listening to slightly different sounds in each ear may boost focus, teen finds",
+    "title_es": "Escuchar sonidos ligeramente diferentes en cada oído puede mejorar la concentración, descubre un adolescente",
+    "url": "https://www.snexplores.org/article/listening-sound-boost-focus-attention",
+    "date": "2025-11-11",
+    "source": "Science News Explores",
+    "published": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Brain-like learning found in bacterial nanopores",
+    "title_es": "Aprendizaje similar al cerebro encontrado en nanoporos bacterianos",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251111054354.htm",
+    "date": "2025-11-11",
+    "source": "ScienceDaily (Top)",
     "published": "2025-11-11T00:00:00.000Z"
   },
   {
@@ -10992,8 +11056,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Evaluating the effectiveness of integrating biofeedback in the treatment of aggressive outbursts (BRET-IA2): A study protocol",
-    "title_es": "Corrección: Evaluación de la eficacia de la integración de la biorretroalimentación en el tratamiento de arrebatos agresivos (BRET-IA2): un protocolo de estudio",
+    "title": "Correction: Risk factors and incidence of surgical wound infection after stoma reversal: A systematic review and meta-analysis",
+    "title_es": "Corrección: factores de riesgo e incidencia de infección de la herida quirúrgica después de la reversión del estoma: una revisión sistemática y un metanálisis",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -44213,6 +44277,14 @@
     "date": "2025-06-18",
     "source": "Science.org",
     "published": "2025-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data",
+    "title_es": "Un enfoque de aprendizaje por refuerzo profundo para la medición de rampas basado en datos de vídeo de tráfico",
+    "url": "http://arxiv.org/abs/2012.12104v1",
+    "date": "2020-12-09",
+    "source": "arXiv",
+    "published": "2020-12-09T00:00:00.000Z"
   },
   {
     "title": "Saltar al contenido principal",
