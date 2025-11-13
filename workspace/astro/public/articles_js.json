@@ -1,27 +1,67 @@
 [
   {
-    "title": "Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms",
-    "title_es": "Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms",
-    "url": "https://arxiv.org/abs/2511.07421",
-    "published": "2025-11-12T05:00:00.000Z",
-    "date": "2025-11-12",
+    "title": "Conversational Agents for Building Energy Efficiency -- Advising Housing Cooperatives in Stockholm on Reducing Energy Consumption",
+    "title_es": "Conversational Agents for Building Energy Efficiency -- Advising Housing Cooperatives in Stockholm on Reducing Energy Consumption",
+    "url": "https://arxiv.org/abs/2511.08587",
+    "published": "2025-11-13T05:00:00.000Z",
+    "date": "2025-11-13",
     "source": "arXiv"
   },
   {
-    "title": "Researchers validate measurement-protection quantum key distribution",
-    "title_es": "Researchers validate measurement-protection quantum key distribution",
-    "url": "https://phys.org/news/2025-11-validate-quantum-key.html",
-    "published": "2025-11-12T04:50:01.000Z",
-    "date": "2025-11-12",
+    "title": "A fierce crocodile ancestor that hunted before dinosaurs has been found",
+    "title_es": "A fierce crocodile ancestor that hunted before dinosaurs has been found",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251112220239.htm",
+    "published": "2025-11-13T04:09:43.000Z",
+    "date": "2025-11-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How campus climate affects students' attitudes to people of different religions",
+    "title_es": "How campus climate affects students' attitudes to people of different religions",
+    "url": "https://phys.org/news/2025-11-campus-climate-affects-students-attitudes.html",
+    "published": "2025-11-13T04:30:01.000Z",
+    "date": "2025-11-13",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Comprehensive echocardiogram evaluation with view primed vision language AI",
-    "title_es": "Comprehensive echocardiogram evaluation with view primed vision language AI",
-    "url": "https://www.nature.com/articles/s41586-025-09850-x",
-    "published": "2025-11-11T00:00:00.000Z",
-    "date": "2025-11-11",
+    "title": "Author Correction: Learning the natural history of human disease with generative transformers",
+    "title_es": "Author Correction: Learning the natural history of human disease with generative transformers",
+    "url": "https://www.nature.com/articles/s41586-025-09879-y",
+    "published": "2025-11-12T00:00:00.000Z",
+    "date": "2025-11-12",
     "source": "Nature"
+  },
+  {
+    "title": "CERN is the guest of honour at the Cité des métiers in Geneva",
+    "title_es": "CERN is the guest of honour at the Cité des métiers in Geneva",
+    "url": "https://home.cern/news/news/cern/cern-guest-honour-cite-des-metiers-geneva",
+    "published": "2025-11-12T11:14:31.000Z",
+    "date": "2025-11-12",
+    "source": "CERN News"
+  },
+  {
+    "title": "Early views of a supernova’s first moments reveal a lopsided blast",
+    "title_es": "Early views of a supernova’s first moments reveal a lopsided blast",
+    "url": "https://www.sciencenews.org/article/supernova-first-moments-lopsided-blast",
+    "published": "2025-11-12T19:00:00.000Z",
+    "date": "2025-11-12",
+    "source": "Science News"
+  },
+  {
+    "title": "A little shape-up helps these pimple patches get a grip",
+    "title_es": "A little shape-up helps these pimple patches get a grip",
+    "url": "https://www.snexplores.org/article/a-little-shape-up-helps-these-pimple-patches-get-a-grip",
+    "published": "2025-11-12T11:30:00.000Z",
+    "date": "2025-11-12",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Safety of penicillamine and trientine in the treatment of Wilson’s disease: An analysis of the FDA Adverse Event Reporting System (FAERS) database",
+    "title_es": "Safety of penicillamine and trientine in the treatment of Wilson’s disease: An analysis of the FDA Adverse Event Reporting System (FAERS) database",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-11-12T14:00:00.000Z",
+    "date": "2025-11-12",
+    "source": "PLOS ONE"
   },
   {
     "title": "Vicente Andrés y Ana Barettino reciben el premio a los Mejores Trabajos Científicos de la Cátedra de Enfermedades Poco Frecuentes de la Universidad de Almería",
@@ -32,52 +72,12 @@
     "source": "CNIC"
   },
   {
-    "title": "Arts at CERN and the Nobel Prize Museum collaborate on the Collide residency",
-    "title_es": "Arts at CERN and the Nobel Prize Museum collaborate on the Collide residency",
-    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-collaborate-collide-residency",
-    "published": "2025-11-11T12:33:20.000Z",
-    "date": "2025-11-11",
-    "source": "CERN News"
-  },
-  {
-    "title": "Listening to slightly different sounds in each ear may boost focus, teen finds",
-    "title_es": "Listening to slightly different sounds in each ear may boost focus, teen finds",
-    "url": "https://www.snexplores.org/article/listening-sound-boost-focus-attention",
-    "published": "2025-11-11T11:30:00.000Z",
-    "date": "2025-11-11",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Brain-like learning found in bacterial nanopores",
-    "title_es": "Brain-like learning found in bacterial nanopores",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251111054354.htm",
-    "published": "2025-11-11T11:40:48.000Z",
-    "date": "2025-11-11",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Correction: Risk factors and incidence of surgical wound infection after stoma reversal: A systematic review and meta-analysis",
-    "title_es": "Correction: Risk factors and incidence of surgical wound infection after stoma reversal: A systematic review and meta-analysis",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-11-11T14:00:00.000Z",
-    "date": "2025-11-11",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "CERN Council reviews feasibility study for a next-generation collider",
     "title_es": "CERN Council reviews feasibility study for a next-generation collider",
     "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
     "published": "2025-11-10T15:45:19.000Z",
     "date": "2025-11-10",
     "source": "CERN Press"
-  },
-  {
-    "title": "Peru’s Serpent Mountain sheds its mysterious past",
-    "title_es": "Peru’s Serpent Mountain sheds its mysterious past",
-    "url": "https://www.sciencenews.org/article/peru-serpent-mountain-mystery-inca",
-    "published": "2025-11-10T17:00:00.000Z",
-    "date": "2025-11-10",
-    "source": "Science News"
   },
   {
     "title": "Platforms of power",
