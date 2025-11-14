@@ -1,5 +1,37 @@
 [
   {
+    "title": "Probability-Biased Attention over Directed Bipartite Graphs for Long-Tail ICD Coding",
+    "title_es": "Probability-Biased Attention over Directed Bipartite Graphs for Long-Tail ICD Coding",
+    "url": "https://arxiv.org/abs/2511.09559",
+    "published": "2025-11-14T05:00:00.000Z",
+    "date": "2025-11-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind",
+    "title_es": "La NASA y Blue Origin lanzan dos naves espaciales para estudiar Marte y el viento solar",
+    "url": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
+    "date": "2025-11-14",
+    "source": "NASA (Top News)",
+    "published": "2025-11-14T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists find a molecule that mimics exercise and slows aging",
+    "title_es": "Los científicos encuentran una molécula que imita el ejercicio y retarda el envejecimiento",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251113071620.htm",
+    "date": "2025-11-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-14T00:00:00.000Z"
+  },
+  {
+    "title": "100 years of menus show how food can be used as a diplomatic tool to make and break political alliances",
+    "title_es": "100 años de menús muestran cómo la comida puede usarse como herramienta diplomática para hacer y deshacer alianzas políticas",
+    "url": "https://phys.org/news/2025-11-years-menus-food-diplomatic-tool.html",
+    "date": "2025-11-14",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-14T00:00:00.000Z"
+  },
+  {
     "title": "Conversational Agents for Building Energy Efficiency -- Advising Housing Cooperatives in Stockholm on Reducing Energy Consumption",
     "title_es": "Conversational Agents for Building Energy Efficiency -- Advising Housing Cooperatives in Stockholm on Reducing Energy Consumption",
     "url": "https://arxiv.org/abs/2511.08587",
@@ -21,6 +53,62 @@
     "url": "https://phys.org/news/2025-11-campus-climate-affects-students-attitudes.html",
     "date": "2025-11-13",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Meditations on memory",
+    "title_es": "Meditaciones sobre la memoria",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec0470",
+    "date": "2025-11-13",
+    "source": "Science.org",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Multi-omics analysis of a pig-to-human decedent kidney xenotransplant",
+    "title_es": "Análisis multiómico de un xenotrasplante de riñón fallecido de cerdo a humano",
+    "url": "https://www.nature.com/articles/s41586-025-09846-7",
+    "date": "2025-11-13",
+    "source": "Nature",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC y la Fundación Ramón Areces organizan un simposio internacional para entender la red neurovascular y prevenir la demencia",
+    "title_es": "CNIC y la Fundación Ramón Areces organizan un simposio internacional para entender la red neurovascular y prevenir la demencia",
+    "url": "https://www.cnic.es/es/noticias/cnic-fundacion-ramon-areces-organizan-un-simposio-internacional-para-entender-red",
+    "date": "2025-11-13",
+    "source": "CNIC",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/javier-diaz-castro-responsable-de-la-oficina-tecnica-para-la-proteccion-de-la-calidad-del-cielo-del-iac\" hreflang=\"es\">Javier Díaz Castro, responsable de la Oficina Técnica para la Protección de la Calidad del Cielo del IAC, galardonado con el Premio DarkSky</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/javier-diaz-castro-responsable-de-la-oficina-tecnica-para-la-proteccion-de-la-calidad-del-cielo-del-iac\" hreflang=\"es\">Javier Díaz Castro, responsable de la Oficina Técnica para la Protección de la Calidad del Cielo del IAC, galardonado con el Premio DarkSky</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/javier-diaz-castro-responsable-de-la-oficina-tecnica-para-la-proteccion-de-la-calidad-del-cielo-del-iac",
+    "date": "2025-11-13",
+    "source": "IAC",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "CERN showcases projects with environmental applications",
+    "title_es": "El CERN presenta proyectos con aplicaciones medioambientales",
+    "url": "https://home.cern/news/news/knowledge-sharing/cern-showcases-projects-environmental-applications",
+    "date": "2025-11-13",
+    "source": "CERN News",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Deep-sea mining might feed plankton a diet of junk food",
+    "title_es": "La minería en aguas profundas podría alimentar al plancton con una dieta de comida chatarra",
+    "url": "https://www.sciencenews.org/article/deep-sea-mining-plankton-junk-food",
+    "date": "2025-11-13",
+    "source": "Science News",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "5 things to remember when talking to a chatbot",
+    "title_es": "5 cosas para recordar al hablar con un chatbot",
+    "url": "https://www.snexplores.org/article/5-things-talking-with-chatbot",
+    "date": "2025-11-13",
+    "source": "Science News Explores",
     "published": "2025-11-13T00:00:00.000Z"
   },
   {
@@ -11112,8 +11200,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Safety of penicillamine and trientine in the treatment of Wilson’s disease: An analysis of the FDA Adverse Event Reporting System (FAERS) database",
-    "title_es": "Seguridad de la penicilamina y la trientina en el tratamiento de la enfermedad de Wilson: un análisis de la base de datos del Sistema de notificación de eventos adversos (FAERS) de la FDA",
+    "title": "Mass spectrometry-based metabolomics uncovers distinct metabolic signatures and potential therapeutic targets in Plasmodium knowlesi",
+    "title_es": "La metabolómica basada en espectrometría de masas descubre firmas metabólicas distintas y objetivos terapéuticos potenciales en <i>Plasmodium knowlesi</i>",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
