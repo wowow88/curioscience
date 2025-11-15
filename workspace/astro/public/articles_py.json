@@ -1,5 +1,19 @@
 [
   {
+    "title": "6 Things to Know From NASA About New US, European Sea Satellite",
+    "title_es": "Seis cosas que la NASA debe saber sobre el nuevo satélite marino europeo y estadounidense",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
+    "date": "2025-11-15",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Tourists give restaurants higher ratings than locals, new study finds",
+    "title_es": "Los turistas dan a los restaurantes calificaciones más altas que los locales, según un nuevo estudio",
+    "url": "https://phys.org/news/2025-11-tourists-restaurants-higher-locals.html",
+    "date": "2025-11-15",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind",
     "title_es": "La NASA y Blue Origin lanzan dos naves espaciales para estudiar Marte y el viento solar",
     "url": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
@@ -19,6 +33,41 @@
     "url": "https://phys.org/news/2025-11-years-menus-food-diplomatic-tool.html",
     "date": "2025-11-14",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Author Correction: Mechanisms of stretch-mediated skin expansion at single-cell resolution",
+    "title_es": "Corrección del autor: Mecanismos de expansión de la piel mediada por estiramiento con resolución unicelular",
+    "url": "https://www.nature.com/articles/s41586-025-09878-z",
+    "date": "2025-11-14",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/de-la-fotonica-al-machine-learning-la-xxxvi-winter-school-se-centra-en-tecnologias-opticas-clave-para\" hreflang=\"es\">De la Fotónica al Machine Learning: La XXXVI Winter School se centra en tecnologías ópticas clave para la astrofísica</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/de-la-fotonica-al-machine-learning-la-xxxvi-winter-school-se-centra-en-tecnologias-opticas-clave-para\" hreflang=\"es\">De la Fotónica al Machine Learning: La XXXVI Winter School se centra en tecnologías ópticas clave para la astrofísica</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/de-la-fotonica-al-machine-learning-la-xxxvi-winter-school-se-centra-en-tecnologias-opticas-clave-para",
+    "date": "2025-11-14",
+    "source": "IAC"
+  },
+  {
+    "title": "40,000-year-old woolly mammoth RNA offers a peek into its last moments",
+    "title_es": "El ARN de un mamut lanudo de 40.000 años ofrece un vistazo a sus últimos momentos",
+    "url": "https://www.sciencenews.org/article/woolly-mammoth-ancient-rna-ice-age",
+    "date": "2025-11-14",
+    "source": "Science News"
+  },
+  {
+    "title": "Birds are singing longer, thanks to light pollution",
+    "title_es": "Los pájaros cantan más tiempo gracias a la contaminación lumínica",
+    "url": "https://www.snexplores.org/article/birds-singing-longer-light-pollution",
+    "date": "2025-11-14",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Science finally solves a 700-year-old royal murder",
+    "title_es": "La ciencia finalmente resuelve un asesinato real de hace 700 años",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251114041217.htm",
+    "date": "2025-11-14",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "A fierce crocodile ancestor that hunted before dinosaurs has been found",
@@ -90,6 +139,13 @@
     "url": "https://www.snexplores.org/article/5-things-talking-with-chatbot",
     "date": "2025-11-13",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Black-Box On-Policy Distillation of Large Language Models",
+    "title_es": "Destilación basada en políticas de caja negra de modelos de lenguaje grandes",
+    "url": "http://arxiv.org/abs/2511.10643v1",
+    "date": "2025-11-13",
+    "source": "arXiv"
   },
   {
     "title": "Researchers validate measurement-protection quantum key distribution",

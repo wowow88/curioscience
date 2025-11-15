@@ -1,35 +1,51 @@
 [
   {
-    "title": "Probability-Biased Attention over Directed Bipartite Graphs for Long-Tail ICD Coding",
-    "title_es": "Probability-Biased Attention over Directed Bipartite Graphs for Long-Tail ICD Coding",
-    "url": "https://arxiv.org/abs/2511.09559",
-    "published": "2025-11-14T05:00:00.000Z",
-    "date": "2025-11-14",
-    "source": "arXiv"
-  },
-  {
-    "title": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind",
-    "title_es": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind",
-    "url": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
-    "published": "2025-11-14T04:03:20.000Z",
-    "date": "2025-11-14",
+    "title": "6 Things to Know From NASA About New US, European Sea Satellite",
+    "title_es": "6 Things to Know From NASA About New US, European Sea Satellite",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
+    "published": "2025-11-15T00:13:01.000Z",
+    "date": "2025-11-15",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Scientists find a molecule that mimics exercise and slows aging",
-    "title_es": "Scientists find a molecule that mimics exercise and slows aging",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251113071620.htm",
-    "published": "2025-11-14T04:56:35.000Z",
-    "date": "2025-11-14",
-    "source": "ScienceDaily (Top)"
+    "title": "Tourists give restaurants higher ratings than locals, new study finds",
+    "title_es": "Tourists give restaurants higher ratings than locals, new study finds",
+    "url": "https://phys.org/news/2025-11-tourists-restaurants-higher-locals.html",
+    "published": "2025-11-15T02:20:01.000Z",
+    "date": "2025-11-15",
+    "source": "Phys.org (Latest)"
   },
   {
-    "title": "100 years of menus show how food can be used as a diplomatic tool to make and break political alliances",
-    "title_es": "100 years of menus show how food can be used as a diplomatic tool to make and break political alliances",
-    "url": "https://phys.org/news/2025-11-years-menus-food-diplomatic-tool.html",
-    "published": "2025-11-14T05:00:01.000Z",
+    "title": "Author Correction: Mechanisms of stretch-mediated skin expansion at single-cell resolution",
+    "title_es": "Author Correction: Mechanisms of stretch-mediated skin expansion at single-cell resolution",
+    "url": "https://www.nature.com/articles/s41586-025-09878-z",
+    "published": "2025-11-14T00:00:00.000Z",
     "date": "2025-11-14",
-    "source": "Phys.org (Latest)"
+    "source": "Nature"
+  },
+  {
+    "title": "40,000-year-old woolly mammoth RNA offers a peek into its last moments",
+    "title_es": "40,000-year-old woolly mammoth RNA offers a peek into its last moments",
+    "url": "https://www.sciencenews.org/article/woolly-mammoth-ancient-rna-ice-age",
+    "published": "2025-11-14T16:00:00.000Z",
+    "date": "2025-11-14",
+    "source": "Science News"
+  },
+  {
+    "title": "Birds are singing longer, thanks to light pollution",
+    "title_es": "Birds are singing longer, thanks to light pollution",
+    "url": "https://www.snexplores.org/article/birds-singing-longer-light-pollution",
+    "published": "2025-11-14T11:30:00.000Z",
+    "date": "2025-11-14",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Science finally solves a 700-year-old royal murder",
+    "title_es": "Science finally solves a 700-year-old royal murder",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251114041217.htm",
+    "published": "2025-11-14T15:05:03.000Z",
+    "date": "2025-11-14",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Meditations on memory",
@@ -38,14 +54,6 @@
     "published": "2025-11-13T07:00:09.000Z",
     "date": "2025-11-13",
     "source": "Science.org"
-  },
-  {
-    "title": "Multi-omics analysis of a pig-to-human decedent kidney xenotransplant",
-    "title_es": "Multi-omics analysis of a pig-to-human decedent kidney xenotransplant",
-    "url": "https://www.nature.com/articles/s41586-025-09846-7",
-    "published": "2025-11-13T00:00:00.000Z",
-    "date": "2025-11-13",
-    "source": "Nature"
   },
   {
     "title": "CNIC y la Fundación Ramón Areces organizan un simposio internacional para entender la red neurovascular y prevenir la demencia",
@@ -62,30 +70,6 @@
     "published": "2025-11-13T11:40:49.000Z",
     "date": "2025-11-13",
     "source": "CERN News"
-  },
-  {
-    "title": "Deep-sea mining might feed plankton a diet of junk food",
-    "title_es": "Deep-sea mining might feed plankton a diet of junk food",
-    "url": "https://www.sciencenews.org/article/deep-sea-mining-plankton-junk-food",
-    "published": "2025-11-13T16:00:00.000Z",
-    "date": "2025-11-13",
-    "source": "Science News"
-  },
-  {
-    "title": "5 things to remember when talking to a chatbot",
-    "title_es": "5 things to remember when talking to a chatbot",
-    "url": "https://www.snexplores.org/article/5-things-talking-with-chatbot",
-    "published": "2025-11-13T11:30:00.000Z",
-    "date": "2025-11-13",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Mass spectrometry-based metabolomics uncovers distinct metabolic signatures and potential therapeutic targets in Plasmodium knowlesi",
-    "title_es": "Mass spectrometry-based metabolomics uncovers distinct metabolic signatures and potential therapeutic targets in Plasmodium knowlesi",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-11-13T14:00:00.000Z",
-    "date": "2025-11-13",
-    "source": "PLOS ONE"
   },
   {
     "title": "CERN Council reviews feasibility study for a next-generation collider",
