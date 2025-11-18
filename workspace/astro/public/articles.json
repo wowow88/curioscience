@@ -1,5 +1,29 @@
 [
   {
+    "title": "A surprising CBD advance calms pain without side effects",
+    "title_es": "A surprising CBD advance calms pain without side effects",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251117095652.htm",
+    "published": "2025-11-18T05:26:39.000Z",
+    "date": "2025-11-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "LLM Architecture, Scaling Laws, and Economics: A Quick Summary",
+    "title_es": "LLM Architecture, Scaling Laws, and Economics: A Quick Summary",
+    "url": "https://arxiv.org/abs/2511.11572",
+    "published": "2025-11-18T05:00:00.000Z",
+    "date": "2025-11-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "People support higher taxes after understanding benefits of public goods, Japanese study finds",
+    "title_es": "La gente apoya impuestos más altos después de comprender los beneficios de los bienes públicos, según un estudio japonés",
+    "url": "https://phys.org/news/2025-11-people-higher-taxes-benefits-goods.html",
+    "date": "2025-11-18",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-18T00:00:00.000Z"
+  },
+  {
     "title": "Towards Assume-Guarantee Verification of Abilities in Stochastic Multi-Agent Systems",
     "title_es": "Towards Assume-Guarantee Verification of Abilities in Stochastic Multi-Agent Systems",
     "url": "https://arxiv.org/abs/2511.10649",
@@ -11,6 +35,70 @@
     "title": "Astronomers unveil the surprising hidden geometry of a supernova",
     "title_es": "Los astrónomos revelan la sorprendente geometría oculta de una supernova",
     "url": "https://www.sciencedaily.com/releases/2025/11/251116231854.htm",
+    "date": "2025-11-17",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "Scaling Spatial Intelligence with Multimodal Foundation Models",
+    "title_es": "Ampliación de la inteligencia espacial con modelos básicos multimodales",
+    "url": "http://arxiv.org/abs/2511.13719v1",
+    "date": "2025-11-17",
+    "source": "arXiv",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "The apple of my eye: How I’ve created a plant-health tracker for farmers in Tanzania",
+    "title_es": "La niña de mis ojos: cómo creé un rastreador de salud vegetal para agricultores en Tanzania",
+    "url": "https://www.nature.com/articles/d41586-025-03723-z",
+    "date": "2025-11-17",
+    "source": "Nature",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-ha-completado-con-exito-la-revision-del-diseno-conceptual-de-la-suite\" hreflang=\"es\">El Telescopio Solar Europeo (EST) ha completado con éxito la revisión del diseño conceptual de la suite de instrumentos científicos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-ha-completado-con-exito-la-revision-del-diseno-conceptual-de-la-suite\" hreflang=\"es\">El Telescopio Solar Europeo (EST) ha completado con éxito la revisión del diseño conceptual de la suite de instrumentos científicos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-ha-completado-con-exito-la-revision-del-diseno-conceptual-de-la-suite",
+    "date": "2025-11-17",
+    "source": "IAC",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "La NASA invita a los medios al despegue de la misión lunar Artemis II",
+    "title_es": "La NASA invita a los medios al despegue de la misión lunar Artemis II",
+    "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-despegue-de-la-mision-lunar-artemis-ii/",
+    "date": "2025-11-17",
+    "source": "NASA (Top News)",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "Celebrating 25 years of service to CERN in 2025",
+    "title_es": "Celebrando 25 años de servicio al CERN en 2025",
+    "url": "https://home.cern/news/news/cern/celebrating-25-years-service-cern-2025",
+    "date": "2025-11-17",
+    "source": "CERN News",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "A clay figurine unveils a storytelling shift from 12,000 years ago",
+    "title_es": "Una figura de arcilla revela un cambio en la narración de hace 12.000 años",
+    "url": "https://www.sciencenews.org/article/figurine-goose-woman-storytelling-shift",
+    "date": "2025-11-17",
+    "source": "Science News",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Kleptotrichy",
+    "title_es": "Los científicos dicen: cleptotricia",
+    "url": "https://www.snexplores.org/article/scientists-say-kleptotrichy-definition-pronunciation",
+    "date": "2025-11-17",
+    "source": "Science News Explores",
+    "published": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "A tiny ancient virus reveals secrets that could help fight superbugs",
+    "title_es": "Un pequeño virus antiguo revela secretos que podrían ayudar a combatir las superbacterias",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251117095635.htm",
     "date": "2025-11-17",
     "source": "ScienceDaily (Top)",
     "published": "2025-11-17T00:00:00.000Z"
@@ -11320,8 +11408,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Knowledge, attitude and risky practices on schistosomiasis in Ethiopia: A scoping review",
-    "title_es": "Conocimientos, actitudes y prácticas de riesgo sobre la esquistosomiasis en Etiopía: una revisión del alcance",
+    "title": "Syndromic management of sexually transmitted infections among female sex workers in Lomé (Togo), 2023",
+    "title_es": "Manejo sindrómico de las infecciones de transmisión sexual entre trabajadoras sexuales en Lomé (Togo), 2023",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
