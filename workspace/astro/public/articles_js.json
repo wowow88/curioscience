@@ -1,35 +1,83 @@
 [
   {
-    "title": "Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models",
-    "title_es": "Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models",
-    "url": "https://arxiv.org/abs/2511.13722",
-    "published": "2025-11-19T05:00:00.000Z",
-    "date": "2025-11-19",
+    "title": "Castle: Causal Cascade Updates in Relational Databases with Large Language Models",
+    "title_es": "Castle: Causal Cascade Updates in Relational Databases with Large Language Models",
+    "url": "https://arxiv.org/abs/2511.14762",
+    "published": "2025-11-20T05:00:00.000Z",
+    "date": "2025-11-20",
     "source": "arXiv"
   },
   {
-    "title": "How to keep Ozempic/Wegovy weight loss without the nausea",
-    "title_es": "How to keep Ozempic/Wegovy weight loss without the nausea",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251118220041.htm",
-    "published": "2025-11-19T03:48:02.000Z",
+    "title": "Broad support for lethal control of wild deer among nature organization subscribers",
+    "title_es": "Broad support for lethal control of wild deer among nature organization subscribers",
+    "url": "https://phys.org/news/2025-11-broad-lethal-wild-deer-nature.html",
+    "published": "2025-11-20T05:00:04.000Z",
+    "date": "2025-11-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Author Correction: A metallic p -wave magnet with commensurate spin helix",
+    "title_es": "Author Correction: A metallic p -wave magnet with commensurate spin helix",
+    "url": "https://www.nature.com/articles/s41586-025-09861-8",
+    "published": "2025-11-19T00:00:00.000Z",
+    "date": "2025-11-19",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC celebra la Semana de la Ciencia y la Innovación 2025 con más de 20 actividades para todas las edades",
+    "title_es": "El CNIC celebra la Semana de la Ciencia y la Innovación 2025 con más de 20 actividades para todas las edades",
+    "url": "https://www.cnic.es/es/noticias/cnic-celebra-semana-ciencia-innovacion-2025-con-mas-20-actividades-para-todas-edades",
+    "published": "2025-11-19T11:05:15.000Z",
+    "date": "2025-11-19",
+    "source": "CNIC"
+  },
+  {
+    "title": "Francisco X. Real: «Es el momento menos amargo de la historia del cáncer de páncreas»",
+    "title_es": "Francisco X. Real: «Es el momento menos amargo de la historia del cáncer de páncreas»",
+    "url": "https://www.cnio.es/noticias/francisco-x-real-es-el-momento-menos-amargo-de-la-historia-del-cancer-de-pancreas/",
+    "published": "2025-11-19T13:24:17.000Z",
+    "date": "2025-11-19",
+    "source": "CNIO"
+  },
+  {
+    "title": "Celebrating 25 Years of Humanity in Space",
+    "title_es": "Celebrating 25 Years of Humanity in Space",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/",
+    "published": "2025-11-19T22:52:52.000Z",
+    "date": "2025-11-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "mRNA flu vaccines are making their way through clinical trials",
+    "title_es": "mRNA flu vaccines are making their way through clinical trials",
+    "url": "https://www.sciencenews.org/article/mrna-flu-vaccines-influenza-virus",
+    "published": "2025-11-19T22:00:00.000Z",
+    "date": "2025-11-19",
+    "source": "Science News"
+  },
+  {
+    "title": "This microphone picks up sounds by watching them",
+    "title_es": "This microphone picks up sounds by watching them",
+    "url": "https://www.snexplores.org/article/visual-microphone-sees-sounds",
+    "published": "2025-11-19T11:30:00.000Z",
+    "date": "2025-11-19",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A 2,000-year mystery in chameleon eyes is finally solved",
+    "title_es": "A 2,000-year mystery in chameleon eyes is finally solved",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251118220056.htm",
+    "published": "2025-11-19T13:57:20.000Z",
     "date": "2025-11-19",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Working with local communities to manage green spaces could help biodiversity crisis",
-    "title_es": "Working with local communities to manage green spaces could help biodiversity crisis",
-    "url": "https://phys.org/news/2025-11-local-communities-green-spaces-biodiversity.html",
-    "published": "2025-11-19T05:10:01.000Z",
+    "title": "Temporal dynamics of emotional face processing in social anxiety",
+    "title_es": "Temporal dynamics of emotional face processing in social anxiety",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-11-19T14:00:00.000Z",
     "date": "2025-11-19",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama",
-    "title_es": "Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/",
-    "published": "2025-11-18T18:45:59.000Z",
-    "date": "2025-11-18",
-    "source": "NASA (Top News)"
+    "source": "PLOS ONE"
   },
   {
     "title": "Breakthrough in antimatter production",
@@ -40,30 +88,6 @@
     "source": "CERN News"
   },
   {
-    "title": "See the alarming extent of NIH and NSF funding cuts in 2025",
-    "title_es": "See the alarming extent of NIH and NSF funding cuts in 2025",
-    "url": "https://www.sciencenews.org/article/nih-nsf-cuts-2025-data",
-    "published": "2025-11-18T18:00:00.000Z",
-    "date": "2025-11-18",
-    "source": "Science News"
-  },
-  {
-    "title": "Big moments can help you remember little things, too",
-    "title_es": "Big moments can help you remember little things, too",
-    "url": "https://www.snexplores.org/article/emotion-memory-help-remember-moments",
-    "published": "2025-11-18T11:30:00.000Z",
-    "date": "2025-11-18",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Antitumor and cytotoxic activities of endophytic Enterobacter hormaechei derived secondary metabolites: In-vitro and In-silico study",
-    "title_es": "Antitumor and cytotoxic activities of endophytic Enterobacter hormaechei derived secondary metabolites: In-vitro and In-silico study",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-11-18T14:00:00.000Z",
-    "date": "2025-11-18",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "Meditations on memory",
     "title_es": "Meditations on memory",
     "url": "https://www.science.org/doi/abs/10.1126/science.aec0470",
@@ -72,28 +96,12 @@
     "source": "Science.org"
   },
   {
-    "title": "CNIC y la Fundación Ramón Areces organizan un simposio internacional para entender la red neurovascular y prevenir la demencia",
-    "title_es": "CNIC y la Fundación Ramón Areces organizan un simposio internacional para entender la red neurovascular y prevenir la demencia",
-    "url": "https://www.cnic.es/es/noticias/cnic-fundacion-ramon-areces-organizan-un-simposio-internacional-para-entender-red",
-    "published": "2025-11-13T11:24:52.000Z",
-    "date": "2025-11-13",
-    "source": "CNIC"
-  },
-  {
     "title": "CERN Council reviews feasibility study for a next-generation collider",
     "title_es": "CERN Council reviews feasibility study for a next-generation collider",
     "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
     "published": "2025-11-10T15:45:19.000Z",
     "date": "2025-11-10",
     "source": "CERN Press"
-  },
-  {
-    "title": "El CNIO lidera un proyecto europeo de 10 millones de euros para descifrar cómo la grasa controla la salud de nuestro cuerpo",
-    "title_es": "El CNIO lidera un proyecto europeo de 10 millones de euros para descifrar cómo la grasa controla la salud de nuestro cuerpo",
-    "url": "https://www.cnio.es/noticias/el-cnio-lidera-un-proyecto-europeo-de-10-millones-de-euros-para-descifrar-como-la-grasa-controla-la-salud-de-nuestro-cuerpo/",
-    "published": "2025-11-06T11:03:50.000Z",
-    "date": "2025-11-06",
-    "source": "CNIO"
   },
   {
     "title": "Saltar al contenido principal",
