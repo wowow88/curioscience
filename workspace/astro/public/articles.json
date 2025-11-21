@@ -1,5 +1,37 @@
 [
   {
+    "title": "Improving Resiliency of Vital Services in Flood-Affected Regions of Bangladesh Using Next-Generation Opportunistic DTN Edge Ad Hoc Networks",
+    "title_es": "Improving Resiliency of Vital Services in Flood-Affected Regions of Bangladesh Using Next-Generation Opportunistic DTN Edge Ad Hoc Networks",
+    "url": "https://arxiv.org/abs/2511.15710",
+    "published": "2025-11-21T05:00:00.000Z",
+    "date": "2025-11-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Lions have a second roar that no one noticed until now",
+    "title_es": "Los leones tienen un segundo rugido que nadie había notado hasta ahora",
+    "url": "https://www.sciencenews.org/article/lion-new-type-roar-decoded",
+    "date": "2025-11-21",
+    "source": "Science News",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "New research uncovers hidden divide in West Coast killer whales",
+    "title_es": "Una nueva investigación descubre una división oculta entre las orcas de la costa oeste",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251120002604.htm",
+    "date": "2025-11-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Elites wield huge influence over deepening polarization—now we can tell exactly how much",
+    "title_es": "Las élites ejercen una enorme influencia sobre la profundización de la polarización; ahora podemos decir exactamente en qué medida",
+    "url": "https://phys.org/news/2025-11-elites-wield-huge-deepening-polarization.html",
+    "date": "2025-11-21",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
     "title": "Castle: Causal Cascade Updates in Relational Databases with Large Language Models",
     "title_es": "Castle: Causal Cascade Updates in Relational Databases with Large Language Models",
     "url": "https://arxiv.org/abs/2511.14762",
@@ -13,6 +45,62 @@
     "url": "https://phys.org/news/2025-11-broad-lethal-wild-deer-nature.html",
     "date": "2025-11-20",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Dataset Distillation for Pre-Trained Self-Supervised Vision Models",
+    "title_es": "Destilación de conjuntos de datos para modelos de visión autosupervisados ​​previamente entrenados",
+    "url": "http://arxiv.org/abs/2511.16674v1",
+    "date": "2025-11-20",
+    "source": "arXiv",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "In defense of the know-it-all",
+    "title_es": "En defensa del sabelotodo",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec6383",
+    "date": "2025-11-20",
+    "source": "Science.org",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: A pangenome and pantranscriptome of hexaploid oat",
+    "title_es": "Corrección del autor: pangenoma y pantranscriptoma de avena hexaploide",
+    "url": "https://www.nature.com/articles/s41586-025-09919-7",
+    "date": "2025-11-20",
+    "source": "Nature",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC y FECYT organizan una jornada clave sobre las novedades de los Programas de Trabajo del ERC para 2026 y 2027",
+    "title_es": "CNIC y FECYT organizan una jornada clave sobre las novedades de los Programas de Trabajo del ERC para 2026 y 2027",
+    "url": "https://www.cnic.es/es/noticias/cnic-fecyt-organizan-jornada-clave-sobre-novedades-programas-trabajo-erc-para-2026-2027",
+    "date": "2025-11-20",
+    "source": "CNIC",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Lo que trae la investigación en el cáncer más letal: desde una ‘app’ para estimar riesgo personalizado, a fármacos más eficaces",
+    "title_es": "Lo que trae la investigación en el cáncer más letal: desde una ‘app’ para estimar riesgo personalizado, a fármacos más eficaces",
+    "url": "https://www.cnio.es/noticias/lo-que-trae-la-investigacion-en-el-cancer-mas-letal-desde-una-app-para-estimar-riesgo-personalizado-a-farmacos-mas-eficaces/",
+    "date": "2025-11-20",
+    "source": "CNIO",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Europa Clipper Captures Uranus With Star Tracker Camera",
+    "title_es": "Europa Clipper captura Urano con una cámara de seguimiento de estrellas",
+    "url": "https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/",
+    "date": "2025-11-20",
+    "source": "NASA (Top News)",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Fast, mysterious clouds swarm around our galaxy",
+    "title_es": "Nubes rápidas y misteriosas pululan por nuestra galaxia",
+    "url": "https://www.snexplores.org/article/high-velocity-clouds-milky-way-galaxy",
+    "date": "2025-11-20",
+    "source": "Science News Explores",
     "published": "2025-11-20T00:00:00.000Z"
   },
   {
@@ -48,7 +136,7 @@
     "published": "2025-11-19T00:00:00.000Z"
   },
   {
-    "title": "Author Correction: A metallic p -wave magnet with commensurate spin helix",
+    "title": "Author Correction: A metallic <i>p</i>-wave magnet with commensurate spin helix",
     "title_es": "Corrección del autor: Un imán metálico de onda <i>p</i> con hélice de espín proporcional",
     "url": "https://www.nature.com/articles/s41586-025-09861-8",
     "date": "2025-11-19",
@@ -101,6 +189,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/11/251118220056.htm",
     "date": "2025-11-19",
     "source": "ScienceDaily (Top)",
+    "published": "2025-11-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-space-tech-expo-europe-los-avances-de-iactec-espacio-y-otros-laboratorios-de-celeste\" hreflang=\"es\">El IAC presenta en Space Tech Expo Europe los avances de IACTEC-Espacio y otros laboratorios de CELESTE</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-space-tech-expo-europe-los-avances-de-iactec-espacio-y-otros-laboratorios-de-celeste\" hreflang=\"es\">El IAC presenta en Space Tech Expo Europe los avances de IACTEC-Espacio y otros laboratorios de CELESTE</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-space-tech-expo-europe-los-avances-de-iactec-espacio-y-otros-laboratorios-de-celeste",
+    "date": "2025-11-19",
+    "source": "IAC",
     "published": "2025-11-19T00:00:00.000Z"
   },
   {
@@ -11568,8 +11664,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Temporal dynamics of emotional face processing in social anxiety",
-    "title_es": "Dinámica temporal del procesamiento emocional del rostro en la ansiedad social.",
+    "title": "Reproduction of porcine ear necrosis (ear-tip necrosis) following intradermal inoculation of pigs with Fusobacterium necrophorum",
+    "title_es": "Reproducción de la necrosis de la oreja porcina (necrosis de la punta de la oreja) tras la inoculación intradérmica de cerdos con <i>Fusobacterium necrophorum</i>",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
