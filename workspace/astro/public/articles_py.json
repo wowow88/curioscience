@@ -1,5 +1,12 @@
 [
   {
+    "title": "Scientists reveal a hidden hormone switch for learning",
+    "title_es": "Los científicos revelan un interruptor hormonal oculto para el aprendizaje",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251121090740.htm",
+    "date": "2025-11-22",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Lions have a second roar that no one noticed until now",
     "title_es": "Los leones tienen un segundo rugido que nadie había notado hasta ahora",
     "url": "https://www.sciencenews.org/article/lion-new-type-roar-decoded",
@@ -21,19 +28,61 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Development of flipped classroom module fcm for music theory instruction: An innovative approach to music education",
+    "title_es": "Desarrollo del módulo fcm de aula invertida para la enseñanza de teoría musical: un enfoque innovador para la educación musical",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-11-21",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Of masks and Mayans: Books in brief",
+    "title_es": "De máscaras y mayas: Libros breves",
+    "url": "https://www.nature.com/articles/d41586-025-03868-x",
+    "date": "2025-11-21",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman\" hreflang=\"es\">La Universidad de Almería inviste Doctor Honoris Causa al astrofísico John Beckman</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman\" hreflang=\"es\">La Universidad de Almería inviste Doctor Honoris Causa al astrofísico John Beckman</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman",
+    "date": "2025-11-21",
+    "source": "IAC"
+  },
+  {
+    "title": "NASA Awards Liquid Hydrogen Supply Contracts",
+    "title_es": "La NASA adjudica contratos de suministro de hidrógeno líquido",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/",
+    "date": "2025-11-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Meet 5 scientists reshaping the way we understand the world",
+    "title_es": "Conozca a 5 científicos que están remodelando la forma en que entendemos el mundo",
+    "url": "https://www.sciencenews.org/article/scientists-to-watch-career-researchers",
+    "date": "2025-11-21",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists shrink 3-D printing so it can work inside cells",
+    "title_es": "Los científicos reducen la impresión 3D para que pueda funcionar dentro de las células",
+    "url": "https://www.snexplores.org/article/3-d-printing-inside-living-cells",
+    "date": "2025-11-21",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "First-ever full Earth system simulation provides new tool to understand climate change",
+    "title_es": "La primera simulación completa del sistema terrestre proporciona una nueva herramienta para comprender el cambio climático",
+    "url": "https://phys.org/news/2025-11-full-earth-simulation-tool-climate.html",
+    "date": "2025-11-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Broad support for lethal control of wild deer among nature organization subscribers",
     "title_es": "Amplio apoyo al control letal de los ciervos salvajes entre los suscriptores de organizaciones ecologistas",
     "url": "https://phys.org/news/2025-11-broad-lethal-wild-deer-nature.html",
     "date": "2025-11-20",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Reproduction of porcine ear necrosis (ear-tip necrosis) following intradermal inoculation of pigs with <i>Fusobacterium necrophorum</i>",
-    "title_es": "Reproducción de la necrosis de la oreja porcina (necrosis de la punta de la oreja) tras la inoculación intradérmica de cerdos con <i>Fusobacterium necrophorum</i>",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-11-20",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "Dataset Distillation for Pre-Trained Self-Supervised Vision Models",
@@ -160,6 +209,13 @@
     "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-space-tech-expo-europe-los-avances-de-iactec-espacio-y-otros-laboratorios-de-celeste",
     "date": "2025-11-19",
     "source": "IAC"
+  },
+  {
+    "title": "FameLab international final 2025 at CERN",
+    "title_es": "Final internacional FameLab 2025 en el CERN",
+    "url": "https://home.cern/news/news/cern/famelab-international-final-2025-cern",
+    "date": "2025-11-19",
+    "source": "CERN News"
   },
   {
     "title": "People support higher taxes after understanding benefits of public goods, Japanese study finds",

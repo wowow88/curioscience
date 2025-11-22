@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists reveal a hidden hormone switch for learning",
+    "title_es": "Los científicos revelan un interruptor hormonal oculto para el aprendizaje",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251121090740.htm",
+    "date": "2025-11-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-11-22T00:00:00.000Z"
+  },
+  {
     "title": "Improving Resiliency of Vital Services in Flood-Affected Regions of Bangladesh Using Next-Generation Opportunistic DTN Edge Ad Hoc Networks",
     "title_es": "Improving Resiliency of Vital Services in Flood-Affected Regions of Bangladesh Using Next-Generation Opportunistic DTN Edge Ad Hoc Networks",
     "url": "https://arxiv.org/abs/2511.15710",
@@ -27,6 +35,54 @@
     "title": "Elites wield huge influence over deepening polarization—now we can tell exactly how much",
     "title_es": "Las élites ejercen una enorme influencia sobre la profundización de la polarización; ahora podemos decir exactamente en qué medida",
     "url": "https://phys.org/news/2025-11-elites-wield-huge-deepening-polarization.html",
+    "date": "2025-11-21",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Of masks and Mayans: Books in brief",
+    "title_es": "De máscaras y mayas: Libros breves",
+    "url": "https://www.nature.com/articles/d41586-025-03868-x",
+    "date": "2025-11-21",
+    "source": "Nature",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman\" hreflang=\"es\">La Universidad de Almería inviste Doctor Honoris Causa al astrofísico John Beckman</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman\" hreflang=\"es\">La Universidad de Almería inviste Doctor Honoris Causa al astrofísico John Beckman</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-universidad-de-almeria-inviste-doctor-honoris-causa-al-astrofisico-john-beckman",
+    "date": "2025-11-21",
+    "source": "IAC",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Awards Liquid Hydrogen Supply Contracts",
+    "title_es": "La NASA adjudica contratos de suministro de hidrógeno líquido",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/",
+    "date": "2025-11-21",
+    "source": "NASA (Top News)",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Meet 5 scientists reshaping the way we understand the world",
+    "title_es": "Conozca a 5 científicos que están remodelando la forma en que entendemos el mundo",
+    "url": "https://www.sciencenews.org/article/scientists-to-watch-career-researchers",
+    "date": "2025-11-21",
+    "source": "Science News",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists shrink 3-D printing so it can work inside cells",
+    "title_es": "Los científicos reducen la impresión 3D para que pueda funcionar dentro de las células",
+    "url": "https://www.snexplores.org/article/3-d-printing-inside-living-cells",
+    "date": "2025-11-21",
+    "source": "Science News Explores",
+    "published": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "First-ever full Earth system simulation provides new tool to understand climate change",
+    "title_es": "La primera simulación completa del sistema terrestre proporciona una nueva herramienta para comprender el cambio climático",
+    "url": "https://phys.org/news/2025-11-full-earth-simulation-tool-climate.html",
     "date": "2025-11-21",
     "source": "Phys.org (Latest)",
     "published": "2025-11-21T00:00:00.000Z"
@@ -197,6 +253,14 @@
     "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-space-tech-expo-europe-los-avances-de-iactec-espacio-y-otros-laboratorios-de-celeste",
     "date": "2025-11-19",
     "source": "IAC",
+    "published": "2025-11-19T00:00:00.000Z"
+  },
+  {
+    "title": "FameLab international final 2025 at CERN",
+    "title_es": "Final internacional FameLab 2025 en el CERN",
+    "url": "https://home.cern/news/news/cern/famelab-international-final-2025-cern",
+    "date": "2025-11-19",
+    "source": "CERN News",
     "published": "2025-11-19T00:00:00.000Z"
   },
   {
@@ -11664,8 +11728,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Reproduction of porcine ear necrosis (ear-tip necrosis) following intradermal inoculation of pigs with Fusobacterium necrophorum",
-    "title_es": "Reproducción de la necrosis de la oreja porcina (necrosis de la punta de la oreja) tras la inoculación intradérmica de cerdos con <i>Fusobacterium necrophorum</i>",
+    "title": "Development of flipped classroom module fcm for music theory instruction: An innovative approach to music education",
+    "title_es": "Desarrollo del módulo fcm de aula invertida para la enseñanza de teoría musical: un enfoque innovador para la educación musical",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
