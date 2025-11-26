@@ -1,5 +1,21 @@
 [
   {
+    "title": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
+    "title_es": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
+    "url": "https://arxiv.org/abs/2511.19438",
+    "published": "2025-11-26T05:00:00.000Z",
+    "date": "2025-11-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "New deep-learning tool can tell if salmon is wild or farmed",
+    "title_es": "Una nueva herramienta de aprendizaje profundo puede determinar si el salmón es silvestre o de piscifactoría",
+    "url": "https://phys.org/news/2025-11-deep-tool-salmon-wild-farmed.html",
+    "date": "2025-11-26",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
     "title": "How to Expand a Self-orthogonal Code",
     "title_es": "How to Expand a Self-orthogonal Code",
     "url": "https://arxiv.org/abs/2511.17503",
@@ -13,6 +29,70 @@
     "url": "https://phys.org/news/2025-11-urban-natives-evolve-cities.html",
     "date": "2025-11-25",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities",
+    "title_es": "MedROV: hacia la detección de vocabulario abierto en tiempo real a través de diversas modalidades de imágenes médicas",
+    "url": "http://arxiv.org/abs/2511.20650v1",
+    "date": "2025-11-25",
+    "source": "arXiv",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Spatial fibroblast niches define Crohn’s fistulae",
+    "title_es": "Corrección del autor: Los nichos espaciales de fibroblastos definen las fístulas de Crohn",
+    "url": "https://www.nature.com/articles/s41586-025-09956-2",
+    "date": "2025-11-25",
+    "source": "Nature",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "El Patronato del CNIO celebrado en el día de hoy, informa:",
+    "title_es": "El Patronato del CNIO celebrado en el día de hoy, informa:",
+    "url": "https://www.cnio.es/noticias/el-patronato-del-cnio-celebrado-en-el-dia-de-hoy-informa/",
+    "date": "2025-11-25",
+    "source": "CNIO",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-conferencia-internacional-china-spain-astronomical-collaboration-high-resolution\" hreflang=\"es\">El IAC acoge la conferencia internacional “China–Spain Astronomical Collaboration on High-Resolution Spectroscopy 2025”</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-conferencia-internacional-china-spain-astronomical-collaboration-high-resolution\" hreflang=\"es\">El IAC acoge la conferencia internacional “China–Spain Astronomical Collaboration on High-Resolution Spectroscopy 2025”</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-conferencia-internacional-china-spain-astronomical-collaboration-high-resolution",
+    "date": "2025-11-25",
+    "source": "IAC",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "LSAH Newsletter",
+    "title_es": "Boletín LSAH",
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/treat/lsah-newsletter/",
+    "date": "2025-11-25",
+    "source": "NASA (Top News)",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "Cuddly koalas had a brutal, blade-toothed close cousin",
+    "title_es": "Los adorables koalas tenían un primo cercano brutal y con dientes afilados",
+    "url": "https://www.sciencenews.org/article/koalas-marsupials-evolution-extinct",
+    "date": "2025-11-25",
+    "source": "Science News",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn about autumn leaves",
+    "title_es": "Aprendamos sobre las hojas de otoño.",
+    "url": "https://www.snexplores.org/article/lets-learn-about-autumn-leaves",
+    "date": "2025-11-25",
+    "source": "Science News Explores",
+    "published": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "title": "The body trait that helps keep your brain young",
+    "title_es": "El rasgo corporal que ayuda a mantener tu cerebro joven",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251125112506.htm",
+    "date": "2025-11-25",
+    "source": "ScienceDaily (Top)",
     "published": "2025-11-25T00:00:00.000Z"
   },
   {
@@ -11872,8 +11952,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effect of congenital color vision deficiency on the ability of optometrists to correctly identify lesions in ocular fundus photographs",
-    "title_es": "Efecto de la deficiencia congénita de la visión de los colores sobre la capacidad de los optometristas para identificar correctamente las lesiones en fotografías del fondo de ojo",
+    "title": "Correction: MT-MAG: Accurate and interpretable machine learning for complete or partial taxonomic assignments of metagenomeassembled genomes",
+    "title_es": "Corrección: MT-MAG: aprendizaje automático preciso e interpretable para asignaciones taxonómicas completas o parciales de genomas ensamblados en metagenomas",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

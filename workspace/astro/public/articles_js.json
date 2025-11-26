@@ -1,27 +1,75 @@
 [
   {
-    "title": "How to Expand a Self-orthogonal Code",
-    "title_es": "How to Expand a Self-orthogonal Code",
-    "url": "https://arxiv.org/abs/2511.17503",
-    "published": "2025-11-25T05:00:00.000Z",
-    "date": "2025-11-25",
+    "title": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
+    "title_es": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
+    "url": "https://arxiv.org/abs/2511.19438",
+    "published": "2025-11-26T05:00:00.000Z",
+    "date": "2025-11-26",
     "source": "arXiv"
   },
   {
-    "title": "Urban natives: Plants evolve to live in cities",
-    "title_es": "Urban natives: Plants evolve to live in cities",
-    "url": "https://phys.org/news/2025-11-urban-natives-evolve-cities.html",
-    "published": "2025-11-25T05:00:01.000Z",
-    "date": "2025-11-25",
+    "title": "New deep-learning tool can tell if salmon is wild or farmed",
+    "title_es": "New deep-learning tool can tell if salmon is wild or farmed",
+    "url": "https://phys.org/news/2025-11-deep-tool-salmon-wild-farmed.html",
+    "published": "2025-11-26T05:10:01.000Z",
+    "date": "2025-11-26",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "MAPK-driven epithelial cell plasticity drives colorectal cancer therapeutic resistance",
-    "title_es": "MAPK-driven epithelial cell plasticity drives colorectal cancer therapeutic resistance",
-    "url": "https://www.nature.com/articles/s41586-025-09916-w",
-    "published": "2025-11-24T00:00:00.000Z",
-    "date": "2025-11-24",
+    "title": "Author Correction: Spatial fibroblast niches define Crohn’s fistulae",
+    "title_es": "Author Correction: Spatial fibroblast niches define Crohn’s fistulae",
+    "url": "https://www.nature.com/articles/s41586-025-09956-2",
+    "published": "2025-11-25T00:00:00.000Z",
+    "date": "2025-11-25",
     "source": "Nature"
+  },
+  {
+    "title": "El Patronato del CNIO celebrado en el día de hoy, informa:",
+    "title_es": "El Patronato del CNIO celebrado en el día de hoy, informa:",
+    "url": "https://www.cnio.es/noticias/el-patronato-del-cnio-celebrado-en-el-dia-de-hoy-informa/",
+    "published": "2025-11-25T12:51:45.000Z",
+    "date": "2025-11-25",
+    "source": "CNIO"
+  },
+  {
+    "title": "LSAH Newsletter",
+    "title_es": "LSAH Newsletter",
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/treat/lsah-newsletter/",
+    "published": "2025-11-25T21:20:00.000Z",
+    "date": "2025-11-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Cuddly koalas had a brutal, blade-toothed close cousin",
+    "title_es": "Cuddly koalas had a brutal, blade-toothed close cousin",
+    "url": "https://www.sciencenews.org/article/koalas-marsupials-evolution-extinct",
+    "published": "2025-11-25T17:00:00.000Z",
+    "date": "2025-11-25",
+    "source": "Science News"
+  },
+  {
+    "title": "Let’s learn about autumn leaves",
+    "title_es": "Let’s learn about autumn leaves",
+    "url": "https://www.snexplores.org/article/lets-learn-about-autumn-leaves",
+    "published": "2025-11-25T11:30:00.000Z",
+    "date": "2025-11-25",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "The body trait that helps keep your brain young",
+    "title_es": "The body trait that helps keep your brain young",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251125112506.htm",
+    "published": "2025-11-25T16:34:58.000Z",
+    "date": "2025-11-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Correction: MT-MAG: Accurate and interpretable machine learning for complete or partial taxonomic assignments of metagenomeassembled genomes",
+    "title_es": "Correction: MT-MAG: Accurate and interpretable machine learning for complete or partial taxonomic assignments of metagenomeassembled genomes",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-11-25T14:00:00.000Z",
+    "date": "2025-11-25",
+    "source": "PLOS ONE"
   },
   {
     "title": "El Dr. Valentín Fuster recibe el título de Doctor Honoris Causa y el Premio Presidencial de Honor en Chipre",
@@ -32,52 +80,12 @@
     "source": "CNIC"
   },
   {
-    "title": "NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration",
-    "title_es": "NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-2025-astronaut-candidates-shaping-artemis-exploration/",
-    "published": "2025-11-24T20:00:00.000Z",
-    "date": "2025-11-24",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "Computer Security: Password evolutions",
     "title_es": "Computer Security: Password evolutions",
     "url": "https://home.cern/news/news/computing/computer-security-password-evolutions",
     "published": "2025-11-24T14:15:44.000Z",
     "date": "2025-11-24",
     "source": "CERN News"
-  },
-  {
-    "title": "‘Butt breathing’ could help people who can’t get oxygen the regular way",
-    "title_es": "‘Butt breathing’ could help people who can’t get oxygen the regular way",
-    "url": "https://www.sciencenews.org/article/butt-breathing-gut-oxygen-bloodstream",
-    "published": "2025-11-24T18:00:00.000Z",
-    "date": "2025-11-24",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists Say: Blue whirl",
-    "title_es": "Scientists Say: Blue whirl",
-    "url": "https://www.snexplores.org/article/scientists-say-blue-whirl-definition-pronunciation",
-    "published": "2025-11-24T11:30:00.000Z",
-    "date": "2025-11-24",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Scientists find hidden switch that lets tumors shapeshift and evade treatment",
-    "title_es": "Scientists find hidden switch that lets tumors shapeshift and evade treatment",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251124094314.htm",
-    "published": "2025-11-24T15:26:21.000Z",
-    "date": "2025-11-24",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Effect of congenital color vision deficiency on the ability of optometrists to correctly identify lesions in ocular fundus photographs",
-    "title_es": "Effect of congenital color vision deficiency on the ability of optometrists to correctly identify lesions in ocular fundus photographs",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-11-24T14:00:00.000Z",
-    "date": "2025-11-24",
-    "source": "PLOS ONE"
   },
   {
     "title": "In defense of the know-it-all",
@@ -88,27 +96,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Lo que trae la investigación en el cáncer más letal: desde una ‘app’ para estimar riesgo personalizado, a fármacos más eficaces",
-    "title_es": "Lo que trae la investigación en el cáncer más letal: desde una ‘app’ para estimar riesgo personalizado, a fármacos más eficaces",
-    "url": "https://www.cnio.es/noticias/lo-que-trae-la-investigacion-en-el-cancer-mas-letal-desde-una-app-para-estimar-riesgo-personalizado-a-farmacos-mas-eficaces/",
-    "published": "2025-11-20T12:01:47.000Z",
-    "date": "2025-11-20",
-    "source": "CNIO"
-  },
-  {
     "title": "CERN Council reviews feasibility study for a next-generation collider",
     "title_es": "CERN Council reviews feasibility study for a next-generation collider",
     "url": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
     "published": "2025-11-10T15:45:19.000Z",
     "date": "2025-11-10",
     "source": "CERN Press"
-  },
-  {
-    "title": "Saltar al contenido principal",
-    "title_es": "Saltar al contenido principal",
-    "url": "https://www.isciii.es/actualidad#main-content",
-    "date": "",
-    "published": "",
-    "source": "ISCIII"
   }
 ]
