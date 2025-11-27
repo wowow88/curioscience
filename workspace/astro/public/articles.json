@@ -1,5 +1,21 @@
 [
   {
+    "title": "When LLMs Can't Help: Real-World Evaluation of LLMs in Nutrition",
+    "title_es": "When LLMs Can't Help: Real-World Evaluation of LLMs in Nutrition",
+    "url": "https://arxiv.org/abs/2511.20652",
+    "published": "2025-11-27T05:00:00.000Z",
+    "date": "2025-11-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Michigan cherry farmers find a surprising food safety ally: Falcons",
+    "title_es": "Los productores de cerezas de Michigan encuentran un sorprendente aliado en la seguridad alimentaria: los halcones",
+    "url": "https://phys.org/news/2025-11-michigan-cherry-farmers-food-safety.html",
+    "date": "2025-11-27",
+    "source": "Phys.org (Latest)",
+    "published": "2025-11-27T00:00:00.000Z"
+  },
+  {
     "title": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
     "title_es": "Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms",
     "url": "https://arxiv.org/abs/2511.19438",
@@ -13,6 +29,70 @@
     "url": "https://phys.org/news/2025-11-deep-tool-salmon-wild-farmed.html",
     "date": "2025-11-26",
     "source": "Phys.org (Latest)",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "Revisiting Generalization Across Difficulty Levels: It's Not So Easy",
+    "title_es": "Revisar la generalización en todos los niveles de dificultad: no es tan fácil",
+    "url": "http://arxiv.org/abs/2511.21692v1",
+    "date": "2025-11-26",
+    "source": "arXiv",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Photocatalytic low-temperature defluorination of PFASs",
+    "title_es": "Corrección del autor: Defluoración fotocatalítica a baja temperatura de PFAS",
+    "url": "https://www.nature.com/articles/s41586-025-09871-6",
+    "date": "2025-11-26",
+    "source": "Nature",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/libreria-galimf-e-miles-impacto-de-una-funcion-inicial-de-masas-dependiente-del-entorno-en-los\" hreflang=\"es\">Librería GalIMF–E-MILES: Impacto de una función inicial de masas dependiente del entorno en los espectros de poblaciones estelares</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/libreria-galimf-e-miles-impacto-de-una-funcion-inicial-de-masas-dependiente-del-entorno-en-los\" hreflang=\"es\">Librería GalIMF–E-MILES: Impacto de una función inicial de masas dependiente del entorno en los espectros de poblaciones estelares</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/libreria-galimf-e-miles-impacto-de-una-funcion-inicial-de-masas-dependiente-del-entorno-en-los",
+    "date": "2025-11-26",
+    "source": "IAC",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "PLANETS Units Have Landed – Free NASA-Funded Out-of-School Time Resources",
+    "title_es": "Las unidades PLANETS han aterrizado: recursos gratuitos para el tiempo fuera de la escuela financiados por la NASA",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/planets-units-have-landed-free-nasa-funded-out-of-school-time-resources/",
+    "date": "2025-11-26",
+    "source": "NASA (Top News)",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "Des élus de communes genevoises accueillis au CERN",
+    "title_es": "Los funcionarios electos de los municipios de Ginebra son recibidos en el CERN",
+    "url": "https://home.cern/fr/news/news/cern/cern-welcomes-elected-representatives-geneva-communes",
+    "date": "2025-11-26",
+    "source": "CERN News",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "Here are 3 big ideas to combat climate change, with or without COP",
+    "title_es": "Aquí hay 3 grandes ideas para combatir el cambio climático, con o sin COP",
+    "url": "https://www.sciencenews.org/article/3-ideas-combat-climate-change-cop-30-un",
+    "date": "2025-11-26",
+    "source": "Science News",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "Award-winning micro-photos depict stunning details of nature",
+    "title_es": "Microfotografías premiadas que muestran impresionantes detalles de la naturaleza",
+    "url": "https://www.snexplores.org/article/award-winning-nikon-science-photos-2025",
+    "date": "2025-11-26",
+    "source": "Science News Explores",
+    "published": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "title": "New evidence shows the Maya collapse was more than just drought",
+    "title_es": "Nueva evidencia muestra que el colapso maya fue más que una simple sequía",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251126095041.htm",
+    "date": "2025-11-26",
+    "source": "ScienceDaily (Top)",
     "published": "2025-11-26T00:00:00.000Z"
   },
   {
@@ -11952,8 +12032,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: MT-MAG: Accurate and interpretable machine learning for complete or partial taxonomic assignments of metagenomeassembled genomes",
-    "title_es": "Corrección: MT-MAG: aprendizaje automático preciso e interpretable para asignaciones taxonómicas completas o parciales de genomas ensamblados en metagenomas",
+    "title": "Correction: Experiences, impacts and mental health functioning during a COVID-19 outbreak and lockdown: Data from a diverse New York City sample of college students",
+    "title_es": "Corrección: Experiencias, impactos y funcionamiento de la salud mental durante un brote y encierro de COVID-19: datos de una muestra diversa de estudiantes universitarios de la ciudad de Nueva York",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
