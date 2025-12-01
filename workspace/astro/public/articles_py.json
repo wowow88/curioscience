@@ -1,5 +1,19 @@
 [
   {
+    "title": "A lost Amazon world just reappeared in Bolivia",
+    "title_es": "Un mundo amazónico perdido acaba de reaparecer en Bolivia",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251130205421.htm",
+    "date": "2025-12-01",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "UK report finds growing use of AI in evaluating university research quality",
+    "title_es": "Un informe del Reino Unido encuentra un uso cada vez mayor de la IA para evaluar la calidad de la investigación universitaria",
+    "url": "https://phys.org/news/2025-11-uk-ai-university-quality.html",
+    "date": "2025-12-01",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Global plan outlines steps to monitor and reduce marine litter worldwide",
     "title_es": "El plan global describe los pasos para monitorear y reducir la basura marina en todo el mundo",
     "url": "https://phys.org/news/2025-11-global-outlines-marine-litter-worldwide.html",
@@ -61,6 +75,13 @@
     "url": "https://www.sciencedaily.com/releases/2025/11/251128050530.htm",
     "date": "2025-11-28",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction",
+    "title_es": "Pensar haciendo: construir un razonamiento de modelo mundial eficiente en LLM mediante interacción de múltiples turnos",
+    "url": "http://arxiv.org/abs/2511.23476v1",
+    "date": "2025-11-28",
+    "source": "arXiv"
   },
   {
     "title": "Michigan cherry farmers find a surprising food safety ally: Falcons",
