@@ -1,5 +1,21 @@
 [
   {
+    "title": "Identifying and extracting Data Access Statements from full-text academic articles",
+    "title_es": "Identifying and extracting Data Access Statements from full-text academic articles",
+    "url": "https://arxiv.org/abs/2512.00001",
+    "published": "2025-12-02T05:00:00.000Z",
+    "date": "2025-12-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Dynamic duo of bacteria could change Mars dust into versatile building material for first human colonists",
+    "title_es": "Un dúo dinámico de bacterias podría convertir el polvo de Marte en un material de construcción versátil para los primeros colonos humanos",
+    "url": "https://phys.org/news/2025-12-dynamic-duo-bacteria-mars-versatile.html",
+    "date": "2025-12-02",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
     "title": "Designing a Multimodal Viewer for Piano Performance Analysis -- a Pedagogy-First Approach",
     "title_es": "Designing a Multimodal Viewer for Piano Performance Analysis -- a Pedagogy-First Approach",
     "url": "https://arxiv.org/abs/2511.21693",
@@ -21,6 +37,70 @@
     "url": "https://phys.org/news/2025-11-uk-ai-university-quality.html",
     "date": "2025-12-01",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI",
+    "title_es": "EfficientFlow: Aprendizaje de políticas de flujo equivalente eficiente para IA incorporada",
+    "url": "http://arxiv.org/abs/2512.02020v1",
+    "date": "2025-12-01",
+    "source": "arXiv",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: Cytokinesis failure generating tetraploids promotes tumorigenesis in p53 -null cells",
+    "title_es": "Expresión editorial de preocupación: la falla de la citocinesis que genera tetraploides promueve la tumorigénesis en células nulas <i>p53</i>",
+    "url": "https://www.nature.com/articles/s41586-025-09942-8",
+    "date": "2025-12-01",
+    "source": "Nature",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "Premio para el estudio que presenta una nueva inmunoterapia celular para la leucemia linfoblástica aguda de células B",
+    "title_es": "Premio para el estudio que presenta una nueva inmunoterapia celular para la leucemia linfoblástica aguda de células B",
+    "url": "https://www.cnio.es/noticias/premio-para-el-estudio-que-presenta-una-nueva-inmunoterapia-celular-para-la-leucemia-linfoblastica-aguda-de-celulas-b/",
+    "date": "2025-12-01",
+    "source": "CNIO",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-las-reuniones-cientificas-del-instrumento-sophi-de-solar-orbiter\" hreflang=\"es\">EL IAC acoge las reuniones científicas del instrumento SO/PHI de Solar Orbiter </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-las-reuniones-cientificas-del-instrumento-sophi-de-solar-orbiter\" hreflang=\"es\">EL IAC acoge las reuniones científicas del instrumento SO/PHI de Solar Orbiter </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-las-reuniones-cientificas-del-instrumento-sophi-de-solar-orbiter",
+    "date": "2025-12-01",
+    "source": "IAC",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "What is AI? (Grades 5-8)",
+    "title_es": "¿Qué es la IA? (Grados 5-8)",
+    "url": "https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/",
+    "date": "2025-12-01",
+    "source": "NASA (Top News)",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
+    "title_es": "La \"prehabilitación\" personalizada ayuda al cuerpo a prepararse para una cirugía mayor",
+    "url": "https://www.sciencenews.org/article/prehabilitation-surgery-immune-system",
+    "date": "2025-12-01",
+    "source": "Science News",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists created human egg cells from skin cells",
+    "title_es": "Los científicos crearon óvulos humanos a partir de células de la piel.",
+    "url": "https://www.snexplores.org/article/human-eggs-from-skin-cells",
+    "date": "2025-12-01",
+    "source": "Science News Explores",
+    "published": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "New brain imaging breakthrough reveals clues to Parkinson’s",
+    "title_es": "Un nuevo avance en imágenes cerebrales revela pistas sobre el Parkinson",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251201085855.htm",
+    "date": "2025-12-01",
+    "source": "ScienceDaily (Top)",
     "published": "2025-12-01T00:00:00.000Z"
   },
   {
@@ -12200,8 +12280,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Experiences, impacts and mental health functioning during a COVID-19 outbreak and lockdown: Data from a diverse New York City sample of college students",
-    "title_es": "Corrección: Experiencias, impactos y funcionamiento de la salud mental durante un brote y encierro de COVID-19: datos de una muestra diversa de estudiantes universitarios de la ciudad de Nueva York",
+    "title": "Global trends in Alzheimer’s disease and other dementias: A comprehensive analysis of incidence, socio-demographic variations, and future projections",
+    "title_es": "Tendencias globales en la enfermedad de Alzheimer y otras demencias: un análisis integral de la incidencia, las variaciones sociodemográficas y las proyecciones futuras",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
