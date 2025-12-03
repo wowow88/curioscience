@@ -1,5 +1,29 @@
 [
   {
+    "title": "FCDB (Functorial-Categorical Database): A Compositional Framework for Information Preservation and Anti-Commutativity Reduction",
+    "title_es": "FCDB (Functorial-Categorical Database): A Compositional Framework for Information Preservation and Anti-Commutativity Reduction",
+    "url": "https://arxiv.org/abs/2512.02021",
+    "published": "2025-12-03T05:00:00.000Z",
+    "date": "2025-12-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "A 70-year-old pregnancy drug just revealed a hidden weakness in brain cancer",
+    "title_es": "Un medicamento para el embarazo de 70 años acaba de revelar una debilidad oculta en el cáncer cerebral",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251202052234.htm",
+    "date": "2025-12-03",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-03T00:00:00.000Z"
+  },
+  {
+    "title": "Terrestrial biodiversity grows with tree cover in agricultural landscapes",
+    "title_es": "La biodiversidad terrestre crece con la cobertura arbórea en los paisajes agrícolas",
+    "url": "https://phys.org/news/2025-12-terrestrial-biodiversity-tree-agricultural-landscapes.html",
+    "date": "2025-12-03",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-03T00:00:00.000Z"
+  },
+  {
     "title": "Identifying and extracting Data Access Statements from full-text academic articles",
     "title_es": "Identifying and extracting Data Access Statements from full-text academic articles",
     "url": "https://arxiv.org/abs/2512.00001",
@@ -13,6 +37,54 @@
     "url": "https://phys.org/news/2025-12-dynamic-duo-bacteria-mars-versatile.html",
     "date": "2025-12-02",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "PPTArena: A Benchmark for Agentic PowerPoint Editing",
+    "title_es": "PPTArena: un punto de referencia para la edición agente de PowerPoint",
+    "url": "http://arxiv.org/abs/2512.03042v1",
+    "date": "2025-12-02",
+    "source": "arXiv",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Video‐rate tunable colour electronic paper with human resolution",
+    "title_es": "Corrección del autor: Papel electrónico en color ajustable con velocidad de vídeo y resolución humana",
+    "url": "https://www.nature.com/articles/s41586-025-09975-z",
+    "date": "2025-12-02",
+    "source": "Nature",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-despide-francisco-sanchez-en-un-acto-homenaje-en-la-palma\" hreflang=\"es\">El IAC despide a Francisco Sánchez en un acto homenaje en La Palma</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-despide-francisco-sanchez-en-un-acto-homenaje-en-la-palma\" hreflang=\"es\">El IAC despide a Francisco Sánchez en un acto homenaje en La Palma</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-despide-francisco-sanchez-en-un-acto-homenaje-en-la-palma",
+    "date": "2025-12-02",
+    "source": "IAC",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Awards Lunar Freezer System Contract",
+    "title_es": "La NASA adjudica el contrato del sistema de congelación lunar",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/",
+    "date": "2025-12-02",
+    "source": "NASA (Top News)",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
+    "title_es": "Las pilas retorcidas de carbono 2-D actúan como un tipo extraño de superconductor",
+    "url": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor",
+    "date": "2025-12-02",
+    "source": "Science News",
+    "published": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "title": "Liquid from African tulip trees may protect honeybees from pests",
+    "title_es": "El líquido de los tulipanes africanos puede proteger a las abejas de las plagas",
+    "url": "https://www.snexplores.org/article/liquid-from-african-tulip-trees-may-protect-honeybees-from-pests",
+    "date": "2025-12-02",
+    "source": "Science News Explores",
     "published": "2025-12-02T00:00:00.000Z"
   },
   {
@@ -48,7 +120,7 @@
     "published": "2025-12-01T00:00:00.000Z"
   },
   {
-    "title": "Editorial Expression of Concern: Cytokinesis failure generating tetraploids promotes tumorigenesis in p53 -null cells",
+    "title": "Editorial Expression of Concern: Cytokinesis failure generating tetraploids promotes tumorigenesis in <i>p53</i>-null cells",
     "title_es": "Expresión editorial de preocupación: la falla de la citocinesis que genera tetraploides promueve la tumorigénesis en células nulas <i>p53</i>",
     "url": "https://www.nature.com/articles/s41586-025-09942-8",
     "date": "2025-12-01",
@@ -12280,8 +12352,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Global trends in Alzheimer’s disease and other dementias: A comprehensive analysis of incidence, socio-demographic variations, and future projections",
-    "title_es": "Tendencias globales en la enfermedad de Alzheimer y otras demencias: un análisis integral de la incidencia, las variaciones sociodemográficas y las proyecciones futuras",
+    "title": "The effects of ideology and cognitive reflection on evidence gathering behavior in the political domain",
+    "title_es": "Los efectos de la ideología y la reflexión cognitiva sobre el comportamiento de recopilación de evidencia en el ámbito político",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

@@ -1,27 +1,67 @@
 [
   {
-    "title": "Identifying and extracting Data Access Statements from full-text academic articles",
-    "title_es": "Identifying and extracting Data Access Statements from full-text academic articles",
-    "url": "https://arxiv.org/abs/2512.00001",
-    "published": "2025-12-02T05:00:00.000Z",
-    "date": "2025-12-02",
+    "title": "FCDB (Functorial-Categorical Database): A Compositional Framework for Information Preservation and Anti-Commutativity Reduction",
+    "title_es": "FCDB (Functorial-Categorical Database): A Compositional Framework for Information Preservation and Anti-Commutativity Reduction",
+    "url": "https://arxiv.org/abs/2512.02021",
+    "published": "2025-12-03T05:00:00.000Z",
+    "date": "2025-12-03",
     "source": "arXiv"
   },
   {
-    "title": "Dynamic duo of bacteria could change Mars dust into versatile building material for first human colonists",
-    "title_es": "Dynamic duo of bacteria could change Mars dust into versatile building material for first human colonists",
-    "url": "https://phys.org/news/2025-12-dynamic-duo-bacteria-mars-versatile.html",
-    "published": "2025-12-02T05:00:01.000Z",
-    "date": "2025-12-02",
+    "title": "A 70-year-old pregnancy drug just revealed a hidden weakness in brain cancer",
+    "title_es": "A 70-year-old pregnancy drug just revealed a hidden weakness in brain cancer",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251202052234.htm",
+    "published": "2025-12-03T04:15:16.000Z",
+    "date": "2025-12-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Terrestrial biodiversity grows with tree cover in agricultural landscapes",
+    "title_es": "Terrestrial biodiversity grows with tree cover in agricultural landscapes",
+    "url": "https://phys.org/news/2025-12-terrestrial-biodiversity-tree-agricultural-landscapes.html",
+    "published": "2025-12-03T05:00:02.000Z",
+    "date": "2025-12-03",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Editorial Expression of Concern: Cytokinesis failure generating tetraploids promotes tumorigenesis in p53 -null cells",
-    "title_es": "Editorial Expression of Concern: Cytokinesis failure generating tetraploids promotes tumorigenesis in p53 -null cells",
-    "url": "https://www.nature.com/articles/s41586-025-09942-8",
-    "published": "2025-12-01T00:00:00.000Z",
-    "date": "2025-12-01",
+    "title": "Author Correction: Video‐rate tunable colour electronic paper with human resolution",
+    "title_es": "Author Correction: Video‐rate tunable colour electronic paper with human resolution",
+    "url": "https://www.nature.com/articles/s41586-025-09975-z",
+    "published": "2025-12-02T00:00:00.000Z",
+    "date": "2025-12-02",
     "source": "Nature"
+  },
+  {
+    "title": "NASA Awards Lunar Freezer System Contract",
+    "title_es": "NASA Awards Lunar Freezer System Contract",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/",
+    "published": "2025-12-02T21:12:39.000Z",
+    "date": "2025-12-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
+    "title_es": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
+    "url": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor",
+    "published": "2025-12-02T16:00:00.000Z",
+    "date": "2025-12-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Liquid from African tulip trees may protect honeybees from pests",
+    "title_es": "Liquid from African tulip trees may protect honeybees from pests",
+    "url": "https://www.snexplores.org/article/liquid-from-african-tulip-trees-may-protect-honeybees-from-pests",
+    "published": "2025-12-02T11:30:00.000Z",
+    "date": "2025-12-02",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "The effects of ideology and cognitive reflection on evidence gathering behavior in the political domain",
+    "title_es": "The effects of ideology and cognitive reflection on evidence gathering behavior in the political domain",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-02T14:00:00.000Z",
+    "date": "2025-12-02",
+    "source": "PLOS ONE"
   },
   {
     "title": "Premio para el estudio que presenta una nueva inmunoterapia celular para la leucemia linfoblástica aguda de células B",
@@ -30,46 +70,6 @@
     "published": "2025-12-01T12:08:56.000Z",
     "date": "2025-12-01",
     "source": "CNIO"
-  },
-  {
-    "title": "What is AI? (Grades 5-8)",
-    "title_es": "What is AI? (Grades 5-8)",
-    "url": "https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/",
-    "published": "2025-12-01T20:57:26.000Z",
-    "date": "2025-12-01",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
-    "title_es": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
-    "url": "https://www.sciencenews.org/article/prehabilitation-surgery-immune-system",
-    "published": "2025-12-01T16:00:00.000Z",
-    "date": "2025-12-01",
-    "source": "Science News"
-  },
-  {
-    "title": "Scientists created human egg cells from skin cells",
-    "title_es": "Scientists created human egg cells from skin cells",
-    "url": "https://www.snexplores.org/article/human-eggs-from-skin-cells",
-    "published": "2025-12-01T11:30:00.000Z",
-    "date": "2025-12-01",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "New brain imaging breakthrough reveals clues to Parkinson’s",
-    "title_es": "New brain imaging breakthrough reveals clues to Parkinson’s",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251201085855.htm",
-    "published": "2025-12-01T14:33:21.000Z",
-    "date": "2025-12-01",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Global trends in Alzheimer’s disease and other dementias: A comprehensive analysis of incidence, socio-demographic variations, and future projections",
-    "title_es": "Global trends in Alzheimer’s disease and other dementias: A comprehensive analysis of incidence, socio-demographic variations, and future projections",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-01T14:00:00.000Z",
-    "date": "2025-12-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "A human history of machines",
