@@ -1,5 +1,12 @@
 [
   {
+    "title": "Camera traps snap nearly three times more images of endangered Sumatran tigers than before",
+    "title_es": "Las cámaras trampa capturan casi tres veces más imágenes de tigres de Sumatra en peligro de extinción que antes",
+    "url": "https://phys.org/news/2025-12-camera-snap-images-endangered-sumatran.html",
+    "date": "2025-12-04",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A 70-year-old pregnancy drug just revealed a hidden weakness in brain cancer",
     "title_es": "Un medicamento para el embarazo de 70 años acaba de revelar una debilidad oculta en el cáncer cerebral",
     "url": "https://www.sciencedaily.com/releases/2025/12/251202052234.htm",
@@ -14,19 +21,68 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Immune transcriptomic changes in Australian Gulf War veterans",
+    "title_es": "Cambios transcriptómicos inmunológicos en veteranos australianos de la Guerra del Golfo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-12-03",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "SkillFactory: Self-Distillation For Learning Cognitive Behaviors",
+    "title_es": "SkillFactory: autodestilación para aprender comportamientos cognitivos",
+    "url": "http://arxiv.org/abs/2512.04072v1",
+    "date": "2025-12-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Retraction Note: The economic commitment of climate change",
+    "title_es": "Nota de retractación: El compromiso económico del cambio climático",
+    "url": "https://www.nature.com/articles/s41586-025-09726-0",
+    "date": "2025-12-03",
+    "source": "Nature"
+  },
+  {
+    "title": "Nature: NeuMap, un mapa pionero de los neutrófilos que redefine su papel en la salud, infección e inflamación",
+    "title_es": "Nature: NeuMap, un mapa pionero de los neutrófilos que redefine su papel en la salud, infección e inflamación",
+    "url": "https://www.cnic.es/es/noticias/nature-neumap-un-mapa-pionero-neutrofilos-que-redefine-su-papel-salud-infeccion-e",
+    "date": "2025-12-03",
+    "source": "CNIC"
+  },
+  {
+    "title": "Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space",
+    "title_es": "Los murales de arte estudiantil en Johnson celebran los 25 años de la humanidad en el espacio",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/",
+    "date": "2025-12-03",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Ancient DNA reveals China’s first ‘pet’ cat wasn’t the house cat",
+    "title_es": "ADN antiguo revela que el primer gato 'mascota' de China no era el gato doméstico",
+    "url": "https://www.sciencenews.org/article/dna-china-first-cat-leopard-rodent",
+    "date": "2025-12-03",
+    "source": "Science News"
+  },
+  {
+    "title": "Rudolph’s red nose could glow through bioluminescence",
+    "title_es": "La nariz roja de Rudolph podría brillar mediante bioluminiscencia",
+    "url": "https://www.snexplores.org/article/rudolph-red-nose-glow-bioluminescence",
+    "date": "2025-12-03",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "The solar mission that survived disaster and found 5,000 comets",
+    "title_es": "La misión solar que sobrevivió al desastre y encontró 5.000 cometas",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251203084928.htm",
+    "date": "2025-12-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Dynamic duo of bacteria could change Mars dust into versatile building material for first human colonists",
     "title_es": "Un dúo dinámico de bacterias podría convertir el polvo de Marte en un material de construcción versátil para los primeros colonos humanos",
     "url": "https://phys.org/news/2025-12-dynamic-duo-bacteria-mars-versatile.html",
     "date": "2025-12-02",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "The effects of ideology and cognitive reflection on evidence gathering behavior in the political domain",
-    "title_es": "Los efectos de la ideología y la reflexión cognitiva sobre el comportamiento de recopilación de evidencia en el ámbito político",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-12-02",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "PPTArena: A Benchmark for Agentic PowerPoint Editing",
