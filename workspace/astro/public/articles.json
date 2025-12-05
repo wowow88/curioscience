@@ -1,5 +1,37 @@
 [
   {
+    "title": "Energy Profiling of Data-Sharing Pipelines: Modeling, Estimation, and Reuse Strategies",
+    "title_es": "Energy Profiling of Data-Sharing Pipelines: Modeling, Estimation, and Reuse Strategies",
+    "url": "https://arxiv.org/abs/2512.04086",
+    "published": "2025-12-05T05:00:00.000Z",
+    "date": "2025-12-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fate of hepatitis B vaccine for US babies hangs in the balance",
+    "title_es": "El destino de la vacuna contra la hepatitis B para los bebés estadounidenses está en juego",
+    "url": "https://www.nature.com/articles/d41586-025-03937-1",
+    "date": "2025-12-05",
+    "source": "Nature",
+    "published": "2025-12-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists find hidden brain nutrient drop that may fuel anxiety",
+    "title_es": "Los científicos encuentran una caída oculta de nutrientes en el cerebro que puede alimentar la ansiedad",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251204024236.htm",
+    "date": "2025-12-05",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-05T00:00:00.000Z"
+  },
+  {
+    "title": "Time-delay cosmography may enable a speed camera for the universe",
+    "title_es": "La cosmografía con retardo de tiempo puede habilitar una cámara de velocidad para el universo",
+    "url": "https://phys.org/news/2025-12-delay-cosmography-enable-camera-universe.html",
+    "date": "2025-12-05",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-05T00:00:00.000Z"
+  },
+  {
     "title": "Entropy-Based Measurement of Value Drift and Alignment Work in Large Language Models",
     "title_es": "Entropy-Based Measurement of Value Drift and Alignment Work in Large Language Models",
     "url": "https://arxiv.org/abs/2512.03047",
@@ -13,6 +45,62 @@
     "url": "https://phys.org/news/2025-12-camera-snap-images-endangered-sumatran.html",
     "date": "2025-12-04",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "The Universal Weight Subspace Hypothesis",
+    "title_es": "La hipótesis del subespacio de peso universal",
+    "url": "http://arxiv.org/abs/2512.05117v1",
+    "date": "2025-12-04",
+    "source": "arXiv",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "Painting the phylogeny of life",
+    "title_es": "Pintando la filogenia de la vida.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7390",
+    "date": "2025-12-04",
+    "source": "Science.org",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "Semana de la Ciencia y la Innovación 2025: Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo.",
+    "title_es": "Semana de la Ciencia y la Innovación 2025: Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo.",
+    "url": "https://www.cnic.es/es/noticias/semana-ciencia-innovacion-2025-da-color-tu-plato-convierte-tu-corazon-un-superheroe-con",
+    "date": "2025-12-04",
+    "source": "CNIC",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/que-tienen-en-comun-la-lactea-con-sus-galaxias-primas-descubrelo-esta-semana-en-sonando-estrellas\" hreflang=\"es\">¿Qué tienen en común la Vía Láctea con sus galaxias ‘primas’? Descúbrelo esta semana en \"Soñando Estrellas\"</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/que-tienen-en-comun-la-lactea-con-sus-galaxias-primas-descubrelo-esta-semana-en-sonando-estrellas\" hreflang=\"es\">¿Qué tienen en común la Vía Láctea con sus galaxias ‘primas’? Descúbrelo esta semana en \"Soñando Estrellas\"</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/que-tienen-en-comun-la-lactea-con-sus-galaxias-primas-descubrelo-esta-semana-en-sonando-estrellas",
+    "date": "2025-12-04",
+    "source": "IAC",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Nancy Grace Roman Space Telescope Completed",
+    "title_es": "Se completó el telescopio espacial romano Nancy Grace de la NASA",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/",
+    "date": "2025-12-04",
+    "source": "NASA (Top News)",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "Chatbots spewing facts, and falsehoods, can sway voters",
+    "title_es": "Los chatbots que arrojan hechos y falsedades pueden influir en los votantes",
+    "url": "https://www.sciencenews.org/article/chatbots-facts-falsehood-sway-voters-ai",
+    "date": "2025-12-04",
+    "source": "Science News",
+    "published": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "title": "How to invent a language — like that of Avatar’s Na’vi",
+    "title_es": "Cómo inventar un lenguaje, como el de los Na'vi de Avatar",
+    "url": "https://www.snexplores.org/article/language-conlang-avatar-navi-klingon-dothraki",
+    "date": "2025-12-04",
+    "source": "Science News Explores",
     "published": "2025-12-04T00:00:00.000Z"
   },
   {
@@ -12424,8 +12512,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Immune transcriptomic changes in Australian Gulf War veterans",
-    "title_es": "Cambios transcriptómicos inmunológicos en veteranos australianos de la Guerra del Golfo",
+    "title": "CRE-Ter enhances murine bone differentiation, improves muscle cell atrophy, and increases irisin expression",
+    "title_es": "CRE-Ter mejora la diferenciación ósea murina, mejora la atrofia de las células musculares y aumenta la expresión de irisina",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
