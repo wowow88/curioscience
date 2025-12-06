@@ -1,35 +1,67 @@
 [
   {
-    "title": "Energy Profiling of Data-Sharing Pipelines: Modeling, Estimation, and Reuse Strategies",
-    "title_es": "Energy Profiling of Data-Sharing Pipelines: Modeling, Estimation, and Reuse Strategies",
-    "url": "https://arxiv.org/abs/2512.04086",
-    "published": "2025-12-05T05:00:00.000Z",
-    "date": "2025-12-05",
-    "source": "arXiv"
+    "title": "Invention Challenge Brings Student Engineers to NASA JPL",
+    "title_es": "Invention Challenge Brings Student Engineers to NASA JPL",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/",
+    "published": "2025-12-06T02:05:41.000Z",
+    "date": "2025-12-06",
+    "source": "NASA (Top News)"
   },
   {
-    "title": "Fate of hepatitis B vaccine for US babies hangs in the balance",
-    "title_es": "Fate of hepatitis B vaccine for US babies hangs in the balance",
-    "url": "https://www.nature.com/articles/d41586-025-03937-1",
+    "title": "These are a few of my favourite sounds: Books in brief",
+    "title_es": "These are a few of my favourite sounds: Books in brief",
+    "url": "https://www.nature.com/articles/d41586-025-03996-4",
     "published": "2025-12-05T00:00:00.000Z",
     "date": "2025-12-05",
     "source": "Nature"
   },
   {
-    "title": "Scientists find hidden brain nutrient drop that may fuel anxiety",
-    "title_es": "Scientists find hidden brain nutrient drop that may fuel anxiety",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251204024236.htm",
-    "published": "2025-12-05T04:46:34.000Z",
+    "title": "Dr. Casey Gifford: \"Se supone que todos vamos a tener nuestro genoma secuenciado\"",
+    "title_es": "Dr. Casey Gifford: \"Se supone que todos vamos a tener nuestro genoma secuenciado\"",
+    "url": "https://www.cnic.es/es/noticias/dr-casey-gifford-se-supone-que-todos-vamos-tener-nuestro-genoma-secuenciado",
+    "published": "2025-12-05T23:15:19.000Z",
+    "date": "2025-12-05",
+    "source": "CNIC"
+  },
+  {
+    "title": "A CDC panel has struck down universal newborn hepatitis B vaccination",
+    "title_es": "A CDC panel has struck down universal newborn hepatitis B vaccination",
+    "url": "https://www.sciencenews.org/article/hepatitis-b-vaccination-newborns-cdc-acip",
+    "published": "2025-12-05T18:01:45.000Z",
+    "date": "2025-12-05",
+    "source": "Science News"
+  },
+  {
+    "title": "Beware the vipers: These snakes appear to strike the fastest",
+    "title_es": "Beware the vipers: These snakes appear to strike the fastest",
+    "url": "https://www.snexplores.org/article/vipers-fastest-strikes-snakes",
+    "published": "2025-12-05T11:30:00.000Z",
+    "date": "2025-12-05",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Next gen cancer drug shows surprising anti aging power",
+    "title_es": "Next gen cancer drug shows surprising anti aging power",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251205054729.htm",
+    "published": "2025-12-05T14:39:16.000Z",
     "date": "2025-12-05",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Time-delay cosmography may enable a speed camera for the universe",
-    "title_es": "Time-delay cosmography may enable a speed camera for the universe",
-    "url": "https://phys.org/news/2025-12-delay-cosmography-enable-camera-universe.html",
-    "published": "2025-12-05T05:00:01.000Z",
+    "title": "AI can dramatically speed up digitizing natural history collections",
+    "title_es": "AI can dramatically speed up digitizing natural history collections",
+    "url": "https://phys.org/news/2025-12-ai-digitizing-natural-history.html",
+    "published": "2025-12-05T22:00:01.000Z",
     "date": "2025-12-05",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Development and evaluation of a self-generated foam–resin composite sand consolidation system for offshore oil reservoirs",
+    "title_es": "Development and evaluation of a self-generated foam–resin composite sand consolidation system for offshore oil reservoirs",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-05T14:00:00.000Z",
+    "date": "2025-12-05",
+    "source": "PLOS ONE"
   },
   {
     "title": "Painting the phylogeny of life",
@@ -38,46 +70,6 @@
     "published": "2025-12-04T07:00:12.000Z",
     "date": "2025-12-04",
     "source": "Science.org"
-  },
-  {
-    "title": "Semana de la Ciencia y la Innovación 2025: Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo.",
-    "title_es": "Semana de la Ciencia y la Innovación 2025: Da color a tu plato: convierte a tu corazón en un superhéroe con ritmo.",
-    "url": "https://www.cnic.es/es/noticias/semana-ciencia-innovacion-2025-da-color-tu-plato-convierte-tu-corazon-un-superheroe-con",
-    "published": "2025-12-04T23:27:31.000Z",
-    "date": "2025-12-04",
-    "source": "CNIC"
-  },
-  {
-    "title": "NASA’s Nancy Grace Roman Space Telescope Completed",
-    "title_es": "NASA’s Nancy Grace Roman Space Telescope Completed",
-    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/",
-    "published": "2025-12-04T17:38:14.000Z",
-    "date": "2025-12-04",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Chatbots spewing facts, and falsehoods, can sway voters",
-    "title_es": "Chatbots spewing facts, and falsehoods, can sway voters",
-    "url": "https://www.sciencenews.org/article/chatbots-facts-falsehood-sway-voters-ai",
-    "published": "2025-12-04T19:00:00.000Z",
-    "date": "2025-12-04",
-    "source": "Science News"
-  },
-  {
-    "title": "How to invent a language — like that of Avatar’s Na’vi",
-    "title_es": "How to invent a language — like that of Avatar’s Na’vi",
-    "url": "https://www.snexplores.org/article/language-conlang-avatar-navi-klingon-dothraki",
-    "published": "2025-12-04T11:30:00.000Z",
-    "date": "2025-12-04",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "CRE-Ter enhances murine bone differentiation, improves muscle cell atrophy, and increases irisin expression",
-    "title_es": "CRE-Ter enhances murine bone differentiation, improves muscle cell atrophy, and increases irisin expression",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-04T14:00:00.000Z",
-    "date": "2025-12-04",
-    "source": "PLOS ONE"
   },
   {
     "title": "Premio para el estudio que presenta una nueva inmunoterapia celular para la leucemia linfoblástica aguda de células B",
