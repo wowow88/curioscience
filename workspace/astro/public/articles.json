@@ -1,5 +1,29 @@
 [
   {
+    "title": "RAG-IGBench: Innovative Evaluation for RAG-based Interleaved Generation in Open-domain Question Answering",
+    "title_es": "RAG-IGBench: Innovative Evaluation for RAG-based Interleaved Generation in Open-domain Question Answering",
+    "url": "https://arxiv.org/abs/2512.05119",
+    "published": "2025-12-08T05:00:00.000Z",
+    "date": "2025-12-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "New fat-burning diabetes pill protects muscle and appetite",
+    "title_es": "Una nueva pastilla para la diabetes quemagrasas protege los músculos y el apetito",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251207031345.htm",
+    "date": "2025-12-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-07T00:00:00.000Z"
+  },
+  {
+    "title": "A sound defense: Noisy pupae puff away potential predators",
+    "title_es": "Una buena defensa: las ruidosas pupas alejan a los depredadores potenciales",
+    "url": "https://phys.org/news/2025-12-defense-noisy-pupae-puff-potential.html",
+    "date": "2025-12-07",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-07T00:00:00.000Z"
+  },
+  {
     "title": "Invention Challenge Brings Student Engineers to NASA JPL",
     "title_es": "Invention Challenge lleva a estudiantes de ingeniería al JPL de la NASA",
     "url": "https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/",
@@ -117,6 +141,14 @@
     "url": "https://phys.org/news/2025-12-ai-digitizing-natural-history.html",
     "date": "2025-12-05",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-05T00:00:00.000Z"
+  },
+  {
+    "title": "Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms",
+    "title_es": "Mejora de la generación de recuperación aumentada con vinculación de entidades para plataformas educativas",
+    "url": "http://arxiv.org/abs/2512.05967v1",
+    "date": "2025-12-05",
+    "source": "arXiv",
     "published": "2025-12-05T00:00:00.000Z"
   },
   {
