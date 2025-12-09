@@ -1,5 +1,62 @@
 [
   {
+    "title": "Australians see AI as leading threat to people and businesses: survey",
+    "title_es": "Los australianos ven la IA como la principal amenaza para las personas y las empresas: encuesta",
+    "url": "https://phys.org/news/2025-12-australians-ai-threat-people-businesses.html",
+    "date": "2025-12-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Blood draw site and blood matrix influence mineral assessment",
+    "title_es": "El sitio de extracción de sangre y la matriz sanguínea influyen en la evaluación de minerales",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-12-08",
+    "source": "PLOS ONE",
+    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Relational Visual Similarity",
+    "title_es": "Similitud visual relacional",
+    "url": "http://arxiv.org/abs/2512.07833v1",
+    "date": "2025-12-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Publisher Correction: CRISPR activation for <i>SCN2A</i>-related neurodevelopmental disorders",
+    "title_es": "Corrección del editor: activación CRISPR para trastornos del desarrollo neurológico relacionados con <i>SCN2A</i>",
+    "url": "https://www.nature.com/articles/s41586-025-09995-9",
+    "date": "2025-12-08",
+    "source": "Nature"
+  },
+  {
+    "title": "XRISM Finds Chlorine, Potassium in Cas A",
+    "title_es": "XRISM encuentra cloro y potasio en Cas A",
+    "url": "https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/",
+    "date": "2025-12-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Huge relatives of white sharks lived earlier than thought",
+    "title_es": "Enormes parientes de los tiburones blancos vivieron antes de lo que se pensaba",
+    "url": "https://www.sciencenews.org/article/relatives-great-white-tiger-sharks",
+    "date": "2025-12-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Exponent",
+    "title_es": "Los científicos dicen: exponente",
+    "url": "https://www.snexplores.org/article/scientists-say-exponent-definition-pronunciation",
+    "date": "2025-12-08",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Her food cravings vanished on Mounjaro then roared back",
+    "title_es": "Sus antojos de comida desaparecieron en Mounjaro y luego regresaron con fuerza.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251208052534.htm",
+    "date": "2025-12-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "New fat-burning diabetes pill protects muscle and appetite",
     "title_es": "Una nueva pastilla para la diabetes quemagrasas protege los músculos y el apetito",
     "url": "https://www.sciencedaily.com/releases/2025/12/251207031345.htm",
@@ -61,14 +118,6 @@
     "url": "https://phys.org/news/2025-12-delay-cosmography-enable-camera-universe.html",
     "date": "2025-12-05",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Development and evaluation of a self-generated foam–resin composite sand consolidation system for offshore oil reservoirs",
-    "title_es": "Desarrollo y evaluación de un sistema de consolidación de arena compuesto de espuma y resina autogenerado para yacimientos de petróleo marinos",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-12-05",
-    "source": "PLOS ONE",
-    "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
   },
   {
     "title": "These are a few of my favourite sounds: Books in brief",
