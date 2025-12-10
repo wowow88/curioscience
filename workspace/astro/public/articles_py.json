@@ -1,5 +1,26 @@
 [
   {
+    "title": "Trucked-in honeybees may edge out bigger bumblebee foragers",
+    "title_es": "Las abejas transportadas en camiones pueden superar a los abejorros recolectores más grandes",
+    "url": "https://www.sciencenews.org/article/honeybees-outcompete-bumblebees-hives",
+    "date": "2025-12-10",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists reveal a tiny brain chip that streams thoughts in real time",
+    "title_es": "Los científicos revelan un pequeño chip cerebral que transmite pensamientos en tiempo real",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
+    "date": "2025-12-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Online sharing can push us apart, but when it's authentic it can bring us together",
+    "title_es": "Compartir en línea puede separarnos, pero cuando es auténtico puede unirnos",
+    "url": "https://phys.org/news/2025-12-online-authentic.html",
+    "date": "2025-12-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Australians see AI as leading threat to people and businesses: survey",
     "title_es": "Los australianos ven la IA como la principal amenaza para las personas y las empresas: encuesta",
     "url": "https://phys.org/news/2025-12-australians-ai-threat-people-businesses.html",
@@ -7,12 +28,54 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Blood draw site and blood matrix influence mineral assessment",
-    "title_es": "El sitio de extracción de sangre y la matriz sanguínea influyen en la evaluación de minerales",
+    "title": "Factors impacting a patient’s selection of an otolaryngologist",
+    "title_es": "Factores que afectan la selección de un otorrinolaringólogo por parte de un paciente",
     "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "source": "PLOS ONE",
     "content_es": "Por Songyan Zou, Riyi Zhang, Dongdong Yang, Xiaodong Li, Naixiang Huang, Fuyi Xie, Yinyu Mu El síndrome de Sjögren primario (PSS) es un trastorno autoinmune caracterizado por ojos secos y boca, a menudo con participación sistémica. Este estudio tuvo como objetivo investigar las manifestaciones clínicas y las características de laboratorio en pacientes con PSS, particularmente centrándose en aquellos con anticuerpos anti-centrómeros (ACA) y anticuerpos anti-SSA/RO. Realizamos un análisis retrospectivo de 152 pacientes diagnosticados con PSS en el Hospital Ningbo Medical Center Lihuili de 2018 a 2023, utilizando los criterios ACR/Eulares 2016. Además, se incluyeron 105 controles sanos de edad y sexo para establecer una línea de base comparativa para los parámetros de laboratorio. Los datos clínicos se obtuvieron de los registros médicos, y los pacientes se clasificaron en grupos ACA positivos y SSA positivos en función de sus perfiles de autoanticuerpos. Se utilizaron análisis estadísticos apropiados, incluidos ANOVA, pruebas de chi-cuadrado, análisis de correlación y análisis de regresión multivariante, para comparar los parámetros clínicos y de laboratorio en pacientes con PSS. Los pacientes con ACA positivos fueron significativamente mayores y exhibieron una mayor prevalencia del fenómeno de Raynaud y la disfunción diastólica ventricular izquierda, mientras que los pacientes con SSA positivos presentaron anormalidades hematológicas más marcadas. Los pacientes positivos para ACA tienen una ocurrencia más prevalente de anticuerpos antinucleares positivos (ANA) y anticuerpos M2 antimitocondriales (AMA-M2), así como niveles significativamente más altos de diámetro diastólico final del ventrículo izquierdo (LVEDD), IgM y lactato dehidrogenasa (LDH). Además, los pacientes positivos para SSA exhibieron niveles elevados de globulinas (GLB), IgG, IgA y factor reumatoide (RF), acompañados de niveles disminuidos de albúmina (ALB). Los pacientes positivos para ACA tenían proporciones anormales de células T CD4 + y CD8 + y tenían recuentos reducidos de células NK (CD16 + CD56 +), células T CD3 + y células T CD8 +. Los análisis de correlación y regresión multivariante revelaron una asociación significativa entre las células NK y los niveles de IgG, IgM, GLB y LDH. Además, los pacientes positivos para SSA mostraron proporciones anormales de células B CD19 + y células NK, con recuentos reducidos de células T CD3 + (incluidas las células C CD4 + y CD8 +) y las células NK. Los análisis de correlación y regresión multivariante indicaron una correlación significativa entre las células T CD4 + y los niveles de IgG, ALB y GLB. En general, la inmunidad mediada por células T juega un papel importante en los pacientes positivos para SSA; Se muestra que las células NK están involucradas críticamente en la patogénesis de PSS positivos para ACA."
+  },
+  {
+    "title": "Astra: General Interactive World Model with Autoregressive Denoising",
+    "title_es": "Astra: modelo mundial interactivo general con eliminación de ruido autorregresiva",
+    "url": "http://arxiv.org/abs/2512.08931v1",
+    "date": "2025-12-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Don’t overlook the value of co-supervision in PhD training",
+    "title_es": "No pase por alto el valor de la cotutela en la formación de doctorado",
+    "url": "https://www.nature.com/articles/d41586-025-03998-2",
+    "date": "2025-12-09",
+    "source": "Nature"
+  },
+  {
+    "title": "De los telómeros a la restricción calórica: la investigación intenta encajar el puzle de los muchos procesos implicados en el envejecimiento",
+    "title_es": "De los telómeros a la restricción calórica: la investigación intenta encajar el puzle de los muchos procesos implicados en el envejecimiento",
+    "url": "https://www.cnio.es/noticias/de-los-telomeros-a-la-restriccion-calorica-la-investigacion-intenta-encajar-el-puzle-de-los-muchos-procesos-implicados-en-el-envejecimiento/",
+    "date": "2025-12-09",
+    "source": "CNIO"
+  },
+  {
+    "title": "NASA Demonstrates Safer Skies for Future Urban Air Travel",
+    "title_es": "La NASA demuestra cielos más seguros para los futuros viajes aéreos urbanos",
+    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/",
+    "date": "2025-12-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "LHC delivers a record number of particle collisions in 2025",
+    "title_es": "El LHC producirá un número récord de colisiones de partículas en 2025",
+    "url": "https://home.cern/news/news/accelerators/lhc-delivers-record-number-particle-collisions-2025",
+    "date": "2025-12-09",
+    "source": "CERN News"
+  },
+  {
+    "title": "Let’s learn about lab-grown meat",
+    "title_es": "Aprendamos sobre la carne cultivada en laboratorio",
+    "url": "https://www.snexplores.org/article/lets-learn-about-lab-grown-meat",
+    "date": "2025-12-09",
+    "source": "Science News Explores"
   },
   {
     "title": "Relational Visual Similarity",
