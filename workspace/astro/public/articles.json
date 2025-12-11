@@ -1,5 +1,37 @@
 [
   {
+    "title": "Agentic AI as Undercover Teammates: Argumentative Knowledge Construction in Hybrid Human-AI Collaborative Learning",
+    "title_es": "Agentic AI as Undercover Teammates: Argumentative Knowledge Construction in Hybrid Human-AI Collaborative Learning",
+    "url": "https://arxiv.org/abs/2512.08933",
+    "published": "2025-12-11T05:00:00.000Z",
+    "date": "2025-12-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
+    "title_es": "NASA JPL presenta el centro de operaciones del rover para misiones a la Luna y Marte",
+    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
+    "date": "2025-12-11",
+    "source": "NASA (Top News)",
+    "published": "2025-12-11T00:00:00.000Z"
+  },
+  {
+    "title": "New research reveals how everyday cues secretly shape your habits",
+    "title_es": "Una nueva investigación revela cómo las señales cotidianas moldean secretamente tus hábitos",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251210223635.htm",
+    "date": "2025-12-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-11T00:00:00.000Z"
+  },
+  {
+    "title": "On a typical school day, 11% of students are absent. How can Australia fix this?",
+    "title_es": "En un día escolar típico, el 11% de los estudiantes están ausentes. ¿Cómo puede Australia solucionar esto?",
+    "url": "https://phys.org/news/2025-12-typical-school-day-students-absent.html",
+    "date": "2025-12-11",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-11T00:00:00.000Z"
+  },
+  {
     "title": "Detection of Cyberbullying in GIF using AI",
     "title_es": "Detection of Cyberbullying in GIF using AI",
     "url": "https://arxiv.org/abs/2512.07838",
@@ -29,6 +61,54 @@
     "url": "https://phys.org/news/2025-12-online-authentic.html",
     "date": "2025-12-10",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating",
+    "title_es": "LISN: navegación social instruida por lenguaje con modulación de controlador basada en VLM",
+    "url": "http://arxiv.org/abs/2512.09920v1",
+    "date": "2025-12-10",
+    "source": "arXiv",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "Glimmers of hope for a deadly disease",
+    "title_es": "Rayos de esperanza para una enfermedad mortal",
+    "url": "https://www.nature.com/articles/d41586-025-03941-5",
+    "date": "2025-12-10",
+    "source": "Nature",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "El «talento y la ambición» de la ciencia más joven, el «motor que impulsa al CNIO»",
+    "title_es": "El «talento y la ambición» de la ciencia más joven, el «motor que impulsa al CNIO»",
+    "url": "https://www.cnio.es/noticias/el-talento-y-la-ambicion-de-la-ciencia-mas-joven-el-motor-que-impulsa-al-cnio/",
+    "date": "2025-12-10",
+    "source": "CNIO",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "ALICE solves mystery of light-nuclei survival",
+    "title_es": "ALICE resuelve el misterio de la supervivencia de los núcleos ligeros",
+    "url": "https://home.cern/news/news/experiments/alice-solves-mystery-light-nuclei-survival",
+    "date": "2025-12-10",
+    "source": "CERN News",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "Bats might be the next bird flu wild card",
+    "title_es": "Los murciélagos podrían ser el próximo comodín de la gripe aviar",
+    "url": "https://www.sciencenews.org/article/vampire-bats-bird-flu-h5n1-virus",
+    "date": "2025-12-10",
+    "source": "Science News",
+    "published": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "title": "Here’s how to levitate something without magic",
+    "title_es": "Aquí se explica cómo levitar algo sin magia.",
+    "url": "https://www.snexplores.org/article/levitation-physics-no-magic",
+    "date": "2025-12-10",
+    "source": "Science News Explores",
     "published": "2025-12-10T00:00:00.000Z"
   },
   {
@@ -12776,8 +12856,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Factors impacting a patient’s selection of an otolaryngologist",
-    "title_es": "Factores que afectan la selección de un otorrinolaringólogo por parte de un paciente",
+    "title": "Caste- and age-specific venom composition of biogenic amines and the influence of diet in honey bees",
+    "title_es": "Composición del veneno de aminas biogénicas específica de casta y edad y la influencia de la dieta en las abejas melíferas",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
