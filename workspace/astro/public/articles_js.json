@@ -1,35 +1,75 @@
 [
   {
-    "title": "From Framework to Practice: Designing a Real-World Telehealth Application for Palliative Care",
-    "title_es": "From Framework to Practice: Designing a Real-World Telehealth Application for Palliative Care",
-    "url": "https://arxiv.org/abs/2512.13693",
-    "published": "2025-12-17T05:00:00.000Z",
-    "date": "2025-12-17",
+    "title": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
+    "title_es": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
+    "url": "https://arxiv.org/abs/2512.14700",
+    "published": "2025-12-18T05:00:00.000Z",
+    "date": "2025-12-18",
     "source": "arXiv"
   },
   {
-    "title": "I’ve earned my PhD — what now?",
-    "title_es": "I’ve earned my PhD — what now?",
-    "url": "https://www.nature.com/articles/d41586-025-03489-4",
+    "title": "Hi ya! Hyha",
+    "title_es": "Hi ya! Hyha",
+    "url": "https://science.nasa.gov/blog/hi-ya-hyha/",
+    "published": "2025-12-18T00:25:02.000Z",
+    "date": "2025-12-18",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "AI detects cancer but it’s also reading who you are",
+    "title_es": "AI detects cancer but it’s also reading who you are",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
+    "published": "2025-12-18T04:53:41.000Z",
+    "date": "2025-12-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Why neurodiversity might be the hidden engine of entrepreneurial success",
+    "title_es": "Why neurodiversity might be the hidden engine of entrepreneurial success",
+    "url": "https://phys.org/news/2025-12-neurodiversity-hidden-entrepreneurial-success.html",
+    "published": "2025-12-18T04:30:01.000Z",
+    "date": "2025-12-18",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
+    "title_es": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
+    "url": "https://www.nature.com/articles/s41586-025-10031-z",
     "published": "2025-12-17T00:00:00.000Z",
     "date": "2025-12-17",
     "source": "Nature"
   },
   {
-    "title": "A Siberian Snowman in Billings",
-    "title_es": "A Siberian Snowman in Billings",
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/",
-    "published": "2025-12-17T05:01:00.000Z",
+    "title": "A cryogenic winter for tomorrow’s accelerator",
+    "title_es": "A cryogenic winter for tomorrow’s accelerator",
+    "url": "https://home.cern/news/news/accelerators/cryogenic-winter-tomorrows-accelerator",
+    "published": "2025-12-17T09:06:16.000Z",
     "date": "2025-12-17",
-    "source": "NASA (Top News)"
+    "source": "CERN News"
   },
   {
-    "title": "OxiDx blood test shows racing without oxidative stress enhances horse performance",
-    "title_es": "OxiDx blood test shows racing without oxidative stress enhances horse performance",
-    "url": "https://phys.org/news/2025-12-oxidx-blood-oxidative-stress-horse.html",
-    "published": "2025-12-17T05:00:02.000Z",
+    "title": "A new hunt for an Earth analog begins",
+    "title_es": "A new hunt for an Earth analog begins",
+    "url": "https://www.sciencenews.org/article/earth-analog-terra-hunting-experiment",
+    "published": "2025-12-17T18:00:00.000Z",
     "date": "2025-12-17",
-    "source": "Phys.org (Latest)"
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: What are the chances of an asteroid hitting Earth?",
+    "title_es": "Analyze This: What are the chances of an asteroid hitting Earth?",
+    "url": "https://www.snexplores.org/article/what-chances-asteroid-hits-earth",
+    "published": "2025-12-17T11:30:00.000Z",
+    "date": "2025-12-17",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
+    "title_es": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-17T14:00:00.000Z",
+    "date": "2025-12-17",
+    "source": "PLOS ONE"
   },
   {
     "title": "La Fundación Isabel Gemio concede 60.000 euros a un proyecto de la investigadora del CNIC Henar Cuervo",
@@ -46,46 +86,6 @@
     "published": "2025-12-16T13:03:50.000Z",
     "date": "2025-12-16",
     "source": "CNIO"
-  },
-  {
-    "title": "A quantum trick helps trim bloated AI models",
-    "title_es": "A quantum trick helps trim bloated AI models",
-    "url": "https://www.sciencenews.org/article/quantum-tensor-network-ai-model-relief",
-    "published": "2025-12-16T17:30:00.000Z",
-    "date": "2025-12-16",
-    "source": "Science News"
-  },
-  {
-    "title": "Experiment: Weather and climate in your neighborhood",
-    "title_es": "Experiment: Weather and climate in your neighborhood",
-    "url": "https://www.snexplores.org/article/weather-climate-difference",
-    "published": "2025-12-16T11:30:00.000Z",
-    "date": "2025-12-16",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Ramanujan’s 100-year-old pi formula is still revealing the Universe",
-    "title_es": "Ramanujan’s 100-year-old pi formula is still revealing the Universe",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251216081949.htm",
-    "published": "2025-12-16T13:19:49.000Z",
-    "date": "2025-12-16",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Prevalence and factors associated with hyperglycemia among children living with HIV on dolutegravir in Kabale district, southwestern Uganda",
-    "title_es": "Prevalence and factors associated with hyperglycemia among children living with HIV on dolutegravir in Kabale district, southwestern Uganda",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-16T14:00:00.000Z",
-    "date": "2025-12-16",
-    "source": "PLOS ONE"
-  },
-  {
-    "title": "Celebrating two decades of global scientific computing",
-    "title_es": "Celebrating two decades of global scientific computing",
-    "url": "https://home.cern/news/news/computing/celebrating-two-decades-global-scientific-computing",
-    "published": "2025-12-15T13:52:25.000Z",
-    "date": "2025-12-15",
-    "source": "CERN News"
   },
   {
     "title": "The European Strategy for Particle Physics reaches an important milestone",

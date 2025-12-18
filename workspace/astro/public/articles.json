@@ -1,5 +1,37 @@
 [
   {
+    "title": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
+    "title_es": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
+    "url": "https://arxiv.org/abs/2512.14700",
+    "published": "2025-12-18T05:00:00.000Z",
+    "date": "2025-12-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Hi ya! Hyha",
+    "title_es": "¡Hola! Hola",
+    "url": "https://science.nasa.gov/blog/hi-ya-hyha/",
+    "date": "2025-12-18",
+    "source": "NASA (Top News)",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "AI detects cancer but it’s also reading who you are",
+    "title_es": "La IA detecta el cáncer pero también lee quién eres",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
+    "date": "2025-12-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "Why neurodiversity might be the hidden engine of entrepreneurial success",
+    "title_es": "Por qué la neurodiversidad podría ser el motor oculto del éxito empresarial",
+    "url": "https://phys.org/news/2025-12-neurodiversity-hidden-entrepreneurial-success.html",
+    "date": "2025-12-18",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
     "title": "From Framework to Practice: Designing a Real-World Telehealth Application for Palliative Care",
     "title_es": "From Framework to Practice: Designing a Real-World Telehealth Application for Palliative Care",
     "url": "https://arxiv.org/abs/2512.13693",
@@ -29,6 +61,54 @@
     "url": "https://phys.org/news/2025-12-oxidx-blood-oxidative-stress-horse.html",
     "date": "2025-12-17",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "Spatia: Video Generation with Updatable Spatial Memory",
+    "title_es": "Spatia: Generación de Vídeo con Memoria Espacial Actualizable",
+    "url": "http://arxiv.org/abs/2512.15716v1",
+    "date": "2025-12-17",
+    "source": "arXiv",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
+    "title_es": "Mazdutide versus dulaglutida en adultos chinos con diabetes tipo 2",
+    "url": "https://www.nature.com/articles/s41586-025-10031-z",
+    "date": "2025-12-17",
+    "source": "Nature",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-banco-europeo-de-inversiones-asesorara-el-desarrollo-del-telescopio-de-treinta-metros-en-la-palma\" hreflang=\"es\">El Banco Europeo de Inversiones asesorará el desarrollo del Telescopio de Treinta Metros en La Palma</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-banco-europeo-de-inversiones-asesorara-el-desarrollo-del-telescopio-de-treinta-metros-en-la-palma\" hreflang=\"es\">El Banco Europeo de Inversiones asesorará el desarrollo del Telescopio de Treinta Metros en La Palma</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-banco-europeo-de-inversiones-asesorara-el-desarrollo-del-telescopio-de-treinta-metros-en-la-palma",
+    "date": "2025-12-17",
+    "source": "IAC",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "A cryogenic winter for tomorrow’s accelerator",
+    "title_es": "Un invierno criogénico para el acelerador del mañana",
+    "url": "https://home.cern/news/news/accelerators/cryogenic-winter-tomorrows-accelerator",
+    "date": "2025-12-17",
+    "source": "CERN News",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "A new hunt for an Earth analog begins",
+    "title_es": "Comienza una nueva búsqueda de un análogo de la Tierra",
+    "url": "https://www.sciencenews.org/article/earth-analog-terra-hunting-experiment",
+    "date": "2025-12-17",
+    "source": "Science News",
+    "published": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: What are the chances of an asteroid hitting Earth?",
+    "title_es": "Analice esto: ¿Cuáles son las posibilidades de que un asteroide golpee la Tierra?",
+    "url": "https://www.snexplores.org/article/what-chances-asteroid-hits-earth",
+    "date": "2025-12-17",
+    "source": "Science News Explores",
     "published": "2025-12-17T00:00:00.000Z"
   },
   {
@@ -13240,8 +13320,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Prevalence and factors associated with hyperglycemia among children living with HIV on dolutegravir in Kabale district, southwestern Uganda",
-    "title_es": "Prevalencia y factores asociados con la hiperglucemia entre niños que viven con el VIH y reciben dolutegravir en el distrito de Kabale, suroeste de Uganda",
+    "title": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
+    "title_es": "Corrección: examen experimental de la generación de gas oxihidrógeno utilizando un diseño de celda húmeda",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
