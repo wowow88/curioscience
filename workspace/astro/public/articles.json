@@ -1,5 +1,29 @@
 [
   {
+    "title": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
+    "title_es": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
+    "url": "https://arxiv.org/abs/2512.15719",
+    "published": "2025-12-19T05:00:00.000Z",
+    "date": "2025-12-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Space Station Research Supports New FDA-Approved Cancer Therapy",
+    "title_es": "La investigación de la estación espacial respalda una nueva terapia contra el cáncer aprobada por la FDA",
+    "url": "https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/",
+    "date": "2025-12-19",
+    "source": "NASA (Top News)",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "Early testing of schoolchildren has absolutely zero effect, researchers say",
+    "title_es": "Los investigadores afirman que las pruebas tempranas a los escolares no tienen ningún efecto",
+    "url": "https://phys.org/news/2025-12-early-schoolchildren-absolutely-effect.html",
+    "date": "2025-12-19",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
     "title": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
     "title_es": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
     "url": "https://arxiv.org/abs/2512.14700",
@@ -29,6 +53,62 @@
     "url": "https://phys.org/news/2025-12-neurodiversity-hidden-entrepreneurial-success.html",
     "date": "2025-12-18",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "EasyV2V: A High-quality Instruction-based Video Editing Framework",
+    "title_es": "EasyV2V: un marco de edición de vídeo basado en instrucciones de alta calidad",
+    "url": "http://arxiv.org/abs/2512.16920v1",
+    "date": "2025-12-18",
+    "source": "arXiv",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "Listening to the languages of nature",
+    "title_es": "Escuchando los lenguajes de la naturaleza",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec6091",
+    "date": "2025-12-18",
+    "source": "Science.org",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Covalent targeted radioligands potentiate radionuclide therapy",
+    "title_es": "Corrección del editor: los radioligandos covalentes dirigidos potencian la terapia con radionúclidos",
+    "url": "https://www.nature.com/articles/s41586-025-09982-0",
+    "date": "2025-12-18",
+    "source": "Nature",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-premio-cosmos-anuncia-las-obras-finalistas-y-refuerza-su-apuesta-por-la-lectura-cientifica-entre-la\" hreflang=\"es\">El Premio Cosmos anuncia las obras finalistas y refuerza su apuesta por la lectura científica entre la juventud canaria</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-premio-cosmos-anuncia-las-obras-finalistas-y-refuerza-su-apuesta-por-la-lectura-cientifica-entre-la\" hreflang=\"es\">El Premio Cosmos anuncia las obras finalistas y refuerza su apuesta por la lectura científica entre la juventud canaria</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-premio-cosmos-anuncia-las-obras-finalistas-y-refuerza-su-apuesta-por-la-lectura-cientifica-entre-la",
+    "date": "2025-12-18",
+    "source": "IAC",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "This newfound cascade of events may explain some female gut pain",
+    "title_es": "Esta nueva cascada de eventos puede explicar algunos dolores intestinales femeninos",
+    "url": "https://www.sciencenews.org/article/female-gut-pain-estrogen-ibs-bacteria",
+    "date": "2025-12-18",
+    "source": "Science News",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "Fractals describe patterns hidden all around us",
+    "title_es": "Los fractales describen patrones ocultos a nuestro alrededor",
+    "url": "https://www.snexplores.org/article/fractals-patterns-all-around",
+    "date": "2025-12-18",
+    "source": "Science News Explores",
+    "published": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "title": "A hidden T cell switch could make cancer immunotherapy work for more people",
+    "title_es": "Un interruptor oculto de células T podría hacer que la inmunoterapia contra el cáncer funcione para más personas",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251218074429.htm",
+    "date": "2025-12-18",
+    "source": "ScienceDaily (Top)",
     "published": "2025-12-18T00:00:00.000Z"
   },
   {
@@ -189,6 +269,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/12/251216081949.htm",
     "date": "2025-12-16",
     "source": "ScienceDaily (Top)",
+    "published": "2025-12-16T00:00:00.000Z"
+  },
+  {
+    "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
+    "title_es": "Donantes privados prometen 860 millones de euros para el futuro colisionador circular del CERN",
+    "url": "https://home.cern/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
+    "date": "2025-12-16",
+    "source": "CERN Press",
     "published": "2025-12-16T00:00:00.000Z"
   },
   {
@@ -13320,8 +13408,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
-    "title_es": "Corrección: examen experimental de la generación de gas oxihidrógeno utilizando un diseño de celda húmeda",
+    "title": "Contrasting effects of DNA demethylation on cancer-germline gene expression in breast cancer and leukemia cells",
+    "title_es": "Efectos contrastantes de la desmetilación del ADN sobre la expresión de genes de la línea germinal del cáncer en células de cáncer de mama y leucemia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

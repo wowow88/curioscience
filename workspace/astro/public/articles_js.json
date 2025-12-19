@@ -1,43 +1,67 @@
 [
   {
-    "title": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
-    "title_es": "Effectively Detecting and Responding to Online Harassment with Large Language Models",
-    "url": "https://arxiv.org/abs/2512.14700",
-    "published": "2025-12-18T05:00:00.000Z",
-    "date": "2025-12-18",
+    "title": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
+    "title_es": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
+    "url": "https://arxiv.org/abs/2512.15719",
+    "published": "2025-12-19T05:00:00.000Z",
+    "date": "2025-12-19",
     "source": "arXiv"
   },
   {
-    "title": "Hi ya! Hyha",
-    "title_es": "Hi ya! Hyha",
-    "url": "https://science.nasa.gov/blog/hi-ya-hyha/",
-    "published": "2025-12-18T00:25:02.000Z",
-    "date": "2025-12-18",
+    "title": "Space Station Research Supports New FDA-Approved Cancer Therapy",
+    "title_es": "Space Station Research Supports New FDA-Approved Cancer Therapy",
+    "url": "https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/",
+    "published": "2025-12-19T04:00:00.000Z",
+    "date": "2025-12-19",
     "source": "NASA (Top News)"
   },
   {
-    "title": "AI detects cancer but it’s also reading who you are",
-    "title_es": "AI detects cancer but it’s also reading who you are",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
-    "published": "2025-12-18T04:53:41.000Z",
+    "title": "Early testing of schoolchildren has absolutely zero effect, researchers say",
+    "title_es": "Early testing of schoolchildren has absolutely zero effect, researchers say",
+    "url": "https://phys.org/news/2025-12-early-schoolchildren-absolutely-effect.html",
+    "published": "2025-12-19T04:40:01.000Z",
+    "date": "2025-12-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Listening to the languages of nature",
+    "title_es": "Listening to the languages of nature",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec6091",
+    "published": "2025-12-18T07:00:11.000Z",
+    "date": "2025-12-18",
+    "source": "Science.org"
+  },
+  {
+    "title": "This newfound cascade of events may explain some female gut pain",
+    "title_es": "This newfound cascade of events may explain some female gut pain",
+    "url": "https://www.sciencenews.org/article/female-gut-pain-estrogen-ibs-bacteria",
+    "published": "2025-12-18T19:00:00.000Z",
+    "date": "2025-12-18",
+    "source": "Science News"
+  },
+  {
+    "title": "Fractals describe patterns hidden all around us",
+    "title_es": "Fractals describe patterns hidden all around us",
+    "url": "https://www.snexplores.org/article/fractals-patterns-all-around",
+    "published": "2025-12-18T11:30:00.000Z",
+    "date": "2025-12-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A hidden T cell switch could make cancer immunotherapy work for more people",
+    "title_es": "A hidden T cell switch could make cancer immunotherapy work for more people",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251218074429.htm",
+    "published": "2025-12-18T12:56:05.000Z",
     "date": "2025-12-18",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Why neurodiversity might be the hidden engine of entrepreneurial success",
-    "title_es": "Why neurodiversity might be the hidden engine of entrepreneurial success",
-    "url": "https://phys.org/news/2025-12-neurodiversity-hidden-entrepreneurial-success.html",
-    "published": "2025-12-18T04:30:01.000Z",
+    "title": "Contrasting effects of DNA demethylation on cancer-germline gene expression in breast cancer and leukemia cells",
+    "title_es": "Contrasting effects of DNA demethylation on cancer-germline gene expression in breast cancer and leukemia cells",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-18T14:00:00.000Z",
     "date": "2025-12-18",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
-    "title_es": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
-    "url": "https://www.nature.com/articles/s41586-025-10031-z",
-    "published": "2025-12-17T00:00:00.000Z",
-    "date": "2025-12-17",
-    "source": "Nature"
+    "source": "PLOS ONE"
   },
   {
     "title": "A cryogenic winter for tomorrow’s accelerator",
@@ -46,30 +70,6 @@
     "published": "2025-12-17T09:06:16.000Z",
     "date": "2025-12-17",
     "source": "CERN News"
-  },
-  {
-    "title": "A new hunt for an Earth analog begins",
-    "title_es": "A new hunt for an Earth analog begins",
-    "url": "https://www.sciencenews.org/article/earth-analog-terra-hunting-experiment",
-    "published": "2025-12-17T18:00:00.000Z",
-    "date": "2025-12-17",
-    "source": "Science News"
-  },
-  {
-    "title": "Analyze This: What are the chances of an asteroid hitting Earth?",
-    "title_es": "Analyze This: What are the chances of an asteroid hitting Earth?",
-    "url": "https://www.snexplores.org/article/what-chances-asteroid-hits-earth",
-    "published": "2025-12-17T11:30:00.000Z",
-    "date": "2025-12-17",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
-    "title_es": "Correction: Examining oxyhydrogen gas generation experimentally using wet cell design",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-17T14:00:00.000Z",
-    "date": "2025-12-17",
-    "source": "PLOS ONE"
   },
   {
     "title": "La Fundación Isabel Gemio concede 60.000 euros a un proyecto de la investigadora del CNIC Henar Cuervo",
@@ -88,19 +88,19 @@
     "source": "CNIO"
   },
   {
-    "title": "The European Strategy for Particle Physics reaches an important milestone",
-    "title_es": "The European Strategy for Particle Physics reaches an important milestone",
-    "url": "https://home.cern/news/press-release/cern/european-strategy-particle-physics-reaches-important-milestone",
-    "published": "2025-12-12T10:48:09.000Z",
-    "date": "2025-12-12",
+    "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
+    "title_es": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
+    "url": "https://home.cern/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
+    "published": "2025-12-16T16:24:34.000Z",
+    "date": "2025-12-16",
     "source": "CERN Press"
   },
   {
-    "title": "Dealing with distressing dreams",
-    "title_es": "Dealing with distressing dreams",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aec5999",
-    "published": "2025-12-11T07:00:12.000Z",
-    "date": "2025-12-11",
-    "source": "Science.org"
+    "title": "Saltar al contenido principal",
+    "title_es": "Saltar al contenido principal",
+    "url": "https://www.isciii.es/actualidad#main-content",
+    "date": "",
+    "published": "",
+    "source": "ISCIII"
   }
 ]
