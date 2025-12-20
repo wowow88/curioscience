@@ -1,5 +1,21 @@
 [
   {
+    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’",
+    "title_es": "Paisajes esculpidos por el viento: investigando la megaripple marciana 'Hazyview'",
+    "url": "https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/",
+    "date": "2025-12-20",
+    "source": "NASA (Top News)",
+    "published": "2025-12-20T00:00:00.000Z"
+  },
+  {
+    "title": "Lapland's next hotspot after Santa? Torne Valley seeks sustainable tourism",
+    "title_es": "¿El próximo punto de acceso de Laponia después de Papá Noel? El Valle del Torne busca el turismo sostenible",
+    "url": "https://phys.org/news/2025-12-lapland-hotspot-santa-torne-valley.html",
+    "date": "2025-12-20",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-20T00:00:00.000Z"
+  },
+  {
     "title": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
     "title_es": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
     "url": "https://arxiv.org/abs/2512.15719",
@@ -21,6 +37,62 @@
     "url": "https://phys.org/news/2025-12-early-schoolchildren-absolutely-effect.html",
     "date": "2025-12-19",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Cryo-EM structure of a natural RNA nanocage",
+    "title_es": "Corrección del autor: Estructura crio-EM de una nanojaula de ARN natural",
+    "url": "https://www.nature.com/articles/s41586-025-10022-0",
+    "date": "2025-12-19",
+    "source": "Nature",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
+    "title_es": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
+    "url": "https://www.cnio.es/noticias/galerias-es/belenes-arboles-y-talento-musical-para-crear-navidad-en-el-cnio/",
+    "date": "2025-12-19",
+    "source": "CNIO",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-lenta-expansion-de-los-halos-de-materia-oscura-produce-de-manera-natural-distribuciones-estelares\" hreflang=\"es\">La lenta expansión de los halos de materia oscura produce de manera natural distribuciones estelares tan extendidas como las observadas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-lenta-expansion-de-los-halos-de-materia-oscura-produce-de-manera-natural-distribuciones-estelares\" hreflang=\"es\">La lenta expansión de los halos de materia oscura produce de manera natural distribuciones estelares tan extendidas como las observadas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-lenta-expansion-de-los-halos-de-materia-oscura-produce-de-manera-natural-distribuciones-estelares",
+    "date": "2025-12-19",
+    "source": "IAC",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "CERN highlights in 2025",
+    "title_es": "Lo más destacado del CERN en 2025",
+    "url": "https://home.cern/news/news/cern/cern-highlights-2025",
+    "date": "2025-12-19",
+    "source": "CERN News",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "An asteroid could hit the moon in 2032, scattering debris toward Earth",
+    "title_es": "Un asteroide podría chocar contra la luna en 2032, dispersando escombros hacia la Tierra",
+    "url": "https://www.sciencenews.org/article/asteroid-moon-impact-2032-2024-yr4",
+    "date": "2025-12-19",
+    "source": "Science News",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "Brain scans reveal where taste and smell combine to become flavor",
+    "title_es": "Los escáneres cerebrales revelan dónde se combinan el gusto y el olfato para convertirse en sabor",
+    "url": "https://www.snexplores.org/article/brain-combine-taste-smell-flavor",
+    "date": "2025-12-19",
+    "source": "Science News Explores",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "The 98% mystery: Scientists just cracked the code on “junk DNA” linked to Alzheimer’s",
+    "title_es": "El misterio del 98%: los científicos acaban de descifrar el código del \"ADN basura\" vinculado al Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251219093315.htm",
+    "date": "2025-12-19",
+    "source": "ScienceDaily (Top)",
     "published": "2025-12-19T00:00:00.000Z"
   },
   {
@@ -13408,8 +13480,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Contrasting effects of DNA demethylation on cancer-germline gene expression in breast cancer and leukemia cells",
-    "title_es": "Efectos contrastantes de la desmetilación del ADN sobre la expresión de genes de la línea germinal del cáncer en células de cáncer de mama y leucemia",
+    "title": "Correction: Demand structure prediction and adaptation path of rural teachers in western China under population change",
+    "title_es": "Corrección: Predicción de la estructura de la demanda y trayectoria de adaptación de los docentes rurales en el oeste de China ante el cambio poblacional",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
