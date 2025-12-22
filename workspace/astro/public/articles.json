@@ -1,5 +1,29 @@
 [
   {
+    "title": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
+    "title_es": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
+    "url": "https://arxiv.org/abs/2512.16925",
+    "published": "2025-12-22T05:00:00.000Z",
+    "date": "2025-12-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Study links full-fat cheese to lower dementia risk",
+    "title_es": "Un estudio vincula el queso entero con un menor riesgo de demencia",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251221091246.htm",
+    "date": "2025-12-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "'Lifting and shifting' workers is not always the best answer",
+    "title_es": "'Levantar y mover trabajadores' no siempre es la mejor respuesta",
+    "url": "https://phys.org/news/2025-12-shifting-workers.html",
+    "date": "2025-12-21",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-21T00:00:00.000Z"
+  },
+  {
     "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’",
     "title_es": "Paisajes esculpidos por el viento: investigando la megaripple marciana 'Hazyview'",
     "url": "https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/",
@@ -125,6 +149,14 @@
     "url": "https://www.sciencedaily.com/releases/2025/12/251219093315.htm",
     "date": "2025-12-19",
     "source": "ScienceDaily (Top)",
+    "published": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting",
+    "title_es": "Vuelva a profundizar cualquier cosa: refinamiento de la profundidad en el momento de la prueba mediante reencendido autosupervisado",
+    "url": "http://arxiv.org/abs/2512.17908v1",
+    "date": "2025-12-19",
+    "source": "arXiv",
     "published": "2025-12-19T00:00:00.000Z"
   },
   {
