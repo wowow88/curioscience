@@ -1,5 +1,29 @@
 [
   {
+    "title": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
+    "title_es": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
+    "url": "https://arxiv.org/abs/2512.17910",
+    "published": "2025-12-23T05:00:00.000Z",
+    "date": "2025-12-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
+    "title_es": "Blog de curiosidades, Sols 4750-4762: Nos vemos al otro lado del sol",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/",
+    "date": "2025-12-23",
+    "source": "NASA (Top News)",
+    "published": "2025-12-23T00:00:00.000Z"
+  },
+  {
+    "title": "Why shoppers buy fast fashion even if they disagree with it",
+    "title_es": "Por qué los compradores compran moda rápida incluso si no están de acuerdo con ella",
+    "url": "https://phys.org/news/2025-12-shoppers-buy-fast-fashion.html",
+    "date": "2025-12-23",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-23T00:00:00.000Z"
+  },
+  {
     "title": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
     "title_es": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
     "url": "https://arxiv.org/abs/2512.16925",
@@ -11,6 +35,46 @@
     "title": "Study links full-fat cheese to lower dementia risk",
     "title_es": "Un estudio vincula el queso entero con un menor riesgo de demencia",
     "url": "https://www.sciencedaily.com/releases/2025/12/251221091246.htm",
+    "date": "2025-12-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight",
+    "title_es": "Mejora escalable de la validez clínica de una tarea de referencia con supervisión médica",
+    "url": "http://arxiv.org/abs/2512.19691v1",
+    "date": "2025-12-22",
+    "source": "arXiv",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
+    "title_es": "NAC controla el destino de la cadena naciente a través de la detección de túneles y la acción de acompañantes",
+    "url": "https://www.nature.com/articles/s41586-025-10058-2",
+    "date": "2025-12-22",
+    "source": "Nature",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "These are our favorite animal stories of 2025",
+    "title_es": "Estas son nuestras historias de animales favoritas de 2025",
+    "url": "https://www.sciencenews.org/article/favorite-animal-stories-2025",
+    "date": "2025-12-22",
+    "source": "Science News",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "AI can now write working genetic instruction books from scratch",
+    "title_es": "La IA ahora puede escribir libros de instrucciones genéticas funcionales desde cero",
+    "url": "https://www.snexplores.org/article/ai-generated-virus-genome",
+    "date": "2025-12-22",
+    "source": "Science News Explores",
+    "published": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "Why evolution rewarded ants that sacrificed protection",
+    "title_es": "Por qué la evolución recompensó a las hormigas que sacrificaron protección",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
     "date": "2025-12-22",
     "source": "ScienceDaily (Top)",
     "published": "2025-12-22T00:00:00.000Z"
@@ -13544,8 +13608,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Demand structure prediction and adaptation path of rural teachers in western China under population change",
-    "title_es": "Corrección: Predicción de la estructura de la demanda y trayectoria de adaptación de los docentes rurales en el oeste de China ante el cambio poblacional",
+    "title": "Socazolimab combined with carboplatin and etoposide as first-line treatment for extensive-stage small-cell lung cancer: A cost-effectiveness analysis in China",
+    "title_es": "Socazolimab combinado con carboplatino y etopósido como tratamiento de primera línea para el cáncer de pulmón de células pequeñas en estadio extenso: un análisis de rentabilidad en China",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

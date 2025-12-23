@@ -1,51 +1,75 @@
 [
   {
-    "title": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
-    "title_es": "V-Agent: An Interactive Video Search System Using Vision-Language Models",
-    "url": "https://arxiv.org/abs/2512.16925",
-    "published": "2025-12-22T05:00:00.000Z",
-    "date": "2025-12-22",
+    "title": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
+    "title_es": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
+    "url": "https://arxiv.org/abs/2512.17910",
+    "published": "2025-12-23T05:00:00.000Z",
+    "date": "2025-12-23",
     "source": "arXiv"
   },
   {
-    "title": "Study links full-fat cheese to lower dementia risk",
-    "title_es": "Study links full-fat cheese to lower dementia risk",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251221091246.htm",
-    "published": "2025-12-22T04:52:31.000Z",
+    "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
+    "title_es": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/",
+    "published": "2025-12-23T01:37:40.000Z",
+    "date": "2025-12-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Why shoppers buy fast fashion even if they disagree with it",
+    "title_es": "Why shoppers buy fast fashion even if they disagree with it",
+    "url": "https://phys.org/news/2025-12-shoppers-buy-fast-fashion.html",
+    "published": "2025-12-23T04:40:02.000Z",
+    "date": "2025-12-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
+    "title_es": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
+    "url": "https://www.nature.com/articles/s41586-025-10058-2",
+    "published": "2025-12-22T00:00:00.000Z",
+    "date": "2025-12-22",
+    "source": "Nature"
+  },
+  {
+    "title": "These are our favorite animal stories of 2025",
+    "title_es": "These are our favorite animal stories of 2025",
+    "url": "https://www.sciencenews.org/article/favorite-animal-stories-2025",
+    "published": "2025-12-22T16:00:00.000Z",
+    "date": "2025-12-22",
+    "source": "Science News"
+  },
+  {
+    "title": "AI can now write working genetic instruction books from scratch",
+    "title_es": "AI can now write working genetic instruction books from scratch",
+    "url": "https://www.snexplores.org/article/ai-generated-virus-genome",
+    "published": "2025-12-22T11:30:00.000Z",
+    "date": "2025-12-22",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Why evolution rewarded ants that sacrificed protection",
+    "title_es": "Why evolution rewarded ants that sacrificed protection",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
+    "published": "2025-12-22T13:49:12.000Z",
     "date": "2025-12-22",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'Lifting and shifting' workers is not always the best answer",
-    "title_es": "'Lifting and shifting' workers is not always the best answer",
-    "url": "https://phys.org/news/2025-12-shifting-workers.html",
-    "published": "2025-12-21T20:20:01.000Z",
-    "date": "2025-12-21",
-    "source": "Phys.org (Latest)"
+    "title": "Socazolimab combined with carboplatin and etoposide as first-line treatment for extensive-stage small-cell lung cancer: A cost-effectiveness analysis in China",
+    "title_es": "Socazolimab combined with carboplatin and etoposide as first-line treatment for extensive-stage small-cell lung cancer: A cost-effectiveness analysis in China",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-22T14:00:00.000Z",
+    "date": "2025-12-22",
+    "source": "PLOS ONE"
   },
   {
-    "title": "Artemis II Crew Rehearse Launch Day Demonstration",
-    "title_es": "Artemis II Crew Rehearse Launch Day Demonstration",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/",
-    "published": "2025-12-20T20:31:20.000Z",
-    "date": "2025-12-20",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Life in all of its complexity",
-    "title_es": "Life in all of its complexity",
-    "url": "https://www.sciencenews.org/article/ed-note-january-2026-life-complexity",
-    "published": "2025-12-20T12:00:00.000Z",
-    "date": "2025-12-20",
-    "source": "Science News"
-  },
-  {
-    "title": "Author Correction: Cryo-EM structure of a natural RNA nanocage",
-    "title_es": "Author Correction: Cryo-EM structure of a natural RNA nanocage",
-    "url": "https://www.nature.com/articles/s41586-025-10022-0",
-    "published": "2025-12-19T00:00:00.000Z",
+    "title": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
+    "title_es": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
+    "url": "https://www.cnio.es/noticias/galerias-es/belenes-arboles-y-talento-musical-para-crear-navidad-en-el-cnio/",
+    "published": "2025-12-19T16:45:31.000Z",
     "date": "2025-12-19",
-    "source": "Nature"
+    "source": "CNIO"
   },
   {
     "title": "CERN highlights in 2025",
@@ -54,22 +78,6 @@
     "published": "2025-12-19T09:09:54.000Z",
     "date": "2025-12-19",
     "source": "CERN News"
-  },
-  {
-    "title": "Brain scans reveal where taste and smell combine to become flavor",
-    "title_es": "Brain scans reveal where taste and smell combine to become flavor",
-    "url": "https://www.snexplores.org/article/brain-combine-taste-smell-flavor",
-    "published": "2025-12-19T11:30:00.000Z",
-    "date": "2025-12-19",
-    "source": "Science News Explores"
-  },
-  {
-    "title": "Correction: Demand structure prediction and adaptation path of rural teachers in western China under population change",
-    "title_es": "Correction: Demand structure prediction and adaptation path of rural teachers in western China under population change",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-19T14:00:00.000Z",
-    "date": "2025-12-19",
-    "source": "PLOS ONE"
   },
   {
     "title": "Listening to the languages of nature",
