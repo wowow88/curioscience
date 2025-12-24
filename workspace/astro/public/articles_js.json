@@ -1,43 +1,59 @@
 [
   {
-    "title": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
-    "title_es": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
-    "url": "https://arxiv.org/abs/2512.17910",
-    "published": "2025-12-23T05:00:00.000Z",
-    "date": "2025-12-23",
+    "title": "QoS-Aware Dynamic CU Selection in O-RAN with Graph-Based Reinforcement Learning",
+    "title_es": "QoS-Aware Dynamic CU Selection in O-RAN with Graph-Based Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2512.19696",
+    "published": "2025-12-24T05:00:00.000Z",
+    "date": "2025-12-24",
     "source": "arXiv"
   },
   {
-    "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
-    "title_es": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/",
-    "published": "2025-12-23T01:37:40.000Z",
+    "title": "Your roommate’s genes may be shaping your gut bacteria",
+    "title_es": "Your roommate’s genes may be shaping your gut bacteria",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251223043938.htm",
+    "published": "2025-12-24T04:31:13.000Z",
+    "date": "2025-12-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Should we smoke salmon using traditional techniques, or should we simply add the flavor?",
+    "title_es": "Should we smoke salmon using traditional techniques, or should we simply add the flavor?",
+    "url": "https://phys.org/news/2025-12-salmon-traditional-techniques-simply-flavor.html",
+    "published": "2025-12-24T04:10:01.000Z",
+    "date": "2025-12-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage",
+    "title_es": "Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage",
+    "url": "https://www.nature.com/articles/s41586-025-10044-8",
+    "published": "2025-12-23T00:00:00.000Z",
+    "date": "2025-12-23",
+    "source": "Nature"
+  },
+  {
+    "title": "OPERA: Addressing Societal Needs with Satellite Data",
+    "title_es": "OPERA: Addressing Societal Needs with Satellite Data",
+    "url": "https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/",
+    "published": "2025-12-23T18:55:41.000Z",
     "date": "2025-12-23",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Why shoppers buy fast fashion even if they disagree with it",
-    "title_es": "Why shoppers buy fast fashion even if they disagree with it",
-    "url": "https://phys.org/news/2025-12-shoppers-buy-fast-fashion.html",
-    "published": "2025-12-23T04:40:02.000Z",
+    "title": "Research hailing the benefits of the COVID-19 shot keeps coming",
+    "title_es": "Research hailing the benefits of the COVID-19 shot keeps coming",
+    "url": "https://www.sciencenews.org/article/benefits-covid-19-shot-vaccine",
+    "published": "2025-12-23T20:00:00.000Z",
     "date": "2025-12-23",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
-    "title_es": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
-    "url": "https://www.nature.com/articles/s41586-025-10058-2",
-    "published": "2025-12-22T00:00:00.000Z",
-    "date": "2025-12-22",
-    "source": "Nature"
-  },
-  {
-    "title": "These are our favorite animal stories of 2025",
-    "title_es": "These are our favorite animal stories of 2025",
-    "url": "https://www.sciencenews.org/article/favorite-animal-stories-2025",
-    "published": "2025-12-22T16:00:00.000Z",
-    "date": "2025-12-22",
     "source": "Science News"
+  },
+  {
+    "title": "Correction: Similarity and dissimilarity in alterations of the gene expression profile associated with inhalational anesthesia between sevoflurane and desflurane",
+    "title_es": "Correction: Similarity and dissimilarity in alterations of the gene expression profile associated with inhalational anesthesia between sevoflurane and desflurane",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2025-12-23T14:00:00.000Z",
+    "date": "2025-12-23",
+    "source": "PLOS ONE"
   },
   {
     "title": "AI can now write working genetic instruction books from scratch",
@@ -46,22 +62,6 @@
     "published": "2025-12-22T11:30:00.000Z",
     "date": "2025-12-22",
     "source": "Science News Explores"
-  },
-  {
-    "title": "Why evolution rewarded ants that sacrificed protection",
-    "title_es": "Why evolution rewarded ants that sacrificed protection",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
-    "published": "2025-12-22T13:49:12.000Z",
-    "date": "2025-12-22",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Socazolimab combined with carboplatin and etoposide as first-line treatment for extensive-stage small-cell lung cancer: A cost-effectiveness analysis in China",
-    "title_es": "Socazolimab combined with carboplatin and etoposide as first-line treatment for extensive-stage small-cell lung cancer: A cost-effectiveness analysis in China",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2025-12-22T14:00:00.000Z",
-    "date": "2025-12-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
