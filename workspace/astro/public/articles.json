@@ -1,5 +1,21 @@
 [
   {
+    "title": "Uncovering Patterns of Brain Activity from EEG Data Consistently Associated with Cybersickness Using Neural Network Interpretability Maps",
+    "title_es": "Uncovering Patterns of Brain Activity from EEG Data Consistently Associated with Cybersickness Using Neural Network Interpretability Maps",
+    "url": "https://arxiv.org/abs/2512.20620",
+    "published": "2025-12-25T05:00:00.000Z",
+    "date": "2025-12-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "Maryland climate commission calls for state action amid budget pressure",
+    "title_es": "La comisión climática de Maryland pide acción estatal en medio de la presión presupuestaria",
+    "url": "https://phys.org/news/2025-12-maryland-climate-commission-state-action.html",
+    "date": "2025-12-25",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-25T00:00:00.000Z"
+  },
+  {
     "title": "QoS-Aware Dynamic CU Selection in O-RAN with Graph-Based Reinforcement Learning",
     "title_es": "QoS-Aware Dynamic CU Selection in O-RAN with Graph-Based Reinforcement Learning",
     "url": "https://arxiv.org/abs/2512.19696",
@@ -21,6 +37,46 @@
     "url": "https://phys.org/news/2025-12-salmon-traditional-techniques-simply-flavor.html",
     "date": "2025-12-24",
     "source": "Phys.org (Latest)",
+    "published": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
+    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada cuantificando la incertidumbre",
+    "url": "http://arxiv.org/abs/2512.21336v1",
+    "date": "2025-12-24",
+    "source": "arXiv",
+    "published": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "title": "The Nature Podcast highlights of 2025",
+    "title_es": "Lo más destacado del Nature Podcast de 2025",
+    "url": "https://www.nature.com/articles/d41586-025-03756-4",
+    "date": "2025-12-24",
+    "source": "Nature",
+    "published": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "title": "Santa Visits Artemis II Rocket",
+    "title_es": "Papá Noel visita el cohete Artemis II",
+    "url": "https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/",
+    "date": "2025-12-24",
+    "source": "NASA (Top News)",
+    "published": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "title": "Have a taste of our favorite food stories from 2025",
+    "title_es": "Pruebe nuestras historias gastronómicas favoritas de 2025",
+    "url": "https://www.sciencenews.org/article/our-favorite-food-stories-from-2025",
+    "date": "2025-12-24",
+    "source": "Science News",
+    "published": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "title": "What you eat could decide the planet’s future",
+    "title_es": "Lo que comes podría decidir el futuro del planeta",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251224032356.htm",
+    "date": "2025-12-24",
+    "source": "ScienceDaily (Top)",
     "published": "2025-12-24T00:00:00.000Z"
   },
   {

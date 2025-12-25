@@ -1,5 +1,12 @@
 [
   {
+    "title": "Maryland climate commission calls for state action amid budget pressure",
+    "title_es": "La comisión climática de Maryland pide acción estatal en medio de la presión presupuestaria",
+    "url": "https://phys.org/news/2025-12-maryland-climate-commission-state-action.html",
+    "date": "2025-12-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Your roommate’s genes may be shaping your gut bacteria",
     "title_es": "Los genes de tu compañero de cuarto pueden estar dando forma a tus bacterias intestinales",
     "url": "https://www.sciencedaily.com/releases/2025/12/251223043938.htm",
@@ -12,6 +19,41 @@
     "url": "https://phys.org/news/2025-12-salmon-traditional-techniques-simply-flavor.html",
     "date": "2025-12-24",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
+    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada cuantificando la incertidumbre",
+    "url": "http://arxiv.org/abs/2512.21336v1",
+    "date": "2025-12-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Nature Podcast highlights of 2025",
+    "title_es": "Lo más destacado del Nature Podcast de 2025",
+    "url": "https://www.nature.com/articles/d41586-025-03756-4",
+    "date": "2025-12-24",
+    "source": "Nature"
+  },
+  {
+    "title": "Santa Visits Artemis II Rocket",
+    "title_es": "Papá Noel visita el cohete Artemis II",
+    "url": "https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/",
+    "date": "2025-12-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Have a taste of our favorite food stories from 2025",
+    "title_es": "Pruebe nuestras historias gastronómicas favoritas de 2025",
+    "url": "https://www.sciencenews.org/article/our-favorite-food-stories-from-2025",
+    "date": "2025-12-24",
+    "source": "Science News"
+  },
+  {
+    "title": "What you eat could decide the planet’s future",
+    "title_es": "Lo que comes podría decidir el futuro del planeta",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251224032356.htm",
+    "date": "2025-12-24",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
