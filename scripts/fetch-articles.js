@@ -246,11 +246,16 @@ async function main(){
   for (const src of SOURCES){
     const url = realUrl(src.url);
     try{
-      const list = isHtmlFallback(src.url)
-  	? await fetchHTMLList(url, src.name)
-	  : src.url.startsWith("http") && src.name.startsWith("API")
-   	 	 ? [await fetchFromAPI(src.name, src.url)]
-   		 : sortByDateDesc(await fetchRSS(url, src.name));
+      	let list = [];
+	if (isHtmlFallback(src.url)) {
+	  list = await fetchHTMLList(url, src.name);
+	} else if (API_SOURCES.some(s => s.name === src.name)) {
+  	  const it = await fetchFromAPI(src.name, src.url);
+ 	  if (it) list = [it];
+} else {
+  list = sortByDateDesc(await fetchRSS(url, src.name));
+}
+
 
       let taken = 0;
       for (const it of list){
