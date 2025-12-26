@@ -1,5 +1,44 @@
 [
   {
+    "title": "Detecting the hidden magnetism of altermagnets",
+    "title_es": "Detecting the hidden magnetism of altermagnets",
+    "url": "https://phys.org/news/2025-12-hidden-magnetism-altermagnets.html",
+    "published": "2025-12-26T20:00:01.000Z",
+    "date": "2025-12-26",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Studying Physics in Microgravity",
+    "url": "https://www.nasa.gov/image-article/studying-physics-in-microgravity/",
+    "source": "NASA (Top News)",
+    "date": "2025-12-26",
+    "title_es": "Estudiar física en microgravedad",
+    "published": "2025-12-26T16:27:18.000Z"
+  },
+  {
+    "title": "These medical breakthroughs and advances gave patients new hope in 2025",
+    "title_es": "These medical breakthroughs and advances gave patients new hope in 2025",
+    "url": "https://www.sciencenews.org/article/medical-miracle-breakthroughs-hope-2025",
+    "published": "2025-12-26T15:00:00.000Z",
+    "date": "2025-12-26",
+    "source": "Science News"
+  },
+  {
+    "title": "This common food ingredient may shape a child’s health for life",
+    "title_es": "This common food ingredient may shape a child’s health for life",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251225080732.htm",
+    "published": "2025-12-26T08:57:30.000Z",
+    "date": "2025-12-26",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-viaja-la-cronologia-de-la-lactea-y-explora-el-auge-del-astroturismo-en\" hreflang=\"es\">El programa Soñando Estrellas viaja a la cronología de la Vía Láctea y explora el auge del astroturismo en Canarias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-viaja-la-cronologia-de-la-lactea-y-explora-el-auge-del-astroturismo-en",
+    "source": "IAC",
+    "date": "2025-12-26",
+    "published": "2025-12-26T00:00:00.000Z"
+  },
+  {
     "title": "Uncovering Patterns of Brain Activity from EEG Data Consistently Associated with Cybersickness Using Neural Network Interpretability Maps",
     "title_es": "Uncovering Patterns of Brain Activity from EEG Data Consistently Associated with Cybersickness Using Neural Network Interpretability Maps",
     "url": "https://arxiv.org/abs/2512.20620",
@@ -30,6 +69,14 @@
     "date": "2025-12-25",
     "source": "Phys.org (Latest)",
     "published": "2025-12-25T00:00:00.000Z"
+  },
+  {
+    "title": "HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming",
+    "url": "http://arxiv.org/abs/2512.21338v1",
+    "source": "arXiv",
+    "date": "2025-12-24",
+    "title_es": "HiStream: generación eficiente de vídeo de alta resolución mediante streaming sin redundancia",
+    "published": "2025-12-24T18:59:58.000Z"
   },
   {
     "title": "QoS-Aware Dynamic CU Selection in O-RAN with Graph-Based Reinforcement Learning",
@@ -13744,7 +13791,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Similarity and dissimilarity in alterations of the gene expression profile associated with inhalational anesthesia between sevoflurane and desflurane",
+    "title": "Retraction: Can artificial intelligence and face recognition using deep learning detect emotions in children with autism?",
     "title_es": "Corrección: Similitud y disimilitud en las alteraciones del perfil de expresión genética asociada con la anestesia inhalatoria entre sevoflurano y desflurano.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
