@@ -69,10 +69,36 @@ const EXTRA_SOURCES = [
   // España
   { name: "Agencia SINC - Ciencia", url: "https://www.agenciasinc.es/rss/ciencia" },
 ];
+const API_SOURCES = [
+  { name: "DOAJ", url: "https://doaj.org/api/v2/search/articles?q=science&pageSize=1" },
+  { name: "CORE", url: "https://core.ac.uk:443/api-v2/search/articles?q=science&page=1&pageSize=1" },
+  { name: "OA.mg", url: "https://api.oa.mg/v1/papers/search?q=science&limit=1" },
+];
+async function fetchFromAPI(name, url){
+  try{
+    const res = await fetch(url, { headers: { "user-agent": USER_AGENT } });
+    if (!res.ok) throw new Error(res.status);
+    const json = await res.json();
 
+    if (name === "DOAJ"){
+      const item = json?.results?.[0]?.bibjson;
+      return article(item?.title, item?.link?.[0]?.url, name);
+    }
+    if (name === "CORE"){
+      const item = json?.data?.[0];
+      return article(item?.title, item?.url, name);
+    }
+    if (name === "OA.mg"){
+      const item = json?.[0];
+      const doi = item?.externalIds?.DOI;
+      return article(item?.title, doi ? `https://doi.org/${doi}` : "", name);
+    }
+  }catch(e){ console.warn(`[${name}] API error:`, e.message); }
+  return null;
+}
 // Unimos evitando duplicados exactos
 const URL_SEEN = new Set();
-const SOURCES = [...BASE_SOURCES, ...EXTRA_SOURCES].filter(s => {
+const SOURCES = [...BASE_SOURCES, ...EXTRA_SOURCES, ...API_SOURCES].filter(s => {
   const key = `${s.name}|${s.url}`.toLowerCase();
   if (URL_SEEN.has(key)) return false;
   URL_SEEN.add(key);
@@ -221,8 +247,10 @@ async function main(){
     const url = realUrl(src.url);
     try{
       const list = isHtmlFallback(src.url)
-        ? (await fetchHTMLList(url, src.name))
-        : sortByDateDesc(await fetchRSS(url, src.name));
+  	? await fetchHTMLList(url, src.name)
+	  : src.url.startsWith("http") && src.name.startsWith("API")
+   	 	 ? [await fetchFromAPI(src.name, src.url)]
+   		 : sortByDateDesc(await fetchRSS(url, src.name));
 
       let taken = 0;
       for (const it of list){
