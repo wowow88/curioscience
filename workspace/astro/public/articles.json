@@ -8,6 +8,14 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Mathematicians spent 2025 exploring the edge of mathematics",
+    "title_es": "Mathematicians spent 2025 exploring the edge of mathematics",
+    "url": "https://www.newscientist.com/article/2507465-mathematicians-spent-2025-exploring-the-edge-of-mathematics/",
+    "published": "2025-12-26T17:00:04.000Z",
+    "date": "2025-12-26",
+    "source": "New Scientist"
+  },
+  {
     "title": "Studying Physics in Microgravity",
     "url": "https://www.nasa.gov/image-article/studying-physics-in-microgravity/",
     "source": "NASA (Top News)",
@@ -24,12 +32,28 @@
     "source": "Science News"
   },
   {
+    "title": "Book Review: How Evolution Is Driving Us Further Into Space",
+    "title_es": "Book Review: How Evolution Is Driving Us Further Into Space",
+    "url": "https://undark.org/2025/12/26/book-review-giant-leap/",
+    "published": "2025-12-26T08:59:00.000Z",
+    "date": "2025-12-26",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "This common food ingredient may shape a child’s health for life",
     "title_es": "Este ingrediente alimentario común puede influir en la salud de un niño de por vida",
     "url": "https://www.sciencedaily.com/releases/2025/12/251225080732.htm",
     "published": "2025-12-26T08:57:30.000Z",
     "date": "2025-12-26",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "18,000-Year-Old Circular Dwellings Made of Mammoth Bones Unearthed in Ukraine",
+    "title_es": "18,000-Year-Old Circular Dwellings Made of Mammoth Bones Unearthed in Ukraine",
+    "url": "https://www.sci.news/archaeology/mammoth-bone-structures-ukraine-14448.html",
+    "published": "2025-12-26T00:07:03.000Z",
+    "date": "2025-12-26",
+    "source": "Sci.News"
   },
   {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-viaja-la-cronologia-de-la-lactea-y-explora-el-auge-del-astroturismo-en\" hreflang=\"es\">El programa Soñando Estrellas viaja a la cronología de la Vía Láctea y explora el auge del astroturismo en Canarias</a>",
@@ -104,7 +128,7 @@
   },
   {
     "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
-    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada cuantificando la incertidumbre",
+    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada mediante la cuantificación de la incertidumbre",
     "url": "http://arxiv.org/abs/2512.21336v1",
     "date": "2025-12-24",
     "source": "arXiv",
@@ -47028,5 +47052,21 @@
     "source": "ISCIII",
     "published": "",
     "date": ""
+  },
+  {
+    "title": "Doubling Down on Diamond",
+    "title_es": "Doubling Down on Diamond",
+    "url": "https://scipost.org/roadmap",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
+  },
+  {
+    "title": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "title_es": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "url": "https://scipost.org/scipostphyscore.8.4.095",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

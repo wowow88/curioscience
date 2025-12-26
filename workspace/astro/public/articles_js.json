@@ -40,6 +40,30 @@
     "source": "PLOS ONE"
   },
   {
+    "title": "Mathematicians spent 2025 exploring the edge of mathematics",
+    "title_es": "Mathematicians spent 2025 exploring the edge of mathematics",
+    "url": "https://www.newscientist.com/article/2507465-mathematicians-spent-2025-exploring-the-edge-of-mathematics/",
+    "published": "2025-12-26T17:00:04.000Z",
+    "date": "2025-12-26",
+    "source": "New Scientist"
+  },
+  {
+    "title": "18,000-Year-Old Circular Dwellings Made of Mammoth Bones Unearthed in Ukraine",
+    "title_es": "18,000-Year-Old Circular Dwellings Made of Mammoth Bones Unearthed in Ukraine",
+    "url": "https://www.sci.news/archaeology/mammoth-bone-structures-ukraine-14448.html",
+    "published": "2025-12-26T00:07:03.000Z",
+    "date": "2025-12-26",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Book Review: How Evolution Is Driving Us Further Into Space",
+    "title_es": "Book Review: How Evolution Is Driving Us Further Into Space",
+    "url": "https://undark.org/2025/12/26/book-review-giant-leap/",
+    "published": "2025-12-26T08:59:00.000Z",
+    "date": "2025-12-26",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "The Nature Podcast highlights of 2025",
     "title_es": "The Nature Podcast highlights of 2025",
     "url": "https://www.nature.com/articles/d41586-025-03756-4",
@@ -102,5 +126,21 @@
     "date": "",
     "published": "",
     "source": "ISCIII"
+  },
+  {
+    "title": "Doubling Down on Diamond",
+    "title_es": "Doubling Down on Diamond",
+    "url": "https://scipost.org/roadmap",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
+  },
+  {
+    "title": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "title_es": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "url": "https://scipost.org/scipostphyscore.8.4.095",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
