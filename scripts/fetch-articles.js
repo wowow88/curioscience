@@ -66,6 +66,18 @@ const EXTRA_SOURCES = [
   { name: "PLOS ONE",       url: "https://journals.plos.org/plosone/feed/atom" },
   { name: "Nature News",    url: "https://www.nature.com/nature/articles?type=news&format=rss" },
 
+  // Noticias generales de ciencia
+  { name: "New Scientist", url: "https://www.newscientist.com/feed/home/" },
+  { name: "Live Science", url: "https://www.livescience.com/feeds/latest" },
+
+  // Contenido académico/licenciado
+  { name: "SciPost News", url: "https://scipost.org/rss/news/" },
+  { name: "Sci.News", url: "https://sci.news/feed" },
+  { name: "Undark Magazine", url: "https://undark.org/feed/" },
+
+  // Contenidos agregados o específicos
+  { name: "SciPost Publications", url: "https://scipost.org/rss/publications/" },
+
   // España
   { name: "Agencia SINC - Ciencia", url: "https://www.agenciasinc.es/rss/ciencia" },
 ];
