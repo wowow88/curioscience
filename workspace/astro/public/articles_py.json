@@ -57,7 +57,7 @@
   },
   {
     "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
-    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada mediante la cuantificación de la incertidumbre",
+    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada cuantificando la incertidumbre",
     "url": "http://arxiv.org/abs/2512.21336v1",
     "date": "2025-12-24",
     "source": "arXiv"

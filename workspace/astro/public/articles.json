@@ -1,5 +1,13 @@
 [
   {
+    "title": "160-Million-Year-Old Dinosaur Footprints Discovered in Chile",
+    "title_es": "160-Million-Year-Old Dinosaur Footprints Discovered in Chile",
+    "url": "https://www.sci.news/paleontology/dinosaur-footprints-chile-14449.html",
+    "published": "2025-12-27T00:10:50.000Z",
+    "date": "2025-12-27",
+    "source": "Sci.News"
+  },
+  {
     "title": "Detecting the hidden magnetism of altermagnets",
     "title_es": "Detectando el magnetismo oculto de los alterimanes",
     "url": "https://phys.org/news/2025-12-hidden-magnetism-altermagnets.html",
@@ -128,7 +136,7 @@
   },
   {
     "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
-    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada mediante la cuantificación de la incertidumbre",
+    "title_es": "Optimización de rutas de decodificación en modelos de difusión enmascarada cuantificando la incertidumbre",
     "url": "http://arxiv.org/abs/2512.21336v1",
     "date": "2025-12-24",
     "source": "arXiv",
