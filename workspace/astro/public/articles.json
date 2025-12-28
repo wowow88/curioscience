@@ -8,6 +8,22 @@
     "source": "Sci.News"
   },
   {
+    "title": "A rare cancer-fighting plant compound has finally been decoded",
+    "title_es": "Finalmente se ha decodificado un raro compuesto vegetal que combate el cáncer",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251227082728.htm",
+    "date": "2025-12-27",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-27T00:00:00.000Z"
+  },
+  {
+    "title": "Humans made fire 350,000 years earlier than believed, archaeological study finds",
+    "title_es": "Los humanos hicieron fuego 350.000 años antes de lo que se creía, según un estudio arqueológico",
+    "url": "https://phys.org/news/2025-12-humans-years-earlier-believed-archaeological.html",
+    "date": "2025-12-27",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-27T00:00:00.000Z"
+  },
+  {
     "title": "Detecting the hidden magnetism of altermagnets",
     "title_es": "Detectando el magnetismo oculto de los alterimanes",
     "url": "https://phys.org/news/2025-12-hidden-magnetism-altermagnets.html",
@@ -47073,6 +47089,14 @@
     "title": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
     "title_es": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
     "url": "https://scipost.org/scipostphyscore.8.4.095",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Boundary criticality of complex conformal field theory: A case study in the non-Hermitian 5-state Potts model, by Yin Tang, Qianyu Liu, Qicheng Tang, Wei Zhu",
+    "title_es": "Boundary criticality of complex conformal field theory: A case study in the non-Hermitian 5-state Potts model, by Yin Tang, Qianyu Liu, Qicheng Tang, Wei Zhu",
+    "url": "https://scipost.org/scipostphys.19.6.164",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
