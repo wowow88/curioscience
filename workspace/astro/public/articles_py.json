@@ -1,5 +1,19 @@
 [
   {
+    "title": "The deep ocean has a missing link and scientists finally found it",
+    "title_es": "A las profundidades del océano le falta un eslabón y los científicos finalmente lo encontraron",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
+    "date": "2025-12-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Ancient bone arrow points reveal organized craft production in prehistoric Argentina",
+    "title_es": "Las antiguas puntas de flecha de hueso revelan la producción artesanal organizada en la Argentina prehistórica",
+    "url": "https://phys.org/news/2025-12-ancient-bone-arrow-reveal-craft.html",
+    "date": "2025-12-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A rare cancer-fighting plant compound has finally been decoded",
     "title_es": "Finalmente se ha decodificado un raro compuesto vegetal que combate el cáncer",
     "url": "https://www.sciencedaily.com/releases/2025/12/251227082728.htm",
@@ -54,6 +68,13 @@
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-12-26",
     "source": "PLOS ONE"
+  },
+  {
+    "title": "Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications",
+    "title_es": "Recorrido de gráficos estructurados agentes para el análisis de la causa raíz de incidentes relacionados con el código en aplicaciones en la nube",
+    "url": "http://arxiv.org/abs/2512.22113v1",
+    "date": "2025-12-26",
+    "source": "arXiv"
   },
   {
     "title": "HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming",
