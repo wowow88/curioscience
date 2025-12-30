@@ -1,11 +1,99 @@
 [
   {
+    "title": "MonoM: Enhancing Monotonicity in Learned Cardinality Estimators",
+    "title_es": "MonoM: Enhancing Monotonicity in Learned Cardinality Estimators",
+    "url": "https://arxiv.org/abs/2512.22122",
+    "published": "2025-12-30T05:00:00.000Z",
+    "date": "2025-12-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "New Species of Tinamou Discovered in Brazil",
+    "title_es": "New Species of Tinamou Discovered in Brazil",
+    "url": "https://www.sci.news/biology/tinamus-resonans-14454.html",
+    "published": "2025-12-30T00:41:39.000Z",
+    "date": "2025-12-30",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Dual-cation strategy boosts upconversion efficiency in stable oxide perovskites",
+    "title_es": "La estrategia de catión dual aumenta la eficiencia de conversión ascendente en perovskitas de óxido estable",
+    "url": "https://phys.org/news/2025-12-dual-cation-strategy-boosts-upconversion.html",
+    "date": "2025-12-30",
+    "source": "Phys.org (Latest)",
+    "published": "2025-12-30T00:00:00.000Z"
+  },
+  {
+    "title": "Mathematicians unified key laws of physics in 2025",
+    "title_es": "Mathematicians unified key laws of physics in 2025",
+    "url": "https://www.newscientist.com/article/2502845-mathematicians-unified-key-laws-of-physics-in-2025/",
+    "published": "2025-12-29T17:00:38.000Z",
+    "date": "2025-12-29",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Back from the Brink: The Whooping Crane’s Recovery on the Edge",
+    "title_es": "Back from the Brink: The Whooping Crane’s Recovery on the Edge",
+    "url": "https://undark.org/2025/12/29/whooping-crane-recovery-texas/",
+    "published": "2025-12-29T08:28:00.000Z",
+    "date": "2025-12-29",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Inter-seasonal and multi-objective optimization of a sustainable hydrogen supply chain in Corsica integrating water availability constraints",
     "title_es": "Inter-seasonal and multi-objective optimization of a sustainable hydrogen supply chain in Corsica integrating water availability constraints",
     "url": "https://arxiv.org/abs/2512.21339",
     "published": "2025-12-29T05:00:00.000Z",
     "date": "2025-12-29",
     "source": "arXiv"
+  },
+  {
+    "title": "Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing",
+    "title_es": "Ataques de inyección rápida ocultos multilingües en revisiones académicas basadas en LLM",
+    "url": "http://arxiv.org/abs/2512.23684v1",
+    "date": "2025-12-29",
+    "source": "arXiv",
+    "published": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?",
+    "title_es": "Audio de lectura larga: ¿Los exitosos medicamentos contra la obesidad revolucionarán el tratamiento de las adicciones?",
+    "url": "https://www.nature.com/articles/d41586-025-04147-5",
+    "date": "2025-12-29",
+    "source": "Nature",
+    "published": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-eclipse-de-sol-y-la-llegada-de-un-cometa-marcaran-la-agenda-astronomica-2026\" hreflang=\"es\">Un eclipse de Sol y la llegada de un cometa marcarán la agenda astronómica 2026 </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-eclipse-de-sol-y-la-llegada-de-un-cometa-marcaran-la-agenda-astronomica-2026\" hreflang=\"es\">Un eclipse de Sol y la llegada de un cometa marcarán la agenda astronómica 2026 </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-eclipse-de-sol-y-la-llegada-de-un-cometa-marcaran-la-agenda-astronomica-2026",
+    "date": "2025-12-29",
+    "source": "IAC",
+    "published": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "The Earth Observer: Offering Perspectives from Space through Time",
+    "title_es": "The Earth Observer: ofreciendo perspectivas desde el espacio a través del tiempo",
+    "url": "https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/",
+    "date": "2025-12-29",
+    "source": "NASA (Top News)",
+    "published": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "Crush explores how gravity shapes life as we know it",
+    "title_es": "Crush explora cómo la gravedad da forma a la vida tal como la conocemos",
+    "url": "https://www.sciencenews.org/article/crush-book-gravity-impact-on-life",
+    "date": "2025-12-29",
+    "source": "Science News",
+    "published": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "MIT scientists find a way to rejuvenate the immune system as we age",
+    "title_es": "Los científicos del MIT encuentran una manera de rejuvenecer el sistema inmunológico a medida que envejecemos",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251227082718.htm",
+    "date": "2025-12-29",
+    "source": "ScienceDaily (Top)",
+    "published": "2025-12-29T00:00:00.000Z"
   },
   {
     "title": "The deep ocean has a missing link and scientists finally found it",
@@ -13871,8 +13959,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Retraction: Can artificial intelligence and face recognition using deep learning detect emotions in children with autism?",
-    "title_es": "Retracción: ¿Pueden la inteligencia artificial y el reconocimiento facial mediante aprendizaje profundo detectar emociones en niños con autismo?",
+    "title": "Assessment of the midgut microbiota in foragers of the stingless bee Melipona scutellaris following short-term sublethal exposure to imidacloprid",
+    "title_es": "Evaluación de la microbiota del intestino medio en recolectoras de la abeja sin aguijón <i>Melipona scutellaris</i> después de una exposición subletal a corto plazo al imidacloprid",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
