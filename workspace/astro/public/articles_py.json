@@ -1,5 +1,26 @@
 [
   {
+    "title": "2025 AAS Town Hall Schedule",
+    "title_es": "Calendario del Ayuntamiento de la AAS 2025",
+    "url": "https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/",
+    "date": "2025-12-31",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "What cannabis really does for chronic pain",
+    "title_es": "Lo que realmente hace el cannabis para el dolor crónico",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251224015651.htm",
+    "date": "2025-12-31",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Can Australian sport ever be environmentally sustainable?",
+    "title_es": "¿Podrá el deporte australiano llegar a ser ambientalmente sostenible?",
+    "url": "https://phys.org/news/2025-12-australian-sport-environmentally-sustainable.html",
+    "date": "2025-12-31",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Dual-cation strategy boosts upconversion efficiency in stable oxide perovskites",
     "title_es": "La estrategia de catión dual aumenta la eficiencia de conversión ascendente en perovskitas de óxido estable",
     "url": "https://phys.org/news/2025-12-dual-cation-strategy-boosts-upconversion.html",
@@ -7,11 +28,25 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Assessment of the midgut microbiota in foragers of the stingless bee <i>Melipona scutellaris</i> following short-term sublethal exposure to imidacloprid",
-    "title_es": "Evaluación de la microbiota del intestino medio en recolectoras de la abeja sin aguijón <i>Melipona scutellaris</i> después de una exposición subletal a corto plazo al imidacloprid",
+    "title": "Anatomy and baseline histology of the hoof capsule, corium, and digital cushion in free-ranging southern giraffe (<i>Giraffa giraffa</i>)",
+    "title_es": "Anatomía e histología inicial de la cápsula de la pezuña, el corion y la almohadilla digital en una jirafa del sur en libertad (<i>Giraffa giraffa</i>)",
     "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-12-29",
+    "date": "2025-12-30",
     "source": "PLOS ONE"
+  },
+  {
+    "title": "Can boomerangs bounce?",
+    "title_es": "¿Pueden rebotar los bumeranes?",
+    "url": "https://www.nature.com/articles/d41586-025-03989-3",
+    "date": "2025-12-30",
+    "source": "Nature"
+  },
+  {
+    "title": "These fossil finds shed new light on the past in 2025",
+    "title_es": "Estos hallazgos de fósiles arrojarán nueva luz sobre el pasado en 2025",
+    "url": "https://www.sciencenews.org/article/favorite-fossil-finds-2025",
+    "date": "2025-12-30",
+    "source": "Science News"
   },
   {
     "title": "Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing",
