@@ -1,7 +1,14 @@
 [
   {
-    "title": "2025 AAS Town Hall Schedule",
-    "title_es": "Calendario del Ayuntamiento de la AAS 2025",
+    "title": "Astronomers ring in the new year with a stunning galaxy collision",
+    "title_es": "Los astrónomos reciben el año nuevo con una impresionante colisión de galaxias",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
+    "date": "2026-01-01",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "2026 AAS Town Hall Schedule",
+    "title_es": "Calendario del Ayuntamiento de AAS 2026",
     "url": "https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/",
     "date": "2025-12-31",
     "source": "NASA (Top News)"
@@ -17,6 +24,34 @@
     "title": "Can Australian sport ever be environmentally sustainable?",
     "title_es": "¿Podrá el deporte australiano llegar a ser ambientalmente sostenible?",
     "url": "https://phys.org/news/2025-12-australian-sport-environmentally-sustainable.html",
+    "date": "2025-12-31",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time",
+    "title_es": "SpaceTimePilot: Representación generativa de escenas dinámicas en el espacio y el tiempo",
+    "url": "http://arxiv.org/abs/2512.25075v1",
+    "date": "2025-12-31",
+    "source": "arXiv"
+  },
+  {
+    "title": "A chiral fermionic valve driven by quantum geometry",
+    "title_es": "Una válvula fermiónica quiral impulsada por geometría cuántica",
+    "url": "https://www.nature.com/articles/s41586-025-09864-5",
+    "date": "2025-12-31",
+    "source": "Nature"
+  },
+  {
+    "title": "Some of 2025’s scientific discoveries broke records",
+    "title_es": "Algunos de los descubrimientos científicos de 2025 batieron récords",
+    "url": "https://www.sciencenews.org/article/2025-scientific-discoveries-record",
+    "date": "2025-12-31",
+    "source": "Science News"
+  },
+  {
+    "title": "Real-life experiment shows Niels Bohr was right in a theoretical debate with Einstein",
+    "title_es": "Un experimento de la vida real muestra que Niels Bohr tenía razón en un debate teórico con Einstein",
+    "url": "https://phys.org/news/2025-12-real-life-niels-bohr-theoretical.html",
     "date": "2025-12-31",
     "source": "Phys.org (Latest)"
   },
