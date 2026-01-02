@@ -1,10 +1,38 @@
 [
   {
+    "title": "This tiny plant is helping solve crimes",
+    "title_es": "Esta pequeña planta está ayudando a resolver crímenes.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251225080738.htm",
+    "date": "2026-01-02",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Astronomers ring in the new year with a stunning galaxy collision",
     "title_es": "Los astrónomos reciben el año nuevo con una impresionante colisión de galaxias",
     "url": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
     "date": "2026-01-01",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Rethinking intersex interventions",
+    "title_es": "Repensar las intervenciones intersexuales",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb5814",
+    "date": "2026-01-01",
+    "source": "Science.org"
+  },
+  {
+    "title": "Science in 2026: what to expect this year",
+    "title_es": "Ciencia en 2026: que esperar este año",
+    "url": "https://www.nature.com/articles/d41586-025-04114-0",
+    "date": "2026-01-01",
+    "source": "Nature"
+  },
+  {
+    "title": "Tokamak experiments exceed plasma density limit, offering new approach to fusion ignition",
+    "title_es": "Los experimentos de Tokamak superan el límite de densidad del plasma y ofrecen un nuevo enfoque para la ignición por fusión",
+    "url": "https://phys.org/news/2025-12-tokamak-exceed-plasma-density-limit.html",
+    "date": "2026-01-01",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "2026 AAS Town Hall Schedule",
@@ -56,18 +84,18 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "How much is too much? A medication use evaluation of VA ICU sedation practice during the COVID-19 pandemic",
+    "title_es": "¿Cuánto es demasiado? Una evaluación del uso de medicamentos de la práctica de sedación en la UCI de VA durante la pandemia de COVID-19",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2025-12-31",
+    "source": "PLOS ONE"
+  },
+  {
     "title": "Dual-cation strategy boosts upconversion efficiency in stable oxide perovskites",
     "title_es": "La estrategia de catión dual aumenta la eficiencia de conversión ascendente en perovskitas de óxido estable",
     "url": "https://phys.org/news/2025-12-dual-cation-strategy-boosts-upconversion.html",
     "date": "2025-12-30",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Anatomy and baseline histology of the hoof capsule, corium, and digital cushion in free-ranging southern giraffe (<i>Giraffa giraffa</i>)",
-    "title_es": "Anatomía e histología inicial de la cápsula de la pezuña, el corion y la almohadilla digital en una jirafa del sur en libertad (<i>Giraffa giraffa</i>)",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2025-12-30",
-    "source": "PLOS ONE"
   },
   {
     "title": "Can boomerangs bounce?",

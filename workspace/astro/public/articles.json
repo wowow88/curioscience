@@ -1,5 +1,29 @@
 [
   {
+    "title": "This tiny plant is helping solve crimes",
+    "title_es": "Esta pequeña planta está ayudando a resolver crímenes.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251225080738.htm",
+    "date": "2026-01-02",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "title": "Rare Saturn-sized rogue planet is first to have its mass measured",
+    "title_es": "Rare Saturn-sized rogue planet is first to have its mass measured",
+    "url": "https://www.newscientist.com/article/2509858-rare-saturn-sized-rogue-planet-is-first-to-have-its-mass-measured/",
+    "published": "2026-01-01T19:00:40.000Z",
+    "date": "2026-01-01",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Uncertain Future of International Scientific Collaboration",
+    "title_es": "The Uncertain Future of International Scientific Collaboration",
+    "url": "https://undark.org/2026/01/01/opinion-international-collaboration-trump/",
+    "published": "2026-01-01T08:47:00.000Z",
+    "date": "2026-01-01",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Enriching Historical Records: An OCR and AI-Driven Approach for Database Integration",
     "title_es": "Enriching Historical Records: An OCR and AI-Driven Approach for Database Integration",
     "url": "https://arxiv.org/abs/2512.23710",
@@ -13,6 +37,30 @@
     "url": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
     "date": "2026-01-01",
     "source": "ScienceDaily (Top)",
+    "published": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Rethinking intersex interventions",
+    "title_es": "Repensar las intervenciones intersexuales",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeb5814",
+    "date": "2026-01-01",
+    "source": "Science.org",
+    "published": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Science in 2026: what to expect this year",
+    "title_es": "Ciencia en 2026: que esperar este año",
+    "url": "https://www.nature.com/articles/d41586-025-04114-0",
+    "date": "2026-01-01",
+    "source": "Nature",
+    "published": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Tokamak experiments exceed plasma density limit, offering new approach to fusion ignition",
+    "title_es": "Los experimentos de Tokamak superan el límite de densidad del plasma y ofrecen un nuevo enfoque para la ignición por fusión",
+    "url": "https://phys.org/news/2025-12-tokamak-exceed-plasma-density-limit.html",
+    "date": "2026-01-01",
+    "source": "Phys.org (Latest)",
     "published": "2026-01-01T00:00:00.000Z"
   },
   {
@@ -14088,7 +14136,7 @@
   },
   {
     "title": "How much is too much? A medication use evaluation of VA ICU sedation practice during the COVID-19 pandemic",
-    "title_es": "Anatomía e histología inicial de la cápsula de la pezuña, el corion y la almohadilla digital en una jirafa del sur en libertad (<i>Giraffa giraffa</i>)",
+    "title_es": "¿Cuánto es demasiado? Una evaluación del uso de medicamentos de la práctica de sedación en la UCI de VA durante la pandemia de COVID-19",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
