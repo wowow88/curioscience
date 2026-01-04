@@ -1,5 +1,21 @@
 [
   {
+    "title": "Scientists found a way to help aging guts heal themselves",
+    "title_es": "Scientists found a way to help aging guts heal themselves",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260103155028.htm",
+    "published": "2026-01-04T01:59:17.000Z",
+    "date": "2026-01-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "A better way to detect off-target genome changes from base editors",
+    "title_es": "A better way to detect off-target genome changes from base editors",
+    "url": "https://phys.org/news/2026-01-genome-base-editors.html",
+    "published": "2026-01-03T17:30:01.000Z",
+    "date": "2026-01-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Hubble Glimpses Galactic Gas Making a Getaway",
     "title_es": "Hubble Glimpses Galactic Gas Making a Getaway",
     "url": "https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/",
@@ -24,20 +40,12 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This tiny plant is helping solve crimes",
-    "title_es": "This tiny plant is helping solve crimes",
-    "url": "https://www.sciencedaily.com/releases/2025/12/251225080738.htm",
-    "published": "2026-01-02T03:28:09.000Z",
+    "title": "Research on the relationship between work-family conflict and burnout among civil aviation pilots after the COVID-19 pandemic",
+    "title_es": "Research on the relationship between work-family conflict and burnout among civil aviation pilots after the COVID-19 pandemic",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-01-02T14:00:00.000Z",
     "date": "2026-01-02",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Bacteria reveal second 'shutdown mode' for surviving antibiotic treatment",
-    "title_es": "Bacteria reveal second 'shutdown mode' for surviving antibiotic treatment",
-    "url": "https://phys.org/news/2026-01-bacteria-reveal-shutdown-mode-surviving.html",
-    "published": "2026-01-02T19:00:10.000Z",
-    "date": "2026-01-02",
-    "source": "Phys.org (Latest)"
+    "source": "PLOS ONE"
   },
   {
     "title": "Was our earliest ancestor a knuckle-dragger, or did it walk upright?",
@@ -128,9 +136,9 @@
     "source": "SciPost News"
   },
   {
-    "title": "Boundary criticality of complex conformal field theory: A case study in the non-Hermitian 5-state Potts model, by Yin Tang, Qianyu Liu, Qicheng Tang, Wei Zhu",
-    "title_es": "Boundary criticality of complex conformal field theory: A case study in the non-Hermitian 5-state Potts model, by Yin Tang, Qianyu Liu, Qicheng Tang, Wei Zhu",
-    "url": "https://scipost.org/scipostphys.19.6.164",
+    "title": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "title_es": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
+    "url": "https://scipost.org/scipostphyscore.8.4.095",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
