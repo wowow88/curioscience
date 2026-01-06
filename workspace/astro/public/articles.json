@@ -1,11 +1,107 @@
 [
   {
+    "title": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
+    "title_es": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
+    "url": "https://arxiv.org/abs/2601.00797",
+    "published": "2026-01-06T05:00:00.000Z",
+    "date": "2026-01-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "New Songbird Species Discovered in Bolivia",
+    "title_es": "New Songbird Species Discovered in Bolivia",
+    "url": "https://www.sci.news/biology/beni-greenlet-hylophilus-moxensis-14464.html",
+    "published": "2026-01-06T01:23:44.000Z",
+    "date": "2026-01-06",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Reaching the Precipice in Angola",
+    "title_es": "Alcanzando el precipicio en Angola",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/",
+    "date": "2026-01-06",
+    "source": "NASA (Top News)",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "Sometimes the best way to reach a goal may be to quit an old one",
+    "title_es": "A veces la mejor manera de alcanzar una meta puede ser abandonar una antigua",
+    "url": "https://www.snexplores.org/article/quit-to-reach-goal",
+    "date": "2026-01-06",
+    "source": "Science News Explores",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
+    "title_es": "Los científicos descubren “migriones”, un atajo viral que potencia la infección",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
+    "date": "2026-01-06",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "The (metabolic) 'cost of life': New method quantifies hidden energy costs of maintaining metabolic pathways",
+    "title_es": "El 'costo de vida' (metabólico): un nuevo método cuantifica los costes energéticos ocultos del mantenimiento de las vías metabólicas",
+    "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
+    "date": "2026-01-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "Northern Greenland ice dome melted before and could melt again",
+    "title_es": "Northern Greenland ice dome melted before and could melt again",
+    "url": "https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/",
+    "published": "2026-01-05T18:30:55.000Z",
+    "date": "2026-01-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "In Denmark, Sick Cows and a Lot of Questions",
+    "title_es": "In Denmark, Sick Cows and a Lot of Questions",
+    "url": "https://undark.org/2026/01/05/denmark-cows-bovaer/",
+    "published": "2026-01-05T08:57:00.000Z",
+    "date": "2026-01-05",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Augmented Reality Indoor Wayfinding in Hospital Environments An Empirical Study on Navigation Efficiency, User Experience, and Cognitive Load",
     "title_es": "Augmented Reality Indoor Wayfinding in Hospital Environments An Empirical Study on Navigation Efficiency, User Experience, and Cognitive Load",
     "url": "https://arxiv.org/abs/2601.00001",
     "published": "2026-01-05T05:00:00.000Z",
     "date": "2026-01-05",
     "source": "arXiv"
+  },
+  {
+    "title": "DARC: Drum accompaniment generation with fine-grained rhythm control",
+    "title_es": "DARC: generación de acompañamiento de batería con control de ritmo detallado",
+    "url": "http://arxiv.org/abs/2601.02357v1",
+    "date": "2026-01-05",
+    "source": "arXiv",
+    "published": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "title": "I see Mozambique’s baboons as windows into hominid evolution",
+    "title_es": "Veo a los babuinos de Mozambique como ventanas a la evolución de los homínidos",
+    "url": "https://www.nature.com/articles/d41586-025-04153-7",
+    "date": "2026-01-05",
+    "source": "Nature",
+    "published": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "title": "CERN wishes you a happy 2026",
+    "title_es": "El CERN os desea un feliz 2026",
+    "url": "https://home.cern/news/news/cern/cern-wishes-you-happy-2026",
+    "date": "2026-01-05",
+    "source": "CERN News",
+    "published": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "title": "First maps of the sun’s outer boundary may help predict solar storms",
+    "title_es": "Los primeros mapas del límite exterior del sol pueden ayudar a predecir tormentas solares",
+    "url": "https://www.sciencenews.org/article/sun-outer-boundary-map-nasa-solar-probe",
+    "date": "2026-01-05",
+    "source": "Science News",
+    "published": "2026-01-05T00:00:00.000Z"
   },
   {
     "title": "Scientists found a way to help aging guts heal themselves",
@@ -1122,6 +1218,14 @@
     "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
     "title_es": "Donantes privados prometen 860 millones de euros para el futuro colisionador circular del CERN",
     "url": "https://home.cern/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
+    "date": "2025-12-16",
+    "source": "CERN Press",
+    "published": "2025-12-16T00:00:00.000Z"
+  },
+  {
+    "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
+    "title_es": "Donantes privados prometen 860 millones de euros para el futuro colisionador circular del CERN",
+    "url": "https://home.web.cern.ch/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
     "date": "2025-12-16",
     "source": "CERN Press",
     "published": "2025-12-16T00:00:00.000Z"

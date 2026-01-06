@@ -1,5 +1,61 @@
 [
   {
+    "title": "Reaching the Precipice in Angola",
+    "title_es": "Alcanzando el precipicio en Angola",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/",
+    "date": "2026-01-06",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Sometimes the best way to reach a goal may be to quit an old one",
+    "title_es": "A veces la mejor manera de alcanzar una meta puede ser abandonar una antigua",
+    "url": "https://www.snexplores.org/article/quit-to-reach-goal",
+    "date": "2026-01-06",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
+    "title_es": "Los científicos descubren “migriones”, un atajo viral que potencia la infección",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
+    "date": "2026-01-06",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "The (metabolic) 'cost of life': New method quantifies hidden energy costs of maintaining metabolic pathways",
+    "title_es": "El 'costo de vida' (metabólico): un nuevo método cuantifica los costes energéticos ocultos del mantenimiento de las vías metabólicas",
+    "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
+    "date": "2026-01-06",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "DARC: Drum accompaniment generation with fine-grained rhythm control",
+    "title_es": "DARC: generación de acompañamiento de batería con control de ritmo detallado",
+    "url": "http://arxiv.org/abs/2601.02357v1",
+    "date": "2026-01-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "I see Mozambique’s baboons as windows into hominid evolution",
+    "title_es": "Veo a los babuinos de Mozambique como ventanas a la evolución de los homínidos",
+    "url": "https://www.nature.com/articles/d41586-025-04153-7",
+    "date": "2026-01-05",
+    "source": "Nature"
+  },
+  {
+    "title": "CERN wishes you a happy 2026",
+    "title_es": "El CERN os desea un feliz 2026",
+    "url": "https://home.cern/news/news/cern/cern-wishes-you-happy-2026",
+    "date": "2026-01-05",
+    "source": "CERN News"
+  },
+  {
+    "title": "First maps of the sun’s outer boundary may help predict solar storms",
+    "title_es": "Los primeros mapas del límite exterior del sol pueden ayudar a predecir tormentas solares",
+    "url": "https://www.sciencenews.org/article/sun-outer-boundary-map-nasa-solar-probe",
+    "date": "2026-01-05",
+    "source": "Science News"
+  },
+  {
     "title": "Scientists found a way to help aging guts heal themselves",
     "title_es": "Los científicos encontraron una manera de ayudar a los intestinos envejecidos a curarse a sí mismos",
     "url": "https://www.sciencedaily.com/releases/2026/01/260103155028.htm",
@@ -360,6 +416,13 @@
     "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
     "title_es": "Donantes privados prometen 860 millones de euros para el futuro colisionador circular del CERN",
     "url": "https://home.cern/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
+    "date": "2025-12-16",
+    "source": "CERN Press"
+  },
+  {
+    "title": "Private donors pledge 860 million euros for CERN’s Future Circular Collider",
+    "title_es": "Donantes privados prometen 860 millones de euros para el futuro colisionador circular del CERN",
+    "url": "https://home.web.cern.ch/news/press-release/cern/private-donors-pledge-860-million-euros-cerns-future-circular-collider",
     "date": "2025-12-16",
     "source": "CERN Press"
   }
