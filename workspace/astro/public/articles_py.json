@@ -1,5 +1,26 @@
 [
   {
+    "title": "Algae Swirls Across a South African Reservoir",
+    "title_es": "Algas se arremolinan en un embalse sudafricano",
+    "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
+    "date": "2026-01-07",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This simple math trick could transform earthquake science",
+    "title_es": "Este sencillo truco matemático podría transformar la ciencia de los terremotos",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106001918.htm",
+    "date": "2026-01-07",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
+    "title_es": "Arizona considera imponer límites a una empresa saudí que bombea aguas subterráneas del desierto",
+    "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
+    "date": "2026-01-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Reaching the Precipice in Angola",
     "title_es": "Alcanzando el precipicio en Angola",
     "url": "https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/",
@@ -26,6 +47,41 @@
     "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
     "date": "2026-01-06",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
+    "title_es": "Carga económica de la sequía utilizando el enfoque de satisfacción con la vida: un estudio de caso de los habitantes de barrios marginales en el sureste de Irán",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-06",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents",
+    "title_es": "MAGMA: una arquitectura de memoria agente basada en múltiples gráficos para agentes de IA",
+    "url": "http://arxiv.org/abs/2601.03236v1",
+    "date": "2026-01-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "The poetic life and death of a glow-worm",
+    "title_es": "La vida y muerte poética de una luciérnaga.",
+    "url": "https://www.nature.com/articles/d41586-025-03990-w",
+    "date": "2026-01-06",
+    "source": "Nature"
+  },
+  {
+    "title": "Here’s the science behind nuclear weapons testing",
+    "title_es": "Aquí está la ciencia detrás de las pruebas de armas nucleares",
+    "url": "https://www.sciencenews.org/article/nuclear-weapons-testing-explained-video",
+    "date": "2026-01-06",
+    "source": "Science News"
+  },
+  {
+    "title": "Woodpeckers grunt like tennis players when they peck",
+    "title_es": "Los pájaros carpinteros gruñen como tenistas cuando picotean",
+    "url": "https://www.snexplores.org/article/woodpeckers-grunt-when-peck",
+    "date": "2026-01-06",
+    "source": "Science News Explores"
   },
   {
     "title": "DARC: Drum accompaniment generation with fine-grained rhythm control",
@@ -96,13 +152,6 @@
     "url": "https://www.sciencedaily.com/releases/2025/12/251225080738.htm",
     "date": "2026-01-02",
     "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Research on the relationship between work-family conflict and burnout among civil aviation pilots after the COVID-19 pandemic",
-    "title_es": "Investigación sobre la relación entre el conflicto trabajo-familia y el burnout entre pilotos de aviación civil tras la pandemia de COVID-19",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-02",
-    "source": "PLOS ONE"
   },
   {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/telecomunicaciones-publica-los-datos-del-espectro-radioelectrico-para-proteger-la-calidad-del-cielo-en\" hreflang=\"es\">Telecomunicaciones publica los datos del espectro radioeléctrico para proteger la calidad del cielo en los Observatorios de Canarias</a>",

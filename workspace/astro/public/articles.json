@@ -1,5 +1,61 @@
 [
   {
+    "title": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
+    "title_es": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
+    "url": "https://arxiv.org/abs/2601.02361",
+    "published": "2026-01-07T05:00:00.000Z",
+    "date": "2026-01-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
+    "title_es": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
+    "url": "https://www.sci.news/othersciences/linguistics/voynich-manuscript-cipher-14466.html",
+    "published": "2026-01-07T00:54:49.000Z",
+    "date": "2026-01-07",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Algae Swirls Across a South African Reservoir",
+    "title_es": "Algas se arremolinan en un embalse sudafricano",
+    "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
+    "date": "2026-01-07",
+    "source": "NASA (Top News)",
+    "published": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "title": "This simple math trick could transform earthquake science",
+    "title_es": "Este sencillo truco matemático podría transformar la ciencia de los terremotos",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106001918.htm",
+    "date": "2026-01-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "title": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
+    "title_es": "Arizona considera imponer límites a una empresa saudí que bombea aguas subterráneas del desierto",
+    "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
+    "date": "2026-01-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "title_es": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/",
+    "published": "2026-01-06T19:00:57.000Z",
+    "date": "2026-01-06",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Medical Examiners Group Issues Warning on Stillbirth Test",
+    "title_es": "Medical Examiners Group Issues Warning on Stillbirth Test",
+    "url": "https://undark.org/2026/01/06/stillbirth-test-warning/",
+    "published": "2026-01-06T08:26:00.000Z",
+    "date": "2026-01-06",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
     "title_es": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
     "url": "https://arxiv.org/abs/2601.00797",
@@ -45,6 +101,38 @@
     "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
     "date": "2026-01-06",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents",
+    "title_es": "MAGMA: una arquitectura de memoria agente basada en múltiples gráficos para agentes de IA",
+    "url": "http://arxiv.org/abs/2601.03236v1",
+    "date": "2026-01-06",
+    "source": "arXiv",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "The poetic life and death of a glow-worm",
+    "title_es": "La vida y muerte poética de una luciérnaga.",
+    "url": "https://www.nature.com/articles/d41586-025-03990-w",
+    "date": "2026-01-06",
+    "source": "Nature",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "Here’s the science behind nuclear weapons testing",
+    "title_es": "Aquí está la ciencia detrás de las pruebas de armas nucleares",
+    "url": "https://www.sciencenews.org/article/nuclear-weapons-testing-explained-video",
+    "date": "2026-01-06",
+    "source": "Science News",
+    "published": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "Woodpeckers grunt like tennis players when they peck",
+    "title_es": "Los pájaros carpinteros gruñen como tenistas cuando picotean",
+    "url": "https://www.snexplores.org/article/woodpeckers-grunt-when-peck",
+    "date": "2026-01-06",
+    "source": "Science News Explores",
     "published": "2026-01-06T00:00:00.000Z"
   },
   {
@@ -14359,8 +14447,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Research on the relationship between work-family conflict and burnout among civil aviation pilots after the COVID-19 pandemic",
-    "title_es": "Investigación sobre la relación entre el conflicto trabajo-familia y el burnout entre pilotos de aviación civil tras la pandemia de COVID-19",
+    "title": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
+    "title_es": "Carga económica de la sequía utilizando el enfoque de satisfacción con la vida: un estudio de caso de los habitantes de barrios marginales en el sureste de Irán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",

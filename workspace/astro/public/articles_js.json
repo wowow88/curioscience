@@ -1,59 +1,91 @@
 [
   {
-    "title": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
-    "title_es": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
-    "url": "https://arxiv.org/abs/2601.00797",
-    "published": "2026-01-06T05:00:00.000Z",
-    "date": "2026-01-06",
+    "title": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
+    "title_es": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
+    "url": "https://arxiv.org/abs/2601.02361",
+    "published": "2026-01-07T05:00:00.000Z",
+    "date": "2026-01-07",
     "source": "arXiv"
   },
   {
-    "title": "Reaching the Precipice in Angola",
-    "title_es": "Reaching the Precipice in Angola",
-    "url": "https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/",
-    "published": "2026-01-06T05:01:00.000Z",
-    "date": "2026-01-06",
+    "title": "Algae Swirls Across a South African Reservoir",
+    "title_es": "Algae Swirls Across a South African Reservoir",
+    "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
+    "published": "2026-01-07T05:00:00.000Z",
+    "date": "2026-01-07",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Sometimes the best way to reach a goal may be to quit an old one",
-    "title_es": "Sometimes the best way to reach a goal may be to quit an old one",
-    "url": "https://www.snexplores.org/article/quit-to-reach-goal",
-    "published": "2026-01-06T00:10:40.000Z",
+    "title": "This simple math trick could transform earthquake science",
+    "title_es": "This simple math trick could transform earthquake science",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106001918.htm",
+    "published": "2026-01-07T04:15:15.000Z",
+    "date": "2026-01-07",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
+    "title_es": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
+    "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
+    "published": "2026-01-07T03:30:01.000Z",
+    "date": "2026-01-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
+    "title_es": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
+    "url": "https://www.sci.news/othersciences/linguistics/voynich-manuscript-cipher-14466.html",
+    "published": "2026-01-07T00:54:49.000Z",
+    "date": "2026-01-07",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The poetic life and death of a glow-worm",
+    "title_es": "The poetic life and death of a glow-worm",
+    "url": "https://www.nature.com/articles/d41586-025-03990-w",
+    "published": "2026-01-06T00:00:00.000Z",
+    "date": "2026-01-06",
+    "source": "Nature"
+  },
+  {
+    "title": "Here’s the science behind nuclear weapons testing",
+    "title_es": "Here’s the science behind nuclear weapons testing",
+    "url": "https://www.sciencenews.org/article/nuclear-weapons-testing-explained-video",
+    "published": "2026-01-06T16:00:00.000Z",
+    "date": "2026-01-06",
+    "source": "Science News"
+  },
+  {
+    "title": "Woodpeckers grunt like tennis players when they peck",
+    "title_es": "Woodpeckers grunt like tennis players when they peck",
+    "url": "https://www.snexplores.org/article/woodpeckers-grunt-when-peck",
+    "published": "2026-01-06T11:30:00.000Z",
     "date": "2026-01-06",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
-    "title_es": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
-    "published": "2026-01-06T02:34:44.000Z",
+    "title": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
+    "title_es": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-01-06T14:00:00.000Z",
     "date": "2026-01-06",
-    "source": "ScienceDaily (Top)"
+    "source": "PLOS ONE"
   },
   {
-    "title": "The (metabolic) 'cost of life': New method quantifies hidden energy costs of maintaining metabolic pathways",
-    "title_es": "The (metabolic) 'cost of life': New method quantifies hidden energy costs of maintaining metabolic pathways",
-    "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
-    "published": "2026-01-06T05:00:02.000Z",
+    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "title_es": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/",
+    "published": "2026-01-06T19:00:57.000Z",
     "date": "2026-01-06",
-    "source": "Phys.org (Latest)"
+    "source": "New Scientist"
   },
   {
-    "title": "New Songbird Species Discovered in Bolivia",
-    "title_es": "New Songbird Species Discovered in Bolivia",
-    "url": "https://www.sci.news/biology/beni-greenlet-hylophilus-moxensis-14464.html",
-    "published": "2026-01-06T01:23:44.000Z",
+    "title": "Medical Examiners Group Issues Warning on Stillbirth Test",
+    "title_es": "Medical Examiners Group Issues Warning on Stillbirth Test",
+    "url": "https://undark.org/2026/01/06/stillbirth-test-warning/",
+    "published": "2026-01-06T08:26:00.000Z",
     "date": "2026-01-06",
-    "source": "Sci.News"
-  },
-  {
-    "title": "I see Mozambique’s baboons as windows into hominid evolution",
-    "title_es": "I see Mozambique’s baboons as windows into hominid evolution",
-    "url": "https://www.nature.com/articles/d41586-025-04153-7",
-    "published": "2026-01-05T00:00:00.000Z",
-    "date": "2026-01-05",
-    "source": "Nature"
+    "source": "Undark Magazine"
   },
   {
     "title": "CERN wishes you a happy 2026",
@@ -62,30 +94,6 @@
     "published": "2026-01-05T14:57:46.000Z",
     "date": "2026-01-05",
     "source": "CERN News"
-  },
-  {
-    "title": "First maps of the sun’s outer boundary may help predict solar storms",
-    "title_es": "First maps of the sun’s outer boundary may help predict solar storms",
-    "url": "https://www.sciencenews.org/article/sun-outer-boundary-map-nasa-solar-probe",
-    "published": "2026-01-05T15:30:00.000Z",
-    "date": "2026-01-05",
-    "source": "Science News"
-  },
-  {
-    "title": "Northern Greenland ice dome melted before and could melt again",
-    "title_es": "Northern Greenland ice dome melted before and could melt again",
-    "url": "https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/",
-    "published": "2026-01-05T18:30:55.000Z",
-    "date": "2026-01-05",
-    "source": "New Scientist"
-  },
-  {
-    "title": "In Denmark, Sick Cows and a Lot of Questions",
-    "title_es": "In Denmark, Sick Cows and a Lot of Questions",
-    "url": "https://undark.org/2026/01/05/denmark-cows-bovaer/",
-    "published": "2026-01-05T08:57:00.000Z",
-    "date": "2026-01-05",
-    "source": "Undark Magazine"
   },
   {
     "title": "Rethinking intersex interventions",
