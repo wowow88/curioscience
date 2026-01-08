@@ -69,23 +69,41 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 📦 Install Node deps (pnpm si hay lock; si no, npm)
+      - name: 📦 Install Node deps (root + workspace/astro)
         run: |
           set -euo pipefail
-          if [ -f pnpm-lock.yaml ]; then
-            corepack enable || true
-            corepack prepare pnpm@9 --activate || true
-            command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
-            if [ -f package.json ]; then pnpm install --frozen-lockfile || pnpm install; fi
-            if [ -f workspace/astro/package.json ]; then pnpm -C workspace/astro install --frozen-lockfile || pnpm -C workspace/astro install; fi
-          else
-            if [ -f package.json ]; then
-              if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
-            fi
-            if [ -f workspace/astro/package.json ]; then
-              (cd workspace/astro && if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi)
+
+          # --- Root deps ---
+          if [ -f "package.json" ]; then
+            if [ -f "pnpm-lock.yaml" ]; then
+              corepack enable || true
+              corepack prepare pnpm@9 --activate || true
+              command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+              pnpm install --frozen-lockfile || pnpm install
+            else
+              if [ -f "package-lock.json" ]; then npm ci; else npm install --no-audit --no-fund; fi
             fi
           fi
+
+          # --- workspace/astro deps ---
+          if [ -f "workspace/astro/package.json" ]; then
+            if [ -f "workspace/astro/pnpm-lock.yaml" ]; then
+              corepack enable || true
+              corepack prepare pnpm@9 --activate || true
+              command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+              pnpm -C workspace/astro install --frozen-lockfile
+            elif [ -f "workspace/astro/package-lock.json" ]; then
+              npm --prefix workspace/astro ci
+            else
+              # si no hay lockfile dentro de astro, instala pero NO es reproducible
+              # (lo ideal es añadir workspace/astro/pnpm-lock.yaml)
+              corepack enable || true
+              corepack prepare pnpm@9 --activate || true
+              command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+              pnpm -C workspace/astro install
+            fi
+          fi
+
 
       # ---------- Pipeline ----------
       - name: 🐍 Run data_pipeline.py → articles_py.json (timeout 8m)
@@ -179,20 +197,17 @@ jobs:
 
       - name: 🏗️ Build Astro (if exists)
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
-        working-directory: workspace/astro
         run: |
           set -euo pipefail
-          corepack enable || true
-          corepack prepare pnpm@9 --activate || true
-          command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
-
-          if [ -f pnpm-lock.yaml ]; then
-            pnpm install --frozen-lockfile
+          if [ -f "workspace/astro/pnpm-lock.yaml" ]; then
+            corepack enable || true
+            corepack prepare pnpm@9 --activate || true
+            command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+            pnpm -C workspace/astro run build
           else
-            pnpm install
+            npm --prefix workspace/astro run build
           fi
 
-          pnpm run build
 
       - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
