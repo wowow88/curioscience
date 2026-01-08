@@ -181,11 +181,18 @@ jobs:
         if: ${{ hashFiles('workspace/astro/package.json') != '' }}
         working-directory: workspace/astro
         run: |
-          if [ -f pnpm-lock.yaml ] && command -v pnpm >/dev/null 2>&1; then
-            pnpm run build
+          set -euo pipefail
+          corepack enable || true
+          corepack prepare pnpm@9 --activate || true
+          command -v pnpm >/dev/null 2>&1 || npm i -g pnpm@9
+
+          if [ -f pnpm-lock.yaml ]; then
+            pnpm install --frozen-lockfile
           else
-            npm run build
+            pnpm install
           fi
+
+          pnpm run build
 
       - name: 📦 Upload artifacts (JSON)
         if: ${{ always() }}
