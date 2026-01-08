@@ -1,0 +1,62 @@
+name: Fix Astro pnpm lockfile (workspace/astro)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-astro-lock:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup PNPM 9
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+          cache-dependency-path: workspace/astro/pnpm-lock.yaml
+
+      - name: Ensure workspace/astro exists
+        run: |
+          if [ ! -f "workspace/astro/package.json" ]; then
+            echo "workspace/astro/package.json not found. Nothing to do."
+            exit 0
+          fi
+
+      - name: Generate/Update lockfile for workspace/astro (no node_modules)
+        run: |
+          set -euo pipefail
+          pnpm -C workspace/astro install --lockfile-only
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+
+          if [ ! -f "workspace/astro/pnpm-lock.yaml" ]; then
+            echo "No lockfile created in workspace/astro. Exiting."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet workspace/astro/pnpm-lock.yaml; then
+            echo "No changes in workspace/astro/pnpm-lock.yaml"
+            exit 0
+          fi
+
+          git add workspace/astro/pnpm-lock.yaml
+          git commit -m "chore(astro): add/update pnpm-lock.yaml for workspace/astro"
+          git push
