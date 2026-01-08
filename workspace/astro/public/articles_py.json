@@ -1,5 +1,54 @@
 [
   {
+    "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
+    "title_es": "Corrección del autor: conocimientos estructurales sobre la función del complejo BCDX2 en la recombinación homóloga",
+    "url": "https://www.nature.com/articles/s41586-025-10081-3",
+    "date": "2026-01-08",
+    "source": "Nature"
+  },
+  {
+    "title": "Meltwater Turns Iceberg A-23A Blue",
+    "title_es": "El agua de deshielo vuelve azul el Iceberg A-23A",
+    "url": "https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/",
+    "date": "2026-01-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Superconductors, an opportunity for science and society",
+    "title_es": "Superconductores, una oportunidad para la ciencia y la sociedad",
+    "url": "https://home.cern/news/news/knowledge-sharing/superconductors-opportunity-science-and-society",
+    "date": "2026-01-08",
+    "source": "CERN News"
+  },
+  {
+    "title": "Earth is bathed in droves of neutrinos spewed by the Milky Way’s stars",
+    "title_es": "La Tierra está bañada por manadas de neutrinos arrojados por las estrellas de la Vía Láctea",
+    "url": "https://www.sciencenews.org/article/neutrinos-milky-way-stars",
+    "date": "2026-01-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Hypnosis isn’t magic. It’s the brain at work",
+    "title_es": "La hipnosis no es magia. Es el cerebro en acción",
+    "url": "https://www.snexplores.org/article/hypnosis-brain-science",
+    "date": "2026-01-08",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists tried to break Einstein’s speed of light rule",
+    "title_es": "Los científicos intentaron romper la regla de la velocidad de la luz de Einstein",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
+    "date": "2026-01-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Ultrasonic sensor capable enables cuffless, non-invasive blood pressure measurement",
+    "title_es": "El sensor ultrasónico permite la medición de la presión arterial no invasiva y sin manguito",
+    "url": "https://phys.org/news/2026-01-ultrasonic-sensor-capable-enables-cuffless.html",
+    "date": "2026-01-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Algae Swirls Across a South African Reservoir",
     "title_es": "Algas se arremolinan en un embalse sudafricano",
     "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
@@ -19,6 +68,34 @@
     "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
     "date": "2026-01-07",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "A new index for frequency stability assessment in Low-Inertia Power Systems",
+    "title_es": "Un nuevo índice para la evaluación de la estabilidad de frecuencia en sistemas de energía de baja inercia",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Embedding Autonomous Agents in Resource-Constrained Robotic Platforms",
+    "title_es": "Integración de agentes autónomos en plataformas robóticas con recursos limitados",
+    "url": "http://arxiv.org/abs/2601.04191v1",
+    "date": "2026-01-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
+    "title_es": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
+    "url": "https://www.cnio.es/noticias/el-grupo-espanol-referente-en-la-investigacion-de-la-metastasis-cerebral-augura-avances-a-medio-plazo-que-mejoraran-la-vida-de-los-pacientes/",
+    "date": "2026-01-07",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-el-hallazgo-de-un-eslabon-perdido-de-la-formacion-planetaria\" hreflang=\"es\">El IAC participa en el hallazgo de un 'eslabón perdido' de la formación planetaria</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-el-hallazgo-de-un-eslabon-perdido-de-la-formacion-planetaria\" hreflang=\"es\">El IAC participa en el hallazgo de un 'eslabón perdido' de la formación planetaria</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-el-hallazgo-de-un-eslabon-perdido-de-la-formacion-planetaria",
+    "date": "2026-01-07",
+    "source": "IAC"
   },
   {
     "title": "Reaching the Precipice in Angola",
@@ -47,13 +124,6 @@
     "url": "https://phys.org/news/2025-12-metabolic-life-method-quantifies-hidden.html",
     "date": "2026-01-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
-    "title_es": "Carga económica de la sequía utilizando el enfoque de satisfacción con la vida: un estudio de caso de los habitantes de barrios marginales en el sureste de Irán",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents",

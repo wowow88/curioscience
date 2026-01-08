@@ -1,99 +1,107 @@
 [
   {
-    "title": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
-    "title_es": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
-    "url": "https://arxiv.org/abs/2601.02361",
-    "published": "2026-01-07T05:00:00.000Z",
-    "date": "2026-01-07",
+    "title": "Enhancing Retrieval-Augmented Generation with Two-Stage Retrieval: FlashRank Reranking and Query Expansion",
+    "title_es": "Enhancing Retrieval-Augmented Generation with Two-Stage Retrieval: FlashRank Reranking and Query Expansion",
+    "url": "https://arxiv.org/abs/2601.03258",
+    "published": "2026-01-08T05:00:00.000Z",
+    "date": "2026-01-08",
     "source": "arXiv"
   },
   {
-    "title": "Algae Swirls Across a South African Reservoir",
-    "title_es": "Algae Swirls Across a South African Reservoir",
-    "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
-    "published": "2026-01-07T05:00:00.000Z",
-    "date": "2026-01-07",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "This simple math trick could transform earthquake science",
-    "title_es": "This simple math trick could transform earthquake science",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260106001918.htm",
-    "published": "2026-01-07T04:15:15.000Z",
-    "date": "2026-01-07",
-    "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
-    "title_es": "Where a Saudi company pumps desert groundwater, Arizona considers imposing limits",
-    "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
-    "published": "2026-01-07T03:30:01.000Z",
-    "date": "2026-01-07",
-    "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
-    "title_es": "Historically Plausible Cipher Recreates Statistical Signature of Voynich Manuscript",
-    "url": "https://www.sci.news/othersciences/linguistics/voynich-manuscript-cipher-14466.html",
-    "published": "2026-01-07T00:54:49.000Z",
-    "date": "2026-01-07",
-    "source": "Sci.News"
-  },
-  {
-    "title": "The poetic life and death of a glow-worm",
-    "title_es": "The poetic life and death of a glow-worm",
-    "url": "https://www.nature.com/articles/d41586-025-03990-w",
-    "published": "2026-01-06T00:00:00.000Z",
-    "date": "2026-01-06",
+    "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
+    "title_es": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
+    "url": "https://www.nature.com/articles/s41586-025-10081-3",
+    "published": "2026-01-08T00:00:00.000Z",
+    "date": "2026-01-08",
     "source": "Nature"
   },
   {
-    "title": "Here’s the science behind nuclear weapons testing",
-    "title_es": "Here’s the science behind nuclear weapons testing",
-    "url": "https://www.sciencenews.org/article/nuclear-weapons-testing-explained-video",
-    "published": "2026-01-06T16:00:00.000Z",
-    "date": "2026-01-06",
+    "title": "Meltwater Turns Iceberg A-23A Blue",
+    "title_es": "Meltwater Turns Iceberg A-23A Blue",
+    "url": "https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/",
+    "published": "2026-01-08T05:01:00.000Z",
+    "date": "2026-01-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Superconductors, an opportunity for science and society",
+    "title_es": "Superconductors, an opportunity for science and society",
+    "url": "https://home.cern/news/news/knowledge-sharing/superconductors-opportunity-science-and-society",
+    "published": "2026-01-08T13:11:50.000Z",
+    "date": "2026-01-08",
+    "source": "CERN News"
+  },
+  {
+    "title": "Earth is bathed in droves of neutrinos spewed by the Milky Way’s stars",
+    "title_es": "Earth is bathed in droves of neutrinos spewed by the Milky Way’s stars",
+    "url": "https://www.sciencenews.org/article/neutrinos-milky-way-stars",
+    "published": "2026-01-08T15:30:00.000Z",
+    "date": "2026-01-08",
     "source": "Science News"
   },
   {
-    "title": "Woodpeckers grunt like tennis players when they peck",
-    "title_es": "Woodpeckers grunt like tennis players when they peck",
-    "url": "https://www.snexplores.org/article/woodpeckers-grunt-when-peck",
-    "published": "2026-01-06T11:30:00.000Z",
-    "date": "2026-01-06",
+    "title": "Hypnosis isn’t magic. It’s the brain at work",
+    "title_es": "Hypnosis isn’t magic. It’s the brain at work",
+    "url": "https://www.snexplores.org/article/hypnosis-brain-science",
+    "published": "2026-01-08T11:30:00.000Z",
+    "date": "2026-01-08",
     "source": "Science News Explores"
   },
   {
-    "title": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
-    "title_es": "Economic burden of drought using the life satisfaction approach: A case study of slum dwellers in southeast Iran",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-01-06T14:00:00.000Z",
-    "date": "2026-01-06",
-    "source": "PLOS ONE"
+    "title": "Scientists tried to break Einstein’s speed of light rule",
+    "title_es": "Scientists tried to break Einstein’s speed of light rule",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
+    "published": "2026-01-08T12:37:11.000Z",
+    "date": "2026-01-08",
+    "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
-    "title_es": "Early humans may have begun butchering elephants 1.8 million years ago",
-    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/",
-    "published": "2026-01-06T19:00:57.000Z",
-    "date": "2026-01-06",
+    "title": "Ultrasonic sensor capable enables cuffless, non-invasive blood pressure measurement",
+    "title_es": "Ultrasonic sensor capable enables cuffless, non-invasive blood pressure measurement",
+    "url": "https://phys.org/news/2026-01-ultrasonic-sensor-capable-enables-cuffless.html",
+    "published": "2026-01-08T16:23:41.000Z",
+    "date": "2026-01-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Red tattoo ink causes man to lose all his hair and stop sweating",
+    "title_es": "Red tattoo ink causes man to lose all his hair and stop sweating",
+    "url": "https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/",
+    "published": "2026-01-08T13:00:21.000Z",
+    "date": "2026-01-08",
     "source": "New Scientist"
   },
   {
-    "title": "Medical Examiners Group Issues Warning on Stillbirth Test",
-    "title_es": "Medical Examiners Group Issues Warning on Stillbirth Test",
-    "url": "https://undark.org/2026/01/06/stillbirth-test-warning/",
-    "published": "2026-01-06T08:26:00.000Z",
-    "date": "2026-01-06",
+    "title": "As Guidelines Shift, a Curious Debate Over Seed Oils Persists",
+    "title_es": "As Guidelines Shift, a Curious Debate Over Seed Oils Persists",
+    "url": "https://undark.org/2026/01/08/seed-oils-backlash-maha/",
+    "published": "2026-01-08T08:18:00.000Z",
+    "date": "2026-01-08",
     "source": "Undark Magazine"
   },
   {
-    "title": "CERN wishes you a happy 2026",
-    "title_es": "CERN wishes you a happy 2026",
-    "url": "https://home.cern/news/news/cern/cern-wishes-you-happy-2026",
-    "published": "2026-01-05T14:57:46.000Z",
-    "date": "2026-01-05",
-    "source": "CERN News"
+    "title": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
+    "title_es": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
+    "url": "https://www.cnio.es/noticias/el-grupo-espanol-referente-en-la-investigacion-de-la-metastasis-cerebral-augura-avances-a-medio-plazo-que-mejoraran-la-vida-de-los-pacientes/",
+    "published": "2026-01-07T10:54:17.000Z",
+    "date": "2026-01-07",
+    "source": "CNIO"
+  },
+  {
+    "title": "A new index for frequency stability assessment in Low-Inertia Power Systems",
+    "title_es": "A new index for frequency stability assessment in Low-Inertia Power Systems",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-01-07T14:00:00.000Z",
+    "date": "2026-01-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Europa’s Ocean Floor is Surprisingly Calm, New Modeling Study Suggests",
+    "title_es": "Europa’s Ocean Floor is Surprisingly Calm, New Modeling Study Suggests",
+    "url": "https://www.sci.news/space/europa-active-faulting-14469.html",
+    "published": "2026-01-07T23:07:53.000Z",
+    "date": "2026-01-07",
+    "source": "Sci.News"
   },
   {
     "title": "Rethinking intersex interventions",
@@ -102,14 +110,6 @@
     "published": "2026-01-01T07:00:11.000Z",
     "date": "2026-01-01",
     "source": "Science.org"
-  },
-  {
-    "title": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
-    "title_es": "Belenes, árboles y talento musical para crear Navidad en el CNIO",
-    "url": "https://www.cnio.es/noticias/galerias-es/belenes-arboles-y-talento-musical-para-crear-navidad-en-el-cnio/",
-    "published": "2025-12-19T16:45:31.000Z",
-    "date": "2025-12-19",
-    "source": "CNIO"
   },
   {
     "title": "La Fundación Isabel Gemio concede 60.000 euros a un proyecto de la investigadora del CNIC Henar Cuervo",
@@ -144,9 +144,9 @@
     "source": "SciPost News"
   },
   {
-    "title": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
-    "title_es": "Tensorization of neural networks for improved privacy and interpretability, by José Ramón Pareja Monturiol, Alejandro Pozas-Kerstjens, David Pérez-García",
-    "url": "https://scipost.org/scipostphyscore.8.4.095",
+    "title": "The fate of entanglement, by Gilles Parez, William Witczak-Krempa",
+    "title_es": "The fate of entanglement, by Gilles Parez, William Witczak-Krempa",
+    "url": "https://scipost.org/scipostphys.20.1.002",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
