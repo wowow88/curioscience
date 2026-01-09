@@ -1,11 +1,43 @@
 [
   {
-    "title": "Enhancing Retrieval-Augmented Generation with Two-Stage Retrieval: FlashRank Reranking and Query Expansion",
-    "title_es": "Enhancing Retrieval-Augmented Generation with Two-Stage Retrieval: FlashRank Reranking and Query Expansion",
-    "url": "https://arxiv.org/abs/2601.03258",
-    "published": "2026-01-08T05:00:00.000Z",
-    "date": "2026-01-08",
+    "title": "MedPI: Evaluating AI Systems in Medical Patient-facing Interactions",
+    "title_es": "MedPI: Evaluating AI Systems in Medical Patient-facing Interactions",
+    "url": "https://arxiv.org/abs/2601.04195",
+    "published": "2026-01-09T05:00:00.000Z",
+    "date": "2026-01-09",
     "source": "arXiv"
+  },
+  {
+    "title": "Ganges Delta Under a Winter Shroud of Fog",
+    "title_es": "Ganges Delta Under a Winter Shroud of Fog",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/",
+    "published": "2026-01-09T05:00:00.000Z",
+    "date": "2026-01-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Roads can become more dangerous on hot days—especially for pedestrians, cyclists and motorcyclists",
+    "title_es": "Roads can become more dangerous on hot days—especially for pedestrians, cyclists and motorcyclists",
+    "url": "https://phys.org/news/2026-01-roads-dangerous-hot-days-pedestrians.html",
+    "published": "2026-01-09T01:50:01.000Z",
+    "date": "2026-01-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "ALMA Detects Superheated Intracluster Gas in Distant Galaxy Protocluster",
+    "title_es": "ALMA Detects Superheated Intracluster Gas in Distant Galaxy Protocluster",
+    "url": "https://www.sci.news/astronomy/alma-superheated-intracluster-gas-distant-galaxy-protocluster-14471.html",
+    "published": "2026-01-09T00:15:37.000Z",
+    "date": "2026-01-09",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Rethinking drug use and addiction",
+    "title_es": "Rethinking drug use and addiction",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7911",
+    "published": "2026-01-08T07:00:05.000Z",
+    "date": "2026-01-08",
+    "source": "Science.org"
   },
   {
     "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
@@ -16,14 +48,6 @@
     "source": "Nature"
   },
   {
-    "title": "Meltwater Turns Iceberg A-23A Blue",
-    "title_es": "Meltwater Turns Iceberg A-23A Blue",
-    "url": "https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/",
-    "published": "2026-01-08T05:01:00.000Z",
-    "date": "2026-01-08",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "Superconductors, an opportunity for science and society",
     "title_es": "Superconductors, an opportunity for science and society",
     "url": "https://home.cern/news/news/knowledge-sharing/superconductors-opportunity-science-and-society",
@@ -32,10 +56,10 @@
     "source": "CERN News"
   },
   {
-    "title": "Earth is bathed in droves of neutrinos spewed by the Milky Way’s stars",
-    "title_es": "Earth is bathed in droves of neutrinos spewed by the Milky Way’s stars",
-    "url": "https://www.sciencenews.org/article/neutrinos-milky-way-stars",
-    "published": "2026-01-08T15:30:00.000Z",
+    "title": "What science says about the Trump administration’s new vaccine schedule",
+    "title_es": "What science says about the Trump administration’s new vaccine schedule",
+    "url": "https://www.sciencenews.org/article/vaccine-schedule-trump-science",
+    "published": "2026-01-08T23:09:04.000Z",
     "date": "2026-01-08",
     "source": "Science News"
   },
@@ -56,18 +80,18 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Ultrasonic sensor capable enables cuffless, non-invasive blood pressure measurement",
-    "title_es": "Ultrasonic sensor capable enables cuffless, non-invasive blood pressure measurement",
-    "url": "https://phys.org/news/2026-01-ultrasonic-sensor-capable-enables-cuffless.html",
-    "published": "2026-01-08T16:23:41.000Z",
+    "title": "Sepsis under pressure, intraoperative surgical site infection prevention practices among nurses in emergency surgical settings: A qualitative study",
+    "title_es": "Sepsis under pressure, intraoperative surgical site infection prevention practices among nurses in emergency surgical settings: A qualitative study",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-01-08T14:00:00.000Z",
     "date": "2026-01-08",
-    "source": "Phys.org (Latest)"
+    "source": "PLOS ONE"
   },
   {
-    "title": "Red tattoo ink causes man to lose all his hair and stop sweating",
-    "title_es": "Red tattoo ink causes man to lose all his hair and stop sweating",
-    "url": "https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/",
-    "published": "2026-01-08T13:00:21.000Z",
+    "title": "Tree bark microbiome has important overlooked role in climate",
+    "title_es": "Tree bark microbiome has important overlooked role in climate",
+    "url": "https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/",
+    "published": "2026-01-08T19:00:18.000Z",
     "date": "2026-01-08",
     "source": "New Scientist"
   },
@@ -86,30 +110,6 @@
     "published": "2026-01-07T10:54:17.000Z",
     "date": "2026-01-07",
     "source": "CNIO"
-  },
-  {
-    "title": "A new index for frequency stability assessment in Low-Inertia Power Systems",
-    "title_es": "A new index for frequency stability assessment in Low-Inertia Power Systems",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-01-07T14:00:00.000Z",
-    "date": "2026-01-07",
-    "source": "PLOS ONE"
-  },
-  {
-    "title": "Europa’s Ocean Floor is Surprisingly Calm, New Modeling Study Suggests",
-    "title_es": "Europa’s Ocean Floor is Surprisingly Calm, New Modeling Study Suggests",
-    "url": "https://www.sci.news/space/europa-active-faulting-14469.html",
-    "published": "2026-01-07T23:07:53.000Z",
-    "date": "2026-01-07",
-    "source": "Sci.News"
-  },
-  {
-    "title": "Rethinking intersex interventions",
-    "title_es": "Rethinking intersex interventions",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeb5814",
-    "published": "2026-01-01T07:00:11.000Z",
-    "date": "2026-01-01",
-    "source": "Science.org"
   },
   {
     "title": "La Fundación Isabel Gemio concede 60.000 euros a un proyecto de la investigadora del CNIC Henar Cuervo",

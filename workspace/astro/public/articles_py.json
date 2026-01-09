@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ganges Delta Under a Winter Shroud of Fog",
+    "title_es": "Delta del Ganges bajo un manto de niebla invernal",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/",
+    "date": "2026-01-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Roads can become more dangerous on hot days—especially for pedestrians, cyclists and motorcyclists",
+    "title_es": "Las carreteras pueden volverse más peligrosas en los días calurosos, especialmente para peatones, ciclistas y motociclistas.",
+    "url": "https://phys.org/news/2026-01-roads-dangerous-hot-days-pedestrians.html",
+    "date": "2026-01-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
     "title_es": "Corrección del autor: conocimientos estructurales sobre la función del complejo BCDX2 en la recombinación homóloga",
     "url": "https://www.nature.com/articles/s41586-025-10081-3",
@@ -49,6 +63,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Sepsis under pressure, intraoperative surgical site infection prevention practices among nurses in emergency surgical settings: A qualitative study",
+    "title_es": "Sepsis bajo presión, prácticas de prevención de infecciones del sitio quirúrgico intraoperatorio entre enfermeras en entornos quirúrgicos de emergencia: un estudio cualitativo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-08",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "title_es": "GDPO: Optimización de la política de normalización desacoplada de recompensas grupales para la optimización de RL de recompensas múltiples",
+    "url": "http://arxiv.org/abs/2601.05242v1",
+    "date": "2026-01-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Rethinking drug use and addiction",
+    "title_es": "Repensar el consumo de drogas y la adicción",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7911",
+    "date": "2026-01-08",
+    "source": "Science.org"
+  },
+  {
+    "title": "What science says about the Trump administration’s new vaccine schedule",
+    "title_es": "Lo que dice la ciencia sobre el nuevo calendario de vacunas de la administración Trump",
+    "url": "https://www.sciencenews.org/article/vaccine-schedule-trump-science",
+    "date": "2026-01-08",
+    "source": "Science News"
+  },
+  {
     "title": "Algae Swirls Across a South African Reservoir",
     "title_es": "Algas se arremolinan en un embalse sudafricano",
     "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
@@ -68,13 +110,6 @@
     "url": "https://phys.org/news/2026-01-saudi-company-groundwater-arizona-imposing.html",
     "date": "2026-01-07",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "A new index for frequency stability assessment in Low-Inertia Power Systems",
-    "title_es": "Un nuevo índice para la evaluación de la estabilidad de frecuencia en sistemas de energía de baja inercia",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-07",
-    "source": "PLOS ONE"
   },
   {
     "title": "Embedding Autonomous Agents in Resource-Constrained Robotic Platforms",

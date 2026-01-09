@@ -1,5 +1,45 @@
 [
   {
+    "title": "MedPI: Evaluating AI Systems in Medical Patient-facing Interactions",
+    "title_es": "MedPI: Evaluating AI Systems in Medical Patient-facing Interactions",
+    "url": "https://arxiv.org/abs/2601.04195",
+    "published": "2026-01-09T05:00:00.000Z",
+    "date": "2026-01-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "ALMA Detects Superheated Intracluster Gas in Distant Galaxy Protocluster",
+    "title_es": "ALMA Detects Superheated Intracluster Gas in Distant Galaxy Protocluster",
+    "url": "https://www.sci.news/astronomy/alma-superheated-intracluster-gas-distant-galaxy-protocluster-14471.html",
+    "published": "2026-01-09T00:15:37.000Z",
+    "date": "2026-01-09",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Ganges Delta Under a Winter Shroud of Fog",
+    "title_es": "Delta del Ganges bajo un manto de niebla invernal",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/",
+    "date": "2026-01-09",
+    "source": "NASA (Top News)",
+    "published": "2026-01-09T00:00:00.000Z"
+  },
+  {
+    "title": "Roads can become more dangerous on hot days—especially for pedestrians, cyclists and motorcyclists",
+    "title_es": "Las carreteras pueden volverse más peligrosas en los días calurosos, especialmente para peatones, ciclistas y motociclistas.",
+    "url": "https://phys.org/news/2026-01-roads-dangerous-hot-days-pedestrians.html",
+    "date": "2026-01-09",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-09T00:00:00.000Z"
+  },
+  {
+    "title": "Tree bark microbiome has important overlooked role in climate",
+    "title_es": "Tree bark microbiome has important overlooked role in climate",
+    "url": "https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/",
+    "published": "2026-01-08T19:00:18.000Z",
+    "date": "2026-01-08",
+    "source": "New Scientist"
+  },
+  {
     "title": "Red tattoo ink causes man to lose all his hair and stop sweating",
     "title_es": "Red tattoo ink causes man to lose all his hair and stop sweating",
     "url": "https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/",
@@ -77,6 +117,30 @@
     "url": "https://phys.org/news/2026-01-ultrasonic-sensor-capable-enables-cuffless.html",
     "date": "2026-01-08",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "title_es": "GDPO: Optimización de la política de normalización desacoplada de recompensas grupales para la optimización de RL de recompensas múltiples",
+    "url": "http://arxiv.org/abs/2601.05242v1",
+    "date": "2026-01-08",
+    "source": "arXiv",
+    "published": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "title": "Rethinking drug use and addiction",
+    "title_es": "Repensar el consumo de drogas y la adicción",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7911",
+    "date": "2026-01-08",
+    "source": "Science.org",
+    "published": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "title": "What science says about the Trump administration’s new vaccine schedule",
+    "title_es": "Lo que dice la ciencia sobre el nuevo calendario de vacunas de la administración Trump",
+    "url": "https://www.sciencenews.org/article/vaccine-schedule-trump-science",
+    "date": "2026-01-08",
+    "source": "Science News",
     "published": "2026-01-08T00:00:00.000Z"
   },
   {
@@ -14559,8 +14623,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A new index for frequency stability assessment in Low-Inertia Power Systems",
-    "title_es": "Un nuevo índice para la evaluación de la estabilidad de frecuencia en sistemas de energía de baja inercia",
+    "title": "Sepsis under pressure, intraoperative surgical site infection prevention practices among nurses in emergency surgical settings: A qualitative study",
+    "title_es": "Sepsis bajo presión, prácticas de prevención de infecciones del sitio quirúrgico intraoperatorio entre enfermeras en entornos quirúrgicos de emergencia: un estudio cualitativo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
