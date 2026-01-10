@@ -1,5 +1,26 @@
 [
   {
+    "title": "Final Steps Underway for NASA’s First Crewed Artemis Moon Mission",
+    "title_es": "Pasos finales en marcha para la primera misión lunar Artemisa tripulada de la NASA",
+    "url": "https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/",
+    "date": "2026-01-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Betelgeuse has a hidden companion and Hubble just caught its wake",
+    "title_es": "Betelgeuse tiene un compañero oculto y el Hubble acaba de captar su estela",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260109235153.htm",
+    "date": "2026-01-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Loss functions and constraints improve sea surface height prediction",
+    "title_es": "Las funciones y restricciones de pérdida mejoran la predicción de la altura de la superficie del mar",
+    "url": "https://phys.org/news/2026-01-loss-functions-constraints-sea-surface.html",
+    "date": "2026-01-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ganges Delta Under a Winter Shroud of Fog",
     "title_es": "Delta del Ganges bajo un manto de niebla invernal",
     "url": "https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-01-roads-dangerous-hot-days-pedestrians.html",
     "date": "2026-01-09",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Machine learning analysis based on deep learning for fatigue diagnostics in carbon fiber reinforced polymers",
+    "title_es": "Análisis de aprendizaje automático basado en aprendizaje profundo para diagnóstico de fatiga en polímeros reforzados con fibra de carbono",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "This shapeshifting polymer was inspired by octopus skin",
+    "title_es": "Este polímero que cambia de forma se inspiró en la piel de pulpo",
+    "url": "https://www.nature.com/articles/d41586-026-00101-1",
+    "date": "2026-01-09",
+    "source": "Nature"
+  },
+  {
+    "title": "La ministra de Sanidad visita el CNIC para conocer los últimos avances en investigación cardiovascular",
+    "title_es": "La ministra de Sanidad visita el CNIC para conocer los últimos avances en investigación cardiovascular",
+    "url": "https://www.cnic.es/es/noticias/ministra-sanidad-visita-cnic-para-conocer-ultimos-avances-investigacion-cardiovascular",
+    "date": "2026-01-09",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-profundiza-en-como-se-descubren-otras-tierras-en-la-emision-de-este\" hreflang=\"es\">El programa Soñando Estrellas profundiza en cómo se descubren otras Tierras en la emisión de este viernes 9 de enero</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-profundiza-en-como-se-descubren-otras-tierras-en-la-emision-de-este\" hreflang=\"es\">El programa Soñando Estrellas profundiza en cómo se descubren otras Tierras en la emisión de este viernes 9 de enero</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-profundiza-en-como-se-descubren-otras-tierras-en-la-emision-de-este",
+    "date": "2026-01-09",
+    "source": "IAC"
+  },
+  {
+    "title": "An all-female wasp is rapidly spreading across North America’s elms",
+    "title_es": "Una avispa exclusivamente hembra se está extendiendo rápidamente por los olmos de América del Norte",
+    "url": "https://www.sciencenews.org/article/elm-zigzag-sawfly-wasp-infestation",
+    "date": "2026-01-09",
+    "source": "Science News"
+  },
+  {
+    "title": "Newfound fossil is not a teen T. rex but a whole new species",
+    "title_es": "El fósil recién descubierto no es un T. rex adolescente sino una especie completamente nueva",
+    "url": "https://www.snexplores.org/article/fossil-new-tyrannosaur-not-t-rex",
+    "date": "2026-01-09",
+    "source": "Science News Explores"
   },
   {
     "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
@@ -61,13 +124,6 @@
     "url": "https://phys.org/news/2026-01-ultrasonic-sensor-capable-enables-cuffless.html",
     "date": "2026-01-08",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Sepsis under pressure, intraoperative surgical site infection prevention practices among nurses in emergency surgical settings: A qualitative study",
-    "title_es": "Sepsis bajo presión, prácticas de prevención de infecciones del sitio quirúrgico intraoperatorio entre enfermeras en entornos quirúrgicos de emergencia: un estudio cualitativo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-08",
-    "source": "PLOS ONE"
   },
   {
     "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
