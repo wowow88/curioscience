@@ -43,8 +43,13 @@ SOURCES = [
 ("DOAJ", "API_DOAJ"),
 ("CORE", "API_CORE"),
 ("OA.mg", "API_OAMG"),
+# === Fuentes API (ciencia y curiosidades) ===
+("NASA APOD",           "API:https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"),
+("ISS Position",        "API:http://api.open-notify.org/iss-now.json"),
+("SpaceX Launches",     "API:https://api.spacexdata.com/v5/launches/latest"),
+("Numbers Fact",        "API:http://numbersapi.com/random/trivia?json"),
+("Newton (Derivada)",   "API:https://newton.vercel.app/api/v2/derive/x^2"),
 ]
-
 def backup_previous_version():
     os.makedirs(BACKUP_DIR, exist_ok=True)
     if os.path.exists(FINAL_PATH):
