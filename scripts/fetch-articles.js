@@ -82,6 +82,69 @@ const EXTRA_SOURCES = [
   { name: "Agencia SINC - Ciencia", url: "https://www.agenciasinc.es/rss/ciencia" },
 ];
 const API_SOURCES = [
+{
+name: "NASA APOD",
+url: "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+},
+{
+name: "ISS Position",
+url: "http://api.open-notify.org/iss-now.json"
+},
+{
+name: "SpaceX Launches",
+url: "https://api.spacexdata.com/v5/launches/latest"
+},
+{
+name: "Numbers Fact",
+url: "http://numbersapi.com/random/trivia?json"
+},
+{
+name: "Newton (Derivada)",
+url: "https://newton.vercel.app/api/v2/derive/x^2"
+}
+];
+
+
+// Función genérica para las nuevas APIs
+async function fetchFromAPI(source) {
+try {
+const res = await fetch(source.url);
+if (!res.ok) throw new Error(res.status);
+const data = await res.json();
+
+
+switch (source.name) {
+case "NASA APOD":
+return article(data.title, data.url || data.hdurl, source.name);
+case "ISS Position":
+return article("ISS Current Position", `https://www.latlong.net/c/?lat=${data.iss_position.latitude}&long=${data.iss_position.longitude}`, source.name);
+case "SpaceX Launches":
+return article(data.name, data.links.webcast || "https://spacex.com", source.name);
+case "Numbers Fact":
+return article(data.text, "http://numbersapi.com", source.name);
+case "Newton (Derivada)":
+return article(`Derivada de x^2: ${data.result}`, "https://newton.now.sh", source.name);
+}
+} catch (e) {
+console.warn(`[${source.name}] API error:`, e.message);
+}
+return null;
+}
+
+
+// En tu main(), después del bucle principal
+for (const src of API_SOURCES) {
+const art = await fetchFromAPI(src);
+if (art && art.url && !seen.has(normUrl(art.url))) {
+picked.push(art);
+seen.add(normUrl(art.url));
+perSrcCount.set(src.name, 1);
+console.log(` [${src.name}] tomado: 1`);
+} else {
+console.log(` [${src.name}] tomado: 0`);
+}
+}
+const API_SOURCES = [
   { name: "DOAJ", url: "https://doaj.org/api/v2/search/articles?q=science&pageSize=1" },
   { name: "CORE", url: "https://core.ac.uk:443/api-v2/search/articles?q=science&page=1&pageSize=1" },
   { name: "OA.mg", url: "https://api.oa.mg/v1/papers/search?q=science&limit=1" },
