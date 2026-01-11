@@ -8,6 +8,22 @@
     "published": "2026-01-11T00:00:00.000Z"
   },
   {
+    "title": "This wild fruit is getting a CRISPR makeover",
+    "title_es": "Esta fruta silvestre se renueva con CRISPR",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
+    "date": "2026-01-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-11T00:00:00.000Z"
+  },
+  {
+    "title": "A new AI tool could dramatically speed up the discovery of life-saving medicines",
+    "title_es": "Una nueva herramienta de inteligencia artificial podría acelerar drásticamente el descubrimiento de medicamentos que salvan vidas",
+    "url": "https://phys.org/news/2026-01-ai-tool-discovery-life-medicines.html",
+    "date": "2026-01-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-11T00:00:00.000Z"
+  },
+  {
     "title": "Final Steps Underway for NASA’s First Crewed Artemis Moon Mission",
     "title_es": "Pasos finales en marcha para la primera misión lunar Artemisa tripulada de la NASA",
     "url": "https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/",
@@ -262,6 +278,14 @@
     "published": "2026-01-07T23:07:53.000Z",
     "date": "2026-01-07",
     "source": "Sci.News"
+  },
+  {
+    "title": "How rethinking your relationship with time could give you more of it",
+    "title_es": "How rethinking your relationship with time could give you more of it",
+    "url": "https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/",
+    "published": "2026-01-07T16:00:13.000Z",
+    "date": "2026-01-07",
+    "source": "New Scientist"
   },
   {
     "title": "GCRank: A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
@@ -48012,5 +48036,29 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
+  },
+  {
+    "title": "Crew-5",
+    "title_es": "Crew-5",
+    "url": "https://youtu.be/5eww8zkarl4",
+    "date": "",
+    "published": "",
+    "source": "SpaceX Launches"
+  },
+  {
+    "title": "Derivada de x^2: 2 x",
+    "title_es": "Derivada de x^2: 2 x",
+    "url": "https://newton.now.sh/",
+    "date": "",
+    "published": "",
+    "source": "Newton (Derivada)"
   }
 ]
