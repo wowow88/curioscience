@@ -1,5 +1,13 @@
 [
   {
+    "title": "SP-Rank: A Dataset for Ranked Preferences with Secondary Information",
+    "title_es": "SP-Rank: A Dataset for Ranked Preferences with Secondary Information",
+    "url": "https://arxiv.org/abs/2601.05253",
+    "published": "2026-01-12T05:00:00.000Z",
+    "date": "2026-01-12",
+    "source": "arXiv"
+  },
+  {
     "title": "Rethinking drug use and addiction",
     "title_es": "Rethinking drug use and addiction",
     "url": "https://www.science.org/doi/abs/10.1126/science.aec7911",
@@ -24,19 +32,11 @@
     "source": "CNIC"
   },
   {
-    "title": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
-    "title_es": "El grupo español referente en la investigación de la metástasis cerebral augura avances a medio plazo que mejorarán la vida de los pacientes",
-    "url": "https://www.cnio.es/noticias/el-grupo-espanol-referente-en-la-investigacion-de-la-metastasis-cerebral-augura-avances-a-medio-plazo-que-mejoraran-la-vida-de-los-pacientes/",
-    "published": "2026-01-07T10:54:17.000Z",
-    "date": "2026-01-07",
-    "source": "CNIO"
-  },
-  {
-    "title": "NASA Marshall Removes 2 Historic Test Stands",
-    "title_es": "NASA Marshall Removes 2 Historic Test Stands",
-    "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/",
-    "published": "2026-01-10T21:01:09.000Z",
-    "date": "2026-01-10",
+    "title": "Susan Schuh: Supporting the Humans in Human Spaceflight",
+    "title_es": "Susan Schuh: Supporting the Humans in Human Spaceflight",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/",
+    "published": "2026-01-12T01:00:00.000Z",
+    "date": "2026-01-12",
     "source": "NASA (Top News)"
   },
   {
@@ -72,18 +72,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This wild fruit is getting a CRISPR makeover",
-    "title_es": "This wild fruit is getting a CRISPR makeover",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
-    "published": "2026-01-11T07:08:13.000Z",
-    "date": "2026-01-11",
+    "title": "A massive gene hunt reveals how brain cells are made",
+    "title_es": "A massive gene hunt reveals how brain cells are made",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+    "published": "2026-01-12T02:49:42.000Z",
+    "date": "2026-01-12",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "A new AI tool could dramatically speed up the discovery of life-saving medicines",
-    "title_es": "A new AI tool could dramatically speed up the discovery of life-saving medicines",
-    "url": "https://phys.org/news/2026-01-ai-tool-discovery-life-medicines.html",
-    "published": "2026-01-11T16:20:01.000Z",
+    "title": "Scores of homes razed, one dead in Australian bushfires",
+    "title_es": "Scores of homes razed, one dead in Australian bushfires",
+    "url": "https://phys.org/news/2026-01-scores-homes-razed-dead-australian.html",
+    "published": "2026-01-11T19:08:32.000Z",
     "date": "2026-01-11",
     "source": "Phys.org (Latest)"
   },
@@ -122,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-32.6258&long=-158.9093",
+    "url": "https://www.latlong.net/c/?lat=18.4114&long=166.5535",
     "date": "",
     "published": "",
     "source": "ISS Position"

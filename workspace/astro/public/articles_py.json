@@ -1,5 +1,19 @@
 [
   {
+    "title": "Susan Schuh: Supporting the Humans in Human Spaceflight",
+    "title_es": "Susan Schuh: Apoyando a los humanos en los vuelos espaciales tripulados",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/",
+    "date": "2026-01-12",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A massive gene hunt reveals how brain cells are made",
+    "title_es": "Una búsqueda masiva de genes revela cómo se forman las células cerebrales",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+    "date": "2026-01-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "A never-before-seen creature has been found in the Great Salt Lake",
     "title_es": "Hallan una criatura nunca antes vista en el Gran Lago Salado",
     "url": "https://www.sciencedaily.com/releases/2026/01/260110211227.htm",
@@ -17,6 +31,13 @@
     "title": "A new AI tool could dramatically speed up the discovery of life-saving medicines",
     "title_es": "Una nueva herramienta de inteligencia artificial podría acelerar drásticamente el descubrimiento de medicamentos que salvan vidas",
     "url": "https://phys.org/news/2026-01-ai-tool-discovery-life-medicines.html",
+    "date": "2026-01-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Scores of homes razed, one dead in Australian bushfires",
+    "title_es": "Decenas de casas arrasadas y un muerto en incendios forestales en Australia",
+    "url": "https://phys.org/news/2026-01-scores-homes-razed-dead-australian.html",
     "date": "2026-01-11",
     "source": "Phys.org (Latest)"
   },
@@ -110,6 +131,13 @@
     "url": "https://www.snexplores.org/article/fossil-new-tyrannosaur-not-t-rex",
     "date": "2026-01-09",
     "source": "Science News Explores"
+  },
+  {
+    "title": "AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs",
+    "title_es": "AdaFuse: decodificación de conjunto adaptativo con escala de tiempo de prueba para LLM",
+    "url": "http://arxiv.org/abs/2601.06022v1",
+    "date": "2026-01-09",
+    "source": "arXiv"
   },
   {
     "title": "Author Correction: Structural insights into BCDX2 complex function in homologous recombination",
