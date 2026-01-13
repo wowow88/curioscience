@@ -1,5 +1,19 @@
 [
   {
+    "title": "A Plume of Bright Blue in Melissa’s Wake",
+    "title_es": "Un penacho de azul brillante tras la estela de Melissa",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/",
+    "date": "2026-01-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Racial bias is at play in overrepresentation of Black youth in Canadian child welfare systems",
+    "title_es": "El prejuicio racial influye en la sobrerrepresentación de los jóvenes negros en los sistemas de bienestar infantil canadienses",
+    "url": "https://phys.org/news/2026-01-racial-bias-play-overrepresentation-black.html",
+    "date": "2026-01-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Susan Schuh: Supporting the Humans in Human Spaceflight",
     "title_es": "Susan Schuh: Apoyando a los humanos en los vuelos espaciales tripulados",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/",
@@ -10,6 +24,62 @@
     "title": "A massive gene hunt reveals how brain cells are made",
     "title_es": "Una búsqueda masiva de genes revela cómo se forman las células cerebrales",
     "url": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+    "date": "2026-01-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Prevalence, demographic factors, co-morbidities, and treatment types associated with acanthosis nigricans in a large cross-section of 900<sup>+</sup> transmasculine patients: Data from a single academic center 2016–2023",
+    "title_es": "Prevalencia, factores demográficos, comorbilidades y tipos de tratamiento asociados con la acantosis nigricans en una gran muestra representativa de 900<sup>+</sup> pacientes transmasculinos: datos de un solo centro académico 2016-2023",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-12",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head",
+    "title_es": "MHLA: Restauración de la expresividad de la atención lineal a través de múltiples cabezales a nivel de token",
+    "url": "http://arxiv.org/abs/2601.07832v1",
+    "date": "2026-01-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Developing super-tortillas to address malnutrition in Latin America",
+    "title_es": "Desarrollando súper tortillas para abordar la desnutrición en América Latina",
+    "url": "https://www.nature.com/articles/d41586-026-00087-w",
+    "date": "2026-01-12",
+    "source": "Nature"
+  },
+  {
+    "title": "Una investigación del CNIO halla nuevos genes que predisponen al cáncer de páncreas",
+    "title_es": "Una investigación del CNIO halla nuevos genes que predisponen al cáncer de páncreas",
+    "url": "https://www.cnio.es/noticias/una-investigacion-del-cnio-halla-nuevos-genes-que-predisponen-al-cancer-de-pancreas/",
+    "date": "2026-01-12",
+    "source": "CNIO"
+  },
+  {
+    "title": "ALICE welcomes its new management",
+    "title_es": "ALICE da la bienvenida a su nueva dirección",
+    "url": "https://home.cern/news/news/experiments/alice-welcomes-its-new-management",
+    "date": "2026-01-12",
+    "source": "CERN News"
+  },
+  {
+    "title": "Queen bumblebees are poor foragers thanks to sparse tongue hair",
+    "title_es": "Los abejorros reina son pobres recolectores gracias al escaso pelo de la lengua",
+    "url": "https://www.sciencenews.org/article/queen-bumblebees-tongue-hair-foraging",
+    "date": "2026-01-12",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists finally know why ice is so slippery",
+    "title_es": "Los científicos finalmente saben por qué el hielo es tan resbaladizo",
+    "url": "https://www.snexplores.org/article/why-ice-is-slippery",
+    "date": "2026-01-12",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A hidden brain signal may reveal Alzheimer’s long before diagnosis",
+    "title_es": "Una señal cerebral oculta puede revelar la enfermedad de Alzheimer mucho antes del diagnóstico",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
     "date": "2026-01-12",
     "source": "ScienceDaily (Top)"
   },
@@ -89,13 +159,6 @@
     "url": "https://phys.org/news/2026-01-roads-dangerous-hot-days-pedestrians.html",
     "date": "2026-01-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Machine learning analysis based on deep learning for fatigue diagnostics in carbon fiber reinforced polymers",
-    "title_es": "Análisis de aprendizaje automático basado en aprendizaje profundo para diagnóstico de fatiga en polímeros reforzados con fibra de carbono",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "This shapeshifting polymer was inspired by octopus skin",
