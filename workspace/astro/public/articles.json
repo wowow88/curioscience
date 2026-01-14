@@ -1,5 +1,61 @@
 [
   {
+    "title": "A survey: Information search time optimization based on RAG (Retrieval Augmentation Generation) chatbot",
+    "title_es": "A survey: Information search time optimization based on RAG (Retrieval Augmentation Generation) chatbot",
+    "url": "https://arxiv.org/abs/2601.07838",
+    "published": "2026-01-14T05:00:00.000Z",
+    "date": "2026-01-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fire on Ice: The Arctic’s Changing Fire Regime",
+    "title_es": "Fuego sobre hielo: el cambiante régimen de incendios del Ártico",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/",
+    "date": "2026-01-14",
+    "source": "NASA (Top News)",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Earth’s last 3 years were its hottest on record",
+    "title_es": "Los últimos 3 años de la Tierra fueron los más calurosos registrados",
+    "url": "https://www.sciencenews.org/article/last-3-years-hottest-on-record-temp",
+    "date": "2026-01-14",
+    "source": "Science News",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Nature-based solutions? When more parks don't mean less heat risk",
+    "title_es": "¿Soluciones basadas en la naturaleza? Cuando más parques no significan menos riesgo de calor",
+    "url": "https://phys.org/news/2026-01-nature-based-solutions-dont.html",
+    "date": "2026-01-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "These small lifestyle tweaks can add a year to your life",
+    "title_es": "These small lifestyle tweaks can add a year to your life",
+    "url": "https://www.newscientist.com/article/2511292-these-small-lifestyle-tweaks-can-add-a-year-to-your-life/",
+    "published": "2026-01-13T23:30:15.000Z",
+    "date": "2026-01-13",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Enigmatic Hominins May Have Overlapped with Homo sapiens on Sulawesi",
+    "title_es": "Enigmatic Hominins May Have Overlapped with Homo sapiens on Sulawesi",
+    "url": "https://www.sci.news/archaeology/sulawesi-hominins-14482.html",
+    "published": "2026-01-13T23:12:21.000Z",
+    "date": "2026-01-13",
+    "source": "Sci.News"
+  },
+  {
+    "title": "What Would a Trump Takeover Mean for Greenland’s Resources?",
+    "title_es": "What Would a Trump Takeover Mean for Greenland’s Resources?",
+    "url": "https://undark.org/2026/01/13/trump-greenland-environment/",
+    "published": "2026-01-13T08:42:00.000Z",
+    "date": "2026-01-13",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Data-Driven Framework Development for Public Space Quality Assessment",
     "title_es": "Data-Driven Framework Development for Public Space Quality Assessment",
     "url": "https://arxiv.org/abs/2601.06026",
@@ -29,6 +85,54 @@
     "url": "https://phys.org/news/2026-01-racial-bias-play-overrepresentation-black.html",
     "date": "2026-01-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System",
+    "title_es": "Modelado de la dinámica del revisor del agente LLM en el sistema de revisión clasificado Elo",
+    "url": "http://arxiv.org/abs/2601.08829v1",
+    "date": "2026-01-13",
+    "source": "arXiv",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "No world-changing discoveries without biodiversity",
+    "title_es": "No hay descubrimientos que cambien el mundo sin biodiversidad",
+    "url": "https://www.nature.com/articles/d41586-026-00122-w",
+    "date": "2026-01-13",
+    "source": "Nature",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIO refuerza la inteligencia artificial y la investigación clínica para que los avances lleguen antes a las personas con cáncer",
+    "title_es": "El CNIO refuerza la inteligencia artificial y la investigación clínica para que los avances lleguen antes a las personas con cáncer",
+    "url": "https://www.cnio.es/noticias/el-cnio-refuerza-la-inteligencia-artificial-y-la-investigacion-clinica-para-que-los-avances-lleguen-antes-a-las-personas-con-cancer/",
+    "date": "2026-01-13",
+    "source": "CNIO",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "Advancing cancer therapy with next-gen radionuclides",
+    "title_es": "Avances en la terapia contra el cáncer con radionucleidos de próxima generación",
+    "url": "https://home.cern/news/news/knowledge-sharing/advancing-cancer-therapy-next-gen-radionuclides",
+    "date": "2026-01-13",
+    "source": "CERN News",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn about life forms that have survived in space",
+    "title_es": "Aprendamos sobre las formas de vida que han sobrevivido en el espacio.",
+    "url": "https://www.snexplores.org/article/lets-learn-about-life-forms-that-have-survived-in-space",
+    "date": "2026-01-13",
+    "source": "Science News Explores",
+    "published": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "This AI spots dangerous blood cells doctors often miss",
+    "title_es": "Esta IA detecta células sanguíneas peligrosas que los médicos suelen pasar por alto",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260112214317.htm",
+    "date": "2026-01-13",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-13T00:00:00.000Z"
   },
   {
@@ -14895,8 +14999,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Prevalence, demographic factors, co-morbidities, and treatment types associated with acanthosis nigricans in a large cross-section of 900 + transmasculine patients: Data from a single academic center 2016–2023",
-    "title_es": "Prevalencia, factores demográficos, comorbilidades y tipos de tratamiento asociados con la acantosis nigricans en una gran muestra representativa de 900<sup>+</sup> pacientes transmasculinos: datos de un solo centro académico 2016-2023",
+    "title": "Correction: Understanding the role of Shroom3 in the developing mouse myocardium",
+    "title_es": "Corrección: comprensión del papel de Shroom3 en el miocardio del ratón en desarrollo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -48196,5 +48300,13 @@
     "date": "",
     "published": "",
     "source": "Newton (Derivada)"
+  },
+  {
+    "title": "M51: The Whirlpool Galaxy",
+    "title_es": "M51: The Whirlpool Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2601/m51_sleeman_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
