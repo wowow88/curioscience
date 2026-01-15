@@ -1,5 +1,61 @@
 [
   {
+    "title": "Revisiting Disaggregated Large Language Model Serving for Performance and Energy Implications",
+    "title_es": "Revisiting Disaggregated Large Language Model Serving for Performance and Energy Implications",
+    "url": "https://arxiv.org/abs/2601.08833",
+    "published": "2026-01-15T05:00:00.000Z",
+    "date": "2026-01-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "14,400-Year-Old Woolly Rhinoceros Genome Shows No Evidence of Recent Inbreeding",
+    "title_es": "14,400-Year-Old Woolly Rhinoceros Genome Shows No Evidence of Recent Inbreeding",
+    "url": "https://www.sci.news/genetics/woolly-rhinoceros-genome-14484.html",
+    "published": "2026-01-15T00:50:28.000Z",
+    "date": "2026-01-15",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Clouds Swimming over Lago Argentino",
+    "title_es": "Nubes nadando sobre el Lago Argentino",
+    "url": "https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/",
+    "date": "2026-01-15",
+    "source": "NASA (Top News)",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists uncover a hidden type of diabetes in newborns",
+    "title_es": "Los científicos descubren un tipo oculto de diabetes en los recién nacidos",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
+    "date": "2026-01-15",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Mosquitoes' thirst for human blood has increased as biodiversity loss worsens",
+    "title_es": "La sed de sangre humana de los mosquitos ha aumentado a medida que empeora la pérdida de biodiversidad",
+    "url": "https://phys.org/news/2026-01-mosquitoes-thirst-human-blood-biodiversity.html",
+    "date": "2026-01-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Woolly rhino genome recovered from meat in frozen wolf pup’s stomach",
+    "title_es": "Woolly rhino genome recovered from meat in frozen wolf pup’s stomach",
+    "url": "https://www.newscientist.com/article/2511557-woolly-rhino-genome-recovered-from-meat-in-frozen-wolf-pups-stomach/",
+    "published": "2026-01-14T17:01:56.000Z",
+    "date": "2026-01-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Book Review: Confronting the Bane of Plastic Pollution",
+    "title_es": "Book Review: Confronting the Bane of Plastic Pollution",
+    "url": "https://undark.org/2026/01/14/book-review-problem-with-plastic/",
+    "published": "2026-01-14T08:55:00.000Z",
+    "date": "2026-01-14",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "A survey: Information search time optimization based on RAG (Retrieval Augmentation Generation) chatbot",
     "title_es": "A survey: Information search time optimization based on RAG (Retrieval Augmentation Generation) chatbot",
     "url": "https://arxiv.org/abs/2601.07838",
@@ -29,6 +85,46 @@
     "url": "https://phys.org/news/2026-01-nature-based-solutions-dont.html",
     "date": "2026-01-14",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning",
+    "title_es": "Fast-ThinkAct: razonamiento eficiente de visión, lenguaje y acción a través de una planificación latente verbalizable",
+    "url": "http://arxiv.org/abs/2601.09708v1",
+    "date": "2026-01-14",
+    "source": "arXiv",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient pottery reveals early evidence of mathematical thinking",
+    "title_es": "La cerámica antigua revela evidencia temprana del pensamiento matemático",
+    "url": "https://www.nature.com/articles/d41586-026-00069-y",
+    "date": "2026-01-14",
+    "source": "Nature",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Women As One invita al Dr. Borja Ibáñez a formar parte de su Consejo de Administración",
+    "title_es": "Women As One invita al Dr. Borja Ibáñez a formar parte de su Consejo de Administración",
+    "url": "https://www.cnic.es/es/noticias/women-one-invita-al-dr-borja-ibanez-formar-parte-su-consejo-administracion",
+    "date": "2026-01-14",
+    "source": "CNIC",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "This dino’s fossil claw suggests it snatched eggs, not insects",
+    "title_es": "La garra fósil de este dinosaurio sugiere que arrebató huevos, no insectos",
+    "url": "https://www.sciencenews.org/article/dinosaurs-fossil-claw-snatched-eggs",
+    "date": "2026-01-14",
+    "source": "Science News",
+    "published": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Chopping an onion? Sharp knives can keep its juice out of your eyes",
+    "title_es": "¿Cortar una cebolla? Los cuchillos afilados pueden mantener su jugo fuera de tus ojos.",
+    "url": "https://www.snexplores.org/article/slow-sharp-cuts-onion-crying",
+    "date": "2026-01-14",
+    "source": "Science News Explores",
     "published": "2026-01-14T00:00:00.000Z"
   },
   {
@@ -221,6 +317,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
     "date": "2026-01-12",
     "source": "ScienceDaily (Top)",
+    "published": "2026-01-12T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cumulos-estelares-y-fosiles-galacticos-protagonistas-de-una-nueva-sesion-de-del-cielo-la-tesis\" hreflang=\"es\">Cúmulos estelares y fósiles galácticos, protagonistas de una nueva sesión de ‘Del Cielo a la Tesis’</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cumulos-estelares-y-fosiles-galacticos-protagonistas-de-una-nueva-sesion-de-del-cielo-la-tesis\" hreflang=\"es\">Cúmulos estelares y fósiles galácticos, protagonistas de una nueva sesión de ‘Del Cielo a la Tesis’</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/cumulos-estelares-y-fosiles-galacticos-protagonistas-de-una-nueva-sesion-de-del-cielo-la-tesis",
+    "date": "2026-01-12",
+    "source": "IAC",
     "published": "2026-01-12T00:00:00.000Z"
   },
   {
@@ -14999,8 +15103,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Understanding the role of Shroom3 in the developing mouse myocardium",
-    "title_es": "Corrección: comprensión del papel de Shroom3 en el miocardio del ratón en desarrollo",
+    "title": "Sexual and reproductive health challenges among street adolescents in Sylhet city, Bangladesh: A cross-sectional study",
+    "title_es": "Desafíos de salud sexual y reproductiva entre adolescentes de la calle en la ciudad de Sylhet, Bangladesh: un estudio transversal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -48305,6 +48409,14 @@
     "title": "M51: The Whirlpool Galaxy",
     "title_es": "M51: The Whirlpool Galaxy",
     "url": "https://apod.nasa.gov/apod/image/2601/m51_sleeman_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Plato and the Lunar Alps",
+    "title_es": "Plato and the Lunar Alps",
+    "url": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_plato_lmorr1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
