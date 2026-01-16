@@ -1,5 +1,26 @@
 [
   {
+    "title": "Blooming Seas Around the Chatham Islands",
+    "title_es": "Mares florecientes alrededor de las islas Chatham",
+    "url": "https://science.nasa.gov/earth/earth-observatory/blooming-seas-around-the-chatham-islands/",
+    "date": "2026-01-16",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists found the soil secret that doubles forest regrowth",
+    "title_es": "Los científicos encontraron el secreto del suelo que duplica el recrecimiento de los bosques",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260115220612.htm",
+    "date": "2026-01-16",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "From freezer to fork: New thawing method could deliver 'dock-fresh' fish anywhere",
+    "title_es": "Del congelador al tenedor: un nuevo método de descongelación podría ofrecer pescado \"fresco\" en cualquier lugar",
+    "url": "https://phys.org/news/2026-01-freezer-fork-method-dock-fresh.html",
+    "date": "2026-01-16",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Clouds Swimming over Lago Argentino",
     "title_es": "Nubes nadando sobre el Lago Argentino",
     "url": "https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/",
@@ -21,6 +42,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "From law enforcement to public safety: Police officer experiences of naloxone administration to reverse opioid overdose in New York City",
+    "title_es": "De la aplicación de la ley a la seguridad pública: las experiencias de los agentes de policía con la administración de naloxona para revertir la sobredosis de opioides en la ciudad de Nueva York",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-15",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching",
+    "title_es": "MatchTIR: supervisión detallada para el razonamiento integrado en herramientas mediante coincidencia bipartita",
+    "url": "http://arxiv.org/abs/2601.10712v1",
+    "date": "2026-01-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "The branching legacies of America’s past",
+    "title_es": "Los legados ramificados del pasado de Estados Unidos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7931",
+    "date": "2026-01-15",
+    "source": "Science.org"
+  },
+  {
+    "title": "Nationwide genetic screening proves effective at catching disease risk early",
+    "title_es": "El examen genético a nivel nacional resulta eficaz para detectar tempranamente el riesgo de enfermedad",
+    "url": "https://www.nature.com/articles/d41586-026-00035-8",
+    "date": "2026-01-15",
+    "source": "Nature"
+  },
+  {
+    "title": "European Heart Journal: Study reveals how high blood pressure increases susceptibility to heart damage caused by a key cancer treatment",
+    "title_es": "European Heart Journal: Study reveals how high blood pressure increases susceptibility to heart damage caused by a key cancer treatment",
+    "url": "https://www.cnic.es/es/node/239455",
+    "date": "2026-01-15",
+    "source": "CNIC"
+  },
+  {
+    "title": "Antonio Pérez, nuevo académico correspondiente de la Real Academia Nacional de Medicina de España",
+    "title_es": "Antonio Pérez, nuevo académico correspondiente de la Real Academia Nacional de Medicina de España",
+    "url": "https://www.cnio.es/noticias/antonio-perez-nuevo-academico-correspondiente-de-la-real-academia-nacional-de-medicina-de-espana/",
+    "date": "2026-01-15",
+    "source": "CNIO"
+  },
+  {
+    "title": "Animal personalities can play a big role in saving species",
+    "title_es": "Las personalidades de los animales pueden desempeñar un papel importante en la salvación de especies.",
+    "url": "https://www.sciencenews.org/article/animals-personalities-saving-species",
+    "date": "2026-01-15",
+    "source": "Science News"
+  },
+  {
+    "title": "Linking science to dance, culture and more expands who can take part",
+    "title_es": "Vincular la ciencia con la danza, la cultura y más amplía quiénes pueden participar",
+    "url": "https://www.snexplores.org/article/science-culture-dance-sound-stem",
+    "date": "2026-01-15",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Fire on Ice: The Arctic’s Changing Fire Regime",
     "title_es": "Fuego sobre hielo: el cambiante régimen de incendios del Ártico",
     "url": "https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/",
@@ -40,13 +117,6 @@
     "url": "https://phys.org/news/2026-01-nature-based-solutions-dont.html",
     "date": "2026-01-14",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Sexual and reproductive health challenges among street adolescents in Sylhet city, Bangladesh: A cross-sectional study",
-    "title_es": "Desafíos de salud sexual y reproductiva entre adolescentes de la calle en la ciudad de Sylhet, Bangladesh: un estudio transversal",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-14",
-    "source": "PLOS ONE"
   },
   {
     "title": "Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning",

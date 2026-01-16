@@ -1,5 +1,61 @@
 [
   {
+    "title": "Social Determinants of Health Prediction for ICD-9 Code with Reasoning Models",
+    "title_es": "Social Determinants of Health Prediction for ICD-9 Code with Reasoning Models",
+    "url": "https://arxiv.org/abs/2601.09709",
+    "published": "2026-01-16T05:00:00.000Z",
+    "date": "2026-01-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tyrannosaurus rex Took Nearly Four Decades to Grow Up, New Research Shows",
+    "title_es": "Tyrannosaurus rex Took Nearly Four Decades to Grow Up, New Research Shows",
+    "url": "https://www.sci.news/paleontology/tyrannosaurus-rex-growth-14487.html",
+    "published": "2026-01-16T01:00:07.000Z",
+    "date": "2026-01-16",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Blooming Seas Around the Chatham Islands",
+    "title_es": "Mares florecientes alrededor de las islas Chatham",
+    "url": "https://science.nasa.gov/earth/earth-observatory/blooming-seas-around-the-chatham-islands/",
+    "date": "2026-01-16",
+    "source": "NASA (Top News)",
+    "published": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists found the soil secret that doubles forest regrowth",
+    "title_es": "Los científicos encontraron el secreto del suelo que duplica el recrecimiento de los bosques",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260115220612.htm",
+    "date": "2026-01-16",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "title": "From freezer to fork: New thawing method could deliver 'dock-fresh' fish anywhere",
+    "title_es": "Del congelador al tenedor: un nuevo método de descongelación podría ofrecer pescado \"fresco\" en cualquier lugar",
+    "url": "https://phys.org/news/2026-01-freezer-fork-method-dock-fresh.html",
+    "date": "2026-01-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "title": "Lithium-ion batteries could last longer with chemical tweak",
+    "title_es": "Lithium-ion batteries could last longer with chemical tweak",
+    "url": "https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/",
+    "published": "2026-01-15T20:00:59.000Z",
+    "date": "2026-01-15",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Ever-Shrinking Eldercare Workforce",
+    "title_es": "The Ever-Shrinking Eldercare Workforce",
+    "url": "https://undark.org/2026/01/15/opinion-shrinking-eldercare-workforce/",
+    "published": "2026-01-15T08:34:00.000Z",
+    "date": "2026-01-15",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Revisiting Disaggregated Large Language Model Serving for Performance and Energy Implications",
     "title_es": "Revisiting Disaggregated Large Language Model Serving for Performance and Energy Implications",
     "url": "https://arxiv.org/abs/2601.08833",
@@ -37,6 +93,62 @@
     "url": "https://phys.org/news/2026-01-mosquitoes-thirst-human-blood-biodiversity.html",
     "date": "2026-01-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching",
+    "title_es": "MatchTIR: supervisión detallada para el razonamiento integrado en herramientas mediante coincidencia bipartita",
+    "url": "http://arxiv.org/abs/2601.10712v1",
+    "date": "2026-01-15",
+    "source": "arXiv",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "The branching legacies of America’s past",
+    "title_es": "Los legados ramificados del pasado de Estados Unidos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7931",
+    "date": "2026-01-15",
+    "source": "Science.org",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Nationwide genetic screening proves effective at catching disease risk early",
+    "title_es": "El examen genético a nivel nacional resulta eficaz para detectar tempranamente el riesgo de enfermedad",
+    "url": "https://www.nature.com/articles/d41586-026-00035-8",
+    "date": "2026-01-15",
+    "source": "Nature",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "European Heart Journal: Study reveals how high blood pressure increases susceptibility to heart damage caused by a key cancer treatment",
+    "title_es": "European Heart Journal: Study reveals how high blood pressure increases susceptibility to heart damage caused by a key cancer treatment",
+    "url": "https://www.cnic.es/es/node/239455",
+    "date": "2026-01-15",
+    "source": "CNIC",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Antonio Pérez, nuevo académico correspondiente de la Real Academia Nacional de Medicina de España",
+    "title_es": "Antonio Pérez, nuevo académico correspondiente de la Real Academia Nacional de Medicina de España",
+    "url": "https://www.cnio.es/noticias/antonio-perez-nuevo-academico-correspondiente-de-la-real-academia-nacional-de-medicina-de-espana/",
+    "date": "2026-01-15",
+    "source": "CNIO",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Animal personalities can play a big role in saving species",
+    "title_es": "Las personalidades de los animales pueden desempeñar un papel importante en la salvación de especies.",
+    "url": "https://www.sciencenews.org/article/animals-personalities-saving-species",
+    "date": "2026-01-15",
+    "source": "Science News",
+    "published": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Linking science to dance, culture and more expands who can take part",
+    "title_es": "Vincular la ciencia con la danza, la cultura y más amplía quiénes pueden participar",
+    "url": "https://www.snexplores.org/article/science-culture-dance-sound-stem",
+    "date": "2026-01-15",
+    "source": "Science News Explores",
     "published": "2026-01-15T00:00:00.000Z"
   },
   {
@@ -518,6 +630,14 @@
     "published": "2026-01-08T13:00:21.000Z",
     "date": "2026-01-08",
     "source": "New Scientist"
+  },
+  {
+    "title": "Computer Security: A final marathon for service managers",
+    "title_es": "Computer Security: A final marathon for service managers",
+    "url": "https://home.cern/news/news/computing/computer-security-final-marathon-service-managers",
+    "published": "2026-01-08T11:57:59.000Z",
+    "date": "2026-01-08",
+    "source": "CERN News"
   },
   {
     "title": "As Guidelines Shift, a Curious Debate Over Seed Oils Persists",
@@ -15103,8 +15223,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Sexual and reproductive health challenges among street adolescents in Sylhet city, Bangladesh: A cross-sectional study",
-    "title_es": "Desafíos de salud sexual y reproductiva entre adolescentes de la calle en la ciudad de Sylhet, Bangladesh: un estudio transversal",
+    "title": "From law enforcement to public safety: Police officer experiences of naloxone administration to reverse opioid overdose in New York City",
+    "title_es": "De la aplicación de la ley a la seguridad pública: las experiencias de los agentes de policía con la administración de naloxona para revertir la sobredosis de opioides en la ciudad de Nueva York",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -48417,6 +48537,14 @@
     "title": "Plato and the Lunar Alps",
     "title_es": "Plato and the Lunar Alps",
     "url": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_plato_lmorr1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 7023: The Iris Nebula",
+    "title_es": "NGC 7023: The Iris Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2601/ngc7023_falk1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
