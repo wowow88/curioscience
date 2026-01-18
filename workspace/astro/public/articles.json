@@ -1,5 +1,13 @@
 [
   {
+    "title": "One cure for sour feelings about politics: Getting people to love their hometowns",
+    "title_es": "Una cura para los resentimientos sobre la política: lograr que la gente ame sus lugares de origen",
+    "url": "https://phys.org/news/2026-01-sour-politics-people-hometowns.html",
+    "date": "2026-01-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-18T00:00:00.000Z"
+  },
+  {
     "title": "First treaty to protect the high seas comes into force",
     "title_es": "First treaty to protect the high seas comes into force",
     "url": "https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/",
@@ -13,6 +21,22 @@
     "url": "https://phys.org/news/2026-01-dallas-greenhouse-gas-emissions-fall.html",
     "date": "2026-01-17",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "title": "Hubble Snaps Stellar Baby Pictures",
+    "title_es": "Hubble toma fotografías estelares de bebés",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/",
+    "date": "2026-01-17",
+    "source": "NASA (Top News)",
+    "published": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny earthquakes are revealing a dangerous secret beneath California",
+    "title_es": "Pequeños terremotos están revelando un secreto peligroso debajo de California",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
+    "date": "2026-01-17",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-17T00:00:00.000Z"
   },
   {
@@ -228,6 +252,14 @@
     "title_es": "Woolly rhino genome recovered from meat in frozen wolf pup’s stomach",
     "url": "https://www.newscientist.com/article/2511557-woolly-rhino-genome-recovered-from-meat-in-frozen-wolf-pups-stomach/",
     "published": "2026-01-14T17:01:56.000Z",
+    "date": "2026-01-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Three ways to become calmer this New Year that you haven't tried (yet)",
+    "title_es": "Three ways to become calmer this New Year that you haven't tried (yet)",
+    "url": "https://www.newscientist.com/article/2510000-three-ways-to-become-calmer-this-new-year-that-you-havent-tried-yet/",
+    "published": "2026-01-14T12:00:41.000Z",
     "date": "2026-01-14",
     "source": "New Scientist"
   },
@@ -15296,7 +15328,7 @@
   },
   {
     "title": "Knowledge graph-based intelligent data management and information innovation service model for university library systems",
-    "title_es": "Modelo de servicio de innovación de información y gestión de datos inteligente basado en gráficos de conocimiento para sistemas de bibliotecas universitarias",
+    "title_es": "Modelo de servicio de innovación de información e gestión de datos inteligente basado en gráficos de conocimiento para sistemas de bibliotecas universitarias",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -48625,6 +48657,14 @@
     "title": "Apollo 14: A View from Antares",
     "title_es": "Apollo 14: A View from Antares",
     "url": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Jupiter from the Webb Space Telescope",
+    "title_es": "Jupiter from the Webb Space Telescope",
+    "url": "https://apod.nasa.gov/apod/image/2601/jupiter2_webbschmidt_1080_annotated.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
