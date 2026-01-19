@@ -1,8 +1,32 @@
 [
   {
+    "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+    "title_es": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+    "url": "https://arxiv.org/abs/2601.10718",
+    "published": "2026-01-19T05:00:00.000Z",
+    "date": "2026-01-19",
+    "source": "arXiv"
+  },
+  {
     "title": "One cure for sour feelings about politics: Getting people to love their hometowns",
     "title_es": "Una cura para los resentimientos sobre la política: lograr que la gente ame sus lugares de origen",
     "url": "https://phys.org/news/2026-01-sour-politics-people-hometowns.html",
+    "date": "2026-01-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "title": "The real danger of Tylenol has nothing to do with autism",
+    "title_es": "El peligro real del Tylenol no tiene nada que ver con el autismo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260118115058.htm",
+    "date": "2026-01-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "title": "German study examines why women are less likely to hold leadership positions in logistics",
+    "title_es": "Un estudio alemán examina por qué las mujeres tienen menos probabilidades de ocupar puestos de liderazgo en la logística",
+    "url": "https://phys.org/news/2026-01-german-women-leadership-positions-logistics.html",
     "date": "2026-01-18",
     "source": "Phys.org (Latest)",
     "published": "2026-01-18T00:00:00.000Z"
@@ -136,6 +160,14 @@
     "published": "2026-01-16T00:00:00.000Z"
   },
   {
+    "title": "Do explanations generalize across large reasoning models?",
+    "title_es": "¿Se generalizan las explicaciones a través de grandes modelos de razonamiento?",
+    "url": "http://arxiv.org/abs/2601.11517v1",
+    "date": "2026-01-16",
+    "source": "arXiv",
+    "published": "2026-01-16T00:00:00.000Z"
+  },
+  {
     "title": "Lithium-ion batteries could last longer with chemical tweak",
     "title_es": "Lithium-ion batteries could last longer with chemical tweak",
     "url": "https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/",
@@ -252,6 +284,14 @@
     "title_es": "Woolly rhino genome recovered from meat in frozen wolf pup’s stomach",
     "url": "https://www.newscientist.com/article/2511557-woolly-rhino-genome-recovered-from-meat-in-frozen-wolf-pups-stomach/",
     "published": "2026-01-14T17:01:56.000Z",
+    "date": "2026-01-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Psychiatry has finally found an objective way to spot mental illness",
+    "title_es": "Psychiatry has finally found an objective way to spot mental illness",
+    "url": "https://www.newscientist.com/article/2509966-psychiatry-has-finally-found-an-objective-way-to-spot-mental-illness/",
+    "published": "2026-01-14T16:00:14.000Z",
     "date": "2026-01-14",
     "source": "New Scientist"
   },
@@ -48665,6 +48705,14 @@
     "title": "Jupiter from the Webb Space Telescope",
     "title_es": "Jupiter from the Webb Space Telescope",
     "url": "https://apod.nasa.gov/apod/image/2601/jupiter2_webbschmidt_1080_annotated.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "CTB 1: The Medulla Nebula",
+    "title_es": "CTB 1: The Medulla Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2601/ctb1_konzelmann_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
