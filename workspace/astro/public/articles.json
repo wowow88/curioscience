@@ -1,11 +1,75 @@
 [
   {
+    "title": "3I/ATLAS Shows Signs of Full Cometary Awakening after Perihelion",
+    "title_es": "3I/ATLAS Shows Signs of Full Cometary Awakening after Perihelion",
+    "url": "https://www.sci.news/astronomy/3i-atlas-cometary-awakening-14493.html",
+    "published": "2026-01-20T04:24:20.000Z",
+    "date": "2026-01-20",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A two-week leap in breeding: Antarctic penguins' striking climate adaptation",
+    "title_es": "Un salto de dos semanas en la reproducción: la sorprendente adaptación climática de los pingüinos antárticos",
+    "url": "https://phys.org/news/2026-01-week-antarctic-penguins-climate.html",
+    "date": "2026-01-20",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-20T00:00:00.000Z"
+  },
+  {
+    "title": "Why a tool-using cow could change how we see farm animals",
+    "title_es": "Why a tool-using cow could change how we see farm animals",
+    "url": "https://www.newscientist.com/article/2511920-why-a-tool-using-cow-could-change-how-we-see-farm-animals/",
+    "published": "2026-01-19T16:00:47.000Z",
+    "date": "2026-01-19",
+    "source": "New Scientist"
+  },
+  {
+    "title": "For EPA Pollution Rules, the Value of Human Health Is Changing",
+    "title_es": "For EPA Pollution Rules, the Value of Human Health Is Changing",
+    "url": "https://undark.org/2026/01/19/epa-pollution-human-lives/",
+    "published": "2026-01-19T08:25:00.000Z",
+    "date": "2026-01-19",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
     "title_es": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
     "url": "https://arxiv.org/abs/2601.10718",
     "published": "2026-01-19T05:00:00.000Z",
     "date": "2026-01-19",
     "source": "arXiv"
+  },
+  {
+    "title": "Collective intelligence for AI-assisted chemical synthesis",
+    "title_es": "Inteligencia colectiva para la síntesis química asistida por IA",
+    "url": "https://www.nature.com/articles/s41586-026-10131-4",
+    "date": "2026-01-19",
+    "source": "Nature",
+    "published": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "title": "This tool-using cow defies expectations for bovine braininess",
+    "title_es": "Esta vaca que utiliza herramientas desafía las expectativas de inteligencia bovina",
+    "url": "https://www.sciencenews.org/article/tool-using-cow-cognition-scratch",
+    "date": "2026-01-19",
+    "source": "Science News",
+    "published": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Taxonomy",
+    "title_es": "Los científicos dicen: taxonomía",
+    "url": "https://www.snexplores.org/article/scientists-say-taxonomy-definition-pronunciation",
+    "date": "2026-01-19",
+    "source": "Science News Explores",
+    "published": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "title": "Inside the mysterious collapse of dark matter halos",
+    "title_es": "Dentro del misterioso colapso de los halos de materia oscura",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260118233609.htm",
+    "date": "2026-01-19",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-19T00:00:00.000Z"
   },
   {
     "title": "One cure for sour feelings about politics: Getting people to love their hometowns",
@@ -48713,6 +48777,14 @@
     "title": "CTB 1: The Medulla Nebula",
     "title_es": "CTB 1: The Medulla Nebula",
     "url": "https://apod.nasa.gov/apod/image/2601/ctb1_konzelmann_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Io in True Color",
+    "title_es": "Io in True Color",
+    "url": "https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
