@@ -1,10 +1,80 @@
 [
   {
+    "title": "Fires Erupt in South-Central Chile",
+    "title_es": "Estallan incendios en el centro-sur de Chile",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/",
+    "date": "2026-01-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+    "title_es": "Los científicos de Stanford encontraron una manera de regenerar el cartílago y detener la artritis",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+    "date": "2026-01-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Strategic sex: Alaska's beluga whales swap mates for long-term survival",
+    "title_es": "Sexo estratégico: las ballenas beluga de Alaska intercambian parejas para sobrevivir a largo plazo",
+    "url": "https://phys.org/news/2026-01-strategic-sex-alaska-beluga-whales.html",
+    "date": "2026-01-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A two-week leap in breeding: Antarctic penguins' striking climate adaptation",
     "title_es": "Un salto de dos semanas en la reproducción: la sorprendente adaptación climática de los pingüinos antárticos",
     "url": "https://phys.org/news/2026-01-week-antarctic-penguins-climate.html",
     "date": "2026-01-20",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Impact of bictegravir/emtricitabine/tenofovir alafenamide on health-related quality of life and economic outcomes in HIV care: Substudy of the BIC-NOW clinical trial",
+    "title_es": "Corrección: Impacto de bictegravir/emtricitabina/tenofovir alafenamida en la calidad de vida relacionada con la salud y los resultados económicos en la atención del VIH: subestudio del ensayo clínico BIC-NOW",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-20",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "VideoMaMa: Mask-Guided Video Matting via Generative Prior",
+    "title_es": "VideoMaMa: Matting de vídeo guiado por máscaras mediante generación previa",
+    "url": "http://arxiv.org/abs/2601.14255v1",
+    "date": "2026-01-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Anthropogenic influences on major tropical cyclone events",
+    "title_es": "Corrección del autor: Influencias antropogénicas en los principales ciclones tropicales",
+    "url": "https://www.nature.com/articles/s41586-026-10109-2",
+    "date": "2026-01-20",
+    "source": "Nature"
+  },
+  {
+    "title": "Circulation Research: El reloj biológico influye en la gravedad del ictus y la respuesta a los tratamientos",
+    "title_es": "Circulation Research: El reloj biológico influye en la gravedad del ictus y la respuesta a los tratamientos",
+    "url": "https://www.cnic.es/es/noticias/circulation-research-reloj-biologico-influye-gravedad-ictus-respuesta-tratamientos",
+    "date": "2026-01-20",
+    "source": "CNIC"
+  },
+  {
+    "title": "El CNIO presenta su Plan de Actuación para orientar su futuro a las áreas hoy más prometedoras en la investigación del cáncer",
+    "title_es": "El CNIO presenta su Plan de Actuación para orientar su futuro a las áreas hoy más prometedoras en la investigación del cáncer",
+    "url": "https://www.cnio.es/noticias/el-cnio-presenta-su-plan-de-actuacion-para-orientar-su-futuro-a-las-areas-hoy-mas-prometedoras-en-la-investigacion-del-cancer/",
+    "date": "2026-01-20",
+    "source": "CNIO"
+  },
+  {
+    "title": "There’s life beneath the snow, but it’s at risk of melting away",
+    "title_es": "Hay vida debajo de la nieve, pero corre el riesgo de derretirse",
+    "url": "https://www.sciencenews.org/article/climate-change-subnivium-snow-threat",
+    "date": "2026-01-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Here’s why ammolite gems have a rainbow shimmer",
+    "title_es": "He aquí por qué las gemas de ammolita tienen el brillo del arcoíris",
+    "url": "https://www.snexplores.org/article/ammolite-gems-rainbow-shimmer",
+    "date": "2026-01-20",
+    "source": "Science News Explores"
   },
   {
     "title": "Collective intelligence for AI-assisted chemical synthesis",
@@ -98,13 +168,6 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Knowledge graph-based intelligent data management and information innovation service model for university library systems",
-    "title_es": "Modelo de servicio de innovación de información e gestión de datos inteligente basado en gráficos de conocimiento para sistemas de bibliotecas universitarias",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-16",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "HPV vaccine could help to protect the unvaccinated against cervical cancer",
     "title_es": "La vacuna contra el VPH podría ayudar a proteger a las personas no vacunadas contra el cáncer de cuello uterino",
     "url": "https://www.nature.com/articles/d41586-026-00128-4",
@@ -145,6 +208,13 @@
     "url": "http://arxiv.org/abs/2601.11517v1",
     "date": "2026-01-16",
     "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-un-estudio-con-alma-sin-precedentes-que-desvela-la-etapa-de-la\" hreflang=\"es\">El IAC y la ULL participan en un estudio con ALMA sin precedentes que desvela la etapa de la \"adolescencia\" en nuevos mundos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-un-estudio-con-alma-sin-precedentes-que-desvela-la-etapa-de-la\" hreflang=\"es\">El IAC y la ULL participan en un estudio con ALMA sin precedentes que desvela la etapa de la \"adolescencia\" en nuevos mundos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-un-estudio-con-alma-sin-precedentes-que-desvela-la-etapa-de-la",
+    "date": "2026-01-16",
+    "source": "IAC"
   },
   {
     "title": "Clouds Swimming over Lago Argentino",
