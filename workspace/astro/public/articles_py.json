@@ -1,5 +1,26 @@
 [
   {
+    "title": "Snow Buries Kamchatka",
+    "title_es": "La nieve entierra Kamchatka",
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/",
+    "date": "2026-01-22",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Researchers unlocked a new shortcut to quantum materials",
+    "title_es": "Los investigadores desbloquearon un nuevo atajo hacia los materiales cuánticos",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
+    "date": "2026-01-22",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Humans use local dialects to communicate with honeyguide birds, research shows",
+    "title_es": "Los humanos usan dialectos locales para comunicarse con las aves guías de la miel, según muestra una investigación",
+    "url": "https://phys.org/news/2026-01-humans-local-dialects-communicate-honeyguide.html",
+    "date": "2026-01-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fires Erupt in South-Central Chile",
     "title_es": "Estallan incendios en el centro-sur de Chile",
     "url": "https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/",
@@ -21,18 +42,74 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Associations between physical activity, physical fitness, and body composition in adults living in Germany: A cross-sectional study",
+    "title_es": "Corrección: Asociaciones entre actividad física, aptitud física y composición corporal en adultos que viven en Alemania: un estudio transversal",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-21",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Iterative Refinement Improves Compositional Image Generation",
+    "title_es": "El refinamiento iterativo mejora la generación de imágenes compositivas",
+    "url": "http://arxiv.org/abs/2601.15286v1",
+    "date": "2026-01-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Editorial Expression of Concern: The X-linked lymphoproliferative-disease gene product SAP regulates signals induced through the co-receptor SLAM",
+    "title_es": "Expresión editorial de preocupación: el producto del gen SAP de la enfermedad linfoproliferativa ligada al cromosoma X regula las señales inducidas a través del correceptor SLAM",
+    "url": "https://www.nature.com/articles/s41586-026-10145-y",
+    "date": "2026-01-21",
+    "source": "Nature"
+  },
+  {
+    "title": "Circulation Research: The body’s internal clock influences stroke severity and response to treatment",
+    "title_es": "Circulation Research: The body’s internal clock influences stroke severity and response to treatment",
+    "url": "https://www.cnic.es/es/node/239575",
+    "date": "2026-01-21",
+    "source": "CNIC"
+  },
+  {
+    "title": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "title_es": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "url": "https://www.cnio.es/noticias/fernando-pelaez-galardonado-con-el-xiii-premio-nacional-de-biotecnologia/",
+    "date": "2026-01-21",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias\" hreflang=\"es\">Una medida precisa del tamaño de los halos de materia oscura utilizando el tamaño de las galaxias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias\" hreflang=\"es\">Una medida precisa del tamaño de los halos de materia oscura utilizando el tamaño de las galaxias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias",
+    "date": "2026-01-21",
+    "source": "IAC"
+  },
+  {
+    "title": "Probing asteroids with particle beams",
+    "title_es": "Sondeo de asteroides con haces de partículas",
+    "url": "https://home.cern/news/news/accelerators/probing-asteroids-particle-beams",
+    "date": "2026-01-21",
+    "source": "CERN News"
+  },
+  {
+    "title": "A massive cosmic ring may challenge a key assumption about the universe",
+    "title_es": "Un anillo cósmico masivo puede desafiar una suposición clave sobre el universo",
+    "url": "https://www.sciencenews.org/article/cosmic-ring-cosmology-principle",
+    "date": "2026-01-21",
+    "source": "Science News"
+  },
+  {
+    "title": "‘Stenciling’ tiny gold particles gives them new properties",
+    "title_es": "\"Estarcer\" pequeñas partículas de oro les confiere nuevas propiedades",
+    "url": "https://www.snexplores.org/article/gold-nanoparticle-stencils",
+    "date": "2026-01-21",
+    "source": "Science News Explores"
+  },
+  {
     "title": "A two-week leap in breeding: Antarctic penguins' striking climate adaptation",
     "title_es": "Un salto de dos semanas en la reproducción: la sorprendente adaptación climática de los pingüinos antárticos",
     "url": "https://phys.org/news/2026-01-week-antarctic-penguins-climate.html",
     "date": "2026-01-20",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Impact of bictegravir/emtricitabine/tenofovir alafenamide on health-related quality of life and economic outcomes in HIV care: Substudy of the BIC-NOW clinical trial",
-    "title_es": "Corrección: Impacto de bictegravir/emtricitabina/tenofovir alafenamida en la calidad de vida relacionada con la salud y los resultados económicos en la atención del VIH: subestudio del ensayo clínico BIC-NOW",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-20",
-    "source": "PLOS ONE"
   },
   {
     "title": "VideoMaMa: Mask-Guided Video Matting via Generative Prior",

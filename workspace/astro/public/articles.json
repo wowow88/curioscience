@@ -1,5 +1,61 @@
 [
   {
+    "title": "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control",
+    "title_es": "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control",
+    "url": "https://arxiv.org/abs/2601.14258",
+    "published": "2026-01-22T05:00:00.000Z",
+    "date": "2026-01-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Piercing crocodile close-up wins ecology photo competition",
+    "title_es": "Piercing crocodile close-up wins ecology photo competition",
+    "url": "https://www.newscientist.com/article/2511807-piercing-crocodile-close-up-wins-ecology-photo-competition/",
+    "published": "2026-01-22T00:01:57.000Z",
+    "date": "2026-01-22",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Snow Buries Kamchatka",
+    "title_es": "La nieve entierra Kamchatka",
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/",
+    "date": "2026-01-22",
+    "source": "NASA (Top News)",
+    "published": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "title": "Researchers unlocked a new shortcut to quantum materials",
+    "title_es": "Los investigadores desbloquearon un nuevo atajo hacia los materiales cuánticos",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
+    "date": "2026-01-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "title": "Humans use local dialects to communicate with honeyguide birds, research shows",
+    "title_es": "Los humanos usan dialectos locales para comunicarse con las aves guías de la miel, según muestra una investigación",
+    "url": "https://phys.org/news/2026-01-humans-local-dialects-communicate-honeyguide.html",
+    "date": "2026-01-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "title": "Magnetic Avalanches Ignite Solar Flares, New Solar Orbiter Observations Reveal",
+    "title_es": "Magnetic Avalanches Ignite Solar Flares, New Solar Orbiter Observations Reveal",
+    "url": "https://www.sci.news/astronomy/magnetic-avalanches-solar-flares-14501.html",
+    "published": "2026-01-21T23:20:20.000Z",
+    "date": "2026-01-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Who Gets to Decide How Much Is ‘Enough’ to Live a Good Life?",
+    "title_es": "Who Gets to Decide How Much Is ‘Enough’ to Live a Good Life?",
+    "url": "https://undark.org/2026/01/21/opinion-climate-sufficiency-politics/",
+    "published": "2026-01-21T08:06:00.000Z",
+    "date": "2026-01-21",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "SynQP: A Framework and Metrics for Evaluating the Quality and Privacy Risk of Synthetic Data",
     "title_es": "SynQP: A Framework and Metrics for Evaluating the Quality and Privacy Risk of Synthetic Data",
     "url": "https://arxiv.org/abs/2601.12124",
@@ -45,6 +101,70 @@
     "url": "https://phys.org/news/2026-01-strategic-sex-alaska-beluga-whales.html",
     "date": "2026-01-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Iterative Refinement Improves Compositional Image Generation",
+    "title_es": "El refinamiento iterativo mejora la generación de imágenes compositivas",
+    "url": "http://arxiv.org/abs/2601.15286v1",
+    "date": "2026-01-21",
+    "source": "arXiv",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: The X-linked lymphoproliferative-disease gene product SAP regulates signals induced through the co-receptor SLAM",
+    "title_es": "Expresión editorial de preocupación: el producto del gen SAP de la enfermedad linfoproliferativa ligada al cromosoma X regula las señales inducidas a través del correceptor SLAM",
+    "url": "https://www.nature.com/articles/s41586-026-10145-y",
+    "date": "2026-01-21",
+    "source": "Nature",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Circulation Research: The body’s internal clock influences stroke severity and response to treatment",
+    "title_es": "Circulation Research: The body’s internal clock influences stroke severity and response to treatment",
+    "url": "https://www.cnic.es/es/node/239575",
+    "date": "2026-01-21",
+    "source": "CNIC",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "title_es": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "url": "https://www.cnio.es/noticias/fernando-pelaez-galardonado-con-el-xiii-premio-nacional-de-biotecnologia/",
+    "date": "2026-01-21",
+    "source": "CNIO",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias\" hreflang=\"es\">Una medida precisa del tamaño de los halos de materia oscura utilizando el tamaño de las galaxias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias\" hreflang=\"es\">Una medida precisa del tamaño de los halos de materia oscura utilizando el tamaño de las galaxias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/una-medida-precisa-del-tamano-de-los-halos-de-materia-oscura-utilizando-el-tamano-de-las-galaxias",
+    "date": "2026-01-21",
+    "source": "IAC",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Probing asteroids with particle beams",
+    "title_es": "Sondeo de asteroides con haces de partículas",
+    "url": "https://home.cern/news/news/accelerators/probing-asteroids-particle-beams",
+    "date": "2026-01-21",
+    "source": "CERN News",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "A massive cosmic ring may challenge a key assumption about the universe",
+    "title_es": "Un anillo cósmico masivo puede desafiar una suposición clave sobre el universo",
+    "url": "https://www.sciencenews.org/article/cosmic-ring-cosmology-principle",
+    "date": "2026-01-21",
+    "source": "Science News",
+    "published": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "‘Stenciling’ tiny gold particles gives them new properties",
+    "title_es": "\"Estarcer\" pequeñas partículas de oro les confiere nuevas propiedades",
+    "url": "https://www.snexplores.org/article/gold-nanoparticle-stencils",
+    "date": "2026-01-21",
+    "source": "Science News Explores",
     "published": "2026-01-21T00:00:00.000Z"
   },
   {
@@ -15551,8 +15671,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Impact of bictegravir/emtricitabine/tenofovir alafenamide on health-related quality of life and economic outcomes in HIV care: Substudy of the BIC-NOW clinical trial",
-    "title_es": "Corrección: Impacto de bictegravir/emtricitabina/tenofovir alafenamida en la calidad de vida relacionada con la salud y los resultados económicos en la atención del VIH: subestudio del ensayo clínico BIC-NOW",
+    "title": "Correction: Associations between physical activity, physical fitness, and body composition in adults living in Germany: A cross-sectional study",
+    "title_es": "Corrección: Asociaciones entre actividad física, aptitud física y composición corporal en adultos que viven en Alemania: un estudio transversal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -48913,6 +49033,14 @@
     "title": "Barred Spiral Galaxy NGC 1365 from Webb",
     "title_es": "Barred Spiral Galaxy NGC 1365 from Webb",
     "url": "https://apod.nasa.gov/apod/image/2601/jwstmiri_ngc1365_1024.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "LDN 1622: Dark Nebula in Orion",
+    "title_es": "LDN 1622: Dark Nebula in Orion",
+    "url": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
