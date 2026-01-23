@@ -1,5 +1,26 @@
 [
   {
+    "title": "Marvellous microbes, memory and the multiverse: Books in brief",
+    "title_es": "Microbios maravillosos, memoria y multiverso: libros breves",
+    "url": "https://www.nature.com/articles/d41586-026-00241-4",
+    "date": "2026-01-23",
+    "source": "Nature"
+  },
+  {
+    "title": "Winter Grips the Michigan Mitten",
+    "title_es": "El invierno agarra la manopla de Michigan",
+    "url": "https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/",
+    "date": "2026-01-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Whales may divide resources to co-exist under pressures from climate change",
+    "title_es": "Las ballenas pueden dividir recursos para coexistir bajo las presiones del cambio climático",
+    "url": "https://phys.org/news/2026-01-whales-resources-pressures-climate.html",
+    "date": "2026-01-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Snow Buries Kamchatka",
     "title_es": "La nieve entierra Kamchatka",
     "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/",
@@ -19,6 +40,48 @@
     "url": "https://phys.org/news/2026-01-humans-local-dialects-communicate-honeyguide.html",
     "date": "2026-01-22",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: DeltaBreed: A BrAPI-centric breeding data information system",
+    "title_es": "Corrección: DeltaBreed: un sistema de información de datos de reproducción centrado en BrAPI",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-22",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+    "title_es": "¿Por qué no puedo abrir mi cajón? Mitigar los atajos basados ​​en objetos en el reconocimiento de acciones compositivas Zero-Shot",
+    "url": "http://arxiv.org/abs/2601.16211v1",
+    "date": "2026-01-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Narratives of conflict in a warming Arctic",
+    "title_es": "Narrativas de conflicto en un Ártico que se calienta",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed7095",
+    "date": "2026-01-22",
+    "source": "Science.org"
+  },
+  {
+    "title": "Seismometers can track falling space junk",
+    "title_es": "Los sismómetros pueden rastrear la caída de basura espacial",
+    "url": "https://www.sciencenews.org/article/seismometer-track-space-junk-shock-wave",
+    "date": "2026-01-22",
+    "source": "Science News"
+  },
+  {
+    "title": "Nuclear weapons tests many decades ago have left a radioactive legacy",
+    "title_es": "Las pruebas de armas nucleares realizadas hace muchas décadas han dejado un legado radiactivo.",
+    "url": "https://www.snexplores.org/article/nuclear-weapons-tests-radioactive-legacy",
+    "date": "2026-01-22",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "The genetic advantage that helps some people stay sharp for life",
+    "title_es": "La ventaja genética que ayuda a algunas personas a mantenerse alerta de por vida",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
+    "date": "2026-01-22",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Fires Erupt in South-Central Chile",
@@ -42,13 +105,6 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Associations between physical activity, physical fitness, and body composition in adults living in Germany: A cross-sectional study",
-    "title_es": "Corrección: Asociaciones entre actividad física, aptitud física y composición corporal en adultos que viven en Alemania: un estudio transversal",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-21",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "Iterative Refinement Improves Compositional Image Generation",
     "title_es": "El refinamiento iterativo mejora la generación de imágenes compositivas",
     "url": "http://arxiv.org/abs/2601.15286v1",
@@ -70,8 +126,8 @@
     "source": "CNIC"
   },
   {
-    "title": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
-    "title_es": "Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "title": "El director científico en funciones del CNIO, Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
+    "title_es": "El director científico en funciones del CNIO, Fernando Peláez, galardonado con el XIII Premio Nacional de Biotecnología",
     "url": "https://www.cnio.es/noticias/fernando-pelaez-galardonado-con-el-xiii-premio-nacional-de-biotecnologia/",
     "date": "2026-01-21",
     "source": "CNIO"
