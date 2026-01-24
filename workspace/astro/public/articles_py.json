@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ancient giant kangaroos could hop after all",
+    "title_es": "Los antiguos canguros gigantes podían saltar después de todo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260123225925.htm",
+    "date": "2026-01-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Why does it feel like dangerous ocean creatures are ruining Australia's summer?",
+    "title_es": "¿Por qué parece que peligrosas criaturas oceánicas están arruinando el verano en Australia?",
+    "url": "https://phys.org/news/2026-01-dangerous-ocean-creatures-australia-summer.html",
+    "date": "2026-01-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Marvellous microbes, memory and the multiverse: Books in brief",
     "title_es": "Microbios maravillosos, memoria y multiverso: libros breves",
     "url": "https://www.nature.com/articles/d41586-026-00241-4",
@@ -21,6 +35,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Low-frequency transmission and persistence of antimicrobial-resistant bacteria and genes from livestock to agricultural soil and crops through compost application",
+    "title_es": "Corrección: Transmisión de baja frecuencia y persistencia de bacterias y genes resistentes a los antimicrobianos del ganado al suelo agrícola y a los cultivos mediante la aplicación de compost.",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-23",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station",
+    "title_es": "La NASA organiza reuniones informativas para la misión SpaceX Crew-12 a la estación espacial",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
+    "date": "2026-01-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "How Greenland sharks defy aging",
+    "title_es": "Cómo los tiburones de Groenlandia desafían el envejecimiento",
+    "url": "https://www.sciencenews.org/article/greenland-sharks-aging-heart-eyes",
+    "date": "2026-01-23",
+    "source": "Science News"
+  },
+  {
+    "title": "Energy may seem to disappear, but there’s a law against that",
+    "title_es": "Puede parecer que la energía desaparece, pero hay una ley que lo prohíbe",
+    "url": "https://www.snexplores.org/article/conservation-energy-forms-law",
+    "date": "2026-01-23",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Snow Buries Kamchatka",
     "title_es": "La nieve entierra Kamchatka",
     "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/",
@@ -40,13 +82,6 @@
     "url": "https://phys.org/news/2026-01-humans-local-dialects-communicate-honeyguide.html",
     "date": "2026-01-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: DeltaBreed: A BrAPI-centric breeding data information system",
-    "title_es": "Corrección: DeltaBreed: un sistema de información de datos de reproducción centrado en BrAPI",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
