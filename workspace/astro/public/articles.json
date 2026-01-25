@@ -1,5 +1,29 @@
 [
   {
+    "title": "“Stars like the Sun don’t just stop shining,” but this one did",
+    "title_es": "\"Las estrellas como el Sol no dejan de brillar\", pero ésta sí lo hizo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260124003813.htm",
+    "date": "2026-01-25",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "title": "Cleaner air is (inadvertently) harming the Great Barrier Reef",
+    "title_es": "El aire más limpio está dañando (sin darse cuenta) la Gran Barrera de Coral",
+    "url": "https://phys.org/news/2026-01-cleaner-air-inadvertently-great-barrier.html",
+    "date": "2026-01-25",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "title": "This small soil upgrade cut locust damage and doubled yields",
+    "title_es": "This small soil upgrade cut locust damage and doubled yields",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260124073929.htm",
+    "published": "2026-01-24T13:08:59.000Z",
+    "date": "2026-01-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Ancient giant kangaroos could hop after all",
     "title_es": "Los antiguos canguros gigantes podían saltar después de todo",
     "url": "https://www.sciencedaily.com/releases/2026/01/260123225925.htm",
@@ -13,6 +37,14 @@
     "url": "https://phys.org/news/2026-01-dangerous-ocean-creatures-australia-summer.html",
     "date": "2026-01-24",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-24T00:00:00.000Z"
+  },
+  {
+    "title": "The inner lives of animals",
+    "title_es": "La vida interior de los animales.",
+    "url": "https://www.sciencenews.org/article/ed-note-inner-lives-of-animals",
+    "date": "2026-01-24",
+    "source": "Science News",
     "published": "2026-01-24T00:00:00.000Z"
   },
   {
@@ -412,6 +444,14 @@
     "title_es": "Why a tool-using cow could change how we see farm animals",
     "url": "https://www.newscientist.com/article/2511920-why-a-tool-using-cow-could-change-how-we-see-farm-animals/",
     "published": "2026-01-19T16:00:47.000Z",
+    "date": "2026-01-19",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
+    "title_es": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
+    "url": "https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/",
+    "published": "2026-01-19T16:00:07.000Z",
     "date": "2026-01-19",
     "source": "New Scientist"
   },
@@ -49217,6 +49257,14 @@
     "title": "Earthset from Orion",
     "title_es": "Earthset from Orion",
     "url": "https://apod.nasa.gov/apod/image/2601/earthset-snap01.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Phobos: Doomed Moon of Mars",
+    "title_es": "Phobos: Doomed Moon of Mars",
+    "url": "https://apod.nasa.gov/apod/image/2601/phobos_mro_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
