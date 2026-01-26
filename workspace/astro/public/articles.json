@@ -1,5 +1,21 @@
 [
   {
+    "title": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
+    "title_es": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
+    "url": "https://arxiv.org/abs/2601.16217",
+    "published": "2026-01-26T05:00:00.000Z",
+    "date": "2026-01-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",
+    "title_es": "Para alcanzar el cero neto, hay que revertir la política actual y proteger los árboles más grandes del Amazonas, dicen los científicos",
+    "url": "https://phys.org/news/2026-01-net-reverse-current-policy-largest.html",
+    "date": "2026-01-26",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
     "title": "“Stars like the Sun don’t just stop shining,” but this one did",
     "title_es": "\"Las estrellas como el Sol no dejan de brillar\", pero ésta sí lo hizo",
     "url": "https://www.sciencedaily.com/releases/2026/01/260124003813.htm",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-01-cleaner-air-inadvertently-great-barrier.html",
     "date": "2026-01-25",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "title": "New DNA analysis rewrites the story of the Beachy Head Woman",
+    "title_es": "Un nuevo análisis de ADN reescribe la historia de Beachy Head Woman",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260125083421.htm",
+    "date": "2026-01-25",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-25T00:00:00.000Z"
   },
   {
@@ -125,6 +149,14 @@
     "url": "https://www.snexplores.org/article/conservation-energy-forms-law",
     "date": "2026-01-23",
     "source": "Science News Explores",
+    "published": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "title": "A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs",
+    "title_es": "Una medida escalable de la curvatura del panorama de pérdidas para analizar la dinámica de formación de los LLM",
+    "url": "http://arxiv.org/abs/2601.16979v1",
+    "date": "2026-01-23",
+    "source": "arXiv",
     "published": "2026-01-23T00:00:00.000Z"
   },
   {
@@ -451,6 +483,14 @@
     "title": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
     "title_es": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
     "url": "https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/",
+    "published": "2026-01-19T16:00:07.000Z",
+    "date": "2026-01-19",
+    "source": "New Scientist"
+  },
+  {
+    "title": "New Scientist’s guide to the 21 best ideas of the 21st century",
+    "title_es": "New Scientist’s guide to the 21 best ideas of the 21st century",
+    "url": "https://www.newscientist.com/article/2511326-new-scientists-guide-to-the-21-best-ideas-of-the-21st-century/",
     "published": "2026-01-19T16:00:07.000Z",
     "date": "2026-01-19",
     "source": "New Scientist"
@@ -49265,6 +49305,14 @@
     "title": "Phobos: Doomed Moon of Mars",
     "title_es": "Phobos: Doomed Moon of Mars",
     "url": "https://apod.nasa.gov/apod/image/2601/phobos_mro_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 55: A Galaxy of Nebulas",
+    "title_es": "NGC 55: A Galaxy of Nebulas",
+    "url": "https://apod.nasa.gov/apod/image/2601/ngc55_promper_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

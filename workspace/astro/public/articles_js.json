@@ -1,5 +1,13 @@
 [
   {
+    "title": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
+    "title_es": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
+    "url": "https://arxiv.org/abs/2601.16217",
+    "published": "2026-01-26T05:00:00.000Z",
+    "date": "2026-01-26",
+    "source": "arXiv"
+  },
+  {
     "title": "Narratives of conflict in a warming Arctic",
     "title_es": "Narratives of conflict in a warming Arctic",
     "url": "https://www.science.org/doi/abs/10.1126/science.aed7095",
@@ -72,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This small soil upgrade cut locust damage and doubled yields",
-    "title_es": "This small soil upgrade cut locust damage and doubled yields",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260124073929.htm",
-    "published": "2026-01-24T13:08:59.000Z",
-    "date": "2026-01-24",
+    "title": "New DNA analysis rewrites the story of the Beachy Head Woman",
+    "title_es": "New DNA analysis rewrites the story of the Beachy Head Woman",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260125083421.htm",
+    "published": "2026-01-25T15:04:57.000Z",
+    "date": "2026-01-25",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Cleaner air is (inadvertently) harming the Great Barrier Reef",
-    "title_es": "Cleaner air is (inadvertently) harming the Great Barrier Reef",
-    "url": "https://phys.org/news/2026-01-cleaner-air-inadvertently-great-barrier.html",
-    "published": "2026-01-25T04:40:02.000Z",
-    "date": "2026-01-25",
+    "title": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",
+    "title_es": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",
+    "url": "https://phys.org/news/2026-01-net-reverse-current-policy-largest.html",
+    "published": "2026-01-26T05:00:01.000Z",
+    "date": "2026-01-26",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,9 +104,9 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
-    "title_es": "Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the century",
-    "url": "https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/",
+    "title": "New Scientist’s guide to the 21 best ideas of the 21st century",
+    "title_es": "New Scientist’s guide to the 21 best ideas of the 21st century",
+    "url": "https://www.newscientist.com/article/2511326-new-scientists-guide-to-the-21-best-ideas-of-the-21st-century/",
     "published": "2026-01-19T16:00:07.000Z",
     "date": "2026-01-19",
     "source": "New Scientist"
@@ -120,9 +128,9 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Phobos: Doomed Moon of Mars",
-    "title_es": "Phobos: Doomed Moon of Mars",
-    "url": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg",
+    "title": "NGC 55: A Galaxy of Nebulas",
+    "title_es": "NGC 55: A Galaxy of Nebulas",
+    "url": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-10.5597&long=-95.3682",
+    "url": "https://www.latlong.net/c/?lat=15.3419&long=81.6610",
     "date": "",
     "published": "",
     "source": "ISS Position"
