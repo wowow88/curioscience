@@ -1,10 +1,80 @@
 [
   {
+    "title": "Floods Inundate Southern Mozambique",
+    "title_es": "Las inundaciones inundan el sur de Mozambique",
+    "url": "https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/",
+    "date": "2026-01-27",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Obesity and high blood pressure may directly cause dementia",
+    "title_es": "La obesidad y la presión arterial alta pueden causar directamente demencia",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
+    "date": "2026-01-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Footprint tracker identifies tiny mammals with up to 96% accuracy",
+    "title_es": "El rastreador de huellas identifica pequeños mamíferos con hasta un 96% de precisión",
+    "url": "https://phys.org/news/2026-01-footprint-tracker-tiny-mammals-accuracy.html",
+    "date": "2026-01-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",
     "title_es": "Para alcanzar el cero neto, hay que revertir la política actual y proteger los árboles más grandes del Amazonas, dicen los científicos",
     "url": "https://phys.org/news/2026-01-net-reverse-current-policy-largest.html",
     "date": "2026-01-26",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Prospective follow-up of New York City residents with e-cigarette, or vaping product use-associated lung injury—2020–2021",
+    "title_es": "Corrección: Seguimiento prospectivo de residentes de la ciudad de Nueva York con lesiones pulmonares asociadas al uso de cigarrillos electrónicos o productos de vapeo: 2020-2021",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-26",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models",
+    "title_es": "ctELM: decodificación y manipulación de incrustaciones de ensayos clínicos con modelos de lenguaje de incrustación",
+    "url": "http://arxiv.org/abs/2601.18796v1",
+    "date": "2026-01-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scalable and multiplexed recorders of gene regulation dynamics across weeks",
+    "title_es": "Registradores escalables y multiplexados de la dinámica de la regulación genética a lo largo de semanas",
+    "url": "https://www.nature.com/articles/s41586-026-10156-9",
+    "date": "2026-01-26",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la\" hreflang=\"es\">El MIT celebra su campamento astronómico en el Observatorio del Teide y comparte sus resultados en la ULL</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la\" hreflang=\"es\">El MIT celebra su campamento astronómico en el Observatorio del Teide y comparte sus resultados en la ULL</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la",
+    "date": "2026-01-26",
+    "source": "IAC"
+  },
+  {
+    "title": "European labs get aligned at CERN",
+    "title_es": "Los laboratorios europeos se alinean en el CERN",
+    "url": "https://home.cern/news/news/engineering/european-labs-get-aligned-cern",
+    "date": "2026-01-26",
+    "source": "CERN News"
+  },
+  {
+    "title": "This ancient stick may be the world’s oldest handheld wooden tool",
+    "title_es": "Este antiguo palo puede ser la herramienta de madera portátil más antigua del mundo",
+    "url": "https://www.sciencenews.org/article/stick-oldest-handheld-wooden-tool",
+    "date": "2026-01-26",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Haboob",
+    "title_es": "Los científicos dicen: Haboob",
+    "url": "https://www.snexplores.org/article/scientists-say-haboob-definition-pronunciation",
+    "date": "2026-01-26",
+    "source": "Science News Explores"
   },
   {
     "title": "“Stars like the Sun don’t just stop shining,” but this one did",
@@ -68,13 +138,6 @@
     "url": "https://phys.org/news/2026-01-whales-resources-pressures-climate.html",
     "date": "2026-01-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Low-frequency transmission and persistence of antimicrobial-resistant bacteria and genes from livestock to agricultural soil and crops through compost application",
-    "title_es": "Corrección: Transmisión de baja frecuencia y persistencia de bacterias y genes resistentes a los antimicrobianos del ganado al suelo agrícola y a los cultivos mediante la aplicación de compost.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station",

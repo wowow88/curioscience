@@ -1,5 +1,61 @@
 [
   {
+    "title": "TelcoAI: Advancing 3GPP Technical Specification Search through Agentic Multi-Modal Retrieval-Augmented Generation",
+    "title_es": "TelcoAI: Advancing 3GPP Technical Specification Search through Agentic Multi-Modal Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2601.16984",
+    "published": "2026-01-27T05:00:00.000Z",
+    "date": "2026-01-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Paleontologists Unearth New Species of Titanosaur in Argentina",
+    "title_es": "Paleontologists Unearth New Species of Titanosaur in Argentina",
+    "url": "https://www.sci.news/paleontology/yeneen-houssayi-14510.html",
+    "published": "2026-01-27T00:43:46.000Z",
+    "date": "2026-01-27",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Floods Inundate Southern Mozambique",
+    "title_es": "Las inundaciones inundan el sur de Mozambique",
+    "url": "https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/",
+    "date": "2026-01-27",
+    "source": "NASA (Top News)",
+    "published": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "title": "Obesity and high blood pressure may directly cause dementia",
+    "title_es": "La obesidad y la presión arterial alta pueden causar directamente demencia",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
+    "date": "2026-01-27",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "title": "Footprint tracker identifies tiny mammals with up to 96% accuracy",
+    "title_es": "El rastreador de huellas identifica pequeños mamíferos con hasta un 96% de precisión",
+    "url": "https://phys.org/news/2026-01-footprint-tracker-tiny-mammals-accuracy.html",
+    "date": "2026-01-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "title": "Stick shaped by ancient humans is the oldest known wooden tool",
+    "title_es": "Stick shaped by ancient humans is the oldest known wooden tool",
+    "url": "https://www.newscientist.com/article/2509608-stick-shaped-by-ancient-humans-is-the-oldest-known-wooden-tool/",
+    "published": "2026-01-26T20:00:29.000Z",
+    "date": "2026-01-26",
+    "source": "New Scientist"
+  },
+  {
+    "title": "What the Rise of AI Scientists May Mean for Human Research",
+    "title_es": "What the Rise of AI Scientists May Mean for Human Research",
+    "url": "https://undark.org/2026/01/26/ai-scientists-human-research/",
+    "published": "2026-01-26T08:22:00.000Z",
+    "date": "2026-01-26",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
     "title_es": "ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation",
     "url": "https://arxiv.org/abs/2601.16217",
@@ -14,6 +70,62 @@
     "date": "2026-01-26",
     "source": "Phys.org (Latest)",
     "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models",
+    "title_es": "ctELM: decodificación y manipulación de incrustaciones de ensayos clínicos con modelos de lenguaje de incrustación",
+    "url": "http://arxiv.org/abs/2601.18796v1",
+    "date": "2026-01-26",
+    "source": "arXiv",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "Scalable and multiplexed recorders of gene regulation dynamics across weeks",
+    "title_es": "Registradores escalables y multiplexados de la dinámica de la regulación genética a lo largo de semanas",
+    "url": "https://www.nature.com/articles/s41586-026-10156-9",
+    "date": "2026-01-26",
+    "source": "Nature",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la\" hreflang=\"es\">El MIT celebra su campamento astronómico en el Observatorio del Teide y comparte sus resultados en la ULL</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la\" hreflang=\"es\">El MIT celebra su campamento astronómico en el Observatorio del Teide y comparte sus resultados en la ULL</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-mit-celebra-su-campamento-astronomico-en-el-observatorio-del-teide-y-comparte-sus-resultados-en-la",
+    "date": "2026-01-26",
+    "source": "IAC",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "European labs get aligned at CERN",
+    "title_es": "Los laboratorios europeos se alinean en el CERN",
+    "url": "https://home.cern/news/news/engineering/european-labs-get-aligned-cern",
+    "date": "2026-01-26",
+    "source": "CERN News",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "This ancient stick may be the world’s oldest handheld wooden tool",
+    "title_es": "Este antiguo palo puede ser la herramienta de madera portátil más antigua del mundo",
+    "url": "https://www.sciencenews.org/article/stick-oldest-handheld-wooden-tool",
+    "date": "2026-01-26",
+    "source": "Science News",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Haboob",
+    "title_es": "Los científicos dicen: Haboob",
+    "url": "https://www.snexplores.org/article/scientists-say-haboob-definition-pronunciation",
+    "date": "2026-01-26",
+    "source": "Science News Explores",
+    "published": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "title": "Defending endangered trees against climate change and hungry goats",
+    "title_es": "Defending endangered trees against climate change and hungry goats",
+    "url": "https://www.nature.com/articles/d41586-026-00248-x",
+    "published": "2026-01-26T00:00:00.000Z",
+    "date": "2026-01-26",
+    "source": "Nature"
   },
   {
     "title": "“Stars like the Sun don’t just stop shining,” but this one did",
@@ -15911,8 +16023,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Low-frequency transmission and persistence of antimicrobial-resistant bacteria and genes from livestock to agricultural soil and crops through compost application",
-    "title_es": "Corrección: Transmisión de baja frecuencia y persistencia de bacterias y genes resistentes a los antimicrobianos del ganado al suelo agrícola y a los cultivos mediante la aplicación de compost.",
+    "title": "Correction: Prospective follow-up of New York City residents with e-cigarette, or vaping product use-associated lung injury—2020–2021",
+    "title_es": "Corrección: Seguimiento prospectivo de residentes de la ciudad de Nueva York con lesiones pulmonares asociadas al uso de cigarrillos electrónicos o productos de vapeo: 2020-2021",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -49313,6 +49425,14 @@
     "title": "NGC 55: A Galaxy of Nebulas",
     "title_es": "NGC 55: A Galaxy of Nebulas",
     "url": "https://apod.nasa.gov/apod/image/2601/ngc55_promper_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Orion's Treasures over Snowy Mountains",
+    "title_es": "Orion's Treasures over Snowy Mountains",
+    "url": "https://apod.nasa.gov/apod/image/2601/oriontatras_bubak_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
