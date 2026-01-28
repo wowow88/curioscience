@@ -1,5 +1,19 @@
 [
   {
+    "title": "Snow Buries the U.S. Interior and East",
+    "title_es": "La nieve entierra el interior y el este de Estados Unidos",
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/",
+    "date": "2026-01-28",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Donkeys are a common sight in northern Namibia. What colonial history has to do with it",
+    "title_es": "Los burros son una vista común en el norte de Namibia. ¿Qué tiene que ver la historia colonial con esto?",
+    "url": "https://phys.org/news/2026-01-donkeys-common-sight-northern-namibia.html",
+    "date": "2026-01-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Floods Inundate Southern Mozambique",
     "title_es": "Las inundaciones inundan el sur de Mozambique",
     "url": "https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/",
@@ -21,18 +35,74 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: SSNdesign—An R package for pseudo-Bayesian optimal and adaptive sampling designs on stream networks",
+    "title_es": "Corrección: SSNdesign: un paquete R para diseños de muestreo adaptativos y óptimos pseudobayesianos en redes de flujo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-27",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "M-SGWR: Multiscale Similarity and Geographically Weighted Regression",
+    "title_es": "M-SGWR: Similitud multiescala y regresión ponderada geográficamente",
+    "url": "http://arxiv.org/abs/2601.19888v1",
+    "date": "2026-01-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Relatively warm deep-water formation persisted in the Last Glacial Maximum",
+    "title_es": "Corrección del autor: La formación de aguas profundas relativamente cálidas persistió en el último máximo glacial",
+    "url": "https://www.nature.com/articles/s41586-026-10186-3",
+    "date": "2026-01-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Travis Hinson: \"Los que nos dedicamos a la investigación y la medicina tenemos el deber de educar mejor, de ser más honestos, más abiertos y más transparentes\"",
+    "title_es": "Travis Hinson: \"Los que nos dedicamos a la investigación y la medicina tenemos el deber de educar mejor, de ser más honestos, más abiertos y más transparentes\"",
+    "url": "https://www.cnic.es/es/noticias/travis-hinson-que-nos-dedicamos-investigacion-medicina-tenemos-deber-educar-mejor-ser-mas",
+    "date": "2026-01-27",
+    "source": "CNIC"
+  },
+  {
+    "title": "El grupo de Barbacid en el CNIO elimina tumores de páncreas en ratones por completo y sin que aparezcan resistencias",
+    "title_es": "El grupo de Barbacid en el CNIO elimina tumores de páncreas en ratones por completo y sin que aparezcan resistencias",
+    "url": "https://www.cnio.es/noticias/el-grupo-de-barbacid-en-el-cnio-elimina-tumores-de-pancreas-en-ratones-por-completo-y-sin-que-aparezcan-resistencias/",
+    "date": "2026-01-27",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-subdirectora-del-instituto-de-astrofisica-de-canarias-se-incorpora-al-maximo-organo-asesor\" hreflang=\"es\">Eva Villaver, subdirectora del Instituto de Astrofísica de Canarias, se incorpora al máximo órgano asesor científico de la Agencia Espacial Europea</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-subdirectora-del-instituto-de-astrofisica-de-canarias-se-incorpora-al-maximo-organo-asesor\" hreflang=\"es\">Eva Villaver, subdirectora del Instituto de Astrofísica de Canarias, se incorpora al máximo órgano asesor científico de la Agencia Espacial Europea</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/eva-villaver-subdirectora-del-instituto-de-astrofisica-de-canarias-se-incorpora-al-maximo-organo-asesor",
+    "date": "2026-01-27",
+    "source": "IAC"
+  },
+  {
+    "title": "The brain’s response to a heart attack may worsen recovery",
+    "title_es": "La respuesta del cerebro a un ataque cardíaco puede empeorar la recuperación",
+    "url": "https://www.sciencenews.org/article/heart-attack-brain-damage",
+    "date": "2026-01-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Let’s learn about viruses",
+    "title_es": "Aprendamos sobre los virus",
+    "url": "https://www.snexplores.org/article/lets-learn-about-viruses",
+    "date": "2026-01-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A century-old Stonehenge mystery may finally be solved",
+    "title_es": "Un misterio centenario de Stonehenge finalmente puede resolverse",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
+    "date": "2026-01-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",
     "title_es": "Para alcanzar el cero neto, hay que revertir la política actual y proteger los árboles más grandes del Amazonas, dicen los científicos",
     "url": "https://phys.org/news/2026-01-net-reverse-current-policy-largest.html",
     "date": "2026-01-26",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Prospective follow-up of New York City residents with e-cigarette, or vaping product use-associated lung injury—2020–2021",
-    "title_es": "Corrección: Seguimiento prospectivo de residentes de la ciudad de Nueva York con lesiones pulmonares asociadas al uso de cigarrillos electrónicos o productos de vapeo: 2020-2021",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models",
