@@ -1,5 +1,26 @@
 [
   {
+    "title": "Critical social media posts linked to retractions of scientific papers",
+    "title_es": "Publicaciones críticas en las redes sociales vinculadas a retractaciones de artículos científicos",
+    "url": "https://www.nature.com/articles/d41586-025-04146-6",
+    "date": "2026-01-29",
+    "source": "Nature"
+  },
+  {
+    "title": "The West Faces Snow Drought",
+    "title_es": "Occidente se enfrenta a la sequía de nieve",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-west-faces-snow-drought/",
+    "date": "2026-01-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Research clarifies record-late monsoon onset, aiding northern Australian communities",
+    "title_es": "Una investigación aclara el inicio récord del monzón, lo que ayuda a las comunidades del norte de Australia",
+    "url": "https://phys.org/news/2026-01-late-monsoon-onset-aiding-northern.html",
+    "date": "2026-01-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Snow Buries the U.S. Interior and East",
     "title_es": "La nieve entierra el interior y el este de Estados Unidos",
     "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/",
@@ -12,6 +33,55 @@
     "url": "https://phys.org/news/2026-01-donkeys-common-sight-northern-namibia.html",
     "date": "2026-01-28",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Human movement patterns predict task-unrelated thought",
+    "title_es": "Los patrones de movimiento humano predicen el pensamiento no relacionado con la tarea",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-28",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Evolutionary Strategies lead to Catastrophic Forgetting in LLMs",
+    "title_es": "Las estrategias evolutivas conducen a un olvido catastrófico en los LLM",
+    "url": "http://arxiv.org/abs/2601.20861v1",
+    "date": "2026-01-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Immunity: CNIC scientists uncover a novel mechanism involved in inflammation resolution",
+    "title_es": "Immunity: CNIC scientists uncover a novel mechanism involved in inflammation resolution",
+    "url": "https://www.cnic.es/es/node/239736",
+    "date": "2026-01-28",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm\" hreflang=\"es\">El colaborador del IAC Sebastián Francisco Sánchez, nuevo director del proyecto LVM</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm\" hreflang=\"es\">El colaborador del IAC Sebastián Francisco Sánchez, nuevo director del proyecto LVM</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm",
+    "date": "2026-01-28",
+    "source": "IAC"
+  },
+  {
+    "title": "Whaling may have started 1,500 years earlier than already known",
+    "title_es": "La caza de ballenas pudo haber comenzado 1.500 años antes de lo que se sabe",
+    "url": "https://www.sciencenews.org/article/whaling-brazil-1500-years-earlier",
+    "date": "2026-01-28",
+    "source": "Science News"
+  },
+  {
+    "title": "Chatbots may make learning feel easy — but it’s shallow",
+    "title_es": "Los chatbots pueden hacer que el aprendizaje parezca fácil, pero es superficial",
+    "url": "https://www.snexplores.org/article/chatbots-shallow-learning",
+    "date": "2026-01-28",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Dark stars could solve three major mysteries of the early universe",
+    "title_es": "Las estrellas oscuras podrían resolver tres grandes misterios del universo primitivo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
+    "date": "2026-01-28",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Floods Inundate Southern Mozambique",
@@ -33,13 +103,6 @@
     "url": "https://phys.org/news/2026-01-footprint-tracker-tiny-mammals-accuracy.html",
     "date": "2026-01-27",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: SSNdesign—An R package for pseudo-Bayesian optimal and adaptive sampling designs on stream networks",
-    "title_es": "Corrección: SSNdesign: un paquete R para diseños de muestreo adaptativos y óptimos pseudobayesianos en redes de flujo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-27",
-    "source": "PLOS ONE"
   },
   {
     "title": "M-SGWR: Multiscale Similarity and Geographically Weighted Regression",
@@ -96,6 +159,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
     "date": "2026-01-27",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Computer Security: A final dash to protect your account",
+    "title_es": "Seguridad informática: un último paso para proteger su cuenta",
+    "url": "https://home.cern/news/news/computing/computer-security-final-dash-protect-your-account",
+    "date": "2026-01-27",
+    "source": "CERN News"
   },
   {
     "title": "To reach net-zero, reverse current policy and protect the largest trees in the Amazon, say scientists",

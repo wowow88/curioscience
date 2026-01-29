@@ -1,5 +1,53 @@
 [
   {
+    "title": "Flexible Bit-Truncation Memory for Approximate Applications on the Edge",
+    "title_es": "Flexible Bit-Truncation Memory for Approximate Applications on the Edge",
+    "url": "https://arxiv.org/abs/2601.19900",
+    "published": "2026-01-29T05:00:00.000Z",
+    "date": "2026-01-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Critical social media posts linked to retractions of scientific papers",
+    "title_es": "Publicaciones críticas en las redes sociales vinculadas a retractaciones de artículos científicos",
+    "url": "https://www.nature.com/articles/d41586-025-04146-6",
+    "date": "2026-01-29",
+    "source": "Nature",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "The West Faces Snow Drought",
+    "title_es": "Occidente se enfrenta a la sequía de nieve",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-west-faces-snow-drought/",
+    "date": "2026-01-29",
+    "source": "NASA (Top News)",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Research clarifies record-late monsoon onset, aiding northern Australian communities",
+    "title_es": "Una investigación aclara el inicio récord del monzón, lo que ayuda a las comunidades del norte de Australia",
+    "url": "https://phys.org/news/2026-01-late-monsoon-onset-aiding-northern.html",
+    "date": "2026-01-29",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "This virus infects most of us – but why do only some get very ill?",
+    "title_es": "This virus infects most of us – but why do only some get very ill?",
+    "url": "https://www.newscientist.com/article/2513522-this-virus-infects-most-of-us-but-why-do-only-some-get-very-ill/",
+    "published": "2026-01-28T16:00:25.000Z",
+    "date": "2026-01-28",
+    "source": "New Scientist"
+  },
+  {
+    "title": "How MAHA Exploits the Flaws of Modern Science",
+    "title_es": "How MAHA Exploits the Flaws of Modern Science",
+    "url": "https://undark.org/2026/01/28/opinion-maha-science-flaws/",
+    "published": "2026-01-28T08:43:00.000Z",
+    "date": "2026-01-28",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Rare Cosmic Lineup Gives Hubble Close Look at 3I/ATLAS",
     "title_es": "Rare Cosmic Lineup Gives Hubble Close Look at 3I/ATLAS",
     "url": "https://www.sci.news/astronomy/hubble-near-opposition-alignment-3i-atlas-14515.html",
@@ -8,7 +56,7 @@
     "source": "Sci.News"
   },
   {
-    "title": "Snow Buries the U.S. Interior and East",
+    "title": "Snow Buries the U.S. Interior and East",
     "title_es": "La nieve entierra el interior y el este de Estados Unidos",
     "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/",
     "date": "2026-01-28",
@@ -21,6 +69,54 @@
     "url": "https://phys.org/news/2026-01-donkeys-common-sight-northern-namibia.html",
     "date": "2026-01-28",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Evolutionary Strategies lead to Catastrophic Forgetting in LLMs",
+    "title_es": "Las estrategias evolutivas conducen a un olvido catastrófico en los LLM",
+    "url": "http://arxiv.org/abs/2601.20861v1",
+    "date": "2026-01-28",
+    "source": "arXiv",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Immunity: CNIC scientists uncover a novel mechanism involved in inflammation resolution",
+    "title_es": "Immunity: CNIC scientists uncover a novel mechanism involved in inflammation resolution",
+    "url": "https://www.cnic.es/es/node/239736",
+    "date": "2026-01-28",
+    "source": "CNIC",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm\" hreflang=\"es\">El colaborador del IAC Sebastián Francisco Sánchez, nuevo director del proyecto LVM</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm\" hreflang=\"es\">El colaborador del IAC Sebastián Francisco Sánchez, nuevo director del proyecto LVM</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-colaborador-del-iac-sebastian-francisco-sanchez-nuevo-director-del-proyecto-lvm",
+    "date": "2026-01-28",
+    "source": "IAC",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Whaling may have started 1,500 years earlier than already known",
+    "title_es": "La caza de ballenas pudo haber comenzado 1.500 años antes de lo que se sabe",
+    "url": "https://www.sciencenews.org/article/whaling-brazil-1500-years-earlier",
+    "date": "2026-01-28",
+    "source": "Science News",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Chatbots may make learning feel easy — but it’s shallow",
+    "title_es": "Los chatbots pueden hacer que el aprendizaje parezca fácil, pero es superficial",
+    "url": "https://www.snexplores.org/article/chatbots-shallow-learning",
+    "date": "2026-01-28",
+    "source": "Science News Explores",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Dark stars could solve three major mysteries of the early universe",
+    "title_es": "Las estrellas oscuras podrían resolver tres grandes misterios del universo primitivo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
+    "date": "2026-01-28",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-28T00:00:00.000Z"
   },
   {
@@ -144,12 +240,28 @@
     "published": "2026-01-27T00:00:00.000Z"
   },
   {
+    "title": "Computer Security: A final dash to protect your account",
+    "title_es": "Seguridad informática: un último paso para proteger su cuenta",
+    "url": "https://home.cern/news/news/computing/computer-security-final-dash-protect-your-account",
+    "date": "2026-01-27",
+    "source": "CERN News",
+    "published": "2026-01-27T00:00:00.000Z"
+  },
+  {
     "title": "Stick shaped by ancient humans is the oldest known wooden tool",
     "title_es": "Stick shaped by ancient humans is the oldest known wooden tool",
     "url": "https://www.newscientist.com/article/2509608-stick-shaped-by-ancient-humans-is-the-oldest-known-wooden-tool/",
     "published": "2026-01-26T20:00:29.000Z",
     "date": "2026-01-26",
     "source": "New Scientist"
+  },
+  {
+    "title": "Heating homes with the world’s largest particle accelerator",
+    "title_es": "Heating homes with the world’s largest particle accelerator",
+    "url": "https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator",
+    "published": "2026-01-26T08:48:35.000Z",
+    "date": "2026-01-26",
+    "source": "CERN News"
   },
   {
     "title": "What the Rise of AI Scientists May Mean for Human Research",
@@ -16127,8 +16239,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: SSNdesign—An R package for pseudo-Bayesian optimal and adaptive sampling designs on stream networks",
-    "title_es": "Corrección: SSNdesign: un paquete R para diseños de muestreo adaptativos y óptimos pseudobayesianos en redes de flujo",
+    "title": "Human movement patterns predict task-unrelated thought",
+    "title_es": "Los patrones de movimiento humano predicen el pensamiento no relacionado con la tarea",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -49545,6 +49657,14 @@
     "title": "M78: Reflecting Blue in a Sea of Red",
     "title_es": "M78: Reflecting Blue in a Sea of Red",
     "url": "https://apod.nasa.gov/apod/image/2601/m78red_mccauley_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 2442: Galaxy in Volans",
+    "title_es": "NGC 2442: Galaxy in Volans",
+    "url": "https://apod.nasa.gov/apod/image/2601/ngc-2442-rev-1-crop-18-jan-2026_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
