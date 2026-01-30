@@ -1,5 +1,53 @@
 [
   {
+    "title": "The Noncomputability of Immune Reaction Complexity: Algorithmic Information Gaps under Effective Constraints",
+    "title_es": "The Noncomputability of Immune Reaction Complexity: Algorithmic Information Gaps under Effective Constraints",
+    "url": "https://arxiv.org/abs/2601.20865",
+    "published": "2026-01-30T05:00:00.000Z",
+    "date": "2026-01-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "TESS Observes Interstellar Comet 3I/ATLAS",
+    "title_es": "TESS Observes Interstellar Comet 3I/ATLAS",
+    "url": "https://www.sci.news/astronomy/tess-interstellar-comet-3i-atlas-14520.html",
+    "published": "2026-01-30T01:00:42.000Z",
+    "date": "2026-01-30",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Extreme January Cold",
+    "title_es": "Frío extremo de enero",
+    "url": "https://science.nasa.gov/earth/earth-observatory/extreme-january-cold/",
+    "date": "2026-01-30",
+    "source": "NASA (Top News)",
+    "published": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "title": "Wolves and other predators present 'a crisis,' California's environment chief says",
+    "title_es": "Los lobos y otros depredadores presentan \"una crisis\", dice el jefe de medio ambiente de California",
+    "url": "https://phys.org/news/2026-01-wolves-predators-crisis-california-environment.html",
+    "date": "2026-01-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "title": "AI-assisted mammograms cut risk of developing aggressive breast cancer",
+    "title_es": "AI-assisted mammograms cut risk of developing aggressive breast cancer",
+    "url": "https://www.newscientist.com/article/2513769-ai-assisted-mammograms-cut-risk-of-developing-aggressive-breast-cancer/",
+    "published": "2026-01-29T23:30:54.000Z",
+    "date": "2026-01-29",
+    "source": "New Scientist"
+  },
+  {
+    "title": "At NIH, a Power Struggle Over Institute Directorships Deepens",
+    "title_es": "At NIH, a Power Struggle Over Institute Directorships Deepens",
+    "url": "https://undark.org/2026/01/29/nih-institute-directorships/",
+    "published": "2026-01-29T08:38:00.000Z",
+    "date": "2026-01-29",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Flexible Bit-Truncation Memory for Approximate Applications on the Edge",
     "title_es": "Flexible Bit-Truncation Memory for Approximate Applications on the Edge",
     "url": "https://arxiv.org/abs/2601.19900",
@@ -29,6 +77,70 @@
     "url": "https://phys.org/news/2026-01-late-monsoon-onset-aiding-northern.html",
     "date": "2026-01-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "RedSage: A Cybersecurity Generalist LLM",
+    "title_es": "RedSage: un LLM generalista en ciberseguridad",
+    "url": "http://arxiv.org/abs/2601.22159v1",
+    "date": "2026-01-29",
+    "source": "arXiv",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "The essential nature of creative endeavors",
+    "title_es": "La naturaleza esencial de los esfuerzos creativos.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed8689",
+    "date": "2026-01-29",
+    "source": "Science.org",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Hunter-gatherer sea voyages extended to remotest Mediterranean islands",
+    "title_es": "Corrección del autor: Los viajes marítimos de cazadores-recolectores se extendieron a las islas más remotas del Mediterráneo",
+    "url": "https://www.nature.com/articles/s41586-025-10024-y",
+    "date": "2026-01-29",
+    "source": "Nature",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-antonia-varela-reconocida-por-forbes-como-una-de-las-mujeres-canarias-mas-influyentes\" hreflang=\"es\">La investigadora Antonia Varela, reconocida por Forbes como una de las mujeres canarias más influyentes</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-antonia-varela-reconocida-por-forbes-como-una-de-las-mujeres-canarias-mas-influyentes\" hreflang=\"es\">La investigadora Antonia Varela, reconocida por Forbes como una de las mujeres canarias más influyentes</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-investigadora-antonia-varela-reconocida-por-forbes-como-una-de-las-mujeres-canarias-mas-influyentes",
+    "date": "2026-01-29",
+    "source": "IAC",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Groundbreaking CMS calorimeter for the High-Luminosity LHC",
+    "title_es": "Innovador calorímetro CMS para el LHC de alta luminosidad",
+    "url": "https://home.cern/news/news/experiments/groundbreaking-cms-calorimeter-high-luminosity-lhc",
+    "date": "2026-01-29",
+    "source": "CERN News",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Genes may shape how long we live more than once thought",
+    "title_es": "Los genes pueden determinar cuánto tiempo vivimos, más de lo que se pensaba",
+    "url": "https://www.sciencenews.org/article/genes-shape-how-long-we-live-longevity",
+    "date": "2026-01-29",
+    "source": "Science News",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Everyone experiences malicious joy now and then",
+    "title_es": "Todo el mundo experimenta de vez en cuando una alegría maliciosa.",
+    "url": "https://www.snexplores.org/article/malicious-joy-schadenfreude-emotion",
+    "date": "2026-01-29",
+    "source": "Science News Explores",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "A breakthrough that turns exhaust CO2 into useful materials",
+    "title_es": "Un avance que convierte el CO2 de escape en materiales útiles",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260128230509.htm",
+    "date": "2026-01-29",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-29T00:00:00.000Z"
   },
   {
@@ -117,6 +229,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
     "date": "2026-01-28",
     "source": "ScienceDaily (Top)",
+    "published": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "title": "Immunity: Descubren un nuevo mecanismo implicado en el control de la inflamación",
+    "title_es": "Immunity: Descubren un nuevo mecanismo implicado en el control de la inflamación",
+    "url": "https://www.cnic.es/es/noticias/immunity-descubren-un-nuevo-mecanismo-implicado-control-inflamacion",
+    "date": "2026-01-28",
+    "source": "CNIC",
     "published": "2026-01-28T00:00:00.000Z"
   },
   {
@@ -16239,8 +16359,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Human movement patterns predict task-unrelated thought",
-    "title_es": "Los patrones de movimiento humano predicen el pensamiento no relacionado con la tarea",
+    "title": "Correction: Predicting hypertension and identifying most important factors among married women in Bangladesh using machine learning approach",
+    "title_es": "Corrección: predecir la hipertensión e identificar los factores más importantes entre las mujeres casadas en Bangladesh mediante un enfoque de aprendizaje automático",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -49665,6 +49785,14 @@
     "title": "NGC 2442: Galaxy in Volans",
     "title_es": "NGC 2442: Galaxy in Volans",
     "url": "https://apod.nasa.gov/apod/image/2601/ngc-2442-rev-1-crop-18-jan-2026_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 1333: Stellar Nursery in Perseus",
+    "title_es": "NGC 1333: Stellar Nursery in Perseus",
+    "url": "https://apod.nasa.gov/apod/image/2601/ngc1333_robert_eder1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
