@@ -1,5 +1,12 @@
 [
   {
+    "title": "How the 2024 presidential election may have changed behaviors around firearms",
+    "title_es": "Cómo las elecciones presidenciales de 2024 pueden haber cambiado los comportamientos en torno a las armas de fuego",
+    "url": "https://phys.org/news/2026-01-presidential-election-behaviors-firearms.html",
+    "date": "2026-01-31",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Extreme January Cold",
     "title_es": "Frío extremo de enero",
     "url": "https://science.nasa.gov/earth/earth-observatory/extreme-january-cold/",
@@ -12,6 +19,62 @@
     "url": "https://phys.org/news/2026-01-wolves-predators-crisis-california-environment.html",
     "date": "2026-01-30",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Predicting unsafe behaviour from the objective assessment of fatigue manifestation among scaffolders: Evidence from a Quasi-experimental simulation study",
+    "title_es": "Corrección: Predicción de comportamientos inseguros a partir de la evaluación objetiva de la manifestación de fatiga entre andamios: evidencia de un estudio de simulación cuasiexperimental",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-01-30",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Publisher Correction: A domed pachycephalosaur from the early Cretaceous of Mongolia",
+    "title_es": "Corrección del editor: un paquicefalosaurio abovedado del Cretácico temprano de Mongolia",
+    "url": "https://www.nature.com/articles/s41586-026-10184-5",
+    "date": "2026-01-30",
+    "source": "Nature"
+  },
+  {
+    "title": "Ellie Tzima: \"Genuine interest and enthusiasm are essential; skills can be learned, motivation cannot\"",
+    "title_es": "Ellie Tzima: \"Genuine interest and enthusiasm are essential; skills can be learned, motivation cannot\"",
+    "url": "https://www.cnic.es/es/node/239786",
+    "date": "2026-01-30",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-wikimedia-espana-impulsan-una-editatona-para-visibilizar-las-mujeres-en-la-astronomia-en\" hreflang=\"es\">El IAC y Wikimedia España impulsan una editatona para visibilizar a las mujeres en la Astronomía en Wikipedia</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-wikimedia-espana-impulsan-una-editatona-para-visibilizar-las-mujeres-en-la-astronomia-en\" hreflang=\"es\">El IAC y Wikimedia España impulsan una editatona para visibilizar a las mujeres en la Astronomía en Wikipedia</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-wikimedia-espana-impulsan-una-editatona-para-visibilizar-las-mujeres-en-la-astronomia-en",
+    "date": "2026-01-30",
+    "source": "IAC"
+  },
+  {
+    "title": "NASA Selects Axiom Space for Fifth Private Mission to Space Station",
+    "title_es": "La NASA selecciona Axiom Space para la quinta misión privada a la estación espacial",
+    "url": "https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/",
+    "date": "2026-01-30",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A Greek star catalog from the dawn of astronomy, revealed",
+    "title_es": "Revelado un catálogo de estrellas griego de los albores de la astronomía",
+    "url": "https://www.sciencenews.org/article/greek-star-catalog-hipparchus-astronomy",
+    "date": "2026-01-30",
+    "source": "Science News"
+  },
+  {
+    "title": "Yum! Flies swarm to a flower that smells like wounded ants",
+    "title_es": "¡Mmm! Las moscas pululan hacia una flor que huele a hormigas heridas",
+    "url": "https://www.snexplores.org/article/flower-smells-like-wounded-ants",
+    "date": "2026-01-30",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Gray wolves are hunting sea otters and no one knows how",
+    "title_es": "Los lobos grises cazan nutrias marinas y nadie sabe cómo",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260129080446.htm",
+    "date": "2026-01-30",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Critical social media posts linked to retractions of scientific papers",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-01-late-monsoon-onset-aiding-northern.html",
     "date": "2026-01-29",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Predicting hypertension and identifying most important factors among married women in Bangladesh using machine learning approach",
-    "title_es": "Corrección: predecir la hipertensión e identificar los factores más importantes entre las mujeres casadas en Bangladesh mediante un enfoque de aprendizaje automático",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-01-29",
-    "source": "PLOS ONE"
   },
   {
     "title": "RedSage: A Cybersecurity Generalist LLM",
