@@ -1,10 +1,26 @@
 [
   {
+    "title": "More than half of transgender youth live in states with restrictive laws or policies",
+    "title_es": "Más de la mitad de los jóvenes transgénero viven en estados con leyes o políticas restrictivas",
+    "url": "https://phys.org/news/2026-01-transgender-youth-states-restrictive-laws.html",
+    "date": "2026-02-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-01T00:00:00.000Z"
+  },
+  {
     "title": "How the 2024 presidential election may have changed behaviors around firearms",
     "title_es": "Cómo las elecciones presidenciales de 2024 pueden haber cambiado los comportamientos en torno a las armas de fuego",
     "url": "https://phys.org/news/2026-01-presidential-election-behaviors-firearms.html",
     "date": "2026-01-31",
     "source": "Phys.org (Latest)",
+    "published": "2026-01-31T00:00:00.000Z"
+  },
+  {
+    "title": "Jupiter’s clouds are hiding something big",
+    "title_es": "Las nubes de Júpiter esconden algo grande",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260131084138.htm",
+    "date": "2026-01-31",
+    "source": "ScienceDaily (Top)",
     "published": "2026-01-31T00:00:00.000Z"
   },
   {
@@ -228,6 +244,14 @@
     "title_es": "This virus infects most of us – but why do only some get very ill?",
     "url": "https://www.newscientist.com/article/2513522-this-virus-infects-most-of-us-but-why-do-only-some-get-very-ill/",
     "published": "2026-01-28T16:00:25.000Z",
+    "date": "2026-01-28",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Ancient humans were seafaring far earlier than we realised",
+    "title_es": "Ancient humans were seafaring far earlier than we realised",
+    "url": "https://www.newscientist.com/article/2511681-ancient-humans-were-seafaring-far-earlier-than-we-realised/",
+    "published": "2026-01-28T16:00:23.000Z",
     "date": "2026-01-28",
     "source": "New Scientist"
   },
@@ -49889,6 +49913,14 @@
     "title": "Artemis I: Flight Day 13",
     "title_es": "Artemis I: Flight Day 13",
     "url": "https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Galle: Happy Face Crater on Mars",
+    "title_es": "Galle: Happy Face Crater on Mars",
+    "url": "https://apod.nasa.gov/apod/image/2602/marshappyface_mgs_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
