@@ -1,5 +1,19 @@
 [
   {
+    "title": "Baby dinosaurs were the backbone of the Jurassic food chain",
+    "title_es": "Los dinosaurios bebés fueron la columna vertebral de la cadena alimentaria del Jurásico",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260201223727.htm",
+    "date": "2026-02-02",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Tiny new dinosaur Foskeia pelendonum fills in an evolutionary gap",
+    "title_es": "El nuevo y diminuto dinosaurio Foskeia pelendonum llena un vacío evolutivo",
+    "url": "https://phys.org/news/2026-01-tiny-dinosaur-foskeia-pelendonum-evolutionary.html",
+    "date": "2026-02-02",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "More than half of transgender youth live in states with restrictive laws or policies",
     "title_es": "Más de la mitad de los jóvenes transgénero viven en estados con leyes o políticas restrictivas",
     "url": "https://phys.org/news/2026-01-transgender-youth-states-restrictive-laws.html",
@@ -89,6 +103,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/01/260129080446.htm",
     "date": "2026-01-30",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+    "title_es": "VideoGPA: Destilación de los antecedentes de la geometría para una generación de vídeo consistente en 3D",
+    "url": "http://arxiv.org/abs/2601.23286v1",
+    "date": "2026-01-30",
+    "source": "arXiv"
   },
   {
     "title": "Critical social media posts linked to retractions of scientific papers",

@@ -1,5 +1,29 @@
 [
   {
+    "title": "Screen, Match, and Cache: A Training-Free Causality-Consistent Reference Frame Framework for Human Animation",
+    "title_es": "Screen, Match, and Cache: A Training-Free Causality-Consistent Reference Frame Framework for Human Animation",
+    "url": "https://arxiv.org/abs/2601.22160",
+    "published": "2026-02-02T05:00:00.000Z",
+    "date": "2026-02-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Baby dinosaurs were the backbone of the Jurassic food chain",
+    "title_es": "Los dinosaurios bebés fueron la columna vertebral de la cadena alimentaria del Jurásico",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260201223727.htm",
+    "date": "2026-02-02",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny new dinosaur Foskeia pelendonum fills in an evolutionary gap",
+    "title_es": "El nuevo y diminuto dinosaurio Foskeia pelendonum llena un vacío evolutivo",
+    "url": "https://phys.org/news/2026-01-tiny-dinosaur-foskeia-pelendonum-evolutionary.html",
+    "date": "2026-02-02",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
     "title": "More than half of transgender youth live in states with restrictive laws or policies",
     "title_es": "Más de la mitad de los jóvenes transgénero viven en estados con leyes o políticas restrictivas",
     "url": "https://phys.org/news/2026-01-transgender-youth-states-restrictive-laws.html",
@@ -125,6 +149,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/01/260129080446.htm",
     "date": "2026-01-30",
     "source": "ScienceDaily (Top)",
+    "published": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+    "title_es": "VideoGPA: Destilación de los antecedentes de la geometría para una generación de vídeo consistente en 3D",
+    "url": "http://arxiv.org/abs/2601.23286v1",
+    "date": "2026-01-30",
+    "source": "arXiv",
     "published": "2026-01-30T00:00:00.000Z"
   },
   {
@@ -348,6 +380,14 @@
     "title_es": "Amazon is getting drier as deforestation shuts down atmospheric rivers",
     "url": "https://www.newscientist.com/article/2513298-amazon-is-getting-drier-as-deforestation-shuts-down-atmospheric-rivers/",
     "published": "2026-01-27T17:50:19.000Z",
+    "date": "2026-01-27",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Nobel prizewinner Omar Yaghi says his invention will change the world",
+    "title_es": "Nobel prizewinner Omar Yaghi says his invention will change the world",
+    "url": "https://www.newscientist.com/article/2511141-nobel-prizewinner-omar-yaghi-says-his-invention-will-change-the-world/",
+    "published": "2026-01-27T16:00:26.000Z",
     "date": "2026-01-27",
     "source": "New Scientist"
   },
@@ -49921,6 +49961,14 @@
     "title": "Galle: Happy Face Crater on Mars",
     "title_es": "Galle: Happy Face Crater on Mars",
     "url": "https://apod.nasa.gov/apod/image/2602/marshappyface_mgs_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Orion: The Running Man Nebula",
+    "title_es": "Orion: The Running Man Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2602/runningman_lyons_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
