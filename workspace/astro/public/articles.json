@@ -1,5 +1,45 @@
 [
   {
+    "title": "Unifying Adversarial Robustness and Training Across Text Scoring Models",
+    "title_es": "Unifying Adversarial Robustness and Training Across Text Scoring Models",
+    "url": "https://arxiv.org/abs/2602.00857",
+    "published": "2026-02-03T05:00:00.000Z",
+    "date": "2026-02-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "New Nanomaterial Design Could Help Solar Tech Harness More Sunlight",
+    "title_es": "New Nanomaterial Design Could Help Solar Tech Harness More Sunlight",
+    "url": "https://www.sci.news/othersciences/nanotechnologies/gold-supraballs-14528.html",
+    "published": "2026-02-03T02:21:33.000Z",
+    "date": "2026-02-03",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Frustration in hetero relationships has a long history—that's why today's crisis looks so familiar",
+    "title_es": "La frustración en las relaciones heterosexuales tiene una larga historia; por eso la crisis actual resulta tan familiar",
+    "url": "https://phys.org/news/2026-02-frustration-hetero-relationships-history-today.html",
+    "date": "2026-02-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-03T00:00:00.000Z"
+  },
+  {
+    "title": "Ants attack their nest-mates because pollution changes their smell",
+    "title_es": "Ants attack their nest-mates because pollution changes their smell",
+    "url": "https://www.newscientist.com/article/2512772-ants-attack-their-nest-mates-because-pollution-changes-their-smell/",
+    "published": "2026-02-02T20:00:07.000Z",
+    "date": "2026-02-02",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Transportation Department Plans to Use AI to Write Regulations",
+    "title_es": "Transportation Department Plans to Use AI to Write Regulations",
+    "url": "https://undark.org/2026/02/02/dept-transportation-ai-regulations/",
+    "published": "2026-02-02T08:31:00.000Z",
+    "date": "2026-02-02",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Screen, Match, and Cache: A Training-Free Causality-Consistent Reference Frame Framework for Human Animation",
     "title_es": "Screen, Match, and Cache: A Training-Free Causality-Consistent Reference Frame Framework for Human Animation",
     "url": "https://arxiv.org/abs/2601.22160",
@@ -21,6 +61,62 @@
     "url": "https://phys.org/news/2026-01-tiny-dinosaur-foskeia-pelendonum-evolutionary.html",
     "date": "2026-02-02",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Reward-free Alignment for Conflicting Objectives",
+    "title_es": "Alineación sin recompensas para objetivos en conflicto",
+    "url": "http://arxiv.org/abs/2602.02495v1",
+    "date": "2026-02-02",
+    "source": "arXiv",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "A broadly protective antibody targeting gammaherpesvirus gB",
+    "title_es": "Un anticuerpo ampliamente protector dirigido al gammaherpesvirus gB",
+    "url": "https://www.nature.com/articles/s41586-026-10192-5",
+    "date": "2026-02-02",
+    "source": "Nature",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Eropean Heart Journal: Pioneering technique allows the first-in-human repair of defective mechanical heart valves without surgery",
+    "title_es": "Eropean Heart Journal: Pioneering technique allows the first-in-human repair of defective mechanical heart valves without surgery",
+    "url": "https://www.cnic.es/es/node/239816",
+    "date": "2026-02-02",
+    "source": "CNIC",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Astronaut to Answer Questions from Students in Pennsylvania",
+    "title_es": "Astronauta de la NASA responderá preguntas de estudiantes en Pensilvania",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/",
+    "date": "2026-02-02",
+    "source": "NASA (Top News)",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+    "title_es": "El uso generalizado de vacunas contra el VPH podría significar menos exámenes de detección de cáncer de cuello uterino",
+    "url": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+    "date": "2026-02-02",
+    "source": "Science News",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Hallucination",
+    "title_es": "Los científicos dicen: alucinaciones",
+    "url": "https://www.snexplores.org/article/scientists-say-hallucination-definition-pronunciation",
+    "date": "2026-02-02",
+    "source": "Science News Explores",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "title": "Robots descend into lava tubes to prepare for future Moon bases",
+    "title_es": "Los robots descienden a tubos de lava para prepararse para futuras bases lunares",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+    "date": "2026-02-02",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-02T00:00:00.000Z"
   },
   {
@@ -16511,8 +16607,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Predicting unsafe behaviour from the objective assessment of fatigue manifestation among scaffolders: Evidence from a Quasi-experimental simulation study",
-    "title_es": "Corrección: Predicción de comportamientos inseguros a partir de la evaluación objetiva de la manifestación de fatiga entre andamios: evidencia de un estudio de simulación cuasiexperimental",
+    "title": "Correction: Diagnostic performance of eNose technology in detecting colorectal cancer recurrence: A prospective evaluation",
+    "title_es": "Corrección: Rendimiento diagnóstico de la tecnología eNose en la detección de la recurrencia del cáncer colorrectal: una evaluación prospectiva",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -49969,6 +50065,14 @@
     "title": "Orion: The Running Man Nebula",
     "title_es": "Orion: The Running Man Nebula",
     "url": "https://apod.nasa.gov/apod/image/2602/runningman_lyons_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Red Spider Planetary Nebula from Webb",
+    "title_es": "Red Spider Planetary Nebula from Webb",
+    "url": "https://apod.nasa.gov/apod/image/2602/redspider_webb_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
