@@ -1,10 +1,80 @@
 [
   {
+    "title": "Chilled New York City",
+    "title_es": "Ciudad de Nueva York fría",
+    "url": "https://science.nasa.gov/earth/earth-observatory/chilled-new-york-city/",
+    "date": "2026-02-04",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "The possible applications of olive pomace: A study reveals the most sustainable option",
+    "title_es": "Las posibles aplicaciones del orujo de oliva: Un estudio revela la opción más sostenible",
+    "url": "https://phys.org/news/2026-02-applications-olive-pomace-reveals-sustainable.html",
+    "date": "2026-02-04",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Frustration in hetero relationships has a long history—that's why today's crisis looks so familiar",
     "title_es": "La frustración en las relaciones heterosexuales tiene una larga historia; por eso la crisis actual resulta tan familiar",
     "url": "https://phys.org/news/2026-02-frustration-hetero-relationships-history-today.html",
     "date": "2026-02-03",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Utility of inhaled β2-agonists in reducing serum potassium levels in adult patients with hyperkalemia: A scoping review",
+    "title_es": "Utilidad de los agonistas β2 inhalados para reducir los niveles séricos de potasio en pacientes adultos con hiperpotasemia: una revisión del alcance",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-03",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning",
+    "title_es": "PLATE: Adaptadores eficientes ajustables por plasticidad para un aprendizaje continuo consciente de la geometría",
+    "url": "http://arxiv.org/abs/2602.03846v1",
+    "date": "2026-02-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ontogeny and transcriptional regulation of Thetis cells",
+    "title_es": "Ontogenia y regulación transcripcional de las células de Thetis.",
+    "url": "https://www.nature.com/articles/s41586-026-10198-z",
+    "date": "2026-02-03",
+    "source": "Nature"
+  },
+  {
+    "title": "The CNIC launches a call for entries for the exhibition ‘Shared Discovery: Creative Works by Women in Science’",
+    "title_es": "The CNIC launches a call for entries for the exhibition ‘Shared Discovery: Creative Works by Women in Science’",
+    "url": "https://www.cnic.es/es/node/239838",
+    "date": "2026-02-03",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-gigantesco-sistema-de-anillos-alrededor-de-un-objeto-subestelar-provoca-un-raro-eclipse-de-su\" hreflang=\"es\">Un gigantesco sistema de anillos alrededor de un objeto subestelar provoca un raro eclipse de su estrella anfitriona durante 9 meses </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-gigantesco-sistema-de-anillos-alrededor-de-un-objeto-subestelar-provoca-un-raro-eclipse-de-su\" hreflang=\"es\">Un gigantesco sistema de anillos alrededor de un objeto subestelar provoca un raro eclipse de su estrella anfitriona durante 9 meses </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-gigantesco-sistema-de-anillos-alrededor-de-un-objeto-subestelar-provoca-un-raro-eclipse-de-su",
+    "date": "2026-02-03",
+    "source": "IAC"
+  },
+  {
+    "title": "These beetle larvae lure in bees by mimicking flowers",
+    "title_es": "Estas larvas de escarabajos atraen a las abejas imitando flores",
+    "url": "https://www.sciencenews.org/article/beetle-larvae-lure-bees-mimic-flowers",
+    "date": "2026-02-03",
+    "source": "Science News"
+  },
+  {
+    "title": "A mosquito’s mouth can ‘print’ lines thinner than a human hair",
+    "title_es": "La boca de un mosquito puede “imprimir” líneas más delgadas que un cabello humano",
+    "url": "https://www.snexplores.org/article/mosquito-mouth-3d-print-nozzle",
+    "date": "2026-02-03",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "New catalyst turns carbon dioxide into clean fuel source",
+    "title_es": "Un nuevo catalizador convierte el dióxido de carbono en una fuente de combustible limpia",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260203030548.htm",
+    "date": "2026-02-03",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Baby dinosaurs were the backbone of the Jurassic food chain",
@@ -19,13 +89,6 @@
     "url": "https://phys.org/news/2026-01-tiny-dinosaur-foskeia-pelendonum-evolutionary.html",
     "date": "2026-02-02",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Diagnostic performance of eNose technology in detecting colorectal cancer recurrence: A prospective evaluation",
-    "title_es": "Corrección: Rendimiento diagnóstico de la tecnología eNose en la detección de la recurrencia del cáncer colorrectal: una evaluación prospectiva",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-02",
-    "source": "PLOS ONE"
   },
   {
     "title": "Reward-free Alignment for Conflicting Objectives",
