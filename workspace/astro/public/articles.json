@@ -1,5 +1,53 @@
 [
   {
+    "title": "HybridQuestion: Human-AI Collaboration for Identifying High-Impact Research Questions",
+    "title_es": "HybridQuestion: Human-AI Collaboration for Identifying High-Impact Research Questions",
+    "url": "https://arxiv.org/abs/2602.03849",
+    "published": "2026-02-05T05:00:00.000Z",
+    "date": "2026-02-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Milano Cortina 2026",
+    "title_es": "Milán Cortina 2026",
+    "url": "https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/",
+    "date": "2026-02-05",
+    "source": "NASA (Top News)",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "'Jetty McJetface': Star-shredding black hole may keep ramping up its radio jet until 2027 peak",
+    "title_es": "'Jetty McJetface': el agujero negro destructor de estrellas puede seguir aumentando su chorro de radio hasta el pico de 2027",
+    "url": "https://phys.org/news/2026-02-jetty-mcjetface-star-shredding-black.html",
+    "date": "2026-02-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Jupiter is Smaller and More ‘Squashed’ than Previously Believed, New Juno Data Reveal",
+    "title_es": "Jupiter is Smaller and More ‘Squashed’ than Previously Believed, New Juno Data Reveal",
+    "url": "https://www.sci.news/space/jupiter-size-shape-14536.html",
+    "published": "2026-02-04T23:52:45.000Z",
+    "date": "2026-02-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Nasal spray could prevent infections from any flu strain",
+    "title_es": "Nasal spray could prevent infections from any flu strain",
+    "url": "https://www.newscientist.com/article/2514199-nasal-spray-could-prevent-infections-from-any-flu-strain/",
+    "published": "2026-02-04T19:00:12.000Z",
+    "date": "2026-02-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Unlikely New Director of U.S. Environmental Health Research",
+    "title_es": "The Unlikely New Director of U.S. Environmental Health Research",
+    "url": "https://undark.org/2026/02/04/nih-environmental-health-walsh/",
+    "published": "2026-02-04T08:55:00.000Z",
+    "date": "2026-02-04",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "The Hypocrisy Gap: Quantifying Divergence Between Internal Belief and Chain-of-Thought Explanation via Sparse Autoencoders",
     "title_es": "The Hypocrisy Gap: Quantifying Divergence Between Internal Belief and Chain-of-Thought Explanation via Sparse Autoencoders",
     "url": "https://arxiv.org/abs/2602.02496",
@@ -29,6 +77,54 @@
     "url": "https://phys.org/news/2026-02-applications-olive-pomace-reveals-sustainable.html",
     "date": "2026-02-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Protein Autoregressive Modeling via Multiscale Structure Generation",
+    "title_es": "Modelado autorregresivo de proteínas mediante generación de estructuras multiescala",
+    "url": "http://arxiv.org/abs/2602.04883v1",
+    "date": "2026-02-04",
+    "source": "arXiv",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Cotranslational assembly of protein complexes in eukaryotes revealed by ribosome profiling",
+    "title_es": "Corrección del autor: ensamblaje cotraduccional de complejos proteicos en eucariotas revelado por el perfil de ribosomas",
+    "url": "https://www.nature.com/articles/s41586-026-10200-8",
+    "date": "2026-02-04",
+    "source": "Nature",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Los últimos descubrimientos de la investigación más joven del CNIO",
+    "title_es": "Los últimos descubrimientos de la investigación más joven del CNIO",
+    "url": "https://www.cnio.es/noticias/noticias-cnio/los-ultimos-descubrimientos-de-la-investigacion-mas-joven-del-cnio/",
+    "date": "2026-02-04",
+    "source": "CNIO",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Gum disease bacteria can promote cancer growth in mice",
+    "title_es": "Las bacterias que causan enfermedades de las encías pueden promover el crecimiento del cáncer en ratones",
+    "url": "https://www.sciencenews.org/article/gum-disease-bacteria-breast-cancer",
+    "date": "2026-02-04",
+    "source": "Science News",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Experiment: How does the tilt of Earth’s axis affect the seasons?",
+    "title_es": "Experimento: ¿Cómo afecta la inclinación del eje de la Tierra a las estaciones?",
+    "url": "https://www.snexplores.org/article/earth-axis-tilt-seasons",
+    "date": "2026-02-04",
+    "source": "Science News Explores",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "title": "Melting Antarctic ice may weaken a major carbon sink",
+    "title_es": "El derretimiento del hielo antártico puede debilitar un importante sumidero de carbono",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm",
+    "date": "2026-02-04",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-04T00:00:00.000Z"
   },
   {
@@ -16711,8 +16807,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Utility of inhaled β2-agonists in reducing serum potassium levels in adult patients with hyperkalemia: A scoping review",
-    "title_es": "Utilidad de los agonistas β2 inhalados para reducir los niveles séricos de potasio en pacientes adultos con hiperpotasemia: una revisión del alcance",
+    "title": "Feasibility and acceptability outcomes of the InMe trial - a randomised controlled trial in participants with subclinical eating and somatic symptom disorders",
+    "title_es": "Resultados de viabilidad y aceptabilidad del ensayo InMe: un ensayo controlado aleatorio en participantes con trastornos alimentarios subclínicos y síntomas somáticos",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -50185,6 +50281,14 @@
     "title": "Spiral Galaxy NGC 1512: Wide Field",
     "title_es": "Spiral Galaxy NGC 1512: Wide Field",
     "url": "https://apod.nasa.gov/apod/image/2602/ngc1512_stern_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 1275 in the Perseus Cluster",
+    "title_es": "NGC 1275 in the Perseus Cluster",
+    "url": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
