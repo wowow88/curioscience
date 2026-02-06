@@ -1,5 +1,53 @@
 [
   {
+    "title": "Denoising diffusion networks for normative modeling in neuroimaging",
+    "title_es": "Denoising diffusion networks for normative modeling in neuroimaging",
+    "url": "https://arxiv.org/abs/2602.04886",
+    "published": "2026-02-06T05:00:00.000Z",
+    "date": "2026-02-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "Archaeopteryx’s Feeding-Related Structures Reflect Elevated Demands of Flight, Scientists Say",
+    "title_es": "Archaeopteryx’s Feeding-Related Structures Reflect Elevated Demands of Flight, Scientists Say",
+    "url": "https://www.sci.news/paleontology/archaeopteryx-feeding-structures-flight-14539.html",
+    "published": "2026-02-06T00:13:29.000Z",
+    "date": "2026-02-06",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A Winter Blanket Covers North Carolina",
+    "title_es": "Una manta de invierno cubre Carolina del Norte",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
+    "date": "2026-02-06",
+    "source": "NASA (Top News)",
+    "published": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "title": "Raising human capital in BRICS is linked to lower emissions, study suggests",
+    "title_es": "Aumentar el capital humano en los BRICS está relacionado con menores emisiones, sugiere un estudio",
+    "url": "https://phys.org/news/2026-02-human-capital-brics-linked-emissions.html",
+    "date": "2026-02-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "title": "Statins don't cause most of the side effects listed on their labels",
+    "title_es": "Statins don't cause most of the side effects listed on their labels",
+    "url": "https://www.newscientist.com/article/2514471-statins-dont-cause-most-of-the-side-effects-listed-on-their-labels/",
+    "published": "2026-02-05T23:30:58.000Z",
+    "date": "2026-02-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Science of Surrogacy, Thrust Into a Global Spotlight",
+    "title_es": "The Science of Surrogacy, Thrust Into a Global Spotlight",
+    "url": "https://undark.org/2026/02/05/science-of-surrogacy/",
+    "published": "2026-02-05T08:47:00.000Z",
+    "date": "2026-02-05",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "HybridQuestion: Human-AI Collaboration for Identifying High-Impact Research Questions",
     "title_es": "HybridQuestion: Human-AI Collaboration for Identifying High-Impact Research Questions",
     "url": "https://arxiv.org/abs/2602.03849",
@@ -21,6 +69,70 @@
     "url": "https://phys.org/news/2026-02-jetty-mcjetface-star-shredding-black.html",
     "date": "2026-02-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
+    "title_es": "Subespacios LoRA compartidos para un aprendizaje continuo casi estricto",
+    "url": "http://arxiv.org/abs/2602.06043v1",
+    "date": "2026-02-05",
+    "source": "arXiv",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "A poet grapples with extinction",
+    "title_es": "Un poeta lucha contra la extinción",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed5484",
+    "date": "2026-02-05",
+    "source": "Science.org",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Colibactin-driven colon cancer requires adhesin-mediated epithelial binding",
+    "title_es": "Corrección del editor: el cáncer de colon provocado por colibactina requiere unión epitelial mediada por adhesina",
+    "url": "https://www.nature.com/articles/s41586-026-10213-3",
+    "date": "2026-02-05",
+    "source": "Nature",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "EHJP: Beta-blockers provide no benefit after myocardial infarction, either in the acute or chronic phase",
+    "title_es": "EHJP: Beta-blockers provide no benefit after myocardial infarction, either in the acute or chronic phase",
+    "url": "https://www.cnic.es/es/node/239900",
+    "date": "2026-02-05",
+    "source": "CNIC",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Una nueva estrategia experimental recurre a la edición génica para combatir tumores con demasiados oncogenes",
+    "title_es": "Una nueva estrategia experimental recurre a la edición génica para combatir tumores con demasiados oncogenes",
+    "url": "https://www.cnio.es/noticias/una-nueva-estrategia-experimental-recurre-a-la-edicion-genica-para-combatir-tumores-con-demasiados-oncogenes/",
+    "date": "2026-02-05",
+    "source": "CNIO",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Babies brains’ can follow a beat as soon as they’re born",
+    "title_es": "El cerebro de los bebés puede seguir un latido tan pronto como nacen",
+    "url": "https://www.sciencenews.org/article/babies-beat-neuroscience-sense-rhythm",
+    "date": "2026-02-05",
+    "source": "Science News",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "As winters warm, athletes must cope with harder snow and tricky ice",
+    "title_es": "A medida que los inviernos son más cálidos, los atletas deben enfrentarse a nieve más dura y hielo complicado.",
+    "url": "https://www.snexplores.org/article/warmer-winter-athletes-snow-ice-olympics",
+    "date": "2026-02-05",
+    "source": "Science News Explores",
+    "published": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
+    "title_es": "Los científicos descubren estructuras ocultas en las profundidades de la Tierra que dan forma al campo magnético",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
+    "date": "2026-02-05",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-05T00:00:00.000Z"
   },
   {
@@ -16807,8 +16919,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Feasibility and acceptability outcomes of the InMe trial - a randomised controlled trial in participants with subclinical eating and somatic symptom disorders",
-    "title_es": "Resultados de viabilidad y aceptabilidad del ensayo InMe: un ensayo controlado aleatorio en participantes con trastornos alimentarios subclínicos y síntomas somáticos",
+    "title": "Evaluation of morphological variations of mandibular bone in adult bruxers using CBCT: A cross-sectional study",
+    "title_es": "Evaluación de variaciones morfológicas del hueso mandibular en bruxistas adultos mediante CBCT: un estudio transversal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -50289,6 +50401,14 @@
     "title": "NGC 1275 in the Perseus Cluster",
     "title_es": "NGC 1275 in the Perseus Cluster",
     "url": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Supernova Remnant Cassiopeia A",
+    "title_es": "Supernova Remnant Cassiopeia A",
+    "url": "https://apod.nasa.gov/apod/image/2602/casa_nircam_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
