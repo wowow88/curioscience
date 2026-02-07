@@ -1,13 +1,5 @@
 [
   {
-    "title": "Denoising diffusion networks for normative modeling in neuroimaging",
-    "title_es": "Denoising diffusion networks for normative modeling in neuroimaging",
-    "url": "https://arxiv.org/abs/2602.04886",
-    "published": "2026-02-06T05:00:00.000Z",
-    "date": "2026-02-06",
-    "source": "arXiv"
-  },
-  {
     "title": "A poet grapples with extinction",
     "title_es": "A poet grapples with extinction",
     "url": "https://www.science.org/doi/abs/10.1126/science.aed5484",
@@ -16,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Publisher Correction: Colibactin-driven colon cancer requires adhesin-mediated epithelial binding",
-    "title_es": "Publisher Correction: Colibactin-driven colon cancer requires adhesin-mediated epithelial binding",
-    "url": "https://www.nature.com/articles/s41586-026-10213-3",
-    "published": "2026-02-05T00:00:00.000Z",
-    "date": "2026-02-05",
+    "title": "Author Correction: Environmentally driven immune imprinting protects against allergy",
+    "title_es": "Author Correction: Environmentally driven immune imprinting protects against allergy",
+    "url": "https://www.nature.com/articles/s41586-026-10236-w",
+    "published": "2026-02-06T00:00:00.000Z",
+    "date": "2026-02-06",
     "source": "Nature"
   },
   {
@@ -40,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "A Winter Blanket Covers North Carolina",
-    "title_es": "A Winter Blanket Covers North Carolina",
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
-    "published": "2026-02-06T05:00:00.000Z",
-    "date": "2026-02-06",
+    "title": "A Grand, Snow-Rimmed Canyon",
+    "title_es": "A Grand, Snow-Rimmed Canyon",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/",
+    "published": "2026-02-07T05:01:00.000Z",
+    "date": "2026-02-07",
     "source": "NASA (Top News)"
   },
   {
@@ -64,51 +56,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Babies brains’ can follow a beat as soon as they’re born",
-    "title_es": "Babies brains’ can follow a beat as soon as they’re born",
-    "url": "https://www.sciencenews.org/article/babies-beat-neuroscience-sense-rhythm",
-    "published": "2026-02-05T19:00:00.000Z",
-    "date": "2026-02-05",
+    "title": "Autistic Barbie reminds us stories have the power to counter misinformation",
+    "title_es": "Autistic Barbie reminds us stories have the power to counter misinformation",
+    "url": "https://www.sciencenews.org/article/autistic-barbie-counter-misinformation",
+    "published": "2026-02-06T16:00:00.000Z",
+    "date": "2026-02-06",
     "source": "Science News"
   },
   {
-    "title": "As winters warm, athletes must cope with harder snow and tricky ice",
-    "title_es": "As winters warm, athletes must cope with harder snow and tricky ice",
-    "url": "https://www.snexplores.org/article/warmer-winter-athletes-snow-ice-olympics",
-    "published": "2026-02-05T11:30:00.000Z",
-    "date": "2026-02-05",
+    "title": "Lions have a second roar that scientists have only just discovered",
+    "title_es": "Lions have a second roar that scientists have only just discovered",
+    "url": "https://www.snexplores.org/article/lion-new-second-roar-ai",
+    "published": "2026-02-06T11:30:00.000Z",
+    "date": "2026-02-06",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
-    "title_es": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
-    "published": "2026-02-05T10:53:59.000Z",
-    "date": "2026-02-05",
+    "title": "A hidden brain effect of prenatal alcohol exposure",
+    "title_es": "A hidden brain effect of prenatal alcohol exposure",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260206020852.htm",
+    "published": "2026-02-06T10:26:39.000Z",
+    "date": "2026-02-06",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Raising human capital in BRICS is linked to lower emissions, study suggests",
-    "title_es": "Raising human capital in BRICS is linked to lower emissions, study suggests",
-    "url": "https://phys.org/news/2026-02-human-capital-brics-linked-emissions.html",
-    "published": "2026-02-06T04:20:01.000Z",
-    "date": "2026-02-06",
+    "title": "With international law at a 'breaking point', a tiny country goes after Myanmar's junta on its own",
+    "title_es": "With international law at a 'breaking point', a tiny country goes after Myanmar's junta on its own",
+    "url": "https://phys.org/news/2026-02-international-law-tiny-country-myanmar.html",
+    "published": "2026-02-07T03:30:01.000Z",
+    "date": "2026-02-07",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Evaluation of morphological variations of mandibular bone in adult bruxers using CBCT: A cross-sectional study",
-    "title_es": "Evaluation of morphological variations of mandibular bone in adult bruxers using CBCT: A cross-sectional study",
+    "title": "Systematic review of lung function assessment among youth and young adults e-cigarette users: Current tools and emerging methods",
+    "title_es": "Systematic review of lung function assessment among youth and young adults e-cigarette users: Current tools and emerging methods",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-02-05T14:00:00.000Z",
-    "date": "2026-02-05",
+    "published": "2026-02-06T14:00:00.000Z",
+    "date": "2026-02-06",
     "source": "PLOS ONE"
   },
   {
-    "title": "Statins don't cause most of the side effects listed on their labels",
-    "title_es": "Statins don't cause most of the side effects listed on their labels",
-    "url": "https://www.newscientist.com/article/2514471-statins-dont-cause-most-of-the-side-effects-listed-on-their-labels/",
-    "published": "2026-02-05T23:30:58.000Z",
-    "date": "2026-02-05",
+    "title": "Weakening ice shelf has caused crucial Antarctic glacier to accelerate",
+    "title_es": "Weakening ice shelf has caused crucial Antarctic glacier to accelerate",
+    "url": "https://www.newscientist.com/article/2514697-weakening-ice-shelf-has-caused-crucial-antarctic-glacier-to-accelerate/",
+    "published": "2026-02-06T18:00:18.000Z",
+    "date": "2026-02-06",
     "source": "New Scientist"
   },
   {
@@ -120,17 +112,17 @@
     "source": "Sci.News"
   },
   {
-    "title": "The Science of Surrogacy, Thrust Into a Global Spotlight",
-    "title_es": "The Science of Surrogacy, Thrust Into a Global Spotlight",
-    "url": "https://undark.org/2026/02/05/science-of-surrogacy/",
-    "published": "2026-02-05T08:47:00.000Z",
-    "date": "2026-02-05",
+    "title": "An Effort to Ease Water Pollution With Oysters Fizzled. Why?",
+    "title_es": "An Effort to Ease Water Pollution With Oysters Fizzled. Why?",
+    "url": "https://undark.org/2026/02/06/oysters-water-pollution-program/",
+    "published": "2026-02-06T08:20:00.000Z",
+    "date": "2026-02-06",
     "source": "Undark Magazine"
   },
   {
-    "title": "Supernova Remnant Cassiopeia A",
-    "title_es": "Supernova Remnant Cassiopeia A",
-    "url": "https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg",
+    "title": "Crescent Enceladus",
+    "title_es": "Crescent Enceladus",
+    "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -138,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-46.2087&long=-125.1962",
+    "url": "https://www.latlong.net/c/?lat=19.9426&long=12.4151",
     "date": "",
     "published": "",
     "source": "ISS Position"

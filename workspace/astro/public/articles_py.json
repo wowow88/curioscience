@@ -1,5 +1,19 @@
 [
   {
+    "title": "A Grand, Snow-Rimmed Canyon",
+    "title_es": "Un gran cañón bordeado de nieve",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/",
+    "date": "2026-02-07",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "With international law at a 'breaking point', a tiny country goes after Myanmar's junta on its own",
+    "title_es": "Con el derecho internacional en un \"punto de quiebre\", un pequeño país persigue por su cuenta a la junta de Myanmar",
+    "url": "https://phys.org/news/2026-02-international-law-tiny-country-myanmar.html",
+    "date": "2026-02-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Winter Blanket Covers North Carolina",
     "title_es": "Una manta de invierno cubre Carolina del Norte",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
@@ -14,6 +28,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Systematic review of lung function assessment among youth and young adults e-cigarette users: Current tools and emerging methods",
+    "title_es": "Revisión sistemática de la evaluación de la función pulmonar entre jóvenes y adultos jóvenes usuarios de cigarrillos electrónicos: herramientas actuales y métodos emergentes",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-06",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Author Correction: Environmentally driven immune imprinting protects against allergy",
+    "title_es": "Corrección del autor: la impresión inmune impulsada por el medio ambiente protege contra las alergias",
+    "url": "https://www.nature.com/articles/s41586-026-10236-w",
+    "date": "2026-02-06",
+    "source": "Nature"
+  },
+  {
+    "title": "Autistic Barbie reminds us stories have the power to counter misinformation",
+    "title_es": "Barbie autista nos recuerda que las historias tienen el poder de contrarrestar la información errónea",
+    "url": "https://www.sciencenews.org/article/autistic-barbie-counter-misinformation",
+    "date": "2026-02-06",
+    "source": "Science News"
+  },
+  {
+    "title": "Lions have a second roar that scientists have only just discovered",
+    "title_es": "Los leones tienen un segundo rugido que los científicos acaban de descubrir",
+    "url": "https://www.snexplores.org/article/lion-new-second-roar-ai",
+    "date": "2026-02-06",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A hidden brain effect of prenatal alcohol exposure",
+    "title_es": "Un efecto cerebral oculto de la exposición prenatal al alcohol",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260206020852.htm",
+    "date": "2026-02-06",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Milano Cortina 2026",
     "title_es": "Milán Cortina 2026",
     "url": "https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/",
@@ -26,13 +75,6 @@
     "url": "https://phys.org/news/2026-02-jetty-mcjetface-star-shredding-black.html",
     "date": "2026-02-05",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Evaluation of morphological variations of mandibular bone in adult bruxers using CBCT: A cross-sectional study",
-    "title_es": "Evaluación de variaciones morfológicas del hueso mandibular en bruxistas adultos mediante CBCT: un estudio transversal",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-05",
-    "source": "PLOS ONE"
   },
   {
     "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
