@@ -16,6 +16,22 @@
     "published": "2026-02-07T00:00:00.000Z"
   },
   {
+    "title": "How COVID and H1N1 swept through U.S. cities in just weeks",
+    "title_es": "Cómo el COVID y el H1N1 arrasaron las ciudades de EE. UU. en apenas unas semanas",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260207092906.htm",
+    "date": "2026-02-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-07T00:00:00.000Z"
+  },
+  {
+    "title": "Why wolf control saves some caribou calves: Terrain decides which predators kill",
+    "title_es": "Por qué el control de los lobos salva a algunas crías de caribú: el terreno decide qué depredadores matan",
+    "url": "https://phys.org/news/2026-02-wolf-caribou-calves-terrain-predators.html",
+    "date": "2026-02-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-07T00:00:00.000Z"
+  },
+  {
     "title": "Weakening ice shelf has caused crucial Antarctic glacier to accelerate",
     "title_es": "Weakening ice shelf has caused crucial Antarctic glacier to accelerate",
     "url": "https://www.newscientist.com/article/2514697-weakening-ice-shelf-has-caused-crucial-antarctic-glacier-to-accelerate/",
@@ -308,6 +324,14 @@
     "title_es": "Dutch air force reads pilots' brainwaves to make training harder",
     "url": "https://www.newscientist.com/article/2510975-dutch-air-force-reads-pilots-brainwaves-to-make-training-harder/",
     "published": "2026-02-03T18:00:49.000Z",
+    "date": "2026-02-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Nobel laureate says he'll build world’s most powerful quantum computer",
+    "title_es": "Nobel laureate says he'll build world’s most powerful quantum computer",
+    "url": "https://www.newscientist.com/article/2513239-nobel-laureate-says-hell-build-worlds-most-powerful-quantum-computer/",
+    "published": "2026-02-03T16:00:11.000Z",
     "date": "2026-02-03",
     "source": "New Scientist"
   },
@@ -50481,6 +50505,14 @@
     "title": "Crescent Enceladus",
     "title_es": "Crescent Enceladus",
     "url": "https://apod.nasa.gov/apod/image/2602/pia20522enceladusc.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Active Sunspot Region 4366 Crosses the Sun",
+    "title_es": "Active Sunspot Region 4366 Crosses the Sun",
+    "url": "https://apod.nasa.gov/apod/image/2602/sunspot4366_korona_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
