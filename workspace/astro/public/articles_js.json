@@ -1,5 +1,13 @@
 [
   {
+    "title": "Asymptotically Optimal Aperiodic Doppler Resilient Complementary Sequence Sets Via Generalized Quasi-Florentine Rectangles",
+    "title_es": "Asymptotically Optimal Aperiodic Doppler Resilient Complementary Sequence Sets Via Generalized Quasi-Florentine Rectangles",
+    "url": "https://arxiv.org/abs/2602.06045",
+    "published": "2026-02-09T05:00:00.000Z",
+    "date": "2026-02-09",
+    "source": "arXiv"
+  },
+  {
     "title": "A poet grapples with extinction",
     "title_es": "A poet grapples with extinction",
     "url": "https://www.science.org/doi/abs/10.1126/science.aed5484",
@@ -22,6 +30,14 @@
     "published": "2026-02-05T13:01:38.000Z",
     "date": "2026-02-05",
     "source": "CNIC"
+  },
+  {
+    "title": "Una nueva estrategia experimental recurre a la edición génica para combatir tumores con demasiados oncogenes",
+    "title_es": "Una nueva estrategia experimental recurre a la edición génica para combatir tumores con demasiados oncogenes",
+    "url": "https://www.cnio.es/noticias/una-nueva-estrategia-experimental-recurre-a-la-edicion-genica-para-combatir-tumores-con-demasiados-oncogenes/",
+    "published": "2026-02-05T10:57:30.000Z",
+    "date": "2026-02-05",
+    "source": "CNIO"
   },
   {
     "title": "A Grand, Snow-Rimmed Canyon",
@@ -64,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "How COVID and H1N1 swept through U.S. cities in just weeks",
-    "title_es": "How COVID and H1N1 swept through U.S. cities in just weeks",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260207092906.htm",
-    "published": "2026-02-07T15:02:31.000Z",
-    "date": "2026-02-07",
+    "title": "New drug resets the body clock and cuts jet lag recovery nearly in half",
+    "title_es": "New drug resets the body clock and cuts jet lag recovery nearly in half",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
+    "published": "2026-02-08T12:17:32.000Z",
+    "date": "2026-02-08",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Why wolf control saves some caribou calves: Terrain decides which predators kill",
-    "title_es": "Why wolf control saves some caribou calves: Terrain decides which predators kill",
-    "url": "https://phys.org/news/2026-02-wolf-caribou-calves-terrain-predators.html",
-    "published": "2026-02-07T23:00:03.000Z",
-    "date": "2026-02-07",
+    "title": "As the climate changes, what does the future hold for the Winter Olympic and Paralympic Games?",
+    "title_es": "As the climate changes, what does the future hold for the Winter Olympic and Paralympic Games?",
+    "url": "https://phys.org/news/2026-02-climate-future-winter-olympic-paralympic.html",
+    "published": "2026-02-09T00:30:01.000Z",
+    "date": "2026-02-09",
     "source": "Phys.org (Latest)"
   },
   {
@@ -88,19 +104,19 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Nobel laureate says he'll build world’s most powerful quantum computer",
-    "title_es": "Nobel laureate says he'll build world’s most powerful quantum computer",
-    "url": "https://www.newscientist.com/article/2513239-nobel-laureate-says-hell-build-worlds-most-powerful-quantum-computer/",
-    "published": "2026-02-03T16:00:11.000Z",
-    "date": "2026-02-03",
+    "title": "Seafarers were visiting remote Arctic islands over 4000 years ago",
+    "title_es": "Seafarers were visiting remote Arctic islands over 4000 years ago",
+    "url": "https://www.newscientist.com/article/2514486-seafarers-were-visiting-remote-arctic-islands-over-4000-years-ago/",
+    "published": "2026-02-09T00:01:45.000Z",
+    "date": "2026-02-09",
     "source": "New Scientist"
   },
   {
-    "title": "Archaeopteryx’s Feeding-Related Structures Reflect Elevated Demands of Flight, Scientists Say",
-    "title_es": "Archaeopteryx’s Feeding-Related Structures Reflect Elevated Demands of Flight, Scientists Say",
-    "url": "https://www.sci.news/paleontology/archaeopteryx-feeding-structures-flight-14539.html",
-    "published": "2026-02-06T00:13:29.000Z",
-    "date": "2026-02-06",
+    "title": "Webb Detects Unexpected Richness of Hydrocarbons in Obscured Core of Nearby Ultra-Luminous Galaxy",
+    "title_es": "Webb Detects Unexpected Richness of Hydrocarbons in Obscured Core of Nearby Ultra-Luminous Galaxy",
+    "url": "https://www.sci.news/astronomy/webb-hydrocarbons-obscured-core-nearby-ultra-luminous-galaxy-14540.html",
+    "published": "2026-02-08T15:44:58.000Z",
+    "date": "2026-02-08",
     "source": "Sci.News"
   },
   {
@@ -112,9 +128,9 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Active Sunspot Region 4366 Crosses the Sun",
-    "title_es": "Active Sunspot Region 4366 Crosses the Sun",
-    "url": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg",
+    "title": "Miranda Revisited",
+    "title_es": "Miranda Revisited",
+    "url": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-47.8270&long=-132.2971",
+    "url": "https://www.latlong.net/c/?lat=51.3911&long=76.3118",
     "date": "",
     "published": "",
     "source": "ISS Position"
