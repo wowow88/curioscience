@@ -1,5 +1,77 @@
 [
   {
+    "title": "COMBOOD: A Semiparametric Approach for Detecting Out-of-distribution Data for Image Classification",
+    "title_es": "COMBOOD: A Semiparametric Approach for Detecting Out-of-distribution Data for Image Classification",
+    "url": "https://arxiv.org/abs/2602.07042",
+    "published": "2026-02-10T05:00:00.000Z",
+    "date": "2026-02-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Paleontologists Unearth New Dinosaur Species with Never-Before-Seen Skin Structures",
+    "title_es": "Paleontologists Unearth New Dinosaur Species with Never-Before-Seen Skin Structures",
+    "url": "https://www.sci.news/paleontology/haolong-dongi-14545.html",
+    "published": "2026-02-10T01:27:41.000Z",
+    "date": "2026-02-10",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Is this carved rock an ancient Roman board game?",
+    "title_es": "Is this carved rock an ancient Roman board game?",
+    "url": "https://www.newscientist.com/article/2514929-is-this-carved-rock-an-ancient-roman-board-game/",
+    "published": "2026-02-10T00:01:20.000Z",
+    "date": "2026-02-10",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Winter Grips Japan",
+    "title_es": "Puños de invierno Japón",
+    "url": "https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/",
+    "date": "2026-02-10",
+    "source": "NASA (Top News)",
+    "published": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "AI helps archaeologists solve a Roman gaming mystery",
+    "title_es": "La IA ayuda a los arqueólogos a resolver el misterio de un juego romano",
+    "url": "https://www.sciencenews.org/article/ai-roman-board-game-limestone",
+    "date": "2026-02-10",
+    "source": "Science News",
+    "published": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "New research reveals humans could have as many as 33 senses",
+    "title_es": "Una nueva investigación revela que los humanos podrían tener hasta 33 sentidos",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208233832.htm",
+    "date": "2026-02-10",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "Bison hunters abandoned long-used site 1,100 years ago to adapt to changing climate, Great Plains study finds",
+    "title_es": "Los cazadores de bisontes abandonaron un sitio utilizado durante mucho tiempo hace 1.100 años para adaptarse al cambio climático, según un estudio de las Grandes Llanuras",
+    "url": "https://phys.org/news/2026-02-bison-hunters-abandoned-site-years.html",
+    "date": "2026-02-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "This popular diet was linked to a much lower stroke risk",
+    "title_es": "This popular diet was linked to a much lower stroke risk",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+    "published": "2026-02-09T11:54:46.000Z",
+    "date": "2026-02-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Scientists Could Help Reveal Fraud — and Get Paid For It",
+    "title_es": "Scientists Could Help Reveal Fraud — and Get Paid For It",
+    "url": "https://undark.org/2026/02/09/opinion-whistleblower-university/",
+    "published": "2026-02-09T08:57:00.000Z",
+    "date": "2026-02-09",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Asymptotically Optimal Aperiodic Doppler Resilient Complementary Sequence Sets Via Generalized Quasi-Florentine Rectangles",
     "title_es": "Asymptotically Optimal Aperiodic Doppler Resilient Complementary Sequence Sets Via Generalized Quasi-Florentine Rectangles",
     "url": "https://arxiv.org/abs/2602.06045",
@@ -21,6 +93,46 @@
     "url": "https://phys.org/news/2026-02-climate-future-winter-olympic-paralympic.html",
     "date": "2026-02-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
+    "title_es": "La robustez es una función, no un número: un estudio integral factorizado de la robustez de los OOD en la conducción basada en la visión",
+    "url": "http://arxiv.org/abs/2602.09018v1",
+    "date": "2026-02-09",
+    "source": "arXiv",
+    "published": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "Jupiter gets downsized — and squashed",
+    "title_es": "Júpiter se reduce de tamaño y es aplastado",
+    "url": "https://www.nature.com/articles/d41586-026-00336-y",
+    "date": "2026-02-09",
+    "source": "Nature",
+    "published": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "Borja Ibáñez nombrado nuevo embajador de congresos de Madrid",
+    "title_es": "Borja Ibáñez nombrado nuevo embajador de congresos de Madrid",
+    "url": "https://www.cnic.es/es/noticias/borja-ibanez-nombrado-nuevo-embajador-congresos-madrid",
+    "date": "2026-02-09",
+    "source": "CNIC",
+    "published": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando\" hreflang=\"es\">Cronología de nuestra Galaxia con ajuste de diagramas color-magnitude de Gaia (ChronoGal): II. Desvelando la formación y evolución de los discos grueso y delgado seleccionados cinemáticamente</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando\" hreflang=\"es\">Cronología de nuestra Galaxia con ajuste de diagramas color-magnitude de Gaia (ChronoGal): II. Desvelando la formación y evolución de los discos grueso y delgado seleccionados cinemáticamente</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando",
+    "date": "2026-02-09",
+    "source": "IAC",
+    "published": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "Butt breathing might help people struggling to get enough oxygen",
+    "title_es": "La respiración a tope podría ayudar a las personas que luchan por obtener suficiente oxígeno",
+    "url": "https://www.snexplores.org/article/butt-breathing-oxygen",
+    "date": "2026-02-09",
+    "source": "Science News Explores",
     "published": "2026-02-09T00:00:00.000Z"
   },
   {
@@ -17055,8 +17167,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Systematic review of lung function assessment among youth and young adults e-cigarette users: Current tools and emerging methods",
-    "title_es": "Revisión sistemática de la evaluación de la función pulmonar entre jóvenes y adultos jóvenes usuarios de cigarrillos electrónicos: herramientas actuales y métodos emergentes",
+    "title": "Safety population size and duration of exposure prior to approval of new medicines: A database analysis of medicines centralised approved in the European Union between 2011 and 2023",
+    "title_es": "Tamaño de la población de seguridad y duración de la exposición antes de la aprobación de nuevos medicamentos: un análisis de la base de datos de medicamentos centralizados aprobados en la Unión Europea entre 2011 y 2023",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -50569,6 +50681,14 @@
     "title": "Miranda Revisited",
     "title_es": "Miranda Revisited",
     "url": "https://apod.nasa.gov/apod/image/2602/miranda_voyager2zelario12_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "In Green Company: Aurora over Norway",
+    "title_es": "In Green Company: Aurora over Norway",
+    "url": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

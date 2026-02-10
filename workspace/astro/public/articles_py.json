@@ -1,10 +1,80 @@
 [
   {
+    "title": "Winter Grips Japan",
+    "title_es": "Puños de invierno Japón",
+    "url": "https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/",
+    "date": "2026-02-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "AI helps archaeologists solve a Roman gaming mystery",
+    "title_es": "La IA ayuda a los arqueólogos a resolver el misterio de un juego romano",
+    "url": "https://www.sciencenews.org/article/ai-roman-board-game-limestone",
+    "date": "2026-02-10",
+    "source": "Science News"
+  },
+  {
+    "title": "New research reveals humans could have as many as 33 senses",
+    "title_es": "Una nueva investigación revela que los humanos podrían tener hasta 33 sentidos",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208233832.htm",
+    "date": "2026-02-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Bison hunters abandoned long-used site 1,100 years ago to adapt to changing climate, Great Plains study finds",
+    "title_es": "Los cazadores de bisontes abandonaron un sitio utilizado durante mucho tiempo hace 1.100 años para adaptarse al cambio climático, según un estudio de las Grandes Llanuras",
+    "url": "https://phys.org/news/2026-02-bison-hunters-abandoned-site-years.html",
+    "date": "2026-02-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "As the climate changes, what does the future hold for the Winter Olympic and Paralympic Games?",
     "title_es": "A medida que cambia el clima, ¿qué depara el futuro para los Juegos Olímpicos y Paralímpicos de Invierno?",
     "url": "https://phys.org/news/2026-02-climate-future-winter-olympic-paralympic.html",
     "date": "2026-02-09",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Safety population size and duration of exposure prior to approval of new medicines: A database analysis of medicines centralised approved in the European Union between 2011 and 2023",
+    "title_es": "Tamaño de la población de seguridad y duración de la exposición antes de la aprobación de nuevos medicamentos: un análisis de la base de datos de medicamentos centralizados aprobados en la Unión Europea entre 2011 y 2023",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
+    "title_es": "La robustez es una función, no un número: un estudio integral factorizado de la robustez de los OOD en la conducción basada en la visión",
+    "url": "http://arxiv.org/abs/2602.09018v1",
+    "date": "2026-02-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Jupiter gets downsized — and squashed",
+    "title_es": "Júpiter se reduce de tamaño y es aplastado",
+    "url": "https://www.nature.com/articles/d41586-026-00336-y",
+    "date": "2026-02-09",
+    "source": "Nature"
+  },
+  {
+    "title": "Borja Ibáñez nombrado nuevo embajador de congresos de Madrid",
+    "title_es": "Borja Ibáñez nombrado nuevo embajador de congresos de Madrid",
+    "url": "https://www.cnic.es/es/noticias/borja-ibanez-nombrado-nuevo-embajador-congresos-madrid",
+    "date": "2026-02-09",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando\" hreflang=\"es\">Cronología de nuestra Galaxia con ajuste de diagramas color-magnitude de Gaia (ChronoGal): II. Desvelando la formación y evolución de los discos grueso y delgado seleccionados cinemáticamente</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando\" hreflang=\"es\">Cronología de nuestra Galaxia con ajuste de diagramas color-magnitude de Gaia (ChronoGal): II. Desvelando la formación y evolución de los discos grueso y delgado seleccionados cinemáticamente</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/cronologia-de-nuestra-galaxia-con-ajuste-de-diagramas-color-magnitude-de-gaia-chronogal-ii-desvelando",
+    "date": "2026-02-09",
+    "source": "IAC"
+  },
+  {
+    "title": "Butt breathing might help people struggling to get enough oxygen",
+    "title_es": "La respiración a tope podría ayudar a las personas que luchan por obtener suficiente oxígeno",
+    "url": "https://www.snexplores.org/article/butt-breathing-oxygen",
+    "date": "2026-02-09",
+    "source": "Science News Explores"
   },
   {
     "title": "New drug resets the body clock and cuts jet lag recovery nearly in half",
@@ -54,13 +124,6 @@
     "url": "https://phys.org/news/2026-02-human-capital-brics-linked-emissions.html",
     "date": "2026-02-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Systematic review of lung function assessment among youth and young adults e-cigarette users: Current tools and emerging methods",
-    "title_es": "Revisión sistemática de la evaluación de la función pulmonar entre jóvenes y adultos jóvenes usuarios de cigarrillos electrónicos: herramientas actuales y métodos emergentes",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "Author Correction: Environmentally driven immune imprinting protects against allergy",
