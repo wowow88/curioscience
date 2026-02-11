@@ -1,5 +1,26 @@
 [
   {
+    "title": "Summer Heat Hits Southeastern Australia",
+    "title_es": "El calor del verano golpea el sureste de Australia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
+    "date": "2026-02-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
+    "title_es": "La fiesta de té simulada de un bonobo está reescribiendo lo que sabemos sobre la imaginación",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
+    "date": "2026-02-11",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How tech-dependency and pandemic isolation have created 'anxious generation'",
+    "title_es": "Cómo la dependencia tecnológica y el aislamiento pandémico han creado una 'generación ansiosa'",
+    "url": "https://phys.org/news/2026-02-tech-pandemic-isolation-anxious-generation.html",
+    "date": "2026-02-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Winter Grips Japan",
     "title_es": "Puños de invierno Japón",
     "url": "https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/",
@@ -28,18 +49,67 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Effects of using standing desks for 45 minutes on the stress and executive function of elementary school students",
+    "title_es": "Corrección: Efectos del uso de escritorios de pie durante 45 minutos sobre el estrés y la función ejecutiva de estudiantes de primaria",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-10",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mention",
+    "title_es": "Sesgos en el punto ciego: detectar lo que los LLM no mencionan",
+    "url": "http://arxiv.org/abs/2602.10117v1",
+    "date": "2026-02-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tree rings and salt lakes give clues about ancient rainfall",
+    "title_es": "Los anillos de los árboles y los lagos salados dan pistas sobre las lluvias antiguas",
+    "url": "https://www.nature.com/articles/d41586-026-00193-9",
+    "date": "2026-02-10",
+    "source": "Nature"
+  },
+  {
+    "title": "Circulation Research: Study reveals new cellular mechanisms that allow the most common chronic cardiac arrhythmia to persist in the heart",
+    "title_es": "Circulation Research: Study reveals new cellular mechanisms that allow the most common chronic cardiac arrhythmia to persist in the heart",
+    "url": "https://www.cnic.es/es/node/240042",
+    "date": "2026-02-10",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/habla-con-ellas-mujeres-en-astronomia-ocho-ediciones-conectando-ciencia-y-educacion\" hreflang=\"es\">“Habla con Ellas: Mujeres en Astronomía”: ocho ediciones conectando ciencia y educación</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/habla-con-ellas-mujeres-en-astronomia-ocho-ediciones-conectando-ciencia-y-educacion\" hreflang=\"es\">“Habla con Ellas: Mujeres en Astronomía”: ocho ediciones conectando ciencia y educación</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/habla-con-ellas-mujeres-en-astronomia-ocho-ediciones-conectando-ciencia-y-educacion",
+    "date": "2026-02-10",
+    "source": "IAC"
+  },
+  {
+    "title": "Computer Security: A final spurt for improved networking",
+    "title_es": "Seguridad informática: un último impulso para mejorar las redes",
+    "url": "https://home.cern/news/news/computing/computer-security-final-spurt-improved-networking",
+    "date": "2026-02-10",
+    "source": "CERN News"
+  },
+  {
+    "title": "Antibiotics can treat appendicitis for many patients, no surgery needed",
+    "title_es": "Los antibióticos pueden tratar la apendicitis en muchos pacientes, sin necesidad de cirugía",
+    "url": "https://www.sciencenews.org/article/antibiotics-appendicitis-no-surgery",
+    "date": "2026-02-10",
+    "source": "Science News"
+  },
+  {
+    "title": "Let’s learn about Tyrannosaurus rex",
+    "title_es": "Aprendamos sobre el Tiranosaurio rex",
+    "url": "https://www.snexplores.org/article/lets-learn-about-tyrannosaurus-rex",
+    "date": "2026-02-10",
+    "source": "Science News Explores"
+  },
+  {
     "title": "As the climate changes, what does the future hold for the Winter Olympic and Paralympic Games?",
     "title_es": "A medida que cambia el clima, ¿qué depara el futuro para los Juegos Olímpicos y Paralímpicos de Invierno?",
     "url": "https://phys.org/news/2026-02-climate-future-winter-olympic-paralympic.html",
     "date": "2026-02-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Safety population size and duration of exposure prior to approval of new medicines: A database analysis of medicines centralised approved in the European Union between 2011 and 2023",
-    "title_es": "Tamaño de la población de seguridad y duración de la exposición antes de la aprobación de nuevos medicamentos: un análisis de la base de datos de medicamentos centralizados aprobados en la Unión Europea entre 2011 y 2023",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
