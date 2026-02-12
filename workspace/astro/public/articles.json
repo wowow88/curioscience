@@ -1,5 +1,69 @@
 [
   {
+    "title": "Reviewing the Reviewer: Elevating Peer Review Quality through LLM-Guided Feedback",
+    "title_es": "Reviewing the Reviewer: Elevating Peer Review Quality through LLM-Guided Feedback",
+    "url": "https://arxiv.org/abs/2602.10118",
+    "published": "2026-02-12T05:00:00.000Z",
+    "date": "2026-02-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "5,300-Year-Old Drilling Tool Found in Egypt",
+    "title_es": "5,300-Year-Old Drilling Tool Found in Egypt",
+    "url": "https://www.sci.news/archaeology/oldest-bow-drill-14552.html",
+    "published": "2026-02-12T03:58:33.000Z",
+    "date": "2026-02-12",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Reaching Top Speed in the Dolomites",
+    "title_es": "Alcanzando la máxima velocidad en los Dolomitas",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/",
+    "date": "2026-02-12",
+    "source": "NASA (Top News)",
+    "published": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "title": "Just 5 weeks of brain training may protect against dementia for 20 years",
+    "title_es": "Sólo 5 semanas de entrenamiento cerebral pueden proteger contra la demencia durante 20 años",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260211073023.htm",
+    "date": "2026-02-12",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "title": "Rich medieval Christians bought graves 'closer to God' despite leprosy stigma, archaeologists find",
+    "title_es": "Los cristianos medievales ricos compraron tumbas \"más cercanas a Dios\" a pesar del estigma de la lepra, según descubren los arqueólogos",
+    "url": "https://phys.org/news/2026-02-rich-medieval-christians-bought-graves.html",
+    "date": "2026-02-12",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "title": "Nepal and Northern India are not overdue for a huge earthquake",
+    "title_es": "Nepal and Northern India are not overdue for a huge earthquake",
+    "url": "https://www.newscientist.com/article/2515421-nepal-and-northern-india-are-not-overdue-for-a-huge-earthquake/",
+    "published": "2026-02-11T20:35:00.000Z",
+    "date": "2026-02-11",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Life may have started as sticky goo clinging to rocks",
+    "title_es": "Life may have started as sticky goo clinging to rocks",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
+    "published": "2026-02-11T14:39:33.000Z",
+    "date": "2026-02-11",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "The Clean Energy Transition at the Salton Sea",
+    "title_es": "The Clean Energy Transition at the Salton Sea",
+    "url": "https://undark.org/2026/02/11/clean-energy-salton-sea/",
+    "published": "2026-02-11T08:23:00.000Z",
+    "date": "2026-02-11",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Entropy-Based Evidence for Bitcoin's Discrete Time Mechanism",
     "title_es": "Entropy-Based Evidence for Bitcoin's Discrete Time Mechanism",
     "url": "https://arxiv.org/abs/2602.09027",
@@ -45,6 +109,38 @@
     "url": "https://phys.org/news/2026-02-tech-pandemic-isolation-anxious-generation.html",
     "date": "2026-02-11",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling",
+    "title_es": "Más allá de las recompensas basadas en VLM: modelado de recompensas latentes nativas de difusión",
+    "url": "http://arxiv.org/abs/2602.11146v1",
+    "date": "2026-02-11",
+    "source": "arXiv",
+    "published": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "Transferable enantioselectivity models from sparse data",
+    "title_es": "Modelos de enantioselectividad transferibles a partir de datos escasos",
+    "url": "https://www.nature.com/articles/s41586-026-10239-7",
+    "date": "2026-02-11",
+    "source": "Nature",
+    "published": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "Food chains in Caribbean coral reefs are getting shorter",
+    "title_es": "Las cadenas alimentarias de los arrecifes de coral del Caribe se están acortando",
+    "url": "https://www.sciencenews.org/article/coral-reef-food-chain-caribbean",
+    "date": "2026-02-11",
+    "source": "Science News",
+    "published": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "Explainer: What is chirality?",
+    "title_es": "Explicador: ¿Qué es la quiralidad?",
+    "url": "https://www.snexplores.org/article/what-is-chirality",
+    "date": "2026-02-11",
+    "source": "Science News Explores",
     "published": "2026-02-11T00:00:00.000Z"
   },
   {
@@ -173,6 +269,14 @@
     "url": "https://www.snexplores.org/article/lets-learn-about-tyrannosaurus-rex",
     "date": "2026-02-10",
     "source": "Science News Explores",
+    "published": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "Celebrating Women in Science Day 2026 at CERN",
+    "title_es": "Celebrando el Día de la Mujer en la Ciencia 2026 en el CERN",
+    "url": "https://home.cern/news/news/knowledge-sharing/celebrating-women-science-day-2026-cern",
+    "date": "2026-02-10",
+    "source": "CERN News",
     "published": "2026-02-10T00:00:00.000Z"
   },
   {
@@ -17287,8 +17391,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Effects of using standing desks for 45 minutes on the stress and executive function of elementary school students",
-    "title_es": "Corrección: Efectos del uso de escritorios de pie durante 45 minutos sobre el estrés y la función ejecutiva de estudiantes de primaria",
+    "title": "Fat reserve and body condition variation in Argentine black and white tegus: native-invasive comparisons and environmental drivers in Florida",
+    "title_es": "Reserva de grasa y variación de la condición corporal en tegus blanco y negro argentino: comparaciones nativas-invasivas e impulsores ambientales en Florida",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -50817,6 +50921,14 @@
     "title": "A Year of Sunspots",
     "title_es": "A Year of Sunspots",
     "url": "https://apod.nasa.gov/apod/image/2602/sunspots2025_sdosanli_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "The Bay of Rainbows",
+    "title_es": "The Bay of Rainbows",
+    "url": "https://apod.nasa.gov/apod/image/2602/apod-sinus-iridum-olaf-filzinger1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

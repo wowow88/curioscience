@@ -1,5 +1,26 @@
 [
   {
+    "title": "Reaching Top Speed in the Dolomites",
+    "title_es": "Alcanzando la máxima velocidad en los Dolomitas",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/",
+    "date": "2026-02-12",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Just 5 weeks of brain training may protect against dementia for 20 years",
+    "title_es": "Sólo 5 semanas de entrenamiento cerebral pueden proteger contra la demencia durante 20 años",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260211073023.htm",
+    "date": "2026-02-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Rich medieval Christians bought graves 'closer to God' despite leprosy stigma, archaeologists find",
+    "title_es": "Los cristianos medievales ricos compraron tumbas \"más cercanas a Dios\" a pesar del estigma de la lepra, según descubren los arqueólogos",
+    "url": "https://phys.org/news/2026-02-rich-medieval-christians-bought-graves.html",
+    "date": "2026-02-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Summer Heat Hits Southeastern Australia",
     "title_es": "El calor del verano golpea el sureste de Australia",
     "url": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
@@ -19,6 +40,41 @@
     "url": "https://phys.org/news/2026-02-tech-pandemic-isolation-anxious-generation.html",
     "date": "2026-02-11",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Fat reserve and body condition variation in Argentine black and white tegus: native-invasive comparisons and environmental drivers in Florida",
+    "title_es": "Reserva de grasa y variación de la condición corporal en tegus blanco y negro argentino: comparaciones nativas-invasivas e impulsores ambientales en Florida",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling",
+    "title_es": "Más allá de las recompensas basadas en VLM: modelado de recompensas latentes nativas de difusión",
+    "url": "http://arxiv.org/abs/2602.11146v1",
+    "date": "2026-02-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Transferable enantioselectivity models from sparse data",
+    "title_es": "Modelos de enantioselectividad transferibles a partir de datos escasos",
+    "url": "https://www.nature.com/articles/s41586-026-10239-7",
+    "date": "2026-02-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Food chains in Caribbean coral reefs are getting shorter",
+    "title_es": "Las cadenas alimentarias de los arrecifes de coral del Caribe se están acortando",
+    "url": "https://www.sciencenews.org/article/coral-reef-food-chain-caribbean",
+    "date": "2026-02-11",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What is chirality?",
+    "title_es": "Explicador: ¿Qué es la quiralidad?",
+    "url": "https://www.snexplores.org/article/what-is-chirality",
+    "date": "2026-02-11",
+    "source": "Science News Explores"
   },
   {
     "title": "Winter Grips Japan",
@@ -47,13 +103,6 @@
     "url": "https://phys.org/news/2026-02-bison-hunters-abandoned-site-years.html",
     "date": "2026-02-10",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Effects of using standing desks for 45 minutes on the stress and executive function of elementary school students",
-    "title_es": "Corrección: Efectos del uso de escritorios de pie durante 45 minutos sobre el estrés y la función ejecutiva de estudiantes de primaria",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-10",
-    "source": "PLOS ONE"
   },
   {
     "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mention",
@@ -103,6 +152,13 @@
     "url": "https://www.snexplores.org/article/lets-learn-about-tyrannosaurus-rex",
     "date": "2026-02-10",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Celebrating Women in Science Day 2026 at CERN",
+    "title_es": "Celebrando el Día de la Mujer en la Ciencia 2026 en el CERN",
+    "url": "https://home.cern/news/news/knowledge-sharing/celebrating-women-science-day-2026-cern",
+    "date": "2026-02-10",
+    "source": "CERN News"
   },
   {
     "title": "As the climate changes, what does the future hold for the Winter Olympic and Paralympic Games?",
