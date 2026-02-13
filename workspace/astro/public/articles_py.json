@@ -1,5 +1,26 @@
 [
   {
+    "title": "Stonebreen’s Beating Heart",
+    "title_es": "El corazón palpitante de Stonebreen",
+    "url": "https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/",
+    "date": "2026-02-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Asteroid Bennu reveals a new pathway to life’s chemistry",
+    "title_es": "El asteroide Bennu revela un nuevo camino hacia la química de la vida",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260212023024.htm",
+    "date": "2026-02-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Researchers develop high-resolution daily atmospheric CO₂ dataset for China",
+    "title_es": "Investigadores desarrollan un conjunto de datos atmosféricos diarios de alta resolución sobre CO₂ para China",
+    "url": "https://phys.org/news/2026-02-high-resolution-daily-atmospheric-dataset.html",
+    "date": "2026-02-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Reaching Top Speed in the Dolomites",
     "title_es": "Alcanzando la máxima velocidad en los Dolomitas",
     "url": "https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/",
@@ -21,6 +42,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Balancing efficiency and clinical quality in dialysis centers: Insights from a nationwide DEA study in Taiwan",
+    "title_es": "Equilibrando la eficiencia y la calidad clínica en los centros de diálisis: perspectivas de un estudio nacional de la DEA en Taiwán",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-12",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
+    "title_es": "Ampliar la verificación puede ser más eficaz que ampliar el aprendizaje de políticas para la alineación visión-lenguaje-acción",
+    "url": "http://arxiv.org/abs/2602.12281v1",
+    "date": "2026-02-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Imagining the rich lives of invertebrates",
+    "title_es": "Imaginando las ricas vidas de los invertebrados",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec2352",
+    "date": "2026-02-12",
+    "source": "Science.org"
+  },
+  {
+    "title": "Publisher Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "title_es": "Corrección del editor: Fisiología e inmunología de un xenotrasplante de riñón de cerdo a humano fallecido",
+    "url": "https://www.nature.com/articles/s41586-026-10252-w",
+    "date": "2026-02-12",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC impulsa vocaciones científicas en una jornada por el Día de la Mujer y la Niña en la Ciencia",
+    "title_es": "El CNIC impulsa vocaciones científicas en una jornada por el Día de la Mujer y la Niña en la Ciencia",
+    "url": "https://www.cnic.es/es/noticias/cnic-impulsa-vocaciones-cientificas-jornada-por-dia-mujer-nina-ciencia",
+    "date": "2026-02-12",
+    "source": "CNIC"
+  },
+  {
+    "title": "This inside-out planetary system has astronomers scratching their heads",
+    "title_es": "Este sistema planetario al revés tiene a los astrónomos rascándose la cabeza",
+    "url": "https://www.sciencenews.org/article/inside-out-planetary-system",
+    "date": "2026-02-12",
+    "source": "Science News"
+  },
+  {
+    "title": "You need to eat protein — but the right mix really matters",
+    "title_es": "Necesitas comer proteínas, pero la combinación adecuada realmente importa",
+    "url": "https://www.snexplores.org/article/how-much-protein-eat-quality-mix",
+    "date": "2026-02-12",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Summer Heat Hits Southeastern Australia",
     "title_es": "El calor del verano golpea el sureste de Australia",
     "url": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
@@ -40,13 +110,6 @@
     "url": "https://phys.org/news/2026-02-tech-pandemic-isolation-anxious-generation.html",
     "date": "2026-02-11",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Fat reserve and body condition variation in Argentine black and white tegus: native-invasive comparisons and environmental drivers in Florida",
-    "title_es": "Reserva de grasa y variación de la condición corporal en tegus blanco y negro argentino: comparaciones nativas-invasivas e impulsores ambientales en Florida",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-11",
-    "source": "PLOS ONE"
   },
   {
     "title": "Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling",
@@ -75,6 +138,13 @@
     "url": "https://www.snexplores.org/article/what-is-chirality",
     "date": "2026-02-11",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Love is in the air at CERN’s HEARTS facility",
+    "title_es": "El amor está en el aire en las instalaciones HEARTS del CERN",
+    "url": "https://home.cern/news/news/knowledge-sharing/love-air-cerns-hearts-facility",
+    "date": "2026-02-11",
+    "source": "CERN News"
   },
   {
     "title": "Winter Grips Japan",
