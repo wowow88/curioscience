@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists used brain stimulation to make people more generous",
+    "title_es": "Los científicos utilizaron la estimulación cerebral para hacer que las personas sean más generosas",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260213020407.htm",
+    "date": "2026-02-14",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "New research uncovers how microbes shape ecosystem resilience",
+    "title_es": "Una nueva investigación descubre cómo los microbios dan forma a la resiliencia de los ecosistemas",
+    "url": "https://phys.org/news/2026-02-uncovers-microbes-ecosystem-resilience.html",
+    "date": "2026-02-14",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Stonebreen’s Beating Heart",
     "title_es": "El corazón palpitante de Stonebreen",
     "url": "https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/",
@@ -21,6 +35,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "A scoping review protocol of existing body image guidelines for parents of youth",
+    "title_es": "Un protocolo de revisión del alcance de las pautas de imagen corporal existentes para padres de jóvenes",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-13",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
+    "title_es": "Charla informativa: la cafeína ralentiza el envejecimiento cerebral, según sugieren décadas de datos",
+    "url": "https://www.nature.com/articles/d41586-026-00476-1",
+    "date": "2026-02-13",
+    "source": "Nature"
+  },
+  {
+    "title": "Crew-12 Launches",
+    "title_es": "Lanzamientos de Crew-12",
+    "url": "https://www.nasa.gov/image-article/crew-12-launches/",
+    "date": "2026-02-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Evolution didn’t wait long after the dinosaurs died",
+    "title_es": "La evolución no se hizo esperar mucho después de la muerte de los dinosaurios",
+    "url": "https://www.sciencenews.org/article/evolution-dinosaurs-chicxulub-asteroid",
+    "date": "2026-02-13",
+    "source": "Science News"
+  },
+  {
+    "title": "Bots have their own social network, and it’s worrying experts",
+    "title_es": "Los bots tienen su propia red social y esto preocupa a los expertos",
+    "url": "https://www.snexplores.org/article/bot-social-network-moltbook-ai",
+    "date": "2026-02-13",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Reaching Top Speed in the Dolomites",
     "title_es": "Alcanzando la máxima velocidad en los Dolomitas",
     "url": "https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/",
@@ -40,13 +89,6 @@
     "url": "https://phys.org/news/2026-02-rich-medieval-christians-bought-graves.html",
     "date": "2026-02-12",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Balancing efficiency and clinical quality in dialysis centers: Insights from a nationwide DEA study in Taiwan",
-    "title_es": "Equilibrando la eficiencia y la calidad clínica en los centros de diálisis: perspectivas de un estudio nacional de la DEA en Taiwán",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-12",
-    "source": "PLOS ONE"
   },
   {
     "title": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
@@ -89,6 +131,13 @@
     "url": "https://www.snexplores.org/article/how-much-protein-eat-quality-mix",
     "date": "2026-02-12",
     "source": "Science News Explores"
+  },
+  {
+    "title": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
+    "title_es": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
+    "url": "https://www.cnio.es/noticias/como-promover-el-acceso-de-las-mujeres-a-puestos-de-liderazgo-en-ciencia-expertas-de-la-biomedicina-y-la-industria-farmaceutica-lo-analizan-en-el-cnio/",
+    "date": "2026-02-12",
+    "source": "CNIO"
   },
   {
     "title": "Summer Heat Hits Southeastern Australia",

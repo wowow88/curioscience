@@ -1,19 +1,19 @@
 [
   {
-    "title": "HybridRAG: A Practical LLM-based ChatBot Framework based on Pre-Generated Q&A over Raw Unstructured Documents",
-    "title_es": "HybridRAG: A Practical LLM-based ChatBot Framework based on Pre-Generated Q&A over Raw Unstructured Documents",
-    "url": "https://arxiv.org/abs/2602.11156",
-    "published": "2026-02-13T05:00:00.000Z",
-    "date": "2026-02-13",
-    "source": "arXiv"
-  },
-  {
     "title": "Imagining the rich lives of invertebrates",
     "title_es": "Imagining the rich lives of invertebrates",
     "url": "https://www.science.org/doi/abs/10.1126/science.aec2352",
     "published": "2026-02-12T07:00:04.000Z",
     "date": "2026-02-12",
     "source": "Science.org"
+  },
+  {
+    "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
+    "title_es": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
+    "url": "https://www.nature.com/articles/d41586-026-00476-1",
+    "published": "2026-02-13T00:00:00.000Z",
+    "date": "2026-02-13",
+    "source": "Nature"
   },
   {
     "title": "El CNIC impulsa vocaciones científicas en una jornada por el Día de la Mujer y la Niña en la Ciencia",
@@ -24,10 +24,18 @@
     "source": "CNIC"
   },
   {
-    "title": "Stonebreen’s Beating Heart",
-    "title_es": "Stonebreen’s Beating Heart",
-    "url": "https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/",
-    "published": "2026-02-13T05:00:00.000Z",
+    "title": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
+    "title_es": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
+    "url": "https://www.cnio.es/noticias/como-promover-el-acceso-de-las-mujeres-a-puestos-de-liderazgo-en-ciencia-expertas-de-la-biomedicina-y-la-industria-farmaceutica-lo-analizan-en-el-cnio/",
+    "published": "2026-02-12T11:54:57.000Z",
+    "date": "2026-02-12",
+    "source": "CNIO"
+  },
+  {
+    "title": "Crew-12 Launches",
+    "title_es": "Crew-12 Launches",
+    "url": "https://www.nasa.gov/image-article/crew-12-launches/",
+    "published": "2026-02-13T15:39:10.000Z",
     "date": "2026-02-13",
     "source": "NASA (Top News)"
   },
@@ -48,73 +56,73 @@
     "source": "CERN Press"
   },
   {
-    "title": "This inside-out planetary system has astronomers scratching their heads",
-    "title_es": "This inside-out planetary system has astronomers scratching their heads",
-    "url": "https://www.sciencenews.org/article/inside-out-planetary-system",
-    "published": "2026-02-12T19:00:00.000Z",
-    "date": "2026-02-12",
+    "title": "Evolution didn’t wait long after the dinosaurs died",
+    "title_es": "Evolution didn’t wait long after the dinosaurs died",
+    "url": "https://www.sciencenews.org/article/evolution-dinosaurs-chicxulub-asteroid",
+    "published": "2026-02-13T16:00:00.000Z",
+    "date": "2026-02-13",
     "source": "Science News"
   },
   {
-    "title": "You need to eat protein — but the right mix really matters",
-    "title_es": "You need to eat protein — but the right mix really matters",
-    "url": "https://www.snexplores.org/article/how-much-protein-eat-quality-mix",
-    "published": "2026-02-12T11:30:00.000Z",
-    "date": "2026-02-12",
+    "title": "Bots have their own social network, and it’s worrying experts",
+    "title_es": "Bots have their own social network, and it’s worrying experts",
+    "url": "https://www.snexplores.org/article/bot-social-network-moltbook-ai",
+    "published": "2026-02-13T11:30:00.000Z",
+    "date": "2026-02-13",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover protein that rejuvenates aging brain cells",
-    "title_es": "Scientists discover protein that rejuvenates aging brain cells",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
-    "published": "2026-02-12T14:42:41.000Z",
-    "date": "2026-02-12",
+    "title": "Scientists used brain stimulation to make people more generous",
+    "title_es": "Scientists used brain stimulation to make people more generous",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260213020407.htm",
+    "published": "2026-02-14T01:06:33.000Z",
+    "date": "2026-02-14",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Researchers develop high-resolution daily atmospheric CO₂ dataset for China",
-    "title_es": "Researchers develop high-resolution daily atmospheric CO₂ dataset for China",
-    "url": "https://phys.org/news/2026-02-high-resolution-daily-atmospheric-dataset.html",
-    "published": "2026-02-13T04:50:02.000Z",
-    "date": "2026-02-13",
+    "title": "New research uncovers how microbes shape ecosystem resilience",
+    "title_es": "New research uncovers how microbes shape ecosystem resilience",
+    "url": "https://phys.org/news/2026-02-uncovers-microbes-ecosystem-resilience.html",
+    "published": "2026-02-14T02:30:01.000Z",
+    "date": "2026-02-14",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Balancing efficiency and clinical quality in dialysis centers: Insights from a nationwide DEA study in Taiwan",
-    "title_es": "Balancing efficiency and clinical quality in dialysis centers: Insights from a nationwide DEA study in Taiwan",
+    "title": "A scoping review protocol of existing body image guidelines for parents of youth",
+    "title_es": "A scoping review protocol of existing body image guidelines for parents of youth",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-02-12T14:00:00.000Z",
-    "date": "2026-02-12",
+    "published": "2026-02-13T14:00:00.000Z",
+    "date": "2026-02-13",
     "source": "PLOS ONE"
   },
   {
-    "title": "RNA strand that can almost self-replicate may be key to life's origins",
-    "title_es": "RNA strand that can almost self-replicate may be key to life's origins",
-    "url": "https://www.newscientist.com/article/2515482-rna-strand-that-can-almost-self-replicate-may-be-key-to-lifes-origins/",
-    "published": "2026-02-12T19:00:31.000Z",
-    "date": "2026-02-12",
+    "title": "Your BMI can't tell you much about your health – here's what can",
+    "title_es": "Your BMI can't tell you much about your health – here's what can",
+    "url": "https://www.newscientist.com/article/2513596-your-bmi-cant-tell-you-much-about-your-health-heres-what-can/",
+    "published": "2026-02-09T16:00:05.000Z",
+    "date": "2026-02-09",
     "source": "New Scientist"
   },
   {
-    "title": "Saturn’s Ring System, Hyperion and Titan May Have Originated in Collision of Two Proto-Moons",
-    "title_es": "Saturn’s Ring System, Hyperion and Titan May Have Originated in Collision of Two Proto-Moons",
-    "url": "https://www.sci.news/space/ancient-collision-saturns-ring-system-hyperion-titan-14555.html",
-    "published": "2026-02-13T01:04:35.000Z",
-    "date": "2026-02-13",
+    "title": "Japanese Archipelago Was Once a Refuge for Cave Lions",
+    "title_es": "Japanese Archipelago Was Once a Refuge for Cave Lions",
+    "url": "https://www.sci.news/paleontology/japanese-cave-lions-14557.html",
+    "published": "2026-02-14T01:04:27.000Z",
+    "date": "2026-02-14",
     "source": "Sci.News"
   },
   {
-    "title": "When Health and Wellness Products Aren’t ‘Worth a Try’",
-    "title_es": "When Health and Wellness Products Aren’t ‘Worth a Try’",
-    "url": "https://undark.org/2026/02/12/opinion-health-wellness-products/",
-    "published": "2026-02-12T19:55:37.000Z",
-    "date": "2026-02-12",
+    "title": "As More Schools Turn to AI Weapons Detection, Questions Persist",
+    "title_es": "As More Schools Turn to AI Weapons Detection, Questions Persist",
+    "url": "https://undark.org/2026/02/13/as-more-schools-turn-to-ai-weapons-detection-questions-persist/",
+    "published": "2026-02-13T08:39:00.000Z",
+    "date": "2026-02-13",
     "source": "Undark Magazine"
   },
   {
-    "title": "NGC 147 and NGC 185",
-    "title_es": "NGC 147 and NGC 185",
-    "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png",
+    "title": "Roses are Red",
+    "title_es": "Roses are Red",
+    "url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=51.5039&long=40.4617",
+    "url": "https://www.latlong.net/c/?lat=-17.2465&long=147.9569",
     "date": "",
     "published": "",
     "source": "ISS Position"
