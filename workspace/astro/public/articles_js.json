@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
+    "title_es": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
+    "url": "https://arxiv.org/abs/2602.12283",
+    "published": "2026-02-16T05:00:00.000Z",
+    "date": "2026-02-16",
+    "source": "arXiv"
+  },
+  {
     "title": "Imagining the rich lives of invertebrates",
     "title_es": "Imagining the rich lives of invertebrates",
     "url": "https://www.science.org/doi/abs/10.1126/science.aec2352",
@@ -72,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This breakthrough could finally unlock male birth control",
-    "title_es": "This breakthrough could finally unlock male birth control",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260213223918.htm",
-    "published": "2026-02-14T15:47:27.000Z",
-    "date": "2026-02-14",
+    "title": "Ancient fingerprint found on 2,400-year-old Danish war boat",
+    "title_es": "Ancient fingerprint found on 2,400-year-old Danish war boat",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260215225551.htm",
+    "published": "2026-02-16T05:40:52.000Z",
+    "date": "2026-02-16",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "More than a feeling: Thinking about love as a virtue can change how we respond to hate",
-    "title_es": "More than a feeling: Thinking about love as a virtue can change how we respond to hate",
-    "url": "https://phys.org/news/2026-02-virtue.html",
-    "published": "2026-02-15T01:30:01.000Z",
-    "date": "2026-02-15",
+    "title": "Study of 65,000 college students links 16 hours a week on social media to higher loneliness",
+    "title_es": "Study of 65,000 college students links 16 hours a week on social media to higher loneliness",
+    "url": "https://phys.org/news/2026-02-college-students-links-hours-week.html",
+    "published": "2026-02-16T05:00:01.000Z",
+    "date": "2026-02-16",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,11 +104,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "How teaching molecules to think is revealing what a 'mind' really is",
-    "title_es": "How teaching molecules to think is revealing what a 'mind' really is",
-    "url": "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/",
-    "published": "2026-02-10T16:00:17.000Z",
-    "date": "2026-02-10",
+    "title": "Intermittent fasting probably doesn’t help with weight loss",
+    "title_es": "Intermittent fasting probably doesn’t help with weight loss",
+    "url": "https://www.newscientist.com/article/2515526-intermittent-fasting-probably-doesnt-help-with-weight-loss/",
+    "published": "2026-02-16T01:00:04.000Z",
+    "date": "2026-02-16",
     "source": "New Scientist"
   },
   {
@@ -120,20 +128,12 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "To Fly Free in Space",
-    "title_es": "To Fly Free in Space",
-    "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
+    "title": "Unexplained Shocks Around a White Dwarf Star",
+    "title_es": "Unexplained Shocks Around a White Dwarf Star",
+    "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=40.5065&long=-11.9412",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Crew-5",

@@ -1,5 +1,37 @@
 [
   {
+    "title": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
+    "title_es": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
+    "url": "https://arxiv.org/abs/2602.12283",
+    "published": "2026-02-16T05:00:00.000Z",
+    "date": "2026-02-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Intermittent fasting probably doesn’t help with weight loss",
+    "title_es": "Intermittent fasting probably doesn’t help with weight loss",
+    "url": "https://www.newscientist.com/article/2515526-intermittent-fasting-probably-doesnt-help-with-weight-loss/",
+    "published": "2026-02-16T01:00:04.000Z",
+    "date": "2026-02-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Ancient fingerprint found on 2,400-year-old Danish war boat",
+    "title_es": "Hallan una huella dactilar antigua en un barco de guerra danés de 2.400 años de antigüedad",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260215225551.htm",
+    "date": "2026-02-16",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "title": "Study of 65,000 college students links 16 hours a week on social media to higher loneliness",
+    "title_es": "Un estudio de 65.000 estudiantes universitarios vincula 16 horas a la semana en las redes sociales con una mayor soledad",
+    "url": "https://phys.org/news/2026-02-college-students-links-hours-week.html",
+    "date": "2026-02-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
     "title": "Massive study finds most statin side effects aren’t caused by the drugs",
     "title_es": "Un estudio masivo encuentra que la mayoría de los efectos secundarios de las estatinas no son causados ​​por los medicamentos",
     "url": "https://www.sciencedaily.com/releases/2026/02/260212025550.htm",
@@ -125,6 +157,14 @@
     "url": "https://www.snexplores.org/article/bot-social-network-moltbook-ai",
     "date": "2026-02-13",
     "source": "Science News Explores",
+    "published": "2026-02-13T00:00:00.000Z"
+  },
+  {
+    "title": "Semantic Chunking and the Entropy of Natural Language",
+    "title_es": "Fragmentación semántica y entropía del lenguaje natural",
+    "url": "http://arxiv.org/abs/2602.13194v1",
+    "date": "2026-02-13",
+    "source": "arXiv",
     "published": "2026-02-13T00:00:00.000Z"
   },
   {
@@ -51185,6 +51225,14 @@
     "title": "To Fly Free in Space",
     "title_es": "To Fly Free in Space",
     "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Unexplained Shocks Around a White Dwarf Star",
+    "title_es": "Unexplained Shocks Around a White Dwarf Star",
+    "url": "https://apod.nasa.gov/apod/image/2602/whitedwarfshock_vlt_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
