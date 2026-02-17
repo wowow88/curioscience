@@ -1,5 +1,19 @@
 [
   {
+    "title": "This new blood test could detect cancer before it shows up on scans",
+    "title_es": "Este nuevo análisis de sangre podría detectar el cáncer antes de que aparezca en las exploraciones",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm",
+    "date": "2026-02-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Bacterial strain from 5,000-year-old cave ice shows resistance against 10 modern antibiotics",
+    "title_es": "Una cepa bacteriana procedente de una cueva de hielo de hace 5.000 años muestra resistencia a 10 antibióticos modernos",
+    "url": "https://phys.org/news/2026-02-bacterial-strain-year-cave-ice.html",
+    "date": "2026-02-17",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ancient fingerprint found on 2,400-year-old Danish war boat",
     "title_es": "Hallan una huella dactilar antigua en un barco de guerra danés de 2.400 años de antigüedad",
     "url": "https://www.sciencedaily.com/releases/2026/02/260215225551.htm",
@@ -12,6 +26,27 @@
     "url": "https://phys.org/news/2026-02-college-students-links-hours-week.html",
     "date": "2026-02-16",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization",
+    "title_es": "Contexto a largo plazo, menos enfoque: una brecha de escala en los LLM revelada a través de la privacidad y la personalización",
+    "url": "http://arxiv.org/abs/2602.15028v1",
+    "date": "2026-02-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Editorial Expression of Concern: Transcription-independent ARF regulation in oncogenic stress-mediated p53 responses",
+    "title_es": "Expresión editorial de preocupación: regulación de ARF independiente de la transcripción en respuestas de p53 mediadas por estrés oncogénico",
+    "url": "https://www.nature.com/articles/s41586-026-10247-7",
+    "date": "2026-02-16",
+    "source": "Nature"
+  },
+  {
+    "title": "Scientists Say: Cryogenic",
+    "title_es": "Los científicos dicen: criogénico",
+    "url": "https://www.snexplores.org/article/scientists-say-cryogenic-definition-pronunciation",
+    "date": "2026-02-16",
+    "source": "Science News Explores"
   },
   {
     "title": "Massive study finds most statin side effects aren’t caused by the drugs",

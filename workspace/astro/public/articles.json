@@ -1,5 +1,61 @@
 [
   {
+    "title": "Simulation-Based Study of AI-Assisted Channel Adaptation in UAV-Enabled Cellular Networks",
+    "title_es": "Simulation-Based Study of AI-Assisted Channel Adaptation in UAV-Enabled Cellular Networks",
+    "url": "https://arxiv.org/abs/2602.13199",
+    "published": "2026-02-17T05:00:00.000Z",
+    "date": "2026-02-17",
+    "source": "arXiv"
+  },
+  {
+    "title": "Small Triassic Dinosaur from Brazil Sheds New Light on Sauropodomorph Growth Strategies",
+    "title_es": "Small Triassic Dinosaur from Brazil Sheds New Light on Sauropodomorph Growth Strategies",
+    "url": "https://www.sci.news/paleontology/small-triassic-sauropodomorph-dinosaur-brazil-14562.html",
+    "published": "2026-02-17T02:04:08.000Z",
+    "date": "2026-02-17",
+    "source": "Sci.News"
+  },
+  {
+    "title": "This new blood test could detect cancer before it shows up on scans",
+    "title_es": "Este nuevo análisis de sangre podría detectar el cáncer antes de que aparezca en las exploraciones",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm",
+    "date": "2026-02-17",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "Bacterial strain from 5,000-year-old cave ice shows resistance against 10 modern antibiotics",
+    "title_es": "Una cepa bacteriana procedente de una cueva de hielo de hace 5.000 años muestra resistencia a 10 antibióticos modernos",
+    "url": "https://phys.org/news/2026-02-bacterial-strain-year-cave-ice.html",
+    "date": "2026-02-17",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "The mystery of nuclear 'magic numbers' has finally been resolved",
+    "title_es": "The mystery of nuclear 'magic numbers' has finally been resolved",
+    "url": "https://www.newscientist.com/article/2514983-the-mystery-of-nuclear-magic-numbers-has-finally-been-resolved/",
+    "published": "2026-02-16T18:00:59.000Z",
+    "date": "2026-02-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Lab grown human spinal cord heals after injury in major breakthrough",
+    "title_es": "Lab grown human spinal cord heals after injury in major breakthrough",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
+    "published": "2026-02-16T12:41:25.000Z",
+    "date": "2026-02-16",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Book Review: How Sickness Has Transformed Civilization",
+    "title_es": "Book Review: How Sickness Has Transformed Civilization",
+    "url": "https://undark.org/2026/02/16/book-review-great-shadow/",
+    "published": "2026-02-16T08:17:00.000Z",
+    "date": "2026-02-16",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
     "title_es": "A Lightweight Cubature Kalman Filter for Attitude and Heading Reference Systems Using Simplified Prediction Equations",
     "url": "https://arxiv.org/abs/2602.12283",
@@ -29,6 +85,30 @@
     "url": "https://phys.org/news/2026-02-college-students-links-hours-week.html",
     "date": "2026-02-16",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "title": "Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization",
+    "title_es": "Contexto a largo plazo, menos enfoque: una brecha de escala en los LLM revelada a través de la privacidad y la personalización",
+    "url": "http://arxiv.org/abs/2602.15028v1",
+    "date": "2026-02-16",
+    "source": "arXiv",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: Transcription-independent ARF regulation in oncogenic stress-mediated p53 responses",
+    "title_es": "Expresión editorial de preocupación: regulación de ARF independiente de la transcripción en respuestas de p53 mediadas por estrés oncogénico",
+    "url": "https://www.nature.com/articles/s41586-026-10247-7",
+    "date": "2026-02-16",
+    "source": "Nature",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Cryogenic",
+    "title_es": "Los científicos dicen: criogénico",
+    "url": "https://www.snexplores.org/article/scientists-say-cryogenic-definition-pronunciation",
+    "date": "2026-02-16",
+    "source": "Science News Explores",
     "published": "2026-02-16T00:00:00.000Z"
   },
   {
@@ -51233,6 +51313,14 @@
     "title": "Unexplained Shocks Around a White Dwarf Star",
     "title_es": "Unexplained Shocks Around a White Dwarf Star",
     "url": "https://apod.nasa.gov/apod/image/2602/whitedwarfshock_vlt_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Tails of Comet Wierzchoś",
+    "title_es": "Tails of Comet Wierzchoś",
+    "url": "https://apod.nasa.gov/apod/image/2602/wierzchos_chabo_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
