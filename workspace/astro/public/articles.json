@@ -1,5 +1,61 @@
 [
   {
+    "title": "Pairwise XOR and XNOR Gates in Squeezed Instantaneous Noise Based Logic",
+    "title_es": "Pairwise XOR and XNOR Gates in Squeezed Instantaneous Noise Based Logic",
+    "url": "https://arxiv.org/abs/2602.15032",
+    "published": "2026-02-18T05:00:00.000Z",
+    "date": "2026-02-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Triceratops’ Oversized Nasal Cavities Played Roles Far Beyond Smell, Paleontologists Find",
+    "title_es": "Triceratops’ Oversized Nasal Cavities Played Roles Far Beyond Smell, Paleontologists Find",
+    "url": "https://www.sci.news/paleontology/triceratops-nasal-cavity-14565.html",
+    "published": "2026-02-18T01:51:48.000Z",
+    "date": "2026-02-18",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A Second Cyclone Slams Madagascar",
+    "title_es": "Un segundo ciclón azota Madagascar",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/",
+    "date": "2026-02-18",
+    "source": "NASA (Top News)",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "People who switched to cannabis drinks cut their alcohol use nearly in half",
+    "title_es": "Las personas que cambiaron a bebidas de cannabis redujeron su consumo de alcohol casi a la mitad",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
+    "date": "2026-02-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Trauma is a major barrier to refugees' employment, study finds",
+    "title_es": "El trauma es una barrera importante para el empleo de los refugiados, según un estudio",
+    "url": "https://phys.org/news/2026-02-trauma-major-barrier-refugees-employment.html",
+    "date": "2026-02-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Did a cloud-seeding start-up really increase snowfall in part of Utah?",
+    "title_es": "Did a cloud-seeding start-up really increase snowfall in part of Utah?",
+    "url": "https://www.newscientist.com/article/2515960-did-a-cloud-seeding-start-up-really-increase-snowfall-in-part-of-utah/",
+    "published": "2026-02-17T19:00:33.000Z",
+    "date": "2026-02-17",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Trump Administration Ends EPA’s Ability to Fight Climate Change",
+    "title_es": "Trump Administration Ends EPA’s Ability to Fight Climate Change",
+    "url": "https://undark.org/2026/02/17/epa-endangerment-finding-overturned/",
+    "published": "2026-02-17T08:14:00.000Z",
+    "date": "2026-02-17",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Simulation-Based Study of AI-Assisted Channel Adaptation in UAV-Enabled Cellular Networks",
     "title_es": "Simulation-Based Study of AI-Assisted Channel Adaptation in UAV-Enabled Cellular Networks",
     "url": "https://arxiv.org/abs/2602.13199",
@@ -29,6 +85,38 @@
     "url": "https://phys.org/news/2026-02-bacterial-strain-year-cave-ice.html",
     "date": "2026-02-17",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+    "title_es": "Parkour humanoide perceptivo: encadenamiento de habilidades humanas dinámicas mediante coincidencia de movimiento",
+    "url": "http://arxiv.org/abs/2602.15827v1",
+    "date": "2026-02-17",
+    "source": "arXiv",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated G i signalling",
+    "title_es": "Corrección del editor: los psicodélicos provocan sus efectos mediante la señalización G<sub>i</sub> mediada por el receptor 5-HT2A",
+    "url": "https://www.nature.com/articles/s41586-026-10249-5",
+    "date": "2026-02-17",
+    "source": "Nature",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "Physicists dream up ‘spacetime quasicrystals’ that could underpin the universe",
+    "title_es": "Los físicos idean “cuasicristales del espacio-tiempo” que podrían sustentar el universo",
+    "url": "https://www.sciencenews.org/article/spacetime-quasicrystals-universe",
+    "date": "2026-02-17",
+    "source": "Science News",
+    "published": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "title": "New study links early smartphone ownership to health risks",
+    "title_es": "Un nuevo estudio vincula la posesión temprana de teléfonos inteligentes con riesgos para la salud",
+    "url": "https://www.snexplores.org/article/kids-age-own-smartphone-health-risks",
+    "date": "2026-02-17",
+    "source": "Science News Explores",
     "published": "2026-02-17T00:00:00.000Z"
   },
   {
@@ -109,6 +197,14 @@
     "url": "https://www.snexplores.org/article/scientists-say-cryogenic-definition-pronunciation",
     "date": "2026-02-16",
     "source": "Science News Explores",
+    "published": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "title": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
+    "title_es": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
+    "url": "https://www.cnic.es/es/node/240186",
+    "date": "2026-02-16",
+    "source": "CNIC",
     "published": "2026-02-16T00:00:00.000Z"
   },
   {
@@ -17743,8 +17839,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A scoping review protocol of existing body image guidelines for parents of youth",
-    "title_es": "Un protocolo de revisión del alcance de las pautas de imagen corporal existentes para padres de jóvenes",
+    "title": "Correction: Study on the mechanism of mining-induced pressure mitigation in gangue backfill mining and the sensitivity analysis of main controlling factors",
+    "title_es": "Corrección: Estudio sobre el mecanismo de mitigación de la presión inducida por la minería en la minería de relleno de ganga y el análisis de sensibilidad de los principales factores de control.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -51321,6 +51417,14 @@
     "title": "Tails of Comet Wierzchoś",
     "title_es": "Tails of Comet Wierzchoś",
     "url": "https://apod.nasa.gov/apod/image/2602/wierzchos_chabo_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Orion's Cradle",
+    "title_es": "Orion's Cradle",
+    "url": "https://apod.nasa.gov/apod/image/2602/orionbarnard_czerski_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
