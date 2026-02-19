@@ -1,5 +1,53 @@
 [
   {
+    "title": "A2H: Agent-to-Human Protocol for AI Agent",
+    "title_es": "A2H: Agent-to-Human Protocol for AI Agent",
+    "url": "https://arxiv.org/abs/2602.15831",
+    "published": "2026-02-19T05:00:00.000Z",
+    "date": "2026-02-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Homo erectus Reached East Asia Far Earlier than Previously Thought",
+    "title_es": "Homo erectus Reached East Asia Far Earlier than Previously Thought",
+    "url": "https://www.sci.news/othersciences/anthropology/yunxian-homo-erectus-14570.html",
+    "published": "2026-02-19T02:01:58.000Z",
+    "date": "2026-02-19",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Northern Glow Spans Iceland and Canada",
+    "title_es": "Northern Glow se extiende por Islandia y Canadá",
+    "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
+    "date": "2026-02-19",
+    "source": "NASA (Top News)",
+    "published": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "title": "Bilingual courses in Europe: Proper use of language is professors' main concern",
+    "title_es": "Cursos bilingües en Europa: el uso adecuado de la lengua es la principal preocupación de los profesores",
+    "url": "https://phys.org/news/2026-02-bilingual-courses-europe-proper-language.html",
+    "date": "2026-02-19",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "title": "More dog breeds found to have high risk of breathing condition",
+    "title_es": "More dog breeds found to have high risk of breathing condition",
+    "url": "https://www.newscientist.com/article/2516119-more-dog-breeds-found-to-have-high-risk-of-breathing-condition/",
+    "published": "2026-02-18T19:00:54.000Z",
+    "date": "2026-02-18",
+    "source": "New Scientist"
+  },
+  {
+    "title": "What the Dutch Can Teach Us About Paying for Health Care",
+    "title_es": "What the Dutch Can Teach Us About Paying for Health Care",
+    "url": "https://undark.org/2026/02/18/dutch-healthcare-insurance/",
+    "published": "2026-02-18T08:47:00.000Z",
+    "date": "2026-02-18",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Pairwise XOR and XNOR Gates in Squeezed Instantaneous Noise Based Logic",
     "title_es": "Pairwise XOR and XNOR Gates in Squeezed Instantaneous Noise Based Logic",
     "url": "https://arxiv.org/abs/2602.15032",
@@ -37,6 +85,54 @@
     "url": "https://phys.org/news/2026-02-trauma-major-barrier-refugees-employment.html",
     "date": "2026-02-18",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Policy Compiler for Secure Agentic Systems",
+    "title_es": "Compilador de políticas para sistemas agentes seguros",
+    "url": "http://arxiv.org/abs/2602.16708v1",
+    "date": "2026-02-18",
+    "source": "arXiv",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Stereospecific alkyl–alkyl cross-coupling of boronic esters",
+    "title_es": "Acoplamiento cruzado estereoespecífico alquil-alquilo de ésteres borónicos",
+    "url": "https://www.nature.com/articles/s41586-026-10261-9",
+    "date": "2026-02-18",
+    "source": "Nature",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912\" hreflang=\"es\">Sub-Neptunos gemelos alrededor de estrellas hermanas: los sistemas exoplanetarios TOI-521 y TOI-912</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912\" hreflang=\"es\">Sub-Neptunos gemelos alrededor de estrellas hermanas: los sistemas exoplanetarios TOI-521 y TOI-912</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912",
+    "date": "2026-02-18",
+    "source": "IAC",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Some dog breeds carry a higher risk of breathing problems",
+    "title_es": "Algunas razas de perros conllevan un mayor riesgo de sufrir problemas respiratorios",
+    "url": "https://www.sciencenews.org/article/dog-breed-high-risk-breathing-problems",
+    "date": "2026-02-18",
+    "source": "Science News",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Using physics can help athletes avoid sports injuries",
+    "title_es": "El uso de la física puede ayudar a los deportistas a evitar lesiones deportivas",
+    "url": "https://www.snexplores.org/article/sports-physics-athlete-injuries",
+    "date": "2026-02-18",
+    "source": "Science News Explores",
+    "published": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "title": "Intermittent fasting fails to beat standard dieting for weight loss",
+    "title_es": "El ayuno intermitente no supera la dieta estándar para bajar de peso",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
+    "date": "2026-02-18",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-18T00:00:00.000Z"
   },
   {
@@ -96,7 +192,7 @@
     "published": "2026-02-17T00:00:00.000Z"
   },
   {
-    "title": "Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated G i signalling",
+    "title": "Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated G<sub>i</sub> signalling",
     "title_es": "Corrección del editor: los psicodélicos provocan sus efectos mediante la señalización G<sub>i</sub> mediada por el receptor 5-HT2A",
     "url": "https://www.nature.com/articles/s41586-026-10249-5",
     "date": "2026-02-17",
@@ -461,6 +557,14 @@
     "url": "https://www.cnio.es/noticias/como-promover-el-acceso-de-las-mujeres-a-puestos-de-liderazgo-en-ciencia-expertas-de-la-biomedicina-y-la-industria-farmaceutica-lo-analizan-en-el-cnio/",
     "date": "2026-02-12",
     "source": "CNIO",
+    "published": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "title": "Machine learning to reveal more about LHC particle collisions",
+    "title_es": "Aprendizaje automático para revelar más sobre las colisiones de partículas del LHC",
+    "url": "https://home.cern/news/news/physics/machine-learning-reveal-more-about-lhc-particle-collisions",
+    "date": "2026-02-12",
+    "source": "CERN News",
     "published": "2026-02-12T00:00:00.000Z"
   },
   {
@@ -17839,8 +17943,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Study on the mechanism of mining-induced pressure mitigation in gangue backfill mining and the sensitivity analysis of main controlling factors",
-    "title_es": "Corrección: Estudio sobre el mecanismo de mitigación de la presión inducida por la minería en la minería de relleno de ganga y el análisis de sensibilidad de los principales factores de control.",
+    "title": "Correction: PMA-qPCA: Accelerating the market release of high-quality Bradyrhizobium diazoefficiens inoculant",
+    "title_es": "Corrección: PMA-qPCA: Acelerar el lanzamiento al mercado del inoculante <i>Bradyrhizobium diazoefficiens</i> de alta calidad",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -51425,6 +51529,14 @@
     "title": "Orion's Cradle",
     "title_es": "Orion's Cradle",
     "url": "https://apod.nasa.gov/apod/image/2602/orionbarnard_czerski_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "IC 2574: Coddington's Nebula",
+    "title_es": "IC 2574: Coddington's Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2602/ic2574vetter1050.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

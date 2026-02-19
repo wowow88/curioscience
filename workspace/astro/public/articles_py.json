@@ -1,5 +1,19 @@
 [
   {
+    "title": "Northern Glow Spans Iceland and Canada",
+    "title_es": "Northern Glow se extiende por Islandia y Canadá",
+    "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
+    "date": "2026-02-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Bilingual courses in Europe: Proper use of language is professors' main concern",
+    "title_es": "Cursos bilingües en Europa: el uso adecuado de la lengua es la principal preocupación de los profesores",
+    "url": "https://phys.org/news/2026-02-bilingual-courses-europe-proper-language.html",
+    "date": "2026-02-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Second Cyclone Slams Madagascar",
     "title_es": "Un segundo ciclón azota Madagascar",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/",
@@ -21,6 +35,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: PMA-qPCA: Accelerating the market release of high-quality <i>Bradyrhizobium diazoefficiens</i> inoculant",
+    "title_es": "Corrección: PMA-qPCA: Acelerar el lanzamiento al mercado del inoculante <i>Bradyrhizobium diazoefficiens</i> de alta calidad",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-18",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Policy Compiler for Secure Agentic Systems",
+    "title_es": "Compilador de políticas para sistemas agentes seguros",
+    "url": "http://arxiv.org/abs/2602.16708v1",
+    "date": "2026-02-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Stereospecific alkyl–alkyl cross-coupling of boronic esters",
+    "title_es": "Acoplamiento cruzado estereoespecífico alquil-alquilo de ésteres borónicos",
+    "url": "https://www.nature.com/articles/s41586-026-10261-9",
+    "date": "2026-02-18",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912\" hreflang=\"es\">Sub-Neptunos gemelos alrededor de estrellas hermanas: los sistemas exoplanetarios TOI-521 y TOI-912</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912\" hreflang=\"es\">Sub-Neptunos gemelos alrededor de estrellas hermanas: los sistemas exoplanetarios TOI-521 y TOI-912</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/sub-neptunos-gemelos-alrededor-de-estrellas-hermanas-los-sistemas-exoplanetarios-toi-521-y-toi-912",
+    "date": "2026-02-18",
+    "source": "IAC"
+  },
+  {
+    "title": "Some dog breeds carry a higher risk of breathing problems",
+    "title_es": "Algunas razas de perros conllevan un mayor riesgo de sufrir problemas respiratorios",
+    "url": "https://www.sciencenews.org/article/dog-breed-high-risk-breathing-problems",
+    "date": "2026-02-18",
+    "source": "Science News"
+  },
+  {
+    "title": "Using physics can help athletes avoid sports injuries",
+    "title_es": "El uso de la física puede ayudar a los deportistas a evitar lesiones deportivas",
+    "url": "https://www.snexplores.org/article/sports-physics-athlete-injuries",
+    "date": "2026-02-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Intermittent fasting fails to beat standard dieting for weight loss",
+    "title_es": "El ayuno intermitente no supera la dieta estándar para bajar de peso",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
+    "date": "2026-02-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "This new blood test could detect cancer before it shows up on scans",
     "title_es": "Este nuevo análisis de sangre podría detectar el cáncer antes de que aparezca en las exploraciones",
     "url": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-02-bacterial-strain-year-cave-ice.html",
     "date": "2026-02-17",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Study on the mechanism of mining-induced pressure mitigation in gangue backfill mining and the sensitivity analysis of main controlling factors",
-    "title_es": "Corrección: Estudio sobre el mecanismo de mitigación de la presión inducida por la minería en la minería de relleno de ganga y el análisis de sensibilidad de los principales factores de control.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-17",
-    "source": "PLOS ONE"
   },
   {
     "title": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
@@ -264,6 +320,13 @@
     "url": "https://www.cnio.es/noticias/como-promover-el-acceso-de-las-mujeres-a-puestos-de-liderazgo-en-ciencia-expertas-de-la-biomedicina-y-la-industria-farmaceutica-lo-analizan-en-el-cnio/",
     "date": "2026-02-12",
     "source": "CNIO"
+  },
+  {
+    "title": "Machine learning to reveal more about LHC particle collisions",
+    "title_es": "Aprendizaje automático para revelar más sobre las colisiones de partículas del LHC",
+    "url": "https://home.cern/news/news/physics/machine-learning-reveal-more-about-lhc-particle-collisions",
+    "date": "2026-02-12",
+    "source": "CERN News"
   },
   {
     "title": "Summer Heat Hits Southeastern Australia",
