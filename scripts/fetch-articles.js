@@ -194,8 +194,6 @@ async function fetchAll() {
   console.log(`Guardados ${picked.length} artículos en ${OUT_PATH}`);
 }
 
-}
-
 fetchAll().catch((e) => {
   console.error(e?.stack || e?.message || String(e));
   process.exit(1);
