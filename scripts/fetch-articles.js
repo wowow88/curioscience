@@ -15,7 +15,34 @@ const DEEPL_SLEEP_MS = Number(process.env.DEEPL_SLEEP_MS || 1200);
 const TRANSLATE_IN_FETCH = process.env.TRANSLATE_IN_FETCH === "1";
 const DISABLE_DEEPL = process.env.DISABLE_DEEPL === "1";
 const SHOULD_TRANSLATE = TRANSLATE_IN_FETCH && !DISABLE_DEEPL && !!DEEPL_KEY;
+// --- Timeouts (evita cuelgues infinitos en GitHub Actions) ---
+const FETCH_TIMEOUT_MS = Number(process.env.FETCH_TIMEOUT_MS || 12000);     // APIs (12s)
+const RSS_PARSE_TIMEOUT_MS = Number(process.env.RSS_PARSE_TIMEOUT_MS || 12000); // RSS parse (12s)
 
+/** Envuélvelo para que cualquier promesa tenga un timeout duro */
+function withTimeout(promise, ms, label = "operation") {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`${label} timeout after ${ms}ms`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
+
+/** Fetch con AbortController + timeout real */
+async function fetchWithTimeout(url, options = {}, ms = FETCH_TIMEOUT_MS, label = "fetch") {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), ms);
+
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } catch (err) {
+    // Normaliza el mensaje cuando aborta por timeout
+    if (err?.name === "AbortError") throw new Error(`${label} timeout after ${ms}ms`);
+    throw err;
+  } finally {
+    clearTimeout(timer);
+  }
+}
 const BASE_SOURCES = [
   { name: "arXiv", url: "http://export.arxiv.org/rss/cs" },
   { name: "PubMed", url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1G9yX0r5TrO6jPB23sOZJ8kPZt7OeEMeP3Wrxsk4NxlMVi4T5L/?limit=10" },
@@ -87,18 +114,30 @@ function pick(...vals) {
   return "";
 }
 
+function safeISODate(value) {
+  const s = pick(value, "");
+  if (!s) return "";
+  const d = new Date(s);
+  if (Number.isNaN(d.getTime())) return "";
+  return d.toISOString();
+}
 function mapRssItemToArticle(item, sourceName) {
   const link = pick(item.link, item.guid, item.id, item.url);
   const url = normUrl(link);
   const title = stripTags(pick(item.title, item["dc:title"], ""));
-  const published = new Date(pick(item.pubDate, item.published, item.updated, item.isoDate)).toISOString();
+  const published = safeISODate(pick(item.pubDate, item.published, item.updated, item.isoDate));
   const date = published ? published.slice(0, 10) : "";
   return { title, title_es: title, url, published, date, source: sourceName };
 }
 
 async function fetchFromAPI(name, url) {
   try {
-    const res = await fetch(url, { headers: { "user-agent": USER_AGENT } });
+    const res = await fetchWithTimeout(
+  url,
+  { headers: { "user-agent": USER_AGENT } },
+  FETCH_TIMEOUT_MS,
+  `[${name}] API fetch`
+);
     if (!res.ok) throw new Error(res.status);
     const data = await res.json();
     if (name === "NASA APOD") return { title: data.title, title_es: data.title, url: data.url || data.hdurl, date: "", published: "", source: name };
@@ -107,18 +146,22 @@ async function fetchFromAPI(name, url) {
     if (name === "Numbers Fact") return { title: data.text, title_es: data.text, url: "http://numbersapi.com", date: "", published: "", source: name };
     if (name === "Newton (Derivada)") return { title: `Derivada de x^2: ${data.result}`, title_es: `Derivada de x^2: ${data.result}`, url: "https://newton.now.sh", date: "", published: "", source: name };
   } catch (e) {
-    console.warn(`[${name}] API error:`, e.message);
+    console.warn(`[${name}] API error:`, e?.message || String(e));
     return null;
   }
 }
 
 async function fetchRSS(url, name) {
   try {
-    const feed = await parser.parseURL(url);
+    const feed = await withTimeout(
+  parser.parseURL(url),
+  RSS_PARSE_TIMEOUT_MS,
+  `[${name}] RSS parse`
+);
     const items = feed.items || [];
     return items.map(it => mapRssItemToArticle(it, name));
   } catch (e) {
-    console.warn(`[${name}] RSS error:`, e.message);
+    console.warn(`[${name}] RSS error:`, e?.message || String(e));
     return [];
   }
 }
@@ -132,7 +175,7 @@ async function fetchAll() {
       const a = await fetchFromAPI(src.name, src.url);
       if (a) articles = [a];
     } else if (src.url.startsWith("HTML_FALLBACK:")) {
-      // podría implementarse si se desea mantener compatibilidad
+      console.warn(`[${src.name}] HTML fallback desactivado en fetch-articles.js`);
       continue;
     } else {
       articles = await fetchRSS(src.url, src.name);
@@ -151,4 +194,9 @@ async function fetchAll() {
   console.log(`Guardados ${picked.length} artículos en ${OUT_PATH}`);
 }
 
-fetchAll().catch(e => { console.error(e); process.exit(1); });
+}
+
+fetchAll().catch((e) => {
+  console.error(e?.stack || e?.message || String(e));
+  process.exit(1);
+});
