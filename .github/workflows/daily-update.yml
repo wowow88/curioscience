@@ -133,7 +133,7 @@ jobs:
           node -v
           if   [ -f scripts/fetch-articles.js ]; then node scripts/fetch-articles.js
           elif [ -f workspace/scripts/fetch-articles.js ]; then node workspace/scripts/fetch-articles.js
-          elif [ -f fetch-articles.js ]; then node fetch-articles.js
+          if [ -f scripts/fetch-articles.js ]; then timeout 8m node scripts/fetch-articles.js
           elif [ -f workspace/fetch-articles.js ]; then node workspace/fetch-articles.js
           else echo "❌ No se encontró fetch-articles.js"; exit 1; fi
 
