@@ -1,50 +1,42 @@
 [
   {
-    "title": "A2H: Agent-to-Human Protocol for AI Agent",
-    "title_es": "A2H: Agent-to-Human Protocol for AI Agent",
-    "url": "https://arxiv.org/abs/2602.15831",
-    "published": "2026-02-19T05:00:00.000Z",
+    "title": "Playing the game of science",
+    "title_es": "Playing the game of science",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed4896",
+    "published": "2026-02-19T07:00:03.000Z",
     "date": "2026-02-19",
-    "source": "arXiv"
-  },
-  {
-    "title": "Imagining the rich lives of invertebrates",
-    "title_es": "Imagining the rich lives of invertebrates",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aec2352",
-    "published": "2026-02-12T07:00:04.000Z",
-    "date": "2026-02-12",
     "source": "Science.org"
   },
   {
-    "title": "Stereospecific alkyl–alkyl cross-coupling of boronic esters",
-    "title_es": "Stereospecific alkyl–alkyl cross-coupling of boronic esters",
-    "url": "https://www.nature.com/articles/s41586-026-10261-9",
-    "published": "2026-02-18T00:00:00.000Z",
-    "date": "2026-02-18",
+    "title": "Publisher Correction: PtdIns(3,5)P 2 is an endogenous ligand of STING in innate immune signalling",
+    "title_es": "Publisher Correction: PtdIns(3,5)P 2 is an endogenous ligand of STING in innate immune signalling",
+    "url": "https://www.nature.com/articles/s41586-026-10280-6",
+    "published": "2026-02-20T00:00:00.000Z",
+    "date": "2026-02-20",
     "source": "Nature"
   },
   {
-    "title": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
-    "title_es": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
+    "title": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects",
+    "title_es": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects",
     "url": "https://www.cnic.es/es/node/240186",
     "published": "2026-02-16T09:26:52.000Z",
     "date": "2026-02-16",
     "source": "CNIC"
   },
   {
-    "title": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
-    "title_es": "¿Cómo promover el acceso de las mujeres a puestos de liderazgo en ciencia? Más de 40 entidades de la biomedicina y la industria farmacéutica piensan soluciones",
-    "url": "https://www.cnio.es/noticias/como-promover-el-acceso-de-las-mujeres-a-puestos-de-liderazgo-en-ciencia-expertas-de-la-biomedicina-y-la-industria-farmaceutica-lo-analizan-en-el-cnio/",
-    "published": "2026-02-12T11:54:57.000Z",
-    "date": "2026-02-12",
+    "title": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
+    "title_es": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
+    "url": "https://www.cnio.es/noticias/un-estudio-sobre-el-melanoma-mas-frecuente-en-america-latina-africa-y-asia-alerta-de-la-falta-de-investigacion-en-genetica-del-cancer-en-poblaciones-no-europeas/",
+    "published": "2026-02-19T10:10:16.000Z",
+    "date": "2026-02-19",
     "source": "CNIO"
   },
   {
-    "title": "Northern Glow Spans Iceland and Canada",
-    "title_es": "Northern Glow Spans Iceland and Canada",
-    "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
-    "published": "2026-02-19T05:00:00.000Z",
-    "date": "2026-02-19",
+    "title": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
+    "title_es": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
+    "url": "https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/",
+    "published": "2026-02-20T20:00:00.000Z",
+    "date": "2026-02-20",
     "source": "NASA (Top News)"
   },
   {
@@ -64,73 +56,89 @@
     "source": "CERN Press"
   },
   {
-    "title": "Some dog breeds carry a higher risk of breathing problems",
-    "title_es": "Some dog breeds carry a higher risk of breathing problems",
-    "url": "https://www.sciencenews.org/article/dog-breed-high-risk-breathing-problems",
-    "published": "2026-02-18T19:00:00.000Z",
-    "date": "2026-02-18",
+    "title": "Meds like Ozempic could ease arthritis",
+    "title_es": "Meds like Ozempic could ease arthritis",
+    "url": "https://www.sciencenews.org/article/ozempic-osteoarthritis-arthritis-semaglutide",
+    "published": "2026-02-20T16:00:00.000Z",
+    "date": "2026-02-20",
     "source": "Science News"
   },
   {
-    "title": "Using physics can help athletes avoid sports injuries",
-    "title_es": "Using physics can help athletes avoid sports injuries",
-    "url": "https://www.snexplores.org/article/sports-physics-athlete-injuries",
-    "published": "2026-02-18T11:30:00.000Z",
-    "date": "2026-02-18",
+    "title": "Neandertals used fire-making tools 400,000 years ago",
+    "title_es": "Neandertals used fire-making tools 400,000 years ago",
+    "url": "https://www.snexplores.org/article/oldest-fire-making-tools-neandertals",
+    "published": "2026-02-20T11:30:00.000Z",
+    "date": "2026-02-20",
     "source": "Science News Explores"
   },
   {
-    "title": "Intermittent fasting fails to beat standard dieting for weight loss",
-    "title_es": "Intermittent fasting fails to beat standard dieting for weight loss",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
-    "published": "2026-02-18T13:11:51.000Z",
-    "date": "2026-02-18",
+    "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+    "title_es": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+    "published": "2026-02-21T05:43:23.000Z",
+    "date": "2026-02-21",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Bilingual courses in Europe: Proper use of language is professors' main concern",
-    "title_es": "Bilingual courses in Europe: Proper use of language is professors' main concern",
-    "url": "https://phys.org/news/2026-02-bilingual-courses-europe-proper-language.html",
-    "published": "2026-02-19T03:50:02.000Z",
-    "date": "2026-02-19",
+    "title": "How travel and dating apps are changing relationship rules for queer men",
+    "title_es": "How travel and dating apps are changing relationship rules for queer men",
+    "url": "https://phys.org/news/2026-02-dating-apps-relationship-queer-men.html",
+    "published": "2026-02-21T03:50:01.000Z",
+    "date": "2026-02-21",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: PMA-qPCA: Accelerating the market release of high-quality Bradyrhizobium diazoefficiens inoculant",
-    "title_es": "Correction: PMA-qPCA: Accelerating the market release of high-quality Bradyrhizobium diazoefficiens inoculant",
+    "title": "Characterizing mitochondrial phenotypes and MERCS in aged human skeletal muscle myoblasts",
+    "title_es": "Characterizing mitochondrial phenotypes and MERCS in aged human skeletal muscle myoblasts",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-02-18T14:00:00.000Z",
-    "date": "2026-02-18",
+    "published": "2026-02-20T14:00:00.000Z",
+    "date": "2026-02-20",
     "source": "PLOS ONE"
   },
   {
-    "title": "More dog breeds found to have high risk of breathing condition",
-    "title_es": "More dog breeds found to have high risk of breathing condition",
-    "url": "https://www.newscientist.com/article/2516119-more-dog-breeds-found-to-have-high-risk-of-breathing-condition/",
-    "published": "2026-02-18T19:00:54.000Z",
-    "date": "2026-02-18",
+    "title": "Fish-based pet food may expose cats and dogs to forever chemicals",
+    "title_es": "Fish-based pet food may expose cats and dogs to forever chemicals",
+    "url": "https://www.newscientist.com/article/2516516-fish-based-pet-food-may-expose-cats-and-dogs-to-forever-chemicals/",
+    "published": "2026-02-20T18:00:54.000Z",
+    "date": "2026-02-20",
     "source": "New Scientist"
   },
   {
-    "title": "Homo erectus Reached East Asia Far Earlier than Previously Thought",
-    "title_es": "Homo erectus Reached East Asia Far Earlier than Previously Thought",
-    "url": "https://www.sci.news/othersciences/anthropology/yunxian-homo-erectus-14570.html",
-    "published": "2026-02-19T02:01:58.000Z",
+    "title": "Doubling Down on Diamond",
+    "title_es": "Doubling Down on Diamond",
+    "url": "https://scipost.org/roadmap",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
+  },
+  {
+    "title": "New Spinosaurus Species Discovered in Niger",
+    "title_es": "New Spinosaurus Species Discovered in Niger",
+    "url": "https://www.sci.news/paleontology/spinosaurus-mirabilis-14571.html",
+    "published": "2026-02-19T18:59:47.000Z",
     "date": "2026-02-19",
     "source": "Sci.News"
   },
   {
-    "title": "What the Dutch Can Teach Us About Paying for Health Care",
-    "title_es": "What the Dutch Can Teach Us About Paying for Health Care",
-    "url": "https://undark.org/2026/02/18/dutch-healthcare-insurance/",
-    "published": "2026-02-18T08:47:00.000Z",
-    "date": "2026-02-18",
+    "title": "Book Review: The Societal Impact of Genetic Research",
+    "title_es": "Book Review: The Societal Impact of Genetic Research",
+    "url": "https://undark.org/2026/02/20/book-review-what-we-inherit/",
+    "published": "2026-02-20T08:39:00.000Z",
+    "date": "2026-02-20",
     "source": "Undark Magazine"
   },
   {
-    "title": "IC 2574: Coddington's Nebula",
-    "title_es": "IC 2574: Coddington's Nebula",
-    "url": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg",
+    "title": "Isotropic 3D topological phases with broken time reversal symmetry, by Helene Spring, Anton R. Akhmerov, Daniel Varjas",
+    "title_es": "Isotropic 3D topological phases with broken time reversal symmetry, by Helene Spring, Anton R. Akhmerov, Daniel Varjas",
+    "url": "https://scipost.org/scipostphys.20.2.051",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Twilight with Moon and Planets",
+    "title_es": "Twilight with Moon and Planets",
+    "url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -138,7 +146,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=48.8829&long=-14.5592",
+    "url": "https://www.latlong.net/c/?lat=-43.6422&long=-179.4165",
     "date": "",
     "published": "",
     "source": "ISS Position"

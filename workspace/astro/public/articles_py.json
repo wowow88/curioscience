@@ -1,5 +1,54 @@
 [
   {
+    "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+    "title_es": "Una bacteria común de la neumonía puede alimentar la enfermedad de Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+    "date": "2026-02-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How travel and dating apps are changing relationship rules for queer men",
+    "title_es": "Cómo las aplicaciones de viajes y citas están cambiando las reglas de relación para los hombres queer",
+    "url": "https://phys.org/news/2026-02-dating-apps-relationship-queer-men.html",
+    "date": "2026-02-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Characterizing mitochondrial phenotypes and MERCS in aged human skeletal muscle myoblasts",
+    "title_es": "Caracterización de fenotipos mitocondriales y MERCS en mioblastos del músculo esquelético humano envejecido",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-20",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Publisher Correction: PtdIns(3,5)P<sub>2</sub> is an endogenous ligand of STING in innate immune signalling",
+    "title_es": "Corrección del editor: PtdIns(3,5)P<sub>2</sub> es un ligando endógeno de STING en la señalización inmune innata",
+    "url": "https://www.nature.com/articles/s41586-026-10280-6",
+    "date": "2026-02-20",
+    "source": "Nature"
+  },
+  {
+    "title": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
+    "title_es": "La NASA está ayudando a traer tortugas gigantes de regreso a las Galápagos",
+    "url": "https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/",
+    "date": "2026-02-20",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Meds like Ozempic could ease arthritis",
+    "title_es": "Medicamentos como Ozempic podrían aliviar la artritis",
+    "url": "https://www.sciencenews.org/article/ozempic-osteoarthritis-arthritis-semaglutide",
+    "date": "2026-02-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Neandertals used fire-making tools 400,000 years ago",
+    "title_es": "Los neandertales utilizaban herramientas para hacer fuego hace 400.000 años",
+    "url": "https://www.snexplores.org/article/oldest-fire-making-tools-neandertals",
+    "date": "2026-02-20",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Northern Glow Spans Iceland and Canada",
     "title_es": "Northern Glow se extiende por Islandia y Canadá",
     "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
@@ -12,6 +61,34 @@
     "url": "https://phys.org/news/2026-02-bilingual-courses-europe-proper-language.html",
     "date": "2026-02-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Sink-Aware Pruning for Diffusion Language Models",
+    "title_es": "Poda consciente del fregadero para modelos de lenguaje de difusión",
+    "url": "http://arxiv.org/abs/2602.17664v1",
+    "date": "2026-02-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Playing the game of science",
+    "title_es": "Jugando el juego de la ciencia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed4896",
+    "date": "2026-02-19",
+    "source": "Science.org"
+  },
+  {
+    "title": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
+    "title_es": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
+    "url": "https://www.cnio.es/noticias/un-estudio-sobre-el-melanoma-mas-frecuente-en-america-latina-africa-y-asia-alerta-de-la-falta-de-investigacion-en-genetica-del-cancer-en-poblaciones-no-europeas/",
+    "date": "2026-02-19",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-director-del-iac-valentin-martinez-pillet-analizara-la-relacion-con-nuestra-estrella-el-sol-en-la\" hreflang=\"es\">El director del IAC, Valentín Martínez Pillet, analizará la relación con nuestra estrella, el Sol, en la Real Sociedad Económica de Amigos del País de Tenerife</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-director-del-iac-valentin-martinez-pillet-analizara-la-relacion-con-nuestra-estrella-el-sol-en-la\" hreflang=\"es\">El director del IAC, Valentín Martínez Pillet, analizará la relación con nuestra estrella, el Sol, en la Real Sociedad Económica de Amigos del País de Tenerife</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-director-del-iac-valentin-martinez-pillet-analizara-la-relacion-con-nuestra-estrella-el-sol-en-la",
+    "date": "2026-02-19",
+    "source": "IAC"
   },
   {
     "title": "A Second Cyclone Slams Madagascar",
@@ -33,13 +110,6 @@
     "url": "https://phys.org/news/2026-02-trauma-major-barrier-refugees-employment.html",
     "date": "2026-02-18",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: PMA-qPCA: Accelerating the market release of high-quality <i>Bradyrhizobium diazoefficiens</i> inoculant",
-    "title_es": "Corrección: PMA-qPCA: Acelerar el lanzamiento al mercado del inoculante <i>Bradyrhizobium diazoefficiens</i> de alta calidad",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-18",
-    "source": "PLOS ONE"
   },
   {
     "title": "Policy Compiler for Secure Agentic Systems",
@@ -161,8 +231,8 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
-    "title_es": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects[",
+    "title": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects",
+    "title_es": "Nature Metabolism: A yeast enzyme helps human cells overcome mitochondrial defects",
     "url": "https://www.cnic.es/es/node/240186",
     "date": "2026-02-16",
     "source": "CNIC"
