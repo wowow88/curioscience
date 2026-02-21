@@ -153,13 +153,26 @@ async function fetchFromAPI(name, url) {
 
 async function fetchRSS(url, name) {
   try {
+    // Fetch con AbortController (abort REAL)
+    const res = await fetchWithTimeout(
+      url,
+      { headers: { "user-agent": USER_AGENT } },
+      FETCH_TIMEOUT_MS,
+      `[${name}] RSS fetch`
+    );
+    if (!res.ok) throw new Error(`Status code ${res.status}`);
+
+    const xml = await res.text();
+
+    // Parse local (sin red)
     const feed = await withTimeout(
-  parser.parseURL(url),
-  RSS_PARSE_TIMEOUT_MS,
-  `[${name}] RSS parse`
-);
+      parser.parseString(xml),
+      RSS_PARSE_TIMEOUT_MS,
+      `[${name}] RSS parseString`
+    );
+
     const items = feed.items || [];
-    return items.map(it => mapRssItemToArticle(it, name));
+    return items.map((it) => mapRssItemToArticle(it, name));
   } catch (e) {
     console.warn(`[${name}] RSS error:`, e?.message || String(e));
     return [];
@@ -194,7 +207,9 @@ async function fetchAll() {
   console.log(`Guardados ${picked.length} artículos en ${OUT_PATH}`);
 }
 
-fetchAll().catch((e) => {
-  console.error(e?.stack || e?.message || String(e));
-  process.exit(1);
-});
+fetchAll()
+  .then(() => process.exit(0))
+  .catch((e) => {
+    console.error(e?.stack || e?.message || String(e));
+    process.exit(1);
+  });
