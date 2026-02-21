@@ -131,11 +131,27 @@ jobs:
         run: |
           set -euo pipefail
           node -v
-          if   [ -f scripts/fetch-articles.js ]; then node scripts/fetch-articles.js
-          elif [ -f workspace/scripts/fetch-articles.js ]; then node workspace/scripts/fetch-articles.js
-          if [ -f scripts/fetch-articles.js ]; then timeout 8m node scripts/fetch-articles.js
-          elif [ -f workspace/fetch-articles.js ]; then node workspace/fetch-articles.js
-          else echo "❌ No se encontró fetch-articles.js"; exit 1; fi
+
+          if [ -f "scripts/fetch-articles.js" ]; then
+            echo "Usando scripts/fetch-articles.js"
+            timeout 8m node "scripts/fetch-articles.js"
+
+          elif [ -f "workspace/scripts/fetch-articles.js" ]; then
+            echo "Usando workspace/scripts/fetch-articles.js"
+            timeout 8m node "workspace/scripts/fetch-articles.js"
+
+          elif [ -f "fetch-articles.js" ]; then
+            echo "Usando fetch-articles.js (root)"
+            timeout 8m node "fetch-articles.js"
+
+          elif [ -f "workspace/fetch-articles.js" ]; then
+            echo "Usando workspace/fetch-articles.js"
+            timeout 8m node "workspace/fetch-articles.js"
+
+          else
+            echo "❌ No se encontró fetch-articles.js"
+          exit 1
+          fi
 
       - name: 🟦 Run merge-articles.js → articles.json
         run: |
