@@ -1,5 +1,21 @@
 [
   {
+    "title": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",
+    "title_es": "El mayor riesgo de la IA en la educación superior no es hacer trampa, sino la erosión del aprendizaje mismo",
+    "url": "https://phys.org/news/2026-02-greatest-ai-higher-isnt-erosion.html",
+    "date": "2026-02-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "title": "Webb Reveals Hidden Layers of Uranus’ Upper Atmosphere",
+    "title_es": "Webb Reveals Hidden Layers of Uranus’ Upper Atmosphere",
+    "url": "https://www.sci.news/astronomy/webb-uranus-ionosphere-14572.html",
+    "published": "2026-02-21T20:41:18.000Z",
+    "date": "2026-02-21",
+    "source": "Sci.News"
+  },
+  {
     "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
     "title_es": "Una bacteria común de la neumonía puede alimentar la enfermedad de Alzheimer",
     "url": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
@@ -13,6 +29,22 @@
     "url": "https://phys.org/news/2026-02-dating-apps-relationship-queer-men.html",
     "date": "2026-02-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-21T00:00:00.000Z"
+  },
+  {
+    "title": "This itch-triggering protein also sends signals to stop scratching",
+    "title_es": "Esta proteína que desencadena la picazón también envía señales para dejar de rascarse",
+    "url": "https://www.sciencenews.org/article/itch-triggering-protein-scratching",
+    "date": "2026-02-21",
+    "source": "Science News",
+    "published": "2026-02-21T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover why high altitude protects against diabetes",
+    "title_es": "Los científicos descubren por qué la gran altitud protege contra la diabetes",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+    "date": "2026-02-21",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-21T00:00:00.000Z"
   },
   {
@@ -244,6 +276,14 @@
     "title_es": "Did a cloud-seeding start-up really increase snowfall in part of Utah?",
     "url": "https://www.newscientist.com/article/2515960-did-a-cloud-seeding-start-up-really-increase-snowfall-in-part-of-utah/",
     "published": "2026-02-17T19:00:33.000Z",
+    "date": "2026-02-17",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The untold story of our remarkable hands and how they made us human",
+    "title_es": "The untold story of our remarkable hands and how they made us human",
+    "url": "https://www.newscientist.com/article/2514431-the-untold-story-of-our-remarkable-hands-and-how-they-made-us-human/",
+    "published": "2026-02-17T16:00:24.000Z",
     "date": "2026-02-17",
     "source": "New Scientist"
   },
@@ -51657,6 +51697,14 @@
     "title": "Twilight with Moon and Planets",
     "title_es": "Twilight with Moon and Planets",
     "url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Shadow of a Martian Robot",
+    "title_es": "Shadow of a Martian Robot",
+    "url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
