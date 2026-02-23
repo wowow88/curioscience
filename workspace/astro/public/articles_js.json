@@ -1,5 +1,13 @@
 [
   {
+    "title": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
+    "title_es": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
+    "url": "https://arxiv.org/abs/2602.17667",
+    "published": "2026-02-23T05:00:00.000Z",
+    "date": "2026-02-23",
+    "source": "arXiv"
+  },
+  {
     "title": "Playing the game of science",
     "title_es": "Playing the game of science",
     "url": "https://www.science.org/doi/abs/10.1126/science.aed4896",
@@ -22,14 +30,6 @@
     "published": "2026-02-16T09:26:52.000Z",
     "date": "2026-02-16",
     "source": "CNIC"
-  },
-  {
-    "title": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
-    "title_es": "Un estudio sobre el melanoma más frecuente en América Latina, África y Asia alerta de la falta de investigación en genética del cáncer en poblaciones no europeas",
-    "url": "https://www.cnio.es/noticias/un-estudio-sobre-el-melanoma-mas-frecuente-en-america-latina-africa-y-asia-alerta-de-la-falta-de-investigacion-en-genetica-del-cancer-en-poblaciones-no-europeas/",
-    "published": "2026-02-19T10:10:16.000Z",
-    "date": "2026-02-19",
-    "source": "CNIO"
   },
   {
     "title": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
@@ -72,19 +72,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover why high altitude protects against diabetes",
-    "title_es": "Scientists discover why high altitude protects against diabetes",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
-    "published": "2026-02-21T13:43:47.000Z",
-    "date": "2026-02-21",
+    "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+    "title_es": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+    "published": "2026-02-23T05:10:43.000Z",
+    "date": "2026-02-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",
-    "title_es": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",
-    "url": "https://phys.org/news/2026-02-greatest-ai-higher-isnt-erosion.html",
-    "published": "2026-02-22T01:30:01.000Z",
-    "date": "2026-02-22",
+    "title": "Globe-trotting ancient 'sea-salamander' fossils rediscovered from Australia's dawn of the Age of Dinosaurs",
+    "title_es": "Globe-trotting ancient 'sea-salamander' fossils rediscovered from Australia's dawn of the Age of Dinosaurs",
+    "url": "https://phys.org/news/2026-02-globe-ancient-sea-salamander-fossils.html",
+    "published": "2026-02-23T05:10:01.000Z",
+    "date": "2026-02-23",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,11 +96,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "The untold story of our remarkable hands and how they made us human",
-    "title_es": "The untold story of our remarkable hands and how they made us human",
-    "url": "https://www.newscientist.com/article/2514431-the-untold-story-of-our-remarkable-hands-and-how-they-made-us-human/",
-    "published": "2026-02-17T16:00:24.000Z",
-    "date": "2026-02-17",
+    "title": "We’ve glimpsed before the big bang and it’s not what we expected",
+    "title_es": "We’ve glimpsed before the big bang and it’s not what we expected",
+    "url": "https://www.newscientist.com/article/2514293-weve-glimpsed-before-the-big-bang-and-its-not-what-we-expected/",
+    "published": "2026-02-16T16:00:10.000Z",
+    "date": "2026-02-16",
     "source": "New Scientist"
   },
   {
@@ -136,20 +136,12 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Shadow of a Martian Robot",
-    "title_es": "Shadow of a Martian Robot",
-    "url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
+    "title": "Pleiades: The Seven Sisters Star Cluster",
+    "title_es": "Pleiades: The Seven Sisters Star Cluster",
+    "url": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-20.8190&long=102.5154",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Crew-5",

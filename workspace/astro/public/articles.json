@@ -1,5 +1,29 @@
 [
   {
+    "title": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
+    "title_es": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
+    "url": "https://arxiv.org/abs/2602.17667",
+    "published": "2026-02-23T05:00:00.000Z",
+    "date": "2026-02-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+    "title_es": "Un espinosaurio gigante con cresta de hoja, la \"garza del infierno\", descubierto en el Sahara",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+    "date": "2026-02-23",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Globe-trotting ancient 'sea-salamander' fossils rediscovered from Australia's dawn of the Age of Dinosaurs",
+    "title_es": "Antiguos fósiles de 'salamandra marina' trotamundos redescubiertos en Australia en los albores de la Era de los Dinosaurios",
+    "url": "https://phys.org/news/2026-02-globe-ancient-sea-salamander-fossils.html",
+    "date": "2026-02-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "title": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",
     "title_es": "El mayor riesgo de la IA en la educación superior no es hacer trampa, sino la erosión del aprendizaje mismo",
     "url": "https://phys.org/news/2026-02-greatest-ai-higher-isnt-erosion.html",
@@ -93,6 +117,14 @@
     "url": "https://www.snexplores.org/article/oldest-fire-making-tools-neandertals",
     "date": "2026-02-20",
     "source": "Science News Explores",
+    "published": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "title": "Unifying approach to uniform expressivity of graph neural networks",
+    "title_es": "Enfoque unificador para la expresividad uniforme de redes neuronales gráficas.",
+    "url": "http://arxiv.org/abs/2602.18409v1",
+    "date": "2026-02-20",
+    "source": "arXiv",
     "published": "2026-02-20T00:00:00.000Z"
   },
   {
@@ -364,6 +396,14 @@
     "title_es": "The mystery of nuclear 'magic numbers' has finally been resolved",
     "url": "https://www.newscientist.com/article/2514983-the-mystery-of-nuclear-magic-numbers-has-finally-been-resolved/",
     "published": "2026-02-16T18:00:59.000Z",
+    "date": "2026-02-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "We’ve glimpsed before the big bang and it’s not what we expected",
+    "title_es": "We’ve glimpsed before the big bang and it’s not what we expected",
+    "url": "https://www.newscientist.com/article/2514293-weve-glimpsed-before-the-big-bang-and-its-not-what-we-expected/",
+    "published": "2026-02-16T16:00:10.000Z",
     "date": "2026-02-16",
     "source": "New Scientist"
   },
@@ -51705,6 +51745,14 @@
     "title": "Shadow of a Martian Robot",
     "title_es": "Shadow of a Martian Robot",
     "url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Pleiades: The Seven Sisters Star Cluster",
+    "title_es": "Pleiades: The Seven Sisters Star Cluster",
+    "url": "https://apod.nasa.gov/apod/image/2602/pleiades_fiedosiuk_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

@@ -1,5 +1,19 @@
 [
   {
+    "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+    "title_es": "Un espinosaurio gigante con cresta de hoja, la \"garza del infierno\", descubierto en el Sahara",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+    "date": "2026-02-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Globe-trotting ancient 'sea-salamander' fossils rediscovered from Australia's dawn of the Age of Dinosaurs",
+    "title_es": "Antiguos fósiles de 'salamandra marina' trotamundos redescubiertos en Australia en los albores de la Era de los Dinosaurios",
+    "url": "https://phys.org/news/2026-02-globe-ancient-sea-salamander-fossils.html",
+    "date": "2026-02-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",
     "title_es": "El mayor riesgo de la IA en la educación superior no es hacer trampa, sino la erosión del aprendizaje mismo",
     "url": "https://phys.org/news/2026-02-greatest-ai-higher-isnt-erosion.html",
@@ -68,6 +82,13 @@
     "url": "https://www.snexplores.org/article/oldest-fire-making-tools-neandertals",
     "date": "2026-02-20",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Unifying approach to uniform expressivity of graph neural networks",
+    "title_es": "Enfoque unificador para la expresividad uniforme de redes neuronales gráficas.",
+    "url": "http://arxiv.org/abs/2602.18409v1",
+    "date": "2026-02-20",
+    "source": "arXiv"
   },
   {
     "title": "Northern Glow Spans Iceland and Canada",
