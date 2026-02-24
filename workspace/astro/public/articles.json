@@ -1,5 +1,69 @@
 [
   {
+    "title": "FineRef: Fine-Grained Error Reflection and Correction for Long-Form Generation with Citations",
+    "title_es": "FineRef: Fine-Grained Error Reflection and Correction for Long-Form Generation with Citations",
+    "url": "https://arxiv.org/abs/2602.18437",
+    "published": "2026-02-24T05:00:00.000Z",
+    "date": "2026-02-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "New Sauropod Dinosaur Species Identified in Brazil",
+    "title_es": "New Sauropod Dinosaur Species Identified in Brazil",
+    "url": "https://www.sci.news/paleontology/dasosaurus-tocantinensis-14577.html",
+    "published": "2026-02-24T00:38:40.000Z",
+    "date": "2026-02-24",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Showy Swirls Around Jeju Island",
+    "title_es": "Vistosos remolinos alrededor de la isla de Jeju",
+    "url": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island/",
+    "date": "2026-02-24",
+    "source": "NASA (Top News)",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists reverse muscle aging in mice and discover a surprising catch",
+    "title_es": "Los científicos revierten el envejecimiento muscular en ratones y descubren un truco sorprendente",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
+    "date": "2026-02-24",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "Image: Curiosity rover surveys boxwork region of Mars",
+    "title_es": "Imagen: El rover Curiosity examina la región cuadrada de Marte",
+    "url": "https://phys.org/news/2026-02-image-curiosity-rover-surveys-boxwork.html",
+    "date": "2026-02-24",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "Stone Age symbols may push back the earliest form of writing",
+    "title_es": "Stone Age symbols may push back the earliest form of writing",
+    "url": "https://www.newscientist.com/article/2516606-stone-age-symbols-may-push-back-the-earliest-form-of-writing/",
+    "published": "2026-02-23T20:00:26.000Z",
+    "date": "2026-02-23",
+    "source": "New Scientist"
+  },
+  {
+    "title": "FDA Removes Webpage Warning Against Ineffective Autism Treatments",
+    "title_es": "FDA Removes Webpage Warning Against Ineffective Autism Treatments",
+    "url": "https://undark.org/2026/02/23/fda-autism-treatment-warnings/",
+    "published": "2026-02-23T08:09:00.000Z",
+    "date": "2026-02-23",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Young Mars volcano hides a powerful magma engine beneath the surface",
+    "title_es": "Young Mars volcano hides a powerful magma engine beneath the surface",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
+    "published": "2026-02-23T06:19:47.000Z",
+    "date": "2026-02-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
     "title_es": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
     "url": "https://arxiv.org/abs/2602.17667",
@@ -21,6 +85,46 @@
     "url": "https://phys.org/news/2026-02-globe-ancient-sea-salamander-fossils.html",
     "date": "2026-02-23",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "A Very Big Video Reasoning Suite",
+    "title_es": "Una suite de razonamiento en vídeo muy grande",
+    "url": "http://arxiv.org/abs/2602.20159v1",
+    "date": "2026-02-23",
+    "source": "arXiv",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Markovnikov hydroamination of terminal alkenes via phosphine redox catalysis",
+    "title_es": "Hidroaminación de Markovnikov de alquenos terminales mediante catálisis redox de fosfina",
+    "url": "https://www.nature.com/articles/s41586-026-10263-7",
+    "date": "2026-02-23",
+    "source": "Nature",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Isabel Fariñas: “Research Is Not a 9-to-5 Job; It Is Almost an Artistic Profession”",
+    "title_es": "Isabel Fariñas: “Research Is Not a 9-to-5 Job; It Is Almost an Artistic Profession”",
+    "url": "https://www.cnic.es/es/node/240328",
+    "date": "2026-02-23",
+    "source": "CNIC",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Venus has a massive lava tube",
+    "title_es": "Venus tiene un enorme tubo de lava",
+    "url": "https://www.sciencenews.org/article/venus-massive-lava-tube-caves",
+    "date": "2026-02-23",
+    "source": "Science News",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Prehistoric ‘sea’ monster also lurked in rivers, data show",
+    "title_es": "El monstruo \"marino\" prehistórico también acechaba en los ríos, según muestran los datos",
+    "url": "https://www.snexplores.org/article/mosasaur-tooth-fossil-river",
+    "date": "2026-02-23",
+    "source": "Science News Explores",
     "published": "2026-02-23T00:00:00.000Z"
   },
   {
@@ -88,7 +192,7 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Publisher Correction: PtdIns(3,5)P 2 is an endogenous ligand of STING in innate immune signalling",
+    "title": "Publisher Correction: PtdIns(3,5)P<sub>2</sub> is an endogenous ligand of STING in innate immune signalling",
     "title_es": "Corrección del editor: PtdIns(3,5)P<sub>2</sub> es un ligando endógeno de STING en la señalización inmune innata",
     "url": "https://www.nature.com/articles/s41586-026-10280-6",
     "date": "2026-02-20",
@@ -125,6 +229,22 @@
     "url": "http://arxiv.org/abs/2602.18409v1",
     "date": "2026-02-20",
     "source": "arXiv",
+    "published": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-observa-el-little-red-dot-mas-cercano-y-ayuda-desvelar-como-crecieron-los\" hreflang=\"es\">El Gran Telescopio Canarias observa el ‘Little Red Dot’ más cercano y ayuda a desvelar cómo crecieron los primeros agujeros negros</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-observa-el-little-red-dot-mas-cercano-y-ayuda-desvelar-como-crecieron-los\" hreflang=\"es\">El Gran Telescopio Canarias observa el ‘Little Red Dot’ más cercano y ayuda a desvelar cómo crecieron los primeros agujeros negros</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-observa-el-little-red-dot-mas-cercano-y-ayuda-desvelar-como-crecieron-los",
+    "date": "2026-02-20",
+    "source": "IAC",
+    "published": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "title": "HiLumi LHC: full-scale tests start",
+    "title_es": "HiLumi LHC: comienzan las pruebas a gran escala",
+    "url": "https://home.cern/news/press-release/accelerators/hilumi-lhc-full-scale-tests-start",
+    "date": "2026-02-20",
+    "source": "CERN Press",
     "published": "2026-02-20T00:00:00.000Z"
   },
   {
@@ -18127,8 +18247,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Characterizing mitochondrial phenotypes and MERCS in aged human skeletal muscle myoblasts",
-    "title_es": "Caracterización de fenotipos mitocondriales y MERCS en mioblastos del músculo esquelético humano envejecido",
+    "title": "Evaluation of hyper-attenuated S19 poliovirus strains for use in poliovirus neutralization assays",
+    "title_es": "Evaluación de cepas de poliovirus S19 hiperatenuadas para su uso en ensayos de neutralización de poliovirus",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -51753,6 +51873,22 @@
     "title": "Pleiades: The Seven Sisters Star Cluster",
     "title_es": "Pleiades: The Seven Sisters Star Cluster",
     "url": "https://apod.nasa.gov/apod/image/2602/pleiades_fiedosiuk_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Null infinity as an inverted extremal horizon: Matching an infinite set of conserved quantities for gravitational perturbations, by Shreyansh Agrawal, Panagiotis Charalambous, Laura Donnay",
+    "title_es": "Null infinity as an inverted extremal horizon: Matching an infinite set of conserved quantities for gravitational perturbations, by Shreyansh Agrawal, Panagiotis Charalambous, Laura Donnay",
+    "url": "https://scipost.org/scipostphys.20.2.054",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Planet Parade over Sydney Opera House",
+    "title_es": "Planet Parade over Sydney Opera House",
+    "url": "https://apod.nasa.gov/apod/image/2602/planetparadesydney_agrawal_960_ann.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
