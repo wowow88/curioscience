@@ -1,5 +1,33 @@
 [
   {
+    "title": "Pop-up journals for policy research: can temporary titles deliver answers?",
+    "title_es": "Revistas emergentes para la investigación de políticas: ¿pueden los títulos temporales ofrecer respuestas?",
+    "url": "https://www.nature.com/articles/d41586-026-00446-7",
+    "date": "2026-02-25",
+    "source": "Nature"
+  },
+  {
+    "title": "Landslide and Avalanche Debris Litter Hubbard Glacier",
+    "title_es": "Deslizamientos de tierra y avalanchas de escombros del glaciar Hubbard",
+    "url": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/",
+    "date": "2026-02-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Keeping a beat wins caterpillars friends in low places",
+    "title_es": "Mantener el ritmo gana amigos de las orugas en lugares bajos",
+    "url": "https://www.sciencenews.org/article/keeping-beat-caterpillars-ants-parasite",
+    "date": "2026-02-25",
+    "source": "Science News"
+  },
+  {
+    "title": "Bug beats: Caterpillars use complex rhythms to communicate with ants",
+    "title_es": "Ritmos de insectos: las orugas usan ritmos complejos para comunicarse con las hormigas",
+    "url": "https://phys.org/news/2026-02-bug-caterpillars-complex-rhythms-communicate.html",
+    "date": "2026-02-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Showy Swirls Around Jeju Island",
     "title_es": "Vistosos remolinos alrededor de la isla de Jeju",
     "url": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island/",
@@ -21,6 +49,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Automatic segmentation of coronary plaques in coronary CT angiography using neural networks",
+    "title_es": "Segmentación automática de placas coronarias en angiografía coronaria por TC mediante redes neuronales",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-24",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+    "title_es": "El entrenamiento en el tiempo de prueba con enlace KV es una atención secretamente lineal",
+    "url": "http://arxiv.org/abs/2602.21204v1",
+    "date": "2026-02-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "Let’s learn how to make a sports ball soar",
+    "title_es": "Aprendamos a hacer volar una pelota deportiva.",
+    "url": "https://www.snexplores.org/article/lets-learn-how-sports-ball-soar-physics",
+    "date": "2026-02-24",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
+    "title_es": "El fósil del “Dragón Espada” de 190 millones de años reescribe la historia de los ictiosaurios",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
+    "date": "2026-02-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
     "title_es": "Un espinosaurio gigante con cresta de hoja, la \"garza del infierno\", descubierto en el Sahara",
     "url": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
@@ -33,13 +89,6 @@
     "url": "https://phys.org/news/2026-02-globe-ancient-sea-salamander-fossils.html",
     "date": "2026-02-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Evaluation of hyper-attenuated S19 poliovirus strains for use in poliovirus neutralization assays",
-    "title_es": "Evaluación de cepas de poliovirus S19 hiperatenuadas para su uso en ensayos de neutralización de poliovirus",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "A Very Big Video Reasoning Suite",
@@ -75,6 +124,13 @@
     "url": "https://www.snexplores.org/article/mosasaur-tooth-fossil-river",
     "date": "2026-02-23",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Monika Emmanuelle Kazi selected for the second edition of the Resonance residency",
+    "title_es": "Monika Emmanuelle Kazi seleccionada para la segunda edición de la residencia Resonance",
+    "url": "https://home.cern/news/news/cern/monika-emmanuelle-kazi-selected-second-edition-resonance-residency",
+    "date": "2026-02-23",
+    "source": "CERN News"
   },
   {
     "title": "The greatest risk of AI in higher education isn't cheating—it's the erosion of learning itself",

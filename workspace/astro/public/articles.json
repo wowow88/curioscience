@@ -1,5 +1,69 @@
 [
   {
+    "title": "Talking to Yourself: Defying Forgetting in Large Language Models",
+    "title_es": "Talking to Yourself: Defying Forgetting in Large Language Models",
+    "url": "https://arxiv.org/abs/2602.20162",
+    "published": "2026-02-25T05:00:00.000Z",
+    "date": "2026-02-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "Rapamycin can add years to your life, or none at all – it’s a lottery",
+    "title_es": "Rapamycin can add years to your life, or none at all – it’s a lottery",
+    "url": "https://www.newscientist.com/article/2516893-rapamycin-can-add-years-to-your-life-or-none-at-all-its-a-lottery/",
+    "published": "2026-02-25T00:01:21.000Z",
+    "date": "2026-02-25",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Early Triassic Fossils from Australia Uncover Diverse Marine Amphibian Community",
+    "title_es": "Early Triassic Fossils from Australia Uncover Diverse Marine Amphibian Community",
+    "url": "https://www.sci.news/paleontology/early-triassic-trematosaurid-temnospondyls-australia-14580.html",
+    "published": "2026-02-25T00:00:45.000Z",
+    "date": "2026-02-25",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Pop-up journals for policy research: can temporary titles deliver answers?",
+    "title_es": "Revistas emergentes para la investigación de políticas: ¿pueden los títulos temporales ofrecer respuestas?",
+    "url": "https://www.nature.com/articles/d41586-026-00446-7",
+    "date": "2026-02-25",
+    "source": "Nature",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Landslide and Avalanche Debris Litter Hubbard Glacier",
+    "title_es": "Deslizamientos de tierra y avalanchas de escombros del glaciar Hubbard",
+    "url": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/",
+    "date": "2026-02-25",
+    "source": "NASA (Top News)",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Keeping a beat wins caterpillars friends in low places",
+    "title_es": "Mantener el ritmo gana amigos de las orugas en lugares bajos",
+    "url": "https://www.sciencenews.org/article/keeping-beat-caterpillars-ants-parasite",
+    "date": "2026-02-25",
+    "source": "Science News",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Bug beats: Caterpillars use complex rhythms to communicate with ants",
+    "title_es": "Ritmos de insectos: las orugas usan ritmos complejos para comunicarse con las hormigas",
+    "url": "https://phys.org/news/2026-02-bug-caterpillars-complex-rhythms-communicate.html",
+    "date": "2026-02-25",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "For a Rare Disorder, Is Language Complicating Care?",
+    "title_es": "For a Rare Disorder, Is Language Complicating Care?",
+    "url": "https://undark.org/2026/02/24/morgellons-language-complicating-care/",
+    "published": "2026-02-24T08:17:00.000Z",
+    "date": "2026-02-24",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "FineRef: Fine-Grained Error Reflection and Correction for Long-Form Generation with Citations",
     "title_es": "FineRef: Fine-Grained Error Reflection and Correction for Long-Form Generation with Citations",
     "url": "https://arxiv.org/abs/2602.18437",
@@ -37,6 +101,30 @@
     "url": "https://phys.org/news/2026-02-image-curiosity-rover-surveys-boxwork.html",
     "date": "2026-02-24",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+    "title_es": "El entrenamiento en el tiempo de prueba con enlace KV es una atención secretamente lineal",
+    "url": "http://arxiv.org/abs/2602.21204v1",
+    "date": "2026-02-24",
+    "source": "arXiv",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn how to make a sports ball soar",
+    "title_es": "Aprendamos a hacer volar una pelota deportiva.",
+    "url": "https://www.snexplores.org/article/lets-learn-how-sports-ball-soar-physics",
+    "date": "2026-02-24",
+    "source": "Science News Explores",
+    "published": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "title": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
+    "title_es": "El fósil del “Dragón Espada” de 190 millones de años reescribe la historia de los ictiosaurios",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
+    "date": "2026-02-24",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-24T00:00:00.000Z"
   },
   {
@@ -125,6 +213,14 @@
     "url": "https://www.snexplores.org/article/mosasaur-tooth-fossil-river",
     "date": "2026-02-23",
     "source": "Science News Explores",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "Monika Emmanuelle Kazi selected for the second edition of the Resonance residency",
+    "title_es": "Monika Emmanuelle Kazi seleccionada para la segunda edición de la residencia Resonance",
+    "url": "https://home.cern/news/news/cern/monika-emmanuelle-kazi-selected-second-edition-resonance-residency",
+    "date": "2026-02-23",
+    "source": "CERN News",
     "published": "2026-02-23T00:00:00.000Z"
   },
   {
@@ -18247,8 +18343,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Evaluation of hyper-attenuated S19 poliovirus strains for use in poliovirus neutralization assays",
-    "title_es": "Evaluación de cepas de poliovirus S19 hiperatenuadas para su uso en ensayos de neutralización de poliovirus",
+    "title": "Automatic segmentation of coronary plaques in coronary CT angiography using neural networks",
+    "title_es": "Segmentación automática de placas coronarias en angiografía coronaria por TC mediante redes neuronales",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -51892,5 +51988,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Experimental validation of TRIDYN self-sputtering simulations, by Marie Deseyn, Michael Heines, Bart Caerts, Thomas Elias Cocolios, René Heller, Ulrich Kentsch, Goele Magchiels, Wolfhard Möller, Lino da Costa Pereira, André Vantomme, Wiktoria Wojtaczka, Qiang Zhao",
+    "title_es": "Experimental validation of TRIDYN self-sputtering simulations, by Marie Deseyn, Michael Heines, Bart Caerts, Thomas Elias Cocolios, René Heller, Ulrich Kentsch, Goele Magchiels, Wolfhard Möller, Lino da Costa Pereira, André Vantomme, Wiktoria Wojtaczka, Qiang Zhao",
+    "url": "https://scipost.org/scipostphys.20.2.055",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
