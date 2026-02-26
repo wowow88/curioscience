@@ -1,5 +1,61 @@
 [
   {
+    "title": "Disaster Question Answering with LoRA Efficiency and Accurate End Position",
+    "title_es": "Disaster Question Answering with LoRA Efficiency and Accurate End Position",
+    "url": "https://arxiv.org/abs/2602.21212",
+    "published": "2026-02-26T05:00:00.000Z",
+    "date": "2026-02-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "90-Million-Year-Old Patagonian Fossil Reveals Missing Chapter in Evolution of Alvarezsauroid Dinosaurs",
+    "title_es": "90-Million-Year-Old Patagonian Fossil Reveals Missing Chapter in Evolution of Alvarezsauroid Dinosaurs",
+    "url": "https://www.sci.news/paleontology/alnashetri-cerropoliciensis-14585.html",
+    "published": "2026-02-26T01:22:18.000Z",
+    "date": "2026-02-26",
+    "source": "Sci.News"
+  },
+  {
+    "title": "This compound enhances long-term memory of mice — but only in females",
+    "title_es": "Este compuesto mejora la memoria a largo plazo de los ratones, pero sólo en las hembras",
+    "url": "https://www.nature.com/articles/d41586-026-00603-y",
+    "date": "2026-02-26",
+    "source": "Nature",
+    "published": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "title": "Dry-Season Floods Drench Northern Colombia",
+    "title_es": "Inundaciones de la estación seca azotan el norte de Colombia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/dry-season-floods-drench-northern-colombia/",
+    "date": "2026-02-26",
+    "source": "NASA (Top News)",
+    "published": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "title": "From the Late Bronze Age to today, the old Irish goat carries 3,000 years of Irish history",
+    "title_es": "Desde finales de la Edad del Bronce hasta la actualidad, la vieja cabra irlandesa alberga 3.000 años de historia irlandesa",
+    "url": "https://phys.org/news/2026-02-late-bronze-age-today-irish.html",
+    "date": "2026-02-26",
+    "source": "Phys.org (Latest)",
+    "published": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "title": "Will AI Help or Hinder Scientific Publishing?",
+    "title_es": "Will AI Help or Hinder Scientific Publishing?",
+    "url": "https://undark.org/2026/02/25/ai-scientific-publishing/",
+    "published": "2026-02-25T18:11:01.000Z",
+    "date": "2026-02-25",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "SpaceX's 1 million satellites could avoid environmental checks",
+    "title_es": "SpaceX's 1 million satellites could avoid environmental checks",
+    "url": "https://www.newscientist.com/article/2516975-spacexs-1-million-satellites-could-avoid-environmental-checks/",
+    "published": "2026-02-25T18:00:32.000Z",
+    "date": "2026-02-25",
+    "source": "New Scientist"
+  },
+  {
     "title": "Talking to Yourself: Defying Forgetting in Large Language Models",
     "title_es": "Talking to Yourself: Defying Forgetting in Large Language Models",
     "url": "https://arxiv.org/abs/2602.20162",
@@ -53,6 +109,46 @@
     "url": "https://phys.org/news/2026-02-bug-caterpillars-complex-rhythms-communicate.html",
     "date": "2026-02-25",
     "source": "Phys.org (Latest)",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
+    "title_es": "Recuperado en traducción: proceso eficiente para la traducción automatizada de puntos de referencia y conjuntos de datos",
+    "url": "http://arxiv.org/abs/2602.22207v1",
+    "date": "2026-02-25",
+    "source": "arXiv",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "CMS welcomes new management for 2026–2028",
+    "title_es": "CMS da la bienvenida a la nueva administración para 2026-2028",
+    "url": "https://home.cern/news/news/experiments/cms-welcomes-new-management-2026-2028",
+    "date": "2026-02-25",
+    "source": "CERN News",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Climate change could threaten monarch mass migration",
+    "title_es": "El cambio climático podría amenazar la migración masiva de monarcas",
+    "url": "https://www.sciencenews.org/article/monarch-butterfly-migration-climate",
+    "date": "2026-02-25",
+    "source": "Science News",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "New light-activated coating can kill stubborn germs",
+    "title_es": "Un nuevo recubrimiento activado por luz puede matar los gérmenes rebeldes",
+    "url": "https://www.snexplores.org/article/light-activated-graphene-kill-germs",
+    "date": "2026-02-25",
+    "source": "Science News Explores",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "title": "Just two days of oatmeal cut bad cholesterol by 10%",
+    "title_es": "Sólo dos días de avena reducen el colesterol malo en un 10%",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
+    "date": "2026-02-25",
+    "source": "ScienceDaily (Top)",
     "published": "2026-02-25T00:00:00.000Z"
   },
   {
@@ -221,6 +317,14 @@
     "url": "https://home.cern/news/news/cern/monika-emmanuelle-kazi-selected-second-edition-resonance-residency",
     "date": "2026-02-23",
     "source": "CERN News",
+    "published": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-reflexion-entre-la-conexion-entre-el-cielo-y-la-naturaleza-con-motivo-del-8m-en\" hreflang=\"es\">El IAC participa en una reflexión entre la conexión entre el cielo y la naturaleza con motivo del 8M en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-reflexion-entre-la-conexion-entre-el-cielo-y-la-naturaleza-con-motivo-del-8m-en\" hreflang=\"es\">El IAC participa en una reflexión entre la conexión entre el cielo y la naturaleza con motivo del 8M en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-una-reflexion-entre-la-conexion-entre-el-cielo-y-la-naturaleza-con-motivo-del-8m-en",
+    "date": "2026-02-23",
+    "source": "IAC",
     "published": "2026-02-23T00:00:00.000Z"
   },
   {
@@ -18343,8 +18447,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Automatic segmentation of coronary plaques in coronary CT angiography using neural networks",
-    "title_es": "Segmentación automática de placas coronarias en angiografía coronaria por TC mediante redes neuronales",
+    "title": "Correction: Association of myopia and parapapillary choroidal microvascular density in primary open-angle glaucoma",
+    "title_es": "Corrección: Asociación de miopía y densidad microvascular coroidea parapapilar en el glaucoma primario de ángulo abierto",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -51996,5 +52100,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Scalable hybrid quantum Monte Carlo simulation of $U(1)$ gauge field coupled to fermions on GPU, by Kexin Feng, Chuang Chen, Zi Yang Meng",
+    "title_es": "Scalable hybrid quantum Monte Carlo simulation of $U(1)$ gauge field coupled to fermions on GPU, by Kexin Feng, Chuang Chen, Zi Yang Meng",
+    "url": "https://scipost.org/scipostphys.20.2.060",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Webb and Hubble: IC 5332",
+    "title_es": "Webb and Hubble: IC 5332",
+    "url": "https://apod.nasa.gov/apod/image/2602/ic5332webb2209c_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
