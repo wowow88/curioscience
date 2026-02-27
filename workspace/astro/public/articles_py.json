@@ -1,5 +1,19 @@
 [
   {
+    "title": "Chesapeake Bay Locked in Ice",
+    "title_es": "Bahía de Chesapeake atrapada en el hielo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/",
+    "date": "2026-02-27",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Fossil amber reveals the secret lives of Cretaceous ants",
+    "title_es": "El ámbar fósil revela la vida secreta de las hormigas del Cretácico",
+    "url": "https://phys.org/news/2026-02-fossil-amber-reveals-secret-cretaceous.html",
+    "date": "2026-02-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "This compound enhances long-term memory of mice — but only in females",
     "title_es": "Este compuesto mejora la memoria a largo plazo de los ratones, pero sólo en las hembras",
     "url": "https://www.nature.com/articles/d41586-026-00603-y",
@@ -19,6 +33,62 @@
     "url": "https://phys.org/news/2026-02-late-bronze-age-today-irish.html",
     "date": "2026-02-26",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Trust in science during the COVID-19 pandemic: A typology of internet users in South Africa",
+    "title_es": "Corrección: Confianza en la ciencia durante la pandemia de COVID-19: una tipología de usuarios de Internet en Sudáfrica",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-26",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Model Agreement via Anchoring",
+    "title_es": "Modelo de Acuerdo vía Anclaje",
+    "url": "http://arxiv.org/abs/2602.23360v1",
+    "date": "2026-02-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "The challengers",
+    "title_es": "Los retadores",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee7241",
+    "date": "2026-02-26",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: Myocardial reprogramming by HMGN1 underlies heart defects in trisomy 21",
+    "title_es": "Corrección del autor: La reprogramación miocárdica por HMGN1 es la base de los defectos cardíacos en la trisomía 21",
+    "url": "https://www.nature.com/articles/s41586-026-10283-3",
+    "date": "2026-02-26",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-de-investigadores-visitantes-fundacion-occident-del-iac-cumple-una-decada-de-excelencia-y\" hreflang=\"es\">El Programa de Investigadores Visitantes Fundación Occident del IAC cumple una década de excelencia y renueva su compromiso hasta 2028</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-de-investigadores-visitantes-fundacion-occident-del-iac-cumple-una-decada-de-excelencia-y\" hreflang=\"es\">El Programa de Investigadores Visitantes Fundación Occident del IAC cumple una década de excelencia y renueva su compromiso hasta 2028</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-programa-de-investigadores-visitantes-fundacion-occident-del-iac-cumple-una-decada-de-excelencia-y",
+    "date": "2026-02-26",
+    "source": "IAC"
+  },
+  {
+    "title": "Here’s how honeyeaters and other birds thrive on sugary diets",
+    "title_es": "Así es como los mieleros y otras aves prosperan con dietas azucaradas",
+    "url": "https://www.sciencenews.org/article/birds-sugar-diets-metabolism",
+    "date": "2026-02-26",
+    "source": "Science News"
+  },
+  {
+    "title": "Antarctica faces a green and weedy future",
+    "title_es": "La Antártida se enfrenta a un futuro verde y lleno de maleza",
+    "url": "https://www.snexplores.org/article/warming-antarctica-green-weedy-future",
+    "date": "2026-02-26",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Ireland’s Old Irish Goat has survived 3,000 years",
+    "title_es": "La vieja cabra irlandesa de Irlanda ha sobrevivido 3.000 años",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
+    "date": "2026-02-26",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Pop-up journals for policy research: can temporary titles deliver answers?",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-02-bug-caterpillars-complex-rhythms-communicate.html",
     "date": "2026-02-25",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Association of myopia and parapapillary choroidal microvascular density in primary open-angle glaucoma",
-    "title_es": "Corrección: Asociación de miopía y densidad microvascular coroidea parapapilar en el glaucoma primario de ángulo abierto",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-25",
-    "source": "PLOS ONE"
   },
   {
     "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
@@ -89,6 +152,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
     "date": "2026-02-25",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Who’s who in the CERN senior leadership team",
+    "title_es": "Quién es quién en el equipo directivo superior del CERN",
+    "url": "https://home.cern/news/news/cern/whos-who-cern-senior-leadership-team",
+    "date": "2026-02-25",
+    "source": "CERN News"
   },
   {
     "title": "Showy Swirls Around Jeju Island",
