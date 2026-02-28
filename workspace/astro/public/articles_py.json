@@ -1,5 +1,12 @@
 [
   {
+    "title": "Growing more complex by the day: How should journalists govern use of AI in their products?",
+    "title_es": "Cada día es más complejo: ¿Cómo deberían los periodistas gobernar el uso de la IA en sus productos?",
+    "url": "https://phys.org/news/2026-02-complex-day-journalists-ai-products.html",
+    "date": "2026-02-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Chesapeake Bay Locked in Ice",
     "title_es": "Bahía de Chesapeake atrapada en el hielo",
     "url": "https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/",
@@ -12,6 +19,62 @@
     "url": "https://phys.org/news/2026-02-fossil-amber-reveals-secret-cretaceous.html",
     "date": "2026-02-27",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Disposable non-enzymatic impedimetric biosensor using Mn-doped ZnS-chitosan nanocomposite for tetracycline detection",
+    "title_es": "Biosensor impedimétrico no enzimático desechable que utiliza nanocompuesto de ZnS-quitosano dopado con Mn para la detección de tetraciclina",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-02-27",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
+    "title_es": "Expresión editorial de preocupación: el producto genético Murr1 restringe la replicación del VIH-1 en los linfocitos CD4+ en reposo",
+    "url": "https://www.nature.com/articles/s41586-026-10308-x",
+    "date": "2026-02-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Comunicado del Patronato del CNIO",
+    "title_es": "Comunicado del Patronato del CNIO",
+    "url": "https://www.cnio.es/noticias/comunicado-del-patronato-del-cnio-2/",
+    "date": "2026-02-27",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sonando-estrellas-aborda-astroaccesible-un-proyecto-para-acercar-la-ciencia-las-personas-con\" hreflang=\"es\">Soñando Estrellas aborda “Astroaccesible”, un proyecto para acercar la ciencia a las personas con discapacidad visual</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sonando-estrellas-aborda-astroaccesible-un-proyecto-para-acercar-la-ciencia-las-personas-con\" hreflang=\"es\">Soñando Estrellas aborda “Astroaccesible”, un proyecto para acercar la ciencia a las personas con discapacidad visual</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/sonando-estrellas-aborda-astroaccesible-un-proyecto-para-acercar-la-ciencia-las-personas-con",
+    "date": "2026-02-27",
+    "source": "IAC"
+  },
+  {
+    "title": "Harnessing the Sun to Extract Oxygen on the Moon",
+    "title_es": "Aprovechar el sol para extraer oxígeno en la luna",
+    "url": "https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/",
+    "date": "2026-02-27",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA scraps its 2027 moon landing, adds two missions in 2028",
+    "title_es": "La NASA cancela su alunizaje de 2027 y agrega dos misiones en 2028",
+    "url": "https://www.sciencenews.org/article/nasa-moon-landing-artemis-ii",
+    "date": "2026-02-27",
+    "source": "Science News"
+  },
+  {
+    "title": "As toddlers, chimps are major risk takers",
+    "title_es": "Cuando son niños pequeños, los chimpancés corren grandes riesgos",
+    "url": "https://www.snexplores.org/article/toddler-chimps-risk-taking-behavior",
+    "date": "2026-02-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A lost moon may have created Titan and Saturn’s rings",
+    "title_es": "Una luna perdida pudo haber creado los anillos de Titán y Saturno",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+    "date": "2026-02-27",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "This compound enhances long-term memory of mice — but only in females",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-02-late-bronze-age-today-irish.html",
     "date": "2026-02-26",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Trust in science during the COVID-19 pandemic: A typology of internet users in South Africa",
-    "title_es": "Corrección: Confianza en la ciencia durante la pandemia de COVID-19: una tipología de usuarios de Internet en Sudáfrica",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-02-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "Model Agreement via Anchoring",
@@ -157,6 +213,13 @@
     "title": "Who’s who in the CERN senior leadership team",
     "title_es": "Quién es quién en el equipo directivo superior del CERN",
     "url": "https://home.cern/news/news/cern/whos-who-cern-senior-leadership-team",
+    "date": "2026-02-25",
+    "source": "CERN News"
+  },
+  {
+    "title": "HiLumi LHC: cryogenics equipment arrives underground",
+    "title_es": "HiLumi LHC: el equipo criogénico llega bajo tierra",
+    "url": "https://home.cern/news/news/accelerators/hilumi-lhc-cryogenics-equipment-arrives-underground",
     "date": "2026-02-25",
     "source": "CERN News"
   },

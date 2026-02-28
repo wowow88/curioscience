@@ -1,13 +1,5 @@
 [
   {
-    "title": "Enriching Taxonomies Using Large Language Models",
-    "title_es": "Enriching Taxonomies Using Large Language Models",
-    "url": "https://arxiv.org/abs/2602.22213",
-    "published": "2026-02-27T05:00:00.000Z",
-    "date": "2026-02-27",
-    "source": "arXiv"
-  },
-  {
     "title": "The challengers",
     "title_es": "The challengers",
     "url": "https://www.science.org/doi/abs/10.1126/science.aee7241",
@@ -16,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Myocardial reprogramming by HMGN1 underlies heart defects in trisomy 21",
-    "title_es": "Author Correction: Myocardial reprogramming by HMGN1 underlies heart defects in trisomy 21",
-    "url": "https://www.nature.com/articles/s41586-026-10283-3",
-    "published": "2026-02-26T00:00:00.000Z",
-    "date": "2026-02-26",
+    "title": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
+    "title_es": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
+    "url": "https://www.nature.com/articles/s41586-026-10308-x",
+    "published": "2026-02-27T00:00:00.000Z",
+    "date": "2026-02-27",
     "source": "Nature"
   },
   {
@@ -32,18 +24,26 @@
     "source": "CNIC"
   },
   {
-    "title": "Chesapeake Bay Locked in Ice",
-    "title_es": "Chesapeake Bay Locked in Ice",
-    "url": "https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/",
-    "published": "2026-02-27T05:00:00.000Z",
+    "title": "Comunicado del Patronato del CNIO",
+    "title_es": "Comunicado del Patronato del CNIO",
+    "url": "https://www.cnio.es/noticias/comunicado-del-patronato-del-cnio-2/",
+    "published": "2026-02-27T16:03:19.000Z",
+    "date": "2026-02-27",
+    "source": "CNIO"
+  },
+  {
+    "title": "Harnessing the Sun to Extract Oxygen on the Moon",
+    "title_es": "Harnessing the Sun to Extract Oxygen on the Moon",
+    "url": "https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/",
+    "published": "2026-02-27T18:48:01.000Z",
     "date": "2026-02-27",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Who’s who in the CERN senior leadership team",
-    "title_es": "Who’s who in the CERN senior leadership team",
-    "url": "https://home.cern/news/news/cern/whos-who-cern-senior-leadership-team",
-    "published": "2026-02-25T16:02:22.000Z",
+    "title": "HiLumi LHC: cryogenics equipment arrives underground",
+    "title_es": "HiLumi LHC: cryogenics equipment arrives underground",
+    "url": "https://home.cern/news/news/accelerators/hilumi-lhc-cryogenics-equipment-arrives-underground",
+    "published": "2026-02-25T14:40:43.000Z",
     "date": "2026-02-25",
     "source": "CERN News"
   },
@@ -56,51 +56,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Here’s how honeyeaters and other birds thrive on sugary diets",
-    "title_es": "Here’s how honeyeaters and other birds thrive on sugary diets",
-    "url": "https://www.sciencenews.org/article/birds-sugar-diets-metabolism",
-    "published": "2026-02-26T19:00:00.000Z",
-    "date": "2026-02-26",
+    "title": "NASA scraps its 2027 moon landing, adds two missions in 2028",
+    "title_es": "NASA scraps its 2027 moon landing, adds two missions in 2028",
+    "url": "https://www.sciencenews.org/article/nasa-moon-landing-artemis-ii",
+    "published": "2026-02-27T19:19:52.000Z",
+    "date": "2026-02-27",
     "source": "Science News"
   },
   {
-    "title": "Antarctica faces a green and weedy future",
-    "title_es": "Antarctica faces a green and weedy future",
-    "url": "https://www.snexplores.org/article/warming-antarctica-green-weedy-future",
-    "published": "2026-02-26T11:30:00.000Z",
-    "date": "2026-02-26",
+    "title": "As toddlers, chimps are major risk takers",
+    "title_es": "As toddlers, chimps are major risk takers",
+    "url": "https://www.snexplores.org/article/toddler-chimps-risk-taking-behavior",
+    "published": "2026-02-27T11:30:00.000Z",
+    "date": "2026-02-27",
     "source": "Science News Explores"
   },
   {
-    "title": "Ireland’s Old Irish Goat has survived 3,000 years",
-    "title_es": "Ireland’s Old Irish Goat has survived 3,000 years",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
-    "published": "2026-02-26T13:42:41.000Z",
-    "date": "2026-02-26",
+    "title": "A lost moon may have created Titan and Saturn’s rings",
+    "title_es": "A lost moon may have created Titan and Saturn’s rings",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+    "published": "2026-02-27T12:19:45.000Z",
+    "date": "2026-02-27",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Fossil amber reveals the secret lives of Cretaceous ants",
-    "title_es": "Fossil amber reveals the secret lives of Cretaceous ants",
-    "url": "https://phys.org/news/2026-02-fossil-amber-reveals-secret-cretaceous.html",
-    "published": "2026-02-27T05:00:01.000Z",
-    "date": "2026-02-27",
+    "title": "Growing more complex by the day: How should journalists govern use of AI in their products?",
+    "title_es": "Growing more complex by the day: How should journalists govern use of AI in their products?",
+    "url": "https://phys.org/news/2026-02-complex-day-journalists-ai-products.html",
+    "published": "2026-02-28T01:30:01.000Z",
+    "date": "2026-02-28",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Trust in science during the COVID-19 pandemic: A typology of internet users in South Africa",
-    "title_es": "Correction: Trust in science during the COVID-19 pandemic: A typology of internet users in South Africa",
+    "title": "Disposable non-enzymatic impedimetric biosensor using Mn-doped ZnS-chitosan nanocomposite for tetracycline detection",
+    "title_es": "Disposable non-enzymatic impedimetric biosensor using Mn-doped ZnS-chitosan nanocomposite for tetracycline detection",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-02-26T14:00:00.000Z",
-    "date": "2026-02-26",
+    "published": "2026-02-27T14:00:00.000Z",
+    "date": "2026-02-27",
     "source": "PLOS ONE"
   },
   {
-    "title": "Stem cell patch reverses brain damage in fetuses with spina bifida",
-    "title_es": "Stem cell patch reverses brain damage in fetuses with spina bifida",
-    "url": "https://www.newscientist.com/article/2517249-stem-cell-patch-reverses-brain-damage-in-fetuses-with-spina-bifida/",
-    "published": "2026-02-26T23:30:10.000Z",
-    "date": "2026-02-26",
+    "title": "NASA’s Artemis moon exploration programme is getting a major makeover",
+    "title_es": "NASA’s Artemis moon exploration programme is getting a major makeover",
+    "url": "https://www.newscientist.com/article/2517451-nasas-artemis-moon-exploration-programme-is-getting-a-major-makeover/",
+    "published": "2026-02-27T16:24:28.000Z",
+    "date": "2026-02-27",
     "source": "New Scientist"
   },
   {
@@ -112,36 +112,44 @@
     "source": "SciPost News"
   },
   {
-    "title": "Arrival of Homo erectus in Southeast Asia Changed Mosquito Menu, New Study Suggests",
-    "title_es": "Arrival of Homo erectus in Southeast Asia Changed Mosquito Menu, New Study Suggests",
-    "url": "https://www.sci.news/biology/homo-erectus-arrival-malaria-mosquitoes-14587.html",
-    "published": "2026-02-27T01:10:48.000Z",
-    "date": "2026-02-27",
+    "title": "Webb’s Infrared Vision Reveals Planetary Nebula that Looks Strikingly Like Celestial Brain",
+    "title_es": "Webb’s Infrared Vision Reveals Planetary Nebula that Looks Strikingly Like Celestial Brain",
+    "url": "https://www.sci.news/astronomy/webb-pmr-1-planetary-nebula-14589.html",
+    "published": "2026-02-28T01:40:04.000Z",
+    "date": "2026-02-28",
     "source": "Sci.News"
   },
   {
-    "title": "As Brain Organoid Science Grows More Complex, So Do the Questions",
-    "title_es": "As Brain Organoid Science Grows More Complex, So Do the Questions",
-    "url": "https://undark.org/2026/02/26/brain-organoids-big-questions/",
-    "published": "2026-02-26T08:55:00.000Z",
-    "date": "2026-02-26",
+    "title": "What the ‘Birthday Paradox’ Can Teach Us About Black History",
+    "title_es": "What the ‘Birthday Paradox’ Can Teach Us About Black History",
+    "url": "https://undark.org/2026/02/27/opinion-birthday-paradox-black-history/",
+    "published": "2026-02-27T08:42:00.000Z",
+    "date": "2026-02-27",
     "source": "Undark Magazine"
   },
   {
-    "title": "Ruelle-Pollicott resonances of diffusive U(1)-invariant qubit circuits, by Urban Duh, Marko Žnidarič",
-    "title_es": "Ruelle-Pollicott resonances of diffusive U(1)-invariant qubit circuits, by Urban Duh, Marko Žnidarič",
-    "url": "https://scipost.org/scipostphys.20.2.061",
+    "title": "Model non-Hermitian topological operators without skin effect: A general principle of construction, by Daniel J. Salib, Sanjib Kumar Das, Bitan Roy",
+    "title_es": "Model non-Hermitian topological operators without skin effect: A general principle of construction, by Daniel J. Salib, Sanjib Kumar Das, Bitan Roy",
+    "url": "https://scipost.org/scipostphyscore.9.1.013",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Sharpless 249 and the Jellyfish Nebula",
-    "title_es": "Sharpless 249 and the Jellyfish Nebula",
-    "url": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg",
+    "title": "Lunar Occultation of Mercury",
+    "title_es": "Lunar Occultation of Mercury",
+    "url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=29.5659&long=26.0441",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Crew-5",
