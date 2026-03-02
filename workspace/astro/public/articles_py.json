@@ -1,10 +1,31 @@
 [
   {
+    "title": "The squeal of peeling tape, explained",
+    "title_es": "El chirrido de la cinta despegándose, explicado",
+    "url": "https://www.nature.com/articles/d41586-026-00516-w",
+    "date": "2026-03-02",
+    "source": "Nature"
+  },
+  {
+    "title": "A 'Cosmic Positioning System' in the outer solar system",
+    "title_es": "Un 'sistema de posicionamiento cósmico' en el sistema solar exterior",
+    "url": "https://phys.org/news/2026-02-cosmic-positioning-outer-solar.html",
+    "date": "2026-03-02",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Bronze Age mines in Spain may explain origin of Scandinavian bronze",
     "title_es": "Las minas de la Edad del Bronce en España pueden explicar el origen del bronce escandinavo",
     "url": "https://phys.org/news/2026-02-bronze-age-spain-scandinavian.html",
     "date": "2026-03-01",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
+    "title_es": "El impacto masivo de un asteroide hace 6,3 millones de años dejó un campo de vidrio gigante en Brasil",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
+    "date": "2026-03-01",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Growing more complex by the day: How should journalists govern use of AI in their products?",
@@ -89,6 +110,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
     "date": "2026-02-27",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science",
+    "title_es": "DARE-bench: Evaluación de la fidelidad del modelado y la instrucción de los LLM en ciencia de datos",
+    "url": "http://arxiv.org/abs/2602.24288v1",
+    "date": "2026-02-27",
+    "source": "arXiv"
   },
   {
     "title": "This compound enhances long-term memory of mice — but only in females",
