@@ -1,5 +1,53 @@
 [
   {
+    "title": "A Stochastic Conservative Field Transfer Method for Black-box Multiscale and Multiphysics Coupling",
+    "title_es": "A Stochastic Conservative Field Transfer Method for Black-box Multiscale and Multiphysics Coupling",
+    "url": "https://arxiv.org/abs/2603.00538",
+    "published": "2026-03-03T05:00:00.000Z",
+    "date": "2026-03-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Smoke Rises Over Big Cypress National Preserve",
+    "title_es": "El humo se eleva sobre la Reserva Nacional Big Cypress",
+    "url": "https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/",
+    "date": "2026-03-03",
+    "source": "NASA (Top News)",
+    "published": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny Purgatorius fossils in Denver Basin hint at early primate spread southward",
+    "title_es": "Pequeños fósiles de Purgatorius en la cuenca de Denver insinúan una temprana expansión de los primates hacia el sur",
+    "url": "https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html",
+    "date": "2026-03-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "title": "Rare Fossil of Baby Dome-Headed Dinosaur Unearthed in Canada",
+    "title_es": "Rare Fossil of Baby Dome-Headed Dinosaur Unearthed in Canada",
+    "url": "https://www.sci.news/paleontology/baby-dome-headed-dinosaur-fossil-canada-14595.html",
+    "published": "2026-03-02T23:48:13.000Z",
+    "date": "2026-03-02",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A bizarre type of black hole could solve three cosmic mysteries in one",
+    "title_es": "A bizarre type of black hole could solve three cosmic mysteries in one",
+    "url": "https://www.newscientist.com/article/2515689-a-bizarre-type-of-black-hole-could-solve-three-cosmic-mysteries-in-one/",
+    "published": "2026-03-02T16:00:27.000Z",
+    "date": "2026-03-02",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Interview: The Enduring Appeal of Alternative Medicine",
+    "title_es": "Interview: The Enduring Appeal of Alternative Medicine",
+    "url": "https://undark.org/2026/03/02/interview-lewis-grossman/",
+    "published": "2026-03-02T08:02:00.000Z",
+    "date": "2026-03-02",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Serendipity with Generative AI: Repurposing knowledge components during polycrisis with a Viable Systems Model approach",
     "title_es": "Serendipity with Generative AI: Repurposing knowledge components during polycrisis with a Viable Systems Model approach",
     "url": "https://arxiv.org/abs/2602.23365",
@@ -21,6 +69,54 @@
     "url": "https://phys.org/news/2026-02-cosmic-positioning-outer-solar.html",
     "date": "2026-03-02",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "Tool Verification for Test-Time Reinforcement Learning",
+    "title_es": "Verificación de herramientas para el aprendizaje por refuerzo en el momento de la prueba",
+    "url": "http://arxiv.org/abs/2603.02203v1",
+    "date": "2026-03-02",
+    "source": "arXiv",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
+    "title_es": "Corrección del autor: La microbiota de la raíz impulsa la integración directa del estrés por fosfato y la inmunidad",
+    "url": "https://www.nature.com/articles/s41586-026-10320-1",
+    "date": "2026-03-02",
+    "source": "Nature",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/tres-redes-de-doctorado-europeas-se-unen-en-gante-para-la-third-educado-training-school-astro-ai-and\" hreflang=\"es\">Tres redes de doctorado europeas se unen en Gante para la \"Third EDUCADO Training School on Astro–AI and Machine Learning\"</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/tres-redes-de-doctorado-europeas-se-unen-en-gante-para-la-third-educado-training-school-astro-ai-and\" hreflang=\"es\">Tres redes de doctorado europeas se unen en Gante para la \"Third EDUCADO Training School on Astro–AI and Machine Learning\"</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/tres-redes-de-doctorado-europeas-se-unen-en-gante-para-la-third-educado-training-school-astro-ai-and",
+    "date": "2026-03-02",
+    "source": "IAC",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "Simulations of your gut may predict which probiotics will stick",
+    "title_es": "Las simulaciones de su intestino pueden predecir qué probióticos se mantendrán",
+    "url": "https://www.sciencenews.org/article/probiotics-gut-simulations-microbiome",
+    "date": "2026-03-02",
+    "source": "Science News",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Symptom",
+    "title_es": "Los científicos dicen: síntoma",
+    "url": "https://www.snexplores.org/article/scientists-say-symptom-definition-pronunciation",
+    "date": "2026-03-02",
+    "source": "Science News Explores",
+    "published": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists reveal why a popular anti-aging compound may also fuel cancer",
+    "title_es": "Los científicos revelan por qué un popular compuesto antienvejecimiento también puede provocar cáncer",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260302030657.htm",
+    "date": "2026-03-02",
+    "source": "ScienceDaily (Top)",
     "published": "2026-03-02T00:00:00.000Z"
   },
   {
@@ -293,6 +389,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
     "date": "2026-02-26",
     "source": "ScienceDaily (Top)",
+    "published": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "title": "Basic Research in Cardiology: A CNIC study shows that the heart can be protected during chemotherapy without reducing antitumor efficacy",
+    "title_es": "Basic Research in Cardiology: A CNIC study shows that the heart can be protected during chemotherapy without reducing antitumor efficacy",
+    "url": "https://www.cnic.es/es/node/240492",
+    "date": "2026-02-26",
+    "source": "CNIC",
     "published": "2026-02-26T00:00:00.000Z"
   },
   {
@@ -18735,8 +18839,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Disposable non-enzymatic impedimetric biosensor using Mn-doped ZnS-chitosan nanocomposite for tetracycline detection",
-    "title_es": "Biosensor impedimétrico no enzimático desechable que utiliza nanocompuesto de ZnS-quitosano dopado con Mn para la detección de tetraciclina",
+    "title": "Constitutive activation of TGF-β receptor type I promotes cortical and cancellous bone formation in adult mice",
+    "title_es": "La activación constitutiva del receptor TGF-β tipo I promueve la formación de hueso cortical y esponjoso en ratones adultos",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -52449,6 +52553,22 @@
     "title": "The Dusty Surroundings of Orion and the Pleiades",
     "title_es": "The Dusty Surroundings of Orion and the Pleiades",
     "url": "https://apod.nasa.gov/apod/image/2603/dustyorionpleiades_fernandez_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Chirality, magic, and quantum correlations in multipartite quantum states, by Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou",
+    "title_es": "Chirality, magic, and quantum correlations in multipartite quantum states, by Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou",
+    "url": "https://scipost.org/scipostphys.20.3.066",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Flying over the North Pole of Mars",
+    "title_es": "Flying over the North Pole of Mars",
+    "url": "https://apod.nasa.gov/apod/image/2603/flyingnorth_marsexpress.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
