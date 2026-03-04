@@ -1,5 +1,77 @@
 [
   {
+    "title": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
+    "title_es": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
+    "url": "https://arxiv.org/abs/2603.02212",
+    "published": "2026-03-04T05:00:00.000Z",
+    "date": "2026-03-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "Southernmost Fossils of Earliest Primate Relative Unearthed in Colorado",
+    "title_es": "Southernmost Fossils of Earliest Primate Relative Unearthed in Colorado",
+    "url": "https://www.sci.news/paleontology/southernmost-purgatorius-fossils-14598.html",
+    "published": "2026-03-04T00:15:03.000Z",
+    "date": "2026-03-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Searching for Selenite",
+    "title_es": "Buscando selenita",
+    "url": "https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/",
+    "date": "2026-03-04",
+    "source": "NASA (Top News)",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "Cockroaches that eat each other’s wings turn into a fierce fighting force",
+    "title_es": "Las cucarachas que se comen las alas se convierten en una feroz fuerza de combate",
+    "url": "https://www.sciencenews.org/article/cockroach-eat-wings-bond-fight-together",
+    "date": "2026-03-04",
+    "source": "Science News",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "Neutrinos could explain why matter survived the Big Bang",
+    "title_es": "Los neutrinos podrían explicar por qué la materia sobrevivió al Big Bang",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
+    "date": "2026-03-04",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "Chimps' love for crystals could help us understand our own ancestors' fascination with these stones",
+    "title_es": "El amor de los chimpancés por los cristales podría ayudarnos a comprender la fascinación de nuestros antepasados ​​por estas piedras",
+    "url": "https://phys.org/news/2026-02-chimps-crystals-ancestors-fascination-stones.html",
+    "date": "2026-03-04",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "What snow monkeys’ steamy baths are really doing to their bodies",
+    "title_es": "What snow monkeys’ steamy baths are really doing to their bodies",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260303153357.htm",
+    "published": "2026-03-03T22:55:46.000Z",
+    "date": "2026-03-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Phantom codes could help quantum computers avoid errors",
+    "title_es": "Phantom codes could help quantum computers avoid errors",
+    "url": "https://www.newscientist.com/article/2517490-phantom-codes-could-help-quantum-computers-avoid-errors/",
+    "published": "2026-03-03T18:00:24.000Z",
+    "date": "2026-03-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Few U.S. Doctors Have Seen Measles in Person. That’s a Problem.",
+    "title_es": "Few U.S. Doctors Have Seen Measles in Person. That’s a Problem.",
+    "url": "https://undark.org/2026/03/03/measles-outbreak-diagnosis-challenge/",
+    "published": "2026-03-03T08:09:00.000Z",
+    "date": "2026-03-03",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "A Stochastic Conservative Field Transfer Method for Black-box Multiscale and Multiphysics Coupling",
     "title_es": "A Stochastic Conservative Field Transfer Method for Black-box Multiscale and Multiphysics Coupling",
     "url": "https://arxiv.org/abs/2603.00538",
@@ -21,6 +93,30 @@
     "url": "https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html",
     "date": "2026-03-03",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+    "title_es": "Cómo pelar con un cuchillo: alinear la manipulación detallada con las preferencias humanas",
+    "url": "http://arxiv.org/abs/2603.03280v1",
+    "date": "2026-03-03",
+    "source": "arXiv",
+    "published": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia",
+    "title_es": "Corrección del autor: Los bosques sanos salvaguardan los sistemas alimentarios tradicionales de carne silvestre en la Amazonia",
+    "url": "https://www.nature.com/articles/s41586-026-10332-x",
+    "date": "2026-03-03",
+    "source": "Nature",
+    "published": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "title": "Mummies suggest a way to help reintroduce cheetahs to Arabia",
+    "title_es": "Momias sugieren una forma de ayudar a reintroducir guepardos en Arabia",
+    "url": "https://www.snexplores.org/article/cheetah-mummies-arabia",
+    "date": "2026-03-03",
+    "source": "Science News Explores",
     "published": "2026-03-03T00:00:00.000Z"
   },
   {
@@ -18839,8 +18935,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Constitutive activation of TGF-β receptor type I promotes cortical and cancellous bone formation in adult mice",
-    "title_es": "La activación constitutiva del receptor TGF-β tipo I promueve la formación de hueso cortical y esponjoso en ratones adultos",
+    "title": "Correction: Children’s outdoor play at early learning and child care centres: Examining the impact of environmental play features on children’s play behaviour",
+    "title_es": "Corrección: Juego infantil al aire libre en centros de aprendizaje temprano y guarderías: examen del impacto de las características del juego ambiental en el comportamiento de juego de los niños",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -52569,6 +52665,22 @@
     "title": "Flying over the North Pole of Mars",
     "title_es": "Flying over the North Pole of Mars",
     "url": "https://apod.nasa.gov/apod/image/2603/flyingnorth_marsexpress.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "QDFlow: A Python package for physics simulations of quantum dot devices, by Donovan L. Buterakos, Sandesh S. Kalantre, Joshua Ziegler, Jacob M. Taylor, Justyna P. Zwolak",
+    "title_es": "QDFlow: A Python package for physics simulations of quantum dot devices, by Donovan L. Buterakos, Sandesh S. Kalantre, Joshua Ziegler, Jacob M. Taylor, Justyna P. Zwolak",
+    "url": "https://scipost.org/scipostphyscodeb.65",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Shapley 1: An Annular Planetary Nebula",
+    "title_es": "Shapley 1: An Annular Planetary Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2603/shapley1_bresseler_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
