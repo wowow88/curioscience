@@ -1,5 +1,33 @@
 [
   {
+    "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
+    "title_es": "¿Los medicamentos para la obesidad tratan la adicción? Un enorme estudio insinúa su promesa",
+    "url": "https://www.nature.com/articles/d41586-026-00734-2",
+    "date": "2026-03-05",
+    "source": "Nature"
+  },
+  {
+    "title": "A Little Town with a Long Name",
+    "title_es": "Un pequeño pueblo con un nombre largo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+    "date": "2026-03-05",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Half of Amazon insects could face dangerous heat stress",
+    "title_es": "La mitad de los insectos del Amazonas podrían sufrir un peligroso estrés por calor",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+    "date": "2026-03-05",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How a California desalination plant could help solve water shortages on the Colorado River",
+    "title_es": "Cómo una planta desalinizadora de California podría ayudar a resolver la escasez de agua en el río Colorado",
+    "url": "https://phys.org/news/2026-03-california-desalination-shortages-colorado-river.html",
+    "date": "2026-03-05",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Searching for Selenite",
     "title_es": "Buscando selenita",
     "url": "https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/",
@@ -28,6 +56,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Perspectives of multidisciplinary healthcare providers in elderly daycare centres: Challenges, opportunities and impacts on geriatric care in Chiangrai Municipality, Thailand",
+    "title_es": "Corrección: Perspectivas de los proveedores de atención médica multidisciplinarios en las guarderías para personas mayores: desafíos, oportunidades e impactos en la atención geriátrica en el municipio de Chiangrai, Tailandia",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-04",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "title_es": "Un enfoque de gobernanza de doble hélice hacia una IA agente confiable para el desarrollo de WebGIS",
+    "url": "http://arxiv.org/abs/2603.04390v1",
+    "date": "2026-03-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa\" hreflang=\"es\">Evolución sin bulbo y el auge de los discos (BEARD): I. Mecanismos físicos detrás de la relación masa-tamaño en galaxias tipo Vía Láctea</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa\" hreflang=\"es\">Evolución sin bulbo y el auge de los discos (BEARD): I. Mecanismos físicos detrás de la relación masa-tamaño en galaxias tipo Vía Láctea</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa",
+    "date": "2026-03-04",
+    "source": "IAC"
+  },
+  {
+    "title": "NA62 Collaboration refines measurement of rare particle decay",
+    "title_es": "La colaboración NA62 perfecciona la medición de la desintegración de partículas raras",
+    "url": "https://home.cern/news/news/physics/na62-collaboration-refines-measurement-rare-particle-decay",
+    "date": "2026-03-04",
+    "source": "CERN News"
+  },
+  {
+    "title": "A Titan collision may link Saturn’s tilt, its moon Hyperion and its rings",
+    "title_es": "Una colisión de Titán puede vincular la inclinación de Saturno, su luna Hiperión y sus anillos",
+    "url": "https://www.sciencenews.org/article/titan-collision-saturn-moon-rings",
+    "date": "2026-03-04",
+    "source": "Science News"
+  },
+  {
+    "title": "Microbes that dwell in tree bark devour major climate gases",
+    "title_es": "Los microbios que habitan en la corteza de los árboles devoran los principales gases climáticos",
+    "url": "https://www.snexplores.org/article/tree-bark-microbes-methane-climate",
+    "date": "2026-03-04",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Smoke Rises Over Big Cypress National Preserve",
     "title_es": "El humo se eleva sobre la Reserva Nacional Big Cypress",
     "url": "https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/",
@@ -40,13 +110,6 @@
     "url": "https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html",
     "date": "2026-03-03",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Children’s outdoor play at early learning and child care centres: Examining the impact of environmental play features on children’s play behaviour",
-    "title_es": "Corrección: Juego infantil al aire libre en centros de aprendizaje temprano y guarderías: examen del impacto de las características del juego ambiental en el comportamiento de juego de los niños",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-03",
-    "source": "PLOS ONE"
   },
   {
     "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",

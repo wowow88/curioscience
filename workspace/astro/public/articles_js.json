@@ -1,10 +1,10 @@
 [
   {
-    "title": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
-    "title_es": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
-    "url": "https://arxiv.org/abs/2603.02212",
-    "published": "2026-03-04T05:00:00.000Z",
-    "date": "2026-03-04",
+    "title": "Deep Sketch-Based 3D Modeling: A Survey",
+    "title_es": "Deep Sketch-Based 3D Modeling: A Survey",
+    "url": "https://arxiv.org/abs/2603.03287",
+    "published": "2026-03-05T05:00:00.000Z",
+    "date": "2026-03-05",
     "source": "arXiv"
   },
   {
@@ -16,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia",
-    "title_es": "Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia",
-    "url": "https://www.nature.com/articles/s41586-026-10332-x",
-    "published": "2026-03-03T00:00:00.000Z",
-    "date": "2026-03-03",
+    "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
+    "title_es": "Do obesity drugs treat addiction? Huge study hints at their promise",
+    "url": "https://www.nature.com/articles/d41586-026-00734-2",
+    "published": "2026-03-05T00:00:00.000Z",
+    "date": "2026-03-05",
     "source": "Nature"
   },
   {
@@ -32,19 +32,27 @@
     "source": "CNIC"
   },
   {
-    "title": "Searching for Selenite",
-    "title_es": "Searching for Selenite",
-    "url": "https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/",
-    "published": "2026-03-04T05:01:00.000Z",
-    "date": "2026-03-04",
+    "title": "Comunicado del Patronato del CNIO",
+    "title_es": "Comunicado del Patronato del CNIO",
+    "url": "https://www.cnio.es/noticias/comunicado-del-patronato-del-cnio-2/",
+    "published": "2026-02-27T16:03:19.000Z",
+    "date": "2026-02-27",
+    "source": "CNIO"
+  },
+  {
+    "title": "A Little Town with a Long Name",
+    "title_es": "A Little Town with a Long Name",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+    "published": "2026-03-05T05:01:00.000Z",
+    "date": "2026-03-05",
     "source": "NASA (Top News)"
   },
   {
-    "title": "HiLumi LHC: cryogenics equipment arrives underground",
-    "title_es": "HiLumi LHC: cryogenics equipment arrives underground",
-    "url": "https://home.cern/news/news/accelerators/hilumi-lhc-cryogenics-equipment-arrives-underground",
-    "published": "2026-02-25T14:40:43.000Z",
-    "date": "2026-02-25",
+    "title": "NA62 Collaboration refines measurement of rare particle decay",
+    "title_es": "NA62 Collaboration refines measurement of rare particle decay",
+    "url": "https://home.cern/news/news/physics/na62-collaboration-refines-measurement-rare-particle-decay",
+    "published": "2026-03-04T10:59:59.000Z",
+    "date": "2026-03-04",
     "source": "CERN News"
   },
   {
@@ -56,51 +64,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Cockroaches that eat each other’s wings turn into a fierce fighting force",
-    "title_es": "Cockroaches that eat each other’s wings turn into a fierce fighting force",
-    "url": "https://www.sciencenews.org/article/cockroach-eat-wings-bond-fight-together",
-    "published": "2026-03-04T00:01:00.000Z",
+    "title": "A Titan collision may link Saturn’s tilt, its moon Hyperion and its rings",
+    "title_es": "A Titan collision may link Saturn’s tilt, its moon Hyperion and its rings",
+    "url": "https://www.sciencenews.org/article/titan-collision-saturn-moon-rings",
+    "published": "2026-03-04T18:00:00.000Z",
     "date": "2026-03-04",
     "source": "Science News"
   },
   {
-    "title": "Mummies suggest a way to help reintroduce cheetahs to Arabia",
-    "title_es": "Mummies suggest a way to help reintroduce cheetahs to Arabia",
-    "url": "https://www.snexplores.org/article/cheetah-mummies-arabia",
-    "published": "2026-03-03T11:30:00.000Z",
-    "date": "2026-03-03",
+    "title": "Microbes that dwell in tree bark devour major climate gases",
+    "title_es": "Microbes that dwell in tree bark devour major climate gases",
+    "url": "https://www.snexplores.org/article/tree-bark-microbes-methane-climate",
+    "published": "2026-03-04T11:30:00.000Z",
+    "date": "2026-03-04",
     "source": "Science News Explores"
   },
   {
-    "title": "What snow monkeys’ steamy baths are really doing to their bodies",
-    "title_es": "What snow monkeys’ steamy baths are really doing to their bodies",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260303153357.htm",
-    "published": "2026-03-03T22:55:46.000Z",
-    "date": "2026-03-03",
+    "title": "Half of Amazon insects could face dangerous heat stress",
+    "title_es": "Half of Amazon insects could face dangerous heat stress",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+    "published": "2026-03-05T05:47:53.000Z",
+    "date": "2026-03-05",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Chimps' love for crystals could help us understand our own ancestors' fascination with these stones",
-    "title_es": "Chimps' love for crystals could help us understand our own ancestors' fascination with these stones",
-    "url": "https://phys.org/news/2026-02-chimps-crystals-ancestors-fascination-stones.html",
-    "published": "2026-03-04T05:00:02.000Z",
-    "date": "2026-03-04",
+    "title": "How a California desalination plant could help solve water shortages on the Colorado River",
+    "title_es": "How a California desalination plant could help solve water shortages on the Colorado River",
+    "url": "https://phys.org/news/2026-03-california-desalination-shortages-colorado-river.html",
+    "published": "2026-03-05T02:40:02.000Z",
+    "date": "2026-03-05",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Children’s outdoor play at early learning and child care centres: Examining the impact of environmental play features on children’s play behaviour",
-    "title_es": "Correction: Children’s outdoor play at early learning and child care centres: Examining the impact of environmental play features on children’s play behaviour",
+    "title": "Correction: Perspectives of multidisciplinary healthcare providers in elderly daycare centres: Challenges, opportunities and impacts on geriatric care in Chiangrai Municipality, Thailand",
+    "title_es": "Correction: Perspectives of multidisciplinary healthcare providers in elderly daycare centres: Challenges, opportunities and impacts on geriatric care in Chiangrai Municipality, Thailand",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-03-03T14:00:00.000Z",
-    "date": "2026-03-03",
+    "published": "2026-03-04T14:00:00.000Z",
+    "date": "2026-03-04",
     "source": "PLOS ONE"
   },
   {
-    "title": "Phantom codes could help quantum computers avoid errors",
-    "title_es": "Phantom codes could help quantum computers avoid errors",
-    "url": "https://www.newscientist.com/article/2517490-phantom-codes-could-help-quantum-computers-avoid-errors/",
-    "published": "2026-03-03T18:00:24.000Z",
-    "date": "2026-03-03",
+    "title": "The secret of how cats twist in mid-air to land on their feet",
+    "title_es": "The secret of how cats twist in mid-air to land on their feet",
+    "url": "https://www.newscientist.com/article/2518096-the-secret-of-how-cats-twist-in-mid-air-to-land-on-their-feet/",
+    "published": "2026-03-04T18:00:55.000Z",
+    "date": "2026-03-04",
     "source": "New Scientist"
   },
   {
@@ -112,33 +120,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "Southernmost Fossils of Earliest Primate Relative Unearthed in Colorado",
-    "title_es": "Southernmost Fossils of Earliest Primate Relative Unearthed in Colorado",
-    "url": "https://www.sci.news/paleontology/southernmost-purgatorius-fossils-14598.html",
-    "published": "2026-03-04T00:15:03.000Z",
-    "date": "2026-03-04",
+    "title": "Extremophile Bacteria May Hitch Rides on Asteroid Fragments",
+    "title_es": "Extremophile Bacteria May Hitch Rides on Asteroid Fragments",
+    "url": "https://www.sci.news/biology/lithopanspermia-14600.html",
+    "published": "2026-03-05T01:32:07.000Z",
+    "date": "2026-03-05",
     "source": "Sci.News"
   },
   {
-    "title": "Few U.S. Doctors Have Seen Measles in Person. That’s a Problem.",
-    "title_es": "Few U.S. Doctors Have Seen Measles in Person. That’s a Problem.",
-    "url": "https://undark.org/2026/03/03/measles-outbreak-diagnosis-challenge/",
-    "published": "2026-03-03T08:09:00.000Z",
-    "date": "2026-03-03",
+    "title": "Do America’s Top Health Research Officials Stick Around Too Long?",
+    "title_es": "Do America’s Top Health Research Officials Stick Around Too Long?",
+    "url": "https://undark.org/2026/03/04/term-limits-nih/",
+    "published": "2026-03-04T08:05:00.000Z",
+    "date": "2026-03-04",
     "source": "Undark Magazine"
   },
   {
-    "title": "QDFlow: A Python package for physics simulations of quantum dot devices, by Donovan L. Buterakos, Sandesh S. Kalantre, Joshua Ziegler, Jacob M. Taylor, Justyna P. Zwolak",
-    "title_es": "QDFlow: A Python package for physics simulations of quantum dot devices, by Donovan L. Buterakos, Sandesh S. Kalantre, Joshua Ziegler, Jacob M. Taylor, Justyna P. Zwolak",
-    "url": "https://scipost.org/scipostphyscodeb.65",
+    "title": "Resonant current-in-plane spin-torque diode effect in magnet–normal metal bilayers, by Ulli Gems, Oliver Franke, Piet W. Brouwer",
+    "title_es": "Resonant current-in-plane spin-torque diode effect in magnet–normal metal bilayers, by Ulli Gems, Oliver Franke, Piet W. Brouwer",
+    "url": "https://scipost.org/scipostphyscore.9.1.015",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Shapley 1: An Annular Planetary Nebula",
-    "title_es": "Shapley 1: An Annular Planetary Nebula",
-    "url": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg",
+    "title": "Total Lunar Eclipse over Tsé Bit'a'í",
+    "title_es": "Total Lunar Eclipse over Tsé Bit'a'í",
+    "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

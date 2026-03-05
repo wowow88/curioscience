@@ -1,5 +1,69 @@
 [
   {
+    "title": "Deep Sketch-Based 3D Modeling: A Survey",
+    "title_es": "Deep Sketch-Based 3D Modeling: A Survey",
+    "url": "https://arxiv.org/abs/2603.03287",
+    "published": "2026-03-05T05:00:00.000Z",
+    "date": "2026-03-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Extremophile Bacteria May Hitch Rides on Asteroid Fragments",
+    "title_es": "Extremophile Bacteria May Hitch Rides on Asteroid Fragments",
+    "url": "https://www.sci.news/biology/lithopanspermia-14600.html",
+    "published": "2026-03-05T01:32:07.000Z",
+    "date": "2026-03-05",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
+    "title_es": "¿Los medicamentos para la obesidad tratan la adicción? Un enorme estudio insinúa su promesa",
+    "url": "https://www.nature.com/articles/d41586-026-00734-2",
+    "date": "2026-03-05",
+    "source": "Nature",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "A Little Town with a Long Name",
+    "title_es": "Un pequeño pueblo con un nombre largo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+    "date": "2026-03-05",
+    "source": "NASA (Top News)",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Half of Amazon insects could face dangerous heat stress",
+    "title_es": "La mitad de los insectos del Amazonas podrían sufrir un peligroso estrés por calor",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+    "date": "2026-03-05",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "How a California desalination plant could help solve water shortages on the Colorado River",
+    "title_es": "Cómo una planta desalinizadora de California podría ayudar a resolver la escasez de agua en el río Colorado",
+    "url": "https://phys.org/news/2026-03-california-desalination-shortages-colorado-river.html",
+    "date": "2026-03-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "The secret of how cats twist in mid-air to land on their feet",
+    "title_es": "The secret of how cats twist in mid-air to land on their feet",
+    "url": "https://www.newscientist.com/article/2518096-the-secret-of-how-cats-twist-in-mid-air-to-land-on-their-feet/",
+    "published": "2026-03-04T18:00:55.000Z",
+    "date": "2026-03-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Do America’s Top Health Research Officials Stick Around Too Long?",
+    "title_es": "Do America’s Top Health Research Officials Stick Around Too Long?",
+    "url": "https://undark.org/2026/03/04/term-limits-nih/",
+    "published": "2026-03-04T08:05:00.000Z",
+    "date": "2026-03-04",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
     "title_es": "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning",
     "url": "https://arxiv.org/abs/2603.02212",
@@ -45,6 +109,46 @@
     "url": "https://phys.org/news/2026-02-chimps-crystals-ancestors-fascination-stones.html",
     "date": "2026-03-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "title_es": "Un enfoque de gobernanza de doble hélice hacia una IA agente confiable para el desarrollo de WebGIS",
+    "url": "http://arxiv.org/abs/2603.04390v1",
+    "date": "2026-03-04",
+    "source": "arXiv",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa\" hreflang=\"es\">Evolución sin bulbo y el auge de los discos (BEARD): I. Mecanismos físicos detrás de la relación masa-tamaño en galaxias tipo Vía Láctea</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa\" hreflang=\"es\">Evolución sin bulbo y el auge de los discos (BEARD): I. Mecanismos físicos detrás de la relación masa-tamaño en galaxias tipo Vía Láctea</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/evolucion-sin-bulbo-y-el-auge-de-los-discos-beard-i-mecanismos-fisicos-detras-de-la-relacion-masa",
+    "date": "2026-03-04",
+    "source": "IAC",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "NA62 Collaboration refines measurement of rare particle decay",
+    "title_es": "La colaboración NA62 perfecciona la medición de la desintegración de partículas raras",
+    "url": "https://home.cern/news/news/physics/na62-collaboration-refines-measurement-rare-particle-decay",
+    "date": "2026-03-04",
+    "source": "CERN News",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "A Titan collision may link Saturn’s tilt, its moon Hyperion and its rings",
+    "title_es": "Una colisión de Titán puede vincular la inclinación de Saturno, su luna Hiperión y sus anillos",
+    "url": "https://www.sciencenews.org/article/titan-collision-saturn-moon-rings",
+    "date": "2026-03-04",
+    "source": "Science News",
+    "published": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "title": "Microbes that dwell in tree bark devour major climate gases",
+    "title_es": "Los microbios que habitan en la corteza de los árboles devoran los principales gases climáticos",
+    "url": "https://www.snexplores.org/article/tree-bark-microbes-methane-climate",
+    "date": "2026-03-04",
+    "source": "Science News Explores",
     "published": "2026-03-04T00:00:00.000Z"
   },
   {
@@ -18935,8 +19039,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Children’s outdoor play at early learning and child care centres: Examining the impact of environmental play features on children’s play behaviour",
-    "title_es": "Corrección: Juego infantil al aire libre en centros de aprendizaje temprano y guarderías: examen del impacto de las características del juego ambiental en el comportamiento de juego de los niños",
+    "title": "Correction: Perspectives of multidisciplinary healthcare providers in elderly daycare centres: Challenges, opportunities and impacts on geriatric care in Chiangrai Municipality, Thailand",
+    "title_es": "Corrección: Perspectivas de los proveedores de atención médica multidisciplinarios en las guarderías para personas mayores: desafíos, oportunidades e impactos en la atención geriátrica en el municipio de Chiangrai, Tailandia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -52681,6 +52785,22 @@
     "title": "Shapley 1: An Annular Planetary Nebula",
     "title_es": "Shapley 1: An Annular Planetary Nebula",
     "url": "https://apod.nasa.gov/apod/image/2603/shapley1_bresseler_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Resonant current-in-plane spin-torque diode effect in magnet–normal metal bilayers, by Ulli Gems, Oliver Franke, Piet W. Brouwer",
+    "title_es": "Resonant current-in-plane spin-torque diode effect in magnet–normal metal bilayers, by Ulli Gems, Oliver Franke, Piet W. Brouwer",
+    "url": "https://scipost.org/scipostphyscore.9.1.015",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Total Lunar Eclipse over Tsé Bit'a'í",
+    "title_es": "Total Lunar Eclipse over Tsé Bit'a'í",
+    "url": "https://apod.nasa.gov/apod/image/2603/eclipsesequence_murata_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
