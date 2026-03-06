@@ -1,5 +1,53 @@
 [
   {
+    "title": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
+    "title_es": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
+    "url": "https://arxiv.org/abs/2603.04402",
+    "published": "2026-03-06T05:00:00.000Z",
+    "date": "2026-03-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "Graecopithecus May Have Been Partially Bipedal, New Fossil Suggests",
+    "title_es": "Graecopithecus May Have Been Partially Bipedal, New Fossil Suggests",
+    "url": "https://www.sci.news/othersciences/anthropology/bipedal-graecopithecus-14605.html",
+    "published": "2026-03-06T01:57:15.000Z",
+    "date": "2026-03-06",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
+    "title_es": "El \"Megaberg\" enfermo provoca una oleada de vida microscópica",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life/",
+    "date": "2026-03-06",
+    "source": "NASA (Top News)",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Upconversion materials: A new frontier in solar water-splitting",
+    "title_es": "Materiales de conversión ascendente: una nueva frontera en la división del agua solar",
+    "url": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
+    "date": "2026-03-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Möbius strip-like molecule has an entirely new and bizarre shape",
+    "title_es": "Möbius strip-like molecule has an entirely new and bizarre shape",
+    "url": "https://www.newscientist.com/article/2518188-mobius-strip-like-molecule-has-an-entirely-new-and-bizarre-shape/",
+    "published": "2026-03-05T19:00:31.000Z",
+    "date": "2026-03-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Autonomous AI Agents Have an Ethics Problem",
+    "title_es": "Autonomous AI Agents Have an Ethics Problem",
+    "url": "https://undark.org/2026/03/05/opinion-ai-agents-ethics/",
+    "published": "2026-03-05T08:46:00.000Z",
+    "date": "2026-03-05",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Deep Sketch-Based 3D Modeling: A Survey",
     "title_es": "Deep Sketch-Based 3D Modeling: A Survey",
     "url": "https://arxiv.org/abs/2603.03287",
@@ -45,6 +93,62 @@
     "url": "https://phys.org/news/2026-03-california-desalination-shortages-colorado-river.html",
     "date": "2026-03-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+    "title_es": "RoboPocket: mejore las políticas de robots al instante con su teléfono",
+    "url": "http://arxiv.org/abs/2603.05504v1",
+    "date": "2026-03-05",
+    "source": "arXiv",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Science stories for young readers",
+    "title_es": "Historias científicas para lectores jóvenes.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef9208",
+    "date": "2026-03-05",
+    "source": "Science.org",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine",
+    "title_es": "Corrección del autor: Máquina fotónica Ising programable de 200 GOPS inspirada en Hopfield",
+    "url": "https://www.nature.com/articles/s41586-026-10305-0",
+    "date": "2026-03-05",
+    "source": "Nature",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Justin Perry: \"In science, we are wrong all the time\"",
+    "title_es": "Justin Perry: \"In science, we are wrong all the time\"",
+    "url": "https://www.cnic.es/es/node/240675",
+    "date": "2026-03-05",
+    "source": "CNIC",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "A koala population’s rapid rebound may let it escape inbreeding’s perils",
+    "title_es": "El rápido repunte de la población de koalas puede permitirle escapar de los peligros de la endogamia",
+    "url": "https://www.sciencenews.org/article/koalas-genetic-rebound-australia",
+    "date": "2026-03-05",
+    "source": "Science News",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Brazilian monkeys offer lessons on how to return species to the wild",
+    "title_es": "Monos brasileños ofrecen lecciones sobre cómo devolver especies a la naturaleza",
+    "url": "https://www.snexplores.org/article/tamarin-monkeys-wild-behavior",
+    "date": "2026-03-05",
+    "source": "Science News Explores",
+    "published": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a hidden force that helps wire the brain",
+    "title_es": "Los científicos descubren una fuerza oculta que ayuda a conectar el cerebro",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+    "date": "2026-03-05",
+    "source": "ScienceDaily (Top)",
     "published": "2026-03-05T00:00:00.000Z"
   },
   {
@@ -19039,8 +19143,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Perspectives of multidisciplinary healthcare providers in elderly daycare centres: Challenges, opportunities and impacts on geriatric care in Chiangrai Municipality, Thailand",
-    "title_es": "Corrección: Perspectivas de los proveedores de atención médica multidisciplinarios en las guarderías para personas mayores: desafíos, oportunidades e impactos en la atención geriátrica en el municipio de Chiangrai, Tailandia",
+    "title": "Correction: Adherence to intravenous chemotherapy and associated factors among patients with cancer at Hawassa University Comprehensive Specialized Hospital Cancer Treatment Center, Sidama Region, Southern Ethiopia",
+    "title_es": "Corrección: adherencia a la quimioterapia intravenosa y factores asociados entre pacientes con cáncer en el Centro de Tratamiento del Cáncer del Hospital Integral Especializado de la Universidad de Hawassa, región de Sidama, sur de Etiopía",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -52801,6 +52905,22 @@
     "title": "Total Lunar Eclipse over Tsé Bit'a'í",
     "title_es": "Total Lunar Eclipse over Tsé Bit'a'í",
     "url": "https://apod.nasa.gov/apod/image/2603/eclipsesequence_murata_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Accelerating multijet-merged event generation with neural network matrix element surrogates, by Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert",
+    "title_es": "Accelerating multijet-merged event generation with neural network matrix element surrogates, by Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert",
+    "url": "https://scipost.org/scipostphys.20.3.071",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Astrosphere of HD 61005",
+    "title_es": "The Astrosphere of HD 61005",
+    "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
