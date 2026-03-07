@@ -1,5 +1,29 @@
 [
   {
+    "title": "New Giant Mosasaur Species Discovered in Morocco",
+    "title_es": "New Giant Mosasaur Species Discovered in Morocco",
+    "url": "https://www.sci.news/paleontology/pluridens-imelaki-14606.html",
+    "published": "2026-03-07T01:35:51.000Z",
+    "date": "2026-03-07",
+    "source": "Sci.News"
+  },
+  {
+    "title": "'Just-shoring' puts justice at the center of critical minerals policy",
+    "title_es": "'Just-shoring' sitúa la justicia en el centro de la política de minerales críticos",
+    "url": "https://phys.org/news/2026-03-shoring-justice-center-critical-minerals.html",
+    "date": "2026-03-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-07T00:00:00.000Z"
+  },
+  {
+    "title": "NASA changed an asteroid's orbit around the sun for the first time",
+    "title_es": "NASA changed an asteroid's orbit around the sun for the first time",
+    "url": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/",
+    "published": "2026-03-06T19:00:00.000Z",
+    "date": "2026-03-06",
+    "source": "New Scientist"
+  },
+  {
     "title": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
     "title_es": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
     "url": "https://arxiv.org/abs/2603.04402",
@@ -29,6 +53,46 @@
     "url": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
     "date": "2026-03-06",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
+    "title_es": "Charla informativa: lo que revelan las notas al margen garabateadas por Galileo sobre su viaje científico",
+    "url": "https://www.nature.com/articles/d41586-026-00759-7",
+    "date": "2026-03-06",
+    "source": "Nature",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "ARMD Research Solicitations (Updated March 6)",
+    "title_es": "Solicitudes de investigación de ARMD (actualizado el 6 de marzo)",
+    "url": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+    "date": "2026-03-06",
+    "source": "NASA (Top News)",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s DART spacecraft changed an asteroid’s orbit around the sun",
+    "title_es": "La nave espacial DART de la NASA cambió la órbita de un asteroide alrededor del sol",
+    "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+    "date": "2026-03-06",
+    "source": "Science News",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: Primates may have evolved in the cold",
+    "title_es": "Analice esto: los primates pueden haber evolucionado en el frío",
+    "url": "https://www.snexplores.org/article/primate-ancestor-evolved-cold",
+    "date": "2026-03-06",
+    "source": "Science News Explores",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Astronomers discover giant cosmic sheet around the Milky Way",
+    "title_es": "Los astrónomos descubren una capa cósmica gigante alrededor de la Vía Láctea",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
+    "date": "2026-03-06",
+    "source": "ScienceDaily (Top)",
     "published": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -19143,8 +19207,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Adherence to intravenous chemotherapy and associated factors among patients with cancer at Hawassa University Comprehensive Specialized Hospital Cancer Treatment Center, Sidama Region, Southern Ethiopia",
-    "title_es": "Corrección: adherencia a la quimioterapia intravenosa y factores asociados entre pacientes con cáncer en el Centro de Tratamiento del Cáncer del Hospital Integral Especializado de la Universidad de Hawassa, región de Sidama, sur de Etiopía",
+    "title": "Health literacy and preventive behaviors toward microplastic contamination among communities in the major river basins of northeastern Thailand",
+    "title_es": "Alfabetización sanitaria y comportamientos preventivos frente a la contaminación por microplásticos entre las comunidades de las principales cuencas fluviales del noreste de Tailandia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -52921,6 +52985,22 @@
     "title": "The Astrosphere of HD 61005",
     "title_es": "The Astrosphere of HD 61005",
     "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
+    "title_es": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
+    "url": "https://scipost.org/scipostphys.20.3.072",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Two Eclipses of Saros 133",
+    "title_es": "Two Eclipses of Saros 133",
+    "url": "https://apod.nasa.gov/apod/image/2603/two_eclipses_horalek_tezel_800px.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

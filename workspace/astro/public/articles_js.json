@@ -1,13 +1,5 @@
 [
   {
-    "title": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
-    "title_es": "SearchGym: A Modular Infrastructure for Cross-Platform Benchmarking and Hybrid Search Orchestration",
-    "url": "https://arxiv.org/abs/2603.04402",
-    "published": "2026-03-06T05:00:00.000Z",
-    "date": "2026-03-06",
-    "source": "arXiv"
-  },
-  {
     "title": "Science stories for young readers",
     "title_es": "Science stories for young readers",
     "url": "https://www.science.org/doi/abs/10.1126/science.aef9208",
@@ -16,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine",
-    "title_es": "Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine",
-    "url": "https://www.nature.com/articles/s41586-026-10305-0",
-    "published": "2026-03-05T00:00:00.000Z",
-    "date": "2026-03-05",
+    "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
+    "title_es": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
+    "url": "https://www.nature.com/articles/d41586-026-00759-7",
+    "published": "2026-03-06T00:00:00.000Z",
+    "date": "2026-03-06",
     "source": "Nature"
   },
   {
@@ -40,10 +32,10 @@
     "source": "CNIO"
   },
   {
-    "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
-    "title_es": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
-    "url": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life/",
-    "published": "2026-03-06T05:01:00.000Z",
+    "title": "ARMD Research Solicitations (Updated March 6)",
+    "title_es": "ARMD Research Solicitations (Updated March 6)",
+    "url": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+    "published": "2026-03-06T22:00:00.000Z",
     "date": "2026-03-06",
     "source": "NASA (Top News)"
   },
@@ -64,51 +56,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "A koala population’s rapid rebound may let it escape inbreeding’s perils",
-    "title_es": "A koala population’s rapid rebound may let it escape inbreeding’s perils",
-    "url": "https://www.sciencenews.org/article/koalas-genetic-rebound-australia",
-    "published": "2026-03-05T20:02:43.000Z",
-    "date": "2026-03-05",
+    "title": "NASA’s DART spacecraft changed an asteroid’s orbit around the sun",
+    "title_es": "NASA’s DART spacecraft changed an asteroid’s orbit around the sun",
+    "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+    "published": "2026-03-06T19:00:00.000Z",
+    "date": "2026-03-06",
     "source": "Science News"
   },
   {
-    "title": "Brazilian monkeys offer lessons on how to return species to the wild",
-    "title_es": "Brazilian monkeys offer lessons on how to return species to the wild",
-    "url": "https://www.snexplores.org/article/tamarin-monkeys-wild-behavior",
-    "published": "2026-03-05T11:30:00.000Z",
-    "date": "2026-03-05",
+    "title": "Analyze This: Primates may have evolved in the cold",
+    "title_es": "Analyze This: Primates may have evolved in the cold",
+    "url": "https://www.snexplores.org/article/primate-ancestor-evolved-cold",
+    "published": "2026-03-06T11:30:00.000Z",
+    "date": "2026-03-06",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover a hidden force that helps wire the brain",
-    "title_es": "Scientists discover a hidden force that helps wire the brain",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
-    "published": "2026-03-05T23:26:24.000Z",
-    "date": "2026-03-05",
+    "title": "Astronomers discover giant cosmic sheet around the Milky Way",
+    "title_es": "Astronomers discover giant cosmic sheet around the Milky Way",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
+    "published": "2026-03-06T06:55:55.000Z",
+    "date": "2026-03-06",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Upconversion materials: A new frontier in solar water-splitting",
-    "title_es": "Upconversion materials: A new frontier in solar water-splitting",
-    "url": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
-    "published": "2026-03-06T02:40:01.000Z",
-    "date": "2026-03-06",
+    "title": "'Just-shoring' puts justice at the center of critical minerals policy",
+    "title_es": "'Just-shoring' puts justice at the center of critical minerals policy",
+    "url": "https://phys.org/news/2026-03-shoring-justice-center-critical-minerals.html",
+    "published": "2026-03-07T01:00:01.000Z",
+    "date": "2026-03-07",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Adherence to intravenous chemotherapy and associated factors among patients with cancer at Hawassa University Comprehensive Specialized Hospital Cancer Treatment Center, Sidama Region, Southern Ethiopia",
-    "title_es": "Correction: Adherence to intravenous chemotherapy and associated factors among patients with cancer at Hawassa University Comprehensive Specialized Hospital Cancer Treatment Center, Sidama Region, Southern Ethiopia",
+    "title": "Health literacy and preventive behaviors toward microplastic contamination among communities in the major river basins of northeastern Thailand",
+    "title_es": "Health literacy and preventive behaviors toward microplastic contamination among communities in the major river basins of northeastern Thailand",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-03-05T14:00:00.000Z",
-    "date": "2026-03-05",
+    "published": "2026-03-06T14:00:00.000Z",
+    "date": "2026-03-06",
     "source": "PLOS ONE"
   },
   {
-    "title": "Möbius strip-like molecule has an entirely new and bizarre shape",
-    "title_es": "Möbius strip-like molecule has an entirely new and bizarre shape",
-    "url": "https://www.newscientist.com/article/2518188-mobius-strip-like-molecule-has-an-entirely-new-and-bizarre-shape/",
-    "published": "2026-03-05T19:00:31.000Z",
-    "date": "2026-03-05",
+    "title": "NASA changed an asteroid's orbit around the sun for the first time",
+    "title_es": "NASA changed an asteroid's orbit around the sun for the first time",
+    "url": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/",
+    "published": "2026-03-06T19:00:00.000Z",
+    "date": "2026-03-06",
     "source": "New Scientist"
   },
   {
@@ -120,11 +112,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Graecopithecus May Have Been Partially Bipedal, New Fossil Suggests",
-    "title_es": "Graecopithecus May Have Been Partially Bipedal, New Fossil Suggests",
-    "url": "https://www.sci.news/othersciences/anthropology/bipedal-graecopithecus-14605.html",
-    "published": "2026-03-06T01:57:15.000Z",
-    "date": "2026-03-06",
+    "title": "New Giant Mosasaur Species Discovered in Morocco",
+    "title_es": "New Giant Mosasaur Species Discovered in Morocco",
+    "url": "https://www.sci.news/paleontology/pluridens-imelaki-14606.html",
+    "published": "2026-03-07T01:35:51.000Z",
+    "date": "2026-03-07",
     "source": "Sci.News"
   },
   {
@@ -136,17 +128,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Accelerating multijet-merged event generation with neural network matrix element surrogates, by Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert",
-    "title_es": "Accelerating multijet-merged event generation with neural network matrix element surrogates, by Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert",
-    "url": "https://scipost.org/scipostphys.20.3.071",
+    "title": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
+    "title_es": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
+    "url": "https://scipost.org/scipostphys.20.3.072",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "The Astrosphere of HD 61005",
-    "title_es": "The Astrosphere of HD 61005",
-    "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
+    "title": "Two Eclipses of Saros 133",
+    "title_es": "Two Eclipses of Saros 133",
+    "url": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -154,7 +146,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=14.5981&long=3.1448",
+    "url": "https://www.latlong.net/c/?lat=-36.1331&long=155.6288",
     "date": "",
     "published": "",
     "source": "ISS Position"
