@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+    "title_es": "Los científicos descubren una señal cerebral que puede desencadenar el efecto dominó del autismo",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
+    "date": "2026-03-08",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-08T00:00:00.000Z"
+  },
+  {
     "title": "New Giant Mosasaur Species Discovered in Morocco",
     "title_es": "New Giant Mosasaur Species Discovered in Morocco",
     "url": "https://www.sci.news/paleontology/pluridens-imelaki-14606.html",
@@ -11,6 +19,14 @@
     "title": "'Just-shoring' puts justice at the center of critical minerals policy",
     "title_es": "'Just-shoring' sitúa la justicia en el centro de la política de minerales críticos",
     "url": "https://phys.org/news/2026-03-shoring-justice-center-critical-minerals.html",
+    "date": "2026-03-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-07T00:00:00.000Z"
+  },
+  {
+    "title": "Large AI models can speed catalyst discovery by predicting performance before synthesis",
+    "title_es": "Los grandes modelos de IA pueden acelerar el descubrimiento de catalizadores al predecir el rendimiento antes de la síntesis",
+    "url": "https://phys.org/news/2026-03-large-ai-catalyst-discovery-synthesis.html",
     "date": "2026-03-07",
     "source": "Phys.org (Latest)",
     "published": "2026-03-07T00:00:00.000Z"
@@ -93,6 +109,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
     "date": "2026-03-06",
     "source": "ScienceDaily (Top)",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "Final laps at the LHC",
+    "title_es": "Vueltas finales en el LHC",
+    "url": "https://home.cern/news/news/accelerators/final-laps-lhc",
+    "date": "2026-03-06",
+    "source": "CERN News",
     "published": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -220,6 +244,14 @@
     "title_es": "The secret of how cats twist in mid-air to land on their feet",
     "url": "https://www.newscientist.com/article/2518096-the-secret-of-how-cats-twist-in-mid-air-to-land-on-their-feet/",
     "published": "2026-03-04T18:00:55.000Z",
+    "date": "2026-03-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "We must close the 'shocking' knowledge gap in women's health",
+    "title_es": "We must close the 'shocking' knowledge gap in women's health",
+    "url": "https://www.newscientist.com/article/mg26935853-000-we-must-close-the-shocking-knowledge-gap-in-womens-health/",
+    "published": "2026-03-04T14:30:00.000Z",
     "date": "2026-03-04",
     "source": "New Scientist"
   },
@@ -53004,5 +53036,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "The maximum-average subtensor problem: Equilibrium and out-of-equilibrium properties, by Vittorio Erba, Nathan M. Kupferschmid, Rodrigo P. Ortiz, Lenka Zdeborová",
+    "title_es": "The maximum-average subtensor problem: Equilibrium and out-of-equilibrium properties, by Vittorio Erba, Nathan M. Kupferschmid, Rodrigo P. Ortiz, Lenka Zdeborová",
+    "url": "https://scipost.org/scipostphys.20.3.073",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

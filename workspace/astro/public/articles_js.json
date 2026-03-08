@@ -40,11 +40,11 @@
     "source": "NASA (Top News)"
   },
   {
-    "title": "NA62 Collaboration refines measurement of rare particle decay",
-    "title_es": "NA62 Collaboration refines measurement of rare particle decay",
-    "url": "https://home.cern/news/news/physics/na62-collaboration-refines-measurement-rare-particle-decay",
-    "published": "2026-03-04T10:59:59.000Z",
-    "date": "2026-03-04",
+    "title": "Final laps at the LHC",
+    "title_es": "Final laps at the LHC",
+    "url": "https://home.cern/news/news/accelerators/final-laps-lhc",
+    "published": "2026-03-06T15:28:12.000Z",
+    "date": "2026-03-06",
     "source": "CERN News"
   },
   {
@@ -72,18 +72,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Astronomers discover giant cosmic sheet around the Milky Way",
-    "title_es": "Astronomers discover giant cosmic sheet around the Milky Way",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
-    "published": "2026-03-06T06:55:55.000Z",
-    "date": "2026-03-06",
+    "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+    "title_es": "Scientists discover a brain signal that may trigger autism’s domino effect",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
+    "published": "2026-03-08T01:28:40.000Z",
+    "date": "2026-03-08",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'Just-shoring' puts justice at the center of critical minerals policy",
-    "title_es": "'Just-shoring' puts justice at the center of critical minerals policy",
-    "url": "https://phys.org/news/2026-03-shoring-justice-center-critical-minerals.html",
-    "published": "2026-03-07T01:00:01.000Z",
+    "title": "Large AI models can speed catalyst discovery by predicting performance before synthesis",
+    "title_es": "Large AI models can speed catalyst discovery by predicting performance before synthesis",
+    "url": "https://phys.org/news/2026-03-large-ai-catalyst-discovery-synthesis.html",
+    "published": "2026-03-07T23:00:01.000Z",
     "date": "2026-03-07",
     "source": "Phys.org (Latest)"
   },
@@ -96,11 +96,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "NASA changed an asteroid's orbit around the sun for the first time",
-    "title_es": "NASA changed an asteroid's orbit around the sun for the first time",
-    "url": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/",
-    "published": "2026-03-06T19:00:00.000Z",
-    "date": "2026-03-06",
+    "title": "We must close the 'shocking' knowledge gap in women's health",
+    "title_es": "We must close the 'shocking' knowledge gap in women's health",
+    "url": "https://www.newscientist.com/article/mg26935853-000-we-must-close-the-shocking-knowledge-gap-in-womens-health/",
+    "published": "2026-03-04T14:30:00.000Z",
+    "date": "2026-03-04",
     "source": "New Scientist"
   },
   {
@@ -128,25 +128,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
-    "title_es": "Generalized Loschmidt echo and information scrambling in open systems, by Yi-Neng Zhou, Chang Liu",
-    "url": "https://scipost.org/scipostphys.20.3.072",
+    "title": "The maximum-average subtensor problem: Equilibrium and out-of-equilibrium properties, by Vittorio Erba, Nathan M. Kupferschmid, Rodrigo P. Ortiz, Lenka Zdeborová",
+    "title_es": "The maximum-average subtensor problem: Equilibrium and out-of-equilibrium properties, by Vittorio Erba, Nathan M. Kupferschmid, Rodrigo P. Ortiz, Lenka Zdeborová",
+    "url": "https://scipost.org/scipostphys.20.3.073",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Two Eclipses of Saros 133",
-    "title_es": "Two Eclipses of Saros 133",
-    "url": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-36.1331&long=155.6288",
+    "url": "https://www.latlong.net/c/?lat=22.7971&long=-15.7725",
     "date": "",
     "published": "",
     "source": "ISS Position"

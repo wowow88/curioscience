@@ -1,8 +1,22 @@
 [
   {
+    "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+    "title_es": "Los científicos descubren una señal cerebral que puede desencadenar el efecto dominó del autismo",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
+    "date": "2026-03-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "'Just-shoring' puts justice at the center of critical minerals policy",
     "title_es": "'Just-shoring' sitúa la justicia en el centro de la política de minerales críticos",
     "url": "https://phys.org/news/2026-03-shoring-justice-center-critical-minerals.html",
+    "date": "2026-03-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Large AI models can speed catalyst discovery by predicting performance before synthesis",
+    "title_es": "Los grandes modelos de IA pueden acelerar el descubrimiento de catalizadores al predecir el rendimiento antes de la síntesis",
+    "url": "https://phys.org/news/2026-03-large-ai-catalyst-discovery-synthesis.html",
     "date": "2026-03-07",
     "source": "Phys.org (Latest)"
   },
@@ -61,6 +75,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
     "date": "2026-03-06",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Final laps at the LHC",
+    "title_es": "Vueltas finales en el LHC",
+    "url": "https://home.cern/news/news/accelerators/final-laps-lhc",
+    "date": "2026-03-06",
+    "source": "CERN News"
   },
   {
     "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
