@@ -1,10 +1,42 @@
 [
   {
+    "title": "Marking Data-Informativity and Data-Driven Supervisory Control of Discrete-Event Systems",
+    "title_es": "Marking Data-Informativity and Data-Driven Supervisory Control of Discrete-Event Systems",
+    "url": "https://arxiv.org/abs/2603.05508",
+    "published": "2026-03-09T04:00:00.000Z",
+    "date": "2026-03-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Particles may not follow Einstein’s paths after all",
+    "title_es": "Después de todo, es posible que las partículas no sigan los caminos de Einstein",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+    "date": "2026-03-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "'Peculiar' crocodile ancestor started life on four legs before learning to walk on two",
+    "title_es": "El 'peculiar' ancestro del cocodrilo comenzó su vida con cuatro patas antes de aprender a caminar con dos",
+    "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
+    "date": "2026-03-09",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
     "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
     "title_es": "Los científicos descubren una señal cerebral que puede desencadenar el efecto dominó del autismo",
     "url": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
     "date": "2026-03-08",
     "source": "ScienceDaily (Top)",
+    "published": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
+    "title_es": "Las inyecciones mensuales de medicamentos contra el VIH ofrecen una potente alternativa a las pastillas diarias",
+    "url": "https://www.nature.com/articles/d41586-026-00669-8",
+    "date": "2026-03-08",
+    "source": "Nature",
     "published": "2026-03-08T00:00:00.000Z"
   },
   {
@@ -117,6 +149,14 @@
     "url": "https://home.cern/news/news/accelerators/final-laps-lhc",
     "date": "2026-03-06",
     "source": "CERN News",
+    "published": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
+    "title_es": "BEVLM: Destilación del conocimiento semántico de los LLM en representaciones a vista de pájaro",
+    "url": "http://arxiv.org/abs/2603.06576v1",
+    "date": "2026-03-06",
+    "source": "arXiv",
     "published": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -364,6 +404,14 @@
     "title_es": "Phantom codes could help quantum computers avoid errors",
     "url": "https://www.newscientist.com/article/2517490-phantom-codes-could-help-quantum-computers-avoid-errors/",
     "published": "2026-03-03T18:00:24.000Z",
+    "date": "2026-03-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The real reasons birth rates are declining worldwide",
+    "title_es": "The real reasons birth rates are declining worldwide",
+    "url": "https://www.newscientist.com/article/2516629-the-real-reasons-birth-rates-are-declining-worldwide/",
+    "published": "2026-03-03T16:00:52.000Z",
     "date": "2026-03-03",
     "source": "New Scientist"
   },
@@ -53044,5 +53092,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "The Cranium Nebula from the Webb Telescope",
+    "title_es": "The Cranium Nebula from the Webb Telescope",
+    "url": "https://apod.nasa.gov/apod/image/2603/cranium_webbmiri2_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]

@@ -1,10 +1,31 @@
 [
   {
+    "title": "Particles may not follow Einstein’s paths after all",
+    "title_es": "Después de todo, es posible que las partículas no sigan los caminos de Einstein",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+    "date": "2026-03-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "'Peculiar' crocodile ancestor started life on four legs before learning to walk on two",
+    "title_es": "El 'peculiar' ancestro del cocodrilo comenzó su vida con cuatro patas antes de aprender a caminar con dos",
+    "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
+    "date": "2026-03-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
     "title_es": "Los científicos descubren una señal cerebral que puede desencadenar el efecto dominó del autismo",
     "url": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
     "date": "2026-03-08",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
+    "title_es": "Las inyecciones mensuales de medicamentos contra el VIH ofrecen una potente alternativa a las pastillas diarias",
+    "url": "https://www.nature.com/articles/d41586-026-00669-8",
+    "date": "2026-03-08",
+    "source": "Nature"
   },
   {
     "title": "'Just-shoring' puts justice at the center of critical minerals policy",
@@ -82,6 +103,13 @@
     "url": "https://home.cern/news/news/accelerators/final-laps-lhc",
     "date": "2026-03-06",
     "source": "CERN News"
+  },
+  {
+    "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
+    "title_es": "BEVLM: Destilación del conocimiento semántico de los LLM en representaciones a vista de pájaro",
+    "url": "http://arxiv.org/abs/2603.06576v1",
+    "date": "2026-03-06",
+    "source": "arXiv"
   },
   {
     "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
