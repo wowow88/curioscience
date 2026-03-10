@@ -1,5 +1,69 @@
 [
   {
+    "title": "Rethinking Personalization in Large Language Models at the Token Level",
+    "title_es": "Rethinking Personalization in Large Language Models at the Token Level",
+    "url": "https://arxiv.org/abs/2603.06595",
+    "published": "2026-03-10T04:00:00.000Z",
+    "date": "2026-03-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Two New Bird Species Identified in Amazonia",
+    "title_es": "Two New Bird Species Identified in Amazonia",
+    "url": "https://www.sci.news/biology/amazonian-antbirds-14611.html",
+    "published": "2026-03-10T01:09:49.000Z",
+    "date": "2026-03-10",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Shades of a Lunar Eclipse",
+    "title_es": "Sombras de un eclipse lunar",
+    "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
+    "date": "2026-03-10",
+    "source": "NASA (Top News)",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s DART asteroid smash shows we could deflect a future threat",
+    "title_es": "El impacto del asteroide DART de la NASA muestra que podemos desviar una amenaza futura",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm",
+    "date": "2026-03-10",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "How to make farms tree-friendly and boost food production",
+    "title_es": "Cómo hacer que las granjas sean respetuosas con los árboles e impulsar la producción de alimentos",
+    "url": "https://phys.org/news/2026-03-farms-tree-friendly-boost-food.html",
+    "date": "2026-03-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
+    "title_es": "Light-guided evolution creates proteins that can switch, sense, and compute",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
+    "published": "2026-03-09T23:05:48.000Z",
+    "date": "2026-03-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Why is black rain falling on Iran and how dangerous is it?",
+    "title_es": "Why is black rain falling on Iran and how dangerous is it?",
+    "url": "https://www.newscientist.com/article/2518718-why-is-black-rain-falling-on-iran-and-how-dangerous-is-it/",
+    "published": "2026-03-09T19:11:46.000Z",
+    "date": "2026-03-09",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Under Trump, mRNA Skepticism Threatens a Promising Technology",
+    "title_es": "Under Trump, mRNA Skepticism Threatens a Promising Technology",
+    "url": "https://undark.org/2026/03/09/trump-mrna-skepticism/",
+    "published": "2026-03-09T07:05:00.000Z",
+    "date": "2026-03-09",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Marking Data-Informativity and Data-Driven Supervisory Control of Discrete-Event Systems",
     "title_es": "Marking Data-Informativity and Data-Driven Supervisory Control of Discrete-Event Systems",
     "url": "https://arxiv.org/abs/2603.05508",
@@ -21,6 +85,46 @@
     "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
     "date": "2026-03-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "Scale Space Diffusion",
+    "title_es": "Difusión espacial a escala",
+    "url": "http://arxiv.org/abs/2603.08709v1",
+    "date": "2026-03-09",
+    "source": "arXiv",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "The world’s salt lakes are drying up, but solutions are hard to come by",
+    "title_es": "Los lagos salados del mundo se están secando, pero es difícil encontrar soluciones",
+    "url": "https://www.nature.com/articles/d41586-026-00702-w",
+    "date": "2026-03-09",
+    "source": "Nature",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del\" hreflang=\"es\">Investigadores del IAC y la ULL logran la medición más precisa hasta ahora de una capa clave del interior del Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del\" hreflang=\"es\">Investigadores del IAC y la ULL logran la medición más precisa hasta ahora de una capa clave del interior del Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del",
+    "date": "2026-03-09",
+    "source": "IAC",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "When the pressure’s off, this superconductor appears to break records",
+    "title_es": "Cuando baja la presión, este superconductor parece batir récords",
+    "url": "https://www.sciencenews.org/article/pressure-superconductor-record-break",
+    "date": "2026-03-09",
+    "source": "Science News",
+    "published": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "Build your own seismograph with this science activity",
+    "title_es": "Construye tu propio sismógrafo con esta actividad científica",
+    "url": "https://www.snexplores.org/article/build-seismograph-earthquake",
+    "date": "2026-03-09",
+    "source": "Science News Explores",
     "published": "2026-03-09T00:00:00.000Z"
   },
   {
@@ -19287,8 +19391,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Health literacy and preventive behaviors toward microplastic contamination among communities in the major river basins of northeastern Thailand",
-    "title_es": "Alfabetización sanitaria y comportamientos preventivos frente a la contaminación por microplásticos entre las comunidades de las principales cuencas fluviales del noreste de Tailandia",
+    "title": "Correction: Concurrent coverage and determinants of vitamin A supplementation and deworming among children aged 12–59 months in 15 Sub-Saharan African countries",
+    "title_es": "Corrección: Cobertura simultánea y determinantes de la suplementación con vitamina A y la desparasitación entre niños de 12 a 59 meses en 15 países de África subsahariana",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -53097,6 +53201,22 @@
     "title": "The Cranium Nebula from the Webb Telescope",
     "title_es": "The Cranium Nebula from the Webb Telescope",
     "url": "https://apod.nasa.gov/apod/image/2603/cranium_webbmiri2_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Non-hyperbolic 3-manifolds and 3D field theories for 2D Virasoro minimal models, by Dongmin Gang, Heesu Kang, Seongmin Kim",
+    "title_es": "Non-hyperbolic 3-manifolds and 3D field theories for 2D Virasoro minimal models, by Dongmin Gang, Heesu Kang, Seongmin Kim",
+    "url": "https://scipost.org/scipostphys.20.3.075",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Sky Glows over Paranal Observatory",
+    "title_es": "Sky Glows over Paranal Observatory",
+    "url": "https://apod.nasa.gov/apod/image/2603/teleskylasers_looten_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

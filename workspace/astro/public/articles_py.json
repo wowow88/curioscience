@@ -1,5 +1,26 @@
 [
   {
+    "title": "Shades of a Lunar Eclipse",
+    "title_es": "Sombras de un eclipse lunar",
+    "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
+    "date": "2026-03-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA’s DART asteroid smash shows we could deflect a future threat",
+    "title_es": "El impacto del asteroide DART de la NASA muestra que podemos desviar una amenaza futura",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm",
+    "date": "2026-03-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How to make farms tree-friendly and boost food production",
+    "title_es": "Cómo hacer que las granjas sean respetuosas con los árboles e impulsar la producción de alimentos",
+    "url": "https://phys.org/news/2026-03-farms-tree-friendly-boost-food.html",
+    "date": "2026-03-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Particles may not follow Einstein’s paths after all",
     "title_es": "Después de todo, es posible que las partículas no sigan los caminos de Einstein",
     "url": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
     "date": "2026-03-09",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Concurrent coverage and determinants of vitamin A supplementation and deworming among children aged 12–59 months in 15 Sub-Saharan African countries",
+    "title_es": "Corrección: Cobertura simultánea y determinantes de la suplementación con vitamina A y la desparasitación entre niños de 12 a 59 meses en 15 países de África subsahariana",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Scale Space Diffusion",
+    "title_es": "Difusión espacial a escala",
+    "url": "http://arxiv.org/abs/2603.08709v1",
+    "date": "2026-03-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "The world’s salt lakes are drying up, but solutions are hard to come by",
+    "title_es": "Los lagos salados del mundo se están secando, pero es difícil encontrar soluciones",
+    "url": "https://www.nature.com/articles/d41586-026-00702-w",
+    "date": "2026-03-09",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del\" hreflang=\"es\">Investigadores del IAC y la ULL logran la medición más precisa hasta ahora de una capa clave del interior del Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del\" hreflang=\"es\">Investigadores del IAC y la ULL logran la medición más precisa hasta ahora de una capa clave del interior del Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/investigadores-del-iac-y-la-ull-logran-la-medicion-mas-precisa-hasta-ahora-de-una-capa-clave-del",
+    "date": "2026-03-09",
+    "source": "IAC"
+  },
+  {
+    "title": "When the pressure’s off, this superconductor appears to break records",
+    "title_es": "Cuando baja la presión, este superconductor parece batir récords",
+    "url": "https://www.sciencenews.org/article/pressure-superconductor-record-break",
+    "date": "2026-03-09",
+    "source": "Science News"
+  },
+  {
+    "title": "Build your own seismograph with this science activity",
+    "title_es": "Construye tu propio sismógrafo con esta actividad científica",
+    "url": "https://www.snexplores.org/article/build-seismograph-earthquake",
+    "date": "2026-03-09",
+    "source": "Science News Explores"
   },
   {
     "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
@@ -54,13 +117,6 @@
     "url": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
     "date": "2026-03-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Health literacy and preventive behaviors toward microplastic contamination among communities in the major river basins of northeastern Thailand",
-    "title_es": "Alfabetización sanitaria y comportamientos preventivos frente a la contaminación por microplásticos entre las comunidades de las principales cuencas fluviales del noreste de Tailandia",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
