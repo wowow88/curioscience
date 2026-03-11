@@ -1,5 +1,33 @@
 [
   {
+    "title": "A Most Unusual Lake",
+    "title_es": "Un lago de lo más inusual",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
+    "date": "2026-03-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Submerged bumblebee queens breathe underwater",
+    "title_es": "Las reinas abejorros sumergidas respiran bajo el agua",
+    "url": "https://www.sciencenews.org/article/bumblebee-queens-breathe-underwater",
+    "date": "2026-03-11",
+    "source": "Science News"
+  },
+  {
+    "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
+    "title_es": "Un asteroide masivo golpeó el Mar del Norte y provocó un tsunami de 330 pies",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+    "date": "2026-03-11",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Vegans develop complex skills to navigate an omnivorous society, new research shows",
+    "title_es": "Los veganos desarrollan habilidades complejas para navegar en una sociedad omnívora, según muestra una nueva investigación",
+    "url": "https://phys.org/news/2026-03-vegans-complex-skills-omnivorous-society.html",
+    "date": "2026-03-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Shades of a Lunar Eclipse",
     "title_es": "Sombras de un eclipse lunar",
     "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
@@ -21,6 +49,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Immortalization and characterization of Schwann cell lines derived from NF1-associated cutaneous neurofibromas",
+    "title_es": "Corrección: Inmortalización y caracterización de líneas celulares de Schwann derivadas de neurofibromas cutáneos asociados a NF1",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-10",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
+    "title_es": "De las estadísticas de datos a la geometría de características: cómo las correlaciones dan forma a la superposición",
+    "url": "http://arxiv.org/abs/2603.09972v1",
+    "date": "2026-03-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Maximizing carrier extraction in hybrid back-contact silicon solar cells",
+    "title_es": "Maximización de la extracción de portadores en células solares híbridas de silicio de contacto posterior",
+    "url": "https://www.nature.com/articles/s41586-026-10351-8",
+    "date": "2026-03-10",
+    "source": "Nature"
+  },
+  {
+    "title": "Let’s learn about animals that can regrow body parts",
+    "title_es": "Aprendamos sobre los animales que pueden regenerar partes del cuerpo.",
+    "url": "https://www.snexplores.org/article/lets-learn-about-animals-that-can-regrow-body-parts",
+    "date": "2026-03-10",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Particles may not follow Einstein’s paths after all",
     "title_es": "Después de todo, es posible que las partículas no sigan los caminos de Einstein",
     "url": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
@@ -33,13 +89,6 @@
     "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
     "date": "2026-03-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Concurrent coverage and determinants of vitamin A supplementation and deworming among children aged 12–59 months in 15 Sub-Saharan African countries",
-    "title_es": "Corrección: Cobertura simultánea y determinantes de la suplementación con vitamina A y la desparasitación entre niños de 12 a 59 meses en 15 países de África subsahariana",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "Scale Space Diffusion",

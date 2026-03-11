@@ -1,5 +1,69 @@
 [
   {
+    "title": "A Hybrid Residue Floating Numerical Architecture with Formal Error Bounds for High Throughput FPGA Computation",
+    "title_es": "A Hybrid Residue Floating Numerical Architecture with Formal Error Bounds for High Throughput FPGA Computation",
+    "url": "https://arxiv.org/abs/2603.08712",
+    "published": "2026-03-11T04:00:00.000Z",
+    "date": "2026-03-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "275-Million-Year-Old Amphibian Relative with Twisted Jaws Rewrites Early Tetrapod Diets",
+    "title_es": "275-Million-Year-Old Amphibian Relative with Twisted Jaws Rewrites Early Tetrapod Diets",
+    "url": "https://www.sci.news/paleontology/tanyka-amnicola-14614.html",
+    "published": "2026-03-11T01:15:34.000Z",
+    "date": "2026-03-11",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Orcas may be to blame for some mass dolphin strandings",
+    "title_es": "Orcas may be to blame for some mass dolphin strandings",
+    "url": "https://www.newscientist.com/article/2518849-orcas-may-be-to-blame-for-some-mass-dolphin-strandings/",
+    "published": "2026-03-11T00:01:07.000Z",
+    "date": "2026-03-11",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A Most Unusual Lake",
+    "title_es": "Un lago de lo más inusual",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
+    "date": "2026-03-11",
+    "source": "NASA (Top News)",
+    "published": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "title": "Submerged bumblebee queens breathe underwater",
+    "title_es": "Las reinas abejorros sumergidas respiran bajo el agua",
+    "url": "https://www.sciencenews.org/article/bumblebee-queens-breathe-underwater",
+    "date": "2026-03-11",
+    "source": "Science News",
+    "published": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
+    "title_es": "Un asteroide masivo golpeó el Mar del Norte y provocó un tsunami de 330 pies",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+    "date": "2026-03-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "title": "Vegans develop complex skills to navigate an omnivorous society, new research shows",
+    "title_es": "Los veganos desarrollan habilidades complejas para navegar en una sociedad omnívora, según muestra una nueva investigación",
+    "url": "https://phys.org/news/2026-03-vegans-complex-skills-omnivorous-society.html",
+    "date": "2026-03-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "title": "Why the FDA Is Embracing Old Math for New Drugs",
+    "title_es": "Why the FDA Is Embracing Old Math for New Drugs",
+    "url": "https://undark.org/2026/03/10/fda-bayesian-guidelines/",
+    "published": "2026-03-10T07:51:00.000Z",
+    "date": "2026-03-10",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Rethinking Personalization in Large Language Models at the Token Level",
     "title_es": "Rethinking Personalization in Large Language Models at the Token Level",
     "url": "https://arxiv.org/abs/2603.06595",
@@ -37,6 +101,30 @@
     "url": "https://phys.org/news/2026-03-farms-tree-friendly-boost-food.html",
     "date": "2026-03-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
+    "title_es": "De las estadísticas de datos a la geometría de características: cómo las correlaciones dan forma a la superposición",
+    "url": "http://arxiv.org/abs/2603.09972v1",
+    "date": "2026-03-10",
+    "source": "arXiv",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "Maximizing carrier extraction in hybrid back-contact silicon solar cells",
+    "title_es": "Maximización de la extracción de portadores en células solares híbridas de silicio de contacto posterior",
+    "url": "https://www.nature.com/articles/s41586-026-10351-8",
+    "date": "2026-03-10",
+    "source": "Nature",
+    "published": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn about animals that can regrow body parts",
+    "title_es": "Aprendamos sobre los animales que pueden regenerar partes del cuerpo.",
+    "url": "https://www.snexplores.org/article/lets-learn-about-animals-that-can-regrow-body-parts",
+    "date": "2026-03-10",
+    "source": "Science News Explores",
     "published": "2026-03-10T00:00:00.000Z"
   },
   {
@@ -19391,8 +19479,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Concurrent coverage and determinants of vitamin A supplementation and deworming among children aged 12–59 months in 15 Sub-Saharan African countries",
-    "title_es": "Corrección: Cobertura simultánea y determinantes de la suplementación con vitamina A y la desparasitación entre niños de 12 a 59 meses en 15 países de África subsahariana",
+    "title": "Correction: Immortalization and characterization of Schwann cell lines derived from NF1-associated cutaneous neurofibromas",
+    "title_es": "Corrección: Inmortalización y caracterización de líneas celulares de Schwann derivadas de neurofibromas cutáneos asociados a NF1",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -53217,6 +53305,22 @@
     "title": "Sky Glows over Paranal Observatory",
     "title_es": "Sky Glows over Paranal Observatory",
     "url": "https://apod.nasa.gov/apod/image/2603/teleskylasers_looten_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Local fermion density in inhomogeneous free-fermion chains: A discrete WKB approach, by Martín Zapata, Federico Finkel, Artemio González-López",
+    "title_es": "Local fermion density in inhomogeneous free-fermion chains: A discrete WKB approach, by Martín Zapata, Federico Finkel, Artemio González-López",
+    "url": "https://scipost.org/scipostphys.20.3.078",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "CG 4: The Globule and the Galaxy",
+    "title_es": "CG 4: The Globule and the Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
