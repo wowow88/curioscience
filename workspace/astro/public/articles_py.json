@@ -1,5 +1,26 @@
 [
   {
+    "title": "Dust Outbreak Reaches Europe",
+    "title_es": "Brote de polvo llega a Europa",
+    "url": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+    "date": "2026-03-12",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "AI may be giving teens bad nutrition advice",
+    "title_es": "La IA puede estar dando malos consejos nutricionales a los adolescentes",
+    "url": "https://www.sciencenews.org/article/ai-teen-nutrition-advice-chatbot-diet-food",
+    "date": "2026-03-12",
+    "source": "Science News"
+  },
+  {
+    "title": "Meet Crocodylus lucivenator, a 12- to 15-foot predator that hunted iconic Lucy's species",
+    "title_es": "Conozca a Crocodylus lucivenator, un depredador de 12 a 15 pies que cazaba la especie icónica de Lucy",
+    "url": "https://phys.org/news/2026-03-crocodylus-lucivenator-foot-predator-iconic.html",
+    "date": "2026-03-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Most Unusual Lake",
     "title_es": "Un lago de lo más inusual",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
@@ -28,6 +49,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present",
+    "title_es": "Evaluación económica de las políticas de medicamentos contra la malaria en los regímenes presidenciales de Nigeria: un análisis comparativo desde 1999 hasta el presente",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "COMIC: Agentic Sketch Comedy Generation",
+    "title_es": "CÓMIC: Generación de comedia de sketches agentes",
+    "url": "http://arxiv.org/abs/2603.11048v1",
+    "date": "2026-03-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Gut stem cell necroptosis by genome instability triggers bowel inflammation",
+    "title_es": "Corrección del autor: la necroptosis de células madre intestinales por inestabilidad del genoma desencadena inflamación intestinal",
+    "url": "https://www.nature.com/articles/s41586-026-10302-3",
+    "date": "2026-03-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Arranca un ensayo clínico para saber cómo influye la dieta en el tratamiento de cánceres metastásicos de mama o ginecológicos",
+    "title_es": "Arranca un ensayo clínico para saber cómo influye la dieta en el tratamiento de cánceres metastásicos de mama o ginecológicos",
+    "url": "https://www.cnio.es/noticias/arranca-un-ensayo-clinico-para-saber-como-influye-la-dieta-en-el-tratamiento-de-canceres-metastasicos-de-mama-o-ginecologicos/",
+    "date": "2026-03-11",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-adriana-de-lorenzo-caceres-galardonada-con-el-premio-dona-concepcion-garcia\" hreflang=\"es\">La investigadora del IAC, Adriana de Lorenzo-Cáceres, galardonada con el premio “Doña Concepción García Suárez”</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-adriana-de-lorenzo-caceres-galardonada-con-el-premio-dona-concepcion-garcia\" hreflang=\"es\">La investigadora del IAC, Adriana de Lorenzo-Cáceres, galardonada con el premio “Doña Concepción García Suárez”</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-investigadora-del-iac-adriana-de-lorenzo-caceres-galardonada-con-el-premio-dona-concepcion-garcia",
+    "date": "2026-03-11",
+    "source": "IAC"
+  },
+  {
+    "title": "Computer Security: Privacy vs security",
+    "title_es": "Seguridad informática: privacidad versus seguridad",
+    "url": "https://home.cern/news/news/computing/computer-security-privacy-vs-security",
+    "date": "2026-03-11",
+    "source": "CERN News"
+  },
+  {
+    "title": "Volcanic ash might have helped spread the Black Death to Europe",
+    "title_es": "La ceniza volcánica podría haber ayudado a propagar la peste negra a Europa",
+    "url": "https://www.snexplores.org/article/volcano-spread-black-death-plague-europe",
+    "date": "2026-03-11",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Shades of a Lunar Eclipse",
     "title_es": "Sombras de un eclipse lunar",
     "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-03-farms-tree-friendly-boost-food.html",
     "date": "2026-03-10",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Immortalization and characterization of Schwann cell lines derived from NF1-associated cutaneous neurofibromas",
-    "title_es": "Corrección: Inmortalización y caracterización de líneas celulares de Schwann derivadas de neurofibromas cutáneos asociados a NF1",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-10",
-    "source": "PLOS ONE"
   },
   {
     "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
