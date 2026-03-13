@@ -1,5 +1,26 @@
 [
   {
+    "title": "Eruption at Mayon",
+    "title_es": "Erupción en Mayon",
+    "url": "https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/",
+    "date": "2026-03-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists discovered a secret deal between a plant and beetles",
+    "title_es": "Los científicos descubrieron un acuerdo secreto entre una planta y los escarabajos",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260312222355.htm",
+    "date": "2026-03-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "A race against time to save Alpine ice cores that record medieval mining, fires, and volcanoes",
+    "title_es": "Una carrera contra el tiempo para salvar los núcleos de hielo alpinos que registran minas, incendios y volcanes medievales.",
+    "url": "https://phys.org/news/2026-03-alpine-ice-cores-medieval-volcanoes.html",
+    "date": "2026-03-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Dust Outbreak Reaches Europe",
     "title_es": "Brote de polvo llega a Europa",
     "url": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
@@ -19,6 +40,62 @@
     "url": "https://phys.org/news/2026-03-crocodylus-lucivenator-foot-predator-iconic.html",
     "date": "2026-03-12",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Hyperspectral technology and machine learning models to estimate the fruit quality parameters of mango and strawberry crops",
+    "title_es": "Corrección: Tecnología hiperespectral y modelos de aprendizaje automático para estimar los parámetros de calidad de la fruta en cultivos de mango y fresa.",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-12",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
+    "title_es": "El subespacio de color latente: orden emergente en un caos de alta dimensión",
+    "url": "http://arxiv.org/abs/2603.12261v1",
+    "date": "2026-03-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "The imminent collapse of the Great Salt Lake",
+    "title_es": "El inminente colapso del Gran Lago Salado",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg4335",
+    "date": "2026-03-12",
+    "source": "Science.org"
+  },
+  {
+    "title": "Youthful antics predict lifespan — at least for these fish",
+    "title_es": "Las payasadas juveniles predicen la esperanza de vida, al menos para estos peces",
+    "url": "https://www.nature.com/articles/d41586-026-00782-8",
+    "date": "2026-03-12",
+    "source": "Nature"
+  },
+  {
+    "title": "“Poco a poco tomamos conciencia de la relevancia del descubrimiento”. Cómo un grupo que investiga en cáncer de mama hace un hallazgo clave sobre fertilidad",
+    "title_es": "“Poco a poco tomamos conciencia de la relevancia del descubrimiento”. Cómo un grupo que investiga en cáncer de mama hace un hallazgo clave sobre fertilidad",
+    "url": "https://www.cnio.es/noticias/fuimos-siendo-conscientes-poco-a-poco-de-la-relevancia-del-descubrimiento-como-un-grupo-que-investiga-en-cancer-de-mama-hace-un-hallazgo-clave-sobre-fertilidad/",
+    "date": "2026-03-12",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/artemio-herrero-investigador-del-iac-recibe-el-xv-premio-institucional-la-investigacion-de-la\" hreflang=\"es\">Artemio Herrero, investigador del IAC, recibe el XV Premio Institucional a la Investigación de la Universidad de La Laguna</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/artemio-herrero-investigador-del-iac-recibe-el-xv-premio-institucional-la-investigacion-de-la\" hreflang=\"es\">Artemio Herrero, investigador del IAC, recibe el XV Premio Institucional a la Investigación de la Universidad de La Laguna</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/artemio-herrero-investigador-del-iac-recibe-el-xv-premio-institucional-la-investigacion-de-la",
+    "date": "2026-03-12",
+    "source": "IAC"
+  },
+  {
+    "title": "A large fossil leg bone hints at T. rex’s origins, but scientists disagree",
+    "title_es": "Un gran hueso fósil de una pierna insinúa los orígenes del T.rex, pero los científicos no están de acuerdo",
+    "url": "https://www.sciencenews.org/article/fossil-leg-t-rex-origins-bones-dinosaur",
+    "date": "2026-03-12",
+    "source": "Science News"
+  },
+  {
+    "title": "The Okefenokee’s dark waters hold secrets about climate and more",
+    "title_es": "Las oscuras aguas del Okefenokee guardan secretos sobre el clima y más",
+    "url": "https://www.snexplores.org/article/okefenokee-swamp-ecology-climate",
+    "date": "2026-03-12",
+    "source": "Science News Explores"
   },
   {
     "title": "A Most Unusual Lake",
@@ -47,13 +124,6 @@
     "url": "https://phys.org/news/2026-03-vegans-complex-skills-omnivorous-society.html",
     "date": "2026-03-11",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present",
-    "title_es": "Evaluación económica de las políticas de medicamentos contra la malaria en los regímenes presidenciales de Nigeria: un análisis comparativo desde 1999 hasta el presente",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-11",
-    "source": "PLOS ONE"
   },
   {
     "title": "COMIC: Agentic Sketch Comedy Generation",
@@ -96,6 +166,13 @@
     "url": "https://www.snexplores.org/article/volcano-spread-black-death-plague-europe",
     "date": "2026-03-11",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Accelerator Report: The 2026 run will be short but intense",
+    "title_es": "Informe del Acelerador: El recorrido hasta 2026 será corto pero intenso",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-2026-run-will-be-short-intense",
+    "date": "2026-03-11",
+    "source": "CERN News"
   },
   {
     "title": "Shades of a Lunar Eclipse",
