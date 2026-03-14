@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sun May Have Escaped Milky Way’s Crowded Core Billions of Years Ago",
+    "title_es": "Sun May Have Escaped Milky Way’s Crowded Core Billions of Years Ago",
+    "url": "https://www.sci.news/astronomy/sun-migration-14621.html",
+    "published": "2026-03-14T00:55:30.000Z",
+    "date": "2026-03-14",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A smartphone app can help men last longer in bed",
+    "title_es": "A smartphone app can help men last longer in bed",
+    "url": "https://www.newscientist.com/article/2519306-a-smartphone-app-can-help-men-last-longer-in-bed/",
+    "published": "2026-03-14T00:01:45.000Z",
+    "date": "2026-03-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+    "title_es": "Los altos mandos de China reafirman su objetivo de ser líderes mundiales en tecnología e inteligencia artificial",
+    "url": "https://www.nature.com/articles/d41586-026-00814-3",
+    "date": "2026-03-14",
+    "source": "Nature",
+    "published": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists warn Australia’s “zombie tree” could vanish within a generation",
+    "title_es": "Los científicos advierten que el “árbol zombi” de Australia podría desaparecer en una generación",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260313002652.htm",
+    "date": "2026-03-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "title": "Australia added to global sharks and rays database",
+    "title_es": "Australia agregada a la base de datos mundial de tiburones y rayas",
+    "url": "https://phys.org/news/2026-03-australia-added-global-sharks-rays.html",
+    "date": "2026-03-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
+    "title_es": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260313062543.htm",
+    "published": "2026-03-13T22:49:09.000Z",
+    "date": "2026-03-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Excerpt: How George Washington Weaponized Smallpox Inoculation",
+    "title_es": "Excerpt: How George Washington Weaponized Smallpox Inoculation",
+    "url": "https://undark.org/2026/03/13/excerpt-washington-smallpox/",
+    "published": "2026-03-13T17:09:17.000Z",
+    "date": "2026-03-13",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Comparison of Outlier Detection Algorithms on String Data",
     "title_es": "Comparison of Outlier Detection Algorithms on String Data",
     "url": "https://arxiv.org/abs/2603.11049",
@@ -45,6 +101,38 @@
     "url": "https://phys.org/news/2026-03-alpine-ice-cores-medieval-volcanoes.html",
     "date": "2026-03-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-educado-celebra-su-segunda-reunion-anual-en-heidelberg-para-impulsar-la-innovacion\" hreflang=\"es\">El proyecto europeo EDUCADO celebra su Segunda Reunión Anual en Heidelberg para impulsar la innovación en astrofísica</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-educado-celebra-su-segunda-reunion-anual-en-heidelberg-para-impulsar-la-innovacion\" hreflang=\"es\">El proyecto europeo EDUCADO celebra su Segunda Reunión Anual en Heidelberg para impulsar la innovación en astrofísica</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-educado-celebra-su-segunda-reunion-anual-en-heidelberg-para-impulsar-la-innovacion",
+    "date": "2026-03-13",
+    "source": "IAC",
+    "published": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "title": "Volunteers Find Oddly High Solar Flare Rates",
+    "title_es": "Los voluntarios encuentran tasas de llamaradas solares extrañamente altas",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/",
+    "date": "2026-03-13",
+    "source": "NASA (Top News)",
+    "published": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "title": "Yaks may hint at a way to treat brain diseases like MS",
+    "title_es": "Los yaks pueden insinuar una forma de tratar enfermedades cerebrales como la EM",
+    "url": "https://www.sciencenews.org/article/yaks-brain-diseases-ms-genetic-mutation",
+    "date": "2026-03-13",
+    "source": "Science News",
+    "published": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "title": "Why do objects shatter the same way? Math solves the mystery",
+    "title_es": "¿Por qué los objetos se rompen de la misma manera? Las matemáticas resuelven el misterio.",
+    "url": "https://www.snexplores.org/article/how-objects-shatter-math-mystery",
+    "date": "2026-03-13",
+    "source": "Science News Explores",
     "published": "2026-03-13T00:00:00.000Z"
   },
   {
@@ -19703,8 +19791,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Hyperspectral technology and machine learning models to estimate the fruit quality parameters of mango and strawberry crops",
-    "title_es": "Corrección: Tecnología hiperespectral y modelos de aprendizaje automático para estimar los parámetros de calidad de la fruta en cultivos de mango y fresa.",
+    "title": "Correction: Temporal phenotyping of neutrophils in post-cardiac arrest syndrome and extracorporeal membrane oxygenation-assisted resuscitation: A pilot study",
+    "title_es": "Corrección: fenotipado temporal de neutrófilos en el síndrome posparo cardíaco y reanimación asistida por oxigenación por membrana extracorpórea: un estudio piloto",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -53569,6 +53657,14 @@
     "title": "Toolondo Totality Trails",
     "title_es": "Toolondo Totality Trails",
     "url": "https://apod.nasa.gov/apod/image/2603/jason_perry_totality_trail_lake_toolondo_australia800.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A Year for K2-315b",
+    "title_es": "A Year for K2-315b",
+    "url": "https://apod.nasa.gov/apod/image/2603/mit-pi-planet-01-press1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
