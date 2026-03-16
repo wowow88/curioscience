@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring",
+    "title_es": "A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring",
+    "url": "https://arxiv.org/abs/2603.12268",
+    "published": "2026-03-16T04:00:00.000Z",
+    "date": "2026-03-16",
+    "source": "arXiv"
+  },
+  {
     "title": "The imminent collapse of the Great Salt Lake",
     "title_es": "The imminent collapse of the Great Salt Lake",
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg4335",
@@ -72,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scared of spiders? Scientists say the real nightmare is losing them",
-    "title_es": "Scared of spiders? Scientists say the real nightmare is losing them",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260314030512.htm",
-    "published": "2026-03-15T00:37:58.000Z",
+    "title": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
+    "title_es": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260315004414.htm",
+    "published": "2026-03-15T04:44:14.000Z",
     "date": "2026-03-15",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Bird losses are accelerating across North America, particularly in farming regions where agriculture is most intensive",
-    "title_es": "Bird losses are accelerating across North America, particularly in farming regions where agriculture is most intensive",
-    "url": "https://phys.org/news/2026-03-bird-losses-north-america-farming.html",
-    "published": "2026-03-15T00:00:01.000Z",
-    "date": "2026-03-15",
+    "title": "Archaeologists untangle how Bronze Age textiles were made",
+    "title_es": "Archaeologists untangle how Bronze Age textiles were made",
+    "url": "https://phys.org/news/2026-03-archaeologists-untangle-bronze-age-textiles.html",
+    "published": "2026-03-16T00:00:01.000Z",
+    "date": "2026-03-16",
     "source": "Phys.org (Latest)"
   },
   {
@@ -136,12 +144,20 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "A Year for K2-315b",
-    "title_es": "A Year for K2-315b",
-    "url": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg",
+    "title": "NGC 1566: The Spanish Dancer Galaxy",
+    "title_es": "NGC 1566: The Spanish Dancer Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-22.8969&long=103.9518",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Crew-5",

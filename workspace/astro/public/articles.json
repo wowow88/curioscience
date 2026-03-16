@@ -1,5 +1,37 @@
 [
   {
+    "title": "A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring",
+    "title_es": "A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring",
+    "url": "https://arxiv.org/abs/2603.12268",
+    "published": "2026-03-16T04:00:00.000Z",
+    "date": "2026-03-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Cells can sense 10x farther than expected and it may explain cancer spread",
+    "title_es": "Las células pueden detectar 10 veces más lejos de lo esperado y esto puede explicar la propagación del cáncer",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260315004351.htm",
+    "date": "2026-03-16",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "title": "Archaeologists untangle how Bronze Age textiles were made",
+    "title_es": "Los arqueólogos desentrañan cómo se fabricaban los textiles de la Edad del Bronce",
+    "url": "https://phys.org/news/2026-03-archaeologists-untangle-bronze-age-textiles.html",
+    "date": "2026-03-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "title": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
+    "title_es": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260315004414.htm",
+    "published": "2026-03-15T04:44:14.000Z",
+    "date": "2026-03-15",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Scared of spiders? Scientists say the real nightmare is losing them",
     "title_es": "¿Miedo a las arañas? Los científicos dicen que la verdadera pesadilla es perderlos",
     "url": "https://www.sciencedaily.com/releases/2026/03/260314030512.htm",
@@ -149,6 +181,14 @@
     "url": "https://www.snexplores.org/article/how-objects-shatter-math-mystery",
     "date": "2026-03-13",
     "source": "Science News Explores",
+    "published": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
+    "title_es": "PhysMoDPO: movimiento humanoide físicamente plausible con optimización de preferencias",
+    "url": "http://arxiv.org/abs/2603.13228v1",
+    "date": "2026-03-13",
+    "source": "arXiv",
     "published": "2026-03-13T00:00:00.000Z"
   },
   {
@@ -53689,6 +53729,14 @@
     "title": "A Year for K2-315b",
     "title_es": "A Year for K2-315b",
     "url": "https://apod.nasa.gov/apod/image/2603/mit-pi-planet-01-press1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 1566: The Spanish Dancer Galaxy",
+    "title_es": "NGC 1566: The Spanish Dancer Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2603/spanishdancer_hubble_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
