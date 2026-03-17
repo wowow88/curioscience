@@ -1,5 +1,26 @@
 [
   {
+    "title": "A Bit of Gray on an Emerald Isle",
+    "title_es": "Un poco de gris en una isla esmeralda",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
+    "date": "2026-03-17",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A strange twist in the universe’s oldest light may be bigger than we thought",
+    "title_es": "Un extraño giro en la luz más antigua del universo puede ser mayor de lo que pensábamos",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260315225141.htm",
+    "date": "2026-03-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Dinos hatched eggs less efficiently than modern birds, researchers show",
+    "title_es": "Los dinosaurios eclosionaron huevos de manera menos eficiente que las aves modernas, según muestran los investigadores",
+    "url": "https://phys.org/news/2026-03-dinos-hatched-eggs-efficiently-modern.html",
+    "date": "2026-03-17",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Cells can sense 10x farther than expected and it may explain cancer spread",
     "title_es": "Las células pueden detectar 10 veces más lejos de lo esperado y esto puede explicar la propagación del cáncer",
     "url": "https://www.sciencedaily.com/releases/2026/03/260315004351.htm",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-03-archaeologists-untangle-bronze-age-textiles.html",
     "date": "2026-03-16",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Lack of genetic differentiation in yellowfin tuna has conservation implications in the Eastern Pacific Ocean",
+    "title_es": "Corrección: La falta de diferenciación genética en el atún aleta amarilla tiene implicaciones para la conservación en el Océano Pacífico Oriental",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-16",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Mixture-of-Depths Attention",
+    "title_es": "Atención de mezcla de profundidades",
+    "url": "http://arxiv.org/abs/2603.15619v1",
+    "date": "2026-03-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Direct conversion from alkenes to alkynes",
+    "title_es": "Conversión directa de alquenos a alquinos",
+    "url": "https://www.nature.com/articles/s41586-026-10372-3",
+    "date": "2026-03-16",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cosmologia-y-el-sol-protagonizan-la-proxima-sesion-de-del-cielo-la-tesis-el-jueves-19-de-marzo-en-el\" hreflang=\"es\">La cosmología y el Sol protagonizan la próxima sesión de “Del Cielo a la Tesis” el jueves 19 de marzo en el MCC</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-cosmologia-y-el-sol-protagonizan-la-proxima-sesion-de-del-cielo-la-tesis-el-jueves-19-de-marzo-en-el\" hreflang=\"es\">La cosmología y el Sol protagonizan la próxima sesión de “Del Cielo a la Tesis” el jueves 19 de marzo en el MCC</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-cosmologia-y-el-sol-protagonizan-la-proxima-sesion-de-del-cielo-la-tesis-el-jueves-19-de-marzo-en-el",
+    "date": "2026-03-16",
+    "source": "IAC"
+  },
+  {
+    "title": "Smartwatch data can be used to assess early diabetes risk",
+    "title_es": "Los datos de los relojes inteligentes se pueden utilizar para evaluar el riesgo temprano de diabetes",
+    "url": "https://www.sciencenews.org/article/smartwatch-data-early-diabetes-risk",
+    "date": "2026-03-16",
+    "source": "Science News"
+  },
+  {
+    "title": "The sea surface covered by seaweed is now as big as South America",
+    "title_es": "La superficie del mar cubierta de algas es ahora tan grande como América del Sur",
+    "url": "https://www.snexplores.org/article/growing-seaweed-blooms-ocean-surface",
+    "date": "2026-03-16",
+    "source": "Science News Explores"
   },
   {
     "title": "Scared of spiders? Scientists say the real nightmare is losing them",
@@ -68,13 +131,6 @@
     "url": "https://phys.org/news/2026-03-alpine-ice-cores-medieval-volcanoes.html",
     "date": "2026-03-13",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Temporal phenotyping of neutrophils in post-cardiac arrest syndrome and extracorporeal membrane oxygenation-assisted resuscitation: A pilot study",
-    "title_es": "Corrección: fenotipado temporal de neutrófilos en el síndrome posparo cardíaco y reanimación asistida por oxigenación por membrana extracorpórea: un estudio piloto",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-13",
-    "source": "PLOS ONE"
   },
   {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-educado-celebra-su-segunda-reunion-anual-en-heidelberg-para-impulsar-la-innovacion\" hreflang=\"es\">El proyecto europeo EDUCADO celebra su Segunda Reunión Anual en Heidelberg para impulsar la innovación en astrofísica</a>",
@@ -253,7 +309,7 @@
   },
   {
     "title": "Accelerator Report: The 2026 run will be short but intense",
-    "title_es": "Informe del Acelerador: El recorrido hasta 2026 será corto pero intenso",
+    "title_es": "Informe del Acelerador: La carrera hasta 2026 será corta pero intensa",
     "url": "https://home.cern/news/news/accelerators/accelerator-report-2026-run-will-be-short-intense",
     "date": "2026-03-11",
     "source": "CERN News"
