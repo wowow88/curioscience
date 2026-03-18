@@ -1,5 +1,40 @@
 [
   {
+    "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
+    "title_es": "Toc toc, no hay nadie. Un estudio encuentra que los chistes de los científicos en su mayoría fracasan",
+    "url": "https://www.nature.com/articles/d41586-026-00854-9",
+    "date": "2026-03-18",
+    "source": "Nature"
+  },
+  {
+    "title": "Wave of Dust Rolls Through Texas",
+    "title_es": "Ola de polvo recorre Texas",
+    "url": "https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/",
+    "date": "2026-03-18",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Platypus fur has a surprising feature seen only in bird feathers",
+    "title_es": "El pelaje del ornitorrinco tiene una característica sorprendente que sólo se ve en las plumas de las aves.",
+    "url": "https://www.sciencenews.org/article/platypus-fur-hollow-like-bird-feather",
+    "date": "2026-03-18",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists just discovered bull sharks have friends",
+    "title_es": "Los científicos acaban de descubrir que los tiburones toro tienen amigos",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260317064436.htm",
+    "date": "2026-03-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "A 'consortium' of bacteria cooperates to eat phthalate plasticizers that single microbes can't stomach",
+    "title_es": "Un 'consorcio' de bacterias coopera para comer plastificantes de ftalato que los microbios por sí solos no pueden digerir",
+    "url": "https://phys.org/news/2026-03-consortium-bacteria-cooperates-phthalate-plasticizers.html",
+    "date": "2026-03-18",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Bit of Gray on an Emerald Isle",
     "title_es": "Un poco de gris en una isla esmeralda",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
@@ -21,6 +56,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Neural tube defects: Sex ratio changes after fortification with folic acid",
+    "title_es": "Corrección: Defectos del tubo neural: cambios en la proporción de sexos después de la fortificación con ácido fólico",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-17",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Demystifing Video Reasoning",
+    "title_es": "Razonamiento en vídeo desmitificador",
+    "url": "http://arxiv.org/abs/2603.16870v1",
+    "date": "2026-03-17",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-invita-los-centros-educativos-unirse-al-equal-day-2026-por-la-paz-y-la-igualdad\" hreflang=\"es\">El IAC invita a los centros educativos a unirse al \"Equal Day 2026\" por la paz y la igualdad</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-invita-los-centros-educativos-unirse-al-equal-day-2026-por-la-paz-y-la-igualdad\" hreflang=\"es\">El IAC invita a los centros educativos a unirse al \"Equal Day 2026\" por la paz y la igualdad</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-invita-los-centros-educativos-unirse-al-equal-day-2026-por-la-paz-y-la-igualdad",
+    "date": "2026-03-17",
+    "source": "IAC"
+  },
+  {
+    "title": "A bonobo’s imaginary tea party hints that apes can pretend",
+    "title_es": "La fiesta de té imaginaria de un bonobo insinúa que los simios pueden fingir",
+    "url": "https://www.snexplores.org/article/kanzi-bonobo-play-pretend",
+    "date": "2026-03-17",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Cells can sense 10x farther than expected and it may explain cancer spread",
     "title_es": "Las células pueden detectar 10 veces más lejos de lo esperado y esto puede explicar la propagación del cáncer",
     "url": "https://www.sciencedaily.com/releases/2026/03/260315004351.htm",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-03-archaeologists-untangle-bronze-age-textiles.html",
     "date": "2026-03-16",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Lack of genetic differentiation in yellowfin tuna has conservation implications in the Eastern Pacific Ocean",
-    "title_es": "Corrección: La falta de diferenciación genética en el atún aleta amarilla tiene implicaciones para la conservación en el Océano Pacífico Oriental",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-16",
-    "source": "PLOS ONE"
   },
   {
     "title": "Mixture-of-Depths Attention",
@@ -75,6 +131,13 @@
     "url": "https://www.snexplores.org/article/growing-seaweed-blooms-ocean-surface",
     "date": "2026-03-16",
     "source": "Science News Explores"
+  },
+  {
+    "title": "LHCb Collaboration discovers new proton-like particle",
+    "title_es": "La colaboración LHCb descubre una nueva partícula similar a un protón",
+    "url": "https://home.cern/news/news/physics/lhcb-collaboration-discovers-new-proton-particle",
+    "date": "2026-03-16",
+    "source": "CERN News"
   },
   {
     "title": "Scared of spiders? Scientists say the real nightmare is losing them",
