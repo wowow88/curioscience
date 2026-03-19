@@ -1,5 +1,19 @@
 [
   {
+    "title": "Australia’s “Red Centre” Turns Green",
+    "title_es": "El “Centro Rojo” de Australia se vuelve verde",
+    "url": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
+    "date": "2026-03-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Changing shower and toilet habits could help close England's five billion-liter water gap, research finds",
+    "title_es": "Cambiar los hábitos de ducha e inodoro podría ayudar a cerrar la brecha de agua de cinco mil millones de litros en Inglaterra, según una investigación",
+    "url": "https://phys.org/news/2026-03-shower-toilet-habits-england-billion.html",
+    "date": "2026-03-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
     "title_es": "Toc toc, no hay nadie. Un estudio encuentra que los chistes de los científicos en su mayoría fracasan",
     "url": "https://www.nature.com/articles/d41586-026-00854-9",
@@ -35,6 +49,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Preparation and application of Taq DNA polymerase monoclonal antibody guided by structural domain analysis",
+    "title_es": "Preparación y aplicación del anticuerpo monoclonal Taq ADN polimerasa guiada por análisis de dominio estructural",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-18",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+    "title_es": "Puntuación unificada de tokens espacio-temporales para VLM de vídeo eficientes",
+    "url": "http://arxiv.org/abs/2603.18004v1",
+    "date": "2026-03-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
+    "title_es": "Corrección del autor: Respuesta autoinmune a la proteína C9orf72 en la esclerosis lateral amiotrófica",
+    "url": "https://www.nature.com/articles/s41586-026-10388-9",
+    "date": "2026-03-18",
+    "source": "Nature"
+  },
+  {
+    "title": "La Fundación “la Caixa” otorga una beca a un investigador del CNIC",
+    "title_es": "La Fundación “la Caixa” otorga una beca a un investigador del CNIC",
+    "url": "https://www.cnic.es/es/noticias/fundacion-caixa-otorga-beca-un-investigador-cnic",
+    "date": "2026-03-18",
+    "source": "CNIC"
+  },
+  {
+    "title": "El CNIO en la feria ‘Madrid es Ciencia’: tres días para transmitir el entusiasmo por investigar",
+    "title_es": "El CNIO en la feria ‘Madrid es Ciencia’: tres días para transmitir el entusiasmo por investigar",
+    "url": "https://www.cnio.es/noticias/el-cnio-en-la-feria-madrid-es-ciencia-tres-dias-para-transmitir-el-entusiasmo-por-investigar/",
+    "date": "2026-03-18",
+    "source": "CNIO"
+  },
+  {
+    "title": "A static electricity mystery comes to the surface",
+    "title_es": "Un misterio sobre la electricidad estática sale a la superficie",
+    "url": "https://www.sciencenews.org/article/static-electricity-mystery-to-surface",
+    "date": "2026-03-18",
+    "source": "Science News"
+  },
+  {
+    "title": "This engineer designed a device to make farm work easier",
+    "title_es": "Este ingeniero diseñó un dispositivo para facilitar el trabajo agrícola",
+    "url": "https://www.snexplores.org/article/engineer-fruit-picking-farm-device",
+    "date": "2026-03-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "These strange pink rocks just revealed a hidden giant beneath Antarctica",
+    "title_es": "Estas extrañas rocas rosadas acaban de revelar un gigante escondido debajo de la Antártida",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260318033126.htm",
+    "date": "2026-03-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "A Bit of Gray on an Emerald Isle",
     "title_es": "Un poco de gris en una isla esmeralda",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
@@ -54,13 +124,6 @@
     "url": "https://phys.org/news/2026-03-dinos-hatched-eggs-efficiently-modern.html",
     "date": "2026-03-17",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Neural tube defects: Sex ratio changes after fortification with folic acid",
-    "title_es": "Corrección: Defectos del tubo neural: cambios en la proporción de sexos después de la fortificación con ácido fólico",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-17",
-    "source": "PLOS ONE"
   },
   {
     "title": "Demystifing Video Reasoning",
