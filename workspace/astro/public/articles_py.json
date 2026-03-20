@@ -1,5 +1,33 @@
 [
   {
+    "title": "Chemical pollutants are rife across the world’s oceans",
+    "title_es": "Los contaminantes químicos abundan en los océanos del mundo",
+    "url": "https://www.nature.com/articles/d41586-026-00850-z",
+    "date": "2026-03-20",
+    "source": "Nature"
+  },
+  {
+    "title": "Restless Kīlauea Launches Lava and Ash",
+    "title_es": "El inquieto Kīlauea lanza lava y ceniza",
+    "url": "https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/",
+    "date": "2026-03-20",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "What happens after Ozempic shocked researchers",
+    "title_es": "¿Qué sucede después de que Ozempic sorprendiera a los investigadores?",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260319044648.htm",
+    "date": "2026-03-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Mind over metal: Staying wary of metal-related toxicities for pets",
+    "title_es": "Mente sobre el metal: tener cuidado con las toxicidades relacionadas con los metales para las mascotas",
+    "url": "https://phys.org/news/2026-03-mind-metal-staying-wary-toxicities.html",
+    "date": "2026-03-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Australia’s “Red Centre” Turns Green",
     "title_es": "El “Centro Rojo” de Australia se vuelve verde",
     "url": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
@@ -12,6 +40,62 @@
     "url": "https://phys.org/news/2026-03-shower-toilet-habits-england-billion.html",
     "date": "2026-03-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Optimized real-time path planning for micro UAVs in dynamic environments aided by reciprocal velocity obstacle algorithm",
+    "title_es": "Corrección: planificación de ruta optimizada en tiempo real para micro UAV en entornos dinámicos con la ayuda de un algoritmo de obstáculos de velocidad recíproca",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-19",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+    "title_es": "NavTrust: Evaluación comparativa de la confiabilidad para la navegación incorporada",
+    "url": "http://arxiv.org/abs/2603.19229v1",
+    "date": "2026-03-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Self-serving “tweaks” hurt science",
+    "title_es": "Los “retoques” interesados ​​perjudican a la ciencia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2215",
+    "date": "2026-03-19",
+    "source": "Science.org"
+  },
+  {
+    "title": "Researcher Annalaura Mastrangelo receives the 2026 Young Investigator Award in the Basic Science category",
+    "title_es": "Researcher Annalaura Mastrangelo receives the 2026 Young Investigator Award in the Basic Science category",
+    "url": "https://www.cnic.es/es/node/241029",
+    "date": "2026-03-19",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/las-galaxias-enanas-clave-para-entender-los-limites-del-modelo-del-universo\" hreflang=\"es\">Las galaxias enanas, clave para entender los límites del modelo del Universo</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/las-galaxias-enanas-clave-para-entender-los-limites-del-modelo-del-universo\" hreflang=\"es\">Las galaxias enanas, clave para entender los límites del modelo del Universo</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/las-galaxias-enanas-clave-para-entender-los-limites-del-modelo-del-universo",
+    "date": "2026-03-19",
+    "source": "IAC"
+  },
+  {
+    "title": "ATLAS sets strong limits on supersymmetry",
+    "title_es": "ATLAS establece fuertes límites a la supersimetría",
+    "url": "https://home.cern/news/news/physics/atlas-sets-strong-limits-supersymmetry",
+    "date": "2026-03-19",
+    "source": "CERN News"
+  },
+  {
+    "title": "Earth’s continental plates were moving 3.48 billion years ago",
+    "title_es": "Las placas continentales de la Tierra se movían hace 3.480 millones de años",
+    "url": "https://www.sciencenews.org/article/earth-tectonic-plates-earliest-evidence",
+    "date": "2026-03-19",
+    "source": "Science News"
+  },
+  {
+    "title": "Large numbers of underage kids are on social media, study finds",
+    "title_es": "Un gran número de niños menores de edad están en las redes sociales, según un estudio",
+    "url": "https://www.snexplores.org/article/underage-kids-social-media-use",
+    "date": "2026-03-19",
+    "source": "Science News Explores"
   },
   {
     "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
@@ -47,13 +131,6 @@
     "url": "https://phys.org/news/2026-03-consortium-bacteria-cooperates-phthalate-plasticizers.html",
     "date": "2026-03-18",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Preparation and application of Taq DNA polymerase monoclonal antibody guided by structural domain analysis",
-    "title_es": "Preparación y aplicación del anticuerpo monoclonal Taq ADN polimerasa guiada por análisis de dominio estructural",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-18",
-    "source": "PLOS ONE"
   },
   {
     "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
