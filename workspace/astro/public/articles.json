@@ -1,5 +1,29 @@
 [
   {
+    "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
+    "title_es": "Los científicos convierten las bacterias probióticas en asesinas de cáncer que buscan tumores",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260321004445.htm",
+    "date": "2026-03-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "title": "Addressing the Achilles' heel of marine protected areas",
+    "title_es": "Abordar el talón de Aquiles de las áreas marinas protegidas",
+    "url": "https://phys.org/news/2026-03-achilles-heel-marine-areas.html",
+    "date": "2026-03-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "title": "The Problem With Promoting ‘Gold Standard Science’",
+    "title_es": "The Problem With Promoting ‘Gold Standard Science’",
+    "url": "https://undark.org/2026/03/20/opinion-gold-standard-science/",
+    "published": "2026-03-20T09:00:00.000Z",
+    "date": "2026-03-20",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Negative Sampling Techniques in Information Retrieval: A Survey",
     "title_es": "Negative Sampling Techniques in Information Retrieval: A Survey",
     "url": "https://arxiv.org/abs/2603.18005",
@@ -45,6 +69,54 @@
     "url": "https://phys.org/news/2026-03-mind-metal-staying-wary-toxicities.html",
     "date": "2026-03-20",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
+    "title_es": "Corrección del autor: un relé de fosfatasa PP1-PP2A controla la progresión mitótica",
+    "url": "https://www.nature.com/articles/s41586-026-10411-z",
+    "date": "2026-03-20",
+    "source": "Nature",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "Minna Kaikkonen-Määttä: \"La investigación es una carrera única porque puedes vivir de tu curiosidad y contribuir a generar nuevo conocimiento que algún día pueda beneficiar a la sociedad”",
+    "title_es": "Minna Kaikkonen-Määttä: \"La investigación es una carrera única porque puedes vivir de tu curiosidad y contribuir a generar nuevo conocimiento que algún día pueda beneficiar a la sociedad”",
+    "url": "https://www.cnic.es/es/noticias/minna-kaikkonen-maatta-investigacion-carrera-unica-porque-puedes-vivir-tu-curiosidad",
+    "date": "2026-03-20",
+    "source": "CNIC",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "Más cerca de descifrar TOR, la máquina molecular que nos hace crecer a humanos y levaduras",
+    "title_es": "Más cerca de descifrar TOR, la máquina molecular que nos hace crecer a humanos y levaduras",
+    "url": "https://www.cnio.es/noticias/mas-cerca-de-descifrar-tor-la-maquina-molecular-que-nos-hace-crecer-a-humanos-y-levaduras/",
+    "date": "2026-03-20",
+    "source": "CNIO",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
+    "title_es": "El avión supersónico experimental X-59 de la NASA realiza su segundo vuelo",
+    "url": "https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/",
+    "date": "2026-03-20",
+    "source": "NASA (Top News)",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "Amid vaccine policy whiplash, here’s how a pediatrician talks to families",
+    "title_es": "En medio del revuelo de la política de vacunas, así es como un pediatra habla con las familias",
+    "url": "https://www.sciencenews.org/article/vaccine-policy-pediatric-advice-trump",
+    "date": "2026-03-20",
+    "source": "Science News",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "60,000-year-old poison arrowheads show early humans’ hunting tactics",
+    "title_es": "Puntas de flecha envenenadas de 60.000 años de antigüedad muestran las tácticas de caza de los primeros humanos",
+    "url": "https://www.snexplores.org/article/oldest-poison-arrowheads",
+    "date": "2026-03-20",
+    "source": "Science News Explores",
     "published": "2026-03-20T00:00:00.000Z"
   },
   {
@@ -2238,6 +2310,14 @@
     "published": "2026-02-20T18:00:54.000Z",
     "date": "2026-02-20",
     "source": "New Scientist"
+  },
+  {
+    "title": "ALICE sees new sign of primordial plasma in proton collisions",
+    "title_es": "ALICE sees new sign of primordial plasma in proton collisions",
+    "url": "https://home.cern/news/news/physics/alice-sees-new-sign-primordial-plasma-proton-collisions",
+    "published": "2026-02-20T15:43:27.000Z",
+    "date": "2026-02-20",
+    "source": "CERN News"
   },
   {
     "title": "Book Review: The Societal Impact of Genetic Research",
@@ -20303,8 +20383,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Optimized real-time path planning for micro UAVs in dynamic environments aided by reciprocal velocity obstacle algorithm",
-    "title_es": "Corrección: planificación de ruta optimizada en tiempo real para micro UAV en entornos dinámicos con la ayuda de un algoritmo de obstáculos de velocidad recíproca",
+    "title": "Intrinsic over extrinsic: Species identity shapes spatial and interannual Mg/Ca patterns in Arctic marine calcifiers",
+    "title_es": "Intrínseco sobre extrínseco: la identidad de las especies da forma a los patrones espaciales e interanuales de Mg/Ca en los calcificadores marinos del Ártico",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -54241,6 +54321,14 @@
     "title": "Spring Equinox at Teide Observatory",
     "title_es": "Spring Equinox at Teide Observatory",
     "url": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Galaxies in the River: NGC 1300 and NGC 1297",
+    "title_es": "Galaxies in the River: NGC 1300 and NGC 1297",
+    "url": "https://apod.nasa.gov/apod/image/2603/ngc1300-lrgb_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

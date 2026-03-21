@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
+    "title_es": "Los científicos convierten las bacterias probióticas en asesinas de cáncer que buscan tumores",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260321004445.htm",
+    "date": "2026-03-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Addressing the Achilles' heel of marine protected areas",
+    "title_es": "Abordar el talón de Aquiles de las áreas marinas protegidas",
+    "url": "https://phys.org/news/2026-03-achilles-heel-marine-areas.html",
+    "date": "2026-03-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Chemical pollutants are rife across the world’s oceans",
     "title_es": "Los contaminantes químicos abundan en los océanos del mundo",
     "url": "https://www.nature.com/articles/d41586-026-00850-z",
@@ -28,6 +42,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Intrinsic over extrinsic: Species identity shapes spatial and interannual Mg/Ca patterns in Arctic marine calcifiers",
+    "title_es": "Intrínseco sobre extrínseco: la identidad de las especies da forma a los patrones espaciales e interanuales de Mg/Ca en los calcificadores marinos del Ártico",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-20",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
+    "title_es": "Corrección del autor: un relé de fosfatasa PP1-PP2A controla la progresión mitótica",
+    "url": "https://www.nature.com/articles/s41586-026-10411-z",
+    "date": "2026-03-20",
+    "source": "Nature"
+  },
+  {
+    "title": "Minna Kaikkonen-Määttä: \"La investigación es una carrera única porque puedes vivir de tu curiosidad y contribuir a generar nuevo conocimiento que algún día pueda beneficiar a la sociedad”",
+    "title_es": "Minna Kaikkonen-Määttä: \"La investigación es una carrera única porque puedes vivir de tu curiosidad y contribuir a generar nuevo conocimiento que algún día pueda beneficiar a la sociedad”",
+    "url": "https://www.cnic.es/es/noticias/minna-kaikkonen-maatta-investigacion-carrera-unica-porque-puedes-vivir-tu-curiosidad",
+    "date": "2026-03-20",
+    "source": "CNIC"
+  },
+  {
+    "title": "Más cerca de descifrar TOR, la máquina molecular que nos hace crecer a humanos y levaduras",
+    "title_es": "Más cerca de descifrar TOR, la máquina molecular que nos hace crecer a humanos y levaduras",
+    "url": "https://www.cnio.es/noticias/mas-cerca-de-descifrar-tor-la-maquina-molecular-que-nos-hace-crecer-a-humanos-y-levaduras/",
+    "date": "2026-03-20",
+    "source": "CNIO"
+  },
+  {
+    "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
+    "title_es": "El avión supersónico experimental X-59 de la NASA realiza su segundo vuelo",
+    "url": "https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/",
+    "date": "2026-03-20",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Amid vaccine policy whiplash, here’s how a pediatrician talks to families",
+    "title_es": "En medio del revuelo de la política de vacunas, así es como un pediatra habla con las familias",
+    "url": "https://www.sciencenews.org/article/vaccine-policy-pediatric-advice-trump",
+    "date": "2026-03-20",
+    "source": "Science News"
+  },
+  {
+    "title": "60,000-year-old poison arrowheads show early humans’ hunting tactics",
+    "title_es": "Puntas de flecha envenenadas de 60.000 años de antigüedad muestran las tácticas de caza de los primeros humanos",
+    "url": "https://www.snexplores.org/article/oldest-poison-arrowheads",
+    "date": "2026-03-20",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Australia’s “Red Centre” Turns Green",
     "title_es": "El “Centro Rojo” de Australia se vuelve verde",
     "url": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-03-shower-toilet-habits-england-billion.html",
     "date": "2026-03-19",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Optimized real-time path planning for micro UAVs in dynamic environments aided by reciprocal velocity obstacle algorithm",
-    "title_es": "Corrección: planificación de ruta optimizada en tiempo real para micro UAV en entornos dinámicos con la ayuda de un algoritmo de obstáculos de velocidad recíproca",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-19",
-    "source": "PLOS ONE"
   },
   {
     "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
