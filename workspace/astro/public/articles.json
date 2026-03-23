@@ -1,5 +1,61 @@
 [
   {
+    "title": "L-PRISMA: An Extension of PRISMA in the Era of Generative Artificial Intelligence (GenAI)",
+    "title_es": "L-PRISMA: An Extension of PRISMA in the Era of Generative Artificial Intelligence (GenAI)",
+    "url": "https://arxiv.org/abs/2603.19236",
+    "published": "2026-03-23T04:00:00.000Z",
+    "date": "2026-03-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "The world just lived through the 11 hottest years on record — what now?",
+    "title_es": "El mundo acaba de vivir los 11 años más calurosos registrados, ¿y ahora qué?",
+    "url": "https://www.nature.com/articles/d41586-026-00946-6",
+    "date": "2026-03-23",
+    "source": "Nature",
+    "published": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "title": "A Fault Line in Full Bloom",
+    "title_es": "Una línea de falla en pleno florecimiento",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/",
+    "date": "2026-03-23",
+    "source": "NASA (Top News)",
+    "published": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "title": "This floating time crystal breaks Newton’s third law of motion",
+    "title_es": "Este cristal del tiempo flotante rompe la tercera ley del movimiento de Newton",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260322020258.htm",
+    "date": "2026-03-23",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "title": "Neutrality can speed up and stabilize collective decisions, new study shows",
+    "title_es": "La neutralidad puede acelerar y estabilizar las decisiones colectivas, según muestra un nuevo estudio",
+    "url": "https://phys.org/news/2026-03-neutrality-stabilize-decisions.html",
+    "date": "2026-03-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "title": "Earth’s Lithosphere was Already Segmented and Mobile 3.5 Billion Years Ago",
+    "title_es": "Earth’s Lithosphere was Already Segmented and Mobile 3.5 Billion Years Ago",
+    "url": "https://www.sci.news/othersciences/geoscience/early-earths-lithosphere-14638.html",
+    "published": "2026-03-22T16:05:37.000Z",
+    "date": "2026-03-22",
+    "source": "Sci.News"
+  },
+  {
+    "title": "This 67,800-year-old handprint is the oldest art ever found",
+    "title_es": "This 67,800-year-old handprint is the oldest art ever found",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
+    "published": "2026-03-22T09:38:42.000Z",
+    "date": "2026-03-22",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
     "title_es": "El ADN antiguo revela un cambio agrícola que llevó a una sociedad al borde del abismo",
     "url": "https://www.sciencedaily.com/releases/2026/03/260321012642.htm",
@@ -13,6 +69,14 @@
     "url": "https://phys.org/news/2026-03-gender-conformity-young-boys-girls.html",
     "date": "2026-03-22",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "title": "‘Madrid es Ciencia 2026’: una feria especial, con la generosidad de siempre",
+    "title_es": "‘Madrid es Ciencia 2026’: una feria especial, con la generosidad de siempre",
+    "url": "https://www.cnio.es/noticias/madrid-es-ciencia-2026-una-feria-especial-con-la-generosidad-de-siempre/",
+    "date": "2026-03-22",
+    "source": "CNIO",
     "published": "2026-03-22T00:00:00.000Z"
   },
   {
@@ -128,7 +192,7 @@
     "published": "2026-03-20T00:00:00.000Z"
   },
   {
-    "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
+    "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
     "title_es": "El avión supersónico experimental X-59 de la NASA realiza su segundo vuelo",
     "url": "https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/",
     "date": "2026-03-20",
@@ -149,6 +213,14 @@
     "url": "https://www.snexplores.org/article/oldest-poison-arrowheads",
     "date": "2026-03-20",
     "source": "Science News Explores",
+    "published": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+    "title_es": "De máscaras a píxeles y significado: una nueva taxonomía, punto de referencia y métricas para la manipulación de imágenes de VLM",
+    "url": "http://arxiv.org/abs/2603.20193v1",
+    "date": "2026-03-20",
+    "source": "arXiv",
     "published": "2026-03-20T00:00:00.000Z"
   },
   {
@@ -268,6 +340,14 @@
     "title_es": "Fluorescent ruby-like gems have been found on Mars for the first time",
     "url": "https://www.newscientist.com/article/2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time/",
     "published": "2026-03-18T19:00:06.000Z",
+    "date": "2026-03-18",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The neuroscientist who wants us to be nicer to psychopaths",
+    "title_es": "The neuroscientist who wants us to be nicer to psychopaths",
+    "url": "https://www.newscientist.com/article/2517138-the-neuroscientist-who-wants-us-to-be-nicer-to-psychopaths/",
+    "published": "2026-03-18T16:00:08.000Z",
     "date": "2026-03-18",
     "source": "New Scientist"
   },
@@ -54385,6 +54465,14 @@
     "title": "Leaving Earth",
     "title_es": "Leaving Earth",
     "url": "https://apod.nasa.gov/apod/image/2603/departingearth_messenger.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Light Pillars and Orion over Mohe",
+    "title_es": "Light Pillars and Orion over Mohe",
+    "url": "https://apod.nasa.gov/apod/image/2603/lightpillarsmohe_dai_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

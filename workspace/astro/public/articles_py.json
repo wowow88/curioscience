@@ -1,5 +1,33 @@
 [
   {
+    "title": "The world just lived through the 11 hottest years on record — what now?",
+    "title_es": "El mundo acaba de vivir los 11 años más calurosos registrados, ¿y ahora qué?",
+    "url": "https://www.nature.com/articles/d41586-026-00946-6",
+    "date": "2026-03-23",
+    "source": "Nature"
+  },
+  {
+    "title": "A Fault Line in Full Bloom",
+    "title_es": "Una línea de falla en pleno florecimiento",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/",
+    "date": "2026-03-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This floating time crystal breaks Newton’s third law of motion",
+    "title_es": "Este cristal del tiempo flotante rompe la tercera ley del movimiento de Newton",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260322020258.htm",
+    "date": "2026-03-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Neutrality can speed up and stabilize collective decisions, new study shows",
+    "title_es": "La neutralidad puede acelerar y estabilizar las decisiones colectivas, según muestra un nuevo estudio",
+    "url": "https://phys.org/news/2026-03-neutrality-stabilize-decisions.html",
+    "date": "2026-03-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
     "title_es": "El ADN antiguo revela un cambio agrícola que llevó a una sociedad al borde del abismo",
     "url": "https://www.sciencedaily.com/releases/2026/03/260321012642.htm",
@@ -12,6 +40,13 @@
     "url": "https://phys.org/news/2026-03-gender-conformity-young-boys-girls.html",
     "date": "2026-03-22",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "‘Madrid es Ciencia 2026’: una feria especial, con la generosidad de siempre",
+    "title_es": "‘Madrid es Ciencia 2026’: una feria especial, con la generosidad de siempre",
+    "url": "https://www.cnio.es/noticias/madrid-es-ciencia-2026-una-feria-especial-con-la-generosidad-de-siempre/",
+    "date": "2026-03-22",
+    "source": "CNIO"
   },
   {
     "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
@@ -110,6 +145,13 @@
     "url": "https://www.snexplores.org/article/oldest-poison-arrowheads",
     "date": "2026-03-20",
     "source": "Science News Explores"
+  },
+  {
+    "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+    "title_es": "De máscaras a píxeles y significado: una nueva taxonomía, punto de referencia y métricas para la manipulación de imágenes de VLM",
+    "url": "http://arxiv.org/abs/2603.20193v1",
+    "date": "2026-03-20",
+    "source": "arXiv"
   },
   {
     "title": "Australia’s “Red Centre” Turns Green",
