@@ -1,5 +1,26 @@
 [
   {
+    "title": "Kona Storms Flood Oʻahu",
+    "title_es": "Su abrigo Storms Flood",
+    "url": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
+    "date": "2026-03-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Honey bees dance better with an audience",
+    "title_es": "Las abejas bailan mejor con el público",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260324230105.htm",
+    "date": "2026-03-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "The world's great fish migrations are collapsing. That's a problem for millions of people",
+    "title_es": "Las grandes migraciones de peces del mundo están colapsando. Ese es un problema para millones de personas.",
+    "url": "https://phys.org/news/2026-03-world-great-fish-migrations-collapsing.html",
+    "date": "2026-03-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Tropical Cyclone Narelle Crosses Australia",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/",
@@ -19,6 +40,41 @@
     "url": "https://phys.org/news/2026-03-agricultural-soils-exposed-controversial-weedkiller.html",
     "date": "2026-03-24",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Incidence of critical events in the post-anesthesia care unit at a resource-limited setting in Debre Markos, Northwest Ethiopia",
+    "title_es": "Incidencia de eventos críticos en la unidad de cuidados postanestésicos en un entorno de recursos limitados en Debre Markos, noroeste de Etiopía",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-24",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
+    "title_es": "MedObvious: Exponiendo la paradoja médica de Moravec en VLM mediante triaje clínico",
+    "url": "http://arxiv.org/abs/2603.23501v1",
+    "date": "2026-03-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: 7-Dehydrocholesterol is an endogenous suppressor of ferroptosis",
+    "title_es": "Corrección del autor: el 7-deshidrocolesterol es un supresor endógeno de la ferroptosis",
+    "url": "https://www.nature.com/articles/s41586-026-10403-z",
+    "date": "2026-03-24",
+    "source": "Nature"
+  },
+  {
+    "title": "Antimatter traveled by truck for the first time",
+    "title_es": "La antimateria viajó por primera vez en camión",
+    "url": "https://www.sciencenews.org/article/antimatter-traveled-truck-delivery-cern",
+    "date": "2026-03-24",
+    "source": "Science News"
+  },
+  {
+    "title": "Ancient pottery shows the earliest evidence of humans doing math",
+    "title_es": "La cerámica antigua muestra la evidencia más temprana de que los humanos hacían matemáticas",
+    "url": "https://www.snexplores.org/article/ancient-pottery-earliest-math",
+    "date": "2026-03-24",
+    "source": "Science News Explores"
   },
   {
     "title": "The world just lived through the 11 hottest years on record — what now?",
@@ -47,13 +103,6 @@
     "url": "https://phys.org/news/2026-03-neutrality-stabilize-decisions.html",
     "date": "2026-03-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Transcriptional and functional characterization of terpene synthase genes of the aromatic plant <i>Plectranthus hadiensis</i>",
-    "title_es": "Caracterización transcripcional y funcional de genes de terpeno sintasa de la planta aromática <i>Plectranthus hadiensis</i>",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
@@ -89,6 +138,13 @@
     "url": "https://www.snexplores.org/article/scientists-say-cave-popcorn-definition-pronunciation",
     "date": "2026-03-23",
     "source": "Science News Explores"
+  },
+  {
+    "title": "BASE experiment at CERN succeeds in transporting antimatter",
+    "title_es": "El experimento BASE del CERN logra transportar antimateria",
+    "url": "https://home.cern/news/press-release/experiments/base-experiment-cern-succeeds-transporting-antimatter",
+    "date": "2026-03-23",
+    "source": "CERN Press"
   },
   {
     "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
