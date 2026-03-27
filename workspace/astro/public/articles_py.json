@@ -1,5 +1,33 @@
 [
   {
+    "title": "Huge lung-cancer screening campaign boosts early diagnosis",
+    "title_es": "Una enorme campaña de detección del cáncer de pulmón impulsa el diagnóstico precoz",
+    "url": "https://www.nature.com/articles/d41586-026-00954-6",
+    "date": "2026-03-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Satellite Spots a Spawn",
+    "title_es": "El satélite detecta un engendro",
+    "url": "https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/",
+    "date": "2026-03-27",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
+    "title_es": "Los científicos descubrieron los nutrientes que les faltaban a las abejas: las colonias se multiplicaron por 15",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
+    "date": "2026-03-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "From simulation to strategy: Climate modeling motivates action at the top",
+    "title_es": "De la simulación a la estrategia: la modelización climática motiva la acción en las altas esferas",
+    "url": "https://phys.org/news/2026-03-simulation-strategy-climate-action.html",
+    "date": "2026-03-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "History of ‘forever’ chemicals is written in Antarctic snow",
     "title_es": "La historia de los productos químicos \"para siempre\" está escrita en la nieve de la Antártida",
     "url": "https://www.nature.com/articles/d41586-026-00867-4",
@@ -28,6 +56,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Knowledge, attitudes and practices towards emergency contraceptive pill use among women of reproductive age in Lira District, Northern Uganda: A cross-sectional study",
+    "title_es": "Conocimientos, actitudes y prácticas hacia el uso de píldoras anticonceptivas de emergencia entre mujeres en edad reproductiva en el distrito de Lira, norte de Uganda: un estudio transversal",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-03-26",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Vega: Learning to Drive with Natural Language Instructions",
+    "title_es": "Vega: aprender a conducir con instrucciones en lenguaje natural",
+    "url": "http://arxiv.org/abs/2603.25741v1",
+    "date": "2026-03-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "When disease resists diagnosis",
+    "title_es": "Cuando la enfermedad se resiste al diagnóstico",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef7086",
+    "date": "2026-03-26",
+    "source": "Science.org"
+  },
+  {
+    "title": "Accelerator Report: HiLumi LHC beam reliability runs pave the way to the future",
+    "title_es": "Informe del acelerador: las pruebas de confiabilidad del haz del HiLumi LHC allanan el camino hacia el futuro",
+    "url": "https://home.cern/news/news/accelerators/accelerator-report-hilumi-lhc-beam-reliability-runs-pave-way-future",
+    "date": "2026-03-26",
+    "source": "CERN News"
+  },
+  {
+    "title": "Watch the first video of a sperm whale birth captured by scientists",
+    "title_es": "Mire el primer video del nacimiento de un cachalote captado por científicos",
+    "url": "https://www.sciencenews.org/article/first-video-sperm-whale-birth",
+    "date": "2026-03-26",
+    "source": "Science News"
+  },
+  {
+    "title": "Rockin’ farm fields suck up tons of CO2",
+    "title_es": "Los campos agrícolas rockeros absorben toneladas de CO2",
+    "url": "https://www.snexplores.org/article/rock-basalt-farm-fields-co2-climate",
+    "date": "2026-03-26",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Kona Storms Flood Oʻahu",
     "title_es": "Su abrigo Storms Flood",
     "url": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-03-world-great-fish-migrations-collapsing.html",
     "date": "2026-03-25",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Monitoring of Cd and GSH contents and <i>Bn-OASTL</i> expression in transgenic tobacco seedlings in response to Cd stress",
-    "title_es": "Corrección: Monitoreo de los contenidos de Cd y GSH y la expresión de <i>Bn-OASTL</i> en plántulas de tabaco transgénico en respuesta al estrés por Cd",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-25",
-    "source": "PLOS ONE"
   },
   {
     "title": "The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence",
