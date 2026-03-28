@@ -1,5 +1,29 @@
 [
   {
+    "title": "Scientists say we’ve been looking in the wrong place for human origins",
+    "title_es": "Los científicos dicen que hemos estado buscando el origen humano en el lugar equivocado",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
+    "date": "2026-03-28",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "title": "Why use living cells? Researchers are making chemicals with enzymes alone",
+    "title_es": "¿Por qué utilizar células vivas? Los investigadores están fabricando sustancias químicas sólo con enzimas",
+    "url": "https://phys.org/news/2026-03-cells-chemicals-enzymes.html",
+    "date": "2026-03-28",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "title": "Book Review: How Genetics Shapes Our Ideas About Vice and Blame",
+    "title_es": "Book Review: How Genetics Shapes Our Ideas About Vice and Blame",
+    "url": "https://undark.org/2026/03/27/book-review-original-sin/",
+    "published": "2026-03-27T07:19:00.000Z",
+    "date": "2026-03-27",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Model2Kernel: Model-Aware Symbolic Execution For Safe CUDA Kernels",
     "title_es": "Model2Kernel: Model-Aware Symbolic Execution For Safe CUDA Kernels",
     "url": "https://arxiv.org/abs/2603.24595",
@@ -45,6 +69,38 @@
     "url": "https://phys.org/news/2026-03-simulation-strategy-climate-action.html",
     "date": "2026-03-27",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-jose-eduardo-mendez-delgado-formado-en-el-iac-y-la-ull-galardonado-con-el-premio\" hreflang=\"es\">El astrofísico José Eduardo Méndez Delgado, formado en el IAC y la ULL, galardonado con el Premio Princesa de Girona Internacional 2026</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-jose-eduardo-mendez-delgado-formado-en-el-iac-y-la-ull-galardonado-con-el-premio\" hreflang=\"es\">El astrofísico José Eduardo Méndez Delgado, formado en el IAC y la ULL, galardonado con el Premio Princesa de Girona Internacional 2026</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-astrofisico-jose-eduardo-mendez-delgado-formado-en-el-iac-y-la-ull-galardonado-con-el-premio",
+    "date": "2026-03-27",
+    "source": "IAC",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "title": "I Am Artemis: Erik Richards",
+    "title_es": "Soy Artemisa: Erik Richards",
+    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/",
+    "date": "2026-03-27",
+    "source": "NASA (Top News)",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "title": "How snakes defy gravity to stand tall",
+    "title_es": "Cómo las serpientes desafían la gravedad para mantenerse erguidas",
+    "url": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
+    "date": "2026-03-27",
+    "source": "Science News",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: Which cells are the speediest?",
+    "title_es": "Analiza esto: ¿Qué celdas son las más rápidas?",
+    "url": "https://www.snexplores.org/article/speediest-cells-organism",
+    "date": "2026-03-27",
+    "source": "Science News Explores",
     "published": "2026-03-27T00:00:00.000Z"
   },
   {
@@ -356,6 +412,14 @@
     "title_es": "Genetic clues tell the story of Neanderthals' decline",
     "url": "https://www.newscientist.com/article/2520319-genetic-clues-tell-the-story-of-neanderthals-decline/",
     "published": "2026-03-23T19:00:32.000Z",
+    "date": "2026-03-23",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The simple questions cracking the hard problem of consciousness",
+    "title_es": "The simple questions cracking the hard problem of consciousness",
+    "url": "https://www.newscientist.com/article/2519288-the-simple-questions-cracking-the-hard-problem-of-consciousness/",
+    "published": "2026-03-23T16:00:19.000Z",
     "date": "2026-03-23",
     "source": "New Scientist"
   },
@@ -20919,8 +20983,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Knowledge, attitudes and practices towards emergency contraceptive pill use among women of reproductive age in Lira District, Northern Uganda: A cross-sectional study",
-    "title_es": "Conocimientos, actitudes y prácticas hacia el uso de píldoras anticonceptivas de emergencia entre mujeres en edad reproductiva en el distrito de Lira, norte de Uganda: un estudio transversal",
+    "title": "Prevalence and determinants of household solid waste management practice among residents of the city corporations of Dhaka, Bangladesh",
+    "title_es": "Prevalencia y determinantes de la práctica de gestión de residuos sólidos domésticos entre los residentes de las corporaciones de la ciudad de Dhaka, Bangladesh",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -54953,6 +55017,22 @@
     "title": "Hickson 44 in Leo",
     "title_es": "Hickson 44 in Leo",
     "url": "https://apod.nasa.gov/apod/image/2603/ngc3190-apod1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
+    "title_es": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
+    "url": "https://scipost.org/jrobustrep.4-rr1",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Robert Goddard and Nell",
+    "title_es": "Robert Goddard and Nell",
+    "url": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
