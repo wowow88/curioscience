@@ -72,18 +72,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists say we’ve been looking in the wrong place for human origins",
-    "title_es": "Scientists say we’ve been looking in the wrong place for human origins",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
-    "published": "2026-03-28T03:06:49.000Z",
+    "title": "Popular sugar substitute linked to brain damage and stroke risk",
+    "title_es": "Popular sugar substitute linked to brain damage and stroke risk",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260328065333.htm",
+    "published": "2026-03-28T11:01:23.000Z",
     "date": "2026-03-28",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Why use living cells? Researchers are making chemicals with enzymes alone",
-    "title_es": "Why use living cells? Researchers are making chemicals with enzymes alone",
-    "url": "https://phys.org/news/2026-03-cells-chemicals-enzymes.html",
-    "published": "2026-03-28T02:30:01.000Z",
+    "title": "Revealing the origin of polarity inversion in polymer semiconductors",
+    "title_es": "Revealing the origin of polarity inversion in polymer semiconductors",
+    "url": "https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html",
+    "published": "2026-03-28T23:30:03.000Z",
     "date": "2026-03-28",
     "source": "Phys.org (Latest)"
   },
@@ -96,20 +96,12 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "The simple questions cracking the hard problem of consciousness",
-    "title_es": "The simple questions cracking the hard problem of consciousness",
-    "url": "https://www.newscientist.com/article/2519288-the-simple-questions-cracking-the-hard-problem-of-consciousness/",
-    "published": "2026-03-23T16:00:19.000Z",
-    "date": "2026-03-23",
+    "title": "How working out like an astronaut can reduce back pain and slow ageing",
+    "title_es": "How working out like an astronaut can reduce back pain and slow ageing",
+    "url": "https://www.newscientist.com/article/2519666-how-working-out-like-an-astronaut-can-reduce-back-pain-and-slow-ageing/",
+    "published": "2026-03-25T16:00:33.000Z",
+    "date": "2026-03-25",
     "source": "New Scientist"
-  },
-  {
-    "title": "Doubling Down on Diamond",
-    "title_es": "Doubling Down on Diamond",
-    "url": "https://scipost.org/roadmap",
-    "published": "",
-    "date": "",
-    "source": "SciPost News"
   },
   {
     "title": "Vitamin D Shows Promise in Resetting Immune System in Inflammatory Bowel Disease",
@@ -128,17 +120,9 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
-    "title_es": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
-    "url": "https://scipost.org/jrobustrep.4-rr1",
-    "published": "",
-    "date": "",
-    "source": "SciPost Publications"
-  },
-  {
-    "title": "Robert Goddard and Nell",
-    "title_es": "Robert Goddard and Nell",
-    "url": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg",
+    "title": "A Message from Earth",
+    "title_es": "A Message from Earth",
+    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -146,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=11.3863&long=-127.4960",
+    "url": "https://www.latlong.net/c/?lat=9.0087&long=61.1659",
     "date": "",
     "published": "",
     "source": "ISS Position"
