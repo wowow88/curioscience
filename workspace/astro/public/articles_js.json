@@ -1,5 +1,13 @@
 [
   {
+    "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+    "title_es": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+    "url": "https://arxiv.org/abs/2603.25747",
+    "published": "2026-03-30T04:00:00.000Z",
+    "date": "2026-03-30",
+    "source": "arXiv"
+  },
+  {
     "title": "When disease resists diagnosis",
     "title_es": "When disease resists diagnosis",
     "url": "https://www.science.org/doi/abs/10.1126/science.aef7086",
@@ -72,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Popular sugar substitute linked to brain damage and stroke risk",
-    "title_es": "Popular sugar substitute linked to brain damage and stroke risk",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260328065333.htm",
-    "published": "2026-03-28T11:01:23.000Z",
-    "date": "2026-03-28",
+    "title": "Scientists shocked to find lab gloves may be skewing microplastics data",
+    "title_es": "Scientists shocked to find lab gloves may be skewing microplastics data",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260329222938.htm",
+    "published": "2026-03-30T03:25:07.000Z",
+    "date": "2026-03-30",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Revealing the origin of polarity inversion in polymer semiconductors",
-    "title_es": "Revealing the origin of polarity inversion in polymer semiconductors",
-    "url": "https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html",
-    "published": "2026-03-28T23:30:03.000Z",
-    "date": "2026-03-28",
+    "title": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
+    "title_es": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
+    "url": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
+    "published": "2026-03-30T00:00:01.000Z",
+    "date": "2026-03-30",
     "source": "Phys.org (Latest)"
   },
   {
@@ -104,25 +112,41 @@
     "source": "New Scientist"
   },
   {
-    "title": "Vitamin D Shows Promise in Resetting Immune System in Inflammatory Bowel Disease",
-    "title_es": "Vitamin D Shows Promise in Resetting Immune System in Inflammatory Bowel Disease",
-    "url": "https://www.sci.news/medicine/vitamin-d-inflammatory-bowel-disease-14652.html",
-    "published": "2026-03-27T00:14:39.000Z",
-    "date": "2026-03-27",
+    "title": "Doubling Down on Diamond",
+    "title_es": "Doubling Down on Diamond",
+    "url": "https://scipost.org/roadmap",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
+  },
+  {
+    "title": "Early Miocene Fossil Fills Gap in Ape Family Tree",
+    "title_es": "Early Miocene Fossil Fills Gap in Ape Family Tree",
+    "url": "https://www.sci.news/paleontology/masripithecus-moghraensis-14653.html",
+    "published": "2026-03-29T14:08:48.000Z",
+    "date": "2026-03-29",
     "source": "Sci.News"
   },
   {
-    "title": "Book Review: How Genetics Shapes Our Ideas About Vice and Blame",
-    "title_es": "Book Review: How Genetics Shapes Our Ideas About Vice and Blame",
-    "url": "https://undark.org/2026/03/27/book-review-original-sin/",
-    "published": "2026-03-27T07:19:00.000Z",
-    "date": "2026-03-27",
+    "title": "The Future of Sex as a Biological Variable in Health Research",
+    "title_es": "The Future of Sex as a Biological Variable in Health Research",
+    "url": "https://undark.org/2026/03/30/sex-biological-variable/",
+    "published": "2026-03-30T07:02:00.000Z",
+    "date": "2026-03-30",
     "source": "Undark Magazine"
   },
   {
-    "title": "A Message from Earth",
-    "title_es": "A Message from Earth",
-    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
+    "title": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
+    "title_es": "Reanalysis of “Competition and innovation: An inverted- U relationship”, by Andrew Gelman",
+    "url": "https://scipost.org/jrobustrep.4-rr1",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Peculiar Elliptical Galaxy Centaurus A",
+    "title_es": "Peculiar Elliptical Galaxy Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +154,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=9.0087&long=61.1659",
+    "url": "https://www.latlong.net/c/?lat=-0.8183&long=36.3094",
     "date": "",
     "published": "",
     "source": "ISS Position"

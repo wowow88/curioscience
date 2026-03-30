@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists shocked to find lab gloves may be skewing microplastics data",
+    "title_es": "Los científicos se sorprenden al descubrir que los guantes de laboratorio pueden estar distorsionando los datos sobre microplásticos",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260329222938.htm",
+    "date": "2026-03-30",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
+    "title_es": "Los humedales gestionados son un lugar culinario para el pescado de la bahía de San Francisco, pero necesitan opciones de entrega",
+    "url": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
+    "date": "2026-03-30",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists say we’ve been looking in the wrong place for human origins",
     "title_es": "Los científicos dicen que hemos estado buscando el origen humano en el lugar equivocado",
     "url": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
@@ -89,6 +103,13 @@
     "url": "https://www.snexplores.org/article/speediest-cells-organism",
     "date": "2026-03-27",
     "source": "Science News Explores"
+  },
+  {
+    "title": "Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning",
+    "title_es": "Ruka-v2: mano diestra de código abierto impulsada por tendones con muñeca y abducción para el aprendizaje de robots",
+    "url": "http://arxiv.org/abs/2603.26660v1",
+    "date": "2026-03-27",
+    "source": "arXiv"
   },
   {
     "title": "History of ‘forever’ chemicals is written in Antarctic snow",
