@@ -1,5 +1,53 @@
 [
   {
+    "title": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
+    "title_es": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
+    "url": "https://arxiv.org/abs/2603.26667",
+    "published": "2026-03-31T04:00:00.000Z",
+    "date": "2026-03-31",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fires Tear Through Nebraska Grasslands",
+    "title_es": "Los incendios arrasan los pastizales de Nebraska",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/",
+    "date": "2026-03-31",
+    "source": "NASA (Top News)",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+    "title_es": "Los científicos descubren un interruptor del sueño que desarrolla músculos, quema grasa y aumenta la capacidad intelectual",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+    "date": "2026-03-31",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Food safety, soils and manure: How a systemic approach can prevent health risks",
+    "title_es": "Seguridad alimentaria, suelos y estiércol: cómo un enfoque sistémico puede prevenir riesgos para la salud",
+    "url": "https://phys.org/news/2026-03-food-safety-soils-manure-approach.html",
+    "date": "2026-03-31",
+    "source": "Phys.org (Latest)",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Galapagos Lava Heron is Distinct Bird Species, New Study Shows",
+    "title_es": "Galapagos Lava Heron is Distinct Bird Species, New Study Shows",
+    "url": "https://www.sci.news/biology/galapagos-lava-heron-butorides-sundevalli-14658.html",
+    "published": "2026-03-30T23:52:11.000Z",
+    "date": "2026-03-30",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The profound effect the heart-brain connection has on your health",
+    "title_es": "The profound effect the heart-brain connection has on your health",
+    "url": "https://www.newscientist.com/article/2519667-the-profound-effect-the-heart-brain-connection-has-on-your-health/",
+    "published": "2026-03-30T16:00:47.000Z",
+    "date": "2026-03-30",
+    "source": "New Scientist"
+  },
+  {
     "title": "The Future of Sex as a Biological Variable in Health Research",
     "title_es": "The Future of Sex as a Biological Variable in Health Research",
     "url": "https://undark.org/2026/03/30/sex-biological-variable/",
@@ -29,6 +77,46 @@
     "url": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
     "date": "2026-03-30",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+    "title_es": "Métricas de similitud conscientes de la geometría para representaciones neuronales en variedades estadísticas y de Riemann",
+    "url": "http://arxiv.org/abs/2603.28764v1",
+    "date": "2026-03-30",
+    "source": "arXiv",
+    "published": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "title": "Static electricity is a mystery but invisible carbon may be key",
+    "title_es": "La electricidad estática es un misterio, pero el carbono invisible puede ser clave",
+    "url": "https://www.nature.com/articles/d41586-026-01012-x",
+    "date": "2026-03-30",
+    "source": "Nature",
+    "published": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "title": "The ACC recognises the research into cardiotoxicity carried out at the CNIC by Danielle Medina-Hernández",
+    "title_es": "The ACC recognises the research into cardiotoxicity carried out at the CNIC by Danielle Medina-Hernández",
+    "url": "https://www.cnic.es/es/node/241214",
+    "date": "2026-03-30",
+    "source": "CNIC",
+    "published": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "title": "Heavy soil tilling for agriculture can do more harm than good",
+    "title_es": "La labranza intensa del suelo para la agricultura puede hacer más daño que bien",
+    "url": "https://www.sciencenews.org/article/soil-tilling-flood-drought-resilience",
+    "date": "2026-03-30",
+    "source": "Science News",
+    "published": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "title": "Could a Star Wars lightsaber work?",
+    "title_es": "¿Podría funcionar un sable de luz de Star Wars?",
+    "url": "https://www.snexplores.org/article/lightsaber-star-wars-physics",
+    "date": "2026-03-30",
+    "source": "Science News Explores",
     "published": "2026-03-30T00:00:00.000Z"
   },
   {
@@ -21055,8 +21143,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Prevalence and determinants of household solid waste management practice among residents of the city corporations of Dhaka, Bangladesh",
-    "title_es": "Prevalencia y determinantes de la práctica de gestión de residuos sólidos domésticos entre los residentes de las corporaciones de la ciudad de Dhaka, Bangladesh",
+    "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
+    "title_es": "Prueba de la viabilidad del entrenamiento de restricción del flujo sanguíneo para mejorar los beneficios del ejercicio para la SALUD en personas con diabetes tipo 2 (ensayo BOOST-HEALTH): protocolo de estudio",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -55121,6 +55209,22 @@
     "title": "Peculiar Elliptical Galaxy Centaurus A",
     "title_es": "Peculiar Elliptical Galaxy Centaurus A",
     "url": "https://apod.nasa.gov/apod/image/2603/cena_sadr_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Physics case for low-$\\sqrt{s}$ QCD studies at FCC-ee, by David d&#x27;Enterria, Pier Francesco Monni, Peter Skands, Andrii Verbytskyi",
+    "title_es": "Physics case for low-$\\sqrt{s}$ QCD studies at FCC-ee, by David d&#x27;Enterria, Pier Francesco Monni, Peter Skands, Andrii Verbytskyi",
+    "url": "https://scipost.org/scipostphys.20.3.092",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Uranus's Largest Moon: Titania",
+    "title_es": "Uranus's Largest Moon: Titania",
+    "url": "https://apod.nasa.gov/apod/image/2603/titania_voyager2_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
