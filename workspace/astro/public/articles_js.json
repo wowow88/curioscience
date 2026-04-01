@@ -1,10 +1,10 @@
 [
   {
-    "title": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
-    "title_es": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
-    "url": "https://arxiv.org/abs/2603.26667",
-    "published": "2026-03-31T04:00:00.000Z",
-    "date": "2026-03-31",
+    "title": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
+    "title_es": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
+    "url": "https://arxiv.org/abs/2603.28768",
+    "published": "2026-04-01T04:00:00.000Z",
+    "date": "2026-04-01",
     "source": "arXiv"
   },
   {
@@ -16,19 +16,19 @@
     "source": "Science.org"
   },
   {
-    "title": "Static electricity is a mystery but invisible carbon may be key",
-    "title_es": "Static electricity is a mystery but invisible carbon may be key",
-    "url": "https://www.nature.com/articles/d41586-026-01012-x",
-    "published": "2026-03-30T00:00:00.000Z",
-    "date": "2026-03-30",
+    "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
+    "title_es": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
+    "url": "https://www.nature.com/articles/s41586-026-10335-8",
+    "published": "2026-03-31T00:00:00.000Z",
+    "date": "2026-03-31",
     "source": "Nature"
   },
   {
-    "title": "The ACC recognises the research into cardiotoxicity carried out at the CNIC by Danielle Medina-Hernández",
-    "title_es": "The ACC recognises the research into cardiotoxicity carried out at the CNIC by Danielle Medina-Hernández",
-    "url": "https://www.cnic.es/es/node/241214",
-    "published": "2026-03-30T08:32:33.000Z",
-    "date": "2026-03-30",
+    "title": "CNIC participates in COMPASS, a European project promoting the early detection and personalised treatment of cardiotoxicity in cancer patients",
+    "title_es": "CNIC participates in COMPASS, a European project promoting the early detection and personalised treatment of cardiotoxicity in cancer patients",
+    "url": "https://www.cnic.es/es/node/241238",
+    "published": "2026-03-31T08:46:34.000Z",
+    "date": "2026-03-31",
     "source": "CNIC"
   },
   {
@@ -38,14 +38,6 @@
     "published": "2026-03-25T12:08:16.000Z",
     "date": "2026-03-25",
     "source": "CNIO"
-  },
-  {
-    "title": "Fires Tear Through Nebraska Grasslands",
-    "title_es": "Fires Tear Through Nebraska Grasslands",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/",
-    "published": "2026-03-31T04:01:00.000Z",
-    "date": "2026-03-31",
-    "source": "NASA (Top News)"
   },
   {
     "title": "Computer Security: [Pen|Pan|Pant]testing",
@@ -64,51 +56,43 @@
     "source": "CERN Press"
   },
   {
-    "title": "Heavy soil tilling for agriculture can do more harm than good",
-    "title_es": "Heavy soil tilling for agriculture can do more harm than good",
-    "url": "https://www.sciencenews.org/article/soil-tilling-flood-drought-resilience",
-    "published": "2026-03-30T16:30:00.000Z",
-    "date": "2026-03-30",
+    "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+    "title_es": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+    "url": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
+    "published": "2026-03-31T19:00:00.000Z",
+    "date": "2026-03-31",
     "source": "Science News"
   },
   {
-    "title": "Could a Star Wars lightsaber work?",
-    "title_es": "Could a Star Wars lightsaber work?",
-    "url": "https://www.snexplores.org/article/lightsaber-star-wars-physics",
-    "published": "2026-03-30T10:30:00.000Z",
-    "date": "2026-03-30",
+    "title": "Physics explains why sneakers squeak on the basketball court",
+    "title_es": "Physics explains why sneakers squeak on the basketball court",
+    "url": "https://www.snexplores.org/article/sneakers-squeak-basketball-court-physics",
+    "published": "2026-03-31T10:30:00.000Z",
+    "date": "2026-03-31",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
-    "title_es": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
-    "published": "2026-03-31T01:39:42.000Z",
-    "date": "2026-03-31",
+    "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
+    "title_es": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
+    "published": "2026-04-01T03:40:47.000Z",
+    "date": "2026-04-01",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Food safety, soils and manure: How a systemic approach can prevent health risks",
-    "title_es": "Food safety, soils and manure: How a systemic approach can prevent health risks",
-    "url": "https://phys.org/news/2026-03-food-safety-soils-manure-approach.html",
-    "published": "2026-03-31T06:00:01.000Z",
-    "date": "2026-03-31",
+    "title": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
+    "title_es": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
+    "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
+    "published": "2026-04-01T04:40:01.000Z",
+    "date": "2026-04-01",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
-    "title_es": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
-    "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-03-30T14:00:00.000Z",
-    "date": "2026-03-30",
-    "source": "PLOS ONE"
-  },
-  {
-    "title": "The profound effect the heart-brain connection has on your health",
-    "title_es": "The profound effect the heart-brain connection has on your health",
-    "url": "https://www.newscientist.com/article/2519667-the-profound-effect-the-heart-brain-connection-has-on-your-health/",
-    "published": "2026-03-30T16:00:47.000Z",
-    "date": "2026-03-30",
+    "title": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "title_es": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/",
+    "published": "2026-03-31T16:00:50.000Z",
+    "date": "2026-03-31",
     "source": "New Scientist"
   },
   {
@@ -120,36 +104,44 @@
     "source": "SciPost News"
   },
   {
-    "title": "Galapagos Lava Heron is Distinct Bird Species, New Study Shows",
-    "title_es": "Galapagos Lava Heron is Distinct Bird Species, New Study Shows",
-    "url": "https://www.sci.news/biology/galapagos-lava-heron-butorides-sundevalli-14658.html",
-    "published": "2026-03-30T23:52:11.000Z",
-    "date": "2026-03-30",
+    "title": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
+    "title_es": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
+    "url": "https://www.sci.news/space/earths-building-blocks-14661.html",
+    "published": "2026-03-31T22:02:57.000Z",
+    "date": "2026-03-31",
     "source": "Sci.News"
   },
   {
-    "title": "The Future of Sex as a Biological Variable in Health Research",
-    "title_es": "The Future of Sex as a Biological Variable in Health Research",
-    "url": "https://undark.org/2026/03/30/sex-biological-variable/",
-    "published": "2026-03-30T07:02:00.000Z",
-    "date": "2026-03-30",
+    "title": "The Nuclear Safety Protections in Federal Crosshairs",
+    "title_es": "The Nuclear Safety Protections in Federal Crosshairs",
+    "url": "https://undark.org/2026/03/31/federal-nuclear-safety-protections/",
+    "published": "2026-03-31T07:12:00.000Z",
+    "date": "2026-03-31",
     "source": "Undark Magazine"
   },
   {
-    "title": "Physics case for low-$\\sqrt{s}$ QCD studies at FCC-ee, by David d&#x27;Enterria, Pier Francesco Monni, Peter Skands, Andrii Verbytskyi",
-    "title_es": "Physics case for low-$\\sqrt{s}$ QCD studies at FCC-ee, by David d&#x27;Enterria, Pier Francesco Monni, Peter Skands, Andrii Verbytskyi",
-    "url": "https://scipost.org/scipostphys.20.3.092",
+    "title": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
+    "title_es": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
+    "url": "https://scipost.org/scipostphys.20.3.093",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Uranus's Largest Moon: Titania",
-    "title_es": "Uranus's Largest Moon: Titania",
-    "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
+    "title": "The Claw and Bubble Nebulae",
+    "title_es": "The Claw and Bubble Nebulae",
+    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-24.6246&long=5.7024",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Crew-5",

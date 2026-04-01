@@ -1,5 +1,53 @@
 [
   {
+    "title": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
+    "title_es": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
+    "url": "https://arxiv.org/abs/2603.28768",
+    "published": "2026-04-01T04:00:00.000Z",
+    "date": "2026-04-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
+    "title_es": "La muestra del asteroide Bennu de la NASA revela un mosaico químico oculto",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
+    "date": "2026-04-01",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "title": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
+    "title_es": "Las mujeres están siendo excluidas de los lugares de trabajo debido a una brecha de tiempo oculta, según muestra una nueva investigación",
+    "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
+    "date": "2026-04-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "title": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
+    "title_es": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
+    "url": "https://www.sci.news/space/earths-building-blocks-14661.html",
+    "published": "2026-03-31T22:02:57.000Z",
+    "date": "2026-03-31",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "title_es": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/",
+    "published": "2026-03-31T16:00:50.000Z",
+    "date": "2026-03-31",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Nuclear Safety Protections in Federal Crosshairs",
+    "title_es": "The Nuclear Safety Protections in Federal Crosshairs",
+    "url": "https://undark.org/2026/03/31/federal-nuclear-safety-protections/",
+    "published": "2026-03-31T07:12:00.000Z",
+    "date": "2026-03-31",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
     "title_es": "M-RAG: Making RAG Faster, Stronger, and More Efficient",
     "url": "https://arxiv.org/abs/2603.26667",
@@ -29,6 +77,46 @@
     "url": "https://phys.org/news/2026-03-food-safety-soils-manure-approach.html",
     "date": "2026-03-31",
     "source": "Phys.org (Latest)",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations",
+    "title_es": "Identificación automática de bucles paralelizables mediante representaciones de código fuente basadas en transformadores",
+    "url": "http://arxiv.org/abs/2603.30040v1",
+    "date": "2026-03-31",
+    "source": "arXiv",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
+    "title_es": "Corrección del autor: Firmas de superconductividad de presión ambiental en película delgada La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>",
+    "url": "https://www.nature.com/articles/s41586-026-10335-8",
+    "date": "2026-03-31",
+    "source": "Nature",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC participates in COMPASS, a European project promoting the early detection and personalised treatment of cardiotoxicity in cancer patients",
+    "title_es": "CNIC participates in COMPASS, a European project promoting the early detection and personalised treatment of cardiotoxicity in cancer patients",
+    "url": "https://www.cnic.es/es/node/241238",
+    "date": "2026-03-31",
+    "source": "CNIC",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+    "title_es": "Los pronatalistas quieren más bebés. Sus soluciones no tienen sus raíces en la ciencia",
+    "url": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
+    "date": "2026-03-31",
+    "source": "Science News",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "title": "Physics explains why sneakers squeak on the basketball court",
+    "title_es": "La física explica por qué las zapatillas chirrían en la cancha de baloncesto",
+    "url": "https://www.snexplores.org/article/sneakers-squeak-basketball-court-physics",
+    "date": "2026-03-31",
+    "source": "Science News Explores",
     "published": "2026-03-31T00:00:00.000Z"
   },
   {
@@ -112,7 +200,7 @@
     "published": "2026-03-30T00:00:00.000Z"
   },
   {
-    "title": "Could a Star Wars lightsaber work?",
+    "title": "Could a Star Wars lightsaber work?",
     "title_es": "¿Podría funcionar un sable de luz de Star Wars?",
     "url": "https://www.snexplores.org/article/lightsaber-star-wars-physics",
     "date": "2026-03-30",
@@ -55225,6 +55313,22 @@
     "title": "Uranus's Largest Moon: Titania",
     "title_es": "Uranus's Largest Moon: Titania",
     "url": "https://apod.nasa.gov/apod/image/2603/titania_voyager2_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
+    "title_es": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
+    "url": "https://scipost.org/scipostphys.20.3.093",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Claw and Bubble Nebulae",
+    "title_es": "The Claw and Bubble Nebulae",
+    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
