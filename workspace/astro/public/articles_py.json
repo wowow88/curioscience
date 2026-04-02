@@ -1,5 +1,40 @@
 [
   {
+    "title": "Regular physical activity in midlife cuts risk of early death",
+    "title_es": "La actividad física regular en la mediana edad reduce el riesgo de muerte prematura",
+    "url": "https://www.nature.com/articles/d41586-026-01000-1",
+    "date": "2026-04-02",
+    "source": "Nature"
+  },
+  {
+    "title": "Réunion Island Lava Reaches the Sea",
+    "title_es": "La lava de la isla Reunión llega al mar",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/",
+    "date": "2026-04-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "The oldest known dice date back about 12,000 years in North America",
+    "title_es": "Los dados más antiguos conocidos datan de hace unos 12.000 años en América del Norte.",
+    "url": "https://www.sciencenews.org/article/oldest-known-dice-north-america",
+    "date": "2026-04-02",
+    "source": "Science News"
+  },
+  {
+    "title": "What’s hiding inside colon cancer could change treatment",
+    "title_es": "Lo que se esconde dentro del cáncer de colon podría cambiar el tratamiento",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
+    "date": "2026-04-02",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Europe to negotiate with NASA on lunar missions: ESA",
+    "title_es": "Europa negociará con la NASA sobre misiones lunares: ESA",
+    "url": "https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html",
+    "date": "2026-04-02",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
     "title_es": "La muestra del asteroide Bennu de la NASA revela un mosaico químico oculto",
     "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
@@ -12,6 +47,34 @@
     "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
     "date": "2026-04-01",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Effect of neostigmine/glycopyrrolate versus sugammadex on postoperative delirium in older adults: A triple-masked, randomized, controlled trial protocol",
+    "title_es": "Efecto de neostigmina/glicopirrolato versus sugammadex sobre el delirio posoperatorio en adultos mayores: un protocolo de ensayo controlado, aleatorizado y triple enmascarado",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-01",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+    "title_es": "HippoCamp: Evaluación comparativa de agentes contextuales en computadoras personales",
+    "url": "http://arxiv.org/abs/2604.01221v1",
+    "date": "2026-04-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "title_es": "El CERN sube de nivel con nuevos karts superconductores",
+    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "date": "2026-04-01",
+    "source": "CERN News"
+  },
+  {
+    "title": "Astronauts are flying to the moon aboard Artemis II",
+    "title_es": "Los astronautas vuelan a la luna a bordo de Artemis II",
+    "url": "https://www.snexplores.org/article/artemis-mission-astronauts-moon-launch",
+    "date": "2026-04-01",
+    "source": "Science News Explores"
   },
   {
     "title": "Fires Tear Through Nebraska Grasslands",
@@ -82,13 +145,6 @@
     "url": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
     "date": "2026-03-30",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
-    "title_es": "Prueba de la viabilidad del entrenamiento de restricción del flujo sanguíneo para mejorar los beneficios del ejercicio para la SALUD en personas con diabetes tipo 2 (ensayo BOOST-HEALTH): protocolo de estudio",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-03-30",
-    "source": "PLOS ONE"
   },
   {
     "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",

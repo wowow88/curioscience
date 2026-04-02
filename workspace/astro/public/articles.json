@@ -1,5 +1,77 @@
 [
   {
+    "title": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+    "title_es": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+    "url": "https://arxiv.org/abs/2604.00001",
+    "published": "2026-04-02T04:00:00.000Z",
+    "date": "2026-04-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Regular physical activity in midlife cuts risk of early death",
+    "title_es": "La actividad física regular en la mediana edad reduce el riesgo de muerte prematura",
+    "url": "https://www.nature.com/articles/d41586-026-01000-1",
+    "date": "2026-04-02",
+    "source": "Nature",
+    "published": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "title": "Réunion Island Lava Reaches the Sea",
+    "title_es": "La lava de la isla Reunión llega al mar",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/",
+    "date": "2026-04-02",
+    "source": "NASA (Top News)",
+    "published": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "title": "The oldest known dice date back about 12,000 years in North America",
+    "title_es": "Los dados más antiguos conocidos datan de hace unos 12.000 años en América del Norte.",
+    "url": "https://www.sciencenews.org/article/oldest-known-dice-north-america",
+    "date": "2026-04-02",
+    "source": "Science News",
+    "published": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "title": "What’s hiding inside colon cancer could change treatment",
+    "title_es": "Lo que se esconde dentro del cáncer de colon podría cambiar el tratamiento",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
+    "date": "2026-04-02",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "title": "Europe to negotiate with NASA on lunar missions: ESA",
+    "title_es": "Europa negociará con la NASA sobre misiones lunares: ESA",
+    "url": "https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html",
+    "date": "2026-04-02",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "title": "Ultra-Hot Jupiter WASP-189b Mirrors Its Star’s Chemistry, Astronomers Find",
+    "title_es": "Ultra-Hot Jupiter WASP-189b Mirrors Its Star’s Chemistry, Astronomers Find",
+    "url": "https://www.sci.news/astronomy/ultra-hot-jupiter-wasp-189b-stars-chemistry-14667.html",
+    "published": "2026-04-01T21:45:03.000Z",
+    "date": "2026-04-01",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Historic Artemis II launch sends astronauts bound for the moon",
+    "title_es": "Historic Artemis II launch sends astronauts bound for the moon",
+    "url": "https://www.newscientist.com/article/2521666-historic-artemis-ii-launch-sends-astronauts-bound-for-the-moon/",
+    "published": "2026-04-01T19:00:26.000Z",
+    "date": "2026-04-01",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Why Swedish Schools Are Bringing Back Books",
+    "title_es": "Why Swedish Schools Are Bringing Back Books",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "published": "2026-04-01T07:21:00.000Z",
+    "date": "2026-04-01",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
     "title_es": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
     "url": "https://arxiv.org/abs/2603.28768",
@@ -21,6 +93,30 @@
     "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
     "date": "2026-04-01",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+    "title_es": "HippoCamp: Evaluación comparativa de agentes contextuales en computadoras personales",
+    "url": "http://arxiv.org/abs/2604.01221v1",
+    "date": "2026-04-01",
+    "source": "arXiv",
+    "published": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "title_es": "El CERN sube de nivel con nuevos karts superconductores",
+    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "date": "2026-04-01",
+    "source": "CERN News",
+    "published": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "title": "Astronauts are flying to the moon aboard Artemis II",
+    "title_es": "Los astronautas vuelan a la luna a bordo de Artemis II",
+    "url": "https://www.snexplores.org/article/artemis-mission-astronauts-moon-launch",
+    "date": "2026-04-01",
+    "source": "Science News Explores",
     "published": "2026-04-01T00:00:00.000Z"
   },
   {
@@ -88,7 +184,7 @@
     "published": "2026-03-31T00:00:00.000Z"
   },
   {
-    "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
+    "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>",
     "title_es": "Corrección del autor: Firmas de superconductividad de presión ambiental en película delgada La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>",
     "url": "https://www.nature.com/articles/s41586-026-10335-8",
     "date": "2026-03-31",
@@ -21231,8 +21327,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
-    "title_es": "Prueba de la viabilidad del entrenamiento de restricción del flujo sanguíneo para mejorar los beneficios del ejercicio para la SALUD en personas con diabetes tipo 2 (ensayo BOOST-HEALTH): protocolo de estudio",
+    "title": "Effect of neostigmine/glycopyrrolate versus sugammadex on postoperative delirium in older adults: A triple-masked, randomized, controlled trial protocol",
+    "title_es": "Efecto de neostigmina/glicopirrolato versus sugammadex sobre el delirio posoperatorio en adultos mayores: un protocolo de ensayo controlado, aleatorizado y triple enmascarado",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -55329,6 +55425,22 @@
     "title": "The Claw and Bubble Nebulae",
     "title_es": "The Claw and Bubble Nebulae",
     "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Structure of non-global logarithms with Cambridge/Aachen clustering, by Kamel Khelifa-Kerfa",
+    "title_es": "Structure of non-global logarithms with Cambridge/Aachen clustering, by Kamel Khelifa-Kerfa",
+    "url": "https://scipost.org/scipostphys.20.4.094",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Liftoff! Returning to the Moon",
+    "title_es": "Liftoff! Returning to the Moon",
+    "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

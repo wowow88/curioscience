@@ -1,10 +1,10 @@
 [
   {
-    "title": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
-    "title_es": "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations",
-    "url": "https://arxiv.org/abs/2603.28768",
-    "published": "2026-04-01T04:00:00.000Z",
-    "date": "2026-04-01",
+    "title": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+    "title_es": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+    "url": "https://arxiv.org/abs/2604.00001",
+    "published": "2026-04-02T04:00:00.000Z",
+    "date": "2026-04-02",
     "source": "arXiv"
   },
   {
@@ -16,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
-    "title_es": "Author Correction: Signatures of ambient pressure superconductivity in thin film La 3 Ni 2 O 7",
-    "url": "https://www.nature.com/articles/s41586-026-10335-8",
-    "published": "2026-03-31T00:00:00.000Z",
-    "date": "2026-03-31",
+    "title": "Regular physical activity in midlife cuts risk of early death",
+    "title_es": "Regular physical activity in midlife cuts risk of early death",
+    "url": "https://www.nature.com/articles/d41586-026-01000-1",
+    "published": "2026-04-02T00:00:00.000Z",
+    "date": "2026-04-02",
     "source": "Nature"
   },
   {
@@ -40,11 +40,19 @@
     "source": "CNIO"
   },
   {
-    "title": "Computer Security: [Pen|Pan|Pant]testing",
-    "title_es": "Computer Security: [Pen|Pan|Pant]testing",
-    "url": "https://home.cern/news/news/computing/computer-security-penpanpanttesting",
-    "published": "2026-03-25T18:07:06.000Z",
-    "date": "2026-03-25",
+    "title": "Réunion Island Lava Reaches the Sea",
+    "title_es": "Réunion Island Lava Reaches the Sea",
+    "url": "https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/",
+    "published": "2026-04-02T04:01:00.000Z",
+    "date": "2026-04-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "title_es": "CERN levels up with new superconducting karts",
+    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "published": "2026-04-01T06:17:25.000Z",
+    "date": "2026-04-01",
     "source": "CERN News"
   },
   {
@@ -56,43 +64,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
-    "title_es": "Pronatalists want more babies. Their solutions aren’t rooted in science",
-    "url": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
-    "published": "2026-03-31T19:00:00.000Z",
-    "date": "2026-03-31",
+    "title": "The oldest known dice date back about 12,000 years in North America",
+    "title_es": "The oldest known dice date back about 12,000 years in North America",
+    "url": "https://www.sciencenews.org/article/oldest-known-dice-north-america",
+    "published": "2026-04-02T04:01:00.000Z",
+    "date": "2026-04-02",
     "source": "Science News"
   },
   {
-    "title": "Physics explains why sneakers squeak on the basketball court",
-    "title_es": "Physics explains why sneakers squeak on the basketball court",
-    "url": "https://www.snexplores.org/article/sneakers-squeak-basketball-court-physics",
-    "published": "2026-03-31T10:30:00.000Z",
-    "date": "2026-03-31",
+    "title": "Astronauts are flying to the moon aboard Artemis II",
+    "title_es": "Astronauts are flying to the moon aboard Artemis II",
+    "url": "https://www.snexplores.org/article/artemis-mission-astronauts-moon-launch",
+    "published": "2026-04-01T22:55:26.000Z",
+    "date": "2026-04-01",
     "source": "Science News Explores"
   },
   {
-    "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
-    "title_es": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
-    "published": "2026-04-01T03:40:47.000Z",
-    "date": "2026-04-01",
+    "title": "What’s hiding inside colon cancer could change treatment",
+    "title_es": "What’s hiding inside colon cancer could change treatment",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
+    "published": "2026-04-02T03:54:49.000Z",
+    "date": "2026-04-02",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
-    "title_es": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
-    "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
-    "published": "2026-04-01T04:40:01.000Z",
-    "date": "2026-04-01",
+    "title": "Europe to negotiate with NASA on lunar missions: ESA",
+    "title_es": "Europe to negotiate with NASA on lunar missions: ESA",
+    "url": "https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html",
+    "published": "2026-04-02T05:50:01.000Z",
+    "date": "2026-04-02",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "A once-fantastical collider could answer physics’ biggest mysteries",
-    "title_es": "A once-fantastical collider could answer physics’ biggest mysteries",
-    "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/",
-    "published": "2026-03-31T16:00:50.000Z",
-    "date": "2026-03-31",
+    "title": "Effect of neostigmine/glycopyrrolate versus sugammadex on postoperative delirium in older adults: A triple-masked, randomized, controlled trial protocol",
+    "title_es": "Effect of neostigmine/glycopyrrolate versus sugammadex on postoperative delirium in older adults: A triple-masked, randomized, controlled trial protocol",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-04-01T14:00:00.000Z",
+    "date": "2026-04-01",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Historic Artemis II launch sends astronauts bound for the moon",
+    "title_es": "Historic Artemis II launch sends astronauts bound for the moon",
+    "url": "https://www.newscientist.com/article/2521666-historic-artemis-ii-launch-sends-astronauts-bound-for-the-moon/",
+    "published": "2026-04-01T19:00:26.000Z",
+    "date": "2026-04-01",
     "source": "New Scientist"
   },
   {
@@ -104,33 +120,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
-    "title_es": "Earth’s Building Blocks Came from Close to Home, Planetary Scientists Say",
-    "url": "https://www.sci.news/space/earths-building-blocks-14661.html",
-    "published": "2026-03-31T22:02:57.000Z",
-    "date": "2026-03-31",
+    "title": "Ultra-Hot Jupiter WASP-189b Mirrors Its Star’s Chemistry, Astronomers Find",
+    "title_es": "Ultra-Hot Jupiter WASP-189b Mirrors Its Star’s Chemistry, Astronomers Find",
+    "url": "https://www.sci.news/astronomy/ultra-hot-jupiter-wasp-189b-stars-chemistry-14667.html",
+    "published": "2026-04-01T21:45:03.000Z",
+    "date": "2026-04-01",
     "source": "Sci.News"
   },
   {
-    "title": "The Nuclear Safety Protections in Federal Crosshairs",
-    "title_es": "The Nuclear Safety Protections in Federal Crosshairs",
-    "url": "https://undark.org/2026/03/31/federal-nuclear-safety-protections/",
-    "published": "2026-03-31T07:12:00.000Z",
-    "date": "2026-03-31",
+    "title": "Why Swedish Schools Are Bringing Back Books",
+    "title_es": "Why Swedish Schools Are Bringing Back Books",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "published": "2026-04-01T07:21:00.000Z",
+    "date": "2026-04-01",
     "source": "Undark Magazine"
   },
   {
-    "title": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
-    "title_es": "Electronic bounds in magnetic crystals, by Daniel Passos, Ivo Souza",
-    "url": "https://scipost.org/scipostphys.20.3.093",
+    "title": "Structure of non-global logarithms with Cambridge/Aachen clustering, by Kamel Khelifa-Kerfa",
+    "title_es": "Structure of non-global logarithms with Cambridge/Aachen clustering, by Kamel Khelifa-Kerfa",
+    "url": "https://scipost.org/scipostphys.20.4.094",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "The Claw and Bubble Nebulae",
-    "title_es": "The Claw and Bubble Nebulae",
-    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
+    "title": "Liftoff! Returning to the Moon",
+    "title_es": "Liftoff! Returning to the Moon",
+    "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -138,7 +154,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-24.6246&long=5.7024",
+    "url": "https://www.latlong.net/c/?lat=51.5947&long=116.8039",
     "date": "",
     "published": "",
     "source": "ISS Position"
