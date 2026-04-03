@@ -1,5 +1,26 @@
 [
   {
+    "title": "Barents Sea Tied to Low Arctic Sea Ice",
+    "title_es": "Mar de Barents vinculado al hielo marino bajo del Ártico",
+    "url": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
+    "date": "2026-04-03",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "SpaceX Starship could slash travel time to Uranus in half",
+    "title_es": "SpaceX Starship podría reducir a la mitad el tiempo de viaje a Urano",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260402042759.htm",
+    "date": "2026-04-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "The benefits of community Trap-Neuter-Return programs for unowned cats",
+    "title_es": "Los beneficios de los programas comunitarios de Atrapamiento, Castración y Devolución para gatos sin dueño",
+    "url": "https://phys.org/news/2026-04-benefits-community-neuter-unowned-cats.html",
+    "date": "2026-04-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Regular physical activity in midlife cuts risk of early death",
     "title_es": "La actividad física regular en la mediana edad reduce el riesgo de muerte prematura",
     "url": "https://www.nature.com/articles/d41586-026-01000-1",
@@ -35,6 +56,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Weight loss efficiency and safety of tirzepatide: A Systematic review",
+    "title_es": "Corrección: Eficiencia en la pérdida de peso y seguridad de tirzepatida: una revisión sistemática",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-02",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+    "title_es": "ActionParty: vinculación de acciones de múltiples sujetos en videojuegos generativos",
+    "url": "http://arxiv.org/abs/2604.02330v1",
+    "date": "2026-04-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "The new stakes of space exploration",
+    "title_es": "Los nuevos retos de la exploración espacial",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee6927",
+    "date": "2026-04-02",
+    "source": "Science.org"
+  },
+  {
+    "title": "Fossils reveal many complex animals existed before the Cambrian explosion",
+    "title_es": "Los fósiles revelan que existían muchos animales complejos antes de la explosión del Cámbrico",
+    "url": "https://www.sciencenews.org/article/fossils-complex-early-animals-diversity",
+    "date": "2026-04-02",
+    "source": "Science News"
+  },
+  {
+    "title": "How ‘nutritious’ is the diet that social media feeds us?",
+    "title_es": "¿Qué tan “nutritiva” es la dieta que nos alimentan las redes sociales?",
+    "url": "https://www.snexplores.org/article/social-media-feeds-algorithms",
+    "date": "2026-04-02",
+    "source": "Science News Explores"
+  },
+  {
     "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
     "title_es": "La muestra del asteroide Bennu de la NASA revela un mosaico químico oculto",
     "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
@@ -47,13 +103,6 @@
     "url": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
     "date": "2026-04-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Effect of neostigmine/glycopyrrolate versus sugammadex on postoperative delirium in older adults: A triple-masked, randomized, controlled trial protocol",
-    "title_es": "Efecto de neostigmina/glicopirrolato versus sugammadex sobre el delirio posoperatorio en adultos mayores: un protocolo de ensayo controlado, aleatorizado y triple enmascarado",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
@@ -75,6 +124,13 @@
     "url": "https://www.snexplores.org/article/artemis-mission-astronauts-moon-launch",
     "date": "2026-04-01",
     "source": "Science News Explores"
+  },
+  {
+    "title": "CERN Timepix chips fly to the Moon",
+    "title_es": "Los chips Timepix del CERN vuelan a la Luna",
+    "url": "https://home.cern/news/news/knowledge-sharing/cern-timepix-chips-fly-moon",
+    "date": "2026-04-01",
+    "source": "CERN News"
   },
   {
     "title": "Fires Tear Through Nebraska Grasslands",
