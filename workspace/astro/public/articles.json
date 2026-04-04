@@ -1,5 +1,29 @@
 [
   {
+    "title": "Jurassic Ichthyosaur Fossil Found in Cuba",
+    "title_es": "Jurassic Ichthyosaur Fossil Found in Cuba",
+    "url": "https://www.sci.news/paleontology/el-cuajani-ichthyosaur-14672.html",
+    "published": "2026-04-03T23:42:09.000Z",
+    "date": "2026-04-03",
+    "source": "Sci.News"
+  },
+  {
+    "title": "We may have seen a 'dirty fireball' star explosion for the first time",
+    "title_es": "We may have seen a 'dirty fireball' star explosion for the first time",
+    "url": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/",
+    "published": "2026-04-03T14:00:47.000Z",
+    "date": "2026-04-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Inside the Effort to Sequence a Thousand Measles Genomes",
+    "title_es": "Inside the Effort to Sequence a Thousand Measles Genomes",
+    "url": "https://undark.org/2026/04/03/measles-genomes-sequence/",
+    "published": "2026-04-03T07:51:00.000Z",
+    "date": "2026-04-03",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation",
     "title_es": "DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation",
     "url": "https://arxiv.org/abs/2604.01226",
@@ -27,6 +51,54 @@
     "title": "The benefits of community Trap-Neuter-Return programs for unowned cats",
     "title_es": "Los beneficios de los programas comunitarios de Atrapamiento, Castración y Devolución para gatos sin dueño",
     "url": "https://phys.org/news/2026-04-benefits-community-neuter-unowned-cats.html",
+    "date": "2026-04-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "Massive budget cuts for US science proposed again by Trump administration",
+    "title_es": "Recortes presupuestarios masivos para la ciencia estadounidense propuestos nuevamente por la administración Trump",
+    "url": "https://www.nature.com/articles/d41586-026-01105-7",
+    "date": "2026-04-03",
+    "source": "Nature",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch",
+    "title_es": "La NASA establece cobertura para el lanzamiento de reabastecimiento CRS-24 de Northrop Grumman",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/",
+    "date": "2026-04-03",
+    "source": "NASA (Top News)",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "When our minds wander to the body, it may affect mental health",
+    "title_es": "Cuando nuestra mente se centra en el cuerpo, esto puede afectar la salud mental.",
+    "url": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
+    "date": "2026-04-03",
+    "source": "Science News",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "At least half of U.S. teens use chatbots for homework and more",
+    "title_es": "Al menos la mitad de los adolescentes estadounidenses utilizan chatbots para hacer los deberes y más",
+    "url": "https://www.snexplores.org/article/teen-chatbot-use-homework",
+    "date": "2026-04-03",
+    "source": "Science News Explores",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "Deafness reversed: One injection restores hearing in just weeks",
+    "title_es": "La sordera se revierte: una inyección restaura la audición en apenas unas semanas",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
+    "date": "2026-04-03",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny African fish caught climbing to the top of a 50-foot waterfall",
+    "title_es": "Pequeño pez africano capturado trepando a la cima de una cascada de 50 pies",
+    "url": "https://phys.org/news/2026-04-tiny-african-fish-caught-climbing.html",
     "date": "2026-04-03",
     "source": "Phys.org (Latest)",
     "published": "2026-04-03T00:00:00.000Z"
@@ -21439,8 +21511,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Weight loss efficiency and safety of tirzepatide: A Systematic review",
-    "title_es": "Corrección: Eficiencia en la pérdida de peso y seguridad de tirzepatida: una revisión sistemática",
+    "title": "The relationship between death anxiety and self-esteem: A protocol for a systematic review and meta-analysis",
+    "title_es": "La relación entre la ansiedad ante la muerte y la autoestima: un protocolo para una revisión sistemática y un metanálisis",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -55569,6 +55641,14 @@
     "title": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
     "title_es": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
     "url": "https://apod.nasa.gov/apod/image/2604/bh_merger_tarantula_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Hello World",
+    "title_es": "Hello World",
+    "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
