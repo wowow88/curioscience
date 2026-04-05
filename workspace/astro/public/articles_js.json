@@ -8,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Massive budget cuts for US science proposed again by Trump administration",
-    "title_es": "Massive budget cuts for US science proposed again by Trump administration",
-    "url": "https://www.nature.com/articles/d41586-026-01105-7",
-    "published": "2026-04-03T00:00:00.000Z",
-    "date": "2026-04-03",
+    "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+    "title_es": "What Artemis II’s astronauts will look for on the Moon’s far side",
+    "url": "https://www.nature.com/articles/d41586-026-01103-9",
+    "published": "2026-04-04T00:00:00.000Z",
+    "date": "2026-04-04",
     "source": "Nature"
   },
   {
@@ -30,14 +30,6 @@
     "published": "2026-03-25T12:08:16.000Z",
     "date": "2026-03-25",
     "source": "CNIO"
-  },
-  {
-    "title": "NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch",
-    "title_es": "NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/",
-    "published": "2026-04-03T22:01:31.000Z",
-    "date": "2026-04-03",
-    "source": "NASA (Top News)"
   },
   {
     "title": "Chile becomes an Associate Member State of CERN",
@@ -72,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Deafness reversed: One injection restores hearing in just weeks",
-    "title_es": "Deafness reversed: One injection restores hearing in just weeks",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
-    "published": "2026-04-03T08:50:43.000Z",
-    "date": "2026-04-03",
+    "title": "Scientists reveal new blood pressure treatment that works when others fail",
+    "title_es": "Scientists reveal new blood pressure treatment that works when others fail",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260403232124.htm",
+    "published": "2026-04-04T03:38:49.000Z",
+    "date": "2026-04-04",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Tiny African fish caught climbing to the top of a 50-foot waterfall",
-    "title_es": "Tiny African fish caught climbing to the top of a 50-foot waterfall",
-    "url": "https://phys.org/news/2026-04-tiny-african-fish-caught-climbing.html",
-    "published": "2026-04-03T19:40:01.000Z",
-    "date": "2026-04-03",
+    "title": "AI makes rewilding look tame—and misses its messy reality",
+    "title_es": "AI makes rewilding look tame—and misses its messy reality",
+    "url": "https://phys.org/news/2026-03-ai-rewilding-messy-reality.html",
+    "published": "2026-04-04T23:30:01.000Z",
+    "date": "2026-04-04",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "We may have seen a 'dirty fireball' star explosion for the first time",
-    "title_es": "We may have seen a 'dirty fireball' star explosion for the first time",
-    "url": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/",
-    "published": "2026-04-03T14:00:47.000Z",
-    "date": "2026-04-03",
+    "title": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "title_es": "A once-fantastical collider could answer physics’ biggest mysteries",
+    "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/",
+    "published": "2026-03-31T16:00:50.000Z",
+    "date": "2026-03-31",
     "source": "New Scientist"
   },
   {
@@ -136,9 +128,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Hello World",
-    "title_es": "Hello World",
-    "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
+    "title": "NGC 3310: A Starburst Spiral Galaxy",
+    "title_es": "NGC 3310: A Starburst Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -146,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-13.7795&long=8.6787",
+    "url": "https://www.latlong.net/c/?lat=-49.9492&long=-101.8801",
     "date": "",
     "published": "",
     "source": "ISS Position"
