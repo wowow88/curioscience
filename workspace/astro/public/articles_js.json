@@ -1,10 +1,10 @@
 [
   {
-    "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-    "title_es": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-    "url": "https://arxiv.org/abs/2604.02334",
-    "published": "2026-04-06T04:00:00.000Z",
-    "date": "2026-04-06",
+    "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+    "title_es": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+    "url": "https://arxiv.org/abs/2604.03232",
+    "published": "2026-04-07T04:00:00.000Z",
+    "date": "2026-04-07",
     "source": "arXiv"
   },
   {
@@ -16,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
-    "title_es": "What Artemis II’s astronauts will look for on the Moon’s far side",
-    "url": "https://www.nature.com/articles/d41586-026-01103-9",
-    "published": "2026-04-04T00:00:00.000Z",
-    "date": "2026-04-04",
+    "title": "Engaging the head and the heart: why scientists turn to poetry",
+    "title_es": "Engaging the head and the heart: why scientists turn to poetry",
+    "url": "https://www.nature.com/articles/d41586-026-01028-3",
+    "published": "2026-04-06T00:00:00.000Z",
+    "date": "2026-04-06",
     "source": "Nature"
   },
   {
@@ -32,19 +32,11 @@
     "source": "CNIC"
   },
   {
-    "title": "Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor",
-    "title_es": "Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor",
-    "url": "https://www.cnio.es/noticias/un-nuevo-hallazgo-contra-la-metastasis-cerebral-muestra-como-el-tumor-secuestra-celulas-defensivas-para-usarlas-en-su-favor/",
-    "published": "2026-03-25T12:08:16.000Z",
-    "date": "2026-03-25",
-    "source": "CNIO"
-  },
-  {
-    "title": "Thinking of You, Earth",
-    "title_es": "Thinking of You, Earth",
-    "url": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
-    "published": "2026-04-05T14:04:33.000Z",
-    "date": "2026-04-05",
+    "title": "Drought Parches Florida",
+    "title_es": "Drought Parches Florida",
+    "url": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+    "published": "2026-04-07T04:01:00.000Z",
+    "date": "2026-04-07",
     "source": "NASA (Top News)"
   },
   {
@@ -64,51 +56,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "When our minds wander to the body, it may affect mental health",
-    "title_es": "When our minds wander to the body, it may affect mental health",
-    "url": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
-    "published": "2026-04-03T17:00:00.000Z",
-    "date": "2026-04-03",
+    "title": "Human echolocation works step by step",
+    "title_es": "Human echolocation works step by step",
+    "url": "https://www.sciencenews.org/article/human-echolocation-blind-brain",
+    "published": "2026-04-06T17:00:00.000Z",
+    "date": "2026-04-06",
     "source": "Science News"
   },
   {
-    "title": "At least half of U.S. teens use chatbots for homework and more",
-    "title_es": "At least half of U.S. teens use chatbots for homework and more",
-    "url": "https://www.snexplores.org/article/teen-chatbot-use-homework",
-    "published": "2026-04-03T10:30:00.000Z",
-    "date": "2026-04-03",
+    "title": "Wind won’t keep hungry yellow jackets away from your picnic",
+    "title_es": "Wind won’t keep hungry yellow jackets away from your picnic",
+    "url": "https://www.snexplores.org/article/yellow-jackets-smell-in-wind",
+    "published": "2026-04-06T10:30:00.000Z",
+    "date": "2026-04-06",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists found a protein that drives brain aging — and how to stop it",
-    "title_es": "Scientists found a protein that drives brain aging — and how to stop it",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-    "published": "2026-04-05T11:08:57.000Z",
-    "date": "2026-04-05",
+    "title": "Scientists found a “lost world” of animals that shouldn’t exist yet",
+    "title_es": "Scientists found a “lost world” of animals that shouldn’t exist yet",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260406234153.htm",
+    "published": "2026-04-07T03:41:53.000Z",
+    "date": "2026-04-07",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'Lliving fossils' nautilus and allonautilus shaped by depths and diets over 500 million years",
-    "title_es": "'Lliving fossils' nautilus and allonautilus shaped by depths and diets over 500 million years",
-    "url": "https://phys.org/news/2026-04-lliving-fossils-nautilus-allonautilus-depths.html",
-    "published": "2026-04-05T23:30:01.000Z",
-    "date": "2026-04-05",
+    "title": "GMO pictures may reinforce existing views, deepening the divide of attitudes towards them",
+    "title_es": "GMO pictures may reinforce existing views, deepening the divide of attitudes towards them",
+    "url": "https://phys.org/news/2026-04-gmo-pictures-views-deepening-attitudes.html",
+    "published": "2026-04-07T04:00:02.000Z",
+    "date": "2026-04-07",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "The relationship between death anxiety and self-esteem: A protocol for a systematic review and meta-analysis",
-    "title_es": "The relationship between death anxiety and self-esteem: A protocol for a systematic review and meta-analysis",
+    "title": "Psychological safety as a context-sensitive predictor of retention intentions: Gendered effects of supervisor support under caregiving-assumed conditions",
+    "title_es": "Psychological safety as a context-sensitive predictor of retention intentions: Gendered effects of supervisor support under caregiving-assumed conditions",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-04-03T14:00:00.000Z",
-    "date": "2026-04-03",
+    "published": "2026-04-06T14:00:00.000Z",
+    "date": "2026-04-06",
     "source": "PLOS ONE"
   },
   {
-    "title": "Oceans are darkening all over the planet – what’s going on?",
-    "title_es": "Oceans are darkening all over the planet – what’s going on?",
-    "url": "https://www.newscientist.com/article/2519611-oceans-are-darkening-all-over-the-planet-whats-going-on/",
-    "published": "2026-04-01T16:00:58.000Z",
-    "date": "2026-04-01",
+    "title": "Iodised salt has become uncool but many of us need to eat more iodine",
+    "title_es": "Iodised salt has become uncool but many of us need to eat more iodine",
+    "url": "https://www.newscientist.com/article/2520090-iodised-salt-has-become-uncool-but-many-of-us-need-to-eat-more-iodine/",
+    "published": "2026-04-06T17:00:05.000Z",
+    "date": "2026-04-06",
     "source": "New Scientist"
   },
   {
@@ -120,19 +112,19 @@
     "source": "SciPost News"
   },
   {
-    "title": "Jurassic Ichthyosaur Fossil Found in Cuba",
-    "title_es": "Jurassic Ichthyosaur Fossil Found in Cuba",
-    "url": "https://www.sci.news/paleontology/el-cuajani-ichthyosaur-14672.html",
-    "published": "2026-04-03T23:42:09.000Z",
-    "date": "2026-04-03",
+    "title": "Ediacaran Fossils from China Rewrite Timeline of Animal Evolution",
+    "title_es": "Ediacaran Fossils from China Rewrite Timeline of Animal Evolution",
+    "url": "https://www.sci.news/paleontology/jiangchuan-biota-14677.html",
+    "published": "2026-04-06T23:24:49.000Z",
+    "date": "2026-04-06",
     "source": "Sci.News"
   },
   {
-    "title": "Inside the Effort to Sequence a Thousand Measles Genomes",
-    "title_es": "Inside the Effort to Sequence a Thousand Measles Genomes",
-    "url": "https://undark.org/2026/04/03/measles-genomes-sequence/",
-    "published": "2026-04-03T07:51:00.000Z",
-    "date": "2026-04-03",
+    "title": "As Rocket Launches Increase, They May Be Polluting the Skies",
+    "title_es": "As Rocket Launches Increase, They May Be Polluting the Skies",
+    "url": "https://undark.org/2026/04/06/as-rocket-launches-increase-they-may-be-polluting-the-skies/",
+    "published": "2026-04-06T07:07:00.000Z",
+    "date": "2026-04-06",
     "source": "Undark Magazine"
   },
   {
@@ -144,9 +136,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "The Path of Artemis II",
-    "title_es": "The Path of Artemis II",
-    "url": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
+    "title": "IC 4592: The Blue Horsehead Reflection Nebula",
+    "title_es": "IC 4592: The Blue Horsehead Reflection Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -154,7 +146,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=6.1294&long=170.5979",
+    "url": "https://www.latlong.net/c/?lat=-36.1825&long=-43.2185",
     "date": "",
     "published": "",
     "source": "ISS Position"
