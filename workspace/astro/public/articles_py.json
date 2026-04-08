@@ -1,5 +1,26 @@
 [
   {
+    "title": "A Volcanic Medley Near Mammoth Lakes",
+    "title_es": "Una mezcla volcánica cerca de Mammoth Lakes",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
+    "date": "2026-04-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+    "title_es": "Los científicos mapean el cableado oculto del cerebro utilizando códigos de barras de ARN en un gran avance",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+    "date": "2026-04-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Seizure of 2,000 ants at Nairobi airport highlights the hidden scale of insect trafficking",
+    "title_es": "La incautación de 2.000 hormigas en el aeropuerto de Nairobi pone de relieve la magnitud oculta del tráfico de insectos",
+    "url": "https://phys.org/news/2026-04-seizure-ants-nairobi-airport-highlights.html",
+    "date": "2026-04-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Drought Parches Florida",
     "title_es": "Parches de sequía Florida",
     "url": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
@@ -21,18 +42,53 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Metformin attenuates TBHP-induced oxidative injury in human lens epithelial cells and is associated with SIRT1/FOXO1-related autophagy",
+    "title_es": "La metformina atenúa la lesión oxidativa inducida por TBHP en las células epiteliales del cristalino humano y se asocia con la autofagia relacionada con SIRT1/FOXO1",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "In-Place Test-Time Training",
+    "title_es": "Capacitación en el lugar durante el tiempo de prueba",
+    "url": "http://arxiv.org/abs/2604.06169v1",
+    "date": "2026-04-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI and the human mind: only one is a black box",
+    "title_es": "La IA y la mente humana: sólo una es una caja negra",
+    "url": "https://www.nature.com/articles/d41586-026-01094-7",
+    "date": "2026-04-07",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol\" hreflang=\"es\">Un nuevo modelo explica las diminutas explosiones energéticas en el Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol\" hreflang=\"es\">Un nuevo modelo explica las diminutas explosiones energéticas en el Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol",
+    "date": "2026-04-07",
+    "source": "IAC"
+  },
+  {
+    "title": "The ‘oldest fossil octopus’ is probably another animal",
+    "title_es": "El “pulpo fósil más antiguo” es probablemente otro animal",
+    "url": "https://www.sciencenews.org/article/oldest-fossil-octopus-another-animal",
+    "date": "2026-04-07",
+    "source": "Science News"
+  },
+  {
+    "title": "Artemis II just made a historic loop around the moon",
+    "title_es": "Artemis II acaba de hacer una vuelta histórica alrededor de la luna",
+    "url": "https://www.snexplores.org/article/artemis-orion-loop-farside-moon",
+    "date": "2026-04-07",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Study of 1,700 languages reveals surprising hidden patterns",
     "title_es": "El estudio de 1.700 idiomas revela sorprendentes patrones ocultos",
     "url": "https://www.sciencedaily.com/releases/2026/04/260405003943.htm",
     "date": "2026-04-06",
     "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "Psychological safety as a context-sensitive predictor of retention intentions: Gendered effects of supervisor support under caregiving-assumed conditions",
-    "title_es": "La seguridad psicológica como predictor sensible al contexto de las intenciones de retención: efectos de género del apoyo del supervisor en condiciones asumidas de cuidado",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "Early Stopping for Large Reasoning Models via Confidence Dynamics",

@@ -1,5 +1,61 @@
 [
   {
+    "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+    "title_es": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+    "url": "https://arxiv.org/abs/2604.04936",
+    "published": "2026-04-08T04:00:00.000Z",
+    "date": "2026-04-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Jupiter’s Strong Magnetic Field May Explain Why It Has So Many Large Moons",
+    "title_es": "Jupiter’s Strong Magnetic Field May Explain Why It Has So Many Large Moons",
+    "url": "https://www.sci.news/space/gas-giant-moons-14680.html",
+    "published": "2026-04-08T00:08:44.000Z",
+    "date": "2026-04-08",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A Volcanic Medley Near Mammoth Lakes",
+    "title_es": "Una mezcla volcánica cerca de Mammoth Lakes",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
+    "date": "2026-04-08",
+    "source": "NASA (Top News)",
+    "published": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+    "title_es": "Los científicos mapean el cableado oculto del cerebro utilizando códigos de barras de ARN en un gran avance",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+    "date": "2026-04-08",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "title": "Seizure of 2,000 ants at Nairobi airport highlights the hidden scale of insect trafficking",
+    "title_es": "La incautación de 2.000 hormigas en el aeropuerto de Nairobi pone de relieve la magnitud oculta del tráfico de insectos",
+    "url": "https://phys.org/news/2026-04-seizure-ants-nairobi-airport-highlights.html",
+    "date": "2026-04-08",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "title": "How a century-long argument over light’s true nature came to an end",
+    "title_es": "How a century-long argument over light’s true nature came to an end",
+    "url": "https://www.newscientist.com/article/2522105-how-a-century-long-argument-over-lights-true-nature-came-to-an-end/",
+    "published": "2026-04-07T18:00:45.000Z",
+    "date": "2026-04-07",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A DNA Archive Built to Identify Missing Migrants Has Vanished",
+    "title_es": "A DNA Archive Built to Identify Missing Migrants Has Vanished",
+    "url": "https://undark.org/2026/04/07/missing-migrants-dna-database/",
+    "published": "2026-04-07T07:32:00.000Z",
+    "date": "2026-04-07",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
     "title_es": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
     "url": "https://arxiv.org/abs/2604.03232",
@@ -29,6 +85,46 @@
     "url": "https://phys.org/news/2026-04-gmo-pictures-views-deepening-attitudes.html",
     "date": "2026-04-07",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "title": "In-Place Test-Time Training",
+    "title_es": "Capacitación en el lugar durante el tiempo de prueba",
+    "url": "http://arxiv.org/abs/2604.06169v1",
+    "date": "2026-04-07",
+    "source": "arXiv",
+    "published": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "title": "AI and the human mind: only one is a black box",
+    "title_es": "La IA y la mente humana: sólo una es una caja negra",
+    "url": "https://www.nature.com/articles/d41586-026-01094-7",
+    "date": "2026-04-07",
+    "source": "Nature",
+    "published": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol\" hreflang=\"es\">Un nuevo modelo explica las diminutas explosiones energéticas en el Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol\" hreflang=\"es\">Un nuevo modelo explica las diminutas explosiones energéticas en el Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-nuevo-modelo-explica-las-diminutas-explosiones-energeticas-en-el-sol",
+    "date": "2026-04-07",
+    "source": "IAC",
+    "published": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "title": "The ‘oldest fossil octopus’ is probably another animal",
+    "title_es": "El “pulpo fósil más antiguo” es probablemente otro animal",
+    "url": "https://www.sciencenews.org/article/oldest-fossil-octopus-another-animal",
+    "date": "2026-04-07",
+    "source": "Science News",
+    "published": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "title": "Artemis II just made a historic loop around the moon",
+    "title_es": "Artemis II acaba de hacer una vuelta histórica alrededor de la luna",
+    "url": "https://www.snexplores.org/article/artemis-orion-loop-farside-moon",
+    "date": "2026-04-07",
+    "source": "Science News Explores",
     "published": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -21687,8 +21783,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Psychological safety as a context-sensitive predictor of retention intentions: Gendered effects of supervisor support under caregiving-assumed conditions",
-    "title_es": "La seguridad psicológica como predictor sensible al contexto de las intenciones de retención: efectos de género del apoyo del supervisor en condiciones asumidas de cuidado",
+    "title": "Metformin attenuates TBHP-induced oxidative injury in human lens epithelial cells and is associated with SIRT1/FOXO1-related autophagy",
+    "title_es": "La metformina atenúa la lesión oxidativa inducida por TBHP en las células epiteliales del cristalino humano y se asocia con la autofagia relacionada con SIRT1/FOXO1",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -55852,5 +55948,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Nonpertubative many-body theory for the two-dimensional Hubbard model at low temperature: From weak to strong coupling regimes, by Ruitao Xiao, Yingze Su, Junnian Xiong, Hui Li, Huaqing Huang, Dingping Li",
+    "title_es": "Nonpertubative many-body theory for the two-dimensional Hubbard model at low temperature: From weak to strong coupling regimes, by Ruitao Xiao, Yingze Su, Junnian Xiong, Hui Li, Huaqing Huang, Dingping Li",
+    "url": "https://scipost.org/scipostphys.20.4.101",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
