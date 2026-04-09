@@ -1,5 +1,26 @@
 [
   {
+    "title": "Liquid or solid? Oobleck droplets are both",
+    "title_es": "¿Líquido o sólido? Las gotas de Oobleck son ambas",
+    "url": "https://www.nature.com/articles/d41586-026-01109-3",
+    "date": "2026-04-09",
+    "source": "Nature"
+  },
+  {
+    "title": "Snow in the Shadow of the Andes",
+    "title_es": "Nieve a la sombra de los Andes",
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/",
+    "date": "2026-04-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "What if dark matter came in two states?",
+    "title_es": "¿Qué pasaría si la materia oscura se presentara en dos estados?",
+    "url": "https://phys.org/news/2026-04-dark-states.html",
+    "date": "2026-04-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Volcanic Medley Near Mammoth Lakes",
     "title_es": "Una mezcla volcánica cerca de Mammoth Lakes",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
@@ -21,6 +42,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Antecedents of the effectiveness of entrepreneurship policy: An integrated framework",
+    "title_es": "Corrección: Antecedentes de la eficacia de la política de emprendimiento: un marco integrado",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-08",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Toward a Tractability Frontier for Exact Relevance Certification",
+    "title_es": "Hacia una frontera de trazabilidad para la certificación de relevancia exacta",
+    "url": "http://arxiv.org/abs/2604.07349v1",
+    "date": "2026-04-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-ull-y-el-iac-crean-uno-de-los-mayores-catalogos-fotometricos-de-asteroides-observados-en-espana\" hreflang=\"es\">La ULL y el IAC crean uno de los mayores catálogos fotométricos de asteroides observados en España</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-ull-y-el-iac-crean-uno-de-los-mayores-catalogos-fotometricos-de-asteroides-observados-en-espana\" hreflang=\"es\">La ULL y el IAC crean uno de los mayores catálogos fotométricos de asteroides observados en España</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-ull-y-el-iac-crean-uno-de-los-mayores-catalogos-fotometricos-de-asteroides-observados-en-espana",
+    "date": "2026-04-08",
+    "source": "IAC"
+  },
+  {
+    "title": "Even before splashdown, Artemis II is delivering a scientific treasure trove",
+    "title_es": "Incluso antes del aterrizaje, Artemis II está entregando un tesoro científico",
+    "url": "https://www.sciencenews.org/article/splashdown-artemis-ii-science-moon",
+    "date": "2026-04-08",
+    "source": "Science News"
+  },
+  {
+    "title": "This Band Aid-like device could let you ‘feel’ the virtual world",
+    "title_es": "Este dispositivo tipo curita podría permitirte \"sentir\" el mundo virtual",
+    "url": "https://www.snexplores.org/article/touch-virtual-texture-haptic-device",
+    "date": "2026-04-08",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Something just hit the Moon and left a bright new scar",
+    "title_es": "Algo acaba de golpear la Luna y dejó una nueva y brillante cicatriz",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
+    "date": "2026-04-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Drought Parches Florida",
     "title_es": "Parches de sequía Florida",
     "url": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-04-gmo-pictures-views-deepening-attitudes.html",
     "date": "2026-04-07",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Metformin attenuates TBHP-induced oxidative injury in human lens epithelial cells and is associated with SIRT1/FOXO1-related autophagy",
-    "title_es": "La metformina atenúa la lesión oxidativa inducida por TBHP en las células epiteliales del cristalino humano y se asocia con la autofagia relacionada con SIRT1/FOXO1",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-07",
-    "source": "PLOS ONE"
   },
   {
     "title": "In-Place Test-Time Training",
