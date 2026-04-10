@@ -1,5 +1,37 @@
 [
   {
+    "title": "FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios",
+    "title_es": "FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios",
+    "url": "https://arxiv.org/abs/2604.07351",
+    "published": "2026-04-10T04:00:00.000Z",
+    "date": "2026-04-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Medieval Japanese poetry and buried trees help elucidate volatile space weather",
+    "title_es": "La poesía japonesa medieval y los árboles enterrados ayudan a dilucidar el clima espacial volátil",
+    "url": "https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html",
+    "date": "2026-04-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "title": "Chimpanzee group's violent rupture hints at evolutionary roots of war",
+    "title_es": "Chimpanzee group's violent rupture hints at evolutionary roots of war",
+    "url": "https://www.newscientist.com/article/2522541-chimpanzee-groups-violent-rupture-hints-at-evolutionary-roots-of-war/",
+    "published": "2026-04-09T19:00:45.000Z",
+    "date": "2026-04-09",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Scientific Journals Need Dedicated Fact-Checkers",
+    "title_es": "Scientific Journals Need Dedicated Fact-Checkers",
+    "url": "https://undark.org/2026/04/09/opinion-journal-fact-checkers/",
+    "published": "2026-04-09T16:01:00.000Z",
+    "date": "2026-04-09",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "LLM-Augmented Knowledge Base Construction For Root Cause Analysis",
     "title_es": "LLM-Augmented Knowledge Base Construction For Root Cause Analysis",
     "url": "https://arxiv.org/abs/2604.06171",
@@ -29,6 +61,62 @@
     "url": "https://phys.org/news/2026-04-dark-states.html",
     "date": "2026-04-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+    "title_es": "Actuar sabiamente: cultivar el uso de herramientas metacognitivas en modelos multimodales agentes",
+    "url": "http://arxiv.org/abs/2604.08545v1",
+    "date": "2026-04-09",
+    "source": "arXiv",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "The scope of biological possibility expands",
+    "title_es": "El alcance de las posibilidades biológicas se amplía",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee7892",
+    "date": "2026-04-09",
+    "source": "Science.org",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
+    "title_es": "Acoplamiento cruzado ambifílico con reactivos de aril-bismuto.",
+    "url": "https://www.nature.com/articles/s41586-026-10486-8",
+    "date": "2026-04-09",
+    "source": "Nature",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-se-acerca-la-parte-mas-tecnologica-del-iac-de-la-mano-de-begona-garcia\" hreflang=\"es\">El programa “Soñando Estrellas” se acerca a la parte más tecnológica del IAC de la mano de Begoña García</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-se-acerca-la-parte-mas-tecnologica-del-iac-de-la-mano-de-begona-garcia\" hreflang=\"es\">El programa “Soñando Estrellas” se acerca a la parte más tecnológica del IAC de la mano de Begoña García</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-programa-sonando-estrellas-se-acerca-la-parte-mas-tecnologica-del-iac-de-la-mano-de-begona-garcia",
+    "date": "2026-04-09",
+    "source": "IAC",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "Seeing and imagining activate some of the same brain cells",
+    "title_es": "Ver e imaginar activan algunas de las mismas células cerebrales.",
+    "url": "https://www.sciencenews.org/article/seeing-imagining-activate-brain-cells",
+    "date": "2026-04-09",
+    "source": "Science News",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "Human-built ‘beaver’ dams help save struggling streams",
+    "title_es": "Las represas de \"castores\" construidas por humanos ayudan a salvar arroyos en dificultades",
+    "url": "https://www.snexplores.org/article/human-beaver-dams-healthy-streams",
+    "date": "2026-04-09",
+    "source": "Science News Explores",
+    "published": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
+    "title_es": "Los científicos descubren una sinergia de especias que aumenta 100 veces la antiinflamación",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
+    "date": "2026-04-09",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -21879,8 +21967,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Antecedents of the effectiveness of entrepreneurship policy: An integrated framework",
-    "title_es": "Corrección: Antecedentes de la eficacia de la política de emprendimiento: un marco integrado",
+    "title": "Clinical usefulness of serum autotaxin levels for predicting decompensation development and prognosis in patients with compensated cirrhosis",
+    "title_es": "Utilidad clínica de los niveles séricos de autotaxina para predecir el desarrollo y pronóstico de la descompensación en pacientes con cirrosis compensada.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -56065,6 +56153,22 @@
     "title": "Destruction of Comet C/2026 A1 (MAPS)",
     "title_es": "Destruction of Comet C/2026 A1 (MAPS)",
     "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Energetic and structural properties of two-dimensional trapped mesoscopic Fermi gases, by Emma K. Laird, Brendan C. Mulkerin, Jia Wang, Matthew J. Davis",
+    "title_es": "Energetic and structural properties of two-dimensional trapped mesoscopic Fermi gases, by Emma K. Laird, Brendan C. Mulkerin, Jia Wang, Matthew J. Davis",
+    "url": "https://scipost.org/scipostphyscore.9.2.021",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Exploring the Antennae",
+    "title_es": "Exploring the Antennae",
+    "url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeselbycolombari1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
