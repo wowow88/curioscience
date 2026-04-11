@@ -1,10 +1,80 @@
 [
   {
+    "title": "NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth",
+    "title_es": "La NASA da la bienvenida a la Tierra a los viajeros lunares Artemis II que batieron récords",
+    "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+    "date": "2026-04-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Artemis II's record-breaking journey around the moon ends with dramatic splashdown",
+    "title_es": "El viaje récord de Artemis II alrededor de la luna termina con un dramático aterrizaje",
+    "url": "https://phys.org/news/2026-04-artemis-ii-journey-moon-splashdown.html",
+    "date": "2026-04-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Medieval Japanese poetry and buried trees help elucidate volatile space weather",
     "title_es": "La poesía japonesa medieval y los árboles enterrados ayudan a dilucidar el clima espacial volátil",
     "url": "https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html",
     "date": "2026-04-10",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Advanced machine learning-guided optimization platform for high-yield soluble expression of <i>Pseudomonas aeruginosa</i> exotoxin A in engineered <i>Escherichia coli</i> strains",
+    "title_es": "Plataforma avanzada de optimización guiada por aprendizaje automático para la expresión soluble de alto rendimiento de la exotoxina A de <i>Pseudomonas aeruginosa</i> en cepas de <i>Escherichia coli</i> diseñadas",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-10",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+    "title_es": "Corrección del autor: el perfil multiómico revela la dinámica inmune relacionada con la edad en adultos sanos",
+    "url": "https://www.nature.com/articles/s41586-026-10484-w",
+    "date": "2026-04-10",
+    "source": "Nature"
+  },
+  {
+    "title": "CNIC celebra un encuentro en el marco del Programa de Investigadores Visitantes impulsado por la Fundación Occident",
+    "title_es": "CNIC celebra un encuentro en el marco del Programa de Investigadores Visitantes impulsado por la Fundación Occident",
+    "url": "https://www.cnic.es/es/noticias/cnic-celebra-un-encuentro-marco-programa-investigadores-visitantes-impulsado-por-fundacion",
+    "date": "2026-04-10",
+    "source": "CNIC"
+  },
+  {
+    "title": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
+    "title_es": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
+    "url": "https://www.cnio.es/noticias/alejo-efeyan-recibe-un-programa-cris-de-excelencia-para-desentranar-los-efectos-de-la-restriccion-dietetica-en-la-prevencion-y-el-tratamiento-del-cancer-de-higado/",
+    "date": "2026-04-10",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-investigador-del-iac-rafael-rebolo-elegido-academico-de-numero-de-la-real-academia-de-ciencias-de\" hreflang=\"es\">El investigador del IAC Rafael Rebolo, elegido académico de número de la Real Academia de Ciencias de España</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-investigador-del-iac-rafael-rebolo-elegido-academico-de-numero-de-la-real-academia-de-ciencias-de\" hreflang=\"es\">El investigador del IAC Rafael Rebolo, elegido académico de número de la Real Academia de Ciencias de España</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-investigador-del-iac-rafael-rebolo-elegido-academico-de-numero-de-la-real-academia-de-ciencias-de",
+    "date": "2026-04-10",
+    "source": "IAC"
+  },
+  {
+    "title": "Artemis II ends its historic lunar journey",
+    "title_es": "Artemis II finaliza su histórico viaje lunar",
+    "url": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
+    "date": "2026-04-10",
+    "source": "Science News"
+  },
+  {
+    "title": "After the dino-killer asteroid, life bounced back quickly",
+    "title_es": "Después del asteroide que mató a los dinosaurios, la vida se recuperó rápidamente",
+    "url": "https://www.snexplores.org/article/fast-life-evolution-dino-killer-asteroid",
+    "date": "2026-04-10",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A common nutrient could supercharge cancer treatment",
+    "title_es": "Un nutriente común podría potenciar el tratamiento del cáncer",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
+    "date": "2026-04-10",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Liquid or solid? Oobleck droplets are both",
@@ -26,13 +96,6 @@
     "url": "https://phys.org/news/2026-04-dark-states.html",
     "date": "2026-04-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Clinical usefulness of serum autotaxin levels for predicting decompensation development and prognosis in patients with compensated cirrhosis",
-    "title_es": "Utilidad clínica de los niveles séricos de autotaxina para predecir el desarrollo y pronóstico de la descompensación en pacientes con cirrosis compensada.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
