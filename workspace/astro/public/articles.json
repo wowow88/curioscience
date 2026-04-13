@@ -1,5 +1,37 @@
 [
   {
+    "title": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
+    "title_es": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
+    "url": "https://arxiv.org/abs/2604.08549",
+    "published": "2026-04-13T04:00:00.000Z",
+    "date": "2026-04-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
+    "title_es": "Para las ballenas grises, la Bahía de San Francisco se está convirtiendo en una parada mortal",
+    "url": "https://www.sciencenews.org/article/gray-whale-deaths-boat-strikes-sf",
+    "date": "2026-04-13",
+    "source": "Science News",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "Of gray whales that enter San Francisco Bay, nearly 18% die there, scientists find",
+    "title_es": "De las ballenas grises que ingresan a la Bahía de San Francisco, casi el 18% muere allí, según los científicos",
+    "url": "https://phys.org/news/2026-04-gray-whales-san-francisco-bay.html",
+    "date": "2026-04-13",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+    "title_es": "Un descubrimiento de 110.000 años reescribe la historia de la humanidad: los neandertales y el Homo sapiens trabajaron juntos",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+    "date": "2026-04-12",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "title": "NASA’s Artemis II mission was a historic success",
     "title_es": "NASA’s Artemis II mission was a historic success",
     "url": "https://www.newscientist.com/article/2522636-nasas-artemis-ii-mission-was-a-historic-success/",
@@ -133,6 +165,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
     "date": "2026-04-10",
     "source": "ScienceDaily (Top)",
+    "published": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+    "title_es": "Los modelos de lenguaje grandes generan contenido dañino utilizando un mecanismo unificado y distinto",
+    "url": "http://arxiv.org/abs/2604.09544v1",
+    "date": "2026-04-10",
+    "source": "arXiv",
     "published": "2026-04-10T00:00:00.000Z"
   },
   {

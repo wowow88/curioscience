@@ -1,5 +1,13 @@
 [
   {
+    "title": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
+    "title_es": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
+    "url": "https://arxiv.org/abs/2604.08549",
+    "published": "2026-04-13T04:00:00.000Z",
+    "date": "2026-04-13",
+    "source": "arXiv"
+  },
+  {
     "title": "The scope of biological possibility expands",
     "title_es": "The scope of biological possibility expands",
     "url": "https://www.science.org/doi/abs/10.1126/science.aee7892",
@@ -56,11 +64,11 @@
     "source": "CERN Press"
   },
   {
-    "title": "Artemis II ends its historic lunar journey",
-    "title_es": "Artemis II ends its historic lunar journey",
-    "url": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
-    "published": "2026-04-10T15:00:00.000Z",
-    "date": "2026-04-10",
+    "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
+    "title_es": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
+    "url": "https://www.sciencenews.org/article/gray-whale-deaths-boat-strikes-sf",
+    "published": "2026-04-13T04:00:00.000Z",
+    "date": "2026-04-13",
     "source": "Science News"
   },
   {
@@ -72,19 +80,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Two simple eating habits linked to lower weight, study finds",
-    "title_es": "Two simple eating habits linked to lower weight, study finds",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
-    "published": "2026-04-11T13:24:37.000Z",
-    "date": "2026-04-11",
+    "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+    "title_es": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+    "published": "2026-04-12T11:32:05.000Z",
+    "date": "2026-04-12",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Inquiry-based biomimicry course inspires students to design solutions by learning from nature",
-    "title_es": "Inquiry-based biomimicry course inspires students to design solutions by learning from nature",
-    "url": "https://phys.org/news/2026-04-inquiry-based-biomimicry-students-solutions.html",
-    "published": "2026-04-11T23:30:01.000Z",
-    "date": "2026-04-11",
+    "title": "Of gray whales that enter San Francisco Bay, nearly 18% die there, scientists find",
+    "title_es": "Of gray whales that enter San Francisco Bay, nearly 18% die there, scientists find",
+    "url": "https://phys.org/news/2026-04-gray-whales-san-francisco-bay.html",
+    "published": "2026-04-13T04:00:04.000Z",
+    "date": "2026-04-13",
     "source": "Phys.org (Latest)"
   },
   {
@@ -136,17 +144,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Comet R3 (PanSTARRS) Brightens",
-    "title_es": "Comet R3 (PanSTARRS) Brightens",
-    "url": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=44.3173&long=92.6425",
+    "url": "https://www.latlong.net/c/?lat=46.4097&long=5.1279",
     "date": "",
     "published": "",
     "source": "ISS Position"
