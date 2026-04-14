@@ -1,5 +1,53 @@
 [
   {
+    "title": "NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration",
+    "title_es": "NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration",
+    "url": "https://arxiv.org/abs/2604.09678",
+    "published": "2026-04-14T04:00:00.000Z",
+    "date": "2026-04-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Large Language Models Don’t Just Analyze People, They Judge Them",
+    "title_es": "Large Language Models Don’t Just Analyze People, They Judge Them",
+    "url": "https://www.sci.news/othersciences/computerscience/large-language-models-trust-humans-14693.html",
+    "published": "2026-04-14T00:16:42.000Z",
+    "date": "2026-04-14",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Super Typhoon Sinlaku",
+    "title_es": "Súper tifón Sinlaku",
+    "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
+    "date": "2026-04-14",
+    "source": "NASA (Top News)",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient graves and DNA uncover family bonds that went beyond genetics",
+    "title_es": "Tumbas antiguas y ADN descubren vínculos familiares que iban más allá de la genética",
+    "url": "https://phys.org/news/2026-04-ancient-graves-dna-uncover-family.html",
+    "date": "2026-04-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "The green solution to climate change isn't happening – and that's good",
+    "title_es": "The green solution to climate change isn't happening – and that's good",
+    "url": "https://www.newscientist.com/article/2522770-the-green-solution-to-climate-change-isnt-happening-and-thats-good/",
+    "published": "2026-04-13T22:00:02.000Z",
+    "date": "2026-04-13",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Student Athletes Feel the Heat as States Adapt to Climate Change",
+    "title_es": "Student Athletes Feel the Heat as States Adapt to Climate Change",
+    "url": "https://undark.org/2026/04/13/student-athletes-climate-change/",
+    "published": "2026-04-13T09:00:00.000Z",
+    "date": "2026-04-13",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
     "title_es": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
     "url": "https://arxiv.org/abs/2604.08549",
@@ -21,6 +69,54 @@
     "url": "https://phys.org/news/2026-04-gray-whales-san-francisco-bay.html",
     "date": "2026-04-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+    "title_es": "Modelos espaciales de estados basados ​​en la física para una previsión fiable de la irradiación solar en sistemas fuera de la red",
+    "url": "http://arxiv.org/abs/2604.11807v1",
+    "date": "2026-04-13",
+    "source": "arXiv",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+    "title_es": "Virus supuestamente robados de laboratorio de alta seguridad causan revuelo en Brasil",
+    "url": "https://www.nature.com/articles/d41586-026-01211-6",
+    "date": "2026-04-13",
+    "source": "Nature",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC-led project advancing a new ant-cancer strategy selected for the CRIS Excellence Program",
+    "title_es": "CNIC-led project advancing a new ant-cancer strategy selected for the CRIS Excellence Program",
+    "url": "https://www.cnic.es/es/node/241428",
+    "date": "2026-04-13",
+    "source": "CNIC",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
+    "title_es": "El fluoruro en el agua potable de EE. UU. no reduce el coeficiente intelectual, según un nuevo estudio",
+    "url": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
+    "date": "2026-04-13",
+    "source": "Science News",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "Check out some of the best pics from the Artemis II mission",
+    "title_es": "Mira algunas de las mejores fotografías de la misión Artemis II",
+    "url": "https://www.snexplores.org/article/artemis-pics-moon-images",
+    "date": "2026-04-13",
+    "source": "Science News Explores",
+    "published": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "title": "New toothpaste stops gum disease without killing good bacteria",
+    "title_es": "Una nueva pasta de dientes detiene la enfermedad de las encías sin matar las bacterias buenas",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+    "date": "2026-04-13",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-13T00:00:00.000Z"
   },
   {
@@ -56,7 +152,7 @@
     "published": "2026-04-11T00:00:00.000Z"
   },
   {
-    "title": "La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords",
+    "title": "La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords",
     "title_es": "La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords",
     "url": "https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/",
     "date": "2026-04-11",
@@ -128,7 +224,7 @@
     "published": "2026-04-10T00:00:00.000Z"
   },
   {
-    "title": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
+    "title": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar por qué la restricción dietética ayuda a prevenir y tratar el cáncer de hígado",
     "title_es": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
     "url": "https://www.cnio.es/noticias/alejo-efeyan-recibe-un-programa-cris-de-excelencia-para-desentranar-los-efectos-de-la-restriccion-dietetica-en-la-prevencion-y-el-tratamiento-del-cancer-de-higado/",
     "date": "2026-04-10",
@@ -22135,8 +22231,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Advanced machine learning-guided optimization platform for high-yield soluble expression of Pseudomonas aeruginosa exotoxin A in engineered Escherichia coli strains",
-    "title_es": "Plataforma avanzada de optimización guiada por aprendizaje automático para la expresión soluble de alto rendimiento de la exotoxina A de <i>Pseudomonas aeruginosa</i> en cepas de <i>Escherichia coli</i> diseñadas",
+    "title": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication",
+    "title_es": "De la atención visual a la intención conductual: un marco relacional de postres culturalmente creativos en la comunicación museística",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -56372,5 +56468,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "On the addition of an SU(2) quadruplet of scalars to the Standard Model, by Darius Jurčiukonis, Luís Lavoura",
+    "title_es": "On the addition of an SU(2) quadruplet of scalars to the Standard Model, by Darius Jurčiukonis, Luís Lavoura",
+    "url": "https://scipost.org/scipostphyscore.9.2.022",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Super Typhoon Sinlaku",
+    "title_es": "Súper tifón Sinlaku",
+    "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
+    "date": "2026-04-14",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Ancient graves and DNA uncover family bonds that went beyond genetics",
+    "title_es": "Tumbas antiguas y ADN descubren vínculos familiares que iban más allá de la genética",
+    "url": "https://phys.org/news/2026-04-ancient-graves-dna-uncover-family.html",
+    "date": "2026-04-14",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
     "title_es": "Para las ballenas grises, la Bahía de San Francisco se está convirtiendo en una parada mortal",
     "url": "https://www.sciencenews.org/article/gray-whale-deaths-boat-strikes-sf",
@@ -12,6 +26,55 @@
     "url": "https://phys.org/news/2026-04-gray-whales-san-francisco-bay.html",
     "date": "2026-04-13",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication",
+    "title_es": "De la atención visual a la intención conductual: un marco relacional de postres culturalmente creativos en la comunicación museística",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-13",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+    "title_es": "Modelos espaciales de estados basados ​​en la física para una previsión fiable de la irradiación solar en sistemas fuera de la red",
+    "url": "http://arxiv.org/abs/2604.11807v1",
+    "date": "2026-04-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+    "title_es": "Virus supuestamente robados de laboratorio de alta seguridad causan revuelo en Brasil",
+    "url": "https://www.nature.com/articles/d41586-026-01211-6",
+    "date": "2026-04-13",
+    "source": "Nature"
+  },
+  {
+    "title": "CNIC-led project advancing a new ant-cancer strategy selected for the CRIS Excellence Program",
+    "title_es": "CNIC-led project advancing a new ant-cancer strategy selected for the CRIS Excellence Program",
+    "url": "https://www.cnic.es/es/node/241428",
+    "date": "2026-04-13",
+    "source": "CNIC"
+  },
+  {
+    "title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
+    "title_es": "El fluoruro en el agua potable de EE. UU. no reduce el coeficiente intelectual, según un nuevo estudio",
+    "url": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
+    "date": "2026-04-13",
+    "source": "Science News"
+  },
+  {
+    "title": "Check out some of the best pics from the Artemis II mission",
+    "title_es": "Mira algunas de las mejores fotografías de la misión Artemis II",
+    "url": "https://www.snexplores.org/article/artemis-pics-moon-images",
+    "date": "2026-04-13",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "New toothpaste stops gum disease without killing good bacteria",
+    "title_es": "Una nueva pasta de dientes detiene la enfermedad de las encías sin matar las bacterias buenas",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+    "date": "2026-04-13",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
@@ -63,13 +126,6 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Advanced machine learning-guided optimization platform for high-yield soluble expression of <i>Pseudomonas aeruginosa</i> exotoxin A in engineered <i>Escherichia coli</i> strains",
-    "title_es": "Plataforma avanzada de optimización guiada por aprendizaje automático para la expresión soluble de alto rendimiento de la exotoxina A de <i>Pseudomonas aeruginosa</i> en cepas de <i>Escherichia coli</i> diseñadas",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-10",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
     "title_es": "Corrección del autor: el perfil multiómico revela la dinámica inmune relacionada con la edad en adultos sanos",
     "url": "https://www.nature.com/articles/s41586-026-10484-w",
@@ -84,8 +140,8 @@
     "source": "CNIC"
   },
   {
-    "title": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
-    "title_es": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar los efectos de la restricción dietética en la prevención y el tratamiento del cáncer de hígado",
+    "title": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar por qué la restricción dietética ayuda a prevenir y tratar el cáncer de hígado",
+    "title_es": "Alejo Efeyan recibe un Programa CRIS de Excelencia para desentrañar por qué la restricción dietética ayuda a prevenir y tratar el cáncer de hígado",
     "url": "https://www.cnio.es/noticias/alejo-efeyan-recibe-un-programa-cris-de-excelencia-para-desentranar-los-efectos-de-la-restriccion-dietetica-en-la-prevencion-y-el-tratamiento-del-cancer-de-higado/",
     "date": "2026-04-10",
     "source": "CNIO"
