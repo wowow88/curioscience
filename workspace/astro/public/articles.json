@@ -1,5 +1,53 @@
 [
   {
+    "title": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
+    "title_es": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
+    "url": "https://arxiv.org/abs/2604.11810",
+    "published": "2026-04-15T04:00:00.000Z",
+    "date": "2026-04-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "Imaging interface-controlled bulk oxygen spillover",
+    "title_es": "Desbordamiento de oxígeno a granel controlado por interfaz de imágenes",
+    "url": "https://www.nature.com/articles/s41586-026-10324-x",
+    "date": "2026-04-15",
+    "source": "Nature",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Copper's 'gatekeeper' could unlock cleaner energy future",
+    "title_es": "El 'guardián' del cobre podría desbloquear un futuro energético más limpio",
+    "url": "https://phys.org/news/2026-04-copper-gatekeeper-cleaner-energy-future.html",
+    "date": "2026-04-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient Tidal Flats Were Busier Than We Thought",
+    "title_es": "Ancient Tidal Flats Were Busier Than We Thought",
+    "url": "https://www.sci.news/paleontology/cambrian-tidal-flats-14694.html",
+    "published": "2026-04-14T20:14:13.000Z",
+    "date": "2026-04-14",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Is a super El Niño imminent, and what could the impacts be?",
+    "title_es": "Is a super El Niño imminent, and what could the impacts be?",
+    "url": "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be/",
+    "published": "2026-04-14T20:00:28.000Z",
+    "date": "2026-04-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "When Scientific Debate Steps into Custody Cases",
+    "title_es": "When Scientific Debate Steps into Custody Cases",
+    "url": "https://undark.org/2026/04/14/parental-alienation-custody/",
+    "published": "2026-04-14T07:07:00.000Z",
+    "date": "2026-04-14",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration",
     "title_es": "NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration",
     "url": "https://arxiv.org/abs/2604.09678",
@@ -29,6 +77,38 @@
     "url": "https://phys.org/news/2026-04-ancient-graves-dna-uncover-family.html",
     "date": "2026-04-14",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "Visual Preference Optimization with Rubric Rewards",
+    "title_es": "Optimización de preferencias visuales con recompensas de rúbrica",
+    "url": "http://arxiv.org/abs/2604.13029v1",
+    "date": "2026-04-14",
+    "source": "arXiv",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "New mutations help the H5N1 bird flu virus infect cows but not people",
+    "title_es": "Nuevas mutaciones ayudan al virus de la gripe aviar H5N1 a infectar a las vacas pero no a las personas",
+    "url": "https://www.sciencenews.org/article/mutations-h5n1-bird-flu-adapt-cows",
+    "date": "2026-04-14",
+    "source": "Science News",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "Flat-faced dogs often struggle to breathe easy",
+    "title_es": "Los perros de cara plana a menudo tienen dificultades para respirar con facilidad",
+    "url": "https://www.snexplores.org/article/flat-faced-dogs-pugs-breathing-problems",
+    "date": "2026-04-14",
+    "source": "Science News Explores",
+    "published": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists just recreated a rare cosmic reaction never seen before",
+    "title_es": "Los científicos acaban de recrear una rara reacción cósmica nunca antes vista",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
+    "date": "2026-04-14",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -22231,8 +22311,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication",
-    "title_es": "De la atención visual a la intención conductual: un marco relacional de postres culturalmente creativos en la comunicación museística",
+    "title": "Correction: Beyond wind speed: Integrating oceanic indices and time-lagged features for superior wind energy prediction",
+    "title_es": "Corrección: Más allá de la velocidad del viento: integración de índices oceánicos y características desfasadas en el tiempo para una predicción superior de la energía eólica",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -56476,5 +56556,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Hydrodynamic noise in one dimension: Projected Kubo formula and how it vanishes in integrable models, by Benjamin Doyon",
+    "title_es": "Hydrodynamic noise in one dimension: Projected Kubo formula and how it vanishes in integrable models, by Benjamin Doyon",
+    "url": "https://scipost.org/scipostphys.20.4.111",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The ISS Transits the Moon",
+    "title_es": "The ISS Transits the Moon",
+    "url": "https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
