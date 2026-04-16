@@ -1,5 +1,45 @@
 [
   {
+    "title": "OVT-MLCS: An Online Visual Tool for MLCS Mining from Long or Big Sequences",
+    "title_es": "OVT-MLCS: An Online Visual Tool for MLCS Mining from Long or Big Sequences",
+    "url": "https://arxiv.org/abs/2604.13037",
+    "published": "2026-04-16T04:00:00.000Z",
+    "date": "2026-04-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Big-Nosed Herbivorous Dinosaur May Have Been Picky Eater",
+    "title_es": "Big-Nosed Herbivorous Dinosaur May Have Been Picky Eater",
+    "url": "https://www.sci.news/paleontology/muttaburrasaurus-langdoni-14699.html",
+    "published": "2026-04-16T01:34:41.000Z",
+    "date": "2026-04-16",
+    "source": "Sci.News"
+  },
+  {
+    "title": "This drone reveals what lies beneath snow and soil",
+    "title_es": "Este dron revela lo que hay debajo de la nieve y el suelo",
+    "url": "https://phys.org/news/2026-04-drone-reveals-beneath-soil.html",
+    "date": "2026-04-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "title": "Requests for blood from unvaccinated donors is harming patients",
+    "title_es": "Requests for blood from unvaccinated donors is harming patients",
+    "url": "https://www.newscientist.com/article/2523157-requests-for-blood-from-unvaccinated-donors-is-harming-patients/",
+    "published": "2026-04-15T18:24:25.000Z",
+    "date": "2026-04-15",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A Decongestant Debate That Won’t Clear Up",
+    "title_es": "A Decongestant Debate That Won’t Clear Up",
+    "url": "https://undark.org/2026/04/15/sudafed-phenylephrine-debate/",
+    "published": "2026-04-15T07:06:00.000Z",
+    "date": "2026-04-15",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
     "title_es": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
     "url": "https://arxiv.org/abs/2604.11810",
@@ -21,6 +61,62 @@
     "url": "https://phys.org/news/2026-04-copper-gatekeeper-cleaner-energy-future.html",
     "date": "2026-04-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+    "title_es": "De $P(y|x)$ a $P(y)$: Investigación del aprendizaje por refuerzo en el espacio previo al entrenamiento",
+    "url": "http://arxiv.org/abs/2604.14142v1",
+    "date": "2026-04-15",
+    "source": "arXiv",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
+    "title_es": "Las redes citoplasmáticas son complejos de almacenamiento de megadaltones en ovocitos de mamíferos.",
+    "url": "https://www.nature.com/articles/s41586-026-10513-8",
+    "date": "2026-04-15",
+    "source": "Nature",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Las mitocondrias mantienen a las células inmunitarias “listas para responder”",
+    "title_es": "Las mitocondrias mantienen a las células inmunitarias “listas para responder”",
+    "url": "https://www.cnic.es/es/noticias/mitocondrias-mantienen-celulas-inmunitarias-listas-para-responder",
+    "date": "2026-04-15",
+    "source": "CNIC",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-confirmacion-de-un-sistema-multiplanetario-en-constante-cambio\" hreflang=\"es\">El IAC participa en la confirmación de un sistema multiplanetario en constante cambio</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-confirmacion-de-un-sistema-multiplanetario-en-constante-cambio\" hreflang=\"es\">El IAC participa en la confirmación de un sistema multiplanetario en constante cambio</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-confirmacion-de-un-sistema-multiplanetario-en-constante-cambio",
+    "date": "2026-04-15",
+    "source": "IAC",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Breath carries clues to gut health",
+    "title_es": "La respiración aporta pistas sobre la salud intestinal",
+    "url": "https://www.sciencenews.org/article/breath-tests-clues-to-gut-health",
+    "date": "2026-04-15",
+    "source": "Science News",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Explainer: What are ultraprocessed foods?",
+    "title_es": "Explicador: ¿Qué son los alimentos ultraprocesados?",
+    "url": "https://www.snexplores.org/article/what-are-ultraprocessed-foods",
+    "date": "2026-04-15",
+    "source": "Science News Explores",
+    "published": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "The surprising reason you’re so productive one day and not the next",
+    "title_es": "La sorprendente razón por la que eres tan productivo un día y no al siguiente",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
+    "date": "2026-04-15",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-15T00:00:00.000Z"
   },
   {
@@ -22311,8 +22407,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Beyond wind speed: Integrating oceanic indices and time-lagged features for superior wind energy prediction",
-    "title_es": "Corrección: Más allá de la velocidad del viento: integración de índices oceánicos y características desfasadas en el tiempo para una predicción superior de la energía eólica",
+    "title": "Correction: The importance of structure: Using targeted rewiring to explore social networks property interdependencies",
+    "title_es": "Corrección: La importancia de la estructura: uso de recableado dirigido para explorar las interdependencias de propiedad de las redes sociales",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -56572,5 +56668,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Thermodynamics of autonomous optical Bloch equations, by Samyak Pratyush Prasad, Maria Maffei, Patrice A. Camati, Cyril Elouard, Alexia Auffèves",
+    "title_es": "Thermodynamics of autonomous optical Bloch equations, by Samyak Pratyush Prasad, Maria Maffei, Patrice A. Camati, Cyril Elouard, Alexia Auffèves",
+    "url": "https://scipost.org/scipostphys.20.4.112",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
