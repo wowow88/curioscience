@@ -1,10 +1,38 @@
 [
   {
+    "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
+    "title_es": "HydroGraphNet mejora las predicciones de cuencas hidrográficas sobre el flujo diario y el nitrógeno en regiones con datos escasos",
+    "url": "https://phys.org/news/2026-04-hydrographnet-boosts-watershed-daily-nitrogen.html",
+    "date": "2026-04-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "How nanomedicine gets inside your cells and treats you from the inside out",
     "title_es": "Cómo la nanomedicina entra en tus células y te trata de adentro hacia afuera",
     "url": "https://phys.org/news/2026-04-nanomedicine-cells.html",
     "date": "2026-04-18",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes",
+    "title_es": "Las mediciones de muones magnéticos y los avances en terapia génica ganan premios innovadores de 3 millones de dólares",
+    "url": "https://www.nature.com/articles/d41586-026-01014-9",
+    "date": "2026-04-18",
+    "source": "Nature"
+  },
+  {
+    "title": "Science behind the scenes",
+    "title_es": "Ciencia detrás de escena",
+    "url": "https://www.sciencenews.org/article/science-behind-the-scenes",
+    "date": "2026-04-18",
+    "source": "Science News"
+  },
+  {
+    "title": "What caffeine does to ants could change pest control",
+    "title_es": "Lo que la cafeína les hace a las hormigas podría cambiar el control de plagas",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
+    "date": "2026-04-18",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Spring Rains Saturate Michigan",
@@ -250,6 +278,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
     "date": "2026-04-14",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Muon g-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
+    "title_es": "Los pioneros del experimento Muon g-2 ganan un premio innovador en física fundamental",
+    "url": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
+    "date": "2026-04-14",
+    "source": "CERN Press"
   },
   {
     "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
