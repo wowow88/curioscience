@@ -1,5 +1,13 @@
 [
   {
+    "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+    "title_es": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+    "url": "https://arxiv.org/abs/2604.15314",
+    "published": "2026-04-20T04:00:00.000Z",
+    "date": "2026-04-20",
+    "source": "arXiv"
+  },
+  {
     "title": "The life and legacy of George Schaller",
     "title_es": "The life and legacy of George Schaller",
     "url": "https://www.science.org/doi/abs/10.1126/science.aee8708",
@@ -30,6 +38,14 @@
     "published": "2026-04-16T13:12:41.000Z",
     "date": "2026-04-16",
     "source": "CNIO"
+  },
+  {
+    "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+    "title_es": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+    "url": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+    "published": "2026-04-17T21:21:02.000Z",
+    "date": "2026-04-17",
+    "source": "NASA (Top News)"
   },
   {
     "title": "CMS looks deep inside quarks",
@@ -64,18 +80,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "What caffeine does to ants could change pest control",
-    "title_es": "What caffeine does to ants could change pest control",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
-    "published": "2026-04-18T11:54:08.000Z",
-    "date": "2026-04-18",
+    "title": "After 200 years scientists finally crack the “dolomite problem”",
+    "title_es": "After 200 years scientists finally crack the “dolomite problem”",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+    "published": "2026-04-20T06:28:54.000Z",
+    "date": "2026-04-20",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
-    "title_es": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
-    "url": "https://phys.org/news/2026-04-hydrographnet-boosts-watershed-daily-nitrogen.html",
-    "published": "2026-04-19T01:40:01.000Z",
+    "title": "When AI starts shopping for you, fashion may be entering a new era of pricing",
+    "title_es": "When AI starts shopping for you, fashion may be entering a new era of pricing",
+    "url": "https://phys.org/news/2026-04-ai-fashion-era-pricing.html",
+    "published": "2026-04-19T23:30:03.000Z",
     "date": "2026-04-19",
     "source": "Phys.org (Latest)"
   },
@@ -88,20 +104,12 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "How autoimmune conditions can unexpectedly drive mental illness",
-    "title_es": "How autoimmune conditions can unexpectedly drive mental illness",
-    "url": "https://www.newscientist.com/article/2521774-how-autoimmune-conditions-can-unexpectedly-drive-mental-illness/",
-    "published": "2026-04-14T16:00:08.000Z",
-    "date": "2026-04-14",
+    "title": "Hospital-acquired pneumonia reduced by daily toothbrushing",
+    "title_es": "Hospital-acquired pneumonia reduced by daily toothbrushing",
+    "url": "https://www.newscientist.com/article/2523576-hospital-acquired-pneumonia-reduced-by-daily-toothbrushing/",
+    "published": "2026-04-19T23:01:43.000Z",
+    "date": "2026-04-19",
     "source": "New Scientist"
-  },
-  {
-    "title": "Doubling Down on Diamond",
-    "title_es": "Doubling Down on Diamond",
-    "url": "https://scipost.org/roadmap",
-    "published": "",
-    "date": "",
-    "source": "SciPost News"
   },
   {
     "title": "New Triassic Dinosaur Species Identified in New Mexico",
@@ -120,17 +128,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Disperon QED, by Yizhou Fang, Sophie Kollatzsch, Marco Rocco, Adrian Signer, Yannick Ulrich, Max Zoller",
-    "title_es": "Disperon QED, by Yizhou Fang, Sophie Kollatzsch, Marco Rocco, Adrian Signer, Yannick Ulrich, Max Zoller",
-    "url": "https://scipost.org/scipostphys.20.4.116",
-    "published": "",
+    "title": "Comet R3 PanSTARRS over a Himalayan Valley",
+    "title_es": "Comet R3 PanSTARRS over a Himalayan Valley",
+    "url": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg",
     "date": "",
-    "source": "SciPost Publications"
+    "published": "",
+    "source": "NASA APOD"
   },
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-34.2930&long=-112.1410",
+    "url": "https://www.latlong.net/c/?lat=-48.7192&long=151.2724",
     "date": "",
     "published": "",
     "source": "ISS Position"

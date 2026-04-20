@@ -1,8 +1,40 @@
 [
   {
+    "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+    "title_es": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+    "url": "https://arxiv.org/abs/2604.15314",
+    "published": "2026-04-20T04:00:00.000Z",
+    "date": "2026-04-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "After 200 years scientists finally crack the “dolomite problem”",
+    "title_es": "Después de 200 años, los científicos finalmente resuelven el \"problema de la dolomita\"",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+    "date": "2026-04-20",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "Hospital-acquired pneumonia reduced by daily toothbrushing",
+    "title_es": "Hospital-acquired pneumonia reduced by daily toothbrushing",
+    "url": "https://www.newscientist.com/article/2523576-hospital-acquired-pneumonia-reduced-by-daily-toothbrushing/",
+    "published": "2026-04-19T23:01:43.000Z",
+    "date": "2026-04-19",
+    "source": "New Scientist"
+  },
+  {
     "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
     "title_es": "HydroGraphNet mejora las predicciones de cuencas hidrográficas sobre el flujo diario y el nitrógeno en regiones con datos escasos",
     "url": "https://phys.org/news/2026-04-hydrographnet-boosts-watershed-daily-nitrogen.html",
+    "date": "2026-04-19",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "title": "When AI starts shopping for you, fashion may be entering a new era of pricing",
+    "title_es": "Cuando la IA comience a comprar para usted, la moda puede estar entrando en una nueva era de precios",
+    "url": "https://phys.org/news/2026-04-ai-fashion-era-pricing.html",
     "date": "2026-04-19",
     "source": "Phys.org (Latest)",
     "published": "2026-04-19T00:00:00.000Z"
@@ -141,6 +173,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
     "date": "2026-04-17",
     "source": "ScienceDaily (Top)",
+    "published": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+    "title_es": "ASMR-Bench: Auditoría para sabotajes en la investigación de ML",
+    "url": "http://arxiv.org/abs/2604.16286v1",
+    "date": "2026-04-17",
+    "source": "arXiv",
     "published": "2026-04-17T00:00:00.000Z"
   },
   {
@@ -56972,5 +57012,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Comet R3 PanSTARRS over a Himalayan Valley",
+    "title_es": "Comet R3 PanSTARRS over a Himalayan Valley",
+    "url": "https://apod.nasa.gov/apod/image/2604/valleycomet_chakrabarti_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]

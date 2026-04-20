@@ -1,8 +1,22 @@
 [
   {
+    "title": "After 200 years scientists finally crack the “dolomite problem”",
+    "title_es": "Después de 200 años, los científicos finalmente resuelven el \"problema de la dolomita\"",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+    "date": "2026-04-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
     "title_es": "HydroGraphNet mejora las predicciones de cuencas hidrográficas sobre el flujo diario y el nitrógeno en regiones con datos escasos",
     "url": "https://phys.org/news/2026-04-hydrographnet-boosts-watershed-daily-nitrogen.html",
+    "date": "2026-04-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "When AI starts shopping for you, fashion may be entering a new era of pricing",
+    "title_es": "Cuando la IA comience a comprar para usted, la moda puede estar entrando en una nueva era de precios",
+    "url": "https://phys.org/news/2026-04-ai-fashion-era-pricing.html",
     "date": "2026-04-19",
     "source": "Phys.org (Latest)"
   },
@@ -96,6 +110,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
     "date": "2026-04-17",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+    "title_es": "ASMR-Bench: Auditoría para sabotajes en la investigación de ML",
+    "url": "http://arxiv.org/abs/2604.16286v1",
+    "date": "2026-04-17",
+    "source": "arXiv"
   },
   {
     "title": "This drone reveals what lies beneath snow and soil",
