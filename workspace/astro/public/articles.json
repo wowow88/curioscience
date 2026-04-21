@@ -1,5 +1,61 @@
 [
   {
+    "title": "GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning",
+    "title_es": "GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2604.16871",
+    "published": "2026-04-21T04:00:00.000Z",
+    "date": "2026-04-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "A School of Mud Volcano Islands in Azerbaijan",
+    "title_es": "Una escuela de islas de volcanes de lodo en Azerbaiyán",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/",
+    "date": "2026-04-21",
+    "source": "NASA (Top News)",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "95% success rate: This new trick lures termites straight to their death",
+    "title_es": "Tasa de éxito del 95%: este nuevo truco atrae a las termitas directamente a la muerte",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420233930.htm",
+    "date": "2026-04-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Report analyzes the present and future of North America's most important trade agreement",
+    "title_es": "Informe analiza el presente y futuro del acuerdo comercial más importante de América del Norte",
+    "url": "https://phys.org/news/2026-04-future-north-america-important-agreement.html",
+    "date": "2026-04-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Museum Fossil Reveals Triassic Crocodile Cousin with Powerful Jaws",
+    "title_es": "Museum Fossil Reveals Triassic Crocodile Cousin with Powerful Jaws",
+    "url": "https://www.sci.news/paleontology/eosphorosuchus-lacrimosa-14708.html",
+    "published": "2026-04-20T23:20:15.000Z",
+    "date": "2026-04-20",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Diamonds are surprisingly elastic when you make them tiny",
+    "title_es": "Diamonds are surprisingly elastic when you make them tiny",
+    "url": "https://www.newscientist.com/article/2523607-diamonds-are-surprisingly-elastic-when-you-make-them-tiny/",
+    "published": "2026-04-20T21:00:37.000Z",
+    "date": "2026-04-20",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Interview: Christopher Borgert on an Infamous Glyphosate Paper",
+    "title_es": "Interview: Christopher Borgert on an Infamous Glyphosate Paper",
+    "url": "https://undark.org/2026/04/20/interview-christopher-borgert-glyphosate/",
+    "published": "2026-04-20T12:00:00.000Z",
+    "date": "2026-04-20",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
     "title_es": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
     "url": "https://arxiv.org/abs/2604.15314",
@@ -13,6 +69,38 @@
     "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
     "date": "2026-04-20",
     "source": "ScienceDaily (Top)",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+    "title_es": "MathNet: un punto de referencia multimodal global para el razonamiento y la recuperación matemáticos",
+    "url": "http://arxiv.org/abs/2604.18584v1",
+    "date": "2026-04-20",
+    "source": "arXiv",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread",
+    "title_es": "Vídeos de animales del 'festín de murciélagos' en una cueva africana ofrecen pistas sobre cómo se propagan los virus mortales",
+    "url": "https://www.nature.com/articles/d41586-026-01259-4",
+    "date": "2026-04-20",
+    "source": "Nature",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "Increasing heat can boost malnutrition among children",
+    "title_es": "El aumento del calor puede aumentar la desnutrición entre los niños",
+    "url": "https://www.sciencenews.org/article/malnutrition-heat-climate-children-brazil",
+    "date": "2026-04-20",
+    "source": "Science News",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "Sneaky: AI auto-complete may be shaping our views",
+    "title_es": "Astuto: el autocompletado de IA puede estar dando forma a nuestras opiniones",
+    "url": "https://www.snexplores.org/article/ai-auto-complete-bias-views",
+    "date": "2026-04-20",
+    "source": "Science News Explores",
     "published": "2026-04-20T00:00:00.000Z"
   },
   {
@@ -310,6 +398,14 @@
     "published": "2026-04-15T18:24:25.000Z",
     "date": "2026-04-15",
     "source": "New Scientist"
+  },
+  {
+    "title": "Beamline for Schools receives a record number of submissions",
+    "title_es": "Beamline for Schools receives a record number of submissions",
+    "url": "https://home.cern/news/news/knowledge-sharing/beamline-schools-receives-record-number-submissions",
+    "published": "2026-04-15T08:39:42.000Z",
+    "date": "2026-04-15",
+    "source": "CERN News"
   },
   {
     "title": "A Decongestant Debate That Won’t Clear Up",
@@ -22703,8 +22799,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Extensive intraoperative peritoneal lavage (EIPL) for gastric cancer with positive peritoneal lavage and/or stamp cytology: An exploratory phase II study",
-    "title_es": "Lavado peritoneal intraoperatorio extenso (EIPL) para el cáncer gástrico con lavado peritoneal positivo y/o citología con sello: un estudio exploratorio de fase II",
+    "title": "An exploratory analysis of changes in work values among nurses before and after pregnancy",
+    "title_es": "Un análisis exploratorio de los cambios en los valores laborales entre enfermeras antes y después del embarazo.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -57020,5 +57116,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "10 Years Jubilee 🎉",
+    "title_es": "10 Years Jubilee 🎉",
+    "url": "https://scipost.org/",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
   }
 ]
