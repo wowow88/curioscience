@@ -1,5 +1,19 @@
 [
   {
+    "title": "Belts of Green in the Washington Suburbs",
+    "title_es": "Cinturones de verde en los suburbios de Washington",
+    "url": "https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/",
+    "date": "2026-04-22",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Which 'money type' are you? New research maps financial habits of young Australians",
+    "title_es": "¿Qué 'tipo de dinero' eres? Una nueva investigación mapea los hábitos financieros de los jóvenes australianos",
+    "url": "https://phys.org/news/2026-04-money-financial-habits-young-australians.html",
+    "date": "2026-04-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A School of Mud Volcano Islands in Azerbaijan",
     "title_es": "Una escuela de islas de volcanes de lodo en Azerbaiyán",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/",
@@ -21,18 +35,67 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Enhancing Mergers and Acquisitions (M&A) Performance: Analyzing the Role of Human Resource Practices in Sri Lanka's Telecommunication Industry Through Lewin’s Change Management Model",
+    "title_es": "Corrección: Mejora del desempeño en fusiones y adquisiciones (M&A): Análisis del papel de las prácticas de recursos humanos en la industria de las telecomunicaciones de Sri Lanka a través del modelo de gestión del cambio de Lewin",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-21",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Generalization at the Edge of Stability",
+    "title_es": "Generalización al borde de la estabilidad",
+    "url": "http://arxiv.org/abs/2604.19740v1",
+    "date": "2026-04-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Yellow glass shows insect wings at their best",
+    "title_es": "El vidrio amarillo muestra lo mejor de las alas de los insectos",
+    "url": "https://www.nature.com/articles/d41586-026-00915-z",
+    "date": "2026-04-21",
+    "source": "Nature"
+  },
+  {
+    "title": "CNIC scientists identify a biomarker that improves risk prediction in a severe form of heart failure",
+    "title_es": "CNIC scientists identify a biomarker that improves risk prediction in a severe form of heart failure",
+    "url": "https://www.cnic.es/es/node/241702",
+    "date": "2026-04-21",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos\" hreflang=\"es\">La Escuela de Radioastronomía y el 2º Project Meeting de ExGal-Twin (IAC) se celebran en los Países Bajos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos\" hreflang=\"es\">La Escuela de Radioastronomía y el 2º Project Meeting de ExGal-Twin (IAC) se celebran en los Países Bajos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos",
+    "date": "2026-04-21",
+    "source": "IAC"
+  },
+  {
+    "title": "Humidity makes these bees turn green",
+    "title_es": "La humedad hace que estas abejas se pongan verdes",
+    "url": "https://www.sciencenews.org/article/humidity-bee-hue-color-change",
+    "date": "2026-04-21",
+    "source": "Science News"
+  },
+  {
+    "title": "Massive underground lava tube found on Venus",
+    "title_es": "Enorme tubo de lava subterráneo encontrado en Venus",
+    "url": "https://www.snexplores.org/article/venus-volcano-lava-tube",
+    "date": "2026-04-21",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
+    "title_es": "Un nuevo y extraño estado de la materia puede estar escondido dentro de Urano y Neptuno",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+    "date": "2026-04-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "After 200 years scientists finally crack the “dolomite problem”",
     "title_es": "Después de 200 años, los científicos finalmente resuelven el \"problema de la dolomita\"",
     "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
     "date": "2026-04-20",
     "source": "ScienceDaily (Top)"
-  },
-  {
-    "title": "An exploratory analysis of changes in work values among nurses before and after pregnancy",
-    "title_es": "Un análisis exploratorio de los cambios en los valores laborales entre enfermeras antes y después del embarazo.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-20",
-    "source": "PLOS ONE"
   },
   {
     "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
@@ -61,6 +124,13 @@
     "url": "https://www.snexplores.org/article/ai-auto-complete-bias-views",
     "date": "2026-04-20",
     "source": "Science News Explores"
+  },
+  {
+    "title": "ATLAS acts as a cosmic-ray laboratory",
+    "title_es": "ATLAS actúa como laboratorio de rayos cósmicos",
+    "url": "https://home.cern/news/news/physics/atlas-acts-cosmic-ray-laboratory",
+    "date": "2026-04-20",
+    "source": "CERN News"
   },
   {
     "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",

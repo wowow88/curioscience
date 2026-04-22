@@ -1,5 +1,45 @@
 [
   {
+    "title": "RECURSUM: Automated Code Generation for Recurrence Relations Exceeds Expert Optimization via LayeredCodegen",
+    "title_es": "RECURSUM: Automated Code Generation for Recurrence Relations Exceeds Expert Optimization via LayeredCodegen",
+    "url": "https://arxiv.org/abs/2604.18585",
+    "published": "2026-04-22T04:00:00.000Z",
+    "date": "2026-04-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "If a bird flu pandemic starts, we may have an mRNA vaccine ready",
+    "title_es": "If a bird flu pandemic starts, we may have an mRNA vaccine ready",
+    "url": "https://www.newscientist.com/article/2523838-if-a-bird-flu-pandemic-starts-we-may-have-an-mrna-vaccine-ready/",
+    "published": "2026-04-22T00:01:21.000Z",
+    "date": "2026-04-22",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Belts of Green in the Washington Suburbs",
+    "title_es": "Cinturones de verde en los suburbios de Washington",
+    "url": "https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/",
+    "date": "2026-04-22",
+    "source": "NASA (Top News)",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "title": "Which 'money type' are you? New research maps financial habits of young Australians",
+    "title_es": "¿Qué 'tipo de dinero' eres? Una nueva investigación mapea los hábitos financieros de los jóvenes australianos",
+    "url": "https://phys.org/news/2026-04-money-financial-habits-young-australians.html",
+    "date": "2026-04-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "title": "450-Million-Year-Old Fossils Reveal Strange, Tube-Dwelling Jellyfish Relative",
+    "title_es": "450-Million-Year-Old Fossils Reveal Strange, Tube-Dwelling Jellyfish Relative",
+    "url": "https://www.sci.news/paleontology/paleocanna-tentaculum-14711.html",
+    "published": "2026-04-21T22:17:59.000Z",
+    "date": "2026-04-21",
+    "source": "Sci.News"
+  },
+  {
     "title": "GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning",
     "title_es": "GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning",
     "url": "https://arxiv.org/abs/2604.16871",
@@ -29,6 +69,62 @@
     "url": "https://phys.org/news/2026-04-future-north-america-important-agreement.html",
     "date": "2026-04-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Generalization at the Edge of Stability",
+    "title_es": "Generalización al borde de la estabilidad",
+    "url": "http://arxiv.org/abs/2604.19740v1",
+    "date": "2026-04-21",
+    "source": "arXiv",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Yellow glass shows insect wings at their best",
+    "title_es": "El vidrio amarillo muestra lo mejor de las alas de los insectos",
+    "url": "https://www.nature.com/articles/d41586-026-00915-z",
+    "date": "2026-04-21",
+    "source": "Nature",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC scientists identify a biomarker that improves risk prediction in a severe form of heart failure",
+    "title_es": "CNIC scientists identify a biomarker that improves risk prediction in a severe form of heart failure",
+    "url": "https://www.cnic.es/es/node/241702",
+    "date": "2026-04-21",
+    "source": "CNIC",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos\" hreflang=\"es\">La Escuela de Radioastronomía y el 2º Project Meeting de ExGal-Twin (IAC) se celebran en los Países Bajos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos\" hreflang=\"es\">La Escuela de Radioastronomía y el 2º Project Meeting de ExGal-Twin (IAC) se celebran en los Países Bajos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-escuela-de-radioastronomia-y-el-2o-project-meeting-de-exgal-twin-iac-se-celebran-en-los-paises-bajos",
+    "date": "2026-04-21",
+    "source": "IAC",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Humidity makes these bees turn green",
+    "title_es": "La humedad hace que estas abejas se pongan verdes",
+    "url": "https://www.sciencenews.org/article/humidity-bee-hue-color-change",
+    "date": "2026-04-21",
+    "source": "Science News",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "Massive underground lava tube found on Venus",
+    "title_es": "Enorme tubo de lava subterráneo encontrado en Venus",
+    "url": "https://www.snexplores.org/article/venus-volcano-lava-tube",
+    "date": "2026-04-21",
+    "source": "Science News Explores",
+    "published": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
+    "title_es": "Un nuevo y extraño estado de la materia puede estar escondido dentro de Urano y Neptuno",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+    "date": "2026-04-21",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-21T00:00:00.000Z"
   },
   {
@@ -101,6 +197,14 @@
     "url": "https://www.snexplores.org/article/ai-auto-complete-bias-views",
     "date": "2026-04-20",
     "source": "Science News Explores",
+    "published": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "ATLAS acts as a cosmic-ray laboratory",
+    "title_es": "ATLAS actúa como laboratorio de rayos cósmicos",
+    "url": "https://home.cern/news/news/physics/atlas-acts-cosmic-ray-laboratory",
+    "date": "2026-04-20",
+    "source": "CERN News",
     "published": "2026-04-20T00:00:00.000Z"
   },
   {
@@ -22799,8 +22903,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "An exploratory analysis of changes in work values among nurses before and after pregnancy",
-    "title_es": "Un análisis exploratorio de los cambios en los valores laborales entre enfermeras antes y después del embarazo.",
+    "title": "Correction: Enhancing Mergers and Acquisitions (M&A) Performance: Analyzing the Role of Human Resource Practices in Sri Lanka's Telecommunication Industry Through Lewin’s Change Management Model",
+    "title_es": "Corrección: Mejora del desempeño en fusiones y adquisiciones (M&A): Análisis del papel de las prácticas de recursos humanos en la industria de las telecomunicaciones de Sri Lanka a través del modelo de gestión del cambio de Lewin",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -57124,5 +57228,13 @@
     "published": "",
     "date": "",
     "source": "SciPost News"
+  },
+  {
+    "title": "Earthset with an iPhone",
+    "title_es": "Earthset with an iPhone",
+    "url": "https://youtube.com/embed/mt8tg5b3b8e",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
