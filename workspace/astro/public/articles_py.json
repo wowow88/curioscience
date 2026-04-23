@@ -1,5 +1,26 @@
 [
   {
+    "title": "Smoke Shrouds Northern Thailand",
+    "title_es": "El humo envuelve el norte de Tailandia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/",
+    "date": "2026-04-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "This simple fatty acid could restore failing vision",
+    "title_es": "Este ácido graso simple podría restaurar la visión defectuosa",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260422091043.htm",
+    "date": "2026-04-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Accelerating drug discovery with fragment screening",
+    "title_es": "Acelerar el descubrimiento de fármacos con la detección de fragmentos",
+    "url": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
+    "date": "2026-04-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Belts of Green in the Washington Suburbs",
     "title_es": "Cinturones de verde en los suburbios de Washington",
     "url": "https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-04-money-financial-habits-young-australians.html",
     "date": "2026-04-22",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
+    "title_es": "Corrección: impacto funcional de los dispositivos cardíacos implantados en la amplitud de movimiento del hombro ipsilateral, la movilidad escapular y la calidad de vida autoinformada",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-22",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
+    "title_es": "SpeechParaling-Bench: un punto de referencia integral para la generación de habla consciente de la paralingüística",
+    "url": "http://arxiv.org/abs/2604.20842v1",
+    "date": "2026-04-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Evaluating large language models for accuracy incentivizes hallucinations",
+    "title_es": "La evaluación de la precisión de modelos de lenguaje grandes incentiva las alucinaciones",
+    "url": "https://www.nature.com/articles/s41586-026-10549-w",
+    "date": "2026-04-22",
+    "source": "Nature"
+  },
+  {
+    "title": "ATLAS sets record limits on Higgs boson’s self-interaction",
+    "title_es": "ATLAS establece límites récord en la autointeracción del bosón de Higgs",
+    "url": "https://home.cern/news/news/physics/atlas-sets-record-limits-higgs-bosons-self-interaction",
+    "date": "2026-04-22",
+    "source": "CERN News"
+  },
+  {
+    "title": "An experimental new drug for stiff person syndrome restores mobility",
+    "title_es": "Un nuevo fármaco experimental para el síndrome de la persona rígida restaura la movilidad",
+    "url": "https://www.sciencenews.org/article/new-drug-stiff-person-syndrome-mobility",
+    "date": "2026-04-22",
+    "source": "Science News"
+  },
+  {
+    "title": "Hurricane Katrina shaped this coastal ecologist’s life and work",
+    "title_es": "El huracán Katrina dio forma a la vida y el trabajo de este ecologista costero",
+    "url": "https://www.snexplores.org/article/coast-wetland-ecology-hurricane-katrina",
+    "date": "2026-04-22",
+    "source": "Science News Explores"
   },
   {
     "title": "A School of Mud Volcano Islands in Azerbaijan",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-04-future-north-america-important-agreement.html",
     "date": "2026-04-21",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Enhancing Mergers and Acquisitions (M&A) Performance: Analyzing the Role of Human Resource Practices in Sri Lanka's Telecommunication Industry Through Lewin’s Change Management Model",
-    "title_es": "Corrección: Mejora del desempeño en fusiones y adquisiciones (M&A): Análisis del papel de las prácticas de recursos humanos en la industria de las telecomunicaciones de Sri Lanka a través del modelo de gestión del cambio de Lewin",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-21",
-    "source": "PLOS ONE"
   },
   {
     "title": "Generalization at the Edge of Stability",
