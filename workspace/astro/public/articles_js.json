@@ -1,26 +1,26 @@
 [
   {
-    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-    "title_es": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-    "url": "https://arxiv.org/abs/2604.19749",
-    "published": "2026-04-23T04:00:00.000Z",
-    "date": "2026-04-23",
+    "title": "AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation",
+    "title_es": "AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.20844",
+    "published": "2026-04-24T04:00:00.000Z",
+    "date": "2026-04-24",
     "source": "arXiv"
   },
   {
-    "title": "The life and legacy of George Schaller",
-    "title_es": "The life and legacy of George Schaller",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aee8708",
-    "published": "2026-04-16T06:00:04.000Z",
-    "date": "2026-04-16",
+    "title": "Dark discoveries",
+    "title_es": "Dark discoveries",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5512",
+    "published": "2026-04-23T05:59:15.000Z",
+    "date": "2026-04-23",
     "source": "Science.org"
   },
   {
-    "title": "Evaluating large language models for accuracy incentivizes hallucinations",
-    "title_es": "Evaluating large language models for accuracy incentivizes hallucinations",
-    "url": "https://www.nature.com/articles/s41586-026-10549-w",
-    "published": "2026-04-22T00:00:00.000Z",
-    "date": "2026-04-22",
+    "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
+    "title_es": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
+    "url": "https://www.nature.com/articles/d41586-026-01277-2",
+    "published": "2026-04-24T00:00:00.000Z",
+    "date": "2026-04-24",
     "source": "Nature"
   },
   {
@@ -40,19 +40,19 @@
     "source": "CNIO"
   },
   {
-    "title": "Smoke Shrouds Northern Thailand",
-    "title_es": "Smoke Shrouds Northern Thailand",
-    "url": "https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/",
-    "published": "2026-04-23T04:01:00.000Z",
-    "date": "2026-04-23",
+    "title": "An Agricultural Mosaic in Taiwan",
+    "title_es": "An Agricultural Mosaic in Taiwan",
+    "url": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
+    "published": "2026-04-24T04:01:00.000Z",
+    "date": "2026-04-24",
     "source": "NASA (Top News)"
   },
   {
-    "title": "ATLAS sets record limits on Higgs boson’s self-interaction",
-    "title_es": "ATLAS sets record limits on Higgs boson’s self-interaction",
-    "url": "https://home.cern/news/news/physics/atlas-sets-record-limits-higgs-bosons-self-interaction",
-    "published": "2026-04-22T08:17:02.000Z",
-    "date": "2026-04-22",
+    "title": "CERN’s Medipix3 technology on track to help more patients",
+    "title_es": "CERN’s Medipix3 technology on track to help more patients",
+    "url": "https://home.cern/news/news/knowledge-sharing/cerns-medipix3-technology-track-help-more-patients",
+    "published": "2026-04-23T15:05:44.000Z",
+    "date": "2026-04-23",
     "source": "CERN News"
   },
   {
@@ -64,51 +64,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "An experimental new drug for stiff person syndrome restores mobility",
-    "title_es": "An experimental new drug for stiff person syndrome restores mobility",
-    "url": "https://www.sciencenews.org/article/new-drug-stiff-person-syndrome-mobility",
-    "published": "2026-04-22T18:00:00.000Z",
-    "date": "2026-04-22",
+    "title": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
+    "title_es": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
+    "url": "https://www.sciencenews.org/article/kraken-octopus-largest-invertebrate",
+    "published": "2026-04-23T18:00:00.000Z",
+    "date": "2026-04-23",
     "source": "Science News"
   },
   {
-    "title": "Hurricane Katrina shaped this coastal ecologist’s life and work",
-    "title_es": "Hurricane Katrina shaped this coastal ecologist’s life and work",
-    "url": "https://www.snexplores.org/article/coast-wetland-ecology-hurricane-katrina",
-    "published": "2026-04-22T10:30:00.000Z",
-    "date": "2026-04-22",
+    "title": "Looking for LUCA, everyone’s shared ancestor",
+    "title_es": "Looking for LUCA, everyone’s shared ancestor",
+    "url": "https://www.snexplores.org/article/luca-common-ancestor-evolution",
+    "published": "2026-04-23T10:30:00.000Z",
+    "date": "2026-04-23",
     "source": "Science News Explores"
   },
   {
-    "title": "This simple fatty acid could restore failing vision",
-    "title_es": "This simple fatty acid could restore failing vision",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260422091043.htm",
-    "published": "2026-04-23T01:06:41.000Z",
-    "date": "2026-04-23",
+    "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+    "title_es": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+    "published": "2026-04-24T06:59:58.000Z",
+    "date": "2026-04-24",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Accelerating drug discovery with fragment screening",
-    "title_es": "Accelerating drug discovery with fragment screening",
-    "url": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
-    "published": "2026-04-23T02:20:04.000Z",
-    "date": "2026-04-23",
+    "title": "This 2,200-year-old Roman wreck hid a repair story that rewrites how ancient ships survived long voyages",
+    "title_es": "This 2,200-year-old Roman wreck hid a repair story that rewrites how ancient ships survived long voyages",
+    "url": "https://phys.org/news/2026-04-year-roman-hid-story-rewrites.html",
+    "published": "2026-04-24T04:00:03.000Z",
+    "date": "2026-04-24",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
-    "title_es": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
+    "title": "Biomarkers of mitochondrial dynamics in idiopathic pulmonary fibrosis: Identification and validation through transcriptomic and single-cell analyses",
+    "title_es": "Biomarkers of mitochondrial dynamics in idiopathic pulmonary fibrosis: Identification and validation through transcriptomic and single-cell analyses",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-04-22T14:00:00.000Z",
-    "date": "2026-04-22",
+    "published": "2026-04-23T14:00:00.000Z",
+    "date": "2026-04-23",
     "source": "PLOS ONE"
   },
   {
-    "title": "98 per cent of meat and dairy sustainability pledges are greenwashing",
-    "title_es": "98 per cent of meat and dairy sustainability pledges are greenwashing",
-    "url": "https://www.newscientist.com/article/2523798-98-per-cent-of-meat-and-dairy-sustainability-pledges-are-greenwashing/",
-    "published": "2026-04-22T18:00:42.000Z",
-    "date": "2026-04-22",
+    "title": "Largest-ever octopus was great white shark of invertebrate predators",
+    "title_es": "Largest-ever octopus was great white shark of invertebrate predators",
+    "url": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/",
+    "published": "2026-04-23T19:00:12.000Z",
+    "date": "2026-04-23",
     "source": "New Scientist"
   },
   {
@@ -120,19 +120,19 @@
     "source": "SciPost News"
   },
   {
-    "title": "Curiosity Reveals Richest Trove of Organic Molecules Yet on Mars",
-    "title_es": "Curiosity Reveals Richest Trove of Organic Molecules Yet on Mars",
-    "url": "https://www.sci.news/space/curiosity-organic-molecules-mars-14714.html",
-    "published": "2026-04-23T01:02:07.000Z",
+    "title": "New Fossil from Brazil Reveals Unexpected Diversity among Pre-Dinosaur Herbivores",
+    "title_es": "New Fossil from Brazil Reveals Unexpected Diversity among Pre-Dinosaur Herbivores",
+    "url": "https://www.sci.news/paleontology/isodapedon-varzealis-14719.html",
+    "published": "2026-04-23T23:37:14.000Z",
     "date": "2026-04-23",
     "source": "Sci.News"
   },
   {
-    "title": "A More Troubling Picture of Sea Level Rise Comes Into View",
-    "title_es": "A More Troubling Picture of Sea Level Rise Comes Into View",
-    "url": "https://undark.org/2026/04/22/sea-level-land-subsidence/",
-    "published": "2026-04-22T07:35:00.000Z",
-    "date": "2026-04-22",
+    "title": "What I Learned from Teaching Darwin",
+    "title_es": "What I Learned from Teaching Darwin",
+    "url": "https://undark.org/2026/04/23/opinion-teaching-darwin/",
+    "published": "2026-04-23T15:07:06.000Z",
+    "date": "2026-04-23",
     "source": "Undark Magazine"
   },
   {
@@ -144,12 +144,20 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Large Scale Structure of the Universe",
-    "title_es": "Large Scale Structure of the Universe",
-    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
+    "title": "Young Moon and Sister Stars",
+    "title_es": "Young Moon and Sister Stars",
+    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-21.6786&long=84.4194",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Crew-5",

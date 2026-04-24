@@ -1,5 +1,69 @@
 [
   {
+    "title": "AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation",
+    "title_es": "AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.20844",
+    "published": "2026-04-24T04:00:00.000Z",
+    "date": "2026-04-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
+    "title_es": "El cierre del ranking de revistas influyentes de China deja a los académicos atónitos: ¿qué ocupará su lugar?",
+    "url": "https://www.nature.com/articles/d41586-026-01277-2",
+    "date": "2026-04-24",
+    "source": "Nature",
+    "published": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "title": "An Agricultural Mosaic in Taiwan",
+    "title_es": "Un mosaico agrícola en Taiwán",
+    "url": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
+    "date": "2026-04-24",
+    "source": "NASA (Top News)",
+    "published": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+    "title_es": "Esta serpiente de 100 millones de años tenía patas traseras y un hueso perdido que cambia la evolución",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+    "date": "2026-04-24",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "title": "This 2,200-year-old Roman wreck hid a repair story that rewrites how ancient ships survived long voyages",
+    "title_es": "Este naufragio romano de 2200 años de antigüedad esconde una historia de reparación que reescribe cómo los barcos antiguos sobrevivieron a largos viajes",
+    "url": "https://phys.org/news/2026-04-year-roman-hid-story-rewrites.html",
+    "date": "2026-04-24",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "title": "New Fossil from Brazil Reveals Unexpected Diversity among Pre-Dinosaur Herbivores",
+    "title_es": "New Fossil from Brazil Reveals Unexpected Diversity among Pre-Dinosaur Herbivores",
+    "url": "https://www.sci.news/paleontology/isodapedon-varzealis-14719.html",
+    "published": "2026-04-23T23:37:14.000Z",
+    "date": "2026-04-23",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Largest-ever octopus was great white shark of invertebrate predators",
+    "title_es": "Largest-ever octopus was great white shark of invertebrate predators",
+    "url": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/",
+    "published": "2026-04-23T19:00:12.000Z",
+    "date": "2026-04-23",
+    "source": "New Scientist"
+  },
+  {
+    "title": "What I Learned from Teaching Darwin",
+    "title_es": "What I Learned from Teaching Darwin",
+    "url": "https://undark.org/2026/04/23/opinion-teaching-darwin/",
+    "published": "2026-04-23T15:07:06.000Z",
+    "date": "2026-04-23",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
     "title_es": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
     "url": "https://arxiv.org/abs/2604.19749",
@@ -37,6 +101,54 @@
     "url": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
     "date": "2026-04-23",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+    "title_es": "Ver rápido y lento: aprender el flujo del tiempo en videos",
+    "url": "http://arxiv.org/abs/2604.21931v1",
+    "date": "2026-04-23",
+    "source": "arXiv",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "Dark discoveries",
+    "title_es": "Descubrimientos oscuros",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5512",
+    "date": "2026-04-23",
+    "source": "Science.org",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-participa-en-la-presentacion-del-libro-eclipses-el-sol-y-sus-eclipses-en-la-ciencia-la\" hreflang=\"es\">Eva Villaver participa en la presentación del libro ‘Eclipses. El Sol y sus eclipses en la ciencia, la historia y las artes’</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-participa-en-la-presentacion-del-libro-eclipses-el-sol-y-sus-eclipses-en-la-ciencia-la\" hreflang=\"es\">Eva Villaver participa en la presentación del libro ‘Eclipses. El Sol y sus eclipses en la ciencia, la historia y las artes’</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/eva-villaver-participa-en-la-presentacion-del-libro-eclipses-el-sol-y-sus-eclipses-en-la-ciencia-la",
+    "date": "2026-04-23",
+    "source": "IAC",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "CERN’s Medipix3 technology on track to help more patients",
+    "title_es": "La tecnología Medipix3 del CERN va camino de ayudar a más pacientes",
+    "url": "https://home.cern/news/news/knowledge-sharing/cerns-medipix3-technology-track-help-more-patients",
+    "date": "2026-04-23",
+    "source": "CERN News",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
+    "title_es": "Pulpos gigantes parecidos a krakens pueden haber gobernado las profundidades del Cretácico",
+    "url": "https://www.sciencenews.org/article/kraken-octopus-largest-invertebrate",
+    "date": "2026-04-23",
+    "source": "Science News",
+    "published": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "title": "Looking for LUCA, everyone’s shared ancestor",
+    "title_es": "Buscando a LUCA, el antepasado común de todos",
+    "url": "https://www.snexplores.org/article/luca-common-ancestor-evolution",
+    "date": "2026-04-23",
+    "source": "Science News Explores",
     "published": "2026-04-23T00:00:00.000Z"
   },
   {
@@ -120,7 +232,7 @@
     "published": "2026-04-22T00:00:00.000Z"
   },
   {
-    "title": "Hurricane Katrina shaped this coastal ecologist’s life and work",
+    "title": "Hurricane Katrina shaped this coastal ecologist’s life and work",
     "title_es": "El huracán Katrina dio forma a la vida y el trabajo de este ecologista costero",
     "url": "https://www.snexplores.org/article/coast-wetland-ecology-hurricane-katrina",
     "date": "2026-04-22",
@@ -22999,8 +23111,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
-    "title_es": "Corrección: impacto funcional de los dispositivos cardíacos implantados en la amplitud de movimiento del hombro ipsilateral, la movilidad escapular y la calidad de vida autoinformada",
+    "title": "Biomarkers of mitochondrial dynamics in idiopathic pulmonary fibrosis: Identification and validation through transcriptomic and single-cell analyses",
+    "title_es": "Biomarcadores de la dinámica mitocondrial en la fibrosis pulmonar idiopática: identificación y validación mediante análisis transcriptómicos y unicelulares",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -57337,6 +57449,14 @@
     "title": "Large Scale Structure of the Universe",
     "title_es": "Large Scale Structure of the Universe",
     "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Young Moon and Sister Stars",
+    "title_es": "Young Moon and Sister Stars",
+    "url": "https://apod.nasa.gov/apod/image/2604/ghr3777lunapleiadi_101400_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
