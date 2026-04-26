@@ -32,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "I Am Artemis: Peter Rossoni",
-    "title_es": "I Am Artemis: Peter Rossoni",
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
-    "published": "2026-04-24T16:33:35.000Z",
-    "date": "2026-04-24",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "HiLumi LHC: CERN’s full-scale test stand enters the powering phase",
     "title_es": "HiLumi LHC: CERN’s full-scale test stand enters the powering phase",
     "url": "https://home.cern/news/news/accelerators/hilumi-lhc-cerns-full-scale-test-stand-enters-powering-phase",
@@ -72,18 +64,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
-    "title_es": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
-    "published": "2026-04-24T08:36:51.000Z",
-    "date": "2026-04-24",
+    "title": "Fish oil may be hurting your brain, new study finds",
+    "title_es": "Fish oil may be hurting your brain, new study finds",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+    "published": "2026-04-26T05:57:51.000Z",
+    "date": "2026-04-26",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Can jarrah forests be recovered after bauxite mining?",
-    "title_es": "Can jarrah forests be recovered after bauxite mining?",
-    "url": "https://phys.org/news/2026-04-jarrah-forests-recovered-bauxite.html",
-    "published": "2026-04-25T02:40:02.000Z",
+    "title": "Bonuses can lower self-set goals and reduce performance, experiment suggests",
+    "title_es": "Bonuses can lower self-set goals and reduce performance, experiment suggests",
+    "url": "https://phys.org/news/2026-04-bonuses-goals.html",
+    "published": "2026-04-25T23:30:01.000Z",
     "date": "2026-04-25",
     "source": "Phys.org (Latest)"
   },
@@ -96,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Gravity's strength measured more reliably than ever before",
-    "title_es": "Gravity's strength measured more reliably than ever before",
-    "url": "https://www.newscientist.com/article/2524194-gravitys-strength-measured-more-reliably-than-ever-before/",
-    "published": "2026-04-24T18:00:34.000Z",
-    "date": "2026-04-24",
+    "title": "Why the right kind of stress is crucial for your health and happiness",
+    "title_es": "Why the right kind of stress is crucial for your health and happiness",
+    "url": "https://www.newscientist.com/article/2522362-why-the-right-kind-of-stress-is-crucial-for-your-health-and-happiness/",
+    "published": "2026-04-20T14:00:47.000Z",
+    "date": "2026-04-20",
     "source": "New Scientist"
   },
   {
@@ -128,17 +120,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Disperon QED, by Yizhou Fang, Sophie Kollatzsch, Marco Rocco, Adrian Signer, Yannick Ulrich, Max Zoller",
-    "title_es": "Disperon QED, by Yizhou Fang, Sophie Kollatzsch, Marco Rocco, Adrian Signer, Yannick Ulrich, Max Zoller",
-    "url": "https://scipost.org/scipostphys.20.4.116",
+    "title": "Quantum measurements in fundamental physics: A user’s manual, by Jacob Beckey, Daniel Carney, Giacomo Marocco",
+    "title_es": "Quantum measurements in fundamental physics: A user’s manual, by Jacob Beckey, Daniel Carney, Giacomo Marocco",
+    "url": "https://scipost.org/scipostphysrev.2",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "The Persistence of Sunlight",
-    "title_es": "The Persistence of Sunlight",
-    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
+    "title": "Mystic Mountain Monster being Destroyed",
+    "title_es": "Mystic Mountain Monster being Destroyed",
+    "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -146,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-48.7737&long=-177.9012",
+    "url": "https://www.latlong.net/c/?lat=1.9475&long=54.6888",
     "date": "",
     "published": "",
     "source": "ISS Position"
