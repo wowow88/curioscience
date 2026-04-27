@@ -1,10 +1,42 @@
 [
   {
+    "title": "How to Euthanize a Whale",
+    "title_es": "How to Euthanize a Whale",
+    "url": "https://undark.org/2026/04/27/whale-euthanasia/",
+    "published": "2026-04-27T07:05:00.000Z",
+    "date": "2026-04-27",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Quantifying Interface Procedure Coupling Risks in Digital Nuclear Control Rooms: An Event Based Human Reliability Assessment",
+    "title_es": "Quantifying Interface Procedure Coupling Risks in Digital Nuclear Control Rooms: An Event Based Human Reliability Assessment",
+    "url": "https://arxiv.org/abs/2604.21932",
+    "published": "2026-04-27T04:00:00.000Z",
+    "date": "2026-04-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Orangutan uses Indonesia canopy bridge in 'world first': NGO",
+    "title_es": "Orangután utiliza un puente de dosel en Indonesia por primera vez en el mundo: ONG",
+    "url": "https://phys.org/news/2026-04-orangutan-indonesia-canopy-bridge-world.html",
+    "date": "2026-04-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-27T00:00:00.000Z"
+  },
+  {
     "title": "Fish oil may be hurting your brain, new study finds",
     "title_es": "El aceite de pescado puede estar dañando el cerebro, según un nuevo estudio",
     "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
     "date": "2026-04-26",
     "source": "ScienceDaily (Top)",
+    "published": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "title": "Entire NSF science advisory board fired by Trump administration",
+    "title_es": "Todo el consejo asesor científico de la NSF despedido por la administración Trump",
+    "url": "https://www.nature.com/articles/d41586-026-01361-7",
+    "date": "2026-04-26",
+    "source": "Nature",
     "published": "2026-04-26T00:00:00.000Z"
   },
   {
@@ -88,7 +120,7 @@
     "published": "2026-04-24T00:00:00.000Z"
   },
   {
-    "title": "Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
+    "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
     "title_es": "Corrección del autor: La levadura comensal promueve la virulencia de <i>Salmonella</i> Typhimurium",
     "url": "https://www.nature.com/articles/s41586-026-10518-3",
     "date": "2026-04-24",
@@ -141,6 +173,14 @@
     "url": "https://www.snexplores.org/article/light-pollution-pollen-season-allergies",
     "date": "2026-04-24",
     "source": "Science News Explores",
+    "published": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "title_es": "Modelado del mundo agente: fundamentos, capacidades, leyes y más",
+    "url": "http://arxiv.org/abs/2604.22748v1",
+    "date": "2026-04-24",
+    "source": "arXiv",
     "published": "2026-04-24T00:00:00.000Z"
   },
   {
@@ -260,6 +300,14 @@
     "title_es": "98 per cent of meat and dairy sustainability pledges are greenwashing",
     "url": "https://www.newscientist.com/article/2523798-98-per-cent-of-meat-and-dairy-sustainability-pledges-are-greenwashing/",
     "published": "2026-04-22T18:00:42.000Z",
+    "date": "2026-04-22",
+    "source": "New Scientist"
+  },
+  {
+    "title": "We need more radioactive drugs. Can we make them from nuclear waste?",
+    "title_es": "We need more radioactive drugs. Can we make them from nuclear waste?",
+    "url": "https://www.newscientist.com/article/2521854-we-need-more-radioactive-drugs-can-we-make-them-from-nuclear-waste/",
+    "published": "2026-04-22T16:00:58.000Z",
     "date": "2026-04-22",
     "source": "New Scientist"
   },
@@ -57593,6 +57641,14 @@
     "title": "Mystic Mountain Monster being Destroyed",
     "title_es": "Mystic Mountain Monster being Destroyed",
     "url": "https://apod.nasa.gov/apod/image/2604/mysticpillar_hubbleschmidt_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Comet R3 PanSTARRS Behind Satellite Trails",
+    "title_es": "Comet R3 PanSTARRS Behind Satellite Trails",
+    "url": "https://apod.nasa.gov/apod/image/2604/comettrails_fehr_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
