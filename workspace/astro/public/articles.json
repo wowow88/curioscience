@@ -1,5 +1,45 @@
 [
   {
+    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "title_es": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "url": "https://arxiv.org/abs/2604.24766",
+    "published": "2026-04-29T04:00:00.000Z",
+    "date": "2026-04-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fires Rage in Georgia",
+    "title_es": "Los incendios arrasan Georgia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+    "date": "2026-04-29",
+    "source": "NASA (Top News)",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
+    "title_es": "La nave lunar Artemis II de la NASA regresa a su sitio de lanzamiento después de un viaje histórico",
+    "url": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
+    "date": "2026-04-29",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "Cancer is increasing in young people and we still don't know why",
+    "title_es": "Cancer is increasing in young people and we still don't know why",
+    "url": "https://www.newscientist.com/article/2524515-cancer-is-increasing-in-young-people-and-we-still-dont-know-why/",
+    "published": "2026-04-28T23:30:36.000Z",
+    "date": "2026-04-28",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Small Titanosaur Species from Morocco Reveals Surprising South American Ties",
+    "title_es": "Small Titanosaur Species from Morocco Reveals Surprising South American Ties",
+    "url": "https://www.sci.news/paleontology/phosphatotitan-khouribgaensis-14728.html",
+    "published": "2026-04-28T22:53:04.000Z",
+    "date": "2026-04-28",
+    "source": "Sci.News"
+  },
+  {
     "title": "Amid Falling Birth Rates, Federal Family Planning Is Overhauled",
     "title_es": "Amid Falling Birth Rates, Federal Family Planning Is Overhauled",
     "url": "https://undark.org/2026/04/28/birth-rates-title-x/",
@@ -29,6 +69,62 @@
     "url": "https://phys.org/news/2026-04-nations-world-fossil-fuel-exit.html",
     "date": "2026-04-28",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Recursive Multi-Agent Systems",
+    "title_es": "Sistemas recursivos multiagente",
+    "url": "http://arxiv.org/abs/2604.25917v1",
+    "date": "2026-04-28",
+    "source": "arXiv",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Quantum error correction below the surface code threshold",
+    "title_es": "Corrección del autor: Corrección de errores cuánticos por debajo del umbral del código de superficie",
+    "url": "https://www.nature.com/articles/s41586-026-10559-8",
+    "date": "2026-04-28",
+    "source": "Nature",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "title_es": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "url": "https://www.cnio.es/noticias/un-estudio-del-cnio-descubre-un-mecanismo-de-las-vias-biliares-que-puede-ayudar-a-personalizar-el-tratamiento-de-la-fibrosis-hepatica/",
+    "date": "2026-04-28",
+    "source": "CNIO",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
+    "title_es": "Arts at CERN y el Museo del Premio Nobel anuncian el ganador del premio de residencia internacional Collide Stockholm y dos menciones honoríficas",
+    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
+    "date": "2026-04-28",
+    "source": "CERN News",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
+    "title_es": "¿Pueden todavía entrar en erupción volcanes “extintos”? Un pico griego esconde pistas sorprendentes",
+    "url": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
+    "date": "2026-04-28",
+    "source": "Science News",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists get smart about farts with new underwear sensor",
+    "title_es": "Los científicos se vuelven inteligentes con los pedos con un nuevo sensor de ropa interior",
+    "url": "https://www.snexplores.org/article/underwear-sensor-measures-farts",
+    "date": "2026-04-28",
+    "source": "Science News Explores",
+    "published": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+    "title_es": "Los científicos detectan por primera vez un “átomo” de antimateria que actúa como una onda",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+    "date": "2026-04-28",
+    "source": "ScienceDaily (Top)",
     "published": "2026-04-28T00:00:00.000Z"
   },
   {
@@ -23367,8 +23463,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Seasonal variation in meat quality of Angus steers raised in a Mediterranean forage-fed system: A farm case study",
-    "title_es": "Corrección: Variación estacional en la calidad de la carne de novillos Angus criados en un sistema mediterráneo alimentado con forraje: un estudio de caso de granja",
+    "title": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
+    "title_es": "Corrección: Exploración de las dimensiones físicas, mentales y sociales de los adultos de mediana edad para un envejecimiento activo y saludable: un estudio transversal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -57753,6 +57849,22 @@
     "title": "CG 30: Cometary Globules",
     "title_es": "CG 30: Cometary Globules",
     "url": "https://apod.nasa.gov/apod/image/2604/cg30globules_salamme_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies, by Hiromi Ebisu, Bo Han, Weiguang Cao",
+    "title_es": "Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies, by Hiromi Ebisu, Bo Han, Weiguang Cao",
+    "url": "https://scipost.org/scipostphys.20.4.117",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Moon, Venus, and the Pleiades",
+    "title_es": "The Moon, Venus, and the Pleiades",
+    "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

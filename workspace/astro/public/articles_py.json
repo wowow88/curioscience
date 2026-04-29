@@ -1,5 +1,19 @@
 [
   {
+    "title": "Fires Rage in Georgia",
+    "title_es": "Los incendios arrasan Georgia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+    "date": "2026-04-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
+    "title_es": "La nave lunar Artemis II de la NASA regresa a su sitio de lanzamiento después de un viaje histórico",
+    "url": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
+    "date": "2026-04-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
     "title_es": "El último impulso de China para comercializar la investigación: conectar a 680.000 innovadores con empresas",
     "url": "https://www.nature.com/articles/d41586-026-01202-7",
@@ -14,18 +28,67 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
+    "title_es": "Corrección: Exploración de las dimensiones físicas, mentales y sociales de los adultos de mediana edad para un envejecimiento activo y saludable: un estudio transversal",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-28",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Recursive Multi-Agent Systems",
+    "title_es": "Sistemas recursivos multiagente",
+    "url": "http://arxiv.org/abs/2604.25917v1",
+    "date": "2026-04-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Quantum error correction below the surface code threshold",
+    "title_es": "Corrección del autor: Corrección de errores cuánticos por debajo del umbral del código de superficie",
+    "url": "https://www.nature.com/articles/s41586-026-10559-8",
+    "date": "2026-04-28",
+    "source": "Nature"
+  },
+  {
+    "title": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "title_es": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "url": "https://www.cnio.es/noticias/un-estudio-del-cnio-descubre-un-mecanismo-de-las-vias-biliares-que-puede-ayudar-a-personalizar-el-tratamiento-de-la-fibrosis-hepatica/",
+    "date": "2026-04-28",
+    "source": "CNIO"
+  },
+  {
+    "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
+    "title_es": "Arts at CERN y el Museo del Premio Nobel anuncian el ganador del premio de residencia internacional Collide Stockholm y dos menciones honoríficas",
+    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
+    "date": "2026-04-28",
+    "source": "CERN News"
+  },
+  {
+    "title": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
+    "title_es": "¿Pueden todavía entrar en erupción volcanes “extintos”? Un pico griego esconde pistas sorprendentes",
+    "url": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
+    "date": "2026-04-28",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists get smart about farts with new underwear sensor",
+    "title_es": "Los científicos se vuelven inteligentes con los pedos con un nuevo sensor de ropa interior",
+    "url": "https://www.snexplores.org/article/underwear-sensor-measures-farts",
+    "date": "2026-04-28",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+    "title_es": "Los científicos detectan por primera vez un “átomo” de antimateria que actúa como una onda",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+    "date": "2026-04-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Orangutan uses Indonesia canopy bridge in 'world first': NGO",
     "title_es": "Orangután utiliza un puente de dosel en Indonesia por primera vez en el mundo: ONG",
     "url": "https://phys.org/news/2026-04-orangutan-indonesia-canopy-bridge-world.html",
     "date": "2026-04-27",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Seasonal variation in meat quality of Angus steers raised in a Mediterranean forage-fed system: A farm case study",
-    "title_es": "Corrección: Variación estacional en la calidad de la carne de novillos Angus criados en un sistema mediterráneo alimentado con forraje: un estudio de caso de granja",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-27",
-    "source": "PLOS ONE"
   },
   {
     "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",

@@ -1,10 +1,10 @@
 [
   {
-    "title": "HalalBench: A Multilingual OCR Benchmark for Food Packaging Ingredient Extraction",
-    "title_es": "HalalBench: A Multilingual OCR Benchmark for Food Packaging Ingredient Extraction",
-    "url": "https://arxiv.org/abs/2604.22754",
-    "published": "2026-04-28T04:00:00.000Z",
-    "date": "2026-04-28",
+    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "title_es": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "url": "https://arxiv.org/abs/2604.24766",
+    "published": "2026-04-29T04:00:00.000Z",
+    "date": "2026-04-29",
     "source": "arXiv"
   },
   {
@@ -16,9 +16,9 @@
     "source": "Science.org"
   },
   {
-    "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
-    "title_es": "China’s latest push to commercialize research: match 680,000 innovators with companies",
-    "url": "https://www.nature.com/articles/d41586-026-01202-7",
+    "title": "Author Correction: Quantum error correction below the surface code threshold",
+    "title_es": "Author Correction: Quantum error correction below the surface code threshold",
+    "url": "https://www.nature.com/articles/s41586-026-10559-8",
     "published": "2026-04-28T00:00:00.000Z",
     "date": "2026-04-28",
     "source": "Nature"
@@ -32,19 +32,27 @@
     "source": "CNIC"
   },
   {
-    "title": "Desvelado el insólito funcionamiento de una proteína implicada en cáncer de pulmón y tiroides",
-    "title_es": "Desvelado el insólito funcionamiento de una proteína implicada en cáncer de pulmón y tiroides",
-    "url": "https://www.cnio.es/noticias/desvelado-el-insolito-funcionamiento-de-una-proteina-implicada-en-cancer-de-pulmon-y-tiroides/",
-    "published": "2026-04-24T10:36:40.000Z",
-    "date": "2026-04-24",
+    "title": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "title_es": "Un estudio del CNIO descubre un mecanismo de las vías biliares que puede ayudar a personalizar el tratamiento de la fibrosis hepática",
+    "url": "https://www.cnio.es/noticias/un-estudio-del-cnio-descubre-un-mecanismo-de-las-vias-biliares-que-puede-ayudar-a-personalizar-el-tratamiento-de-la-fibrosis-hepatica/",
+    "published": "2026-04-28T10:34:12.000Z",
+    "date": "2026-04-28",
     "source": "CNIO"
   },
   {
-    "title": "HiLumi LHC: CERN’s full-scale test stand enters the powering phase",
-    "title_es": "HiLumi LHC: CERN’s full-scale test stand enters the powering phase",
-    "url": "https://home.cern/news/news/accelerators/hilumi-lhc-cerns-full-scale-test-stand-enters-powering-phase",
-    "published": "2026-04-24T08:23:58.000Z",
-    "date": "2026-04-24",
+    "title": "Fires Rage in Georgia",
+    "title_es": "Fires Rage in Georgia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+    "published": "2026-04-29T04:01:00.000Z",
+    "date": "2026-04-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
+    "title_es": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
+    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
+    "published": "2026-04-28T09:23:21.000Z",
+    "date": "2026-04-28",
     "source": "CERN News"
   },
   {
@@ -56,51 +64,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "This dangerous pregnancy complication is common. A new treatment might help",
-    "title_es": "This dangerous pregnancy complication is common. A new treatment might help",
-    "url": "https://www.sciencenews.org/article/preeclampsia-treatment-pregnancy-blood",
-    "published": "2026-04-27T15:00:00.000Z",
-    "date": "2026-04-27",
+    "title": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
+    "title_es": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
+    "url": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
+    "published": "2026-04-28T19:31:29.000Z",
+    "date": "2026-04-28",
     "source": "Science News"
   },
   {
-    "title": "Do multiple universes exist?",
-    "title_es": "Do multiple universes exist?",
-    "url": "https://www.snexplores.org/article/multiverse-multiple-universes-space",
-    "published": "2026-04-27T10:30:00.000Z",
-    "date": "2026-04-27",
+    "title": "Scientists get smart about farts with new underwear sensor",
+    "title_es": "Scientists get smart about farts with new underwear sensor",
+    "url": "https://www.snexplores.org/article/underwear-sensor-measures-farts",
+    "published": "2026-04-28T10:30:00.000Z",
+    "date": "2026-04-28",
     "source": "Science News Explores"
   },
   {
-    "title": "Students build a “cosmic radio” to listen for dark matter",
-    "title_es": "Students build a “cosmic radio” to listen for dark matter",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260427050618.htm",
-    "published": "2026-04-27T13:40:33.000Z",
-    "date": "2026-04-27",
+    "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+    "title_es": "Scientists catch antimatter “atom” acting like a wave for the first time",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+    "published": "2026-04-28T13:35:37.000Z",
+    "date": "2026-04-28",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Nations to kick off world-first fossil fuel exit talks",
-    "title_es": "Nations to kick off world-first fossil fuel exit talks",
-    "url": "https://phys.org/news/2026-04-nations-world-fossil-fuel-exit.html",
-    "published": "2026-04-28T07:10:01.000Z",
-    "date": "2026-04-28",
+    "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
+    "title_es": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
+    "url": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
+    "published": "2026-04-29T05:59:01.000Z",
+    "date": "2026-04-29",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Seasonal variation in meat quality of Angus steers raised in a Mediterranean forage-fed system: A farm case study",
-    "title_es": "Correction: Seasonal variation in meat quality of Angus steers raised in a Mediterranean forage-fed system: A farm case study",
+    "title": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
+    "title_es": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-04-27T14:00:00.000Z",
-    "date": "2026-04-27",
+    "published": "2026-04-28T14:00:00.000Z",
+    "date": "2026-04-28",
     "source": "PLOS ONE"
   },
   {
-    "title": "Coral reefs on a remote archipelago shrugged off a massive heatwave",
-    "title_es": "Coral reefs on a remote archipelago shrugged off a massive heatwave",
-    "url": "https://www.newscientist.com/article/2524399-coral-reefs-on-a-remote-archipelago-shrugged-off-a-massive-heatwave/",
-    "published": "2026-04-27T16:00:58.000Z",
-    "date": "2026-04-27",
+    "title": "Cancer is increasing in young people and we still don't know why",
+    "title_es": "Cancer is increasing in young people and we still don't know why",
+    "url": "https://www.newscientist.com/article/2524515-cancer-is-increasing-in-young-people-and-we-still-dont-know-why/",
+    "published": "2026-04-28T23:30:36.000Z",
+    "date": "2026-04-28",
     "source": "New Scientist"
   },
   {
@@ -112,11 +120,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Why Geologists Love Pond Scum",
-    "title_es": "Why Geologists Love Pond Scum",
-    "url": "https://www.sci.news/paleontology/cambrian-microbial-mats-14725.html",
-    "published": "2026-04-27T22:43:27.000Z",
-    "date": "2026-04-27",
+    "title": "Small Titanosaur Species from Morocco Reveals Surprising South American Ties",
+    "title_es": "Small Titanosaur Species from Morocco Reveals Surprising South American Ties",
+    "url": "https://www.sci.news/paleontology/phosphatotitan-khouribgaensis-14728.html",
+    "published": "2026-04-28T22:53:04.000Z",
+    "date": "2026-04-28",
     "source": "Sci.News"
   },
   {
@@ -128,17 +136,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Quantum measurements in fundamental physics: A user’s manual, by Jacob Beckey, Daniel Carney, Giacomo Marocco",
-    "title_es": "Quantum measurements in fundamental physics: A user’s manual, by Jacob Beckey, Daniel Carney, Giacomo Marocco",
-    "url": "https://scipost.org/scipostphysrev.2",
+    "title": "Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies, by Hiromi Ebisu, Bo Han, Weiguang Cao",
+    "title_es": "Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies, by Hiromi Ebisu, Bo Han, Weiguang Cao",
+    "url": "https://scipost.org/scipostphys.20.4.117",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "CG 30: Cometary Globules",
-    "title_es": "CG 30: Cometary Globules",
-    "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
+    "title": "The Moon, Venus, and the Pleiades",
+    "title_es": "The Moon, Venus, and the Pleiades",
+    "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -146,7 +154,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-32.3747&long=-174.9036",
+    "url": "https://www.latlong.net/c/?lat=44.0157&long=-19.3282",
     "date": "",
     "published": "",
     "source": "ISS Position"
