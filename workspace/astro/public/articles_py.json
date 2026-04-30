@@ -1,5 +1,26 @@
 [
   {
+    "title": "An electrifying test to find a good coffee",
+    "title_es": "Una prueba electrizante para encontrar un buen café",
+    "url": "https://www.nature.com/articles/d41586-026-01289-y",
+    "date": "2026-04-30",
+    "source": "Nature"
+  },
+  {
+    "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+    "title_es": "La Tierra se está partiendo debajo del noroeste del Pacífico, dicen los científicos",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
+    "date": "2026-04-30",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Snow cover on Greek mountains has more than halved in four decades, study finds",
+    "title_es": "La capa de nieve en las montañas griegas se ha reducido a más de la mitad en cuatro décadas, según un estudio",
+    "url": "https://phys.org/news/2026-04-greek-mountains-halved-decades.html",
+    "date": "2026-04-30",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fires Rage in Georgia",
     "title_es": "Los incendios arrasan Georgia",
     "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
@@ -14,6 +35,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
+    "title_es": "Fricción social versus eficiencia cognitiva: un análisis comparativo de los comportamientos de búsqueda de ayuda en comunidades humanas y la IA generativa",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-29",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "title_es": "Cambiando la marea: destilación entre arquitecturas para la difusión de modelos de lenguajes grandes",
+    "url": "http://arxiv.org/abs/2604.26951v1",
+    "date": "2026-04-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa\" hreflang=\"es\">Ubicuas pero olvidadas: Absorciones anchas en los espectros ópticos de binarias de rayos X de baja masa</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa\" hreflang=\"es\">Ubicuas pero olvidadas: Absorciones anchas en los espectros ópticos de binarias de rayos X de baja masa</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa",
+    "date": "2026-04-29",
+    "source": "IAC"
+  },
+  {
+    "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
+    "title_es": "La cirugía prenatal para la espina bífida puede recibir un impulso de las células madre",
+    "url": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
+    "date": "2026-04-29",
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: How many insects are in the air?",
+    "title_es": "Analiza esto: ¿Cuántos insectos hay en el aire?",
+    "url": "https://www.snexplores.org/article/flying-insect-abundance-air",
+    "date": "2026-04-29",
+    "source": "Science News Explores"
+  },
+  {
     "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
     "title_es": "El último impulso de China para comercializar la investigación: conectar a 680.000 innovadores con empresas",
     "url": "https://www.nature.com/articles/d41586-026-01202-7",
@@ -26,13 +82,6 @@
     "url": "https://phys.org/news/2026-04-nations-world-fossil-fuel-exit.html",
     "date": "2026-04-28",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
-    "title_es": "Corrección: Exploración de las dimensiones físicas, mentales y sociales de los adultos de mediana edad para un envejecimiento activo y saludable: un estudio transversal",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-28",
-    "source": "PLOS ONE"
   },
   {
     "title": "Recursive Multi-Agent Systems",

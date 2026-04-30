@@ -1,5 +1,61 @@
 [
   {
+    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
+    "title_es": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
+    "url": "https://arxiv.org/abs/2604.25920",
+    "published": "2026-04-30T04:00:00.000Z",
+    "date": "2026-04-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "An electrifying test to find a good coffee",
+    "title_es": "Una prueba electrizante para encontrar un buen café",
+    "url": "https://www.nature.com/articles/d41586-026-01289-y",
+    "date": "2026-04-30",
+    "source": "Nature",
+    "published": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+    "title_es": "La Tierra se está partiendo debajo del noroeste del Pacífico, dicen los científicos",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
+    "date": "2026-04-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "title": "Snow cover on Greek mountains has more than halved in four decades, study finds",
+    "title_es": "La capa de nieve en las montañas griegas se ha reducido a más de la mitad en cuatro décadas, según un estudio",
+    "url": "https://phys.org/news/2026-04-greek-mountains-halved-decades.html",
+    "date": "2026-04-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "title": "Omnivorous, Rodent-Like Mammal Lived in Dinosaurs’ Shadow on Pacific Coast",
+    "title_es": "Omnivorous, Rodent-Like Mammal Lived in Dinosaurs’ Shadow on Pacific Coast",
+    "url": "https://www.sci.news/paleontology/cimolodon-desosai-14733.html",
+    "published": "2026-04-29T23:43:44.000Z",
+    "date": "2026-04-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A 2022 Law May Be Quietly Helping People Stay on Their Meds",
+    "title_es": "A 2022 Law May Be Quietly Helping People Stay on Their Meds",
+    "url": "https://undark.org/2026/04/29/drug-costs-2022-law/",
+    "published": "2026-04-29T17:20:55.000Z",
+    "date": "2026-04-29",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Simple treatment tweak drastically reduces blood loss from severe cuts",
+    "title_es": "Simple treatment tweak drastically reduces blood loss from severe cuts",
+    "url": "https://www.newscientist.com/article/2524800-simple-treatment-tweak-drastically-reduces-blood-loss-from-severe-cuts/",
+    "published": "2026-04-29T16:25:02.000Z",
+    "date": "2026-04-29",
+    "source": "New Scientist"
+  },
+  {
     "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
     "title_es": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
     "url": "https://arxiv.org/abs/2604.24766",
@@ -21,6 +77,38 @@
     "url": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
     "date": "2026-04-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "title_es": "Cambiando la marea: destilación entre arquitecturas para la difusión de modelos de lenguajes grandes",
+    "url": "http://arxiv.org/abs/2604.26951v1",
+    "date": "2026-04-29",
+    "source": "arXiv",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa\" hreflang=\"es\">Ubicuas pero olvidadas: Absorciones anchas en los espectros ópticos de binarias de rayos X de baja masa</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa\" hreflang=\"es\">Ubicuas pero olvidadas: Absorciones anchas en los espectros ópticos de binarias de rayos X de baja masa</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/ubicuas-pero-olvidadas-absorciones-anchas-en-los-espectros-opticos-de-binarias-de-rayos-x-de-baja-masa",
+    "date": "2026-04-29",
+    "source": "IAC",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
+    "title_es": "La cirugía prenatal para la espina bífida puede recibir un impulso de las células madre",
+    "url": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
+    "date": "2026-04-29",
+    "source": "Science News",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: How many insects are in the air?",
+    "title_es": "Analiza esto: ¿Cuántos insectos hay en el aire?",
+    "url": "https://www.snexplores.org/article/flying-insect-abundance-air",
+    "date": "2026-04-29",
+    "source": "Science News Explores",
     "published": "2026-04-29T00:00:00.000Z"
   },
   {
@@ -23463,8 +23551,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Exploring the physical, mental, and social dimensions of middle-aged adults for active and healthy aging: A cross-sectional study",
-    "title_es": "Corrección: Exploración de las dimensiones físicas, mentales y sociales de los adultos de mediana edad para un envejecimiento activo y saludable: un estudio transversal",
+    "title": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
+    "title_es": "Fricción social versus eficiencia cognitiva: un análisis comparativo de los comportamientos de búsqueda de ayuda en comunidades humanas y la IA generativa",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -57865,6 +57953,22 @@
     "title": "The Moon, Venus, and the Pleiades",
     "title_es": "The Moon, Venus, and the Pleiades",
     "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Medicine show: A Calogero model with principal series states, by Tarek Anous, Jackson R. Fliss, Jeremy van der Heijden",
+    "title_es": "Medicine show: A Calogero model with principal series states, by Tarek Anous, Jackson R. Fliss, Jeremy van der Heijden",
+    "url": "https://scipost.org/scipostphys.20.4.119",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Waves on Titan",
+    "title_es": "Waves on Titan",
+    "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
