@@ -1,5 +1,26 @@
 [
   {
+    "title": "This organoid can menstruate — and shows how tissue can repair itself",
+    "title_es": "Este organoide puede menstruar y muestra cómo el tejido puede repararse a sí mismo",
+    "url": "https://www.nature.com/articles/d41586-026-01428-5",
+    "date": "2026-05-01",
+    "source": "Nature"
+  },
+  {
+    "title": "Cyclone Rains Spur Papua New Guinea Landslides",
+    "title_es": "Lluvias ciclónicas provocan deslizamientos de tierra en Papúa Nueva Guinea",
+    "url": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
+    "date": "2026-05-01",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
+    "title_es": "Una campaña ciudadana devuelve los icónicos kiwis a la capital de Nueva Zelanda después de una ausencia de un siglo",
+    "url": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
+    "date": "2026-05-01",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "An electrifying test to find a good coffee",
     "title_es": "Una prueba electrizante para encontrar un buen café",
     "url": "https://www.nature.com/articles/d41586-026-01289-y",
@@ -21,6 +42,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Exploring episodic specificity induction on divergent thinking in children",
+    "title_es": "Corrección: Explorando la inducción de especificidad episódica en el pensamiento divergente en niños",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-04-30",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Computing Equilibrium beyond Unilateral Deviation",
+    "title_es": "Calcular el equilibrio más allá de la desviación unilateral",
+    "url": "http://arxiv.org/abs/2604.28186v1",
+    "date": "2026-04-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "Disneyland’s factory-inspired future",
+    "title_es": "El futuro inspirado en las fábricas de Disneyland",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef8390",
+    "date": "2026-04-30",
+    "source": "Science.org"
+  },
+  {
+    "title": "Faseeha Ayaz: \"Los editores están del lado de los investigadores\"",
+    "title_es": "Faseeha Ayaz: \"Los editores están del lado de los investigadores\"",
+    "url": "https://www.cnic.es/es/noticias/faseeha-ayaz-editores-estan-lado-investigadores",
+    "date": "2026-04-30",
+    "source": "CNIC"
+  },
+  {
+    "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
+    "title_es": "Los eructos de metano de las vacas pueden ser impulsados ​​por un orgánulo recién descubierto en los microbios intestinales",
+    "url": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
+    "date": "2026-04-30",
+    "source": "Science News"
+  },
+  {
+    "title": "Animals can feel joy. Here’s how scientists might study it",
+    "title_es": "Los animales pueden sentir alegría. Así es como los científicos podrían estudiarlo",
+    "url": "https://www.snexplores.org/article/animal-joy-emotion",
+    "date": "2026-04-30",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+    "title_es": "Los científicos revelan el mejor ejercicio para aliviar el dolor de la artritis de rodilla",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
+    "date": "2026-04-30",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Fires Rage in Georgia",
     "title_es": "Los incendios arrasan Georgia",
     "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
@@ -33,13 +103,6 @@
     "url": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
     "date": "2026-04-29",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
-    "title_es": "Fricción social versus eficiencia cognitiva: un análisis comparativo de los comportamientos de búsqueda de ayuda en comunidades humanas y la IA generativa",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-04-29",
-    "source": "PLOS ONE"
   },
   {
     "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",

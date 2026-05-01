@@ -1,34 +1,34 @@
 [
   {
-    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
-    "title_es": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
-    "url": "https://arxiv.org/abs/2604.25920",
-    "published": "2026-04-30T04:00:00.000Z",
-    "date": "2026-04-30",
+    "title": "A Randomized Controlled Trial and Pilot of Scout: an LLM-Based EHR Search and Synthesis Platform",
+    "title_es": "A Randomized Controlled Trial and Pilot of Scout: an LLM-Based EHR Search and Synthesis Platform",
+    "url": "https://arxiv.org/abs/2604.26953",
+    "published": "2026-05-01T04:00:00.000Z",
+    "date": "2026-05-01",
     "source": "arXiv"
   },
   {
-    "title": "Dark discoveries",
-    "title_es": "Dark discoveries",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5512",
-    "published": "2026-04-23T05:59:15.000Z",
-    "date": "2026-04-23",
+    "title": "Disneyland’s factory-inspired future",
+    "title_es": "Disneyland’s factory-inspired future",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef8390",
+    "published": "2026-04-30T06:00:12.000Z",
+    "date": "2026-04-30",
     "source": "Science.org"
   },
   {
-    "title": "An electrifying test to find a good coffee",
-    "title_es": "An electrifying test to find a good coffee",
-    "url": "https://www.nature.com/articles/d41586-026-01289-y",
-    "published": "2026-04-30T00:00:00.000Z",
-    "date": "2026-04-30",
+    "title": "This organoid can menstruate — and shows how tissue can repair itself",
+    "title_es": "This organoid can menstruate — and shows how tissue can repair itself",
+    "url": "https://www.nature.com/articles/d41586-026-01428-5",
+    "published": "2026-05-01T00:00:00.000Z",
+    "date": "2026-05-01",
     "source": "Nature"
   },
   {
-    "title": "The First 2026 Competitive Call for Unique Scientific and Technical Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) Is Now Open",
-    "title_es": "The First 2026 Competitive Call for Unique Scientific and Technical Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) Is Now Open",
-    "url": "https://www.cnic.es/es/node/241821",
-    "published": "2026-04-27T12:33:31.000Z",
-    "date": "2026-04-27",
+    "title": "Faseeha Ayaz: \"Los editores están del lado de los investigadores\"",
+    "title_es": "Faseeha Ayaz: \"Los editores están del lado de los investigadores\"",
+    "url": "https://www.cnic.es/es/noticias/faseeha-ayaz-editores-estan-lado-investigadores",
+    "published": "2026-04-30T09:28:45.000Z",
+    "date": "2026-04-30",
     "source": "CNIC"
   },
   {
@@ -38,6 +38,14 @@
     "published": "2026-04-28T10:34:12.000Z",
     "date": "2026-04-28",
     "source": "CNIO"
+  },
+  {
+    "title": "Cyclone Rains Spur Papua New Guinea Landslides",
+    "title_es": "Cyclone Rains Spur Papua New Guinea Landslides",
+    "url": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
+    "published": "2026-05-01T04:01:00.000Z",
+    "date": "2026-05-01",
+    "source": "NASA (Top News)"
   },
   {
     "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
@@ -56,51 +64,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
-    "title_es": "Prenatal surgery for spina bifida may get a boost from stem cells",
-    "url": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
-    "published": "2026-04-29T16:00:00.000Z",
-    "date": "2026-04-29",
+    "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
+    "title_es": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
+    "url": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
+    "published": "2026-04-30T18:00:00.000Z",
+    "date": "2026-04-30",
     "source": "Science News"
   },
   {
-    "title": "Analyze This: How many insects are in the air?",
-    "title_es": "Analyze This: How many insects are in the air?",
-    "url": "https://www.snexplores.org/article/flying-insect-abundance-air",
-    "published": "2026-04-29T10:30:00.000Z",
-    "date": "2026-04-29",
+    "title": "Animals can feel joy. Here’s how scientists might study it",
+    "title_es": "Animals can feel joy. Here’s how scientists might study it",
+    "url": "https://www.snexplores.org/article/animal-joy-emotion",
+    "published": "2026-04-30T10:30:00.000Z",
+    "date": "2026-04-30",
     "source": "Science News Explores"
   },
   {
-    "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-    "title_es": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
-    "published": "2026-04-30T03:36:37.000Z",
+    "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+    "title_es": "Scientists reveal the best exercise for knee arthritis pain relief",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
+    "published": "2026-04-30T07:30:17.000Z",
     "date": "2026-04-30",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Snow cover on Greek mountains has more than halved in four decades, study finds",
-    "title_es": "Snow cover on Greek mountains has more than halved in four decades, study finds",
-    "url": "https://phys.org/news/2026-04-greek-mountains-halved-decades.html",
-    "published": "2026-04-30T07:00:01.000Z",
-    "date": "2026-04-30",
+    "title": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
+    "title_es": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
+    "url": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
+    "published": "2026-05-01T07:28:01.000Z",
+    "date": "2026-05-01",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
-    "title_es": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
+    "title": "Correction: Exploring episodic specificity induction on divergent thinking in children",
+    "title_es": "Correction: Exploring episodic specificity induction on divergent thinking in children",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-04-29T14:00:00.000Z",
-    "date": "2026-04-29",
+    "published": "2026-04-30T14:00:00.000Z",
+    "date": "2026-04-30",
     "source": "PLOS ONE"
   },
   {
-    "title": "Simple treatment tweak drastically reduces blood loss from severe cuts",
-    "title_es": "Simple treatment tweak drastically reduces blood loss from severe cuts",
-    "url": "https://www.newscientist.com/article/2524800-simple-treatment-tweak-drastically-reduces-blood-loss-from-severe-cuts/",
-    "published": "2026-04-29T16:25:02.000Z",
-    "date": "2026-04-29",
+    "title": "'Green' cryptocurrency uses 18 times more energy than makers claim",
+    "title_es": "'Green' cryptocurrency uses 18 times more energy than makers claim",
+    "url": "https://www.newscientist.com/article/2523912-green-cryptocurrency-uses-18-times-more-energy-than-makers-claim/",
+    "published": "2026-04-30T18:00:45.000Z",
+    "date": "2026-04-30",
     "source": "New Scientist"
   },
   {
@@ -120,28 +128,36 @@
     "source": "Sci.News"
   },
   {
-    "title": "A 2022 Law May Be Quietly Helping People Stay on Their Meds",
-    "title_es": "A 2022 Law May Be Quietly Helping People Stay on Their Meds",
-    "url": "https://undark.org/2026/04/29/drug-costs-2022-law/",
-    "published": "2026-04-29T17:20:55.000Z",
-    "date": "2026-04-29",
+    "title": "How AI May Reshape Humanitarian Decisions About Refugees",
+    "title_es": "How AI May Reshape Humanitarian Decisions About Refugees",
+    "url": "https://undark.org/2026/04/30/opinion-ai-humanitarian-decisions/",
+    "published": "2026-04-30T07:49:30.000Z",
+    "date": "2026-04-30",
     "source": "Undark Magazine"
   },
   {
-    "title": "Medicine show: A Calogero model with principal series states, by Tarek Anous, Jackson R. Fliss, Jeremy van der Heijden",
-    "title_es": "Medicine show: A Calogero model with principal series states, by Tarek Anous, Jackson R. Fliss, Jeremy van der Heijden",
-    "url": "https://scipost.org/scipostphys.20.4.119",
+    "title": "Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media, by Pablo Hurtado",
+    "title_es": "Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media, by Pablo Hurtado",
+    "url": "https://scipost.org/scipostphyslectnotes.121",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Waves on Titan",
-    "title_es": "Waves on Titan",
-    "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
+    "title": "Markarian's Chain",
+    "title_es": "Markarian's Chain",
+    "url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=36.5251&long=-17.9725",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Crew-5",
