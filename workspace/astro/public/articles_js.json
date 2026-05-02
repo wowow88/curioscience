@@ -1,13 +1,5 @@
 [
   {
-    "title": "A Randomized Controlled Trial and Pilot of Scout: an LLM-Based EHR Search and Synthesis Platform",
-    "title_es": "A Randomized Controlled Trial and Pilot of Scout: an LLM-Based EHR Search and Synthesis Platform",
-    "url": "https://arxiv.org/abs/2604.26953",
-    "published": "2026-05-01T04:00:00.000Z",
-    "date": "2026-05-01",
-    "source": "arXiv"
-  },
-  {
     "title": "Disneyland’s factory-inspired future",
     "title_es": "Disneyland’s factory-inspired future",
     "url": "https://www.science.org/doi/abs/10.1126/science.aef8390",
@@ -16,9 +8,9 @@
     "source": "Science.org"
   },
   {
-    "title": "This organoid can menstruate — and shows how tissue can repair itself",
-    "title_es": "This organoid can menstruate — and shows how tissue can repair itself",
-    "url": "https://www.nature.com/articles/d41586-026-01428-5",
+    "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+    "title_es": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+    "url": "https://www.nature.com/articles/s41586-026-10601-9",
     "published": "2026-05-01T00:00:00.000Z",
     "date": "2026-05-01",
     "source": "Nature"
@@ -40,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "Cyclone Rains Spur Papua New Guinea Landslides",
-    "title_es": "Cyclone Rains Spur Papua New Guinea Landslides",
-    "url": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
-    "published": "2026-05-01T04:01:00.000Z",
-    "date": "2026-05-01",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
     "title_es": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
     "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
@@ -64,51 +48,51 @@
     "source": "CERN Press"
   },
   {
-    "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
-    "title_es": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
-    "url": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
-    "published": "2026-04-30T18:00:00.000Z",
-    "date": "2026-04-30",
+    "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
+    "title_es": "Celebrate America’s 250th birthday at a new state flower exhibit",
+    "url": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
+    "published": "2026-05-01T16:00:00.000Z",
+    "date": "2026-05-01",
     "source": "Science News"
   },
   {
-    "title": "Animals can feel joy. Here’s how scientists might study it",
-    "title_es": "Animals can feel joy. Here’s how scientists might study it",
-    "url": "https://www.snexplores.org/article/animal-joy-emotion",
-    "published": "2026-04-30T10:30:00.000Z",
-    "date": "2026-04-30",
+    "title": "Brain scans offer clues to why math is harder for some kids",
+    "title_es": "Brain scans offer clues to why math is harder for some kids",
+    "url": "https://www.snexplores.org/article/kids-brain-learning-math-numbers",
+    "published": "2026-05-01T10:30:00.000Z",
+    "date": "2026-05-01",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-    "title_es": "Scientists reveal the best exercise for knee arthritis pain relief",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
-    "published": "2026-04-30T07:30:17.000Z",
-    "date": "2026-04-30",
+    "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
+    "title_es": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
+    "published": "2026-05-01T13:07:15.000Z",
+    "date": "2026-05-01",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
-    "title_es": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
-    "url": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
-    "published": "2026-05-01T07:28:01.000Z",
-    "date": "2026-05-01",
+    "title": "NASA Laser Terminal enhances views during Artemis II mission",
+    "title_es": "NASA Laser Terminal enhances views during Artemis II mission",
+    "url": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
+    "published": "2026-05-02T00:40:01.000Z",
+    "date": "2026-05-02",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Exploring episodic specificity induction on divergent thinking in children",
-    "title_es": "Correction: Exploring episodic specificity induction on divergent thinking in children",
+    "title": "Editorial Note: Environmental justice and power plant emissions in the Regional Greenhouse Gas Initiative states",
+    "title_es": "Editorial Note: Environmental justice and power plant emissions in the Regional Greenhouse Gas Initiative states",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-04-30T14:00:00.000Z",
-    "date": "2026-04-30",
+    "published": "2026-05-01T14:00:00.000Z",
+    "date": "2026-05-01",
     "source": "PLOS ONE"
   },
   {
-    "title": "'Green' cryptocurrency uses 18 times more energy than makers claim",
-    "title_es": "'Green' cryptocurrency uses 18 times more energy than makers claim",
-    "url": "https://www.newscientist.com/article/2523912-green-cryptocurrency-uses-18-times-more-energy-than-makers-claim/",
-    "published": "2026-04-30T18:00:45.000Z",
-    "date": "2026-04-30",
+    "title": "2026 will be the hottest year on record, leading scientist predicts",
+    "title_es": "2026 will be the hottest year on record, leading scientist predicts",
+    "url": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/",
+    "published": "2026-05-01T17:24:54.000Z",
+    "date": "2026-05-01",
     "source": "New Scientist"
   },
   {
@@ -120,33 +104,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "Omnivorous, Rodent-Like Mammal Lived in Dinosaurs’ Shadow on Pacific Coast",
-    "title_es": "Omnivorous, Rodent-Like Mammal Lived in Dinosaurs’ Shadow on Pacific Coast",
-    "url": "https://www.sci.news/paleontology/cimolodon-desosai-14733.html",
-    "published": "2026-04-29T23:43:44.000Z",
-    "date": "2026-04-29",
+    "title": "106-Million-Year-Old Pterosaur Footprints Discovered in Korea",
+    "title_es": "106-Million-Year-Old Pterosaur Footprints Discovered in Korea",
+    "url": "https://www.sci.news/paleontology/jinjuichnus-procerus-14736.html",
+    "published": "2026-05-01T21:28:27.000Z",
+    "date": "2026-05-01",
     "source": "Sci.News"
   },
   {
-    "title": "How AI May Reshape Humanitarian Decisions About Refugees",
-    "title_es": "How AI May Reshape Humanitarian Decisions About Refugees",
-    "url": "https://undark.org/2026/04/30/opinion-ai-humanitarian-decisions/",
-    "published": "2026-04-30T07:49:30.000Z",
-    "date": "2026-04-30",
+    "title": "Book Review: The Case for Hope in Saving the World’s Birds",
+    "title_es": "Book Review: The Case for Hope in Saving the World’s Birds",
+    "url": "https://undark.org/2026/05/01/book-review-return-of-the-oystercatcher/",
+    "published": "2026-05-01T07:41:00.000Z",
+    "date": "2026-05-01",
     "source": "Undark Magazine"
   },
   {
-    "title": "Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media, by Pablo Hurtado",
-    "title_es": "Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media, by Pablo Hurtado",
-    "url": "https://scipost.org/scipostphyslectnotes.121",
+    "title": "A pedestrian’s guide to the topological phases of free fermions, by Frank Schindler",
+    "title_es": "A pedestrian’s guide to the topological phases of free fermions, by Frank Schindler",
+    "url": "https://scipost.org/scipostphyslectnotes.122",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Markarian's Chain",
-    "title_es": "Markarian's Chain",
-    "url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
+    "title": "Seeing Titan",
+    "title_es": "Seeing Titan",
+    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -154,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=36.5251&long=-17.9725",
+    "url": "https://www.latlong.net/c/?lat=-11.9084&long=29.2320",
     "date": "",
     "published": "",
     "source": "ISS Position"
