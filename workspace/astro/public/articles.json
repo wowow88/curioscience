@@ -1,10 +1,26 @@
 [
   {
+    "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
+    "title_es": "Un marcador de ADN en sangre rastrea la exposición al arsénico y puede predecir el riesgo de toxicidad",
+    "url": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
+    "date": "2026-05-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-03T00:00:00.000Z"
+  },
+  {
     "title": "NASA Laser Terminal enhances views during Artemis II mission",
     "title_es": "La terminal láser de la NASA mejora las vistas durante la misión Artemis II",
     "url": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
     "date": "2026-05-02",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "title": "18th-century mechanical volcano roars to life 250 years later",
+    "title_es": "Un volcán mecánico del siglo XVIII cobra vida 250 años después",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+    "date": "2026-05-02",
+    "source": "ScienceDaily (Top)",
     "published": "2026-05-02T00:00:00.000Z"
   },
   {
@@ -93,6 +109,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
     "date": "2026-05-01",
     "source": "ScienceDaily (Top)",
+    "published": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Kennedy Center Director Announces Plans to Retire",
+    "title_es": "El director del Centro Kennedy de la NASA anuncia planes de jubilación",
+    "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+    "date": "2026-05-01",
+    "source": "NASA (Top News)",
     "published": "2026-05-01T00:00:00.000Z"
   },
   {
@@ -286,6 +310,14 @@
     "published": "2026-04-28T22:53:04.000Z",
     "date": "2026-04-28",
     "source": "Sci.News"
+  },
+  {
+    "title": "Is consciousness more fundamental to reality than quantum physics?",
+    "title_es": "Is consciousness more fundamental to reality than quantum physics?",
+    "url": "https://www.newscientist.com/article/2523209-is-consciousness-more-fundamental-to-reality-than-quantum-physics/",
+    "published": "2026-04-28T16:00:05.000Z",
+    "date": "2026-04-28",
+    "source": "New Scientist"
   },
   {
     "title": "Amid Falling Birth Rates, Federal Family Planning Is Overhauled",
@@ -58161,6 +58193,22 @@
     "title": "Seeing Titan",
     "title_es": "Seeing Titan",
     "url": "https://apod.nasa.gov/apod/image/2605/pia21923_fig1seeingtitan1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Inhomogeneous SSH models and the doubling of orthogonal polynomials, by Nicolas Crampé, Quentin Labriet, Lucia Morey, Gilles Parez, Luc Vinet",
+    "title_es": "Inhomogeneous SSH models and the doubling of orthogonal polynomials, by Nicolas Crampé, Quentin Labriet, Lucia Morey, Gilles Parez, Luc Vinet",
+    "url": "https://scipost.org/scipostphys.20.5.124",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Trifid Pillars and Jets",
+    "title_es": "Trifid Pillars and Jets",
+    "url": "https://apod.nasa.gov/apod/image/2605/trifidpillar_hubble_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

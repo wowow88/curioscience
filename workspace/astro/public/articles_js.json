@@ -32,6 +32,14 @@
     "source": "CNIO"
   },
   {
+    "title": "NASA Kennedy Center Director Announces Plans to Retire",
+    "title_es": "NASA Kennedy Center Director Announces Plans to Retire",
+    "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+    "published": "2026-05-01T17:01:48.000Z",
+    "date": "2026-05-01",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
     "title_es": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
     "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
@@ -64,19 +72,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-    "title_es": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
-    "published": "2026-05-01T13:07:15.000Z",
-    "date": "2026-05-01",
+    "title": "18th-century mechanical volcano roars to life 250 years later",
+    "title_es": "18th-century mechanical volcano roars to life 250 years later",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+    "published": "2026-05-02T13:27:56.000Z",
+    "date": "2026-05-02",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "NASA Laser Terminal enhances views during Artemis II mission",
-    "title_es": "NASA Laser Terminal enhances views during Artemis II mission",
-    "url": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
-    "published": "2026-05-02T00:40:01.000Z",
-    "date": "2026-05-02",
+    "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
+    "title_es": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
+    "url": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
+    "published": "2026-05-03T01:40:02.000Z",
+    "date": "2026-05-03",
     "source": "Phys.org (Latest)"
   },
   {
@@ -88,11 +96,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "2026 will be the hottest year on record, leading scientist predicts",
-    "title_es": "2026 will be the hottest year on record, leading scientist predicts",
-    "url": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/",
-    "published": "2026-05-01T17:24:54.000Z",
-    "date": "2026-05-01",
+    "title": "Is consciousness more fundamental to reality than quantum physics?",
+    "title_es": "Is consciousness more fundamental to reality than quantum physics?",
+    "url": "https://www.newscientist.com/article/2523209-is-consciousness-more-fundamental-to-reality-than-quantum-physics/",
+    "published": "2026-04-28T16:00:05.000Z",
+    "date": "2026-04-28",
     "source": "New Scientist"
   },
   {
@@ -120,17 +128,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "A pedestrian’s guide to the topological phases of free fermions, by Frank Schindler",
-    "title_es": "A pedestrian’s guide to the topological phases of free fermions, by Frank Schindler",
-    "url": "https://scipost.org/scipostphyslectnotes.122",
+    "title": "Inhomogeneous SSH models and the doubling of orthogonal polynomials, by Nicolas Crampé, Quentin Labriet, Lucia Morey, Gilles Parez, Luc Vinet",
+    "title_es": "Inhomogeneous SSH models and the doubling of orthogonal polynomials, by Nicolas Crampé, Quentin Labriet, Lucia Morey, Gilles Parez, Luc Vinet",
+    "url": "https://scipost.org/scipostphys.20.5.124",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Seeing Titan",
-    "title_es": "Seeing Titan",
-    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
+    "title": "Trifid Pillars and Jets",
+    "title_es": "Trifid Pillars and Jets",
+    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -138,7 +146,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-11.9084&long=29.2320",
+    "url": "https://www.latlong.net/c/?lat=51.4700&long=-86.7327",
     "date": "",
     "published": "",
     "source": "ISS Position"
