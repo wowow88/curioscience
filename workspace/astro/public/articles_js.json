@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "title_es": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "url": "https://arxiv.org/abs/2605.00005",
+    "published": "2026-05-04T04:00:00.000Z",
+    "date": "2026-05-04",
+    "source": "arXiv"
+  },
+  {
     "title": "Disneyland’s factory-inspired future",
     "title_es": "Disneyland’s factory-inspired future",
     "url": "https://www.science.org/doi/abs/10.1126/science.aef8390",
@@ -40,22 +48,6 @@
     "source": "NASA (Top News)"
   },
   {
-    "title": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
-    "title_es": "Arts at CERN and Nobel Prize Museum announce the Collide Stockholm international residency award recipient and two Honorary Mentions",
-    "url": "https://home.cern/news/news/cern/arts-cern-and-nobel-prize-museum-announce-collide-stockholm-international-residency",
-    "published": "2026-04-28T09:23:21.000Z",
-    "date": "2026-04-28",
-    "source": "CERN News"
-  },
-  {
-    "title": "Muon g-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
-    "title_es": "Muon g-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
-    "url": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
-    "published": "2026-04-14T09:31:17.000Z",
-    "date": "2026-04-14",
-    "source": "CERN Press"
-  },
-  {
     "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
     "title_es": "Celebrate America’s 250th birthday at a new state flower exhibit",
     "url": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
@@ -72,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "18th-century mechanical volcano roars to life 250 years later",
-    "title_es": "18th-century mechanical volcano roars to life 250 years later",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
-    "published": "2026-05-02T13:27:56.000Z",
-    "date": "2026-05-02",
+    "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+    "title_es": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+    "published": "2026-05-03T04:56:52.000Z",
+    "date": "2026-05-03",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
-    "title_es": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
-    "url": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
-    "published": "2026-05-03T01:40:02.000Z",
-    "date": "2026-05-03",
+    "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+    "title_es": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+    "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+    "published": "2026-05-04T08:00:01.000Z",
+    "date": "2026-05-04",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Is consciousness more fundamental to reality than quantum physics?",
-    "title_es": "Is consciousness more fundamental to reality than quantum physics?",
-    "url": "https://www.newscientist.com/article/2523209-is-consciousness-more-fundamental-to-reality-than-quantum-physics/",
-    "published": "2026-04-28T16:00:05.000Z",
-    "date": "2026-04-28",
+    "title": "Smart underwear detects lactose intolerance by tracking your farts",
+    "title_es": "Smart underwear detects lactose intolerance by tracking your farts",
+    "url": "https://www.newscientist.com/article/2525189-smart-underwear-detects-lactose-intolerance-by-tracking-your-farts/",
+    "published": "2026-05-04T06:00:07.000Z",
+    "date": "2026-05-04",
     "source": "New Scientist"
   },
   {
@@ -136,9 +128,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Trifid Pillars and Jets",
-    "title_es": "Trifid Pillars and Jets",
-    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
+    "title": "Superplumes Inside Earth",
+    "title_es": "Superplumes Inside Earth",
+    "url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -146,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=51.4700&long=-86.7327",
+    "url": "https://www.latlong.net/c/?lat=35.4755&long=-151.7507",
     "date": "",
     "published": "",
     "source": "ISS Position"

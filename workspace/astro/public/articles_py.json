@@ -1,5 +1,19 @@
 [
   {
+    "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
+    "title_es": "La evolución no es aleatoria. Los científicos encuentran los mismos genes utilizados durante 120 millones de años",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
+    "date": "2026-05-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+    "title_es": "Los nuevos híbridos de trigo aumentan la resistencia a las principales enfermedades fúngicas hasta en un 70%",
+    "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+    "date": "2026-05-04",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
     "title_es": "Un marcador de ADN en sangre rastrea la exposición al arsénico y puede predecir el riesgo de toxicidad",
     "url": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
@@ -82,6 +96,13 @@
     "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
     "date": "2026-05-01",
     "source": "NASA (Top News)"
+  },
+  {
+    "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+    "title_es": "Memoria visual persistente: mantenimiento de la percepción para la generación profunda en LVLM",
+    "url": "http://arxiv.org/abs/2605.00814v1",
+    "date": "2026-05-01",
+    "source": "arXiv"
   },
   {
     "title": "An electrifying test to find a good coffee",

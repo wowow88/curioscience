@@ -1,5 +1,45 @@
 [
   {
+    "title": "Smart underwear detects lactose intolerance by tracking your farts",
+    "title_es": "Smart underwear detects lactose intolerance by tracking your farts",
+    "url": "https://www.newscientist.com/article/2525189-smart-underwear-detects-lactose-intolerance-by-tracking-your-farts/",
+    "published": "2026-05-04T06:00:07.000Z",
+    "date": "2026-05-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "title_es": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "url": "https://arxiv.org/abs/2605.00005",
+    "published": "2026-05-04T04:00:00.000Z",
+    "date": "2026-05-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
+    "title_es": "La evolución no es aleatoria. Los científicos encuentran los mismos genes utilizados durante 120 millones de años",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
+    "date": "2026-05-04",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+    "title_es": "Los nuevos híbridos de trigo aumentan la resistencia a las principales enfermedades fúngicas hasta en un 70%",
+    "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+    "date": "2026-05-04",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+    "title_es": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+    "published": "2026-05-03T04:56:52.000Z",
+    "date": "2026-05-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
     "title_es": "Un marcador de ADN en sangre rastrea la exposición al arsénico y puede predecir el riesgo de toxicidad",
     "url": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
@@ -117,6 +157,14 @@
     "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
     "date": "2026-05-01",
     "source": "NASA (Top News)",
+    "published": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+    "title_es": "Memoria visual persistente: mantenimiento de la percepción para la generación profunda en LVLM",
+    "url": "http://arxiv.org/abs/2605.00814v1",
+    "date": "2026-05-01",
+    "source": "arXiv",
     "published": "2026-05-01T00:00:00.000Z"
   },
   {
@@ -58209,6 +58257,14 @@
     "title": "Trifid Pillars and Jets",
     "title_es": "Trifid Pillars and Jets",
     "url": "https://apod.nasa.gov/apod/image/2605/trifidpillar_hubble_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Superplumes Inside Earth",
+    "title_es": "Superplumes Inside Earth",
+    "url": "https://apod.nasa.gov/apod/image/2605/superplumeearth_cottaar.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
