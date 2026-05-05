@@ -1,5 +1,26 @@
 [
   {
+    "title": "Ahuachapán and Its Restive Neighbors",
+    "title_es": "Ahuachapán y sus vecinos inquietos",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+    "date": "2026-05-05",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+    "title_es": "Los científicos acaban de crear nuevas formas exóticas de materia que no deberían existir",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+    "date": "2026-05-05",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Burned stone, child's bones, and lost jewelry hint at prehistoric mining camp high in the Pyrenees",
+    "title_es": "Piedras quemadas, huesos de niños y joyas perdidas dan pistas de un campamento minero prehistórico en lo alto de los Pirineos",
+    "url": "https://phys.org/news/2026-05-stone-child-bones-lost-jewelry.html",
+    "date": "2026-05-05",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
     "title_es": "La evolución no es aleatoria. Los científicos encuentran los mismos genes utilizados durante 120 millones de años",
     "url": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
     "date": "2026-05-04",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation",
+    "title_es": "Modelo de predicción interpretable basado en miARN para la detección temprana del cáncer de páncreas: desarrollo y validación multiplataforma",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-04",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+    "title_es": "SpecKV: decodificación especulativa adaptativa con selección gamma consciente de la compresión",
+    "url": "http://arxiv.org/abs/2605.02888v1",
+    "date": "2026-05-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
+    "title_es": "Herramientas poderosas están revelando los \"perillas de control\" del genoma",
+    "url": "https://www.nature.com/articles/d41586-026-01410-1",
+    "date": "2026-05-04",
+    "source": "Nature"
+  },
+  {
+    "title": "El Hospital público Infanta Leonor se incorpora al proyecto internacional REACT para prevenir la enfermedad cardiovascular aterosclerótica",
+    "title_es": "El Hospital público Infanta Leonor se incorpora al proyecto internacional REACT para prevenir la enfermedad cardiovascular aterosclerótica",
+    "url": "https://www.cnic.es/es/noticias/hospital-publico-infanta-leonor-se-incorpora-al-proyecto-internacional-react-para-prevenir",
+    "date": "2026-05-04",
+    "source": "CNIC"
+  },
+  {
+    "title": "A small object past Pluto may have a thin atmosphere",
+    "title_es": "Un pequeño objeto más allá de Plutón puede tener una atmósfera delgada",
+    "url": "https://www.sciencenews.org/article/atmosphere-small-object-past-pluto",
+    "date": "2026-05-04",
+    "source": "Science News"
+  },
+  {
+    "title": "Don’t trust AI for help with citations, science-fair judges warn",
+    "title_es": "No confíe en la IA para obtener ayuda con las citaciones, advierten los jueces de la feria científica",
+    "url": "https://www.snexplores.org/article/dont-trust-ai-for-help-with-citations-science-fair-judges-warn",
+    "date": "2026-05-04",
+    "source": "Science News Explores"
   },
   {
     "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
@@ -54,13 +117,6 @@
     "url": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
     "date": "2026-05-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Editorial Note: Environmental justice and power plant emissions in the Regional Greenhouse Gas Initiative states",
-    "title_es": "Nota editorial: Justicia ambiental y emisiones de plantas de energía en los estados de la Iniciativa Regional de Gases de Efecto Invernadero",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
