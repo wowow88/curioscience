@@ -1,5 +1,69 @@
 [
   {
+    "title": "In Coal Country, Black Lung Surges as Federal Protections Stall",
+    "title_es": "In Coal Country, Black Lung Surges as Federal Protections Stall",
+    "url": "https://undark.org/2026/05/06/black-lung-federal-protections/",
+    "published": "2026-05-06T07:19:00.000Z",
+    "date": "2026-05-06",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Same Voice, Different Lab: On the Homogenization of Frontier LLM Personalities",
+    "title_es": "Same Voice, Different Lab: On the Homogenization of Frontier LLM Personalities",
+    "url": "https://arxiv.org/abs/2605.02897",
+    "published": "2026-05-06T04:00:00.000Z",
+    "date": "2026-05-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "Extinct relative of koalas discovered in Western Australia",
+    "title_es": "Extinct relative of koalas discovered in Western Australia",
+    "url": "https://www.newscientist.com/article/2525306-extinct-relative-of-koalas-discovered-in-western-australia/",
+    "published": "2026-05-06T00:01:10.000Z",
+    "date": "2026-05-06",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Melting Snow Off Shivelyuch",
+    "title_es": "Nieve derritiéndose en Shivelyuch",
+    "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
+    "date": "2026-05-06",
+    "source": "NASA (Top News)",
+    "published": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "Space junk falls back to Earth faster as sunspot numbers climb",
+    "title_es": "La basura espacial regresa a la Tierra más rápido a medida que aumenta el número de manchas solares",
+    "url": "https://www.sciencenews.org/article/space-debris-altitude-loss-increase",
+    "date": "2026-05-06",
+    "source": "Science News",
+    "published": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall",
+    "title_es": "Hallan escondida en un muro de contención una “enredadera de arena” gigante de 240 millones de años",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
+    "date": "2026-05-06",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "With large DNA fragment assembly, scientists can design microbes that produce countless complex products",
+    "title_es": "Con el ensamblaje de grandes fragmentos de ADN, los científicos pueden diseñar microbios que produzcan innumerables productos complejos",
+    "url": "https://phys.org/news/2026-05-large-dna-fragment-scientists-microbes.html",
+    "date": "2026-05-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "Earliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests",
+    "title_es": "Earliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests",
+    "url": "https://www.sci.news/biology/earliest-organisms-molybdenum-tungsten-14744.html",
+    "published": "2026-05-05T22:54:28.000Z",
+    "date": "2026-05-05",
+    "source": "Sci.News"
+  },
+  {
     "title": "Quantum computers simulated their biggest molecule yet – with help",
     "title_es": "Quantum computers simulated their biggest molecule yet – with help",
     "url": "https://www.newscientist.com/article/2525277-quantum-computers-simulated-their-biggest-molecule-yet-with-help/",
@@ -37,6 +101,38 @@
     "url": "https://phys.org/news/2026-05-stone-child-bones-lost-jewelry.html",
     "date": "2026-05-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "title": "Safety and accuracy follow different scaling laws in clinical large language models",
+    "title_es": "La seguridad y la precisión siguen diferentes leyes de escala en modelos clínicos de lenguaje grande",
+    "url": "http://arxiv.org/abs/2605.04039v1",
+    "date": "2026-05-05",
+    "source": "arXiv",
+    "published": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+    "title_es": "Expresión editorial de preocupación: las neuronas nociceptivas promueven la progresión del tumor gástrico a través del eje CGRP-RAMP1",
+    "url": "https://www.nature.com/articles/s41586-026-10594-5",
+    "date": "2026-05-05",
+    "source": "Nature",
+    "published": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "title": "Anthony Firulli: \"Mi objetivo es pasar el mayor número de días posible con una sonrisa en la cara\"",
+    "title_es": "Anthony Firulli: \"Mi objetivo es pasar el mayor número de días posible con una sonrisa en la cara\"",
+    "url": "https://www.cnic.es/es/noticias/anthony-firulli-mi-objetivo-pasar-mayor-numero-dias-posible-con-sonrisa-cara",
+    "date": "2026-05-05",
+    "source": "CNIC",
+    "published": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn about wetlands",
+    "title_es": "Aprendamos sobre los humedales",
+    "url": "https://www.snexplores.org/article/lets-learn-about-wetlands",
+    "date": "2026-05-05",
+    "source": "Science News Explores",
     "published": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -117,6 +213,14 @@
     "url": "https://www.snexplores.org/article/dont-trust-ai-for-help-with-citations-science-fair-judges-warn",
     "date": "2026-05-04",
     "source": "Science News Explores",
+    "published": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-prepara-para-la-celebracion-de-la-xxxvii-escuela-de-invierno-de-astrofisica-sobre-estrellas\" hreflang=\"es\">El IAC se prepara para la celebración de la XXXVII Escuela de Invierno de Astrofísica sobre estrellas masivas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-prepara-para-la-celebracion-de-la-xxxvii-escuela-de-invierno-de-astrofisica-sobre-estrellas\" hreflang=\"es\">El IAC se prepara para la celebración de la XXXVII Escuela de Invierno de Astrofísica sobre estrellas masivas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-se-prepara-para-la-celebracion-de-la-xxxvii-escuela-de-invierno-de-astrofisica-sobre-estrellas",
+    "date": "2026-05-04",
+    "source": "IAC",
     "published": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -23879,8 +23983,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation",
-    "title_es": "Modelo de predicción interpretable basado en miARN para la detección temprana del cáncer de páncreas: desarrollo y validación multiplataforma",
+    "title": "Correction: The impact of the radical urbanization index on depression risk among middle-aged and elderly Chinese: Evidence from a large-scale cross-sectional study",
+    "title_es": "Corrección: El impacto del índice de urbanización radical en el riesgo de depresión entre los chinos de mediana edad y ancianos: evidencia de un estudio transversal a gran escala",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -58364,5 +58468,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "The Retrograde Dance of Saturn and Neptune",
+    "title_es": "The Retrograde Dance of Saturn and Neptune",
+    "url": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
