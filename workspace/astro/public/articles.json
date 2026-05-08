@@ -1,5 +1,53 @@
 [
   {
+    "title": "A GPU-Accelerated Hybrid Method for a Class of Multi-Depot Vehicle Routing Problems",
+    "title_es": "A GPU-Accelerated Hybrid Method for a Class of Multi-Depot Vehicle Routing Problems",
+    "url": "https://arxiv.org/abs/2605.05208",
+    "published": "2026-05-08T04:00:00.000Z",
+    "date": "2026-05-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Researchers Create Detailed Map of Smell Receptors in Mouse Nose",
+    "title_es": "Researchers Create Detailed Map of Smell Receptors in Mouse Nose",
+    "url": "https://www.sci.news/biology/map-mouse-nose-smell-receptors-14752.html",
+    "published": "2026-05-08T00:25:05.000Z",
+    "date": "2026-05-08",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Tracy Arm’s Post-Tsunami Landscape",
+    "title_es": "El panorama post-tsunami de Tracy Arm",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/",
+    "date": "2026-05-08",
+    "source": "NASA (Top News)",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
+    "title_es": "El cometa interestelar 3I/ATLAS contiene agua extraña nunca vista en nuestro sistema solar",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260508003117.htm",
+    "date": "2026-05-08",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "title": "4,000-year-old texts to reach new audiences in digital project",
+    "title_es": "Textos de 4.000 años de antigüedad llegarán a nuevas audiencias en un proyecto digital",
+    "url": "https://phys.org/news/2026-05-year-texts-audiences-digital.html",
+    "date": "2026-05-08",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "title": "Hantavirus outbreak will not cause a covid-style pandemic, says WHO",
+    "title_es": "Hantavirus outbreak will not cause a covid-style pandemic, says WHO",
+    "url": "https://www.newscientist.com/article/2525761-hantavirus-outbreak-will-not-cause-a-covid-style-pandemic-says-who/",
+    "published": "2026-05-07T16:40:22.000Z",
+    "date": "2026-05-07",
+    "source": "New Scientist"
+  },
+  {
     "title": "Medicine’s Move Toward Race-Neutral Risk Assessments",
     "title_es": "Medicine’s Move Toward Race-Neutral Risk Assessments",
     "url": "https://undark.org/2026/05/07/opinion-race-neutral-health-calculators/",
@@ -37,6 +85,54 @@
     "url": "https://phys.org/news/2026-05-jakarta-deadly-invasive-suckerfish.html",
     "date": "2026-05-07",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+    "title_es": "ActCam: cámara conjunta Zero-Shot y control de movimiento 3D para generación de vídeo",
+    "url": "http://arxiv.org/abs/2605.06667v1",
+    "date": "2026-05-07",
+    "source": "arXiv",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "Bury them in bureaucracy",
+    "title_es": "Enterrarlos en la burocracia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg6282",
+    "date": "2026-05-07",
+    "source": "Science.org",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+    "title_es": "Corrección del autor: el eje de señalización del hemo guiado por proteasoma contribuye al agotamiento de las células T",
+    "url": "https://www.nature.com/articles/s41586-026-10608-2",
+    "date": "2026-05-07",
+    "source": "Nature",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa\" hreflang=\"es\">El IAC se acredita como Centro de Excelencia Severo Ochoa</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa\" hreflang=\"es\">El IAC se acredita como Centro de Excelencia Severo Ochoa</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa",
+    "date": "2026-05-07",
+    "source": "IAC",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
+    "title_es": "Un dispositivo cuántico del tamaño de una toronja mapeó el campo magnético de la Tierra desde el espacio",
+    "url": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
+    "date": "2026-05-07",
+    "source": "Science News",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "title": "How not to choke when performing under pressure",
+    "title_es": "Cómo no ahogarse al actuar bajo presión",
+    "url": "https://www.snexplores.org/article/performance-anxiety-choke-penalty-kick",
+    "date": "2026-05-07",
+    "source": "Science News Explores",
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
@@ -24071,8 +24167,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "An improved control strategy of power-frequency characteristics of virtual synchronous generator",
-    "title_es": "Una estrategia de control mejorada de las características de frecuencia industrial del generador síncrono virtual.",
+    "title": "Clinical evaluation of the i-gel Plus supraglottic airway in Japanese patients: A prospective observational study",
+    "title_es": "Evaluación clínica de la vía aérea supraglótica i-gel Plus en pacientes japoneses: un estudio observacional prospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -58577,6 +58673,22 @@
     "title": "Supernova in a Sideways Spiral",
     "title_es": "Supernova in a Sideways Spiral",
     "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "XDiag: Exact diagonalization for quantum many-body systems, by Alexander Wietek, Luke Staszewski, Martin Ulaga, Paul L. Ebert, Hannes Karlsson, Siddhartha Sarkar, Leyna Shackleton, Aritra Sinha, Rafael D. Soares",
+    "title_es": "XDiag: Exact diagonalization for quantum many-body systems, by Alexander Wietek, Luke Staszewski, Martin Ulaga, Paul L. Ebert, Hannes Karlsson, Siddhartha Sarkar, Leyna Shackleton, Aritra Sinha, Rafael D. Soares",
+    "url": "https://scipost.org/scipostphyscodeb.70",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Comet R3 PanSTARRS Before Rigel",
+    "title_es": "Comet R3 PanSTARRS Before Rigel",
+    "url": "https://apod.nasa.gov/apod/image/2605/cometrigel_karuk_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

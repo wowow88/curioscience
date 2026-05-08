@@ -1,5 +1,26 @@
 [
   {
+    "title": "Tracy Arm’s Post-Tsunami Landscape",
+    "title_es": "El panorama post-tsunami de Tracy Arm",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/",
+    "date": "2026-05-08",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
+    "title_es": "El cometa interestelar 3I/ATLAS contiene agua extraña nunca vista en nuestro sistema solar",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260508003117.htm",
+    "date": "2026-05-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "4,000-year-old texts to reach new audiences in digital project",
+    "title_es": "Textos de 4.000 años de antigüedad llegarán a nuevas audiencias en un proyecto digital",
+    "url": "https://phys.org/news/2026-05-year-texts-audiences-digital.html",
+    "date": "2026-05-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A Sea of Spinning Clouds",
     "title_es": "Un mar de nubes giratorias",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/",
@@ -19,6 +40,55 @@
     "url": "https://phys.org/news/2026-05-jakarta-deadly-invasive-suckerfish.html",
     "date": "2026-05-07",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Clinical evaluation of the i-gel Plus supraglottic airway in Japanese patients: A prospective observational study",
+    "title_es": "Evaluación clínica de la vía aérea supraglótica i-gel Plus en pacientes japoneses: un estudio observacional prospectivo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+    "title_es": "ActCam: cámara conjunta Zero-Shot y control de movimiento 3D para generación de vídeo",
+    "url": "http://arxiv.org/abs/2605.06667v1",
+    "date": "2026-05-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Bury them in bureaucracy",
+    "title_es": "Enterrarlos en la burocracia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg6282",
+    "date": "2026-05-07",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+    "title_es": "Corrección del autor: el eje de señalización del hemo guiado por proteasoma contribuye al agotamiento de las células T",
+    "url": "https://www.nature.com/articles/s41586-026-10608-2",
+    "date": "2026-05-07",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa\" hreflang=\"es\">El IAC se acredita como Centro de Excelencia Severo Ochoa</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa\" hreflang=\"es\">El IAC se acredita como Centro de Excelencia Severo Ochoa</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-se-acredita-como-centro-de-excelencia-severo-ochoa",
+    "date": "2026-05-07",
+    "source": "IAC"
+  },
+  {
+    "title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
+    "title_es": "Un dispositivo cuántico del tamaño de una toronja mapeó el campo magnético de la Tierra desde el espacio",
+    "url": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
+    "date": "2026-05-07",
+    "source": "Science News"
+  },
+  {
+    "title": "How not to choke when performing under pressure",
+    "title_es": "Cómo no ahogarse al actuar bajo presión",
+    "url": "https://www.snexplores.org/article/performance-anxiety-choke-penalty-kick",
+    "date": "2026-05-07",
+    "source": "Science News Explores"
   },
   {
     "title": "Melting Snow Off Shivelyuch",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-05-large-dna-fragment-scientists-microbes.html",
     "date": "2026-05-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "An improved control strategy of power-frequency characteristics of virtual synchronous generator",
-    "title_es": "Una estrategia de control mejorada de las características de frecuencia industrial del generador síncrono virtual.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "Taming Outlier Tokens in Diffusion Transformers",
