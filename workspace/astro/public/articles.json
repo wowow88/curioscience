@@ -1,5 +1,21 @@
 [
   {
+    "title": "Scientists discover the brain’s hidden “stop scratching” switch",
+    "title_es": "Los científicos descubren el interruptor oculto del cerebro para \"dejar de rascarse\"",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
+    "date": "2026-05-10",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
+    "title_es": "Los investigadores desarrollan un lavado biodegradable que puede eliminar pesticidas y mantener la fruta fresca por más tiempo",
+    "url": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
+    "date": "2026-05-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-10T00:00:00.000Z"
+  },
+  {
     "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
     "title_es": "Los científicos encontraron el gen del “santo grial” que algún día podría ayudar a los humanos a recuperar sus extremidades",
     "url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-05-repurposed-medical-device-ancient-climate.html",
     "date": "2026-05-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "title": "Jennifer Davis: \"Debemos tratar la IA como una herramienta para generar hipótesis, no como respuestas finales\"",
+    "title_es": "Jennifer Davis: \"Debemos tratar la IA como una herramienta para generar hipótesis, no como respuestas finales\"",
+    "url": "https://www.cnic.es/es/noticias/jennifer-davis-debemos-tratar-ia-como-herramienta-para-generar-hipotesis-no-como-respuestas",
+    "date": "2026-05-09",
+    "source": "CNIC",
     "published": "2026-05-09T00:00:00.000Z"
   },
   {
@@ -109,6 +133,14 @@
     "url": "https://www.snexplores.org/article/emperor-penguins-endangered-warming",
     "date": "2026-05-08",
     "source": "Science News Explores",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+    "title_es": "Descripción general de la 34ª misión de reabastecimiento comercial SpaceX de la NASA",
+    "url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+    "date": "2026-05-08",
+    "source": "NASA (Top News)",
     "published": "2026-05-08T00:00:00.000Z"
   },
   {
@@ -318,6 +350,14 @@
     "published": "2026-05-05T22:54:28.000Z",
     "date": "2026-05-05",
     "source": "Sci.News"
+  },
+  {
+    "title": "The 50-year quest to create a quantum spin liquid may finally be over",
+    "title_es": "The 50-year quest to create a quantum spin liquid may finally be over",
+    "url": "https://www.newscientist.com/article/2523438-the-50-year-quest-to-create-a-quantum-spin-liquid-may-finally-be-over/",
+    "published": "2026-05-05T16:00:58.000Z",
+    "date": "2026-05-05",
+    "source": "New Scientist"
   },
   {
     "title": "Quantum computers simulated their biggest molecule yet – with help",
@@ -58788,5 +58828,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Superconducting proximity effect in an SSH-superconductor junction, by Ivan A. Belkovich, Alexey A. Radkevich",
+    "title_es": "Superconducting proximity effect in an SSH-superconductor junction, by Ivan A. Belkovich, Alexey A. Radkevich",
+    "url": "https://scipost.org/scipostphys.20.5.131",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

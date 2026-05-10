@@ -16,11 +16,11 @@
     "source": "Nature"
   },
   {
-    "title": "Anthony Firulli: \"Mi objetivo es pasar el mayor número de días posible con una sonrisa en la cara\"",
-    "title_es": "Anthony Firulli: \"Mi objetivo es pasar el mayor número de días posible con una sonrisa en la cara\"",
-    "url": "https://www.cnic.es/es/noticias/anthony-firulli-mi-objetivo-pasar-mayor-numero-dias-posible-con-sonrisa-cara",
-    "published": "2026-05-05T12:27:51.000Z",
-    "date": "2026-05-05",
+    "title": "Jennifer Davis: \"Debemos tratar la IA como una herramienta para generar hipótesis, no como respuestas finales\"",
+    "title_es": "Jennifer Davis: \"Debemos tratar la IA como una herramienta para generar hipótesis, no como respuestas finales\"",
+    "url": "https://www.cnic.es/es/noticias/jennifer-davis-debemos-tratar-ia-como-herramienta-para-generar-hipotesis-no-como-respuestas",
+    "published": "2026-05-09T18:09:35.000Z",
+    "date": "2026-05-09",
     "source": "CNIC"
   },
   {
@@ -30,6 +30,14 @@
     "published": "2026-04-28T10:34:12.000Z",
     "date": "2026-04-28",
     "source": "CNIO"
+  },
+  {
+    "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+    "title_es": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+    "url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+    "published": "2026-05-08T22:50:03.000Z",
+    "date": "2026-05-08",
+    "source": "NASA (Top News)"
   },
   {
     "title": "If wings came before flight, what were they for?",
@@ -48,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "New obesity discovery rewrites decades of fat science",
-    "title_es": "New obesity discovery rewrites decades of fat science",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-    "published": "2026-05-08T21:21:20.000Z",
-    "date": "2026-05-08",
+    "title": "Scientists discover the brain’s hidden “stop scratching” switch",
+    "title_es": "Scientists discover the brain’s hidden “stop scratching” switch",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
+    "published": "2026-05-10T07:08:07.000Z",
+    "date": "2026-05-10",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "How a repurposed medical device is helping us investigate ancient climate tipping points",
-    "title_es": "How a repurposed medical device is helping us investigate ancient climate tipping points",
-    "url": "https://phys.org/news/2026-05-repurposed-medical-device-ancient-climate.html",
-    "published": "2026-05-09T01:40:01.000Z",
-    "date": "2026-05-09",
+    "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
+    "title_es": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
+    "url": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
+    "published": "2026-05-10T00:30:01.000Z",
+    "date": "2026-05-10",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "A lost ancient script reveals how writing as we know it really began",
-    "title_es": "A lost ancient script reveals how writing as we know it really began",
-    "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
-    "published": "2026-05-04T16:00:56.000Z",
-    "date": "2026-05-04",
+    "title": "The 50-year quest to create a quantum spin liquid may finally be over",
+    "title_es": "The 50-year quest to create a quantum spin liquid may finally be over",
+    "url": "https://www.newscientist.com/article/2523438-the-50-year-quest-to-create-a-quantum-spin-liquid-may-finally-be-over/",
+    "published": "2026-05-05T16:00:58.000Z",
+    "date": "2026-05-05",
     "source": "New Scientist"
   },
   {
@@ -104,25 +112,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Boundary critical phenomena in the quantum Ashkin-Teller model, by Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa",
-    "title_es": "Boundary critical phenomena in the quantum Ashkin-Teller model, by Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa",
-    "url": "https://scipost.org/scipostphys.20.5.130",
+    "title": "Superconducting proximity effect in an SSH-superconductor junction, by Ivan A. Belkovich, Alexey A. Radkevich",
+    "title_es": "Superconducting proximity effect in an SSH-superconductor junction, by Ivan A. Belkovich, Alexey A. Radkevich",
+    "url": "https://scipost.org/scipostphys.20.5.131",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Messier Craters in Stereo",
-    "title_es": "Messier Craters in Stereo",
-    "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=47.1524&long=-146.5079",
+    "url": "https://www.latlong.net/c/?lat=-40.0554&long=103.5354",
     "date": "",
     "published": "",
     "source": "ISS Position"
