@@ -1,5 +1,21 @@
 [
   {
+    "title": "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs",
+    "title_es": "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs",
+    "url": "https://arxiv.org/abs/2605.06669",
+    "published": "2026-05-11T04:00:00.000Z",
+    "date": "2026-05-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Deep beneath Swiss Alps, researchers trigger 8,000 tiny quakes in controlled test",
+    "title_es": "En lo profundo de los Alpes suizos, investigadores provocan 8.000 pequeños terremotos en una prueba controlada",
+    "url": "https://phys.org/news/2026-05-deep-beneath-swiss-alps-trigger.html",
+    "date": "2026-05-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
     "title": "Scientists discover the brain’s hidden “stop scratching” switch",
     "title_es": "Los científicos descubren el interruptor oculto del cerebro para \"dejar de rascarse\"",
     "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
     "date": "2026-05-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+    "title_es": "“No se puede explicar” – El nuevo acero ultra inoxidable sorprende a los investigadores",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+    "date": "2026-05-10",
+    "source": "ScienceDaily (Top)",
     "published": "2026-05-10T00:00:00.000Z"
   },
   {
@@ -144,6 +168,14 @@
     "published": "2026-05-08T00:00:00.000Z"
   },
   {
+    "title": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction",
+    "title_es": "EmambaIR: modelo de espacio de estado visual eficiente para la reconstrucción de imágenes guiada por eventos",
+    "url": "http://arxiv.org/abs/2605.08073v1",
+    "date": "2026-05-08",
+    "source": "arXiv",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
     "title": "Hantavirus outbreak will not cause a covid-style pandemic, says WHO",
     "title_es": "Hantavirus outbreak will not cause a covid-style pandemic, says WHO",
     "url": "https://www.newscientist.com/article/2525761-hantavirus-outbreak-will-not-cause-a-covid-style-pandemic-says-who/",
@@ -252,6 +284,14 @@
     "title_es": "Dating over 50 is probably on the rise – but we know little about it",
     "url": "https://www.newscientist.com/article/2525520-dating-over-50-is-probably-on-the-rise-but-we-know-little-about-it/",
     "published": "2026-05-06T20:00:36.000Z",
+    "date": "2026-05-06",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Red-light therapy does have health benefits but not the ones you think",
+    "title_es": "Red-light therapy does have health benefits but not the ones you think",
+    "url": "https://www.newscientist.com/article/2523875-red-light-therapy-does-have-health-benefits-but-not-the-ones-you-think/",
+    "published": "2026-05-06T16:00:51.000Z",
     "date": "2026-05-06",
     "source": "New Scientist"
   },
@@ -58836,5 +58876,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Moon Setting Behind Teide Volcano",
+    "title_es": "Moon Setting Behind Teide Volcano",
+    "url": "https://www.youtube.com/embed/afhfmmc-mje",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
