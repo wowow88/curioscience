@@ -1,5 +1,53 @@
 [
   {
+    "title": "RAwR: Role-Aware Rewiring via Approximate Equitable Partition",
+    "title_es": "RAwR: Role-Aware Rewiring via Approximate Equitable Partition",
+    "url": "https://arxiv.org/abs/2605.09457",
+    "published": "2026-05-12T04:00:00.000Z",
+    "date": "2026-05-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Australia’s Cloudy Beauty",
+    "title_es": "La belleza nublada de Australia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
+    "date": "2026-05-12",
+    "source": "NASA (Top News)",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before",
+    "title_es": "El Hubble de la NASA revela un gigantesco vivero de planetas caóticos como nunca antes se había visto",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
+    "date": "2026-05-12",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "New tectonic plate boundary could be forming in Zambia, scientists say",
+    "title_es": "Se podría estar formando un nuevo límite de placa tectónica en Zambia, dicen los científicos",
+    "url": "https://phys.org/news/2026-05-tectonic-plate-boundary-zambia-scientists.html",
+    "date": "2026-05-12",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "New Species of Giant Long-Necked Dinosaur Identified in Argentina",
+    "title_es": "New Species of Giant Long-Necked Dinosaur Identified in Argentina",
+    "url": "https://www.sci.news/paleontology/bicharracosaurus-dionidei-14758.html",
+    "published": "2026-05-11T23:02:43.000Z",
+    "date": "2026-05-11",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The story of the first human tool: the humble container",
+    "title_es": "The story of the first human tool: the humble container",
+    "url": "https://www.newscientist.com/article/2526004-the-story-of-the-first-human-tool-the-humble-container/",
+    "published": "2026-05-11T18:00:56.000Z",
+    "date": "2026-05-11",
+    "source": "New Scientist"
+  },
+  {
     "title": "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs",
     "title_es": "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs",
     "url": "https://arxiv.org/abs/2605.06669",
@@ -13,6 +61,46 @@
     "url": "https://phys.org/news/2026-05-deep-beneath-swiss-alps-trigger.html",
     "date": "2026-05-11",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "title": "ELF: Embedded Language Flows",
+    "title_es": "ELF: flujos de lenguaje integrados",
+    "url": "http://arxiv.org/abs/2605.10938v1",
+    "date": "2026-05-11",
+    "source": "arXiv",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "title_es": "Corrección del editor: el entrenamiento presintomático mitiga los déficits funcionales en un modelo de ratón con síndrome de Rett",
+    "url": "https://www.nature.com/articles/s41586-026-10578-5",
+    "date": "2026-05-11",
+    "source": "Nature",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro\" hreflang=\"es\">El IAC inaugura la exposición “El Observatorio Observado”, realizada por el Taller de Artes Plásticas Giro-Arte</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro\" hreflang=\"es\">El IAC inaugura la exposición “El Observatorio Observado”, realizada por el Taller de Artes Plásticas Giro-Arte</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro",
+    "date": "2026-05-11",
+    "source": "IAC",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "title": "Astronomers may have found a record-breaking pair of black holes",
+    "title_es": "Los astrónomos pueden haber encontrado un par de agujeros negros sin precedentes",
+    "url": "https://www.sciencenews.org/article/largest-pair-black-holes-collision",
+    "date": "2026-05-11",
+    "source": "Science News",
+    "published": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "title": "Would lip-synching make androids seem less creepy?",
+    "title_es": "¿La sincronización de labios haría que los androides parecieran menos espeluznantes?",
+    "url": "https://www.snexplores.org/article/lip-synching-android-robots-uncanny",
+    "date": "2026-05-11",
+    "source": "Science News Explores",
     "published": "2026-05-11T00:00:00.000Z"
   },
   {
@@ -24327,8 +24415,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Prevalence, diagnostic methods, and clinical outcomes of wasting/cachexia among pediatric cancer patients in Africa: A protocol for a systematic review and meta-analysis",
-    "title_es": "Prevalencia, métodos de diagnóstico y resultados clínicos de emaciación/caquexia entre pacientes pediátricos con cáncer en África: un protocolo para una revisión sistemática y un metanálisis",
+    "title": "Correction: A mixed-methods multi-site case study of a person-centred intervention for constant observation in hospitals with people living with dementia",
+    "title_es": "Corrección: un estudio de caso de múltiples sitios con métodos mixtos de una intervención centrada en la persona para la observación constante en hospitales con personas que viven con demencia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -58881,6 +58969,22 @@
     "title": "Moon Setting Behind Teide Volcano",
     "title_es": "Moon Setting Behind Teide Volcano",
     "url": "https://www.youtube.com/embed/afhfmmc-mje",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Codebase release 2.1 for GAPS, by Michael H. Seymour, Siddharth Sule",
+    "title_es": "Codebase release 2.1 for GAPS, by Michael H. Seymour, Siddharth Sule",
+    "url": "https://scipost.org/scipostphyscodeb.71-r2.1",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
+    "title_es": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2605/cometr3_orion.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

@@ -1,10 +1,73 @@
 [
   {
+    "title": "Australia’s Cloudy Beauty",
+    "title_es": "La belleza nublada de Australia",
+    "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
+    "date": "2026-05-12",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA’s Hubble  reveals a giant chaotic planet nursery unlike anything seen before",
+    "title_es": "El Hubble de la NASA revela un gigantesco vivero de planetas caóticos como nunca antes se había visto",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
+    "date": "2026-05-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "New tectonic plate boundary could be forming in Zambia, scientists say",
+    "title_es": "Se podría estar formando un nuevo límite de placa tectónica en Zambia, dicen los científicos",
+    "url": "https://phys.org/news/2026-05-tectonic-plate-boundary-zambia-scientists.html",
+    "date": "2026-05-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Deep beneath Swiss Alps, researchers trigger 8,000 tiny quakes in controlled test",
     "title_es": "En lo profundo de los Alpes suizos, investigadores provocan 8.000 pequeños terremotos en una prueba controlada",
     "url": "https://phys.org/news/2026-05-deep-beneath-swiss-alps-trigger.html",
     "date": "2026-05-11",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: A mixed-methods multi-site case study of a person-centred intervention for constant observation in hospitals with people living with dementia",
+    "title_es": "Corrección: un estudio de caso de múltiples sitios con métodos mixtos de una intervención centrada en la persona para la observación constante en hospitales con personas que viven con demencia",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ELF: Embedded Language Flows",
+    "title_es": "ELF: flujos de lenguaje integrados",
+    "url": "http://arxiv.org/abs/2605.10938v1",
+    "date": "2026-05-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "title_es": "Corrección del editor: el entrenamiento presintomático mitiga los déficits funcionales en un modelo de ratón con síndrome de Rett",
+    "url": "https://www.nature.com/articles/s41586-026-10578-5",
+    "date": "2026-05-11",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro\" hreflang=\"es\">El IAC inaugura la exposición “El Observatorio Observado”, realizada por el Taller de Artes Plásticas Giro-Arte</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro\" hreflang=\"es\">El IAC inaugura la exposición “El Observatorio Observado”, realizada por el Taller de Artes Plásticas Giro-Arte</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-inaugura-la-exposicion-el-observatorio-observado-realizada-por-el-taller-de-artes-plasticas-giro",
+    "date": "2026-05-11",
+    "source": "IAC"
+  },
+  {
+    "title": "Astronomers may have found a record-breaking pair of black holes",
+    "title_es": "Los astrónomos pueden haber encontrado un par de agujeros negros sin precedentes",
+    "url": "https://www.sciencenews.org/article/largest-pair-black-holes-collision",
+    "date": "2026-05-11",
+    "source": "Science News"
+  },
+  {
+    "title": "Would lip-synching make androids seem less creepy?",
+    "title_es": "¿La sincronización de labios haría que los androides parecieran menos espeluznantes?",
+    "url": "https://www.snexplores.org/article/lip-synching-android-robots-uncanny",
+    "date": "2026-05-11",
+    "source": "Science News Explores"
   },
   {
     "title": "Scientists discover the brain’s hidden “stop scratching” switch",
@@ -68,13 +131,6 @@
     "url": "https://phys.org/news/2026-05-year-texts-audiences-digital.html",
     "date": "2026-05-08",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Prevalence, diagnostic methods, and clinical outcomes of wasting/cachexia among pediatric cancer patients in Africa: A protocol for a systematic review and meta-analysis",
-    "title_es": "Prevalencia, métodos de diagnóstico y resultados clínicos de emaciación/caquexia entre pacientes pediátricos con cáncer en África: un protocolo para una revisión sistemática y un metanálisis",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-08",
-    "source": "PLOS ONE"
   },
   {
     "title": "Radioactive rain and proving relativity: Books in brief",
