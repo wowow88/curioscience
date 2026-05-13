@@ -1,5 +1,53 @@
 [
   {
+    "title": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
+    "title_es": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
+    "url": "https://arxiv.org/abs/2605.10947",
+    "published": "2026-05-13T04:00:00.000Z",
+    "date": "2026-05-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "America’s Emerald Isle",
+    "title_es": "La Isla Esmeralda de Estados Unidos",
+    "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+    "date": "2026-05-13",
+    "source": "NASA (Top News)",
+    "published": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "title": "A rare cancer-fighting plant compound has been decoded",
+    "title_es": "Se ha decodificado un raro compuesto vegetal que combate el cáncer",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+    "date": "2026-05-13",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "title": "Ten years on, the Nagoya Protocol on sharing genetic resources is still confusing scientists—guidance now available",
+    "title_es": "Diez años después, el Protocolo de Nagoya sobre el intercambio de recursos genéticos sigue confundiendo a los científicos: ahora hay orientación disponible",
+    "url": "https://phys.org/news/2026-05-ten-years-nagoya-protocol-genetic.html",
+    "date": "2026-05-13",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "title": "Hidden Rift beneath Zambia May Be Tearing Africa Apart",
+    "title_es": "Hidden Rift beneath Zambia May Be Tearing Africa Apart",
+    "url": "https://www.sci.news/othersciences/geoscience/kafue-rift-zambia-14761.html",
+    "published": "2026-05-12T23:16:16.000Z",
+    "date": "2026-05-12",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Why do particle physicists like spending time in fields?",
+    "title_es": "Why do particle physicists like spending time in fields?",
+    "url": "https://www.newscientist.com/article/2526051-why-do-particle-physicists-like-spending-time-in-fields/",
+    "published": "2026-05-12T10:00:00.000Z",
+    "date": "2026-05-12",
+    "source": "New Scientist"
+  },
+  {
     "title": "RAwR: Role-Aware Rewiring via Approximate Equitable Partition",
     "title_es": "RAwR: Role-Aware Rewiring via Approximate Equitable Partition",
     "url": "https://arxiv.org/abs/2605.09457",
@@ -16,7 +64,7 @@
     "published": "2026-05-12T00:00:00.000Z"
   },
   {
-    "title": "NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before",
+    "title": "NASA’s Hubble  reveals a giant chaotic planet nursery unlike anything seen before",
     "title_es": "El Hubble de la NASA revela un gigantesco vivero de planetas caóticos como nunca antes se había visto",
     "url": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
     "date": "2026-05-12",
@@ -29,6 +77,46 @@
     "url": "https://phys.org/news/2026-05-tectonic-plate-boundary-zambia-scientists.html",
     "date": "2026-05-12",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+    "title_es": "AlphaGRPO: Desbloqueo de la generación multimodal autorreflexiva en UMM mediante recompensa verificable por descomposición",
+    "url": "http://arxiv.org/abs/2605.12495v1",
+    "date": "2026-05-12",
+    "source": "arXiv",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Predictive coding of reward in the hippocampus",
+    "title_es": "Corrección del autor: codificación predictiva de recompensa en el hipocampo",
+    "url": "https://www.nature.com/articles/s41586-026-10615-3",
+    "date": "2026-05-12",
+    "source": "Nature",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/los-filamentos-cosmicos-las-autopistas-del-universo-que-transforman-galaxias\" hreflang=\"es\">Los filamentos cósmicos: las autopistas del Universo que transforman galaxias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/los-filamentos-cosmicos-las-autopistas-del-universo-que-transforman-galaxias\" hreflang=\"es\">Los filamentos cósmicos: las autopistas del Universo que transforman galaxias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/los-filamentos-cosmicos-las-autopistas-del-universo-que-transforman-galaxias",
+    "date": "2026-05-12",
+    "source": "IAC",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "Territorial conflict may explain male primates’ large size",
+    "title_es": "El conflicto territorial puede explicar el gran tamaño de los primates machos",
+    "url": "https://www.sciencenews.org/article/primate-male-large-size-territorial-conflict",
+    "date": "2026-05-12",
+    "source": "Science News",
+    "published": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "Thunderstorms can make trees twinkle with an electric glow",
+    "title_es": "Las tormentas eléctricas pueden hacer que los árboles brillen con un brillo eléctrico",
+    "url": "https://www.snexplores.org/article/thunderstorm-trees-electric-glow",
+    "date": "2026-05-12",
+    "source": "Science News Explores",
     "published": "2026-05-12T00:00:00.000Z"
   },
   {
@@ -24415,8 +24503,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: A mixed-methods multi-site case study of a person-centred intervention for constant observation in hospitals with people living with dementia",
-    "title_es": "Corrección: un estudio de caso de múltiples sitios con métodos mixtos de una intervención centrada en la persona para la observación constante en hospitales con personas que viven con demencia",
+    "title": "Correction: Full-day sleep pattern analysis in common mental disorders: Leveraging highly discrepant recordings from two consumer tracking devices",
+    "title_es": "Corrección: Análisis de patrones de sueño durante todo el día en trastornos mentales comunes: aprovechamiento de grabaciones altamente discrepantes de dos dispositivos de seguimiento de consumidores",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -58985,6 +59073,22 @@
     "title": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
     "title_es": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
     "url": "https://apod.nasa.gov/apod/image/2605/cometr3_orion.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Lattice models for phases and transitions with non-invertible symmetries, by Lakshya Bhardwaj, Lea E. Bottini, Sakura Schäfer-Nameki, Apoorv Tiwari",
+    "title_es": "Lattice models for phases and transitions with non-invertible symmetries, by Lakshya Bhardwaj, Lea E. Bottini, Sakura Schäfer-Nameki, Apoorv Tiwari",
+    "url": "https://scipost.org/scipostphys.20.5.134",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "NGC 188: Old Cluster in the New General Catalog",
+    "title_es": "NGC 188: Old Cluster in the New General Catalog",
+    "url": "https://apod.nasa.gov/apod/image/2605/polarissima1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
