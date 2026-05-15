@@ -1,5 +1,69 @@
 [
   {
+    "title": "Book Review: The Mind-Boggling Science of Enormous Numbers",
+    "title_es": "Book Review: The Mind-Boggling Science of Enormous Numbers",
+    "url": "https://undark.org/2026/05/15/book-review-huge-numbers/",
+    "published": "2026-05-15T07:47:00.000Z",
+    "date": "2026-05-15",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "title_es": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "url": "https://arxiv.org/abs/2605.13848",
+    "published": "2026-05-15T04:00:00.000Z",
+    "date": "2026-05-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "Genetic survey exposes flaws in widely used mouse models",
+    "title_es": "Un estudio genético expone fallas en modelos de ratón ampliamente utilizados",
+    "url": "https://www.nature.com/articles/d41586-026-01534-4",
+    "date": "2026-05-15",
+    "source": "Nature",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Picturing Earth in a New Light",
+    "title_es": "Imaginando la Tierra bajo una nueva luz",
+    "url": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+    "date": "2026-05-15",
+    "source": "NASA (Top News)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "A grad student’s wild idea sparks a major aging breakthrough",
+    "title_es": "La idea descabellada de un estudiante de posgrado provoca un importante avance en el envejecimiento",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
+    "date": "2026-05-15",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "When La Niña lingers: Researchers uncover two mechanisms behind multi-year events",
+    "title_es": "Cuando La Niña persiste: los investigadores descubren dos mecanismos detrás de eventos de varios años",
+    "url": "https://phys.org/news/2026-05-la-nia-lingers-uncover-mechanisms.html",
+    "date": "2026-05-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Galaxy Cluster Abell 2029 Had Violent Past, Chandra Reveals",
+    "title_es": "Galaxy Cluster Abell 2029 Had Violent Past, Chandra Reveals",
+    "url": "https://www.sci.news/astronomy/chandra-galaxy-cluster-abell-2029-14769.html",
+    "published": "2026-05-14T23:38:02.000Z",
+    "date": "2026-05-14",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Vocal fry is more common in men, actually, find scientists",
+    "title_es": "Vocal fry is more common in men, actually, find scientists",
+    "url": "https://www.newscientist.com/article/2526201-vocal-fry-is-more-common-in-men-actually-find-scientists/",
+    "published": "2026-05-14T15:40:59.000Z",
+    "date": "2026-05-14",
+    "source": "New Scientist"
+  },
+  {
     "title": "When Scientific Arguments Obscure Moral Ones, Democracy Suffers",
     "title_es": "When Scientific Arguments Obscure Moral Ones, Democracy Suffers",
     "url": "https://undark.org/2026/05/14/opinion-scientific-moral-arguments/",
@@ -45,6 +109,46 @@
     "url": "https://phys.org/news/2026-05-world-cup-games-dangerous-north.html",
     "date": "2026-05-14",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+    "title_es": "EntityBench: hacia una generación de vídeo multitoma de largo alcance coherente con la entidad",
+    "url": "http://arxiv.org/abs/2605.15199v1",
+    "date": "2026-05-14",
+    "source": "arXiv",
+    "published": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "title": "The economics of morally ambiguous markets",
+    "title_es": "La economía de los mercados moralmente ambiguos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5752",
+    "date": "2026-05-14",
+    "source": "Science.org",
+    "published": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "title": "El investigador del CNIO Antonio Pérez-Martínez, premio GEPAC a la Investigación Oncológica",
+    "title_es": "El investigador del CNIO Antonio Pérez-Martínez, premio GEPAC a la Investigación Oncológica",
+    "url": "https://www.cnio.es/noticias/el-investigador-del-cnio-antonio-perez-martinez-premio-gepac-a-la-investigacion-oncologica/",
+    "date": "2026-05-14",
+    "source": "CNIO",
+    "published": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "title": "Water drops on soap bubble films act like merging galaxies",
+    "title_es": "Las gotas de agua sobre las películas de pompas de jabón actúan como galaxias fusionándose",
+    "url": "https://www.sciencenews.org/article/water-soap-film-galaxies-study-cosmos",
+    "date": "2026-05-14",
+    "source": "Science News",
+    "published": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "title": "How pitchers rest between innings could save their arms — and stats",
+    "title_es": "Cómo descansan los lanzadores entre entradas podría salvar sus brazos y estadísticas",
+    "url": "https://www.snexplores.org/article/baseball-pitcher-recovery-arm-health",
+    "date": "2026-05-14",
+    "source": "Science News Explores",
     "published": "2026-05-14T00:00:00.000Z"
   },
   {
@@ -24607,8 +24711,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: How Etuaptmumk/Two-Eyed Seeing is used in Indigenous health research: A scoping review",
-    "title_es": "Corrección: Cómo se utiliza Etuaptmumk/Ver con dos ojos en la investigación sobre salud indígena: una revisión del alcance",
+    "title": "Application of artificial intelligence based on contrast-enhanced CT imaging for predicting peritoneal metastasis in patients with T3/T4 stage gastric cancer",
+    "title_es": "Aplicación de inteligencia artificial basada en imágenes de TC con contraste para predecir metástasis peritoneales en pacientes con cáncer gástrico en estadio T3/T4",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -59193,6 +59297,22 @@
     "title": "NGC 188: Old Cluster in the New General Catalog",
     "title_es": "NGC 188: Old Cluster in the New General Catalog",
     "url": "https://apod.nasa.gov/apod/image/2605/polarissima1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "All the D-branes of resurgence, by Ricardo Schiappa, Maximilian Schwick, Noam Tamarin",
+    "title_es": "All the D-branes of resurgence, by Ricardo Schiappa, Maximilian Schwick, Noam Tamarin",
+    "url": "https://scipost.org/scipostphys.20.5.135",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "R3 PanSTARRS: An Orion Comet",
+    "title_es": "R3 PanSTARRS: An Orion Comet",
+    "url": "https://apod.nasa.gov/apod/image/2605/r3orion_hall_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

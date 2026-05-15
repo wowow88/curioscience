@@ -1,5 +1,33 @@
 [
   {
+    "title": "Genetic survey exposes flaws in widely used mouse models",
+    "title_es": "Un estudio genético expone fallas en modelos de ratón ampliamente utilizados",
+    "url": "https://www.nature.com/articles/d41586-026-01534-4",
+    "date": "2026-05-15",
+    "source": "Nature"
+  },
+  {
+    "title": "Picturing Earth in a New Light",
+    "title_es": "Imaginando la Tierra bajo una nueva luz",
+    "url": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+    "date": "2026-05-15",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A grad student’s wild idea sparks a major aging breakthrough",
+    "title_es": "La idea descabellada de un estudiante de posgrado provoca un importante avance en el envejecimiento",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
+    "date": "2026-05-15",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "When La Niña lingers: Researchers uncover two mechanisms behind multi-year events",
+    "title_es": "Cuando La Niña persiste: los investigadores descubren dos mecanismos detrás de eventos de varios años",
+    "url": "https://phys.org/news/2026-05-la-nia-lingers-uncover-mechanisms.html",
+    "date": "2026-05-15",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ice Moves Out of Aniak",
     "title_es": "El hielo sale de Aniak",
     "url": "https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/",
@@ -21,6 +49,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Application of artificial intelligence based on contrast-enhanced CT imaging for predicting peritoneal metastasis in patients with T3/T4 stage gastric cancer",
+    "title_es": "Aplicación de inteligencia artificial basada en imágenes de TC con contraste para predecir metástasis peritoneales en pacientes con cáncer gástrico en estadio T3/T4",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-14",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+    "title_es": "EntityBench: hacia una generación de vídeo multitoma de largo alcance coherente con la entidad",
+    "url": "http://arxiv.org/abs/2605.15199v1",
+    "date": "2026-05-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "The economics of morally ambiguous markets",
+    "title_es": "La economía de los mercados moralmente ambiguos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5752",
+    "date": "2026-05-14",
+    "source": "Science.org"
+  },
+  {
+    "title": "El investigador del CNIO Antonio Pérez-Martínez, premio GEPAC a la Investigación Oncológica",
+    "title_es": "El investigador del CNIO Antonio Pérez-Martínez, premio GEPAC a la Investigación Oncológica",
+    "url": "https://www.cnio.es/noticias/el-investigador-del-cnio-antonio-perez-martinez-premio-gepac-a-la-investigacion-oncologica/",
+    "date": "2026-05-14",
+    "source": "CNIO"
+  },
+  {
+    "title": "Water drops on soap bubble films act like merging galaxies",
+    "title_es": "Las gotas de agua sobre las películas de pompas de jabón actúan como galaxias fusionándose",
+    "url": "https://www.sciencenews.org/article/water-soap-film-galaxies-study-cosmos",
+    "date": "2026-05-14",
+    "source": "Science News"
+  },
+  {
+    "title": "How pitchers rest between innings could save their arms — and stats",
+    "title_es": "Cómo descansan los lanzadores entre entradas podría salvar sus brazos y estadísticas",
+    "url": "https://www.snexplores.org/article/baseball-pitcher-recovery-arm-health",
+    "date": "2026-05-14",
+    "source": "Science News Explores"
+  },
+  {
     "title": "America’s Emerald Isle",
     "title_es": "La Isla Esmeralda de Estados Unidos",
     "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
@@ -40,13 +110,6 @@
     "url": "https://phys.org/news/2026-05-ten-years-nagoya-protocol-genetic.html",
     "date": "2026-05-13",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: How Etuaptmumk/Two-Eyed Seeing is used in Indigenous health research: A scoping review",
-    "title_es": "Corrección: Cómo se utiliza Etuaptmumk/Ver con dos ojos en la investigación sobre salud indígena: una revisión del alcance",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-13",
-    "source": "PLOS ONE"
   },
   {
     "title": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
