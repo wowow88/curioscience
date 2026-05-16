@@ -1,5 +1,21 @@
 [
   {
+    "title": "Giant Tyrannosaur Fossil Found in New Mexico",
+    "title_es": "Giant Tyrannosaur Fossil Found in New Mexico",
+    "url": "https://www.sci.news/paleontology/hunter-wash-tyrannosaur-14772.html",
+    "published": "2026-05-15T22:39:33.000Z",
+    "date": "2026-05-15",
+    "source": "Sci.News"
+  },
+  {
+    "title": "First test of CO2 removal with green sand finds no harm to marine life",
+    "title_es": "First test of CO2 removal with green sand finds no harm to marine life",
+    "url": "https://www.newscientist.com/article/2526197-first-test-of-co2-removal-with-green-sand-finds-no-harm-to-marine-life/",
+    "published": "2026-05-15T15:41:05.000Z",
+    "date": "2026-05-15",
+    "source": "New Scientist"
+  },
+  {
     "title": "Book Review: The Mind-Boggling Science of Enormous Numbers",
     "title_es": "Book Review: The Mind-Boggling Science of Enormous Numbers",
     "url": "https://undark.org/2026/05/15/book-review-huge-numbers/",
@@ -43,6 +59,54 @@
     "title": "When La Niña lingers: Researchers uncover two mechanisms behind multi-year events",
     "title_es": "Cuando La Niña persiste: los investigadores descubren dos mecanismos detrás de eventos de varios años",
     "url": "https://phys.org/news/2026-05-la-nia-lingers-uncover-mechanisms.html",
+    "date": "2026-05-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Even mild blows to the head disrupt the microbiome",
+    "title_es": "Incluso los golpes leves en la cabeza alteran el microbioma",
+    "url": "https://www.nature.com/articles/d41586-026-01504-w",
+    "date": "2026-05-15",
+    "source": "Nature",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
+    "title_es": "Lanzamiento científico y de carga de la NASA en la 34ª misión de reabastecimiento de SpaceX a la estación",
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
+    "date": "2026-05-15",
+    "source": "NASA (Top News)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Crabs’ sideways walk may have evolved just once",
+    "title_es": "El caminar lateral de los cangrejos puede haber evolucionado sólo una vez",
+    "url": "https://www.sciencenews.org/article/crab-sideways-walk-evolved-once",
+    "date": "2026-05-15",
+    "source": "Science News",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "AI may be giving teens bad diet advice",
+    "title_es": "La IA puede estar dando malos consejos dietéticos a los adolescentes",
+    "url": "https://www.snexplores.org/article/ai-teens-bad-diet-advice",
+    "date": "2026-05-15",
+    "source": "Science News Explores",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
+    "title_es": "La sustancia química del cerebro que hace sentir bien puede estar alimentando secretamente el tinnitus",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
+    "date": "2026-05-15",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
+    "title_es": "La primera letra del ARN puede dar forma a las alarmas antivirales, con la A superando a la G",
+    "url": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
     "date": "2026-05-15",
     "source": "Phys.org (Latest)",
     "published": "2026-05-15T00:00:00.000Z"
@@ -24711,8 +24775,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Application of artificial intelligence based on contrast-enhanced CT imaging for predicting peritoneal metastasis in patients with T3/T4 stage gastric cancer",
-    "title_es": "Aplicación de inteligencia artificial basada en imágenes de TC con contraste para predecir metástasis peritoneales en pacientes con cáncer gástrico en estadio T3/T4",
+    "title": "Knowledge, attitudes, and practices (KAP) regarding occupational protection among orthopedic theatre nurses using orthopedic power tools (OPTs): A cross-sectional study",
+    "title_es": "Conocimientos, actitudes y prácticas (CAP) sobre protección ocupacional entre enfermeras de quirófano ortopédico que utilizan herramientas eléctricas ortopédicas (OPT): un estudio transversal",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -59313,6 +59377,14 @@
     "title": "R3 PanSTARRS: An Orion Comet",
     "title_es": "R3 PanSTARRS: An Orion Comet",
     "url": "https://apod.nasa.gov/apod/image/2605/r3orion_hall_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Aurora Slathers Up the Sky",
+    "title_es": "Aurora Slathers Up the Sky",
+    "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
