@@ -1,5 +1,29 @@
 [
   {
+    "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
+    "title_es": "Impresionante cráneo de estegosaurio de 150 millones de años reescribe la evolución de los dinosaurios",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
+    "date": "2026-05-17",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-17T00:00:00.000Z"
+  },
+  {
+    "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
+    "title_es": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
+    "published": "2026-05-16T13:15:10.000Z",
+    "date": "2026-05-16",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
+    "title_es": "Guardianes de la IA: uniendo la innovación digital y la sostenibilidad para lograr un agua más limpia",
+    "url": "https://phys.org/news/2026-05-ai-guardians-bridging-digital-sustainability.html",
+    "date": "2026-05-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-16T00:00:00.000Z"
+  },
+  {
     "title": "Giant Tyrannosaur Fossil Found in New Mexico",
     "title_es": "Giant Tyrannosaur Fossil Found in New Mexico",
     "url": "https://www.sci.news/paleontology/hunter-wash-tyrannosaur-14772.html",
@@ -310,6 +334,14 @@
     "published": "2026-05-12T23:16:16.000Z",
     "date": "2026-05-12",
     "source": "Sci.News"
+  },
+  {
+    "title": "Can cloud seeding save us from water bankruptcy?",
+    "title_es": "Can cloud seeding save us from water bankruptcy?",
+    "url": "https://www.newscientist.com/article/2524831-can-cloud-seeding-save-us-from-water-bankruptcy/",
+    "published": "2026-05-12T16:00:18.000Z",
+    "date": "2026-05-12",
+    "source": "New Scientist"
   },
   {
     "title": "Why do particle physicists like spending time in fields?",
@@ -59385,6 +59417,14 @@
     "title": "Aurora Slathers Up the Sky",
     "title_es": "Aurora Slathers Up the Sky",
     "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 1300: Barred Spiral Galaxy",
+    "title_es": "NGC 1300: Barred Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc1300_hst_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
