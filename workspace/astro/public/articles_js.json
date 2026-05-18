@@ -1,5 +1,13 @@
 [
   {
+    "title": "DeepSlide: From Artifacts to Presentation Delivery",
+    "title_es": "DeepSlide: From Artifacts to Presentation Delivery",
+    "url": "https://arxiv.org/abs/2605.15202",
+    "published": "2026-05-18T04:00:00.000Z",
+    "date": "2026-05-18",
+    "source": "arXiv"
+  },
+  {
     "title": "The economics of morally ambiguous markets",
     "title_es": "The economics of morally ambiguous markets",
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg5752",
@@ -16,11 +24,11 @@
     "source": "Nature"
   },
   {
-    "title": "Jennifer Davis: \"We need to treat IA as a tool for generating hypotheses, not final answers\"",
-    "title_es": "Jennifer Davis: \"We need to treat IA as a tool for generating hypotheses, not final answers\"",
-    "url": "https://www.cnic.es/es/node/242001",
-    "published": "2026-05-13T18:09:35.000Z",
-    "date": "2026-05-13",
+    "title": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "title_es": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "url": "https://www.cnic.es/es/noticias/dr-francesco-costa-uso-continuo-herramientas-como-chatgpt-provoca-un-efecto-denominado",
+    "published": "2026-05-17T22:53:04.000Z",
+    "date": "2026-05-17",
     "source": "CNIC"
   },
   {
@@ -30,14 +38,6 @@
     "published": "2026-05-14T09:00:31.000Z",
     "date": "2026-05-14",
     "source": "CNIO"
-  },
-  {
-    "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
-    "title_es": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
-    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
-    "published": "2026-05-15T22:52:14.000Z",
-    "date": "2026-05-15",
-    "source": "NASA (Top News)"
   },
   {
     "title": "Crabs’ sideways walk may have evolved just once",
@@ -56,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-    "title_es": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
-    "published": "2026-05-16T13:15:10.000Z",
-    "date": "2026-05-16",
+    "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+    "title_es": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+    "published": "2026-05-17T11:11:34.000Z",
+    "date": "2026-05-17",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
-    "title_es": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
-    "url": "https://phys.org/news/2026-05-ai-guardians-bridging-digital-sustainability.html",
-    "published": "2026-05-16T23:00:02.000Z",
-    "date": "2026-05-16",
+    "title": "Kenya's new poaching problem: smuggling Giant Harvester Ants",
+    "title_es": "Kenya's new poaching problem: smuggling Giant Harvester Ants",
+    "url": "https://phys.org/news/2026-05-kenya-poaching-problem-smuggling-giant.html",
+    "published": "2026-05-18T08:51:32.000Z",
+    "date": "2026-05-18",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Can cloud seeding save us from water bankruptcy?",
-    "title_es": "Can cloud seeding save us from water bankruptcy?",
-    "url": "https://www.newscientist.com/article/2524831-can-cloud-seeding-save-us-from-water-bankruptcy/",
-    "published": "2026-05-12T16:00:18.000Z",
-    "date": "2026-05-12",
+    "title": "Why autism pioneer Uta Frith wants to dismantle the spectrum",
+    "title_es": "Why autism pioneer Uta Frith wants to dismantle the spectrum",
+    "url": "https://www.newscientist.com/article/2525037-why-autism-pioneer-uta-frith-wants-to-dismantle-the-spectrum/",
+    "published": "2026-05-13T16:00:40.000Z",
+    "date": "2026-05-13",
     "source": "New Scientist"
   },
   {
@@ -120,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "NGC 1300: Barred Spiral Galaxy",
-    "title_es": "NGC 1300: Barred Spiral Galaxy",
-    "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
+    "title": "Unraveling NGC 3169",
+    "title_es": "Unraveling NGC 3169",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=9.6731&long=-86.3252",
+    "url": "https://www.latlong.net/c/?lat=-48.5108&long=-38.2093",
     "date": "",
     "published": "",
     "source": "ISS Position"

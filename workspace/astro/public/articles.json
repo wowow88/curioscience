@@ -1,10 +1,50 @@
 [
   {
+    "title": "DeepSlide: From Artifacts to Presentation Delivery",
+    "title_es": "DeepSlide: From Artifacts to Presentation Delivery",
+    "url": "https://arxiv.org/abs/2605.15202",
+    "published": "2026-05-18T04:00:00.000Z",
+    "date": "2026-05-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ancient lost ocean may have built Central Asia’s dinosaur-era mountains",
+    "title_es": "Un antiguo océano perdido puede haber construido las montañas de la era de los dinosaurios en Asia Central",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515233350.htm",
+    "date": "2026-05-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "title": "Kenya's new poaching problem: smuggling Giant Harvester Ants",
+    "title_es": "El nuevo problema de la caza furtiva en Kenia: el contrabando de hormigas cosechadoras gigantes",
+    "url": "https://phys.org/news/2026-05-kenya-poaching-problem-smuggling-giant.html",
+    "date": "2026-05-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+    "title_es": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+    "published": "2026-05-17T11:11:34.000Z",
+    "date": "2026-05-17",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
     "title_es": "Impresionante cráneo de estegosaurio de 150 millones de años reescribe la evolución de los dinosaurios",
     "url": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
     "date": "2026-05-17",
     "source": "ScienceDaily (Top)",
+    "published": "2026-05-17T00:00:00.000Z"
+  },
+  {
+    "title": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "title_es": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "url": "https://www.cnic.es/es/noticias/dr-francesco-costa-uso-continuo-herramientas-como-chatgpt-provoca-un-efecto-denominado",
+    "date": "2026-05-17",
+    "source": "CNIC",
     "published": "2026-05-17T00:00:00.000Z"
   },
   {
@@ -136,6 +176,14 @@
     "published": "2026-05-15T00:00:00.000Z"
   },
   {
+    "title": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+    "title_es": "IVGT: Transformador de geometría visual implícita para la representación de escenas neuronales",
+    "url": "http://arxiv.org/abs/2605.16258v1",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "published": "2026-05-15T00:00:00.000Z"
+  },
+  {
     "title": "Galaxy Cluster Abell 2029 Had Violent Past, Chandra Reveals",
     "title_es": "Galaxy Cluster Abell 2029 Had Violent Past, Chandra Reveals",
     "url": "https://www.sci.news/astronomy/chandra-galaxy-cluster-abell-2029-14769.html",
@@ -244,6 +292,14 @@
     "title_es": "Neanderthals treated a dental cavity by drilling into the tooth",
     "url": "https://www.newscientist.com/article/2526440-neanderthals-treated-a-dental-cavity-by-drilling-into-the-tooth/",
     "published": "2026-05-13T19:00:51.000Z",
+    "date": "2026-05-13",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Why autism pioneer Uta Frith wants to dismantle the spectrum",
+    "title_es": "Why autism pioneer Uta Frith wants to dismantle the spectrum",
+    "url": "https://www.newscientist.com/article/2525037-why-autism-pioneer-uta-frith-wants-to-dismantle-the-spectrum/",
+    "published": "2026-05-13T16:00:40.000Z",
     "date": "2026-05-13",
     "source": "New Scientist"
   },
@@ -59425,6 +59481,14 @@
     "title": "NGC 1300: Barred Spiral Galaxy",
     "title_es": "NGC 1300: Barred Spiral Galaxy",
     "url": "https://apod.nasa.gov/apod/image/2605/ngc1300_hst_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Unraveling NGC 3169",
+    "title_es": "Unraveling NGC 3169",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

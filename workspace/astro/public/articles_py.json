@@ -1,10 +1,31 @@
 [
   {
+    "title": "Ancient lost ocean may have built Central Asia’s dinosaur-era mountains",
+    "title_es": "Un antiguo océano perdido puede haber construido las montañas de la era de los dinosaurios en Asia Central",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515233350.htm",
+    "date": "2026-05-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Kenya's new poaching problem: smuggling Giant Harvester Ants",
+    "title_es": "El nuevo problema de la caza furtiva en Kenia: el contrabando de hormigas cosechadoras gigantes",
+    "url": "https://phys.org/news/2026-05-kenya-poaching-problem-smuggling-giant.html",
+    "date": "2026-05-18",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
     "title_es": "Impresionante cráneo de estegosaurio de 150 millones de años reescribe la evolución de los dinosaurios",
     "url": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
     "date": "2026-05-17",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "title_es": "Dr. Francesco Costa: “El uso continuo de herramientas como ChatGPT provoca un efecto denominado deskilling”",
+    "url": "https://www.cnic.es/es/noticias/dr-francesco-costa-uso-continuo-herramientas-como-chatgpt-provoca-un-efecto-denominado",
+    "date": "2026-05-17",
+    "source": "CNIC"
   },
   {
     "title": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
@@ -89,6 +110,13 @@
     "url": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
     "date": "2026-05-15",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+    "title_es": "IVGT: Transformador de geometría visual implícita para la representación de escenas neuronales",
+    "url": "http://arxiv.org/abs/2605.16258v1",
+    "date": "2026-05-15",
+    "source": "arXiv"
   },
   {
     "title": "Ice Moves Out of Aniak",
