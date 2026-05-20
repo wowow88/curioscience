@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
+    "title_es": "Los científicos utilizan el ADN de las heces para salvar al marsupial más raro del mundo",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
+    "date": "2026-05-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
+    "title_es": "Los hongos brillantes exponen una enzima final que podría hacer que las herramientas bioluminiscentes sean más eficientes",
+    "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
+    "date": "2026-05-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "China moves AI brain implants from trials towards real-world use",
     "title_es": "China traslada los implantes cerebrales de IA de las pruebas al uso en el mundo real",
     "url": "https://www.nature.com/articles/d41586-026-01468-x",
@@ -28,6 +42,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "The impact of sports participation on the psychological state of the Chinese population from the perspective of sports resources",
+    "title_es": "El impacto de la participación deportiva en el estado psicológico de la población china desde la perspectiva de los recursos deportivos.",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-19",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "A multi-agent system for automating scientific discovery",
+    "title_es": "Un sistema multiagente para automatizar el descubrimiento científico",
+    "url": "https://www.nature.com/articles/s41586-026-10652-y",
+    "date": "2026-05-19",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-fundacion-mujeres-por-africa-visita-el-iac-en-el-marco-del-programa-ciencia-por-mujeres\" hreflang=\"es\">La Fundación Mujeres por África visita el IAC en el marco del programa Ciencia por Mujeres</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-fundacion-mujeres-por-africa-visita-el-iac-en-el-marco-del-programa-ciencia-por-mujeres\" hreflang=\"es\">La Fundación Mujeres por África visita el IAC en el marco del programa Ciencia por Mujeres</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-fundacion-mujeres-por-africa-visita-el-iac-en-el-marco-del-programa-ciencia-por-mujeres",
+    "date": "2026-05-19",
+    "source": "IAC"
+  },
+  {
+    "title": "What freediving can reveal about human health — and our limits",
+    "title_es": "Lo que el buceo en apnea puede revelar sobre la salud humana y nuestros límites",
+    "url": "https://www.sciencenews.org/article/freediving-physical-mental-limits-risks",
+    "date": "2026-05-19",
+    "source": "Science News"
+  },
+  {
+    "title": "Teen’s new app guards against the rise of villainous AI bots",
+    "title_es": "La nueva aplicación para adolescentes protege contra el surgimiento de malvados robots de inteligencia artificial",
+    "url": "https://www.snexplores.org/article/app-guards-against-bad-ai-agents-bots",
+    "date": "2026-05-19",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Ancient lost ocean may have built Central Asia’s dinosaur-era mountains",
     "title_es": "Un antiguo océano perdido puede haber construido las montañas de la era de los dinosaurios en Asia Central",
     "url": "https://www.sciencedaily.com/releases/2026/05/260515233350.htm",
@@ -40,13 +89,6 @@
     "url": "https://phys.org/news/2026-05-kenya-poaching-problem-smuggling-giant.html",
     "date": "2026-05-18",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis",
-    "title_es": "Un estudio de los factores de atracción y atracción que influyen en la retención de empleados en el sector educativo en China: uso de PLS-SEM y análisis multigrupo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-18",
-    "source": "PLOS ONE"
   },
   {
     "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
