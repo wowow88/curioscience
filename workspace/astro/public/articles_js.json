@@ -1,10 +1,10 @@
 [
   {
-    "title": "Operational Memory Architecture for Kubernetes:Preserving Causal Context Across the Evidence Horizon",
-    "title_es": "Operational Memory Architecture for Kubernetes:Preserving Causal Context Across the Evidence Horizon",
-    "url": "https://arxiv.org/abs/2605.18755",
-    "published": "2026-05-20T04:00:00.000Z",
-    "date": "2026-05-20",
+    "title": "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models",
+    "title_es": "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models",
+    "url": "https://arxiv.org/abs/2605.20187",
+    "published": "2026-05-21T04:00:00.000Z",
+    "date": "2026-05-21",
     "source": "arXiv"
   },
   {
@@ -16,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "A multi-agent system for automating scientific discovery",
-    "title_es": "A multi-agent system for automating scientific discovery",
-    "url": "https://www.nature.com/articles/s41586-026-10652-y",
-    "published": "2026-05-19T00:00:00.000Z",
-    "date": "2026-05-19",
+    "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+    "title_es": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+    "url": "https://www.nature.com/articles/s41586-026-10642-0",
+    "published": "2026-05-20T00:00:00.000Z",
+    "date": "2026-05-20",
     "source": "Nature"
   },
   {
@@ -32,58 +32,66 @@
     "source": "CNIC"
   },
   {
-    "title": "Mariano Barbacid recibe la Medalla de Honor de Madrid",
-    "title_es": "Mariano Barbacid recibe la Medalla de Honor de Madrid",
-    "url": "https://www.cnio.es/noticias/mariano-barbacid-recibe-la-medalla-de-honor-de-madrid/",
-    "published": "2026-05-18T11:16:32.000Z",
-    "date": "2026-05-18",
+    "title": "Un encuentro internacional en el CNIO explora si la dieta y el ejercicio pueden ayudar a tratar el cáncer",
+    "title_es": "Un encuentro internacional en el CNIO explora si la dieta y el ejercicio pueden ayudar a tratar el cáncer",
+    "url": "https://www.cnio.es/noticias/un-encuentro-internacional-en-el-cnio-explora-si-la-dieta-y-el-ejercicio-pueden-ayudar-a-tratar-el-cancer/",
+    "published": "2026-05-20T11:51:34.000Z",
+    "date": "2026-05-20",
     "source": "CNIO"
   },
   {
-    "title": "What freediving can reveal about human health — and our limits",
-    "title_es": "What freediving can reveal about human health — and our limits",
-    "url": "https://www.sciencenews.org/article/freediving-physical-mental-limits-risks",
-    "published": "2026-05-19T18:00:00.000Z",
-    "date": "2026-05-19",
+    "title": "New Eruption in the Bismarck Sea",
+    "title_es": "New Eruption in the Bismarck Sea",
+    "url": "https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/",
+    "published": "2026-05-21T04:01:00.000Z",
+    "date": "2026-05-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid",
+    "title_es": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid",
+    "url": "https://www.sciencenews.org/article/neptunes-odd-moon-nereid-orbit-remnant",
+    "published": "2026-05-20T18:00:00.000Z",
+    "date": "2026-05-20",
     "source": "Science News"
   },
   {
-    "title": "Teen’s new app guards against the rise of villainous AI bots",
-    "title_es": "Teen’s new app guards against the rise of villainous AI bots",
-    "url": "https://www.snexplores.org/article/app-guards-against-bad-ai-agents-bots",
-    "published": "2026-05-19T10:30:00.000Z",
-    "date": "2026-05-19",
+    "title": "Positive thinking could help boost your immune system",
+    "title_es": "Positive thinking could help boost your immune system",
+    "url": "https://www.snexplores.org/article/positive-thinking-boost-immune-system",
+    "published": "2026-05-20T10:30:00.000Z",
+    "date": "2026-05-20",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
-    "title_es": "Scientists use DNA from poop to save the world’s rarest marsupial",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
-    "published": "2026-05-20T04:45:48.000Z",
-    "date": "2026-05-20",
+    "title": "MIT scientists discover amino acid that helps the gut heal itself",
+    "title_es": "MIT scientists discover amino acid that helps the gut heal itself",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+    "published": "2026-05-21T04:40:33.000Z",
+    "date": "2026-05-21",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
-    "title_es": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
-    "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
-    "published": "2026-05-20T07:10:01.000Z",
-    "date": "2026-05-20",
+    "title": "SpaceX is about to go public. Here's how it works",
+    "title_es": "SpaceX is about to go public. Here's how it works",
+    "url": "https://phys.org/news/2026-05-spacex.html",
+    "published": "2026-05-21T08:20:02.000Z",
+    "date": "2026-05-21",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "The impact of sports participation on the psychological state of the Chinese population from the perspective of sports resources",
-    "title_es": "The impact of sports participation on the psychological state of the Chinese population from the perspective of sports resources",
+    "title": "Effect of an herbal supplement on quality of life in participants with insomnia: A randomized placebo controlled cross-over pilot trial",
+    "title_es": "Effect of an herbal supplement on quality of life in participants with insomnia: A randomized placebo controlled cross-over pilot trial",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-05-19T14:00:00.000Z",
-    "date": "2026-05-19",
+    "published": "2026-05-20T14:00:00.000Z",
+    "date": "2026-05-20",
     "source": "PLOS ONE"
   },
   {
-    "title": "We may finally know why dinosaurs like T. rex evolved tiny arms",
-    "title_es": "We may finally know why dinosaurs like T. rex evolved tiny arms",
-    "url": "https://www.newscientist.com/article/2527282-we-may-finally-know-why-dinosaurs-like-t-rex-evolved-tiny-arms/",
-    "published": "2026-05-20T00:01:19.000Z",
+    "title": "The mysterious reason why women get hotter from age 18 to 42",
+    "title_es": "The mysterious reason why women get hotter from age 18 to 42",
+    "url": "https://www.newscientist.com/article/2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42/",
+    "published": "2026-05-20T19:00:46.000Z",
     "date": "2026-05-20",
     "source": "New Scientist"
   },
@@ -96,11 +104,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "New Jurassic Pterosaur Unearthed in Germany",
-    "title_es": "New Jurassic Pterosaur Unearthed in Germany",
-    "url": "https://www.sci.news/paleontology/laueropterus-vitriolus-14780.html",
-    "published": "2026-05-19T23:04:40.000Z",
-    "date": "2026-05-19",
+    "title": "Ancient Crater Lakes May Have Provided Ideal Conditions for Earth’s Earliest Oxygen-Breathing Life",
+    "title_es": "Ancient Crater Lakes May Have Provided Ideal Conditions for Earth’s Earliest Oxygen-Breathing Life",
+    "url": "https://www.sci.news/paleontology/crater-lake-stromatolites-14785.html",
+    "published": "2026-05-20T22:25:20.000Z",
+    "date": "2026-05-20",
     "source": "Sci.News"
   },
   {
@@ -112,17 +120,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Dynamical renormalization group analysis of $O(n)$ model in steady shear flow, by Harukuni Ikeda, Hiroyoshi Nakano",
-    "title_es": "Dynamical renormalization group analysis of $O(n)$ model in steady shear flow, by Harukuni Ikeda, Hiroyoshi Nakano",
-    "url": "https://scipost.org/scipostphys.20.5.139",
+    "title": "Emergent hydrodynamics in an exclusion process with long-range interactions, by Ali Zahra, Jerome Dubail, Gunter M. Schütz",
+    "title_es": "Emergent hydrodynamics in an exclusion process with long-range interactions, by Ali Zahra, Jerome Dubail, Gunter M. Schütz",
+    "url": "https://scipost.org/scipostphys.20.5.141",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "The Dark Wolf Nebula",
-    "title_es": "The Dark Wolf Nebula",
-    "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
+    "title": "A Collision of Galaxy Clusters",
+    "title_es": "A Collision of Galaxy Clusters",
+    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-9.1197&long=-102.1984",
+    "url": "https://www.latlong.net/c/?lat=30.2541&long=90.2925",
     "date": "",
     "published": "",
     "source": "ISS Position"

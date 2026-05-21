@@ -1,5 +1,26 @@
 [
   {
+    "title": "New Eruption in the Bismarck Sea",
+    "title_es": "Nueva erupción en el mar de Bismarck",
+    "url": "https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/",
+    "date": "2026-05-21",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "MIT scientists discover amino acid that helps the gut heal itself",
+    "title_es": "Científicos del MIT descubren un aminoácido que ayuda al intestino a curarse a sí mismo",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+    "date": "2026-05-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "SpaceX is about to go public. Here's how it works",
+    "title_es": "SpaceX está a punto de salir a bolsa. Así es como funciona",
+    "url": "https://phys.org/news/2026-05-spacex.html",
+    "date": "2026-05-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
     "title_es": "Los científicos utilizan el ADN de las heces para salvar al marsupial más raro del mundo",
     "url": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
     "date": "2026-05-20",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Effect of an herbal supplement on quality of life in participants with insomnia: A randomized placebo controlled cross-over pilot trial",
+    "title_es": "Efecto de un suplemento a base de hierbas sobre la calidad de vida en participantes con insomnio: un ensayo piloto cruzado, aleatorizado, controlado con placebo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-20",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Variance Reduction for Expectations with Diffusion Teachers",
+    "title_es": "Reducción de la varianza de las expectativas con los profesores de difusión",
+    "url": "http://arxiv.org/abs/2605.21489v1",
+    "date": "2026-05-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+    "title_es": "Rehabilitación neuromotora espinal mediante un robot de entrenamiento isocinético portátil",
+    "url": "https://www.nature.com/articles/s41586-026-10642-0",
+    "date": "2026-05-20",
+    "source": "Nature"
+  },
+  {
+    "title": "Un encuentro internacional en el CNIO explora si la dieta y el ejercicio pueden ayudar a tratar el cáncer",
+    "title_es": "Un encuentro internacional en el CNIO explora si la dieta y el ejercicio pueden ayudar a tratar el cáncer",
+    "url": "https://www.cnio.es/noticias/un-encuentro-internacional-en-el-cnio-explora-si-la-dieta-y-el-ejercicio-pueden-ayudar-a-tratar-el-cancer/",
+    "date": "2026-05-20",
+    "source": "CNIO"
+  },
+  {
+    "title": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid",
+    "title_es": "Un antiguo apocalipsis lunar puede explicar la extraña Nereida, la luna de Neptuno",
+    "url": "https://www.sciencenews.org/article/neptunes-odd-moon-nereid-orbit-remnant",
+    "date": "2026-05-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Positive thinking could help boost your immune system",
+    "title_es": "El pensamiento positivo podría ayudar a estimular su sistema inmunológico",
+    "url": "https://www.snexplores.org/article/positive-thinking-boost-immune-system",
+    "date": "2026-05-20",
+    "source": "Science News Explores"
   },
   {
     "title": "China moves AI brain implants from trials towards real-world use",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-05-argentine-scientists-lay-hantavirus.html",
     "date": "2026-05-19",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "The impact of sports participation on the psychological state of the Chinese population from the perspective of sports resources",
-    "title_es": "El impacto de la participación deportiva en el estado psicológico de la población china desde la perspectiva de los recursos deportivos.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-19",
-    "source": "PLOS ONE"
   },
   {
     "title": "A multi-agent system for automating scientific discovery",
