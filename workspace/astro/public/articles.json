@@ -1,5 +1,53 @@
 [
   {
+    "title": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
+    "title_es": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
+    "url": "https://arxiv.org/abs/2605.21490",
+    "published": "2026-05-22T04:00:00.000Z",
+    "date": "2026-05-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tornado Draws a Jagged Line in Mississippi",
+    "title_es": "Tornado dibuja una línea irregular en Mississippi",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/",
+    "date": "2026-05-22",
+    "source": "NASA (Top News)",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+    "title_es": "Las “células zombis” no siempre son malas y eso podría transformar la medicina antienvejecimiento",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
+    "date": "2026-05-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Mangrove loss threatens Sierra Leone's oyster harvesters",
+    "title_es": "La pérdida de manglares amenaza a los recolectores de ostras de Sierra Leona",
+    "url": "https://phys.org/news/2026-05-mangrove-loss-threatens-sierra-leone.html",
+    "date": "2026-05-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago",
+    "title_es": "‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago",
+    "url": "https://www.sci.news/paleontology/tylosaurus-rex-14786.html",
+    "published": "2026-05-21T20:53:45.000Z",
+    "date": "2026-05-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet",
+    "title_es": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet",
+    "url": "https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/",
+    "published": "2026-05-21T16:13:12.000Z",
+    "date": "2026-05-21",
+    "source": "New Scientist"
+  },
+  {
     "title": "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models",
     "title_es": "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models",
     "url": "https://arxiv.org/abs/2605.20187",
@@ -29,6 +77,54 @@
     "url": "https://phys.org/news/2026-05-spacex.html",
     "date": "2026-05-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+    "title_es": "Optimización de políticas de vectores: la capacitación para la diversidad mejora la búsqueda en el momento de los exámenes",
+    "url": "http://arxiv.org/abs/2605.22817v1",
+    "date": "2026-05-21",
+    "source": "arXiv",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "Artificial intimacies",
+    "title_es": "Intimidades artificiales",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5507",
+    "date": "2026-05-21",
+    "source": "Science.org",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "De novo design of miniproteins targeting GPCRs",
+    "title_es": "Diseño de novo de miniproteínas dirigidas a GPCR",
+    "url": "https://www.nature.com/articles/s41586-026-10656-8",
+    "date": "2026-05-21",
+    "source": "Nature",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/scale-2026-convierte-tenerife-en-epicentro-internacional-de-la-cosmologia-y-la-fisica-fundamental\" hreflang=\"es\">SCALE 2026 convierte Tenerife en epicentro internacional de la cosmología y la física fundamental</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/scale-2026-convierte-tenerife-en-epicentro-internacional-de-la-cosmologia-y-la-fisica-fundamental\" hreflang=\"es\">SCALE 2026 convierte Tenerife en epicentro internacional de la cosmología y la física fundamental</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/scale-2026-convierte-tenerife-en-epicentro-internacional-de-la-cosmologia-y-la-fisica-fundamental",
+    "date": "2026-05-21",
+    "source": "IAC",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "New tools may help diagnose Parkinson’s earlier than ever",
+    "title_es": "Nuevas herramientas pueden ayudar a diagnosticar el Parkinson antes que nunca",
+    "url": "https://www.sciencenews.org/article/parkinsons-diagnosis-tools-pen-chemical",
+    "date": "2026-05-21",
+    "source": "Science News",
+    "published": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "title": "Exploding black holes could solve a big cosmic mystery",
+    "title_es": "La explosión de agujeros negros podría resolver un gran misterio cósmico",
+    "url": "https://www.snexplores.org/article/antimatter-exploding-black-holes",
+    "date": "2026-05-21",
+    "source": "Science News Explores",
     "published": "2026-05-21T00:00:00.000Z"
   },
   {
@@ -25111,8 +25207,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effect of an herbal supplement on quality of life in participants with insomnia: A randomized placebo controlled cross-over pilot trial",
-    "title_es": "Efecto de un suplemento a base de hierbas sobre la calidad de vida en participantes con insomnio: un ensayo piloto cruzado, aleatorizado, controlado con placebo",
+    "title": "ADVANTAGE: Advanced discovery of visceral analgesics by neuroimmune targets and the genetics of extreme human phenotype, a study protocol",
+    "title_es": "VENTAJA: Descubrimiento avanzado de analgésicos viscerales mediante dianas neuroinmunes y la genética del fenotipo humano extremo, un protocolo de estudio",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -59785,6 +59881,22 @@
     "title": "A Collision of Galaxy Clusters",
     "title_es": "A Collision of Galaxy Clusters",
     "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Accuracy prompts increase the quality of news sharing while attitudinal congruence robustly reduces it, by Ilse L. Pit",
+    "title_es": "Accuracy prompts increase the quality of news sharing while attitudinal congruence robustly reduces it, by Ilse L. Pit",
+    "url": "https://scipost.org/jrobustrep.5-rr2",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Nebulous Realm of WR 134",
+    "title_es": "The Nebulous Realm of WR 134",
+    "url": "https://apod.nasa.gov/apod/image/2605/wr134morrone1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
