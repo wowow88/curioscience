@@ -1,5 +1,29 @@
 [
   {
+    "title": "Study shows highlighting others' achievements on LinkedIn sparks the most engagement",
+    "title_es": "Un estudio muestra que resaltar los logros de otros en LinkedIn genera la mayor participación",
+    "url": "https://phys.org/news/2026-05-highlighting-linkedin-engagement.html",
+    "date": "2026-05-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "title": "83-Million-Year-Old Crocodile Lizard Fossil Unearthed in France",
+    "title_es": "83-Million-Year-Old Crocodile Lizard Fossil Unearthed in France",
+    "url": "https://www.sci.news/paleontology/acutodon-villeveyracensis-14789.html",
+    "published": "2026-05-22T21:30:24.000Z",
+    "date": "2026-05-22",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Book Review: The Case for Making Data-Driven Decisions",
+    "title_es": "Book Review: The Case for Making Data-Driven Decisions",
+    "url": "https://undark.org/2026/05/22/book-review-beyond-belief/",
+    "published": "2026-05-22T07:50:00.000Z",
+    "date": "2026-05-22",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
     "title_es": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
     "url": "https://arxiv.org/abs/2605.21490",
@@ -29,6 +53,62 @@
     "url": "https://phys.org/news/2026-05-mangrove-loss-threatens-sierra-leone.html",
     "date": "2026-05-22",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Vanishing tongues and life on Mars: Books in brief",
+    "title_es": "Lenguas desaparecidas y vida en Marte: libros breves",
+    "url": "https://www.nature.com/articles/d41586-026-01655-w",
+    "date": "2026-05-22",
+    "source": "Nature",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Science Immunology: Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
+    "title_es": "Science Immunology:  Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
+    "url": "https://www.cnic.es/es/noticias/science-immunology-mitocondrias-controlan-activacion-celulas-inmunitarias-eficacia",
+    "date": "2026-05-22",
+    "source": "CNIC",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-i-congreso-cientifico-de-estudiantes-alisio-peter\" hreflang=\"es\">El IAC celebra el I Congreso Científico de Estudiantes Alisio-PETeR</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-i-congreso-cientifico-de-estudiantes-alisio-peter\" hreflang=\"es\">El IAC celebra el I Congreso Científico de Estudiantes Alisio-PETeR</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-el-i-congreso-cientifico-de-estudiantes-alisio-peter",
+    "date": "2026-05-22",
+    "source": "IAC",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
+    "title_es": "Convocatoria de creativos: la NASA busca ayuda para iluminar la narración de misiones",
+    "url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
+    "date": "2026-05-22",
+    "source": "NASA (Top News)",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Physics explains why gold stays pristine",
+    "title_es": "La física explica por qué el oro se mantiene prístino",
+    "url": "https://www.sciencenews.org/article/physics-explains-gold-shiny-oxidize",
+    "date": "2026-05-22",
+    "source": "Science News",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Teens invent first chewing gum to tackle anxiety",
+    "title_es": "Los adolescentes inventan el primer chicle para combatir la ansiedad",
+    "url": "https://www.snexplores.org/article/chewing-gum-relieve-anxiety",
+    "date": "2026-05-22",
+    "source": "Science News Explores",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+    "title_es": "Los científicos advierten que las pautas actuales sobre vitamina B12 pueden estar poniendo en riesgo su cerebro",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+    "date": "2026-05-22",
+    "source": "ScienceDaily (Top)",
     "published": "2026-05-22T00:00:00.000Z"
   },
   {
@@ -310,6 +390,14 @@
     "published": "2026-05-18T23:16:16.000Z",
     "date": "2026-05-18",
     "source": "Sci.News"
+  },
+  {
+    "title": "How I used psychology to come back from the worst year of my life",
+    "title_es": "How I used psychology to come back from the worst year of my life",
+    "url": "https://www.newscientist.com/article/2526019-how-i-used-psychology-to-come-back-from-the-worst-year-of-my-life/",
+    "published": "2026-05-18T16:00:16.000Z",
+    "date": "2026-05-18",
+    "source": "New Scientist"
   },
   {
     "title": "DeepSlide: From Artifacts to Presentation Delivery",
@@ -25207,8 +25295,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "ADVANTAGE: Advanced discovery of visceral analgesics by neuroimmune targets and the genetics of extreme human phenotype, a study protocol",
-    "title_es": "VENTAJA: Descubrimiento avanzado de analgésicos viscerales mediante dianas neuroinmunes y la genética del fenotipo humano extremo, un protocolo de estudio",
+    "title": "Between-session reliability and sensitivity of force production characteristics across various force-time points during the isometric single-leg long-lever bridge",
+    "title_es": "Fiabilidad entre sesiones y sensibilidad de las características de producción de fuerza en varios puntos de fuerza-tiempo durante el puente isométrico de palanca larga con una sola pierna",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -59900,5 +59988,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Ergodic behaviors in reversible 3-state cellular automata, by Rustem Sharipov, Matija Koterle, Sašo Grozdanov, Tomaž Prosen",
+    "title_es": "Ergodic behaviors in reversible 3-state cellular automata, by Rustem Sharipov, Matija Koterle, Sašo Grozdanov, Tomaž Prosen",
+    "url": "https://scipost.org/scipostphys.20.5.145",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
