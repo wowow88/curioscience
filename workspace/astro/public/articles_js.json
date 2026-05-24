@@ -40,11 +40,11 @@
     "source": "NASA (Top News)"
   },
   {
-    "title": "Physics explains why gold stays pristine",
-    "title_es": "Physics explains why gold stays pristine",
-    "url": "https://www.sciencenews.org/article/physics-explains-gold-shiny-oxidize",
-    "published": "2026-05-22T17:00:00.000Z",
-    "date": "2026-05-22",
+    "title": "The science of us",
+    "title_es": "The science of us",
+    "url": "https://www.sciencenews.org/article/the-science-of-us-june-2026",
+    "published": "2026-05-23T11:00:00.000Z",
+    "date": "2026-05-23",
     "source": "Science News"
   },
   {
@@ -64,11 +64,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Study shows highlighting others' achievements on LinkedIn sparks the most engagement",
-    "title_es": "Study shows highlighting others' achievements on LinkedIn sparks the most engagement",
-    "url": "https://phys.org/news/2026-05-highlighting-linkedin-engagement.html",
-    "published": "2026-05-23T03:20:01.000Z",
-    "date": "2026-05-23",
+    "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
+    "title_es": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
+    "url": "https://phys.org/news/2026-05-indonesia-giant-sea-wall-climate.html",
+    "published": "2026-05-24T00:30:03.000Z",
+    "date": "2026-05-24",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "How I used psychology to come back from the worst year of my life",
-    "title_es": "How I used psychology to come back from the worst year of my life",
-    "url": "https://www.newscientist.com/article/2526019-how-i-used-psychology-to-come-back-from-the-worst-year-of-my-life/",
-    "published": "2026-05-18T16:00:16.000Z",
-    "date": "2026-05-18",
+    "title": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
+    "title_es": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
+    "url": "https://www.newscientist.com/article/2525646-the-selfish-gene-at-50-why-dawkinss-evolution-classic-still-holds-up/",
+    "published": "2026-05-20T14:00:33.000Z",
+    "date": "2026-05-20",
     "source": "New Scientist"
   },
   {
@@ -120,9 +120,17 @@
     "source": "SciPost Publications"
   },
   {
+    "title": "A Martian Eclipse: Phobos Crosses the Sun",
+    "title_es": "A Martian Eclipse: Phobos Crosses the Sun",
+    "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=4.6250&long=-117.7626",
+    "url": "https://www.latlong.net/c/?lat=41.6787&long=100.7194",
     "date": "",
     "published": "",
     "source": "ISS Position"

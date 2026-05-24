@@ -1,10 +1,34 @@
 [
   {
+    "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
+    "title_es": "Indonesia dice que su gigantesco malecón detendrá las inundaciones. ¿Es esta adaptación climática o una locura costosa?",
+    "url": "https://phys.org/news/2026-05-indonesia-giant-sea-wall-climate.html",
+    "date": "2026-05-24",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-24T00:00:00.000Z"
+  },
+  {
     "title": "Study shows highlighting others' achievements on LinkedIn sparks the most engagement",
     "title_es": "Un estudio muestra que resaltar los logros de otros en LinkedIn genera la mayor participación",
     "url": "https://phys.org/news/2026-05-highlighting-linkedin-engagement.html",
     "date": "2026-05-23",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "title": "The science of us",
+    "title_es": "La ciencia de nosotros",
+    "url": "https://www.sciencenews.org/article/the-science-of-us-june-2026",
+    "date": "2026-05-23",
+    "source": "Science News",
+    "published": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
+    "title_es": "Un nuevo mapa corporal con IA revela el ataque oculto de la obesidad a los nervios faciales",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
+    "date": "2026-05-23",
+    "source": "ScienceDaily (Top)",
     "published": "2026-05-23T00:00:00.000Z"
   },
   {
@@ -220,6 +244,14 @@
     "title_es": "The mysterious reason why women get hotter from age 18 to 42",
     "url": "https://www.newscientist.com/article/2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42/",
     "published": "2026-05-20T19:00:46.000Z",
+    "date": "2026-05-20",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
+    "title_es": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
+    "url": "https://www.newscientist.com/article/2525646-the-selfish-gene-at-50-why-dawkinss-evolution-classic-still-holds-up/",
+    "published": "2026-05-20T14:00:33.000Z",
     "date": "2026-05-20",
     "source": "New Scientist"
   },
@@ -59996,5 +60028,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "A Martian Eclipse: Phobos Crosses the Sun",
+    "title_es": "A Martian Eclipse: Phobos Crosses the Sun",
+    "url": "https://apod.nasa.gov/apod/image/2605/marseclipse_perseverance.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
