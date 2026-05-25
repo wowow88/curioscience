@@ -1,5 +1,13 @@
 [
   {
+    "title": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
+    "title_es": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
+    "url": "https://arxiv.org/abs/2605.22824",
+    "published": "2026-05-25T04:00:00.000Z",
+    "date": "2026-05-25",
+    "source": "arXiv"
+  },
+  {
     "title": "Artificial intimacies",
     "title_es": "Artificial intimacies",
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg5507",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Vanishing tongues and life on Mars: Books in brief",
-    "title_es": "Vanishing tongues and life on Mars: Books in brief",
-    "url": "https://www.nature.com/articles/d41586-026-01655-w",
-    "published": "2026-05-22T00:00:00.000Z",
-    "date": "2026-05-22",
+    "title": "How I eavesdrop on frog conversations",
+    "title_es": "How I eavesdrop on frog conversations",
+    "url": "https://www.nature.com/articles/d41586-026-01621-6",
+    "published": "2026-05-25T00:00:00.000Z",
+    "date": "2026-05-25",
     "source": "Nature"
   },
   {
@@ -32,14 +40,6 @@
     "source": "CNIO"
   },
   {
-    "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
-    "title_es": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
-    "url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
-    "published": "2026-05-22T22:12:40.000Z",
-    "date": "2026-05-22",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "The science of us",
     "title_es": "The science of us",
     "url": "https://www.sciencenews.org/article/the-science-of-us-june-2026",
@@ -48,27 +48,27 @@
     "source": "Science News"
   },
   {
-    "title": "Teens invent first chewing gum to tackle anxiety",
-    "title_es": "Teens invent first chewing gum to tackle anxiety",
-    "url": "https://www.snexplores.org/article/chewing-gum-relieve-anxiety",
-    "published": "2026-05-22T10:30:00.000Z",
-    "date": "2026-05-22",
+    "title": "Scientists Say: Metal-Organic Framework",
+    "title_es": "Scientists Say: Metal-Organic Framework",
+    "url": "https://www.snexplores.org/article/scientists-say-metal-organic-framework-definition-pronunciation",
+    "published": "2026-05-25T10:30:00.000Z",
+    "date": "2026-05-25",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-    "title_es": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
-    "published": "2026-05-22T12:33:40.000Z",
-    "date": "2026-05-22",
+    "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
+    "title_es": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260525000446.htm",
+    "published": "2026-05-25T06:17:15.000Z",
+    "date": "2026-05-25",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
-    "title_es": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
-    "url": "https://phys.org/news/2026-05-indonesia-giant-sea-wall-climate.html",
-    "published": "2026-05-24T00:30:03.000Z",
-    "date": "2026-05-24",
+    "title": "DNA reveals hidden biodiversity loss in Ontario streams, offering powerful new tool for freshwater monitoring",
+    "title_es": "DNA reveals hidden biodiversity loss in Ontario streams, offering powerful new tool for freshwater monitoring",
+    "url": "https://phys.org/news/2026-05-dna-reveals-hidden-biodiversity-loss.html",
+    "published": "2026-05-25T11:00:01.000Z",
+    "date": "2026-05-25",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,10 +80,10 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
-    "title_es": "The Selfish Gene at 50: Why Dawkins’s evolution classic still holds up",
-    "url": "https://www.newscientist.com/article/2525646-the-selfish-gene-at-50-why-dawkinss-evolution-classic-still-holds-up/",
-    "published": "2026-05-20T14:00:33.000Z",
+    "title": "PMOS shows us why many scientific terms need to be renamed",
+    "title_es": "PMOS shows us why many scientific terms need to be renamed",
+    "url": "https://www.newscientist.com/article/mg27035962-300-pmos-shows-us-why-many-scientific-terms-need-to-be-renamed/",
+    "published": "2026-05-20T18:00:00.000Z",
     "date": "2026-05-20",
     "source": "New Scientist"
   },
@@ -120,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "A Martian Eclipse: Phobos Crosses the Sun",
-    "title_es": "A Martian Eclipse: Phobos Crosses the Sun",
-    "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+    "title": "Thackeray's Globules",
+    "title_es": "Thackeray's Globules",
+    "url": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=41.6787&long=100.7194",
+    "url": "https://www.latlong.net/c/?lat=-49.5229&long=-68.3644",
     "date": "",
     "published": "",
     "source": "ISS Position"

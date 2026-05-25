@@ -1,5 +1,45 @@
 [
   {
+    "title": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
+    "title_es": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
+    "url": "https://arxiv.org/abs/2605.22824",
+    "published": "2026-05-25T04:00:00.000Z",
+    "date": "2026-05-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "How I eavesdrop on frog conversations",
+    "title_es": "Cómo escucho a escondidas las conversaciones de las ranas",
+    "url": "https://www.nature.com/articles/d41586-026-01621-6",
+    "date": "2026-05-25",
+    "source": "Nature",
+    "published": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Metal-Organic Framework",
+    "title_es": "Los científicos dicen: estructura metálica-orgánica",
+    "url": "https://www.snexplores.org/article/scientists-say-metal-organic-framework-definition-pronunciation",
+    "date": "2026-05-25",
+    "source": "Science News Explores",
+    "published": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
+    "title_es": "Adorable y diminuto pulpo azul encontrado a casi 6.000 pies debajo de las Galápagos",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260525000446.htm",
+    "date": "2026-05-25",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "DNA reveals hidden biodiversity loss in Ontario streams, offering powerful new tool for freshwater monitoring",
+    "title_es": "El ADN revela una pérdida oculta de biodiversidad en los arroyos de Ontario y ofrece una nueva y poderosa herramienta para el seguimiento del agua dulce",
+    "url": "https://phys.org/news/2026-05-dna-reveals-hidden-biodiversity-loss.html",
+    "date": "2026-05-25",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-25T00:00:00.000Z"
+  },
+  {
     "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
     "title_es": "Indonesia dice que su gigantesco malecón detendrá las inundaciones. ¿Es esta adaptación climática o una locura costosa?",
     "url": "https://phys.org/news/2026-05-indonesia-giant-sea-wall-climate.html",
@@ -136,6 +176,14 @@
     "published": "2026-05-22T00:00:00.000Z"
   },
   {
+    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "title_es": "SkillOpt: estrategia ejecutiva para las habilidades de los agentes en evolución propia",
+    "url": "http://arxiv.org/abs/2605.23904v1",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "published": "2026-05-22T00:00:00.000Z"
+  },
+  {
     "title": "‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago",
     "title_es": "‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago",
     "url": "https://www.sci.news/paleontology/tylosaurus-rex-14786.html",
@@ -244,6 +292,14 @@
     "title_es": "The mysterious reason why women get hotter from age 18 to 42",
     "url": "https://www.newscientist.com/article/2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42/",
     "published": "2026-05-20T19:00:46.000Z",
+    "date": "2026-05-20",
+    "source": "New Scientist"
+  },
+  {
+    "title": "PMOS shows us why many scientific terms need to be renamed",
+    "title_es": "PMOS shows us why many scientific terms need to be renamed",
+    "url": "https://www.newscientist.com/article/mg27035962-300-pmos-shows-us-why-many-scientific-terms-need-to-be-renamed/",
+    "published": "2026-05-20T18:00:00.000Z",
     "date": "2026-05-20",
     "source": "New Scientist"
   },
@@ -60033,6 +60089,14 @@
     "title": "A Martian Eclipse: Phobos Crosses the Sun",
     "title_es": "A Martian Eclipse: Phobos Crosses the Sun",
     "url": "https://apod.nasa.gov/apod/image/2605/marseclipse_perseverance.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Thackeray's Globules",
+    "title_es": "Thackeray's Globules",
+    "url": "https://apod.nasa.gov/apod/image/2605/thackerayglobs_hayes_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
