@@ -1,5 +1,61 @@
 [
   {
+    "title": "Identifying and Mitigating Systemic Measurement Bias in Production LLM Inference Benchmarks",
+    "title_es": "Identifying and Mitigating Systemic Measurement Bias in Production LLM Inference Benchmarks",
+    "url": "https://arxiv.org/abs/2605.24217",
+    "published": "2026-05-26T04:00:00.000Z",
+    "date": "2026-05-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "Josep Munuera: “Understanding evolution helps us understand today’s diseases”",
+    "title_es": "Josep Munuera: “Understanding evolution helps us understand today’s diseases”",
+    "url": "https://www.cnic.es/es/node/242458",
+    "date": "2026-05-26",
+    "source": "CNIC",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Jaclyn Kagey Shapes Humanity’s Return to the Moon",
+    "title_es": "Jaclyn Kagey da forma al regreso de la humanidad a la Luna",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/",
+    "date": "2026-05-26",
+    "source": "NASA (Top News)",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Psyche spacecraft uses Mars as a giant slingshot toward a mysterious metal world",
+    "title_es": "La nave espacial Psyche de la NASA utiliza Marte como una honda gigante hacia un misterioso mundo metálico",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260525040421.htm",
+    "date": "2026-05-26",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Satellites track SO₂ emissions following March 2026 refinery fires in Tehran, Iran",
+    "title_es": "Los satélites rastrean las emisiones de SO₂ tras los incendios de las refinerías de marzo de 2026 en Teherán, Irán",
+    "url": "https://phys.org/news/2026-05-satellites-track-emissions-refinery-tehran.html",
+    "date": "2026-05-26",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Rare Ostrich-Like Dinosaur Fossil Found on Canadian Island",
+    "title_es": "Rare Ostrich-Like Dinosaur Fossil Found on Canadian Island",
+    "url": "https://www.sci.news/paleontology/denman-island-ornithomimosaur-14794.html",
+    "published": "2026-05-25T22:23:12.000Z",
+    "date": "2026-05-25",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Does gravity create reality? A shocking path to a theory of everything",
+    "title_es": "Does gravity create reality? A shocking path to a theory of everything",
+    "url": "https://www.newscientist.com/article/2526507-does-gravity-create-reality-a-shocking-path-to-a-theory-of-everything/",
+    "published": "2026-05-25T16:00:47.000Z",
+    "date": "2026-05-25",
+    "source": "New Scientist"
+  },
+  {
     "title": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
     "title_es": "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence",
     "url": "https://arxiv.org/abs/2605.22824",
@@ -37,6 +93,14 @@
     "url": "https://phys.org/news/2026-05-dna-reveals-hidden-biodiversity-loss.html",
     "date": "2026-05-25",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "title_es": "MobileGym: una plataforma de simulación verificable y altamente paralela para la investigación de agentes de GUI móviles",
+    "url": "http://arxiv.org/abs/2605.26114v1",
+    "date": "2026-05-25",
+    "source": "arXiv",
     "published": "2026-05-25T00:00:00.000Z"
   },
   {
@@ -128,7 +192,7 @@
     "published": "2026-05-22T00:00:00.000Z"
   },
   {
-    "title": "Science Immunology: Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
+    "title": "Science Immunology:  Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
     "title_es": "Science Immunology:  Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
     "url": "https://www.cnic.es/es/noticias/science-immunology-mitocondrias-controlan-activacion-celulas-inmunitarias-eficacia",
     "date": "2026-05-22",
@@ -60097,6 +60161,14 @@
     "title": "Thackeray's Globules",
     "title_es": "Thackeray's Globules",
     "url": "https://apod.nasa.gov/apod/image/2605/thackerayglobs_hayes_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 3660 and Burçin's Galaxy",
+    "title_es": "NGC 3660 and Burçin's Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc3660burcin_block_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
