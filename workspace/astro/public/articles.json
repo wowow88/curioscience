@@ -1,5 +1,45 @@
 [
   {
+    "title": "From user-understandable to technical process model: a model-driven approach using cuta4bpm",
+    "title_es": "From user-understandable to technical process model: a model-driven approach using cuta4bpm",
+    "url": "https://arxiv.org/abs/2605.26117",
+    "published": "2026-05-27T04:00:00.000Z",
+    "date": "2026-05-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ever Restless Mount Dukono Erupts",
+    "title_es": "El siempre inquieto monte Dukono entra en erupción",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
+    "date": "2026-05-27",
+    "source": "NASA (Top News)",
+    "published": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
+    "title_es": "Los científicos crean vitamina K sobrealimentada que ayuda al cerebro a curarse a sí mismo",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
+    "date": "2026-05-27",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Deforestation in Brazil's Amazon drops to lowest level since 2019",
+    "title_es": "La deforestación en la Amazonía brasileña cae al nivel más bajo desde 2019",
+    "url": "https://phys.org/news/2026-05-deforestation-brazil-amazon-lowest.html",
+    "date": "2026-05-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "How a radical new view of life could reveal its origin – and aliens",
+    "title_es": "How a radical new view of life could reveal its origin – and aliens",
+    "url": "https://www.newscientist.com/article/2526959-how-a-radical-new-view-of-life-could-reveal-its-origin-and-aliens/",
+    "published": "2026-05-26T16:00:56.000Z",
+    "date": "2026-05-26",
+    "source": "New Scientist"
+  },
+  {
     "title": "Identifying and Mitigating Systemic Measurement Bias in Production LLM Inference Benchmarks",
     "title_es": "Identifying and Mitigating Systemic Measurement Bias in Production LLM Inference Benchmarks",
     "url": "https://arxiv.org/abs/2605.24217",
@@ -37,6 +77,46 @@
     "url": "https://phys.org/news/2026-05-satellites-track-emissions-refinery-tehran.html",
     "date": "2026-05-26",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Algorithmic Monocultures in Hiring",
+    "title_es": "Monocultivos algorítmicos en la contratación",
+    "url": "http://arxiv.org/abs/2605.27371v1",
+    "date": "2026-05-26",
+    "source": "arXiv",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene",
+    "title_es": "Síntesis ascendente de nanodiamantes moleculares a partir de nanografeno",
+    "url": "https://www.nature.com/articles/s41586-026-10669-3",
+    "date": "2026-05-26",
+    "source": "Nature",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "REBOOT: the trial reshaping cardiology and cementing the CNIC’s place as a driver of new clinical practice",
+    "title_es": "REBOOT: the trial reshaping cardiology and cementing the CNIC’s place as a driver of new clinical practice",
+    "url": "https://www.cnic.es/es/node/242462",
+    "date": "2026-05-26",
+    "source": "CNIC",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Solar flares may show predictable warning signs hours before erupting",
+    "title_es": "Las erupciones solares pueden mostrar señales de advertencia predecibles horas antes de estallar",
+    "url": "https://www.sciencenews.org/article/solar-flare-warning-signs-eruptions",
+    "date": "2026-05-26",
+    "source": "Science News",
+    "published": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "title": "Tabletop lightning helps make an alcohol used for fuels and more",
+    "title_es": "Los rayos de mesa ayudan a producir un alcohol que se utiliza como combustible y más",
+    "url": "https://www.snexplores.org/article/tabletop-lightning-plasma-methanol",
+    "date": "2026-05-26",
+    "source": "Science News Explores",
     "published": "2026-05-26T00:00:00.000Z"
   },
   {
@@ -25447,8 +25527,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Between-session reliability and sensitivity of force production characteristics across various force-time points during the isometric single-leg long-lever bridge",
-    "title_es": "Fiabilidad entre sesiones y sensibilidad de las características de producción de fuerza en varios puntos de fuerza-tiempo durante el puente isométrico de palanca larga con una sola pierna",
+    "title": "Expression of Concern: Genetic Dissection of Drought and Heat Tolerance in Chickpea through Genome-Wide and Candidate Gene-Based Association Mapping Approaches",
+    "title_es": "Expresión de preocupación: disección genética de la tolerancia a la sequía y al calor en los garbanzos mediante enfoques de mapeo de asociaciones basadas en genes candidatos y en todo el genoma",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -60169,6 +60249,22 @@
     "title": "NGC 3660 and Burçin's Galaxy",
     "title_es": "NGC 3660 and Burçin's Galaxy",
     "url": "https://apod.nasa.gov/apod/image/2605/ngc3660burcin_block_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Anisotropic sub-band splitting mechanisms in strained HgTe: A first principles study, by Eeshan Ketkar, Giovanni Marini, Pietro Maria Forcella, Giorgio Sangiovanni, Gianni Profeta, Wouter Beugeling",
+    "title_es": "Anisotropic sub-band splitting mechanisms in strained HgTe: A first principles study, by Eeshan Ketkar, Giovanni Marini, Pietro Maria Forcella, Giorgio Sangiovanni, Gianni Profeta, Wouter Beugeling",
+    "url": "https://scipost.org/scipostphyscore.9.2.030",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "PK 164 +31.1: The Headphone Nebula",
+    "title_es": "PK 164 +31.1: The Headphone Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
