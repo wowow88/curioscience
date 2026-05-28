@@ -1,5 +1,33 @@
 [
   {
+    "title": "Cardiovascular Research: Un estudio revela diferencias entre los dos ventrículos del corazón en su capacidad de resistencia a los efectos de una parada cardíaca",
+    "title_es": "Cardiovascular Research: Un estudio revela diferencias entre los dos ventrículos del corazón en su capacidad de resistencia a los efectos de una parada cardíaca",
+    "url": "https://www.cnic.es/es/noticias/cardiovascular-research-un-estudio-revela-diferencias-entre-dos-ventriculos-corazon-su",
+    "date": "2026-05-28",
+    "source": "CNIC"
+  },
+  {
+    "title": "A Shift in What’s Shaping U.S. Landscapes",
+    "title_es": "Un cambio en lo que está dando forma al paisaje estadounidense",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/",
+    "date": "2026-05-28",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
+    "title_es": "Los científicos descubren un circuito oculto entre el intestino y el cerebro que desencadena los antojos de proteínas",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+    "date": "2026-05-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "SpaceX's Starship rockets are grounded pending investigation after test flight",
+    "title_es": "Los cohetes Starship de SpaceX están en tierra en espera de una investigación después del vuelo de prueba",
+    "url": "https://phys.org/news/2026-05-spacex-starship-rockets-grounded-pending.html",
+    "date": "2026-05-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ever Restless Mount Dukono Erupts",
     "title_es": "El siempre inquieto monte Dukono entra en erupción",
     "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
@@ -19,6 +47,48 @@
     "url": "https://phys.org/news/2026-05-deforestation-brazil-amazon-lowest.html",
     "date": "2026-05-27",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Effects of taurine supplementation on metabolic health and biological aging in healthcare workers: A protocol for a triple-blinded, Bayesian-optimized phase II randomized controlled trial",
+    "title_es": "Efectos de la suplementación con taurina sobre la salud metabólica y el envejecimiento biológico en trabajadores de la salud: un protocolo para un ensayo controlado aleatorio de fase II, triple ciego, optimizado según bayesiano",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-27",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
+    "title_es": "Más allá de lo binario: manipulación diestra de simulación a real con representación de contacto basada en la física",
+    "url": "http://arxiv.org/abs/2605.28812v1",
+    "date": "2026-05-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+    "title_es": "Corrección del autor: Modelado de la gastrulación tardía en modelos de embriones de mono derivados de células madre",
+    "url": "https://www.nature.com/articles/s41586-026-10700-7",
+    "date": "2026-05-27",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-del-premio-cosmos-celebra-en-madrid-la-deliberacion-de-la-edicion-2026\" hreflang=\"es\">El Comité Científico del Premio Cosmos celebra en Madrid la deliberación de la edición 2026</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-del-premio-cosmos-celebra-en-madrid-la-deliberacion-de-la-edicion-2026\" hreflang=\"es\">El Comité Científico del Premio Cosmos celebra en Madrid la deliberación de la edición 2026</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-del-premio-cosmos-celebra-en-madrid-la-deliberacion-de-la-edicion-2026",
+    "date": "2026-05-27",
+    "source": "IAC"
+  },
+  {
+    "title": "Huge volcanic eruption offers clues to fighting climate change",
+    "title_es": "Una enorme erupción volcánica ofrece pistas para luchar contra el cambio climático",
+    "url": "https://www.sciencenews.org/article/volcanic-eruption-clues-climate-change",
+    "date": "2026-05-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Clouds come in all shapes and sizes",
+    "title_es": "Las nubes vienen en todas las formas y tamaños.",
+    "url": "https://www.snexplores.org/article/how-clouds-form-types-shapes",
+    "date": "2026-05-27",
+    "source": "Science News Explores"
   },
   {
     "title": "Josep Munuera: “Understanding evolution helps us understand today’s diseases”",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-05-satellites-track-emissions-refinery-tehran.html",
     "date": "2026-05-26",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Expression of Concern: Genetic Dissection of Drought and Heat Tolerance in Chickpea through Genome-Wide and Candidate Gene-Based Association Mapping Approaches",
-    "title_es": "Expresión de preocupación: disección genética de la tolerancia a la sequía y al calor en los garbanzos mediante enfoques de mapeo de asociaciones basadas en genes candidatos y en todo el genoma",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "Algorithmic Monocultures in Hiring",
