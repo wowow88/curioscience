@@ -1,5 +1,69 @@
 [
   {
+    "title": "Book Review: Within Our Cells, the Miracle of Constant Mutation",
+    "title_es": "Book Review: Within Our Cells, the Miracle of Constant Mutation",
+    "url": "https://undark.org/2026/05/29/book-review-beyond-inheritance/",
+    "published": "2026-05-29T07:17:00.000Z",
+    "date": "2026-05-29",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Glaciers in the 'roof of the world' have suddenly started melting",
+    "title_es": "Glaciers in the 'roof of the world' have suddenly started melting",
+    "url": "https://www.newscientist.com/article/2528327-glaciers-in-the-roof-of-the-world-have-suddenly-started-melting/",
+    "published": "2026-05-29T06:00:19.000Z",
+    "date": "2026-05-29",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Lightweight Multimodal LLM-Enabled Cost-Effective Defect Grading of Power Transmission Equipment",
+    "title_es": "Lightweight Multimodal LLM-Enabled Cost-Effective Defect Grading of Power Transmission Equipment",
+    "url": "https://arxiv.org/abs/2605.28822",
+    "published": "2026-05-29T04:00:00.000Z",
+    "date": "2026-05-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Webb Spots Supermassive Black Hole Older Than Its Home Galaxy",
+    "title_es": "Webb Spots Supermassive Black Hole Older Than Its Home Galaxy",
+    "url": "https://www.sci.news/astronomy/webb-supermassive-black-hole-early-universe-14803.html",
+    "published": "2026-05-29T00:26:39.000Z",
+    "date": "2026-05-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Painting the Growing Season in the Maize Triangle",
+    "title_es": "Pintando la temporada de crecimiento en el Triángulo del Maíz",
+    "url": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
+    "date": "2026-05-29",
+    "source": "NASA (Top News)",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
+    "title_es": "Los organoides humanos revelan cómo revertir el daño nervioso \"irreversible\"",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
+    "date": "2026-05-29",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",
+    "title_es": "Un cohete Blue Origin explota en la plataforma de lanzamiento durante una prueba de encendido del motor",
+    "url": "https://phys.org/news/2026-05-blue-rocket-pad.html",
+    "date": "2026-05-29",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+    "title_es": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
+    "published": "2026-05-28T14:16:47.000Z",
+    "date": "2026-05-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "The Six-Week Postpartum Checkup Comes Too Late",
     "title_es": "The Six-Week Postpartum Checkup Comes Too Late",
     "url": "https://undark.org/2026/05/28/opinion-postpartum-checkup-too-late/",
@@ -45,6 +109,62 @@
     "url": "https://phys.org/news/2026-05-spacex-starship-rockets-grounded-pending.html",
     "date": "2026-05-28",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+    "title_es": "¿La física es todo lo que necesitas? Un estudio de caso sobre el desarrollo de software científico con IA supervisado por físicos",
+    "url": "http://arxiv.org/abs/2605.30353v1",
+    "date": "2026-05-28",
+    "source": "arXiv",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "An uncommon introduction to chemistry",
+    "title_es": "Una introducción poco común a la química.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5513",
+    "date": "2026-05-28",
+    "source": "Science.org",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "Share the highs and lows of your career in science: take Nature ’s global survey",
+    "title_es": "Comparta los altibajos de su carrera científica: responda la encuesta global de <i>Nature</i>",
+    "url": "https://www.nature.com/articles/d41586-026-01589-3",
+    "date": "2026-05-28",
+    "source": "Nature",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "Cardiovascular Research: The left and right ventricles differ in their ability to withstand the effects of cardiac arrest",
+    "title_es": "Cardiovascular Research: The left and right ventricles differ in their ability to withstand the effects of cardiac arrest",
+    "url": "https://www.cnic.es/es/node/242513",
+    "date": "2026-05-28",
+    "source": "CNIC",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "Guadalupe Sabio, premio Admirables de Diario Médico",
+    "title_es": "Guadalupe Sabio, premio Admirables de Diario Médico",
+    "url": "https://www.cnio.es/noticias/guadalupe-sabio-premio-admirables-de-diario-medico/",
+    "date": "2026-05-28",
+    "source": "CNIO",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "Homing pigeons may use a surprising navigation mechanism",
+    "title_es": "Las palomas mensajeras pueden utilizar un mecanismo de navegación sorprendente",
+    "url": "https://www.sciencenews.org/article/pigeon-navigation-iron-liver-cells",
+    "date": "2026-05-28",
+    "source": "Science News",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "title": "How hot can our planet get? Earth’s climate history holds clues",
+    "title_es": "¿Qué tan caliente puede llegar a ser nuestro planeta? La historia climática de la Tierra contiene pistas",
+    "url": "https://www.snexplores.org/article/how-hot-earth-climate-history",
+    "date": "2026-05-28",
+    "source": "Science News Explores",
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
@@ -25639,8 +25759,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effects of taurine supplementation on metabolic health and biological aging in healthcare workers: A protocol for a triple-blinded, Bayesian-optimized phase II randomized controlled trial",
-    "title_es": "Efectos de la suplementación con taurina sobre la salud metabólica y el envejecimiento biológico en trabajadores de la salud: un protocolo para un ensayo controlado aleatorio de fase II, triple ciego, optimizado según bayesiano",
+    "title": "From image to trust: Cross-national pathways to brand evangelism in hospitality sector",
+    "title_es": "De la imagen a la confianza: caminos transnacionales hacia la evangelización de la marca en el sector hotelero",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -60393,6 +60513,14 @@
     "title": "NGC 1514: The Crystal Ball Nebula",
     "title_es": "NGC 1514: The Crystal Ball Nebula",
     "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Messier 104",
+    "title_es": "Messier 104",
+    "url": "https://apod.nasa.gov/apod/image/2605/m104noirlab2612a_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

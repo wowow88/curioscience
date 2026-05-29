@@ -1,5 +1,26 @@
 [
   {
+    "title": "Painting the Growing Season in the Maize Triangle",
+    "title_es": "Pintando la temporada de crecimiento en el Triángulo del Maíz",
+    "url": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
+    "date": "2026-05-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
+    "title_es": "Los organoides humanos revelan cómo revertir el daño nervioso \"irreversible\"",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
+    "date": "2026-05-29",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",
+    "title_es": "Un cohete Blue Origin explota en la plataforma de lanzamiento durante una prueba de encendido del motor",
+    "url": "https://phys.org/news/2026-05-blue-rocket-pad.html",
+    "date": "2026-05-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Cardiovascular Research: Un estudio revela diferencias entre los dos ventrículos del corazón en su capacidad de resistencia a los efectos de una parada cardíaca",
     "title_es": "Cardiovascular Research: Un estudio revela diferencias entre los dos ventrículos del corazón en su capacidad de resistencia a los efectos de una parada cardíaca",
     "url": "https://www.cnic.es/es/noticias/cardiovascular-research-un-estudio-revela-diferencias-entre-dos-ventriculos-corazon-su",
@@ -28,6 +49,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "From image to trust: Cross-national pathways to brand evangelism in hospitality sector",
+    "title_es": "De la imagen a la confianza: caminos transnacionales hacia la evangelización de la marca en el sector hotelero",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-05-28",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+    "title_es": "¿La física es todo lo que necesitas? Un estudio de caso sobre el desarrollo de software científico con IA supervisado por físicos",
+    "url": "http://arxiv.org/abs/2605.30353v1",
+    "date": "2026-05-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "An uncommon introduction to chemistry",
+    "title_es": "Una introducción poco común a la química.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg5513",
+    "date": "2026-05-28",
+    "source": "Science.org"
+  },
+  {
+    "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
+    "title_es": "Comparta los altibajos de su carrera científica: responda la encuesta global de <i>Nature</i>",
+    "url": "https://www.nature.com/articles/d41586-026-01589-3",
+    "date": "2026-05-28",
+    "source": "Nature"
+  },
+  {
+    "title": "Cardiovascular Research: The left and right ventricles differ in their ability to withstand the effects of cardiac arrest",
+    "title_es": "Cardiovascular Research: The left and right ventricles differ in their ability to withstand the effects of cardiac arrest",
+    "url": "https://www.cnic.es/es/node/242513",
+    "date": "2026-05-28",
+    "source": "CNIC"
+  },
+  {
+    "title": "Guadalupe Sabio, premio Admirables de Diario Médico",
+    "title_es": "Guadalupe Sabio, premio Admirables de Diario Médico",
+    "url": "https://www.cnio.es/noticias/guadalupe-sabio-premio-admirables-de-diario-medico/",
+    "date": "2026-05-28",
+    "source": "CNIO"
+  },
+  {
+    "title": "Homing pigeons may use a surprising navigation mechanism",
+    "title_es": "Las palomas mensajeras pueden utilizar un mecanismo de navegación sorprendente",
+    "url": "https://www.sciencenews.org/article/pigeon-navigation-iron-liver-cells",
+    "date": "2026-05-28",
+    "source": "Science News"
+  },
+  {
+    "title": "How hot can our planet get? Earth’s climate history holds clues",
+    "title_es": "¿Qué tan caliente puede llegar a ser nuestro planeta? La historia climática de la Tierra contiene pistas",
+    "url": "https://www.snexplores.org/article/how-hot-earth-climate-history",
+    "date": "2026-05-28",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Ever Restless Mount Dukono Erupts",
     "title_es": "El siempre inquieto monte Dukono entra en erupción",
     "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
@@ -47,13 +124,6 @@
     "url": "https://phys.org/news/2026-05-deforestation-brazil-amazon-lowest.html",
     "date": "2026-05-27",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Effects of taurine supplementation on metabolic health and biological aging in healthcare workers: A protocol for a triple-blinded, Bayesian-optimized phase II randomized controlled trial",
-    "title_es": "Efectos de la suplementación con taurina sobre la salud metabólica y el envejecimiento biológico en trabajadores de la salud: un protocolo para un ensayo controlado aleatorio de fase II, triple ciego, optimizado según bayesiano",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-27",
-    "source": "PLOS ONE"
   },
   {
     "title": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
