@@ -1,5 +1,45 @@
 [
   {
+    "title": "Caffeine reversed memory problems caused by sleep deprivation",
+    "title_es": "La cafeína revirtió los problemas de memoria causados ​​por la falta de sueño",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+    "date": "2026-05-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-05-30T00:00:00.000Z"
+  },
+  {
+    "title": "In the world's economic 'black holes,' data still leak out",
+    "title_es": "En los 'agujeros negros' económicos del mundo, todavía se filtran datos",
+    "url": "https://phys.org/news/2026-05-world-economic-black-holes-leak.html",
+    "date": "2026-05-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-30T00:00:00.000Z"
+  },
+  {
+    "title": "Paleontologists Identify New Hyaenodont Species in Pakistan",
+    "title_es": "Paleontologists Identify New Hyaenodont Species in Pakistan",
+    "url": "https://www.sci.news/paleontology/pakistan-hyaenodonts-14806.html",
+    "published": "2026-05-29T22:30:51.000Z",
+    "date": "2026-05-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "A Peptide, a Secretive Scientist, and a Debate Over Evidence",
+    "title_es": "A Peptide, a Secretive Scientist, and a Debate Over Evidence",
+    "url": "https://undark.org/2026/05/29/stress-test-bpc-157-history/",
+    "published": "2026-05-29T09:00:00.000Z",
+    "date": "2026-05-29",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
+    "title_es": "Astronomers finally solve Saturn’s decades-long spin mystery",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
+    "published": "2026-05-29T08:36:58.000Z",
+    "date": "2026-05-29",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Book Review: Within Our Cells, the Miracle of Constant Mutation",
     "title_es": "Book Review: Within Our Cells, the Miracle of Constant Mutation",
     "url": "https://undark.org/2026/05/29/book-review-beyond-inheritance/",
@@ -53,6 +93,38 @@
     "url": "https://phys.org/news/2026-05-blue-rocket-pad.html",
     "date": "2026-05-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers",
+    "title_es": "Corrección del autor: Estados ocultos y dinámica de empastes fraccionarios en bicapas retorcidas de MoTe<sub>2</sub>",
+    "url": "https://www.nature.com/articles/s41586-026-10717-y",
+    "date": "2026-05-29",
+    "source": "Nature",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "José Javier Fuster recibe el Premio ESCI 2026 por su excelencia en investigación clínica",
+    "title_es": "José Javier Fuster recibe el Premio ESCI 2026 por su excelencia en investigación clínica",
+    "url": "https://www.cnic.es/es/noticias/jose-javier-fuster-recibe-premio-esci-2026-por-su-excelencia-investigacion-clinica",
+    "date": "2026-05-29",
+    "source": "CNIC",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Here’s how to make an origami torus with the fewest folds possible",
+    "title_es": "Aquí se explica cómo hacer un toro de origami con la menor cantidad de pliegues posible.",
+    "url": "https://www.sciencenews.org/article/origami-torus-fewest-folds-math",
+    "date": "2026-05-29",
+    "source": "Science News",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Hawaii is turning fishnets and other plastic trash into roads",
+    "title_es": "Hawái está convirtiendo redes de pesca y otros desechos plásticos en carreteras",
+    "url": "https://www.snexplores.org/article/hawaii-plastic-trash-road-pavement",
+    "date": "2026-05-29",
+    "source": "Science News Explores",
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
@@ -128,7 +200,7 @@
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
-    "title": "Share the highs and lows of your career in science: take Nature ’s global survey",
+    "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
     "title_es": "Comparta los altibajos de su carrera científica: responda la encuesta global de <i>Nature</i>",
     "url": "https://www.nature.com/articles/d41586-026-01589-3",
     "date": "2026-05-28",
@@ -25759,8 +25831,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "From image to trust: Cross-national pathways to brand evangelism in hospitality sector",
-    "title_es": "De la imagen a la confianza: caminos transnacionales hacia la evangelización de la marca en el sector hotelero",
+    "title": "Minimal mutational requirements for conversion of a telomere resolvase into a Cre-like site-specific recombinase",
+    "title_es": "Requisitos mutacionales mínimos para la conversión de una resolvasa telomérica en una recombinasa específica de sitio similar a Cre",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -60521,6 +60593,22 @@
     "title": "Messier 104",
     "title_es": "Messier 104",
     "url": "https://apod.nasa.gov/apod/image/2605/m104noirlab2612a_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Evolution of the Berry curvature dipole in uniaxially strained bilayer graphene, by Karel Cuypers, Robin Smeyers, Bert Jorissen, Lucian Covaci",
+    "title_es": "Evolution of the Berry curvature dipole in uniaxially strained bilayer graphene, by Karel Cuypers, Robin Smeyers, Bert Jorissen, Lucian Covaci",
+    "url": "https://scipost.org/scipostphyscore.9.2.031",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Supermoon Versus Micromoon",
+    "title_es": "Supermoon Versus Micromoon",
+    "url": "https://apod.nasa.gov/apod/image/2605/supermicromoon_mukherjee_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
