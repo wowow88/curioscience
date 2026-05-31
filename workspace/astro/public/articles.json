@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is extracting oxygen from lunar soil the future of space exploration?",
+    "title_es": "¿Extraer oxígeno del suelo lunar es el futuro de la exploración espacial?",
+    "url": "https://phys.org/news/2026-05-oxygen-lunar-soil-future-space.html",
+    "date": "2026-05-31",
+    "source": "Phys.org (Latest)",
+    "published": "2026-05-31T00:00:00.000Z"
+  },
+  {
     "title": "Caffeine reversed memory problems caused by sleep deprivation",
     "title_es": "La cafeína revirtió los problemas de memoria causados ​​por la falta de sueño",
     "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
@@ -125,6 +133,14 @@
     "url": "https://www.snexplores.org/article/hawaii-plastic-trash-road-pavement",
     "date": "2026-05-29",
     "source": "Science News Explores",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+    "title_es": "La NASA adjudica un contrato para la infraestructura del Centro Espacial Johnson",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+    "date": "2026-05-29",
+    "source": "NASA (Top News)",
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
@@ -60612,5 +60628,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Forecasting generative amplification, by Henning Bahl, Sascha Diefenbacher, Nina Elmer, Tilman Plehn, Jonas Spinner",
+    "title_es": "Forecasting generative amplification, by Henning Bahl, Sascha Diefenbacher, Nina Elmer, Tilman Plehn, Jonas Spinner",
+    "url": "https://scipost.org/scipostphys.20.5.150",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
