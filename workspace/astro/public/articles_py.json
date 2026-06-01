@@ -1,10 +1,52 @@
 [
   {
+    "title": "How long can humans live? We simply don’t know",
+    "title_es": "¿Cuánto tiempo pueden vivir los humanos? Simplemente no lo sabemos",
+    "url": "https://www.nature.com/articles/d41586-026-01728-w",
+    "date": "2026-06-01",
+    "source": "Nature"
+  },
+  {
+    "title": "These 12,000-year-old Native American dice are the oldest in the world",
+    "title_es": "Estos dados nativos americanos de 12.000 años son los más antiguos del mundo",
+    "url": "https://www.snexplores.org/article/native-american-oldest-dice",
+    "date": "2026-06-01",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "The forgotten organ that could predict how long you live",
+    "title_es": "El órgano olvidado que podría predecir cuánto vivirás",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+    "date": "2026-06-01",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "A giant star may have destroyed itself in one of the universe's rarest explosions",
+    "title_es": "Una estrella gigante pudo haberse destruido a sí misma en una de las explosiones más raras del universo",
+    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+    "date": "2026-06-01",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Is extracting oxygen from lunar soil the future of space exploration?",
     "title_es": "¿Extraer oxígeno del suelo lunar es el futuro de la exploración espacial?",
     "url": "https://phys.org/news/2026-05-oxygen-lunar-soil-future-space.html",
     "date": "2026-05-31",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Jonatan R. Ruiz: \"It is small, sustained changes that can generate major long-term benefits\"",
+    "title_es": "Jonatan R. Ruiz: \"It is small, sustained changes that can generate major long-term benefits\"",
+    "url": "https://www.cnic.es/es/node/242571",
+    "date": "2026-05-31",
+    "source": "CNIC"
+  },
+  {
+    "title": "A new pancreatic cancer pill may be a game changer for patients",
+    "title_es": "Una nueva píldora contra el cáncer de páncreas puede cambiar las reglas del juego para los pacientes",
+    "url": "https://www.sciencenews.org/article/pancreatic-cancer-pill-daraxonrasib",
+    "date": "2026-05-31",
+    "source": "Science News"
   },
   {
     "title": "Caffeine reversed memory problems caused by sleep deprivation",
@@ -82,6 +124,13 @@
     "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
     "date": "2026-05-29",
     "source": "NASA (Top News)"
+  },
+  {
+    "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+    "title_es": "Lumos-Nexus: puente de frecuencia eficiente con espacio latente homogéneo para modelos unificados de vídeo",
+    "url": "http://arxiv.org/abs/2605.31603v1",
+    "date": "2026-05-29",
+    "source": "arXiv"
   },
   {
     "title": "Cardiovascular Research: Un estudio revela diferencias entre los dos ventrículos del corazón en su capacidad de resistencia a los efectos de una parada cardíaca",

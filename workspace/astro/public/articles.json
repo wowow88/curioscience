@@ -1,10 +1,66 @@
 [
   {
+    "title": "Cosm: Collective Switched Motion for Fast and Accurate Sparse Ising Optimization",
+    "title_es": "Cosm: Collective Switched Motion for Fast and Accurate Sparse Ising Optimization",
+    "url": "https://arxiv.org/abs/2605.30355",
+    "published": "2026-06-01T04:00:00.000Z",
+    "date": "2026-06-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "How long can humans live? We simply don’t know",
+    "title_es": "¿Cuánto tiempo pueden vivir los humanos? Simplemente no lo sabemos",
+    "url": "https://www.nature.com/articles/d41586-026-01728-w",
+    "date": "2026-06-01",
+    "source": "Nature",
+    "published": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "title": "These 12,000-year-old Native American dice are the oldest in the world",
+    "title_es": "Estos dados nativos americanos de 12.000 años son los más antiguos del mundo",
+    "url": "https://www.snexplores.org/article/native-american-oldest-dice",
+    "date": "2026-06-01",
+    "source": "Science News Explores",
+    "published": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "title": "The forgotten organ that could predict how long you live",
+    "title_es": "El órgano olvidado que podría predecir cuánto vivirás",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+    "date": "2026-06-01",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "title": "A giant star may have destroyed itself in one of the universe's rarest explosions",
+    "title_es": "Una estrella gigante pudo haberse destruido a sí misma en una de las explosiones más raras del universo",
+    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+    "date": "2026-06-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-01T00:00:00.000Z"
+  },
+  {
     "title": "Is extracting oxygen from lunar soil the future of space exploration?",
     "title_es": "¿Extraer oxígeno del suelo lunar es el futuro de la exploración espacial?",
     "url": "https://phys.org/news/2026-05-oxygen-lunar-soil-future-space.html",
     "date": "2026-05-31",
     "source": "Phys.org (Latest)",
+    "published": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "title": "Jonatan R. Ruiz: \"It is small, sustained changes that can generate major long-term benefits\"",
+    "title_es": "Jonatan R. Ruiz: \"It is small, sustained changes that can generate major long-term benefits\"",
+    "url": "https://www.cnic.es/es/node/242571",
+    "date": "2026-05-31",
+    "source": "CNIC",
+    "published": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "title": "A new pancreatic cancer pill may be a game changer for patients",
+    "title_es": "Una nueva píldora contra el cáncer de páncreas puede cambiar las reglas del juego para los pacientes",
+    "url": "https://www.sciencenews.org/article/pancreatic-cancer-pill-daraxonrasib",
+    "date": "2026-05-31",
+    "source": "Science News",
     "published": "2026-05-31T00:00:00.000Z"
   },
   {
@@ -104,7 +160,7 @@
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
-    "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers",
+    "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
     "title_es": "Corrección del autor: Estados ocultos y dinámica de empastes fraccionarios en bicapas retorcidas de MoTe<sub>2</sub>",
     "url": "https://www.nature.com/articles/s41586-026-10717-y",
     "date": "2026-05-29",
@@ -141,6 +197,14 @@
     "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
     "date": "2026-05-29",
     "source": "NASA (Top News)",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+    "title_es": "Lumos-Nexus: puente de frecuencia eficiente con espacio latente homogéneo para modelos unificados de vídeo",
+    "url": "http://arxiv.org/abs/2605.31603v1",
+    "date": "2026-05-29",
+    "source": "arXiv",
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
@@ -60636,5 +60700,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Saturn at Night",
+    "title_es": "Saturn at Night",
+    "url": "https://apod.nasa.gov/apod/image/2605/lastringportrait_cassini_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
