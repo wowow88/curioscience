@@ -1,5 +1,19 @@
 [
   {
+    "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
+    "title_es": "Caminata espacial con Scott Wray, líder de entrenamiento de Artemis EVA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
+    "date": "2026-06-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Strange winds on seven hot Jupiters reveal strongest signs yet of exoplanet magnetic activity",
+    "title_es": "Vientos extraños en siete Júpiter calientes revelan signos más fuertes hasta el momento de actividad magnética de exoplanetas",
+    "url": "https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html",
+    "date": "2026-06-02",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "How long can humans live? We simply don’t know",
     "title_es": "¿Cuánto tiempo pueden vivir los humanos? Simplemente no lo sabemos",
     "url": "https://www.nature.com/articles/d41586-026-01728-w",
@@ -26,6 +40,41 @@
     "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
     "date": "2026-06-01",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Temporal shift in task factor influence across the stretch reflex",
+    "title_es": "Cambio temporal en la influencia del factor de tarea a través del reflejo de estiramiento",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-01",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+    "title_es": "Mitigar el sesgo de juicio perceptivo en un LLM como juez multimodal mediante modelos de perturbación perceptual y recompensa",
+    "url": "http://arxiv.org/abs/2606.02578v1",
+    "date": "2026-06-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+    "title_es": "Relé de átomo de hidrógeno enantioselectivo mediante un conjunto de catalizador no covalente",
+    "url": "https://www.nature.com/articles/s41586-026-10692-4",
+    "date": "2026-06-01",
+    "source": "Nature"
+  },
+  {
+    "title": "The math of choosing a restaurant meal is revealed in Richard Feynman’s notes",
+    "title_es": "Las matemáticas para elegir una comida en un restaurante se revelan en las notas de Richard Feynman",
+    "url": "https://www.sciencenews.org/article/math-restaurant-meal-feynman",
+    "date": "2026-06-01",
+    "source": "Science News"
+  },
+  {
+    "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+    "title_es": "La esponja de tu cocina libera microplásticos cada vez que lavas los platos",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
+    "date": "2026-06-01",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Is extracting oxygen from lunar soil the future of space exploration?",
@@ -82,13 +131,6 @@
     "url": "https://phys.org/news/2026-05-blue-rocket-pad.html",
     "date": "2026-05-29",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Minimal mutational requirements for conversion of a telomere resolvase into a Cre-like site-specific recombinase",
-    "title_es": "Requisitos mutacionales mínimos para la conversión de una resolvasa telomérica en una recombinasa específica de sitio similar a Cre",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-05-29",
-    "source": "PLOS ONE"
   },
   {
     "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
