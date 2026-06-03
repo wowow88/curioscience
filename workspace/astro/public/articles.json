@@ -1,5 +1,69 @@
 [
   {
+    "title": "Cost-Aware Query Routing in RAG: Empirical Analysis of Retrieval Depth Tradeoffs",
+    "title_es": "Cost-Aware Query Routing in RAG: Empirical Analysis of Retrieval Depth Tradeoffs",
+    "url": "https://arxiv.org/abs/2606.02581",
+    "published": "2026-06-03T04:00:00.000Z",
+    "date": "2026-06-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ötzi's frozen remains may harbour metabolically active microbes",
+    "title_es": "Ötzi's frozen remains may harbour metabolically active microbes",
+    "url": "https://www.newscientist.com/article/2528789-otzis-frozen-remains-may-harbour-metabolically-active-microbes/",
+    "published": "2026-06-03T01:00:01.000Z",
+    "date": "2026-06-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+    "title_es": "¿Puede un ejército de bebés y perros rescatar a la psicología de su crisis de reproducibilidad?",
+    "url": "https://www.nature.com/articles/d41586-026-01727-x",
+    "date": "2026-06-03",
+    "source": "Nature",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "El Dr. Borja Ibáñez, director científico del CNIC, recibe el Premio Rei Jaume I de Investigación Clínica y Salud Pública 2026",
+    "title_es": "El Dr. Borja Ibáñez, director científico del CNIC, recibe el Premio Rei Jaume I de Investigación Clínica y Salud Pública 2026",
+    "url": "https://www.cnic.es/es/noticias/dr-borja-ibanez-director-cientifico-cnic-recibe-premio-rei-jaume-i-investigacion-clinica",
+    "date": "2026-06-03",
+    "source": "CNIC",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Typhoon Jangmi",
+    "title_es": "Tifón Jangmi",
+    "url": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
+    "date": "2026-06-03",
+    "source": "NASA (Top News)",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Ötzi the Iceman’s remains yielded ‘viable’ yeasts in the lab",
+    "title_es": "Los restos de Ötzi el Hombre de Hielo produjeron levaduras \"viables\" en el laboratorio",
+    "url": "https://www.sciencenews.org/article/otzi-iceman-viable-yeasts-microbiome",
+    "date": "2026-06-03",
+    "source": "Science News",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Genetically modified hookworms produce and deliver therapeutics",
+    "title_es": "Los anquilostomas genéticamente modificados producen y administran terapias",
+    "url": "https://phys.org/news/2026-06-genetically-hookworms-therapeutics.html",
+    "date": "2026-06-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Meteorite Found in Africa Preserves Evidence of Long-Lost Massive Protoplanet",
+    "title_es": "Meteorite Found in Africa Preserves Evidence of Long-Lost Massive Protoplanet",
+    "url": "https://www.sci.news/space/angrite-meteorite-nwa-12774-14814.html",
+    "published": "2026-06-02T22:04:53.000Z",
+    "date": "2026-06-02",
+    "source": "Sci.News"
+  },
+  {
     "title": "Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning",
     "title_es": "Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning",
     "url": "https://arxiv.org/abs/2606.01042",
@@ -29,6 +93,46 @@
     "url": "https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html",
     "date": "2026-06-02",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
+    "title_es": "Los tokens de percepción imaginativa mejoran el razonamiento espacial en modelos de lenguaje multimodal",
+    "url": "http://arxiv.org/abs/2606.03988v1",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "title": "Publicado el estudio del grupo de Mariano Barbacid sobre la terapia que elimina tumores de páncreas en ratones",
+    "title_es": "Publicado el estudio del grupo de Mariano Barbacid sobre la terapia que elimina tumores de páncreas en ratones",
+    "url": "https://www.cnio.es/noticias/publicado-el-estudio-del-grupo-de-mariano-barbacid-sobre-la-terapia-que-elimina-tumores-de-pancreas-en-ratones/",
+    "date": "2026-06-02",
+    "source": "CNIO",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances\" hreflang=\"es\">El IAC celebra la XVII edición del “Día de Nuestra Ciencia”, un encuentro interno para compartir avances científicos y tecnológicos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances\" hreflang=\"es\">El IAC celebra la XVII edición del “Día de Nuestra Ciencia”, un encuentro interno para compartir avances científicos y tecnológicos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances",
+    "date": "2026-06-02",
+    "source": "IAC",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "title": "Some people use echolocation to get around. Here’s how it works",
+    "title_es": "Algunas personas utilizan la ecolocalización para desplazarse. Así es como funciona",
+    "url": "https://www.snexplores.org/article/human-echolocation-blind-navigate-brain",
+    "date": "2026-06-02",
+    "source": "Science News Explores",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "title": "A single protein may be holding back CAR T cancer therapy",
+    "title_es": "Una sola proteína puede estar frenando la terapia contra el cáncer con CAR T",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+    "date": "2026-06-02",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-02T00:00:00.000Z"
   },
   {
@@ -25983,8 +26087,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Temporal shift in task factor influence across the stretch reflex",
-    "title_es": "Cambio temporal en la influencia del factor de tarea a través del reflejo de estiramiento",
+    "title": "Correction: Oropouche infection in Peruvian patients: A systematic review and meta-analysis",
+    "title_es": "Corrección: Infección por Oropouche en pacientes peruanos: una revisión sistemática y metanálisis",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -60796,5 +60900,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Smoothed-cubic spin-glass model of random lasers, by Marcello Benedetti, Luca Leuzzi",
+    "title_es": "Smoothed-cubic spin-glass model of random lasers, by Marcello Benedetti, Luca Leuzzi",
+    "url": "https://scipost.org/scipostphys.20.6.153",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

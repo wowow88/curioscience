@@ -1,5 +1,40 @@
 [
   {
+    "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+    "title_es": "¿Puede un ejército de bebés y perros rescatar a la psicología de su crisis de reproducibilidad?",
+    "url": "https://www.nature.com/articles/d41586-026-01727-x",
+    "date": "2026-06-03",
+    "source": "Nature"
+  },
+  {
+    "title": "El Dr. Borja Ibáñez, director científico del CNIC, recibe el Premio Rei Jaume I de Investigación Clínica y Salud Pública 2026",
+    "title_es": "El Dr. Borja Ibáñez, director científico del CNIC, recibe el Premio Rei Jaume I de Investigación Clínica y Salud Pública 2026",
+    "url": "https://www.cnic.es/es/noticias/dr-borja-ibanez-director-cientifico-cnic-recibe-premio-rei-jaume-i-investigacion-clinica",
+    "date": "2026-06-03",
+    "source": "CNIC"
+  },
+  {
+    "title": "Typhoon Jangmi",
+    "title_es": "Tifón Jangmi",
+    "url": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
+    "date": "2026-06-03",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Ötzi the Iceman’s remains yielded ‘viable’ yeasts in the lab",
+    "title_es": "Los restos de Ötzi el Hombre de Hielo produjeron levaduras \"viables\" en el laboratorio",
+    "url": "https://www.sciencenews.org/article/otzi-iceman-viable-yeasts-microbiome",
+    "date": "2026-06-03",
+    "source": "Science News"
+  },
+  {
+    "title": "Genetically modified hookworms produce and deliver therapeutics",
+    "title_es": "Los anquilostomas genéticamente modificados producen y administran terapias",
+    "url": "https://phys.org/news/2026-06-genetically-hookworms-therapeutics.html",
+    "date": "2026-06-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
     "title_es": "Caminata espacial con Scott Wray, líder de entrenamiento de Artemis EVA",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
@@ -12,6 +47,48 @@
     "url": "https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html",
     "date": "2026-06-02",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Oropouche infection in Peruvian patients: A systematic review and meta-analysis",
+    "title_es": "Corrección: Infección por Oropouche en pacientes peruanos: una revisión sistemática y metanálisis",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-02",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
+    "title_es": "Los tokens de percepción imaginativa mejoran el razonamiento espacial en modelos de lenguaje multimodal",
+    "url": "http://arxiv.org/abs/2606.03988v1",
+    "date": "2026-06-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Publicado el estudio del grupo de Mariano Barbacid sobre la terapia que elimina tumores de páncreas en ratones",
+    "title_es": "Publicado el estudio del grupo de Mariano Barbacid sobre la terapia que elimina tumores de páncreas en ratones",
+    "url": "https://www.cnio.es/noticias/publicado-el-estudio-del-grupo-de-mariano-barbacid-sobre-la-terapia-que-elimina-tumores-de-pancreas-en-ratones/",
+    "date": "2026-06-02",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances\" hreflang=\"es\">El IAC celebra la XVII edición del “Día de Nuestra Ciencia”, un encuentro interno para compartir avances científicos y tecnológicos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances\" hreflang=\"es\">El IAC celebra la XVII edición del “Día de Nuestra Ciencia”, un encuentro interno para compartir avances científicos y tecnológicos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-celebra-la-xvii-edicion-del-dia-de-nuestra-ciencia-un-encuentro-interno-para-compartir-avances",
+    "date": "2026-06-02",
+    "source": "IAC"
+  },
+  {
+    "title": "Some people use echolocation to get around. Here’s how it works",
+    "title_es": "Algunas personas utilizan la ecolocalización para desplazarse. Así es como funciona",
+    "url": "https://www.snexplores.org/article/human-echolocation-blind-navigate-brain",
+    "date": "2026-06-02",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A single protein may be holding back CAR T cancer therapy",
+    "title_es": "Una sola proteína puede estar frenando la terapia contra el cáncer con CAR T",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+    "date": "2026-06-02",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "How long can humans live? We simply don’t know",
@@ -40,13 +117,6 @@
     "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
     "date": "2026-06-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Temporal shift in task factor influence across the stretch reflex",
-    "title_es": "Cambio temporal en la influencia del factor de tarea a través del reflejo de estiramiento",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
