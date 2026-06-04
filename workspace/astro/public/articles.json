@@ -1,5 +1,69 @@
 [
   {
+    "title": "Risk Aversion in Science Stifles Innovation",
+    "title_es": "Risk Aversion in Science Stifles Innovation",
+    "url": "https://undark.org/2026/06/04/opinion-risk-aversion-innovation/",
+    "published": "2026-06-04T07:07:00.000Z",
+    "date": "2026-06-04",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
+    "title_es": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
+    "url": "https://arxiv.org/abs/2606.03995",
+    "published": "2026-06-04T04:00:00.000Z",
+    "date": "2026-06-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "This mysterious lung disease affects millions of people – a drug tested in mice shows promise",
+    "title_es": "Esta misteriosa enfermedad pulmonar afecta a millones de personas: un fármaco probado en ratones es prometedor",
+    "url": "https://www.nature.com/articles/d41586-026-01789-x",
+    "date": "2026-06-04",
+    "source": "Nature",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "A Moonlit Earth as Seen From Artemis II",
+    "title_es": "Una Tierra iluminada por la luna vista desde Artemis II",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+    "date": "2026-06-04",
+    "source": "NASA (Top News)",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Beluga whales keep switching mates and it may be saving their species",
+    "title_es": "Las ballenas beluga siguen cambiando de pareja y eso puede estar salvando su especie",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
+    "date": "2026-06-04",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "SpaceX's IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
+    "title_es": "La oferta pública inicial de SpaceX será la mayor de la historia y podría convertir a Elon Musk en billonario",
+    "url": "https://phys.org/news/2026-06-spacex-ipo-biggest-elon-musk.html",
+    "date": "2026-06-04",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Complex Colonial Life Was Already Thriving during Cambrian Explosion",
+    "title_es": "Complex Colonial Life Was Already Thriving during Cambrian Explosion",
+    "url": "https://www.sci.news/paleontology/cambrian-bryozoans-14816.html",
+    "published": "2026-06-03T22:08:11.000Z",
+    "date": "2026-06-03",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The looming El Niño could be bad – but much worse is to come",
+    "title_es": "The looming El Niño could be bad – but much worse is to come",
+    "url": "https://www.newscientist.com/article/2529026-the-looming-el-nino-could-be-bad-but-much-worse-is-to-come/",
+    "published": "2026-06-03T18:00:37.000Z",
+    "date": "2026-06-03",
+    "source": "New Scientist"
+  },
+  {
     "title": "Cost-Aware Query Routing in RAG: Empirical Analysis of Retrieval Depth Tradeoffs",
     "title_es": "Cost-Aware Query Routing in RAG: Empirical Analysis of Retrieval Depth Tradeoffs",
     "url": "https://arxiv.org/abs/2606.02581",
@@ -53,6 +117,46 @@
     "url": "https://phys.org/news/2026-06-genetically-hookworms-therapeutics.html",
     "date": "2026-06-03",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Streaming Communication in Multi-Agent Reasoning",
+    "title_es": "Transmisión de comunicación en razonamiento multiagente",
+    "url": "http://arxiv.org/abs/2606.05158v1",
+    "date": "2026-06-03",
+    "source": "arXiv",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "The SAFE HEARTS PLAN Meeting: Young Scientists Engaging with Europe’s Cardiovascular Health Plan brings European cardiovascular health policies closer to early-career researchers",
+    "title_es": "The SAFE HEARTS PLAN Meeting: Young Scientists Engaging with Europe’s Cardiovascular Health Plan brings European cardiovascular health policies closer to early-career researchers",
+    "url": "https://www.cnic.es/es/node/242703",
+    "date": "2026-06-03",
+    "source": "CNIC",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-su-comision-asesora-de-investigacion-para-evaluar-la-actividad-cientifica-y-tecnologica\" hreflang=\"es\">El IAC reúne a su Comisión Asesora de Investigación para evaluar la actividad científica y tecnológica del centro</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-su-comision-asesora-de-investigacion-para-evaluar-la-actividad-cientifica-y-tecnologica\" hreflang=\"es\">El IAC reúne a su Comisión Asesora de Investigación para evaluar la actividad científica y tecnológica del centro</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-reune-su-comision-asesora-de-investigacion-para-evaluar-la-actividad-cientifica-y-tecnologica",
+    "date": "2026-06-03",
+    "source": "IAC",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "A secret to making a queen bee may lie in the wax around it",
+    "title_es": "Un secreto para hacer una abeja reina puede estar en la cera que la rodea",
+    "url": "https://www.sciencenews.org/article/queen-honeybee-development-wax",
+    "date": "2026-06-03",
+    "source": "Science News",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "Nature-inspired rocket-nozzle redesign stands by for liftoff",
+    "title_es": "El rediseño de la boquilla del cohete inspirado en la naturaleza espera el despegue",
+    "url": "https://www.snexplores.org/article/aerospike-rocket-nozzle-redesign",
+    "date": "2026-06-03",
+    "source": "Science News Explores",
     "published": "2026-06-03T00:00:00.000Z"
   },
   {
@@ -26087,8 +26191,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Oropouche infection in Peruvian patients: A systematic review and meta-analysis",
-    "title_es": "Corrección: Infección por Oropouche en pacientes peruanos: una revisión sistemática y metanálisis",
+    "title": "Correction: IL-22 inhibits ferroptosis and attenuates ischemia-reperfusion-induced acute kidney injury: Association with activation of the P62-Keap1-Nrf2 signaling pathway",
+    "title_es": "Corrección: IL-22 inhibe la ferroptosis y atenúa la lesión renal aguda inducida por isquemia-reperfusión: asociación con la activación de la vía de señalización P62-Keap1-Nrf2",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -60908,5 +61012,13 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "A Planetary Nebula with Cosmic Buckyballs",
+    "title_es": "A Planetary Nebula with Cosmic Buckyballs",
+    "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
