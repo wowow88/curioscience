@@ -1,5 +1,53 @@
 [
   {
+    "title": "Book Review: How Radio Astronomy Made the Invisible Visible",
+    "title_es": "Book Review: How Radio Astronomy Made the Invisible Visible",
+    "url": "https://undark.org/2026/06/05/book-review-echoing-universe/",
+    "published": "2026-06-05T07:30:12.000Z",
+    "date": "2026-06-05",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "RAINO: Anchoring Agents in Reality, A Systematic Review and Conceptual Framework for Realism in Agent-Based Modelling",
+    "title_es": "RAINO: Anchoring Agents in Reality, A Systematic Review and Conceptual Framework for Realism in Agent-Based Modelling",
+    "url": "https://arxiv.org/abs/2606.05167",
+    "published": "2026-06-05T04:00:00.000Z",
+    "date": "2026-06-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fighting Fire With Fire",
+    "title_es": "Combatir el fuego con fuego",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+    "date": "2026-06-05",
+    "source": "NASA (Top News)",
+    "published": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "title": "Dangerous livestock pest case confirmed in Texas",
+    "title_es": "Caso peligroso de plaga ganadera confirmado en Texas",
+    "url": "https://phys.org/news/2026-06-dangerous-livestock-pest-case-texas.html",
+    "date": "2026-06-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "title": "New Microraptorine Dinosaur Discovered in China",
+    "title_es": "New Microraptorine Dinosaur Discovered in China",
+    "url": "https://www.sci.news/paleontology/jian-changmaensis-14819.html",
+    "published": "2026-06-04T22:13:15.000Z",
+    "date": "2026-06-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Becoming a parent may make you love your partner less",
+    "title_es": "Becoming a parent may make you love your partner less",
+    "url": "https://www.newscientist.com/article/2529220-becoming-a-parent-may-make-you-love-your-partner-less/",
+    "published": "2026-06-04T17:00:21.000Z",
+    "date": "2026-06-04",
+    "source": "New Scientist"
+  },
+  {
     "title": "Risk Aversion in Science Stifles Innovation",
     "title_es": "Risk Aversion in Science Stifles Innovation",
     "url": "https://undark.org/2026/06/04/opinion-risk-aversion-innovation/",
@@ -45,6 +93,54 @@
     "url": "https://phys.org/news/2026-06-spacex-ipo-biggest-elon-musk.html",
     "date": "2026-06-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+    "title_es": "HANDOFF: Control de todo el cuerpo en el espacio de tareas agente humanoide a través de maestros complementarios destilados",
+    "url": "http://arxiv.org/abs/2606.06493v1",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Patently imperfect",
+    "title_es": "Patentemente imperfecto",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef3173",
+    "date": "2026-06-04",
+    "source": "Science.org",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "title_es": "Corrección del autor: Fisiología e inmunología de un xenotrasplante de riñón de cerdo a humano fallecido",
+    "url": "https://www.nature.com/articles/s41586-026-10694-2",
+    "date": "2026-06-04",
+    "source": "Nature",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Remote workers feel isolated. Back-to-office mandates are not a fix",
+    "title_es": "Los trabajadores remotos se sienten aislados. Los mandatos de regreso a la oficina no son una solución",
+    "url": "https://www.sciencenews.org/article/remote-workers-isolated-office-social",
+    "date": "2026-06-04",
+    "source": "Science News",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Some of these Smithsonian secrets might just blow your mind",
+    "title_es": "Algunos de estos secretos del Smithsonian podrían dejarte boquiabierto",
+    "url": "https://www.snexplores.org/article/smithsonian-museum-collection-secrets",
+    "date": "2026-06-04",
+    "source": "Science News Explores",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+    "title_es": "Goethe nunca supo que esta hormiga de 40 millones de años estaba escondida en su colección",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+    "date": "2026-06-04",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-04T00:00:00.000Z"
   },
   {
@@ -26191,8 +26287,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: IL-22 inhibits ferroptosis and attenuates ischemia-reperfusion-induced acute kidney injury: Association with activation of the P62-Keap1-Nrf2 signaling pathway",
-    "title_es": "Corrección: IL-22 inhibe la ferroptosis y atenúa la lesión renal aguda inducida por isquemia-reperfusión: asociación con la activación de la vía de señalización P62-Keap1-Nrf2",
+    "title": "Correction: Mammographic Assessment of a Geographically Defined Population at a Mastology Referral Hospital in São Paulo Brazil",
+    "title_es": "Corrección: Evaluación mamográfica de una población geográficamente definida en un hospital de referencia de mastología en São Paulo, Brasil",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61020,5 +61116,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Quantum thermodynamics, by Patrick P. Potts",
+    "title_es": "Quantum thermodynamics, by Patrick P. Potts",
+    "url": "https://scipost.org/scipostphyslectnotes.126",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
