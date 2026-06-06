@@ -1,5 +1,12 @@
 [
   {
+    "title": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
+    "title_es": "Los estadounidenses comparten las mismas luchas a pesar de las profundas divisiones políticas, según un nuevo informe bipartidista",
+    "url": "https://phys.org/news/2026-06-americans-struggles-deep-political-bipartisan.html",
+    "date": "2026-06-06",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fighting Fire With Fire",
     "title_es": "Combatir el fuego con fuego",
     "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
@@ -12,6 +19,48 @@
     "url": "https://phys.org/news/2026-06-dangerous-livestock-pest-case-texas.html",
     "date": "2026-06-05",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Genomic insights into population structure and adaptive variation of <i>Pimelodus yum</i>a and <i>Pimelodus grosskopfii</i> in the Magdalena-Cauca Basin",
+    "title_es": "Conocimientos genómicos sobre la estructura poblacional y la variación adaptativa de <i>Pimelodus yum</i>a y <i>Pimelodus grosskopfii</i> en la cuenca Magdalena-Cauca",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-05",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+    "title_es": "Charla informativa: Los espinosaurios con glándulas de sal podrían haber vivido en ambientes marinos",
+    "url": "https://www.nature.com/articles/d41586-026-01831-y",
+    "date": "2026-06-05",
+    "source": "Nature"
+  },
+  {
+    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+    "title_es": "El avión X-59 de la NASA vuela supersónico por primera vez",
+    "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+    "date": "2026-06-05",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA declares MAVEN, its Mars atmosphere orbiter, dead",
+    "title_es": "La NASA declara muerta a MAVEN, su orbitador de la atmósfera de Marte",
+    "url": "https://www.sciencenews.org/article/nasa-maven-mars-atmosphere-dead",
+    "date": "2026-06-05",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What are corals?",
+    "title_es": "Explicador: ¿Qué son los corales?",
+    "url": "https://www.snexplores.org/article/what-are-corals-reefs",
+    "date": "2026-06-05",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+    "title_es": "Los tornados de fuego gigantes podrían limpiar los derrames de petróleo más rápido y con menos contaminación",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+    "date": "2026-06-05",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "This mysterious lung disease affects millions of people – a drug tested in mice shows promise",
@@ -40,13 +89,6 @@
     "url": "https://phys.org/news/2026-06-spacex-ipo-biggest-elon-musk.html",
     "date": "2026-06-04",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Mammographic Assessment of a Geographically Defined Population at a Mastology Referral Hospital in São Paulo Brazil",
-    "title_es": "Corrección: Evaluación mamográfica de una población geográficamente definida en un hospital de referencia de mastología en São Paulo, Brasil",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-04",
-    "source": "PLOS ONE"
   },
   {
     "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
