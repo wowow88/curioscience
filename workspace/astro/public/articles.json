@@ -1,5 +1,29 @@
 [
   {
+    "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+    "title_es": "Los científicos finalmente completan la teoría del color de Schrödinger de 100 años de antigüedad",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+    "date": "2026-06-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
+    "title_es": "Los profesores negros mejoran los resultados de todos los estudiantes, pero la profesión sigue siendo mayoritariamente blanca",
+    "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html",
+    "date": "2026-06-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "title_es": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+    "published": "2026-06-06T13:02:19.000Z",
+    "date": "2026-06-06",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
     "title_es": "Los estadounidenses comparten las mismas luchas a pesar de las profundas divisiones políticas, según un nuevo informe bipartidista",
     "url": "https://phys.org/news/2026-06-americans-struggles-deep-political-bipartisan.html",
@@ -56,7 +80,7 @@
     "published": "2026-06-05T00:00:00.000Z"
   },
   {
-    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
     "title_es": "El avión X-59 de la NASA vuela supersónico por primera vez",
     "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
     "date": "2026-06-05",
@@ -312,12 +336,28 @@
     "published": "2026-06-03T00:00:00.000Z"
   },
   {
+    "title": "La dieta sí podrá complementar tratamientos oncológicos, pero faltan investigación básica y ensayos clínicos",
+    "title_es": "La dieta sí podrá complementar tratamientos oncológicos, pero faltan investigación básica y ensayos clínicos",
+    "url": "https://www.cnio.es/noticias/la-dieta-si-podra-complementar-tratamientos-oncologicos-pero-faltan-investigacion-basica-y-ensayos-clinicos/",
+    "date": "2026-06-03",
+    "source": "CNIO",
+    "published": "2026-06-03T00:00:00.000Z"
+  },
+  {
     "title": "Meteorite Found in Africa Preserves Evidence of Long-Lost Massive Protoplanet",
     "title_es": "Meteorite Found in Africa Preserves Evidence of Long-Lost Massive Protoplanet",
     "url": "https://www.sci.news/space/angrite-meteorite-nwa-12774-14814.html",
     "published": "2026-06-02T22:04:53.000Z",
     "date": "2026-06-02",
     "source": "Sci.News"
+  },
+  {
+    "title": "Why you need to future-proof your brain in middle age and how to start",
+    "title_es": "Why you need to future-proof your brain in middle age and how to start",
+    "url": "https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/",
+    "published": "2026-06-02T18:00:03.000Z",
+    "date": "2026-06-02",
+    "source": "New Scientist"
   },
   {
     "title": "Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning",
@@ -61185,6 +61225,14 @@
     "title": "TensorMixedStates: A Julia library for simulating pure and mixed quantum states using matrix product states, by Jérôme Houdayer, Grégoire Misguich",
     "title_es": "TensorMixedStates: A Julia library for simulating pure and mixed quantum states using matrix product states, by Jérôme Houdayer, Grégoire Misguich",
     "url": "https://scipost.org/scipostphyscodeb.72",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Automorphism in gauge theories: Higher symmetries and transversal non-Clifford logical gates, by Po-Shen Hsin, Ryohei Kobayashi",
+    "title_es": "Automorphism in gauge theories: Higher symmetries and transversal non-Clifford logical gates, by Po-Shen Hsin, Ryohei Kobayashi",
+    "url": "https://scipost.org/scipostphys.20.6.159",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

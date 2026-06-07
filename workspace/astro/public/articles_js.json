@@ -24,12 +24,12 @@
     "source": "CNIC"
   },
   {
-    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-    "title_es": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-    "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-    "published": "2026-06-05T20:44:57.000Z",
-    "date": "2026-06-05",
-    "source": "NASA (Top News)"
+    "title": "La dieta sí podrá complementar tratamientos oncológicos, pero faltan investigación básica y ensayos clínicos",
+    "title_es": "La dieta sí podrá complementar tratamientos oncológicos, pero faltan investigación básica y ensayos clínicos",
+    "url": "https://www.cnio.es/noticias/la-dieta-si-podra-complementar-tratamientos-oncologicos-pero-faltan-investigacion-basica-y-ensayos-clinicos/",
+    "published": "2026-06-03T11:25:07.000Z",
+    "date": "2026-06-03",
+    "source": "CNIO"
   },
   {
     "title": "NASA declares MAVEN, its Mars atmosphere orbiter, dead",
@@ -48,19 +48,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-    "title_es": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-    "published": "2026-06-05T06:34:20.000Z",
-    "date": "2026-06-05",
+    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "title_es": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+    "published": "2026-06-06T13:02:19.000Z",
+    "date": "2026-06-06",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
-    "title_es": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
-    "url": "https://phys.org/news/2026-06-americans-struggles-deep-political-bipartisan.html",
-    "published": "2026-06-06T04:00:02.000Z",
-    "date": "2026-06-06",
+    "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
+    "title_es": "Black teachers improve outcomes for all students, but the profession remains largely white",
+    "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html",
+    "published": "2026-06-07T00:30:03.000Z",
+    "date": "2026-06-07",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +72,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "A golden age of maths is dawning and mathematicians are freaking out",
-    "title_es": "A golden age of maths is dawning and mathematicians are freaking out",
-    "url": "https://www.newscientist.com/article/2526650-a-golden-age-of-maths-is-dawning-and-mathematicians-are-freaking-out/",
-    "published": "2026-06-01T16:00:40.000Z",
-    "date": "2026-06-01",
+    "title": "Why you need to future-proof your brain in middle age and how to start",
+    "title_es": "Why you need to future-proof your brain in middle age and how to start",
+    "url": "https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/",
+    "published": "2026-06-02T18:00:03.000Z",
+    "date": "2026-06-02",
     "source": "New Scientist"
   },
   {
@@ -104,28 +104,12 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "TensorMixedStates: A Julia library for simulating pure and mixed quantum states using matrix product states, by Jérôme Houdayer, Grégoire Misguich",
-    "title_es": "TensorMixedStates: A Julia library for simulating pure and mixed quantum states using matrix product states, by Jérôme Houdayer, Grégoire Misguich",
-    "url": "https://scipost.org/scipostphyscodeb.72",
+    "title": "Automorphism in gauge theories: Higher symmetries and transversal non-Clifford logical gates, by Po-Shen Hsin, Ryohei Kobayashi",
+    "title_es": "Automorphism in gauge theories: Higher symmetries and transversal non-Clifford logical gates, by Po-Shen Hsin, Ryohei Kobayashi",
+    "url": "https://scipost.org/scipostphys.20.6.159",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-50.2528&long=-94.9206",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
-  },
-  {
-    "title": "Crew-5",
-    "title_es": "Crew-5",
-    "url": "https://youtu.be/5EwW8ZkArL4",
-    "date": "",
-    "published": "",
-    "source": "SpaceX Launches"
   },
   {
     "title": "Derivada de x^2: 2 x",
