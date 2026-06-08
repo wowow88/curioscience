@@ -1,5 +1,13 @@
 [
   {
+    "title": "Real-Time AttentionBender: Granular Interactive Network Bending of Video Diffusion Transformers",
+    "title_es": "Real-Time AttentionBender: Granular Interactive Network Bending of Video Diffusion Transformers",
+    "url": "https://arxiv.org/abs/2606.06497",
+    "published": "2026-06-08T04:00:00.000Z",
+    "date": "2026-06-08",
+    "source": "arXiv"
+  },
+  {
     "title": "Patently imperfect",
     "title_es": "Patently imperfect",
     "url": "https://www.science.org/doi/abs/10.1126/science.aef3173",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
-    "title_es": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
-    "url": "https://www.nature.com/articles/d41586-026-01831-y",
-    "published": "2026-06-05T00:00:00.000Z",
-    "date": "2026-06-05",
+    "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
+    "title_es": "Sustainability or dystopia? What past patterns tell us about where society is heading",
+    "url": "https://www.nature.com/articles/d41586-026-01821-0",
+    "published": "2026-06-08T00:00:00.000Z",
+    "date": "2026-06-08",
     "source": "Nature"
   },
   {
@@ -30,6 +38,14 @@
     "published": "2026-06-03T11:25:07.000Z",
     "date": "2026-06-03",
     "source": "CNIO"
+  },
+  {
+    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+    "title_es": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+    "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+    "published": "2026-06-05T20:44:57.000Z",
+    "date": "2026-06-05",
+    "source": "NASA (Top News)"
   },
   {
     "title": "NASA declares MAVEN, its Mars atmosphere orbiter, dead",
@@ -56,11 +72,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
-    "title_es": "Black teachers improve outcomes for all students, but the profession remains largely white",
-    "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html",
-    "published": "2026-06-07T00:30:03.000Z",
-    "date": "2026-06-07",
+    "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
+    "title_es": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
+    "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html",
+    "published": "2026-06-08T09:50:03.000Z",
+    "date": "2026-06-08",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Why you need to future-proof your brain in middle age and how to start",
-    "title_es": "Why you need to future-proof your brain in middle age and how to start",
-    "url": "https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/",
-    "published": "2026-06-02T18:00:03.000Z",
-    "date": "2026-06-02",
+    "title": "An encyclopedia formed from AI hallucinations – what could go wrong?",
+    "title_es": "An encyclopedia formed from AI hallucinations – what could go wrong?",
+    "url": "https://www.newscientist.com/article/mg27035981-100-an-encyclopedia-formed-from-ai-hallucinations-what-could-go-wrong/",
+    "published": "2026-06-03T18:00:00.000Z",
+    "date": "2026-06-03",
     "source": "New Scientist"
   },
   {
@@ -96,11 +112,11 @@
     "source": "Sci.News"
   },
   {
-    "title": "Book Review: How Radio Astronomy Made the Invisible Visible",
-    "title_es": "Book Review: How Radio Astronomy Made the Invisible Visible",
-    "url": "https://undark.org/2026/06/05/book-review-echoing-universe/",
-    "published": "2026-06-05T07:30:12.000Z",
-    "date": "2026-06-05",
+    "title": "Promising ‘Liquid Biopsies’ May Not Be Ready for Primetime",
+    "title_es": "Promising ‘Liquid Biopsies’ May Not Be Ready for Primetime",
+    "url": "https://undark.org/2026/06/08/liquid-biopsies-cancer/",
+    "published": "2026-06-08T07:07:00.000Z",
+    "date": "2026-06-08",
     "source": "Undark Magazine"
   },
   {
@@ -110,6 +126,22 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Comet R3 PanSTARRS Through Time",
+    "title_es": "Comet R3 PanSTARRS Through Time",
+    "url": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-2.6197&long=-64.8510",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",

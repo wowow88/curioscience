@@ -1,5 +1,19 @@
 [
   {
+    "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
+    "title_es": "¿Sostenibilidad o distopía? ¿Qué nos dicen los patrones pasados ​​sobre hacia dónde se dirige la sociedad?",
+    "url": "https://www.nature.com/articles/d41586-026-01821-0",
+    "date": "2026-06-08",
+    "source": "Nature"
+  },
+  {
+    "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
+    "title_es": "Un terremoto de magnitud 7,8 en Filipinas mata al menos a 19 personas, derriba edificios y provoca un tsunami",
+    "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html",
+    "date": "2026-06-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
     "title_es": "Los científicos finalmente completan la teoría del color de Schrödinger de 100 años de antigüedad",
     "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
@@ -75,6 +89,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
     "date": "2026-06-05",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How reliable are LLMs when it comes to playing dice?",
+    "title_es": "¿Qué tan confiables son los LLM cuando se trata de jugar a los dados?",
+    "url": "http://arxiv.org/abs/2606.07515v1",
+    "date": "2026-06-05",
+    "source": "arXiv"
   },
   {
     "title": "This mysterious lung disease affects millions of people – a drug tested in mice shows promise",
