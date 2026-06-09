@@ -1,5 +1,26 @@
 [
   {
+    "title": "San Francisco’s Metropolitan Mosaic",
+    "title_es": "El mosaico metropolitano de San Francisco",
+    "url": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+    "date": "2026-06-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+    "title_es": "El misterio del planeta nueve se profundiza a medida que un nuevo descubrimiento desafía la teoría de los planetas ocultos",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
+    "date": "2026-06-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Hundreds evacuated as waves batter New Zealand capital",
+    "title_es": "Cientos de personas evacuadas mientras las olas azotan la capital de Nueva Zelanda",
+    "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
+    "date": "2026-06-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
     "title_es": "¿Sostenibilidad o distopía? ¿Qué nos dicen los patrones pasados ​​sobre hacia dónde se dirige la sociedad?",
     "url": "https://www.nature.com/articles/d41586-026-01821-0",
@@ -12,6 +33,55 @@
     "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html",
     "date": "2026-06-08",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Advanced glycation end product accumulation was associated with renal function impairment in males in large health examination population",
+    "title_es": "La acumulación de productos finales de glicación avanzada se asoció con deterioro de la función renal en hombres en una gran población de exámenes de salud",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-08",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "title_es": "OmniGameArena: un punto de referencia UE5 unificado para agentes de juegos VLM con dinámica de mejora",
+    "url": "http://arxiv.org/abs/2606.09826v1",
+    "date": "2026-06-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
+    "title_es": "Las células reguladoras T CD8<sup>+</sup> guiadas por GPR15 controlan la inflamación intestinal",
+    "url": "https://www.nature.com/articles/s41586-026-10749-4",
+    "date": "2026-06-08",
+    "source": "Nature"
+  },
+  {
+    "title": "La SEC visita el CNIC para reforzar su colaboración estratégica en investigación, formación e innovación cardiovascular",
+    "title_es": "La SEC visita el CNIC para reforzar su colaboración estratégica en investigación, formación e innovación cardiovascular",
+    "url": "https://www.cnic.es/es/noticias/sec-visita-cnic-para-reforzar-su-colaboracion-estrategica-investigacion-formacion-e",
+    "date": "2026-06-08",
+    "source": "CNIC"
+  },
+  {
+    "title": "Comunicado del Patronato del CNIO",
+    "title_es": "Comunicado del Patronato del CNIO",
+    "url": "https://www.cnio.es/noticias/comunicado-del-patronato-del-cnio-4/",
+    "date": "2026-06-08",
+    "source": "CNIO"
+  },
+  {
+    "title": "Some pterosaurs may have boasted bold iridescence",
+    "title_es": "Algunos pterosaurios pueden haber presumido de una audaz iridiscencia",
+    "url": "https://www.sciencenews.org/article/pterosaurs-iridescent-feathers-fossil",
+    "date": "2026-06-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Synesthesia",
+    "title_es": "Los científicos dicen: sinestesia",
+    "url": "https://www.snexplores.org/article/scientists-say-synesthesia-definition-pronunciation",
+    "date": "2026-06-08",
+    "source": "Science News Explores"
   },
   {
     "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-06-dangerous-livestock-pest-case-texas.html",
     "date": "2026-06-05",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Genomic insights into population structure and adaptive variation of <i>Pimelodus yum</i>a and <i>Pimelodus grosskopfii</i> in the Magdalena-Cauca Basin",
-    "title_es": "Conocimientos genómicos sobre la estructura poblacional y la variación adaptativa de <i>Pimelodus yum</i>a y <i>Pimelodus grosskopfii</i> en la cuenca Magdalena-Cauca",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-05",
-    "source": "PLOS ONE"
   },
   {
     "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",

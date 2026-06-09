@@ -1,5 +1,53 @@
 [
   {
+    "title": "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games",
+    "title_es": "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games",
+    "url": "https://arxiv.org/abs/2606.07790",
+    "published": "2026-06-09T04:00:00.000Z",
+    "date": "2026-06-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "San Francisco’s Metropolitan Mosaic",
+    "title_es": "El mosaico metropolitano de San Francisco",
+    "url": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+    "date": "2026-06-09",
+    "source": "NASA (Top News)",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+    "title_es": "El misterio del planeta nueve se profundiza a medida que un nuevo descubrimiento desafía la teoría de los planetas ocultos",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
+    "date": "2026-06-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Hundreds evacuated as waves batter New Zealand capital",
+    "title_es": "Cientos de personas evacuadas mientras las olas azotan la capital de Nueva Zelanda",
+    "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
+    "date": "2026-06-09",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Ornithologists Describe New Bird Species from Remote Indonesian Islands",
+    "title_es": "Ornithologists Describe New Bird Species from Remote Indonesian Islands",
+    "url": "https://www.sci.news/biology/rhipidura-laguceria-14829.html",
+    "published": "2026-06-08T20:55:01.000Z",
+    "date": "2026-06-08",
+    "source": "Sci.News"
+  },
+  {
+    "title": "You don't need to worry about recursive-self-improving AI – yet",
+    "title_es": "You don't need to worry about recursive-self-improving AI – yet",
+    "url": "https://www.newscientist.com/article/2529553-you-dont-need-to-worry-about-recursive-self-improving-ai-yet/",
+    "published": "2026-06-08T18:14:51.000Z",
+    "date": "2026-06-08",
+    "source": "New Scientist"
+  },
+  {
     "title": "Promising ‘Liquid Biopsies’ May Not Be Ready for Primetime",
     "title_es": "Promising ‘Liquid Biopsies’ May Not Be Ready for Primetime",
     "url": "https://undark.org/2026/06/08/liquid-biopsies-cancer/",
@@ -29,6 +77,54 @@
     "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html",
     "date": "2026-06-08",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "title_es": "OmniGameArena: un punto de referencia UE5 unificado para agentes de juegos VLM con dinámica de mejora",
+    "url": "http://arxiv.org/abs/2606.09826v1",
+    "date": "2026-06-08",
+    "source": "arXiv",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "GPR15-guided CD8 + T regulatory cells control intestinal inflammation",
+    "title_es": "Las células reguladoras T CD8<sup>+</sup> guiadas por GPR15 controlan la inflamación intestinal",
+    "url": "https://www.nature.com/articles/s41586-026-10749-4",
+    "date": "2026-06-08",
+    "source": "Nature",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "La SEC visita el CNIC para reforzar su colaboración estratégica en investigación, formación e innovación cardiovascular",
+    "title_es": "La SEC visita el CNIC para reforzar su colaboración estratégica en investigación, formación e innovación cardiovascular",
+    "url": "https://www.cnic.es/es/noticias/sec-visita-cnic-para-reforzar-su-colaboracion-estrategica-investigacion-formacion-e",
+    "date": "2026-06-08",
+    "source": "CNIC",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "Comunicado del Patronato del CNIO",
+    "title_es": "Comunicado del Patronato del CNIO",
+    "url": "https://www.cnio.es/noticias/comunicado-del-patronato-del-cnio-4/",
+    "date": "2026-06-08",
+    "source": "CNIO",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "Some pterosaurs may have boasted bold iridescence",
+    "title_es": "Algunos pterosaurios pueden haber presumido de una audaz iridiscencia",
+    "url": "https://www.sciencenews.org/article/pterosaurs-iridescent-feathers-fossil",
+    "date": "2026-06-08",
+    "source": "Science News",
+    "published": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Synesthesia",
+    "title_es": "Los científicos dicen: sinestesia",
+    "url": "https://www.snexplores.org/article/scientists-say-synesthesia-definition-pronunciation",
+    "date": "2026-06-08",
+    "source": "Science News Explores",
     "published": "2026-06-08T00:00:00.000Z"
   },
   {
@@ -112,7 +208,7 @@
     "published": "2026-06-05T00:00:00.000Z"
   },
   {
-    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+    "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
     "title_es": "El avión X-59 de la NASA vuela supersónico por primera vez",
     "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
     "date": "2026-06-05",
@@ -26431,8 +26527,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Genomic insights into population structure and adaptive variation of Pimelodus yum a and Pimelodus grosskopfii in the Magdalena-Cauca Basin",
-    "title_es": "Conocimientos genómicos sobre la estructura poblacional y la variación adaptativa de <i>Pimelodus yum</i>a y <i>Pimelodus grosskopfii</i> en la cuenca Magdalena-Cauca",
+    "title": "Advanced glycation end product accumulation was associated with renal function impairment in males in large health examination population",
+    "title_es": "La acumulación de productos finales de glicación avanzada se asoció con deterioro de la función renal en hombres en una gran población de exámenes de salud",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61292,5 +61388,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "On the simulated kinematic distributions of heavy meson decays, by Florian Herren, Raynette van Tonder",
+    "title_es": "On the simulated kinematic distributions of heavy meson decays, by Florian Herren, Raynette van Tonder",
+    "url": "https://scipost.org/scipostphys.20.6.161",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
