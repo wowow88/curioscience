@@ -1,5 +1,53 @@
 [
   {
+    "title": "Robots are about to overtake armed soldiers as the deciders of war",
+    "title_es": "Robots are about to overtake armed soldiers as the deciders of war",
+    "url": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/",
+    "published": "2026-06-10T06:00:55.000Z",
+    "date": "2026-06-10",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?",
+    "title_es": "Clasificación de líderes de investigación del Nature Index 2026: ¿están los vecinos de Asia oriental de China a la par?",
+    "url": "https://www.nature.com/articles/d41586-026-01662-x",
+    "date": "2026-06-10",
+    "source": "Nature",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Tyndall’s Trail of Bergs",
+    "title_es": "El rastro de Bergs de Tyndall",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
+    "date": "2026-06-10",
+    "source": "NASA (Top News)",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
+    "title_es": "El popular suplemento para las articulaciones, la glucosamina, se relaciona con una progresión más rápida del Alzheimer",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
+    "date": "2026-06-10",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Quantum witness technique reveals spinons in quantum spin liquid candidate",
+    "title_es": "La técnica del testigo cuántico revela espinones en un candidato líquido de espín cuántico",
+    "url": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
+    "date": "2026-06-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Fossil Discovery in Patagonia Reveals New Species of Horned Turtle",
+    "title_es": "Fossil Discovery in Patagonia Reveals New Species of Horned Turtle",
+    "url": "https://www.sci.news/paleontology/patagoniaemys-aeschyli-14832.html",
+    "published": "2026-06-09T21:31:30.000Z",
+    "date": "2026-06-09",
+    "source": "Sci.News"
+  },
+  {
     "title": "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games",
     "title_es": "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games",
     "url": "https://arxiv.org/abs/2606.07790",
@@ -29,6 +77,46 @@
     "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
     "date": "2026-06-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+    "title_es": "Una lente unificadora sobre el ajuste supervisado a través del diseño de distribución objetivo",
+    "url": "http://arxiv.org/abs/2606.11189v1",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Cazadores de genes: aprende a descifrar el código del cáncer en el Máster de Bioinformática",
+    "title_es": "Cazadores de genes: aprende a descifrar el código del cáncer en el Máster de Bioinformática",
+    "url": "https://www.cnio.es/noticias/cazadores-de-genes-aprende-a-descifrar-el-codigo-del-cancer-en-el-master-de-bioinformatica/",
+    "date": "2026-06-09",
+    "source": "CNIO",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/tenerife-acoge-la-primera-edicion-del-premio-cosmos-en-espana\" hreflang=\"es\">Tenerife acoge la primera edición del Premio Cosmos en España</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/tenerife-acoge-la-primera-edicion-del-premio-cosmos-en-espana\" hreflang=\"es\">Tenerife acoge la primera edición del Premio Cosmos en España</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/tenerife-acoge-la-primera-edicion-del-premio-cosmos-en-espana",
+    "date": "2026-06-09",
+    "source": "IAC",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Frozen squirrel poop hints at sights and smells of Ice Age ecosystems",
+    "title_es": "La caca de ardilla congelada insinúa vistas y olores de los ecosistemas de la Edad del Hielo",
+    "url": "https://www.sciencenews.org/article/frozen-squirrel-poop-ice-age-ecosystems",
+    "date": "2026-06-09",
+    "source": "Science News",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "Imagination is not just replaying what we’ve seen and heard",
+    "title_es": "La imaginación no es sólo reproducir lo que hemos visto y oído",
+    "url": "https://www.snexplores.org/article/brain-imagination-see-hear",
+    "date": "2026-06-09",
+    "source": "Science News Explores",
     "published": "2026-06-09T00:00:00.000Z"
   },
   {
@@ -88,7 +176,7 @@
     "published": "2026-06-08T00:00:00.000Z"
   },
   {
-    "title": "GPR15-guided CD8 + T regulatory cells control intestinal inflammation",
+    "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
     "title_es": "Las células reguladoras T CD8<sup>+</sup> guiadas por GPR15 controlan la inflamación intestinal",
     "url": "https://www.nature.com/articles/s41586-026-10749-4",
     "date": "2026-06-08",
@@ -26527,8 +26615,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Advanced glycation end product accumulation was associated with renal function impairment in males in large health examination population",
-    "title_es": "La acumulación de productos finales de glicación avanzada se asoció con deterioro de la función renal en hombres en una gran población de exámenes de salud",
+    "title": "Risk factors for fecal incontinence after surgery for cryptoglandular anal fistula: Protocol of a meta-analytic study",
+    "title_es": "Factores de riesgo de incontinencia fecal poscirugía de fístula anal criptoglandular: protocolo de un estudio metaanalítico",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61393,6 +61481,14 @@
     "title": "On the simulated kinematic distributions of heavy meson decays, by Florian Herren, Raynette van Tonder",
     "title_es": "On the simulated kinematic distributions of heavy meson decays, by Florian Herren, Raynette van Tonder",
     "url": "https://scipost.org/scipostphys.20.6.161",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Codebase release r2.0 for SmoQyDQMC.jl, by Benjamin Cohen-Stead, Shruti Agarwal, Sohan Malkaruge Costa, James Neuhaus, Andy Tanjaroon Ly, Yutan Zhang, Richard Scalettar, Kipton Barros, Steven Johnston",
+    "title_es": "Codebase release r2.0 for SmoQyDQMC.jl, by Benjamin Cohen-Stead, Shruti Agarwal, Sohan Malkaruge Costa, James Neuhaus, Andy Tanjaroon Ly, Yutan Zhang, Richard Scalettar, Kipton Barros, Steven Johnston",
+    "url": "https://scipost.org/scipostphyscodeb.29-r2.0",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
