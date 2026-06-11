@@ -1,5 +1,53 @@
 [
   {
+    "title": "Automated Scoring of Arabic Text Using Large Language Models: A Literature Review",
+    "title_es": "Automated Scoring of Arabic Text Using Large Language Models: A Literature Review",
+    "url": "https://arxiv.org/abs/2606.09830",
+    "published": "2026-06-11T04:00:00.000Z",
+    "date": "2026-06-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Online tool that flags suspicious journals could warn researchers before submission",
+    "title_es": "Una herramienta en línea que detecta revistas sospechosas podría advertir a los investigadores antes de enviarlas",
+    "url": "https://www.nature.com/articles/d41586-026-01707-1",
+    "date": "2026-06-11",
+    "source": "Nature",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Air Pollution’s Daily Pulse Over the Northeast",
+    "title_es": "El pulso diario de la contaminación del aire en el noreste",
+    "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+    "date": "2026-06-11",
+    "source": "NASA (Top News)",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Weaker monsoon, bigger risks: Intense downpours could still hit South Asia hard",
+    "title_es": "Monzón más débil, mayores riesgos: las intensas lluvias aún podrían afectar duramente al sur de Asia",
+    "url": "https://phys.org/news/2026-06-weaker-monsoon-bigger-intense-downpours.html",
+    "date": "2026-06-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Study: Cave Lions were Distinct Species that Occasionally Bred with Ancestors of Today’s Lions",
+    "title_es": "Study: Cave Lions were Distinct Species that Occasionally Bred with Ancestors of Today’s Lions",
+    "url": "https://www.sci.news/paleontology/cave-lions-14837.html",
+    "published": "2026-06-10T22:54:32.000Z",
+    "date": "2026-06-10",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Fully autonomous drones have killed human soldiers for the first time",
+    "title_es": "Fully autonomous drones have killed human soldiers for the first time",
+    "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+    "published": "2026-06-10T13:00:23.000Z",
+    "date": "2026-06-10",
+    "source": "New Scientist"
+  },
+  {
     "title": "Robots are about to overtake armed soldiers as the deciders of war",
     "title_es": "Robots are about to overtake armed soldiers as the deciders of war",
     "url": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/",
@@ -37,6 +85,54 @@
     "url": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
     "date": "2026-06-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+    "title_es": "Redirigir, no eliminar: enrutamiento de tokens visuales recuperables para modelos de lenguaje visual",
+    "url": "http://arxiv.org/abs/2606.12412v1",
+    "date": "2026-06-10",
+    "source": "arXiv",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Nature: Cells Have a Secret Power Line: Scientists Discover How the Nucleus Gets Its Own Private Energy Supply",
+    "title_es": "Nature: Cells Have a Secret Power Line: Scientists Discover How the Nucleus Gets Its Own Private Energy Supply",
+    "url": "https://www.cnic.es/es/node/242903",
+    "date": "2026-06-10",
+    "source": "CNIC",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec\" hreflang=\"es\">El IAC acoge la reunión del Comité del Programa Científico de la ESA en las instalaciones de IACTEC</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec\" hreflang=\"es\">El IAC acoge la reunión del Comité del Programa Científico de la ESA en las instalaciones de IACTEC</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec",
+    "date": "2026-06-10",
+    "source": "IAC",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "A new guideline links care for heart, kidney and metabolic diseases",
+    "title_es": "Una nueva directriz vincula la atención de las enfermedades cardíacas, renales y metabólicas",
+    "url": "https://www.sciencenews.org/article/heart-diabetes-kidney-disease-treatment",
+    "date": "2026-06-10",
+    "source": "Science News",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Like living mood rings, these bees change color when it turns humid",
+    "title_es": "Como anillos de humor vivos, estas abejas cambian de color cuando hay humedad",
+    "url": "https://www.snexplores.org/article/bees-change-color-humidity",
+    "date": "2026-06-10",
+    "source": "Science News Explores",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists propose a radical new theory for how life began on Earth",
+    "title_es": "Los científicos proponen una nueva teoría radical sobre cómo comenzó la vida en la Tierra",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+    "date": "2026-06-10",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-10T00:00:00.000Z"
   },
   {
@@ -26615,8 +26711,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Risk factors for fecal incontinence after surgery for cryptoglandular anal fistula: Protocol of a meta-analytic study",
-    "title_es": "Factores de riesgo de incontinencia fecal poscirugía de fístula anal criptoglandular: protocolo de un estudio metaanalítico",
+    "title": "Correction: Family support after a family member’s suicide: A qualitative exploration",
+    "title_es": "Corrección: Apoyo familiar tras el suicidio de un familiar: una exploración cualitativa",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61489,6 +61585,14 @@
     "title": "Codebase release r2.0 for SmoQyDQMC.jl, by Benjamin Cohen-Stead, Shruti Agarwal, Sohan Malkaruge Costa, James Neuhaus, Andy Tanjaroon Ly, Yutan Zhang, Richard Scalettar, Kipton Barros, Steven Johnston",
     "title_es": "Codebase release r2.0 for SmoQyDQMC.jl, by Benjamin Cohen-Stead, Shruti Agarwal, Sohan Malkaruge Costa, James Neuhaus, Andy Tanjaroon Ly, Yutan Zhang, Richard Scalettar, Kipton Barros, Steven Johnston",
     "url": "https://scipost.org/scipostphyscodeb.29-r2.0",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Codebase release 1.0 for history, by Sven Yannick Klein, Lukas Simon",
+    "title_es": "Codebase release 1.0 for history, by Sven Yannick Klein, Lukas Simon",
+    "url": "https://scipost.org/scipostphyscodeb.74-r1.0",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

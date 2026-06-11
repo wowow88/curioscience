@@ -1,5 +1,26 @@
 [
   {
+    "title": "Online tool that flags suspicious journals could warn researchers before submission",
+    "title_es": "Una herramienta en línea que detecta revistas sospechosas podría advertir a los investigadores antes de enviarlas",
+    "url": "https://www.nature.com/articles/d41586-026-01707-1",
+    "date": "2026-06-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Air Pollution’s Daily Pulse Over the Northeast",
+    "title_es": "El pulso diario de la contaminación del aire en el noreste",
+    "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+    "date": "2026-06-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Weaker monsoon, bigger risks: Intense downpours could still hit South Asia hard",
+    "title_es": "Monzón más débil, mayores riesgos: las intensas lluvias aún podrían afectar duramente al sur de Asia",
+    "url": "https://phys.org/news/2026-06-weaker-monsoon-bigger-intense-downpours.html",
+    "date": "2026-06-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?",
     "title_es": "Clasificación de líderes de investigación del Nature Index 2026: ¿están los vecinos de Asia oriental de China a la par?",
     "url": "https://www.nature.com/articles/d41586-026-01662-x",
@@ -28,6 +49,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Family support after a family member’s suicide: A qualitative exploration",
+    "title_es": "Corrección: Apoyo familiar tras el suicidio de un familiar: una exploración cualitativa",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-10",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+    "title_es": "Redirigir, no eliminar: enrutamiento de tokens visuales recuperables para modelos de lenguaje visual",
+    "url": "http://arxiv.org/abs/2606.12412v1",
+    "date": "2026-06-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Nature: Cells Have a Secret Power Line: Scientists Discover How the Nucleus Gets Its Own Private Energy Supply",
+    "title_es": "Nature: Cells Have a Secret Power Line: Scientists Discover How the Nucleus Gets Its Own Private Energy Supply",
+    "url": "https://www.cnic.es/es/node/242903",
+    "date": "2026-06-10",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec\" hreflang=\"es\">El IAC acoge la reunión del Comité del Programa Científico de la ESA en las instalaciones de IACTEC</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec\" hreflang=\"es\">El IAC acoge la reunión del Comité del Programa Científico de la ESA en las instalaciones de IACTEC</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-la-reunion-del-comite-del-programa-cientifico-de-la-esa-en-las-instalaciones-de-iactec",
+    "date": "2026-06-10",
+    "source": "IAC"
+  },
+  {
+    "title": "A new guideline links care for heart, kidney and metabolic diseases",
+    "title_es": "Una nueva directriz vincula la atención de las enfermedades cardíacas, renales y metabólicas",
+    "url": "https://www.sciencenews.org/article/heart-diabetes-kidney-disease-treatment",
+    "date": "2026-06-10",
+    "source": "Science News"
+  },
+  {
+    "title": "Like living mood rings, these bees change color when it turns humid",
+    "title_es": "Como anillos de humor vivos, estas abejas cambian de color cuando hay humedad",
+    "url": "https://www.snexplores.org/article/bees-change-color-humidity",
+    "date": "2026-06-10",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists propose a radical new theory for how life began on Earth",
+    "title_es": "Los científicos proponen una nueva teoría radical sobre cómo comenzó la vida en la Tierra",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+    "date": "2026-06-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "San Francisco’s Metropolitan Mosaic",
     "title_es": "El mosaico metropolitano de San Francisco",
     "url": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
@@ -47,13 +117,6 @@
     "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
     "date": "2026-06-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Risk factors for fecal incontinence after surgery for cryptoglandular anal fistula: Protocol of a meta-analytic study",
-    "title_es": "Factores de riesgo de incontinencia fecal poscirugía de fístula anal criptoglandular: protocolo de un estudio metaanalítico",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
