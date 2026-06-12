@@ -1,5 +1,12 @@
 [
   {
+    "title": "One photon, two reactions—new catalyst converts CO₂ and biowaste simultaneously",
+    "title_es": "Un fotón, dos reacciones: el nuevo catalizador convierte CO₂ y biorresiduos simultáneamente",
+    "url": "https://phys.org/news/2026-06-photon-reactions-catalyst-biowaste-simultaneously.html",
+    "date": "2026-06-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Online tool that flags suspicious journals could warn researchers before submission",
     "title_es": "Una herramienta en línea que detecta revistas sospechosas podría advertir a los investigadores antes de enviarlas",
     "url": "https://www.nature.com/articles/d41586-026-01707-1",
@@ -19,6 +26,62 @@
     "url": "https://phys.org/news/2026-06-weaker-monsoon-bigger-intense-downpours.html",
     "date": "2026-06-11",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Development and validation of a scale for the psychological determinants of dietary management behavior in hemodialysis patients during dialysis",
+    "title_es": "Desarrollo y validación de una escala para los determinantes psicológicos del comportamiento de manejo dietético en pacientes en hemodiálisis durante la diálisis.",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+    "title_es": "Aprender a razonar por analogía mediante el ajuste fino del refuerzo con recuperación aumentada",
+    "url": "http://arxiv.org/abs/2606.13680v1",
+    "date": "2026-06-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Summer reading 2026",
+    "title_es": "Lectura de verano 2026",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei7768",
+    "date": "2026-06-11",
+    "source": "Science.org"
+  },
+  {
+    "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+    "title_es": "Corrección del autor: Plasticidad y lenguaje en el hipocampo humano anestesiado",
+    "url": "https://www.nature.com/articles/s41586-026-10784-1",
+    "date": "2026-06-11",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular “SAFE HEARTS PLAN”",
+    "title_es": "El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular “SAFE HEARTS PLAN”",
+    "url": "https://www.cnic.es/es/noticias/cnic-fundacion-astrazeneca-reunen-madrid-jovenes-cientificos-lideres-europeos-para-impulsar",
+    "date": "2026-06-11",
+    "source": "CNIC"
+  },
+  {
+    "title": "Songs prep the brains of finches yet to hatch for a hot world",
+    "title_es": "Las canciones preparan el cerebro de los pinzones que aún no han nacido para un mundo cálido",
+    "url": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
+    "date": "2026-06-11",
+    "source": "Science News"
+  },
+  {
+    "title": "Caffeine may dial down genes crucial for brain development, teen finds",
+    "title_es": "La cafeína puede reducir genes cruciales para el desarrollo del cerebro, encuentra un adolescente",
+    "url": "https://www.snexplores.org/article/caffeine-brain-development-genes",
+    "date": "2026-06-11",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists discover a strange property in rice and turn it into a smart material",
+    "title_es": "Los científicos descubren una extraña propiedad en el arroz y lo convierten en un material inteligente",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+    "date": "2026-06-11",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?",
@@ -47,13 +110,6 @@
     "url": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
     "date": "2026-06-10",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Family support after a family member’s suicide: A qualitative exploration",
-    "title_es": "Corrección: Apoyo familiar tras el suicidio de un familiar: una exploración cualitativa",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-10",
-    "source": "PLOS ONE"
   },
   {
     "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",

@@ -1,5 +1,37 @@
 [
   {
+    "title": "How to sparkle in conversation with strangers",
+    "title_es": "How to sparkle in conversation with strangers",
+    "url": "https://www.newscientist.com/article/2530034-how-to-sparkle-in-conversation-with-strangers/",
+    "published": "2026-06-12T09:00:50.000Z",
+    "date": "2026-06-12",
+    "source": "New Scientist"
+  },
+  {
+    "title": "AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas",
+    "title_es": "AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas",
+    "url": "https://arxiv.org/abs/2606.12413",
+    "published": "2026-06-12T04:00:00.000Z",
+    "date": "2026-06-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "One photon, two reactions—new catalyst converts CO₂ and biowaste simultaneously",
+    "title_es": "Un fotón, dos reacciones: el nuevo catalizador convierte CO₂ y biorresiduos simultáneamente",
+    "url": "https://phys.org/news/2026-06-photon-reactions-catalyst-biowaste-simultaneously.html",
+    "date": "2026-06-12",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "New Species of Ancient Bear-Dog Identified in Spain",
+    "title_es": "New Species of Ancient Bear-Dog Identified in Spain",
+    "url": "https://www.sci.news/paleontology/paludocyon-moyasolai-14840.html",
+    "published": "2026-06-11T21:46:18.000Z",
+    "date": "2026-06-11",
+    "source": "Sci.News"
+  },
+  {
     "title": "Automated Scoring of Arabic Text Using Large Language Models: A Literature Review",
     "title_es": "Automated Scoring of Arabic Text Using Large Language Models: A Literature Review",
     "url": "https://arxiv.org/abs/2606.09830",
@@ -29,6 +61,62 @@
     "url": "https://phys.org/news/2026-06-weaker-monsoon-bigger-intense-downpours.html",
     "date": "2026-06-11",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+    "title_es": "Aprender a razonar por analogía mediante el ajuste fino del refuerzo con recuperación aumentada",
+    "url": "http://arxiv.org/abs/2606.13680v1",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Summer reading 2026",
+    "title_es": "Lectura de verano 2026",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei7768",
+    "date": "2026-06-11",
+    "source": "Science.org",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+    "title_es": "Corrección del autor: Plasticidad y lenguaje en el hipocampo humano anestesiado",
+    "url": "https://www.nature.com/articles/s41586-026-10784-1",
+    "date": "2026-06-11",
+    "source": "Nature",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular “SAFE HEARTS PLAN”",
+    "title_es": "El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular “SAFE HEARTS PLAN”",
+    "url": "https://www.cnic.es/es/noticias/cnic-fundacion-astrazeneca-reunen-madrid-jovenes-cientificos-lideres-europeos-para-impulsar",
+    "date": "2026-06-11",
+    "source": "CNIC",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Songs prep the brains of finches yet to hatch for a hot world",
+    "title_es": "Las canciones preparan el cerebro de los pinzones que aún no han nacido para un mundo cálido",
+    "url": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
+    "date": "2026-06-11",
+    "source": "Science News",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Caffeine may dial down genes crucial for brain development, teen finds",
+    "title_es": "La cafeína puede reducir genes cruciales para el desarrollo del cerebro, encuentra un adolescente",
+    "url": "https://www.snexplores.org/article/caffeine-brain-development-genes",
+    "date": "2026-06-11",
+    "source": "Science News Explores",
+    "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a strange property in rice and turn it into a smart material",
+    "title_es": "Los científicos descubren una extraña propiedad en el arroz y lo convierten en un material inteligente",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+    "date": "2026-06-11",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-11T00:00:00.000Z"
   },
   {
@@ -26711,8 +26799,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Family support after a family member’s suicide: A qualitative exploration",
-    "title_es": "Corrección: Apoyo familiar tras el suicidio de un familiar: una exploración cualitativa",
+    "title": "Development and validation of a scale for the psychological determinants of dietary management behavior in hemodialysis patients during dialysis",
+    "title_es": "Desarrollo y validación de una escala para los determinantes psicológicos del comportamiento de manejo dietético en pacientes en hemodiálisis durante la diálisis.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61596,5 +61684,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "atomSmltr: A modular Python package to simulate laser cooling setups, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "title_es": "atomSmltr: A modular Python package to simulate laser cooling setups, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "url": "https://scipost.org/scipostphyscodeb.76",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Venus and Jupiter: Conjunction from Avebury",
+    "title_es": "Venus and Jupiter: Conjunction from Avebury",
+    "url": "https://apod.nasa.gov/apod/image/2606/cosmickissthecoveaveburydury1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
