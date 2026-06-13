@@ -1,5 +1,37 @@
 [
   {
+    "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
+    "title_es": "Las células musculares caninas cultivadas en laboratorio ofrecen una solución para pruebas terapéuticas tempranas",
+    "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
+    "date": "2026-06-13",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "title": "In California, a Plan to Help Wildlife Cross a Busy Freeway",
+    "title_es": "In California, a Plan to Help Wildlife Cross a Busy Freeway",
+    "url": "https://undark.org/2026/06/12/california-wildlife-crossing/",
+    "published": "2026-06-12T17:50:24.000Z",
+    "date": "2026-06-12",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "The relationship recession is even bigger for Gen Z than we thought",
+    "title_es": "The relationship recession is even bigger for Gen Z than we thought",
+    "url": "https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/",
+    "published": "2026-06-12T17:00:59.000Z",
+    "date": "2026-06-12",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Astronomers May Have Found Supernova Remnant near Milky Way’s Central Black Hole",
+    "title_es": "Astronomers May Have Found Supernova Remnant near Milky Way’s Central Black Hole",
+    "url": "https://www.sci.news/astronomy/sagittarius-c-supernova-remnant-14841.html",
+    "published": "2026-06-12T15:43:13.000Z",
+    "date": "2026-06-12",
+    "source": "Sci.News"
+  },
+  {
     "title": "How to sparkle in conversation with strangers",
     "title_es": "How to sparkle in conversation with strangers",
     "url": "https://www.newscientist.com/article/2530034-how-to-sparkle-in-conversation-with-strangers/",
@@ -21,6 +53,30 @@
     "url": "https://phys.org/news/2026-06-photon-reactions-catalyst-biowaste-simultaneously.html",
     "date": "2026-06-12",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "Why we seek to fly: Books in brief",
+    "title_es": "Por qué buscamos volar: Libros breves",
+    "url": "https://www.nature.com/articles/d41586-026-01911-z",
+    "date": "2026-06-12",
+    "source": "Nature",
+    "published": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "A popular sunscreen ingredient can finally be sold in the United States",
+    "title_es": "Un popular ingrediente de protección solar finalmente puede venderse en Estados Unidos",
+    "url": "https://www.sciencenews.org/article/sunscreen-bemotrizinol-fda-safe",
+    "date": "2026-06-12",
+    "source": "Science News",
+    "published": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "These tiny holes could change how the world cleans water",
+    "title_es": "Estos pequeños agujeros podrían cambiar la forma en que el mundo limpia el agua",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+    "date": "2026-06-12",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-12T00:00:00.000Z"
   },
   {
@@ -26799,8 +26855,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Development and validation of a scale for the psychological determinants of dietary management behavior in hemodialysis patients during dialysis",
-    "title_es": "Desarrollo y validación de una escala para los determinantes psicológicos del comportamiento de manejo dietético en pacientes en hemodiálisis durante la diálisis.",
+    "title": "Correction: A new criterion for defining tunnel portal failure using the strength reduction method",
+    "title_es": "Corrección: un nuevo criterio para definir la falla del portal de un túnel utilizando el método de reducción de resistencia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61697,6 +61753,14 @@
     "title": "Venus and Jupiter: Conjunction from Avebury",
     "title_es": "Venus and Jupiter: Conjunction from Avebury",
     "url": "https://apod.nasa.gov/apod/image/2606/cosmickissthecoveaveburydury1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Interplanetary Earth",
+    "title_es": "Interplanetary Earth",
+    "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
