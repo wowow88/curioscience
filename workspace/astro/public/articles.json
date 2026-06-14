@@ -1,5 +1,21 @@
 [
   {
+    "title": "A dying star could create a new universe instead of a black hole",
+    "title_es": "Una estrella moribunda podría crear un nuevo universo en lugar de un agujero negro",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+    "date": "2026-06-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "title": "Unique chromium beam experiment unlocks cosmic ray origins and galactic chemistry",
+    "title_es": "Un experimento único con haz de cromo descubre los orígenes de los rayos cósmicos y la química galáctica",
+    "url": "https://phys.org/news/2026-06-unique-chromium-cosmic-ray-galactic.html",
+    "date": "2026-06-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-14T00:00:00.000Z"
+  },
+  {
     "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
     "title_es": "Las células musculares caninas cultivadas en laboratorio ofrecen una solución para pruebas terapéuticas tempranas",
     "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
@@ -372,6 +388,14 @@
     "title_es": "You don't need to worry about recursive-self-improving AI – yet",
     "url": "https://www.newscientist.com/article/2529553-you-dont-need-to-worry-about-recursive-self-improving-ai-yet/",
     "published": "2026-06-08T18:14:51.000Z",
+    "date": "2026-06-08",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Understanding anorexia’s grip on the brain could unlock new therapies",
+    "title_es": "Understanding anorexia’s grip on the brain could unlock new therapies",
+    "url": "https://www.newscientist.com/article/2528588-understanding-anorexias-grip-on-the-brain-could-unlock-new-therapies/",
+    "published": "2026-06-08T14:00:41.000Z",
     "date": "2026-06-08",
     "source": "New Scientist"
   },
@@ -61761,6 +61785,22 @@
     "title": "Interplanetary Earth",
     "title_es": "Interplanetary Earth",
     "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Codebase release 0.1 for atomSmltr, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "title_es": "Codebase release 0.1 for atomSmltr, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "url": "https://scipost.org/scipostphyscodeb.76-r0.1",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "10 Days of Venus and Jupiter",
+    "title_es": "10 Days of Venus and Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/2606/venusjupiter10_pawar_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

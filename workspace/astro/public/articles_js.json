@@ -24,14 +24,6 @@
     "source": "CNIC"
   },
   {
-    "title": "Cazadores de genes: aprende a descifrar el código del cáncer en el Máster de Bioinformática",
-    "title_es": "Cazadores de genes: aprende a descifrar el código del cáncer en el Máster de Bioinformática",
-    "url": "https://www.cnio.es/noticias/cazadores-de-genes-aprende-a-descifrar-el-codigo-del-cancer-en-el-master-de-bioinformatica/",
-    "published": "2026-06-09T14:39:39.000Z",
-    "date": "2026-06-09",
-    "source": "CNIO"
-  },
-  {
     "title": "A popular sunscreen ingredient can finally be sold in the United States",
     "title_es": "A popular sunscreen ingredient can finally be sold in the United States",
     "url": "https://www.sciencenews.org/article/sunscreen-bemotrizinol-fda-safe",
@@ -48,19 +40,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "These tiny holes could change how the world cleans water",
-    "title_es": "These tiny holes could change how the world cleans water",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
-    "published": "2026-06-12T13:13:19.000Z",
-    "date": "2026-06-12",
+    "title": "A dying star could create a new universe instead of a black hole",
+    "title_es": "A dying star could create a new universe instead of a black hole",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+    "published": "2026-06-14T08:08:31.000Z",
+    "date": "2026-06-14",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
-    "title_es": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
-    "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
-    "published": "2026-06-13T02:40:01.000Z",
-    "date": "2026-06-13",
+    "title": "Unique chromium beam experiment unlocks cosmic ray origins and galactic chemistry",
+    "title_es": "Unique chromium beam experiment unlocks cosmic ray origins and galactic chemistry",
+    "url": "https://phys.org/news/2026-06-unique-chromium-cosmic-ray-galactic.html",
+    "published": "2026-06-14T03:20:01.000Z",
+    "date": "2026-06-14",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +64,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "The relationship recession is even bigger for Gen Z than we thought",
-    "title_es": "The relationship recession is even bigger for Gen Z than we thought",
-    "url": "https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/",
-    "published": "2026-06-12T17:00:59.000Z",
-    "date": "2026-06-12",
+    "title": "Understanding anorexia’s grip on the brain could unlock new therapies",
+    "title_es": "Understanding anorexia’s grip on the brain could unlock new therapies",
+    "url": "https://www.newscientist.com/article/2528588-understanding-anorexias-grip-on-the-brain-could-unlock-new-therapies/",
+    "published": "2026-06-08T14:00:41.000Z",
+    "date": "2026-06-08",
     "source": "New Scientist"
   },
   {
@@ -104,17 +96,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "atomSmltr: A modular Python package to simulate laser cooling setups, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
-    "title_es": "atomSmltr: A modular Python package to simulate laser cooling setups, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
-    "url": "https://scipost.org/scipostphyscodeb.76",
+    "title": "Codebase release 0.1 for atomSmltr, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "title_es": "Codebase release 0.1 for atomSmltr, by Mateo Weill, Andrea Bertoldi, Alexandre Dareau",
+    "url": "https://scipost.org/scipostphyscodeb.76-r0.1",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Interplanetary Earth",
-    "title_es": "Interplanetary Earth",
-    "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
+    "title": "10 Days of Venus and Jupiter",
+    "title_es": "10 Days of Venus and Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +114,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-31.1125&long=137.5417",
+    "url": "https://www.latlong.net/c/?lat=40.8685&long=54.5271",
     "date": "",
     "published": "",
     "source": "ISS Position"
