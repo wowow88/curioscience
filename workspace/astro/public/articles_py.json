@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bones of Iron Age skeleton were whittled into tools",
+    "title_es": "Los huesos del esqueleto de la Edad del Hierro se convirtieron en herramientas",
+    "url": "https://www.nature.com/articles/d41586-026-01833-w",
+    "date": "2026-06-15",
+    "source": "Nature"
+  },
+  {
+    "title": "Scientists Say: Topology",
+    "title_es": "Los científicos dicen: topología",
+    "url": "https://www.snexplores.org/article/scientists-say-topology-definition-pronunciation",
+    "date": "2026-06-15",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+    "title_es": "Los físicos de Oxford acaban de hacer que el gato de Schrödinger sea aún más extraño",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+    "date": "2026-06-15",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Researcher explores how sacrifice shapes judgments",
+    "title_es": "Un investigador explora cómo el sacrificio da forma a los juicios",
+    "url": "https://phys.org/news/2026-06-explores-sacrifice-judgments.html",
+    "date": "2026-06-15",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A dying star could create a new universe instead of a black hole",
     "title_es": "Una estrella moribunda podría crear un nuevo universo en lugar de un agujero negro",
     "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
@@ -54,6 +82,20 @@
     "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
     "date": "2026-06-12",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+    "title_es": "ClinHallu: un punto de referencia para el diagnóstico de alucinaciones en etapas en el razonamiento médico MLLM",
+    "url": "http://arxiv.org/abs/2606.14697v1",
+    "date": "2026-06-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+    "title_es": "La NASA cubrirá la salida de la estación espacial de la 34ª misión de reabastecimiento de SpaceX",
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+    "date": "2026-06-12",
+    "source": "NASA (Top News)"
   },
   {
     "title": "Online tool that flags suspicious journals could warn researchers before submission",
