@@ -1,5 +1,61 @@
 [
   {
+    "title": "Technology is changing our perspective on nature – at every scale",
+    "title_es": "Technology is changing our perspective on nature – at every scale",
+    "url": "https://www.newscientist.com/article/2530330-technology-is-changing-our-perspective-on-nature-at-every-scale/",
+    "published": "2026-06-16T09:00:29.000Z",
+    "date": "2026-06-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Making Sense of Data From Wearable Health Trackers",
+    "title_es": "Making Sense of Data From Wearable Health Trackers",
+    "url": "https://undark.org/2026/06/16/opinion-wearable-health-tracker-data/",
+    "published": "2026-06-16T07:41:00.000Z",
+    "date": "2026-06-16",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Knowledge-Based Zero-Replay Debugging of Multi-Agent LLM Traces",
+    "title_es": "Knowledge-Based Zero-Replay Debugging of Multi-Agent LLM Traces",
+    "url": "https://arxiv.org/abs/2606.14805",
+    "published": "2026-06-16T04:00:00.000Z",
+    "date": "2026-06-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Terms of endearment? Bias in first-name eponyms for species named after people",
+    "title_es": "¿Términos cariñosos? Sesgo en los epónimos de los nombres de especies que llevan nombres de personas",
+    "url": "https://www.nature.com/articles/d41586-026-01916-8",
+    "date": "2026-06-16",
+    "source": "Nature",
+    "published": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "title": "Nebraska’s Wide, Rolling Domain",
+    "title_es": "El amplio y ondulante dominio de Nebraska",
+    "url": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+    "date": "2026-06-16",
+    "source": "NASA (Top News)",
+    "published": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "title": "Experts probe 'shock' arrival of mosquito virus in Scotland",
+    "title_es": "Expertos investigan la llegada \"impactante\" del virus del mosquito a Escocia",
+    "url": "https://phys.org/news/2026-06-experts-probe-mosquito-virus-scotland.html",
+    "date": "2026-06-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "title": "Fossils from Chinese Cave Fill Crucial Gap in History of Gigantopithecus blacki",
+    "title_es": "Fossils from Chinese Cave Fill Crucial Gap in History of Gigantopithecus blacki",
+    "url": "https://www.sci.news/paleontology/gigantopithecus-blacki-14847.html",
+    "published": "2026-06-15T20:38:45.000Z",
+    "date": "2026-06-15",
+    "source": "Sci.News"
+  },
+  {
     "title": "We may have finally solved cosmology's chicken-or-the-egg problem",
     "title_es": "We may have finally solved cosmology's chicken-or-the-egg problem",
     "url": "https://www.newscientist.com/article/2530220-we-may-have-finally-solved-cosmologys-chicken-or-the-egg-problem/",
@@ -45,6 +101,46 @@
     "url": "https://phys.org/news/2026-06-explores-sacrifice-judgments.html",
     "date": "2026-06-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+    "title_es": "La importancia de la fase en las representaciones neuronales: una prueba interna de Oppenheim-Lim de clasificadores de imágenes",
+    "url": "http://arxiv.org/abs/2606.17037v1",
+    "date": "2026-06-15",
+    "source": "arXiv",
+    "published": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC and Fundación AstraZeneca bring together young scientists and European leaders in Madrid to advance the “SAFE HEARTS PLAN” cardiovascular strategy",
+    "title_es": "CNIC and Fundación AstraZeneca bring together young scientists and European leaders in Madrid to advance the “SAFE HEARTS PLAN” cardiovascular strategy",
+    "url": "https://www.cnic.es/es/node/242983",
+    "date": "2026-06-15",
+    "source": "CNIC",
+    "published": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "title": "Álvarez-Vallina investiga en el CNIO cómo generar células ‘puñal’ contra el mieloma múltiple dentro del cuerpo",
+    "title_es": "Álvarez-Vallina investiga en el CNIO cómo generar células ‘puñal’ contra el mieloma múltiple dentro del cuerpo",
+    "url": "https://www.cnio.es/noticias/alvarez-vallina-investiga-en-el-cnio-como-generar-celulas-punal-contra-el-mieloma-multiple-dentro-del-cuerpo/",
+    "date": "2026-06-15",
+    "source": "CNIO",
+    "published": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "title": "The North Atlantic’s ‘cold blob’ may signal a major current’s decline",
+    "title_es": "La “mancha fría” del Atlántico Norte puede indicar el declive de una corriente importante",
+    "url": "https://www.sciencenews.org/article/cold-blob-may-signal-current-decline",
+    "date": "2026-06-15",
+    "source": "Science News",
+    "published": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "title": "This strange material can become strong or fall apart in seconds",
+    "title_es": "Este extraño material puede volverse fuerte o desmoronarse en segundos",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+    "date": "2026-06-15",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-15T00:00:00.000Z"
   },
   {
@@ -26959,8 +27055,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: A new criterion for defining tunnel portal failure using the strength reduction method",
-    "title_es": "Corrección: un nuevo criterio para definir la falla del portal de un túnel utilizando el método de reducción de resistencia",
+    "title": "Interdependent relationship between depression and Internet gaming disorder in parent-child dyads: The mediating role of family relationship and gaming time",
+    "title_es": "Relación interdependiente entre la depresión y el trastorno de los juegos de Internet en parejas de padres e hijos: el papel mediador de la relación familiar y el tiempo de juego",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -61889,6 +61985,22 @@
     "title": "Triple Shockwave from Sun Crossing Rocket",
     "title_es": "Triple Shockwave from Sun Crossing Rocket",
     "url": "https://apod.nasa.gov/apod/image/2606/triplesunshock_winkopp_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Strong zero modes in integrable spin-$S$ chains, by Fabian H. L. Essler, Paul Fendley, Eric Vernier",
+    "title_es": "Strong zero modes in integrable spin-$S$ chains, by Fabian H. L. Essler, Paul Fendley, Eric Vernier",
+    "url": "https://scipost.org/scipostphys.20.6.164",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
+    "title_es": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
+    "url": "https://apod.nasa.gov/apod/image/2606/saturnringsmoons_cassini_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
