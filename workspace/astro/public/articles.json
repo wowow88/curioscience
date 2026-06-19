@@ -1,5 +1,85 @@
 [
   {
+    "title": "Interview: California Lawmaker Calls for a Peptide Working Group",
+    "title_es": "Interview: California Lawmaker Calls for a Peptide Working Group",
+    "url": "https://undark.org/2026/06/19/interview-joe-patterson-peptides/",
+    "published": "2026-06-19T07:43:00.000Z",
+    "date": "2026-06-19",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Supporting Design Decisions in Rule-Based Model Transformations",
+    "title_es": "Supporting Design Decisions in Rule-Based Model Transformations",
+    "url": "https://arxiv.org/abs/2606.19342",
+    "published": "2026-06-19T04:00:00.000Z",
+    "date": "2026-06-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Stem cells banish severe autoimmune disease for 15 years",
+    "title_es": "Las células madre destierran las enfermedades autoinmunes graves durante 15 años",
+    "url": "https://www.nature.com/articles/d41586-026-01925-7",
+    "date": "2026-06-19",
+    "source": "Nature",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-xxiii-encuentro-internacional-de-la-red-multidark-2026-que-culminara-con-una-charla\" hreflang=\"es\">El IAC organiza el XXIII encuentro internacional de la Red MultiDark 2026, que culminará con una charla abierta al público sobre materia oscura</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-xxiii-encuentro-internacional-de-la-red-multidark-2026-que-culminara-con-una-charla\" hreflang=\"es\">El IAC organiza el XXIII encuentro internacional de la Red MultiDark 2026, que culminará con una charla abierta al público sobre materia oscura</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-xxiii-encuentro-internacional-de-la-red-multidark-2026-que-culminara-con-una-charla",
+    "date": "2026-06-19",
+    "source": "IAC",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Tropical Storm Arthur",
+    "title_es": "Tormenta tropical Arturo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+    "date": "2026-06-19",
+    "source": "NASA (Top News)",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Black hole winds may be robbing giant galaxies of their future stars",
+    "title_es": "Los vientos de los agujeros negros pueden estar robando a las galaxias gigantes sus futuras estrellas",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+    "date": "2026-06-19",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Deadly Philippines quake turns seabed into shore",
+    "title_es": "Mortal terremoto en Filipinas convierte el lecho marino en costa",
+    "url": "https://phys.org/news/2026-06-deadly-philippines-quake-seabed-shore.html",
+    "date": "2026-06-19",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "125-Million-Year-Old Crocodile Relative Reveals Its True Colors",
+    "title_es": "125-Million-Year-Old Crocodile Relative Reveals Its True Colors",
+    "url": "https://www.sci.news/paleontology/montsecosuchus-depereti-14858.html",
+    "published": "2026-06-18T23:48:14.000Z",
+    "date": "2026-06-18",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Remarkable fossils rewrite the story of how animals conquered the land",
+    "title_es": "Remarkable fossils rewrite the story of how animals conquered the land",
+    "url": "https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/",
+    "published": "2026-06-18T19:00:31.000Z",
+    "date": "2026-06-18",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Major errors found in Al Gore-founded Climate TRACE database",
+    "title_es": "Major errors found in Al Gore-founded Climate TRACE database",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
+    "published": "2026-06-18T08:15:19.000Z",
+    "date": "2026-06-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "ATIM: An ACT-R-Based Task Interface Model for Predicting Operator Action Time in Digital Nuclear Control Rooms",
     "title_es": "ATIM: An ACT-R-Based Task Interface Model for Predicting Operator Action Time in Digital Nuclear Control Rooms",
     "url": "https://arxiv.org/abs/2606.18254",
@@ -13,6 +93,38 @@
     "url": "https://phys.org/news/2026-06-ai-driven-optical-tweezers-hundreds.html",
     "date": "2026-06-18",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "How Transparent is DiffusionGemma?",
+    "title_es": "¿Qué tan transparente es DiffusionGemma?",
+    "url": "http://arxiv.org/abs/2606.20560v1",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "published": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "Making the most of your time at work",
+    "title_es": "Aprovechando al máximo tu tiempo en el trabajo",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh4754",
+    "date": "2026-06-18",
+    "source": "Science.org",
+    "published": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "A textbook assumption about early land vertebrates may be wrong",
+    "title_es": "Una suposición de los libros de texto sobre los primeros vertebrados terrestres puede ser errónea",
+    "url": "https://www.sciencenews.org/article/assumption-early-land-vertebrates-wrong",
+    "date": "2026-06-18",
+    "source": "Science News",
+    "published": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "Deeply plowing farm fields can do more harm than good",
+    "title_es": "Arar profundamente los campos agrícolas puede hacer más daño que bien",
+    "url": "https://www.snexplores.org/article/deep-plowing-soil-farm-fields",
+    "date": "2026-06-18",
+    "source": "Science News Explores",
     "published": "2026-06-18T00:00:00.000Z"
   },
   {
@@ -27231,8 +27343,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Air pollution in the places of Betula pendula growth and development changes the physicochemical properties and the main allergen content of its pollen",
-    "title_es": "Corrección: La contaminación del aire en los lugares de crecimiento y desarrollo de <i>Betula pendula</i> cambia las propiedades fisicoquímicas y el contenido de alérgenos principales de su polen.",
+    "title": "Correction: Protocol for the development of a procedure guide on Laparoscopic Cholecystectomy: Beyond bile duct injury prevention",
+    "title_es": "Corrección: Protocolo para la elaboración de una guía de procedimiento sobre Colecistectomía Laparoscópica: Más allá de la prevención de lesiones de la vía biliar",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -62212,5 +62324,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
+    "title_es": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
+    "url": "https://scipost.org/scipostphyscommrep.27",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

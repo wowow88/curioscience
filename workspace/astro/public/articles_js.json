@@ -1,26 +1,26 @@
 [
   {
-    "title": "ATIM: An ACT-R-Based Task Interface Model for Predicting Operator Action Time in Digital Nuclear Control Rooms",
-    "title_es": "ATIM: An ACT-R-Based Task Interface Model for Predicting Operator Action Time in Digital Nuclear Control Rooms",
-    "url": "https://arxiv.org/abs/2606.18254",
-    "published": "2026-06-18T04:00:00.000Z",
-    "date": "2026-06-18",
+    "title": "Supporting Design Decisions in Rule-Based Model Transformations",
+    "title_es": "Supporting Design Decisions in Rule-Based Model Transformations",
+    "url": "https://arxiv.org/abs/2606.19342",
+    "published": "2026-06-19T04:00:00.000Z",
+    "date": "2026-06-19",
     "source": "arXiv"
   },
   {
-    "title": "Summer reading 2026",
-    "title_es": "Summer reading 2026",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aei7768",
-    "published": "2026-06-11T06:00:12.000Z",
-    "date": "2026-06-11",
+    "title": "Making the most of your time at work",
+    "title_es": "Making the most of your time at work",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh4754",
+    "published": "2026-06-18T06:00:17.000Z",
+    "date": "2026-06-18",
     "source": "Science.org"
   },
   {
-    "title": "Towards Conversational AI for Disease Management",
-    "title_es": "Towards Conversational AI for Disease Management",
-    "url": "https://www.nature.com/articles/s41586-026-10764-5",
-    "published": "2026-06-17T00:00:00.000Z",
-    "date": "2026-06-17",
+    "title": "Stem cells banish severe autoimmune disease for 15 years",
+    "title_es": "Stem cells banish severe autoimmune disease for 15 years",
+    "url": "https://www.nature.com/articles/d41586-026-01925-7",
+    "published": "2026-06-19T00:00:00.000Z",
+    "date": "2026-06-19",
     "source": "Nature"
   },
   {
@@ -40,51 +40,59 @@
     "source": "CNIO"
   },
   {
-    "title": "A deadly fungus that can infect cats and people is spreading",
-    "title_es": "A deadly fungus that can infect cats and people is spreading",
-    "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
-    "published": "2026-06-17T19:00:00.000Z",
-    "date": "2026-06-17",
+    "title": "Tropical Storm Arthur",
+    "title_es": "Tropical Storm Arthur",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+    "published": "2026-06-19T04:00:00.000Z",
+    "date": "2026-06-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A textbook assumption about early land vertebrates may be wrong",
+    "title_es": "A textbook assumption about early land vertebrates may be wrong",
+    "url": "https://www.sciencenews.org/article/assumption-early-land-vertebrates-wrong",
+    "published": "2026-06-18T18:00:00.000Z",
+    "date": "2026-06-18",
     "source": "Science News"
   },
   {
-    "title": "Meet Bruce, the disabled kea parrot who is the boss of his flock",
-    "title_es": "Meet Bruce, the disabled kea parrot who is the boss of his flock",
-    "url": "https://www.snexplores.org/article/bruce-disabled-alpha-kea-parrot",
-    "published": "2026-06-17T10:30:00.000Z",
-    "date": "2026-06-17",
+    "title": "Deeply plowing farm fields can do more harm than good",
+    "title_es": "Deeply plowing farm fields can do more harm than good",
+    "url": "https://www.snexplores.org/article/deep-plowing-soil-farm-fields",
+    "published": "2026-06-18T10:30:00.000Z",
+    "date": "2026-06-18",
     "source": "Science News Explores"
   },
   {
-    "title": "Humans may have hidden regenerative powers",
-    "title_es": "Humans may have hidden regenerative powers",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-    "published": "2026-06-17T14:25:31.000Z",
-    "date": "2026-06-17",
+    "title": "Major errors found in Al Gore-founded Climate TRACE database",
+    "title_es": "Major errors found in Al Gore-founded Climate TRACE database",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
+    "published": "2026-06-18T08:15:19.000Z",
+    "date": "2026-06-18",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "AI-driven optical tweezers sort hundreds of particles per hour without humans",
-    "title_es": "AI-driven optical tweezers sort hundreds of particles per hour without humans",
-    "url": "https://phys.org/news/2026-06-ai-driven-optical-tweezers-hundreds.html",
-    "published": "2026-06-18T09:00:05.000Z",
-    "date": "2026-06-18",
+    "title": "Deadly Philippines quake turns seabed into shore",
+    "title_es": "Deadly Philippines quake turns seabed into shore",
+    "url": "https://phys.org/news/2026-06-deadly-philippines-quake-seabed-shore.html",
+    "published": "2026-06-19T09:03:47.000Z",
+    "date": "2026-06-19",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Air pollution in the places of Betula pendula growth and development changes the physicochemical properties and the main allergen content of its pollen",
-    "title_es": "Correction: Air pollution in the places of Betula pendula growth and development changes the physicochemical properties and the main allergen content of its pollen",
+    "title": "Correction: Protocol for the development of a procedure guide on Laparoscopic Cholecystectomy: Beyond bile duct injury prevention",
+    "title_es": "Correction: Protocol for the development of a procedure guide on Laparoscopic Cholecystectomy: Beyond bile duct injury prevention",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-06-17T14:00:00.000Z",
-    "date": "2026-06-17",
+    "published": "2026-06-18T14:00:00.000Z",
+    "date": "2026-06-18",
     "source": "PLOS ONE"
   },
   {
-    "title": "The bigger the lizard, the bigger the Wiki page, discovers ecologist",
-    "title_es": "The bigger the lizard, the bigger the Wiki page, discovers ecologist",
-    "url": "https://www.newscientist.com/article/mg27036002-200-the-bigger-the-lizard-the-bigger-the-wiki-page-discovers-ecologist/",
-    "published": "2026-06-17T18:00:00.000Z",
-    "date": "2026-06-17",
+    "title": "Remarkable fossils rewrite the story of how animals conquered the land",
+    "title_es": "Remarkable fossils rewrite the story of how animals conquered the land",
+    "url": "https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/",
+    "published": "2026-06-18T19:00:31.000Z",
+    "date": "2026-06-18",
     "source": "New Scientist"
   },
   {
@@ -96,41 +104,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "Consciousness is Not Exclusive to Earth’s Biology, Philosophers Argue",
-    "title_es": "Consciousness is Not Exclusive to Earth’s Biology, Philosophers Argue",
-    "url": "https://www.sci.news/othersciences/philosophy/substrate-flexible-consciousness-14855.html",
-    "published": "2026-06-17T22:48:03.000Z",
-    "date": "2026-06-17",
+    "title": "125-Million-Year-Old Crocodile Relative Reveals Its True Colors",
+    "title_es": "125-Million-Year-Old Crocodile Relative Reveals Its True Colors",
+    "url": "https://www.sci.news/paleontology/montsecosuchus-depereti-14858.html",
+    "published": "2026-06-18T23:48:14.000Z",
+    "date": "2026-06-18",
     "source": "Sci.News"
   },
   {
-    "title": "Making Sense of Data From Wearable Health Trackers",
-    "title_es": "Making Sense of Data From Wearable Health Trackers",
-    "url": "https://undark.org/2026/06/16/opinion-wearable-health-tracker-data/",
-    "published": "2026-06-16T07:41:00.000Z",
-    "date": "2026-06-16",
+    "title": "Interview: California Lawmaker Calls for a Peptide Working Group",
+    "title_es": "Interview: California Lawmaker Calls for a Peptide Working Group",
+    "url": "https://undark.org/2026/06/19/interview-joe-patterson-peptides/",
+    "published": "2026-06-19T07:43:00.000Z",
+    "date": "2026-06-19",
     "source": "Undark Magazine"
   },
   {
-    "title": "Charged Higgs pairs at the LHC: A NLO analysis, by Mohamed Ahmed, Lisa Biermann, Harald Ita, Irina Rusetski, Michael Spira, Yelyzaveta Yedelkina",
-    "title_es": "Charged Higgs pairs at the LHC: A NLO analysis, by Mohamed Ahmed, Lisa Biermann, Harald Ita, Irina Rusetski, Michael Spira, Yelyzaveta Yedelkina",
-    "url": "https://scipost.org/scipostphyscommrep.26",
+    "title": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
+    "title_es": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
+    "url": "https://scipost.org/scipostphyscommrep.27",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Possible Supernova Remnant in Galactic Center",
-    "title_es": "Possible Supernova Remnant in Galactic Center",
-    "url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-12.1757&long=-129.6212",
+    "url": "https://www.latlong.net/c/?lat=-11.0423&long=61.4098",
     "date": "",
     "published": "",
     "source": "ISS Position"
