@@ -1,5 +1,29 @@
 [
   {
+    "title": "Belgian Nobel laureate Francois Englert dies aged 93",
+    "title_es": "Muere el premio Nobel belga François Englert a los 93 años",
+    "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
+    "date": "2026-06-20",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "title": "113-Million-Year-Old Pterosaur Fossil Reveals What Flying Reptiles Ate",
+    "title_es": "113-Million-Year-Old Pterosaur Fossil Reveals What Flying Reptiles Ate",
+    "url": "https://www.sci.news/paleontology/anhanguerid-pterosaur-wing-14860.html",
+    "published": "2026-06-19T22:36:27.000Z",
+    "date": "2026-06-19",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Faecal transplant makes the brains of old mice act young again",
+    "title_es": "Faecal transplant makes the brains of old mice act young again",
+    "url": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/",
+    "published": "2026-06-19T17:48:29.000Z",
+    "date": "2026-06-19",
+    "source": "New Scientist"
+  },
+  {
     "title": "Interview: California Lawmaker Calls for a Peptide Working Group",
     "title_es": "Interview: California Lawmaker Calls for a Peptide Working Group",
     "url": "https://undark.org/2026/06/19/interview-joe-patterson-peptides/",
@@ -53,6 +77,30 @@
     "url": "https://phys.org/news/2026-06-deadly-philippines-quake-seabed-shore.html",
     "date": "2026-06-19",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "title_es": "Corrección del autor: la muerte celular autofágica restringe la inestabilidad cromosómica durante la crisis replicativa",
+    "url": "https://www.nature.com/articles/s41586-026-10812-0",
+    "date": "2026-06-19",
+    "source": "Nature",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Robert E. Gerszten: \"La sangre es una autopista de información entre los órganos\"",
+    "title_es": "Robert E. Gerszten: \"La sangre es una autopista de información entre los órganos\"",
+    "url": "https://www.cnic.es/es/noticias/robert-e-gerszten-sangre-autopista-informacion-entre-organos",
+    "date": "2026-06-19",
+    "source": "CNIC",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "Einstein’s “biggest blunder” may finally have an explanation",
+    "title_es": "El “mayor error garrafal” de Einstein finalmente puede tener una explicación",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
+    "date": "2026-06-19",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-19T00:00:00.000Z"
   },
   {
@@ -62329,6 +62377,14 @@
     "title": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
     "title_es": "Electroweak Higgs boson pair production: Updated inclusive cross sections, by Ramona Gröber, Alexander Karlberg, Mathieu Pellen, Gioia Sacchi, Michael Spira",
     "url": "https://scipost.org/scipostphyscommrep.27",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
+    "title_es": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
+    "url": "https://scipost.org/scipostphys.20.6.172",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
