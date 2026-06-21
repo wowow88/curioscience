@@ -1,10 +1,34 @@
 [
   {
+    "title": "Climate change boosts soybean production but worsens bean quality",
+    "title_es": "El cambio climático impulsa la producción de soja pero empeora la calidad del frijol",
+    "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+    "date": "2026-06-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-21T00:00:00.000Z"
+  },
+  {
     "title": "Belgian Nobel laureate Francois Englert dies aged 93",
     "title_es": "Muere el premio Nobel belga François Englert a los 93 años",
     "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
     "date": "2026-06-20",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "title": "Is NASA falling out of love with Mars?",
+    "title_es": "¿Se está desenamorando la NASA de Marte?",
+    "url": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
+    "date": "2026-06-20",
+    "source": "Science News",
+    "published": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+    "title_es": "Este gen de reparación del ADN se volvió rebelde y expuso una debilidad del cáncer",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+    "date": "2026-06-20",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-20T00:00:00.000Z"
   },
   {
@@ -101,6 +125,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
     "date": "2026-06-19",
     "source": "ScienceDaily (Top)",
+    "published": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acerca-de-nuevo-la-astrofisica-la-ciudadania-en-un-exitoso-fin-de-semana-de\" hreflang=\"es\">El Observatorio del Teide acerca de nuevo la astrofísica a la ciudadanía en un exitoso fin de semana de Puertas Abiertas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acerca-de-nuevo-la-astrofisica-la-ciudadania-en-un-exitoso-fin-de-semana-de\" hreflang=\"es\">El Observatorio del Teide acerca de nuevo la astrofísica a la ciudadanía en un exitoso fin de semana de Puertas Abiertas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-observatorio-del-teide-acerca-de-nuevo-la-astrofisica-la-ciudadania-en-un-exitoso-fin-de-semana-de",
+    "date": "2026-06-19",
+    "source": "IAC",
     "published": "2026-06-19T00:00:00.000Z"
   },
   {
@@ -292,6 +324,14 @@
     "title_es": "The secrets to keeping your brain sharp in old age",
     "url": "https://www.newscientist.com/article/2529259-the-secrets-to-keeping-your-brain-sharp-in-old-age/",
     "published": "2026-06-16T16:00:58.000Z",
+    "date": "2026-06-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A quantum state that lasts forever may finally be within our grasp",
+    "title_es": "A quantum state that lasts forever may finally be within our grasp",
+    "url": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/",
+    "published": "2026-06-16T14:00:05.000Z",
     "date": "2026-06-16",
     "source": "New Scientist"
   },
@@ -62385,6 +62425,14 @@
     "title": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
     "title_es": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
     "url": "https://scipost.org/scipostphys.20.6.172",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "A sine-square deformation approach to quantum critical points in one-dimensional systems, by Yuki Miyazaki, Shiori Tanigawa, Giacomo Marmorini, Nobuo Furukawa, Daisuke Yamamoto",
+    "title_es": "A sine-square deformation approach to quantum critical points in one-dimensional systems, by Yuki Miyazaki, Shiori Tanigawa, Giacomo Marmorini, Nobuo Furukawa, Daisuke Yamamoto",
+    "url": "https://scipost.org/scipostphys.20.6.174",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

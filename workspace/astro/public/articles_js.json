@@ -24,11 +24,19 @@
     "source": "CNIC"
   },
   {
-    "title": "A textbook assumption about early land vertebrates may be wrong",
-    "title_es": "A textbook assumption about early land vertebrates may be wrong",
-    "url": "https://www.sciencenews.org/article/assumption-early-land-vertebrates-wrong",
-    "published": "2026-06-18T18:00:00.000Z",
-    "date": "2026-06-18",
+    "title": "Álvarez-Vallina investiga en el CNIO cómo generar células ‘puñal’ contra el mieloma múltiple dentro del cuerpo",
+    "title_es": "Álvarez-Vallina investiga en el CNIO cómo generar células ‘puñal’ contra el mieloma múltiple dentro del cuerpo",
+    "url": "https://www.cnio.es/noticias/alvarez-vallina-investiga-en-el-cnio-como-generar-celulas-punal-contra-el-mieloma-multiple-dentro-del-cuerpo/",
+    "published": "2026-06-15T19:17:10.000Z",
+    "date": "2026-06-15",
+    "source": "CNIO"
+  },
+  {
+    "title": "Is NASA falling out of love with Mars?",
+    "title_es": "Is NASA falling out of love with Mars?",
+    "url": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
+    "published": "2026-06-20T11:00:00.000Z",
+    "date": "2026-06-20",
     "source": "Science News"
   },
   {
@@ -40,19 +48,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Einstein’s “biggest blunder” may finally have an explanation",
-    "title_es": "Einstein’s “biggest blunder” may finally have an explanation",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-    "published": "2026-06-19T09:43:07.000Z",
-    "date": "2026-06-19",
+    "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+    "title_es": "This DNA repair gene went rogue and exposed a cancer weakness",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+    "published": "2026-06-20T12:27:35.000Z",
+    "date": "2026-06-20",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Belgian Nobel laureate Francois Englert dies aged 93",
-    "title_es": "Belgian Nobel laureate Francois Englert dies aged 93",
-    "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
-    "published": "2026-06-20T07:10:01.000Z",
-    "date": "2026-06-20",
+    "title": "Climate change boosts soybean production but worsens bean quality",
+    "title_es": "Climate change boosts soybean production but worsens bean quality",
+    "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+    "published": "2026-06-21T00:00:02.000Z",
+    "date": "2026-06-21",
     "source": "Phys.org (Latest)"
   },
   {
@@ -64,11 +72,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Faecal transplant makes the brains of old mice act young again",
-    "title_es": "Faecal transplant makes the brains of old mice act young again",
-    "url": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/",
-    "published": "2026-06-19T17:48:29.000Z",
-    "date": "2026-06-19",
+    "title": "A quantum state that lasts forever may finally be within our grasp",
+    "title_es": "A quantum state that lasts forever may finally be within our grasp",
+    "url": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/",
+    "published": "2026-06-16T14:00:05.000Z",
+    "date": "2026-06-16",
     "source": "New Scientist"
   },
   {
@@ -96,12 +104,20 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
-    "title_es": "Topological fine structure of an energy band, by Hui Liu, Cosma Fulga, Emil J. Bergholtz, Janos Asboth",
-    "url": "https://scipost.org/scipostphys.20.6.172",
+    "title": "A sine-square deformation approach to quantum critical points in one-dimensional systems, by Yuki Miyazaki, Shiori Tanigawa, Giacomo Marmorini, Nobuo Furukawa, Daisuke Yamamoto",
+    "title_es": "A sine-square deformation approach to quantum critical points in one-dimensional systems, by Yuki Miyazaki, Shiori Tanigawa, Giacomo Marmorini, Nobuo Furukawa, Daisuke Yamamoto",
+    "url": "https://scipost.org/scipostphys.20.6.174",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=0.4752&long=-125.9554",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
