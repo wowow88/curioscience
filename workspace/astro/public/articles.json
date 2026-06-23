@@ -1,5 +1,37 @@
 [
   {
+    "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+    "title_es": "Los científicos abren una cápsula del tiempo de un millón de años escondida debajo de Nueva Zelanda",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
+    "date": "2026-06-23",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Australia has already spent more than $100 million dealing with Varroa mite. Here's what we can do next",
+    "title_es": "Australia ya ha gastado más de 100 millones de dólares en la lucha contra el ácaro Varroa. Esto es lo que podemos hacer a continuación",
+    "url": "https://phys.org/news/2026-06-australia-spent-million-varroa-mite.html",
+    "date": "2026-06-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Interstellar Comet 3I/ATLAS Formed Up To 12 Billion Years Ago, New Observations Suggest",
+    "title_es": "Interstellar Comet 3I/ATLAS Formed Up To 12 Billion Years Ago, New Observations Suggest",
+    "url": "https://www.sci.news/astronomy/interstellar-comet-3i-atlas-isotopic-ratios-14865.html",
+    "published": "2026-06-22T23:11:24.000Z",
+    "date": "2026-06-22",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Woman with Alzheimer's starts conversing again after taking psilocybin",
+    "title_es": "Woman with Alzheimer's starts conversing again after taking psilocybin",
+    "url": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/",
+    "published": "2026-06-22T18:00:24.000Z",
+    "date": "2026-06-22",
+    "source": "New Scientist"
+  },
+  {
     "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
     "title_es": "Los primeros “relojes nucleares” ya están aquí: ¿qué pueden hacer?",
     "url": "https://www.nature.com/articles/d41586-026-01909-7",
@@ -37,6 +69,46 @@
     "url": "https://phys.org/news/2026-06-europe-worse.html",
     "date": "2026-06-22",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+    "title_es": "CoorDex: coordinación de prioridades de cuerpo y mano para una manipulación locoide humana diestra continua",
+    "url": "http://arxiv.org/abs/2606.23680v1",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
+    "title_es": "Síntesis de C-glucósido mediante acoplamiento cruzado radical de glicohidrazidas",
+    "url": "https://www.nature.com/articles/s41586-026-10807-x",
+    "date": "2026-06-22",
+    "source": "Nature",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "June y Sadelain, ‘padres’ de la inmunoterapia con células CAR-T, premiados con el Fronteras del Conocimiento",
+    "title_es": "June y Sadelain, ‘padres’ de la inmunoterapia con células CAR-T, premiados con el Fronteras del Conocimiento",
+    "url": "https://www.cnio.es/noticias/june-y-sadelain-padres-de-la-inmunoterapia-con-celulas-car-t-premiados-con-el-fronteras-del-conocimiento/",
+    "date": "2026-06-22",
+    "source": "CNIO",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-encuentra-rastros-de-las-primeras-estrellas-del-universo-en-una-galaxia\" hreflang=\"es\">El Gran Telescopio Canarias encuentra rastros de las primeras estrellas del Universo en una galaxia vecina</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-encuentra-rastros-de-las-primeras-estrellas-del-universo-en-una-galaxia\" hreflang=\"es\">El Gran Telescopio Canarias encuentra rastros de las primeras estrellas del Universo en una galaxia vecina</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-gran-telescopio-canarias-encuentra-rastros-de-las-primeras-estrellas-del-universo-en-una-galaxia",
+    "date": "2026-06-22",
+    "source": "IAC",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "The New World screwworm has returned to the U.S. Now what?",
+    "title_es": "El gusano barrenador del Nuevo Mundo ha regresado a Estados Unidos. ¿Y ahora qué?",
+    "url": "https://www.sciencenews.org/article/new-world-screwworm-spread-us-eradicate",
+    "date": "2026-06-22",
+    "source": "Science News",
     "published": "2026-06-22T00:00:00.000Z"
   },
   {
@@ -27479,8 +27551,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Protocol for the development of a procedure guide on Laparoscopic Cholecystectomy: Beyond bile duct injury prevention",
-    "title_es": "Corrección: Protocolo para la elaboración de una guía de procedimiento sobre Colecistectomía Laparoscópica: Más allá de la prevención de lesiones de la vía biliar",
+    "title": "Do South Korean adults have insufficient levels of physical activity? Domain patterns and associations with self-rated health",
+    "title_es": "¿Los adultos surcoreanos tienen niveles insuficientes de actividad física? Patrones de dominio y asociaciones con la salud autoevaluada",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
