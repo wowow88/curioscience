@@ -1,5 +1,13 @@
 [
   {
+    "title": "Beyond the Autoregressive Horizon: A Comprehensive Survey of Diffusion Models, World Modelling, and State Space Models for Code",
+    "title_es": "Beyond the Autoregressive Horizon: A Comprehensive Survey of Diffusion Models, World Modelling, and State Space Models for Code",
+    "url": "https://arxiv.org/abs/2606.23690",
+    "published": "2026-06-24T04:00:00.000Z",
+    "date": "2026-06-24",
+    "source": "arXiv"
+  },
+  {
     "title": "Making the most of your time at work",
     "title_es": "Making the most of your time at work",
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh4754",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
-    "title_es": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
-    "url": "https://www.nature.com/articles/s41586-026-10807-x",
-    "published": "2026-06-22T00:00:00.000Z",
-    "date": "2026-06-22",
+    "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+    "title_es": "Retraction Note: Sub-second periodicity in a fast radio burst",
+    "url": "https://www.nature.com/articles/s41586-026-10799-8",
+    "published": "2026-06-23T00:00:00.000Z",
+    "date": "2026-06-23",
     "source": "Nature"
   },
   {
@@ -24,27 +32,35 @@
     "source": "CNIC"
   },
   {
-    "title": "June y Sadelain, ‘padres’ de la inmunoterapia con células CAR-T, premiados con el Fronteras del Conocimiento",
-    "title_es": "June y Sadelain, ‘padres’ de la inmunoterapia con células CAR-T, premiados con el Fronteras del Conocimiento",
-    "url": "https://www.cnio.es/noticias/june-y-sadelain-padres-de-la-inmunoterapia-con-celulas-car-t-premiados-con-el-fronteras-del-conocimiento/",
-    "published": "2026-06-22T10:52:13.000Z",
-    "date": "2026-06-22",
+    "title": "El CNIO da la bienvenida a cuatro jóvenes que buscan nuevas formas de frenar el cáncer, gracias a los Amigos y Amigas del CNIO",
+    "title_es": "El CNIO da la bienvenida a cuatro jóvenes que buscan nuevas formas de frenar el cáncer, gracias a los Amigos y Amigas del CNIO",
+    "url": "https://www.cnio.es/noticias/el-cnio-da-la-bienvenida-a-cuatro-jovenes-que-buscan-nuevas-formas-de-frenar-el-cancer-gracias-a-los-amigos-y-amigas-del-cnio/",
+    "published": "2026-06-23T10:42:10.000Z",
+    "date": "2026-06-23",
     "source": "CNIO"
   },
   {
-    "title": "The New World screwworm has returned to the U.S. Now what?",
-    "title_es": "The New World screwworm has returned to the U.S. Now what?",
-    "url": "https://www.sciencenews.org/article/new-world-screwworm-spread-us-eradicate",
-    "published": "2026-06-22T17:00:00.000Z",
-    "date": "2026-06-22",
+    "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+    "title_es": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
+    "published": "2026-06-24T04:34:37.000Z",
+    "date": "2026-06-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "The ‘little brain’ may give the aging mind a big boost",
+    "title_es": "The ‘little brain’ may give the aging mind a big boost",
+    "url": "https://www.sciencenews.org/article/cerebellum-brain-aging-boost",
+    "published": "2026-06-23T17:00:00.000Z",
+    "date": "2026-06-23",
     "source": "Science News"
   },
   {
-    "title": "Could a storm last forever?",
-    "title_es": "Could a storm last forever?",
-    "url": "https://www.snexplores.org/article/forever-storms-zelda-weather",
-    "published": "2026-06-22T10:30:00.000Z",
-    "date": "2026-06-22",
+    "title": "The dawn of animal evolution saw a bizarre array of sea creatures",
+    "title_es": "The dawn of animal evolution saw a bizarre array of sea creatures",
+    "url": "https://www.snexplores.org/article/pre-cambrian-sea-animal-evolution",
+    "published": "2026-06-23T10:30:00.000Z",
+    "date": "2026-06-23",
     "source": "Science News Explores"
   },
   {
@@ -56,27 +72,27 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Australia has already spent more than $100 million dealing with Varroa mite. Here's what we can do next",
-    "title_es": "Australia has already spent more than $100 million dealing with Varroa mite. Here's what we can do next",
-    "url": "https://phys.org/news/2026-06-australia-spent-million-varroa-mite.html",
-    "published": "2026-06-23T03:40:01.000Z",
-    "date": "2026-06-23",
+    "title": "H5 bird flu detected in second Australia state",
+    "title_es": "H5 bird flu detected in second Australia state",
+    "url": "https://phys.org/news/2026-06-h5-bird-flu-australia-state.html",
+    "published": "2026-06-24T08:10:02.000Z",
+    "date": "2026-06-24",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Do South Korean adults have insufficient levels of physical activity? Domain patterns and associations with self-rated health",
-    "title_es": "Do South Korean adults have insufficient levels of physical activity? Domain patterns and associations with self-rated health",
+    "title": "Correction: CAFusion: A progressive ConvMixer network for context-aware infrared and visible image fusion",
+    "title_es": "Correction: CAFusion: A progressive ConvMixer network for context-aware infrared and visible image fusion",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-06-22T14:00:00.000Z",
-    "date": "2026-06-22",
+    "published": "2026-06-23T14:00:00.000Z",
+    "date": "2026-06-23",
     "source": "PLOS ONE"
   },
   {
-    "title": "Woman with Alzheimer's starts conversing again after taking psilocybin",
-    "title_es": "Woman with Alzheimer's starts conversing again after taking psilocybin",
-    "url": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/",
-    "published": "2026-06-22T18:00:24.000Z",
-    "date": "2026-06-22",
+    "title": "Huge crater in Australia may be the oldest impact structure on Earth",
+    "title_es": "Huge crater in Australia may be the oldest impact structure on Earth",
+    "url": "https://www.newscientist.com/article/2531525-huge-crater-in-australia-may-be-the-oldest-impact-structure-on-earth/",
+    "published": "2026-06-23T23:00:24.000Z",
+    "date": "2026-06-23",
     "source": "New Scientist"
   },
   {
@@ -88,25 +104,25 @@
     "source": "SciPost News"
   },
   {
-    "title": "Interstellar Comet 3I/ATLAS Formed Up To 12 Billion Years Ago, New Observations Suggest",
-    "title_es": "Interstellar Comet 3I/ATLAS Formed Up To 12 Billion Years Ago, New Observations Suggest",
-    "url": "https://www.sci.news/astronomy/interstellar-comet-3i-atlas-isotopic-ratios-14865.html",
-    "published": "2026-06-22T23:11:24.000Z",
-    "date": "2026-06-22",
+    "title": "New Feathered Dinosaur from China Had Peacock-Like Tail",
+    "title_es": "New Feathered Dinosaur from China Had Peacock-Like Tail",
+    "url": "https://www.sci.news/paleontology/changzhousaurus-sinensis-14868.html",
+    "published": "2026-06-23T22:45:03.000Z",
+    "date": "2026-06-23",
     "source": "Sci.News"
   },
   {
-    "title": "Interview: California Lawmaker Calls for a Peptide Working Group",
-    "title_es": "Interview: California Lawmaker Calls for a Peptide Working Group",
-    "url": "https://undark.org/2026/06/19/interview-joe-patterson-peptides/",
-    "published": "2026-06-19T07:43:00.000Z",
-    "date": "2026-06-19",
+    "title": "Advocacy Groups Express Mixed Views on Embryo Editing",
+    "title_es": "Advocacy Groups Express Mixed Views on Embryo Editing",
+    "url": "https://undark.org/2026/06/24/embryo-editing-disease-advocacy/",
+    "published": "2026-06-24T07:01:00.000Z",
+    "date": "2026-06-24",
     "source": "Undark Magazine"
   },
   {
-    "title": "Rational $Q$-systems for integrable spin chains without $U(1)$ symmetry, by Yunfeng Jiang, Yi-Chao Liu, Yuan Miao, Zi-Xi Tan",
-    "title_es": "Rational $Q$-systems for integrable spin chains without $U(1)$ symmetry, by Yunfeng Jiang, Yi-Chao Liu, Yuan Miao, Zi-Xi Tan",
-    "url": "https://scipost.org/scipostphys.20.6.175",
+    "title": "Les Houches lecture notes on tensor networks, by Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete",
+    "title_es": "Les Houches lecture notes on tensor networks, by Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete",
+    "url": "https://scipost.org/scipostphyslectnotes.128",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
@@ -114,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-51.5721&long=141.0527",
+    "url": "https://www.latlong.net/c/?lat=50.2823&long=-64.4397",
     "date": "",
     "published": "",
     "source": "ISS Position"

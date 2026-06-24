@@ -1,5 +1,19 @@
 [
   {
+    "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+    "title_es": "Blog de curiosidades, Sols 4927–4933: Conduzcamos hacia esa zona tranquila",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
+    "date": "2026-06-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "H5 bird flu detected in second Australia state",
+    "title_es": "Detectada gripe aviar H5 en el segundo estado de Australia",
+    "url": "https://phys.org/news/2026-06-h5-bird-flu-australia-state.html",
+    "date": "2026-06-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
     "title_es": "Los científicos abren una cápsula del tiempo de un millón de años escondida debajo de Nueva Zelanda",
     "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
@@ -12,6 +26,55 @@
     "url": "https://phys.org/news/2026-06-australia-spent-million-varroa-mite.html",
     "date": "2026-06-23",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: CAFusion: A progressive ConvMixer network for context-aware infrared and visible image fusion",
+    "title_es": "Corrección: CAFusion: una red ConvMixer progresiva para la fusión de imágenes visibles e infrarrojas sensibles al contexto",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-23",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "title_es": "InSight: Adquisición de habilidades autoguiada a través de VLA orientables",
+    "url": "http://arxiv.org/abs/2606.24884v1",
+    "date": "2026-06-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+    "title_es": "Nota de retractación: periodicidad inferior a un segundo en una ráfaga de radio rápida",
+    "url": "https://www.nature.com/articles/s41586-026-10799-8",
+    "date": "2026-06-23",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIO da la bienvenida a cuatro jóvenes que buscan nuevas formas de frenar el cáncer, gracias a los Amigos y Amigas del CNIO",
+    "title_es": "El CNIO da la bienvenida a cuatro jóvenes que buscan nuevas formas de frenar el cáncer, gracias a los Amigos y Amigas del CNIO",
+    "url": "https://www.cnio.es/noticias/el-cnio-da-la-bienvenida-a-cuatro-jovenes-que-buscan-nuevas-formas-de-frenar-el-cancer-gracias-a-los-amigos-y-amigas-del-cnio/",
+    "date": "2026-06-23",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-cumulo-estelar-nuclear-preserva-el-registro-fosil-de-los-primeros-pasos-de-una-galaxia-en-formacion\" hreflang=\"es\">Un cúmulo estelar nuclear preserva el registro fósil de los primeros pasos de una galaxia en formación estelar </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-cumulo-estelar-nuclear-preserva-el-registro-fosil-de-los-primeros-pasos-de-una-galaxia-en-formacion\" hreflang=\"es\">Un cúmulo estelar nuclear preserva el registro fósil de los primeros pasos de una galaxia en formación estelar </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-cumulo-estelar-nuclear-preserva-el-registro-fosil-de-los-primeros-pasos-de-una-galaxia-en-formacion",
+    "date": "2026-06-23",
+    "source": "IAC"
+  },
+  {
+    "title": "The ‘little brain’ may give the aging mind a big boost",
+    "title_es": "El \"pequeño cerebro\" puede dar un gran impulso a la mente envejecida",
+    "url": "https://www.sciencenews.org/article/cerebellum-brain-aging-boost",
+    "date": "2026-06-23",
+    "source": "Science News"
+  },
+  {
+    "title": "The dawn of animal evolution saw a bizarre array of sea creatures",
+    "title_es": "Los albores de la evolución animal vieron una extraña variedad de criaturas marinas",
+    "url": "https://www.snexplores.org/article/pre-cambrian-sea-animal-evolution",
+    "date": "2026-06-23",
+    "source": "Science News Explores"
   },
   {
     "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
@@ -47,13 +110,6 @@
     "url": "https://phys.org/news/2026-06-europe-worse.html",
     "date": "2026-06-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Do South Korean adults have insufficient levels of physical activity? Domain patterns and associations with self-rated health",
-    "title_es": "¿Los adultos surcoreanos tienen niveles insuficientes de actividad física? Patrones de dominio y asociaciones con la salud autoevaluada",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
