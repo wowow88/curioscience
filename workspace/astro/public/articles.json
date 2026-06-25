@@ -1,5 +1,29 @@
 [
   {
+    "title": "Graph-Based Phonetic Error Correction of Noisy ASR",
+    "title_es": "Graph-Based Phonetic Error Correction of Noisy ASR",
+    "url": "https://arxiv.org/abs/2606.24889",
+    "published": "2026-06-25T04:00:00.000Z",
+    "date": "2026-06-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "Australia's under-16 social media ban shows little early effect on teen use: Research",
+    "title_es": "La prohibición de las redes sociales para menores de 16 años en Australia muestra poco efecto temprano en el uso de los adolescentes: investigación",
+    "url": "https://phys.org/news/2026-06-australia-social-media-early-effect.html",
+    "date": "2026-06-25",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "title": "Hold the onions – and see if they make you cry",
+    "title_es": "Hold the onions – and see if they make you cry",
+    "url": "https://www.newscientist.com/article/mg27036012-700-hold-the-onions-and-see-if-they-make-you-cry/",
+    "published": "2026-06-24T18:00:00.000Z",
+    "date": "2026-06-24",
+    "source": "New Scientist"
+  },
+  {
     "title": "Advocacy Groups Express Mixed Views on Embryo Editing",
     "title_es": "Advocacy Groups Express Mixed Views on Embryo Editing",
     "url": "https://undark.org/2026/06/24/embryo-editing-disease-advocacy/",
@@ -16,7 +40,7 @@
     "source": "arXiv"
   },
   {
-    "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+    "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
     "title_es": "Blog de curiosidades, Sols 4927–4933: Conduzcamos hacia esa zona tranquila",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
     "date": "2026-06-24",
@@ -29,6 +53,54 @@
     "url": "https://phys.org/news/2026-06-h5-bird-flu-australia-state.html",
     "date": "2026-06-24",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+    "title_es": "Prioridades de la acción de aprendizaje para la manipulación de robots con realizaciones cruzadas",
+    "url": "http://arxiv.org/abs/2606.26095v1",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate",
+    "title_es": "Corrección del autor: Los componentes del complejo cBAF y MYC cooperan tempranamente en el destino de las células T CD8<sup>+</sup>",
+    "url": "https://www.nature.com/articles/s41586-026-10813-z",
+    "date": "2026-06-24",
+    "source": "Nature",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local\" hreflang=\"es\">El IAC reúne a la colaboración internacional CLUES para avanzar en el estudio del Universo local</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local\" hreflang=\"es\">El IAC reúne a la colaboración internacional CLUES para avanzar en el estudio del Universo local</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local",
+    "date": "2026-06-24",
+    "source": "IAC",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "A Mars rover found organic carbon just sitting on a rock",
+    "title_es": "Un rover de Marte encontró carbono orgánico sobre una roca",
+    "url": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
+    "date": "2026-06-24",
+    "source": "Science News",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: A rocket reentry spiked metal levels in the atmosphere",
+    "title_es": "Analice esto: la reentrada de un cohete aumentó los niveles de metales en la atmósfera",
+    "url": "https://www.snexplores.org/article/space-junk-metal-pollution-atmosphere",
+    "date": "2026-06-24",
+    "source": "Science News Explores",
+    "published": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover ancient brain cells that help block distractions",
+    "title_es": "Los científicos descubren células cerebrales antiguas que ayudan a bloquear las distracciones",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+    "date": "2026-06-24",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-24T00:00:00.000Z"
   },
   {
@@ -27647,8 +27719,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: CAFusion: A progressive ConvMixer network for context-aware infrared and visible image fusion",
-    "title_es": "Corrección: CAFusion: una red ConvMixer progresiva para la fusión de imágenes visibles e infrarrojas sensibles al contexto",
+    "title": "Correction: Defect induced improved capacitive performance of MnS incorporated MoO 3 nanocomposite for supercapacitor electrodes in aqueous electrolytes",
+    "title_es": "Corrección: rendimiento capacitivo mejorado inducido por defectos del nanocompuesto de MoO<sub>3</sub> incorporado en MnS para electrodos de supercondensadores en electrolitos acuosos",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -62665,6 +62737,14 @@
     "title": "Les Houches lecture notes on tensor networks, by Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete",
     "title_es": "Les Houches lecture notes on tensor networks, by Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete",
     "url": "https://scipost.org/scipostphyslectnotes.128",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Is Lindblad for me?, by Martino Stefanini, Aleksandra A. Ziolkowska, Dmitry Budker, Ulrich Poschinger, Ferdinand Schmidt-Kaler, Antoine Browaeys, Atac Imamoglu, Darrick Chang, Jamir Marino",
+    "title_es": "Is Lindblad for me?, by Martino Stefanini, Aleksandra A. Ziolkowska, Dmitry Budker, Ulrich Poschinger, Ferdinand Schmidt-Kaler, Antoine Browaeys, Atac Imamoglu, Darrick Chang, Jamir Marino",
+    "url": "https://scipost.org/scipostphyslectnotes.129",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

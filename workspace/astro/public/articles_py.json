@@ -1,5 +1,12 @@
 [
   {
+    "title": "Australia's under-16 social media ban shows little early effect on teen use: Research",
+    "title_es": "La prohibición de las redes sociales para menores de 16 años en Australia muestra poco efecto temprano en el uso de los adolescentes: investigación",
+    "url": "https://phys.org/news/2026-06-australia-social-media-early-effect.html",
+    "date": "2026-06-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
     "title_es": "Blog de curiosidades, Sols 4927–4933: Conduzcamos hacia esa zona tranquila",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
@@ -14,6 +21,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Defect induced improved capacitive performance of MnS incorporated MoO<sub>3</sub> nanocomposite for supercapacitor electrodes in aqueous electrolytes",
+    "title_es": "Corrección: rendimiento capacitivo mejorado inducido por defectos del nanocompuesto de MoO<sub>3</sub> incorporado en MnS para electrodos de supercondensadores en electrolitos acuosos",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-24",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+    "title_es": "Prioridades de la acción de aprendizaje para la manipulación de robots con realizaciones cruzadas",
+    "url": "http://arxiv.org/abs/2606.26095v1",
+    "date": "2026-06-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
+    "title_es": "Corrección del autor: Los componentes del complejo cBAF y MYC cooperan tempranamente en el destino de las células T CD8<sup>+</sup>",
+    "url": "https://www.nature.com/articles/s41586-026-10813-z",
+    "date": "2026-06-24",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local\" hreflang=\"es\">El IAC reúne a la colaboración internacional CLUES para avanzar en el estudio del Universo local</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local\" hreflang=\"es\">El IAC reúne a la colaboración internacional CLUES para avanzar en el estudio del Universo local</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-reune-la-colaboracion-internacional-clues-para-avanzar-en-el-estudio-del-universo-local",
+    "date": "2026-06-24",
+    "source": "IAC"
+  },
+  {
+    "title": "A Mars rover found organic carbon just sitting on a rock",
+    "title_es": "Un rover de Marte encontró carbono orgánico sobre una roca",
+    "url": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
+    "date": "2026-06-24",
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: A rocket reentry spiked metal levels in the atmosphere",
+    "title_es": "Analice esto: la reentrada de un cohete aumentó los niveles de metales en la atmósfera",
+    "url": "https://www.snexplores.org/article/space-junk-metal-pollution-atmosphere",
+    "date": "2026-06-24",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists discover ancient brain cells that help block distractions",
+    "title_es": "Los científicos descubren células cerebrales antiguas que ayudan a bloquear las distracciones",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+    "date": "2026-06-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
     "title_es": "Los científicos abren una cápsula del tiempo de un millón de años escondida debajo de Nueva Zelanda",
     "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
@@ -26,13 +82,6 @@
     "url": "https://phys.org/news/2026-06-australia-spent-million-varroa-mite.html",
     "date": "2026-06-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: CAFusion: A progressive ConvMixer network for context-aware infrared and visible image fusion",
-    "title_es": "Corrección: CAFusion: una red ConvMixer progresiva para la fusión de imágenes visibles e infrarrojas sensibles al contexto",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
