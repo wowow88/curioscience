@@ -1,10 +1,87 @@
 [
   {
+    "title": "The Battle for Sullivan’s Island",
+    "title_es": "La batalla por la isla de Sullivan",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
+    "date": "2026-06-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "What to know about earthquake early warning systems",
+    "title_es": "Lo que hay que saber sobre los sistemas de alerta temprana de terremotos",
+    "url": "https://phys.org/news/2026-06-earthquake-early.html",
+    "date": "2026-06-26",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Australia's under-16 social media ban shows little early effect on teen use: Research",
     "title_es": "La prohibición de las redes sociales para menores de 16 años en Australia muestra poco efecto temprano en el uso de los adolescentes: investigación",
     "url": "https://phys.org/news/2026-06-australia-social-media-early-effect.html",
     "date": "2026-06-25",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Detection of Coxsackievirus A24v during an acute haemorrhagic conjunctivitis outbreak in Dar es Salaam, Tanzania, January-February 2024",
+    "title_es": "Detección del virus Coxsackie A24v durante un brote de conjuntivitis hemorrágica aguda en Dar es Salaam, Tanzania, enero-febrero de 2024",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-25",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Autoregressive Boltzmann Generators",
+    "title_es": "Generadores autorregresivos de Boltzmann",
+    "url": "http://arxiv.org/abs/2606.27361v1",
+    "date": "2026-06-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "Dorothy Hodgkin: A Life",
+    "title_es": "Dorothy Hodgkin: una vida",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei9819",
+    "date": "2026-06-25",
+    "source": "Science.org"
+  },
+  {
+    "title": "El investigador del CNIC Miguel Ángel del Pozo recibe financiación de la AECC para impulsar su proyecto",
+    "title_es": "El investigador del CNIC Miguel Ángel del Pozo recibe financiación de la AECC para impulsar su proyecto",
+    "url": "https://www.cnic.es/es/noticias/investigador-cnic-miguel-angel-pozo-recibe-financiacion-aecc-para-impulsar-su-proyecto",
+    "date": "2026-06-25",
+    "source": "CNIC"
+  },
+  {
+    "title": "La AECC apoya una docena de proyectos del CNIO para mejorar la inmunoterapia y la quimioterapia, avanzar en prevención y combatir la metástasis cerebral en fase incipiente",
+    "title_es": "La AECC apoya una docena de proyectos del CNIO para mejorar la inmunoterapia y la quimioterapia, avanzar en prevención y combatir la metástasis cerebral en fase incipiente",
+    "url": "https://www.cnio.es/noticias/la-aecc-apoya-una-docena-de-proyectos-del-cnio-para-mejorar-la-inmunoterapia-y-la-quimioterapia-avanzar-en-prevencion-y-combatir-la-metastasis-cerebral-en-fase-incipiente/",
+    "date": "2026-06-25",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-estudio-revela-la-evidencia-mas-solida-hasta-la-fecha-de-un-campo-magnetico-en-un-exoplaneta\" hreflang=\"es\">Un estudio revela la evidencia más sólida hasta la fecha de un campo magnético en un exoplaneta</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-estudio-revela-la-evidencia-mas-solida-hasta-la-fecha-de-un-campo-magnetico-en-un-exoplaneta\" hreflang=\"es\">Un estudio revela la evidencia más sólida hasta la fecha de un campo magnético en un exoplaneta</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-estudio-revela-la-evidencia-mas-solida-hasta-la-fecha-de-un-campo-magnetico-en-un-exoplaneta",
+    "date": "2026-06-25",
+    "source": "IAC"
+  },
+  {
+    "title": "New science on algae die-offs is too late for the Reflecting Pool",
+    "title_es": "La nueva ciencia sobre la extinción de algas llega demasiado tarde para el estanque reflectante",
+    "url": "https://www.sciencenews.org/article/algae-die-offs-reflecting-pool",
+    "date": "2026-06-25",
+    "source": "Science News"
+  },
+  {
+    "title": "This tree is the number one choice for forest mammals going number two",
+    "title_es": "Este árbol es la opción número uno para los mamíferos del bosque y va al número dos.",
+    "url": "https://www.snexplores.org/article/poop-tree-toilet-forest-mammals",
+    "date": "2026-06-25",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+    "title_es": "Después de 70 años de excavaciones, la antigua Sardis se convierte en Patrimonio de la Humanidad por la UNESCO",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+    "date": "2026-06-25",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
@@ -19,13 +96,6 @@
     "url": "https://phys.org/news/2026-06-h5-bird-flu-australia-state.html",
     "date": "2026-06-24",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Defect induced improved capacitive performance of MnS incorporated MoO<sub>3</sub> nanocomposite for supercapacitor electrodes in aqueous electrolytes",
-    "title_es": "Corrección: rendimiento capacitivo mejorado inducido por defectos del nanocompuesto de MoO<sub>3</sub> incorporado en MnS para electrodos de supercondensadores en electrolitos acuosos",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-24",
-    "source": "PLOS ONE"
   },
   {
     "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
