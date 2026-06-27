@@ -1,5 +1,29 @@
 [
   {
+    "title": "Participatory theater helps young people become active citizens",
+    "title_es": "El teatro participativo ayuda a los jóvenes a convertirse en ciudadanos activos",
+    "url": "https://phys.org/news/2026-06-participatory-theater-young-people-citizens.html",
+    "date": "2026-06-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "title": "Review: What Animals Can Teach Humans About Caregiving",
+    "title_es": "Review: What Animals Can Teach Humans About Caregiving",
+    "url": "https://undark.org/2026/06/26/book-review-creatures-guide-to-caring/",
+    "published": "2026-06-26T20:00:00.000Z",
+    "date": "2026-06-26",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Distant Cousin of Crocodiles Stalked Brazil 240 Million Years Ago",
+    "title_es": "Distant Cousin of Crocodiles Stalked Brazil 240 Million Years Ago",
+    "url": "https://www.sci.news/paleontology/silescelida-acristata-14875.html",
+    "published": "2026-06-26T19:41:26.000Z",
+    "date": "2026-06-26",
+    "source": "Sci.News"
+  },
+  {
     "title": "Europe’s heatwave is the hottest and most humid ever",
     "title_es": "Europe’s heatwave is the hottest and most humid ever",
     "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/",
@@ -29,6 +53,38 @@
     "url": "https://phys.org/news/2026-06-earthquake-early.html",
     "date": "2026-06-26",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+    "title_es": "Charla informativa: Lo que las cosquillas a un chimpancé pueden decirnos sobre la evolución del habla",
+    "url": "https://www.nature.com/articles/d41586-026-02059-6",
+    "date": "2026-06-26",
+    "source": "Nature",
+    "published": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+    "title_es": "La NASA anuncia los ganadores del Human Lander Challenge 2026",
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+    "date": "2026-06-26",
+    "source": "NASA (Top News)",
+    "published": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "title": "How big a cybersecurity threat are the latest AI models, really?",
+    "title_es": "¿Qué tan grandes son realmente las amenazas a la ciberseguridad que suponen los últimos modelos de IA?",
+    "url": "https://www.sciencenews.org/article/cybersecurity-threat-new-ai-models",
+    "date": "2026-06-26",
+    "source": "Science News",
+    "published": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+    "title_es": "La sonda Einstein pudo haber captado por primera vez un agujero negro que destrozaba una enana blanca",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+    "date": "2026-06-26",
+    "source": "ScienceDaily (Top)",
     "published": "2026-06-26T00:00:00.000Z"
   },
   {
@@ -139,6 +195,14 @@
     "title": "Hold the onions – and see if they make you cry",
     "title_es": "Hold the onions – and see if they make you cry",
     "url": "https://www.newscientist.com/article/mg27036012-700-hold-the-onions-and-see-if-they-make-you-cry/",
+    "published": "2026-06-24T18:00:00.000Z",
+    "date": "2026-06-24",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The best sci-fi novel in 2026 so far – plus 6 other great reads",
+    "title_es": "The best sci-fi novel in 2026 so far – plus 6 other great reads",
+    "url": "https://www.newscientist.com/article/mg27036014-200-the-best-sci-fi-novel-in-2026-so-far-plus-6-other-great-reads/",
     "published": "2026-06-24T18:00:00.000Z",
     "date": "2026-06-24",
     "source": "New Scientist"
@@ -27839,8 +27903,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Detection of Coxsackievirus A24v during an acute haemorrhagic conjunctivitis outbreak in Dar es Salaam, Tanzania, January-February 2024",
-    "title_es": "Detección del virus Coxsackie A24v durante un brote de conjuntivitis hemorrágica aguda en Dar es Salaam, Tanzania, enero-febrero de 2024",
+    "title": "Hybrid deep learning for mental workload classification using EEG with enhanced preprocessing and interpretability",
+    "title_es": "Aprendizaje profundo híbrido para la clasificación de la carga de trabajo mental mediante EEG con preprocesamiento e interpretabilidad mejorados",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -62881,6 +62945,22 @@
     "title": "Milky Way Urban Style",
     "title_es": "Milky Way Urban Style",
     "url": "https://apod.nasa.gov/apod/image/2606/milkywayseoulshingoolee800.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Interaction-induced nematic Dirac semimetal from quadratic band touching: A constrained-path quantum Monte Carlo study, by Zi Hong Liu, Hongyu Lu, Zi Yang Meng, Lukas Janssen",
+    "title_es": "Interaction-induced nematic Dirac semimetal from quadratic band touching: A constrained-path quantum Monte Carlo study, by Zi Hong Liu, Hongyu Lu, Zi Yang Meng, Lukas Janssen",
+    "url": "https://scipost.org/scipostphys.20.6.184",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Mars Marathon by Perseverance",
+    "title_es": "Mars Marathon by Perseverance",
+    "url": "https://apod.nasa.gov/apod/image/2606/pia26726_figa1024c.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
