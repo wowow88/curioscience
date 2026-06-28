@@ -1,8 +1,32 @@
 [
   {
+    "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+    "title_es": "Hawái está convirtiendo el plástico del océano y las redes de pesca en carreteras",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+    "date": "2026-06-28",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+    "title_es": "Astronomers found two rare super puff planets lighter than cotton candy",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+    "published": "2026-06-27T01:09:31.000Z",
+    "date": "2026-06-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Participatory theater helps young people become active citizens",
     "title_es": "El teatro participativo ayuda a los jóvenes a convertirse en ciudadanos activos",
     "url": "https://phys.org/news/2026-06-participatory-theater-young-people-citizens.html",
+    "date": "2026-06-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "title": "Female baboons keep family bonds strong: Research reveals the benefits",
+    "title_es": "Las hembras de babuino mantienen fuertes los lazos familiares: una investigación revela los beneficios",
+    "url": "https://phys.org/news/2026-06-female-baboons-family-bonds-strong.html",
     "date": "2026-06-27",
     "source": "Phys.org (Latest)",
     "published": "2026-06-27T00:00:00.000Z"
@@ -102,6 +126,14 @@
     "published": "2026-06-25T18:05:34.000Z",
     "date": "2026-06-25",
     "source": "Undark Magazine"
+  },
+  {
+    "title": "The race to understand how and when Thwaites glacier will collapse",
+    "title_es": "The race to understand how and when Thwaites glacier will collapse",
+    "url": "https://www.newscientist.com/article/2526630-the-race-to-understand-how-and-when-thwaites-glacier-will-collapse/",
+    "published": "2026-06-25T15:59:05.000Z",
+    "date": "2026-06-25",
+    "source": "New Scientist"
   },
   {
     "title": "Graph-Based Phonetic Error Correction of Noisy ASR",
