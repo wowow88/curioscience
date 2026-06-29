@@ -1,5 +1,13 @@
 [
   {
+    "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+    "title_es": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+    "url": "https://arxiv.org/abs/2606.27378",
+    "published": "2026-06-29T04:00:00.000Z",
+    "date": "2026-06-29",
+    "source": "arXiv"
+  },
+  {
     "title": "Dorothy Hodgkin: A Life",
     "title_es": "Dorothy Hodgkin: A Life",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei9819",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
-    "title_es": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
-    "url": "https://www.nature.com/articles/d41586-026-02059-6",
-    "published": "2026-06-26T00:00:00.000Z",
-    "date": "2026-06-26",
+    "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
+    "title_es": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
+    "url": "https://www.nature.com/articles/d41586-026-02023-4",
+    "published": "2026-06-29T00:00:00.000Z",
+    "date": "2026-06-29",
     "source": "Nature"
   },
   {
@@ -22,6 +30,14 @@
     "published": "2026-06-25T18:24:50.000Z",
     "date": "2026-06-25",
     "source": "CNIC"
+  },
+  {
+    "title": "La AECC apoya una docena de proyectos del CNIO para mejorar la inmunoterapia y la quimioterapia, avanzar en prevención y combatir la metástasis cerebral en fase incipiente",
+    "title_es": "La AECC apoya una docena de proyectos del CNIO para mejorar la inmunoterapia y la quimioterapia, avanzar en prevención y combatir la metástasis cerebral en fase incipiente",
+    "url": "https://www.cnio.es/noticias/la-aecc-apoya-una-docena-de-proyectos-del-cnio-para-mejorar-la-inmunoterapia-y-la-quimioterapia-avanzar-en-prevencion-y-combatir-la-metastasis-cerebral-en-fase-incipiente/",
+    "published": "2026-06-25T22:13:13.000Z",
+    "date": "2026-06-25",
+    "source": "CNIO"
   },
   {
     "title": "NASA Announces Winners for 2026 Human Lander Challenge",
@@ -48,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-    "title_es": "Astronomers found two rare super puff planets lighter than cotton candy",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
-    "published": "2026-06-27T01:09:31.000Z",
-    "date": "2026-06-27",
+    "title": "These tiny soil microbes could rescue crops from salty farmland",
+    "title_es": "These tiny soil microbes could rescue crops from salty farmland",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+    "published": "2026-06-29T01:21:44.000Z",
+    "date": "2026-06-29",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Female baboons keep family bonds strong: Research reveals the benefits",
-    "title_es": "Female baboons keep family bonds strong: Research reveals the benefits",
-    "url": "https://phys.org/news/2026-06-female-baboons-family-bonds-strong.html",
-    "published": "2026-06-27T23:00:01.000Z",
-    "date": "2026-06-27",
+    "title": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
+    "title_es": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
+    "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
+    "published": "2026-06-29T09:00:01.000Z",
+    "date": "2026-06-29",
     "source": "Phys.org (Latest)"
   },
   {
@@ -88,11 +104,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Distant Cousin of Crocodiles Stalked Brazil 240 Million Years Ago",
-    "title_es": "Distant Cousin of Crocodiles Stalked Brazil 240 Million Years Ago",
-    "url": "https://www.sci.news/paleontology/silescelida-acristata-14875.html",
-    "published": "2026-06-26T19:41:26.000Z",
-    "date": "2026-06-26",
+    "title": "New Research Traces Origins of Human Laughter",
+    "title_es": "New Research Traces Origins of Human Laughter",
+    "url": "https://www.sci.news/biology/human-laughter-origins-14876.html",
+    "published": "2026-06-28T23:00:06.000Z",
+    "date": "2026-06-28",
     "source": "Sci.News"
   },
   {
@@ -114,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=50.5155&long=-85.9025",
+    "url": "https://www.latlong.net/c/?lat=-45.4708&long=45.2996",
     "date": "",
     "published": "",
     "source": "ISS Position"
