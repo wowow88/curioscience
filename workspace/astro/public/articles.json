@@ -1,5 +1,45 @@
 [
   {
+    "title": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
+    "title_es": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
+    "url": "https://arxiv.org/abs/2606.28413",
+    "published": "2026-06-30T04:00:00.000Z",
+    "date": "2026-06-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+    "title_es": "Es posible que los científicos finalmente hayan descubierto cómo se propaga el Alzheimer a través del cerebro",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+    "date": "2026-06-30",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "NASA launches robot to rescue aging Swift telescope from fiery demise",
+    "title_es": "La NASA lanza un robot para rescatar al antiguo telescopio Swift de una terrible desaparición",
+    "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
+    "date": "2026-06-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Early Saber-Toothed Cat Gets New Face after Decades of Mystery",
+    "title_es": "Early Saber-Toothed Cat Gets New Face after Decades of Mystery",
+    "url": "https://www.sci.news/paleontology/adelphailurus-kansensis-14880.html",
+    "published": "2026-06-29T22:20:24.000Z",
+    "date": "2026-06-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "US government wants to have a useful quantum computer by 2028",
+    "title_es": "US government wants to have a useful quantum computer by 2028",
+    "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/",
+    "published": "2026-06-29T18:00:11.000Z",
+    "date": "2026-06-29",
+    "source": "New Scientist"
+  },
+  {
     "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
     "title_es": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
     "url": "https://arxiv.org/abs/2606.27378",
@@ -29,6 +69,46 @@
     "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
     "date": "2026-06-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+    "title_es": "VLK: aprendizaje de la locomanipulación humanoide a partir de interacciones sintéticas en escenas reconstruidas",
+    "url": "http://arxiv.org/abs/2606.30645v1",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+    "title_es": "Familia de superconductores potenciados por campo magnético en grafeno romboédrico",
+    "url": "https://www.nature.com/articles/s41586-026-10815-x",
+    "date": "2026-06-29",
+    "source": "Nature",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+    "title_es": "El Proyecto Caminos de Ciencias de la Tierra y el Espacio del Noroeste celebra la innovación estudiantil a través del Desafío Nacional ROADS from Earth to Venus",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
+    "date": "2026-06-29",
+    "source": "NASA (Top News)",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "title": "CERN shutters the Large Hadron Collider for a major transformation",
+    "title_es": "El CERN cierra el Gran Colisionador de Hadrones para una gran transformación",
+    "url": "https://www.sciencenews.org/article/cern-large-hadron-collider-upgrade",
+    "date": "2026-06-29",
+    "source": "Science News",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Fluoride",
+    "title_es": "Los científicos dicen: fluoruro",
+    "url": "https://www.snexplores.org/article/scientists-say-fluoride-definition-pronunciation",
+    "date": "2026-06-29",
+    "source": "Science News Explores",
     "published": "2026-06-29T00:00:00.000Z"
   },
   {
@@ -27983,8 +28063,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Hybrid deep learning for mental workload classification using EEG with enhanced preprocessing and interpretability",
-    "title_es": "Aprendizaje profundo híbrido para la clasificación de la carga de trabajo mental mediante EEG con preprocesamiento e interpretabilidad mejorados",
+    "title": "Correction: The contagion effect of heterogeneous investor groups",
+    "title_es": "Corrección: El efecto contagio de los grupos inversores heterogéneos",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -63044,5 +63124,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Extracting average properties of disordered spin chains with translationally invariant tensor networks, by Kevin Vervoort, Wei Tang, Nick Bultinck",
+    "title_es": "Extracting average properties of disordered spin chains with translationally invariant tensor networks, by Kevin Vervoort, Wei Tang, Nick Bultinck",
+    "url": "https://scipost.org/scipostphyscore.9.2.040",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

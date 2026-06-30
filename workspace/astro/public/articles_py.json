@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+    "title_es": "Es posible que los científicos finalmente hayan descubierto cómo se propaga el Alzheimer a través del cerebro",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+    "date": "2026-06-30",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "NASA launches robot to rescue aging Swift telescope from fiery demise",
+    "title_es": "La NASA lanza un robot para rescatar al antiguo telescopio Swift de una terrible desaparición",
+    "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
+    "date": "2026-06-30",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
     "title_es": "Trump tiene grandes ambiciones en IA y cuántica: el trabajo de este científico es hacerlas realidad",
     "url": "https://www.nature.com/articles/d41586-026-02023-4",
@@ -19,6 +33,48 @@
     "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
     "date": "2026-06-29",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: The contagion effect of heterogeneous investor groups",
+    "title_es": "Corrección: El efecto contagio de los grupos inversores heterogéneos",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-06-29",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+    "title_es": "VLK: aprendizaje de la locomanipulación humanoide a partir de interacciones sintéticas en escenas reconstruidas",
+    "url": "http://arxiv.org/abs/2606.30645v1",
+    "date": "2026-06-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+    "title_es": "Familia de superconductores potenciados por campo magnético en grafeno romboédrico",
+    "url": "https://www.nature.com/articles/s41586-026-10815-x",
+    "date": "2026-06-29",
+    "source": "Nature"
+  },
+  {
+    "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+    "title_es": "El Proyecto Caminos de Ciencias de la Tierra y el Espacio del Noroeste celebra la innovación estudiantil a través del Desafío Nacional ROADS from Earth to Venus",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
+    "date": "2026-06-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "CERN shutters the Large Hadron Collider for a major transformation",
+    "title_es": "El CERN cierra el Gran Colisionador de Hadrones para una gran transformación",
+    "url": "https://www.sciencenews.org/article/cern-large-hadron-collider-upgrade",
+    "date": "2026-06-29",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Fluoride",
+    "title_es": "Los científicos dicen: fluoruro",
+    "url": "https://www.snexplores.org/article/scientists-say-fluoride-definition-pronunciation",
+    "date": "2026-06-29",
+    "source": "Science News Explores"
   },
   {
     "title": "Hawaii is turning ocean plastic and fishing nets into roads",
@@ -54,13 +110,6 @@
     "url": "https://phys.org/news/2026-06-earthquake-early.html",
     "date": "2026-06-26",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Hybrid deep learning for mental workload classification using EEG with enhanced preprocessing and interpretability",
-    "title_es": "Aprendizaje profundo híbrido para la clasificación de la carga de trabajo mental mediante EEG con preprocesamiento e interpretabilidad mejorados",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-06-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
