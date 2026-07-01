@@ -1,5 +1,37 @@
 [
   {
+    "title": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection",
+    "title_es": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection",
+    "url": "https://arxiv.org/abs/2606.30646",
+    "published": "2026-07-01T04:00:00.000Z",
+    "date": "2026-07-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "NASA rolls out three robotic moon missions as 2029 lunar base plans take shape",
+    "title_es": "La NASA lanza tres misiones robóticas a la luna a medida que toman forma los planes de la base lunar para 2029",
+    "url": "https://phys.org/news/2026-07-nasa-robotic-moon-missions-lunar.html",
+    "date": "2026-07-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Fossils from German Quarry Reveal New Subspecies of European Leopard",
+    "title_es": "Fossils from German Quarry Reveal New Subspecies of European Leopard",
+    "url": "https://www.sci.news/paleontology/panthera-pardus-burgtonnae-14883.html",
+    "published": "2026-06-30T21:54:52.000Z",
+    "date": "2026-06-30",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The world's fastest spider tops 3.5 metres per second",
+    "title_es": "The world's fastest spider tops 3.5 metres per second",
+    "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/",
+    "published": "2026-06-30T18:00:57.000Z",
+    "date": "2026-06-30",
+    "source": "New Scientist"
+  },
+  {
     "title": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
     "title_es": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
     "url": "https://arxiv.org/abs/2606.28413",
@@ -21,6 +53,62 @@
     "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
     "date": "2026-06-30",
     "source": "Phys.org (Latest)",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+    "title_es": "Acoplamiento introspectivo: el entrenamiento de autoexplicación rastrea el cambio de comportamiento a pesar de la supervisión fija",
+    "url": "http://arxiv.org/abs/2606.32038v1",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Vaccination elicits HIV broadly neutralizing antibodies in primates",
+    "title_es": "La vacunación provoca anticuerpos ampliamente neutralizantes del VIH en primates",
+    "url": "https://www.nature.com/articles/s41586-026-10837-5",
+    "date": "2026-06-30",
+    "source": "Nature",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Marina Ruiz Castell: \"Existe una tendencia a diseñar soluciones desde arriba, sin tener en cuenta las necesidades reales de las personas\"",
+    "title_es": "Marina Ruiz Castell: \"Existe una tendencia a diseñar soluciones desde arriba, sin tener en cuenta las necesidades reales de las personas\"",
+    "url": "https://www.cnic.es/es/noticias/marina-ruiz-castell-existe-tendencia-disenar-soluciones-desde-arriba-sin-tener-cuenta",
+    "date": "2026-06-30",
+    "source": "CNIC",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-obtiene-una-erc-para-aplicar-inteligencia-artificial-al-estudio-de-objetos-subestelares\" hreflang=\"es\">El IAC obtiene una ERC para aplicar inteligencia artificial al estudio de objetos subestelares</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-obtiene-una-erc-para-aplicar-inteligencia-artificial-al-estudio-de-objetos-subestelares\" hreflang=\"es\">El IAC obtiene una ERC para aplicar inteligencia artificial al estudio de objetos subestelares</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-obtiene-una-erc-para-aplicar-inteligencia-artificial-al-estudio-de-objetos-subestelares",
+    "date": "2026-06-30",
+    "source": "IAC",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+    "title_es": "Chandra de la NASA revela el universo 'rojo, blanco y azul' para el número 250 de EE. UU.",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/",
+    "date": "2026-06-30",
+    "source": "NASA (Top News)",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "This microbe turns into a cannibalistic ‘Hulk’",
+    "title_es": "Este microbio se convierte en un 'Hulk' caníbal",
+    "url": "https://www.sciencenews.org/article/microbe-cannibalistic-hulk",
+    "date": "2026-06-30",
+    "source": "Science News",
+    "published": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Experiment: Remove microplastics from water with yeast",
+    "title_es": "Experimento: eliminar microplásticos del agua con levadura",
+    "url": "https://www.snexplores.org/article/yeast-remove-microplastics-water",
+    "date": "2026-06-30",
+    "source": "Science News Explores",
     "published": "2026-06-30T00:00:00.000Z"
   },
   {
@@ -28063,8 +28151,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: The contagion effect of heterogeneous investor groups",
-    "title_es": "Corrección: El efecto contagio de los grupos inversores heterogéneos",
+    "title": "Correction: Resilient distributed model predictive control for cooperative microgrids under communication loss with demand response integration",
+    "title_es": "Corrección: Control predictivo de modelo distribuido resiliente para microrredes cooperativas bajo pérdida de comunicación con integración de respuesta a la demanda",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
