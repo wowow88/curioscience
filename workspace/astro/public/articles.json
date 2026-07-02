@@ -1,5 +1,53 @@
 [
   {
+    "title": "Biologists Should Articulate Their Position on AI",
+    "title_es": "Biologists Should Articulate Their Position on AI",
+    "url": "https://undark.org/2026/07/02/opinion-biologists-leiden-declaration/",
+    "published": "2026-07-02T07:07:00.000Z",
+    "date": "2026-07-02",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "title_es": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "url": "https://arxiv.org/abs/2607.00001",
+    "published": "2026-07-02T04:00:00.000Z",
+    "date": "2026-07-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "What’s Up: July 2026 Skywatching Tips from NASA",
+    "title_es": "Qué pasa: consejos de la NASA para observar el cielo en julio de 2026",
+    "url": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/",
+    "date": "2026-07-02",
+    "source": "NASA (Top News)",
+    "published": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "title": "Sightings of humpback whales surge in Rio de Janeiro, fueling demand for whale-watching trips",
+    "title_es": "Aumentan los avistamientos de ballenas jorobadas en Río de Janeiro, lo que alimenta la demanda de viajes de observación de ballenas",
+    "url": "https://phys.org/news/2026-07-sightings-humpback-whales-surge-rio.html",
+    "date": "2026-07-02",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "title": "83-Million-Year-Old Fossil Rewrites Timeline of Antarctica’s First Dinosaur Discovery",
+    "title_es": "83-Million-Year-Old Fossil Rewrites Timeline of Antarctica’s First Dinosaur Discovery",
+    "url": "https://www.sci.news/paleontology/antarctic-titanosaur-14888.html",
+    "published": "2026-07-01T21:06:10.000Z",
+    "date": "2026-07-01",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Do you want your underwear with added probiotics?",
+    "title_es": "Do you want your underwear with added probiotics?",
+    "url": "https://www.newscientist.com/article/mg27136022-300-do-you-want-your-underwear-with-added-probiotics/",
+    "published": "2026-07-01T18:00:00.000Z",
+    "date": "2026-07-01",
+    "source": "New Scientist"
+  },
+  {
     "title": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection",
     "title_es": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection",
     "url": "https://arxiv.org/abs/2606.30646",
@@ -16,12 +64,76 @@
     "published": "2026-07-01T00:00:00.000Z"
   },
   {
+    "title": "Measuring the Gap Between Human and LLM Research Ideas",
+    "title_es": "Medir la brecha entre las ideas de investigación humana y LLM",
+    "url": "http://arxiv.org/abs/2607.01233v1",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Togetherness: How co-operation built the world",
+    "title_es": "Unión: cómo la cooperación construyó el mundo",
+    "url": "https://www.nature.com/articles/d41586-026-02067-6",
+    "date": "2026-07-01",
+    "source": "Nature",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Circulation: Researchers Identify a Key Mechanism Driving Coronary Damage in Kawasaki Disease",
+    "title_es": "Circulation: Researchers Identify a Key Mechanism Driving Coronary Damage in Kawasaki Disease",
+    "url": "https://www.cnic.es/es/node/243260",
+    "date": "2026-07-01",
+    "source": "CNIC",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-impulsan-un-curso-de-verano-sobre-astrofisica-y-sector-espacial-en-colaboracion-con-la\" hreflang=\"es\">El IAC y la ULL impulsan un curso de verano sobre astrofísica y sector espacial en colaboración con la Universidad Complutense de Madrid</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-impulsan-un-curso-de-verano-sobre-astrofisica-y-sector-espacial-en-colaboracion-con-la\" hreflang=\"es\">El IAC y la ULL impulsan un curso de verano sobre astrofísica y sector espacial en colaboración con la Universidad Complutense de Madrid</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-impulsan-un-curso-de-verano-sobre-astrofisica-y-sector-espacial-en-colaboracion-con-la",
+    "date": "2026-07-01",
+    "source": "IAC",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Young gulls’ drab plumage may help them avoid adult attacks",
+    "title_es": "El plumaje monótono de las gaviotas jóvenes puede ayudarlas a evitar ataques de adultos",
+    "url": "https://www.sciencenews.org/article/young-gulls-plumage-adult-attacks",
+    "date": "2026-07-01",
+    "source": "Science News",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Mosquitoes may learn to like DEET, a common insect repellent",
+    "title_es": "Los mosquitos pueden aprender a disfrutar del DEET, un repelente de insectos común",
+    "url": "https://www.snexplores.org/article/deet-repellent-attract-mosquitoes",
+    "date": "2026-07-01",
+    "source": "Science News Explores",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a surprising link between vitamin C and brain health",
+    "title_es": "Los científicos descubren un vínculo sorprendente entre la vitamina C y la salud del cerebro",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+    "date": "2026-07-01",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
     "title": "Fossils from German Quarry Reveal New Subspecies of European Leopard",
     "title_es": "Fossils from German Quarry Reveal New Subspecies of European Leopard",
     "url": "https://www.sci.news/paleontology/panthera-pardus-burgtonnae-14883.html",
     "published": "2026-06-30T21:54:52.000Z",
     "date": "2026-06-30",
     "source": "Sci.News"
+  },
+  {
+    "title": "Scientists discover a completely different way to fight viruses",
+    "title_es": "Scientists discover a completely different way to fight viruses",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+    "published": "2026-06-30T20:18:00.000Z",
+    "date": "2026-06-30",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "The world's fastest spider tops 3.5 metres per second",
@@ -28151,8 +28263,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Resilient distributed model predictive control for cooperative microgrids under communication loss with demand response integration",
-    "title_es": "Corrección: Control predictivo de modelo distribuido resiliente para microrredes cooperativas bajo pérdida de comunicación con integración de respuesta a la demanda",
+    "title": "Admission NT-proBNP provides stronger prognostic discrimination than the AHEAD score for 1-year mortality in hospitalized acute heart failure: A retrospective cohort study",
+    "title_es": "El NT-proBNP al ingreso proporciona una discriminación pronóstica más fuerte que la puntuación AHEAD para la mortalidad a 1 año en pacientes con insuficiencia cardíaca aguda hospitalizada: un estudio de cohorte retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -63220,5 +63332,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "FASTColor – Full-color amplitude surrogate toolkit for QCD, by Javier Mariño Villadamigo, Rikkert Frederix, Tilman Plehn, Timea Vitos, Ramon Winterhalder",
+    "title_es": "FASTColor – Full-color amplitude surrogate toolkit for QCD, by Javier Mariño Villadamigo, Rikkert Frederix, Tilman Plehn, Timea Vitos, Ramon Winterhalder",
+    "url": "https://scipost.org/scipostphys.21.1.001",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Sibling Supernova Remnants",
+    "title_es": "Sibling Supernova Remnants",
+    "url": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
