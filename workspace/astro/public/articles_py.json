@@ -1,5 +1,26 @@
 [
   {
+    "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+    "title_es": "China impulsa subvenciones prestigiosas para jóvenes científicos: ¿facilitará la competencia?",
+    "url": "https://www.nature.com/articles/d41586-026-01989-5",
+    "date": "2026-07-03",
+    "source": "Nature"
+  },
+  {
+    "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+    "title_es": "Una extraña señal LIGO podría revelar el eslabón perdido detrás de la materia oscura",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+    "date": "2026-07-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Wildfires rage in southern France, 3,000 people evacuated",
+    "title_es": "Los incendios forestales arrasan el sur de Francia y 3.000 personas son evacuadas",
+    "url": "https://phys.org/news/2026-07-wildfires-rage-southern-france-people.html",
+    "date": "2026-07-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "What’s Up: July 2026 Skywatching Tips from NASA",
     "title_es": "Qué pasa: consejos de la NASA para observar el cielo en julio de 2026",
     "url": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/",
@@ -14,18 +35,60 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Muscle strength characteristics and the predictive value of handgrip strength in young obese males: A multi‑joint isokinetic and LASSO regression analysis",
+    "title_es": "Características de la fuerza muscular y el valor predictivo de la fuerza de prensión manual en hombres jóvenes obesos: un análisis de regresión isocinética multiarticular y LASSO",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-02",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Distributed Attacks in Persistent-State AI Control",
+    "title_es": "Ataques distribuidos en control de IA de estado persistente",
+    "url": "http://arxiv.org/abs/2607.02514v1",
+    "date": "2026-07-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "American science at 250",
+    "title_es": "La ciencia estadounidense a 250",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej4833",
+    "date": "2026-07-02",
+    "source": "Science.org"
+  },
+  {
+    "title": "El CNIO buscará fármacos que amplíen la eficacia de la inmunoterapia a más tumores, con una estrategia seleccionada por el Consejo Europeo de Investigación",
+    "title_es": "El CNIO buscará fármacos que amplíen la eficacia de la inmunoterapia a más tumores, con una estrategia seleccionada por el Consejo Europeo de Investigación",
+    "url": "https://www.cnio.es/noticias/el-cnio-buscara-farmacos-que-amplien-la-eficacia-de-la-inmunoterapia-a-mas-tumores-con-una-estrategia-seleccionada-por-el-consejo-europeo-de-investigacion/",
+    "date": "2026-07-02",
+    "source": "CNIO"
+  },
+  {
+    "title": "NASA’s Artemis II Breaks Agency Streaming Record",
+    "title_es": "Artemis II de la NASA bate el récord de transmisión de la agencia",
+    "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
+    "date": "2026-07-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Giant trees have tricks to work around drought",
+    "title_es": "Los árboles gigantes tienen trucos para evitar la sequía",
+    "url": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
+    "date": "2026-07-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Giant school bus–sized octopuses may have once ruled the oceans",
+    "title_es": "Es posible que pulpos gigantes del tamaño de un autobús escolar alguna vez gobernaran los océanos",
+    "url": "https://www.snexplores.org/article/giant-octopuses-cretaceous-kraken",
+    "date": "2026-07-02",
+    "source": "Science News Explores"
+  },
+  {
     "title": "NASA rolls out three robotic moon missions as 2029 lunar base plans take shape",
     "title_es": "La NASA lanza tres misiones robóticas a la luna a medida que toman forma los planes de la base lunar para 2029",
     "url": "https://phys.org/news/2026-07-nasa-robotic-moon-missions-lunar.html",
     "date": "2026-07-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Admission NT-proBNP provides stronger prognostic discrimination than the AHEAD score for 1-year mortality in hospitalized acute heart failure: A retrospective cohort study",
-    "title_es": "El NT-proBNP al ingreso proporciona una discriminación pronóstica más fuerte que la puntuación AHEAD para la mortalidad a 1 año en pacientes con insuficiencia cardíaca aguda hospitalizada: un estudio de cohorte retrospectivo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "Measuring the Gap Between Human and LLM Research Ideas",
