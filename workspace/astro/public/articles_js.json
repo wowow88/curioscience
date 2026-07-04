@@ -1,13 +1,5 @@
 [
   {
-    "title": "TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models",
-    "title_es": "TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models",
-    "url": "https://arxiv.org/abs/2607.01235",
-    "published": "2026-07-03T04:00:00.000Z",
-    "date": "2026-07-03",
-    "source": "arXiv"
-  },
-  {
     "title": "American science at 250",
     "title_es": "American science at 250",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej4833",
@@ -40,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-    "title_es": "NASA’s Artemis II Breaks Agency Streaming Record",
-    "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
-    "published": "2026-07-02T18:02:21.000Z",
-    "date": "2026-07-02",
+    "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+    "title_es": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+    "published": "2026-07-03T15:01:17.000Z",
+    "date": "2026-07-03",
     "source": "NASA (Top News)"
   },
   {
@@ -72,11 +64,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Wildfires rage in southern France, 3,000 people evacuated",
-    "title_es": "Wildfires rage in southern France, 3,000 people evacuated",
-    "url": "https://phys.org/news/2026-07-wildfires-rage-southern-france-people.html",
-    "published": "2026-07-03T08:00:02.000Z",
-    "date": "2026-07-03",
+    "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
+    "title_es": "Scientists find yeast in ancient Iceman's guts—and make bread",
+    "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
+    "published": "2026-07-04T08:00:01.000Z",
+    "date": "2026-07-04",
     "source": "Phys.org (Latest)"
   },
   {
@@ -88,10 +80,10 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Evocative photos of Canadian Arctic win New Scientist Editors Award",
-    "title_es": "Evocative photos of Canadian Arctic win New Scientist Editors Award",
-    "url": "https://www.newscientist.com/article/2532503-evocative-photos-of-canadian-arctic-win-new-scientist-editors-award/",
-    "published": "2026-07-03T00:05:34.000Z",
+    "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
+    "title_es": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
+    "url": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/",
+    "published": "2026-07-03T19:00:38.000Z",
     "date": "2026-07-03",
     "source": "New Scientist"
   },
@@ -128,9 +120,17 @@
     "source": "SciPost Publications"
   },
   {
+    "title": "Pathfinder on Mars",
+    "title_es": "Pathfinder on Mars",
+    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=51.6107&long=29.9154",
+    "url": "https://www.latlong.net/c/?lat=-0.0341&long=170.8659",
     "date": "",
     "published": "",
     "source": "ISS Position"
