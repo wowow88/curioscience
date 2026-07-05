@@ -32,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-    "title_es": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
-    "published": "2026-07-03T15:01:17.000Z",
-    "date": "2026-07-03",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "Giant trees have tricks to work around drought",
     "title_es": "Giant trees have tricks to work around drought",
     "url": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
@@ -56,19 +48,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover a completely different way to fight viruses",
-    "title_es": "Scientists discover a completely different way to fight viruses",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-    "published": "2026-06-30T20:18:00.000Z",
-    "date": "2026-06-30",
+    "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+    "title_es": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+    "published": "2026-07-05T04:10:58.000Z",
+    "date": "2026-07-05",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
-    "title_es": "Scientists find yeast in ancient Iceman's guts—and make bread",
-    "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
-    "published": "2026-07-04T08:00:01.000Z",
-    "date": "2026-07-04",
+    "title": "'This was something new': What people in Greenland told us about learning to live with wildfires",
+    "title_es": "'This was something new': What people in Greenland told us about learning to live with wildfires",
+    "url": "https://phys.org/news/2026-06-people-greenland-told-wildfires.html",
+    "published": "2026-07-05T02:50:01.000Z",
+    "date": "2026-07-05",
     "source": "Phys.org (Latest)"
   },
   {
@@ -96,11 +88,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Scientists Recover Ancient Human DNA from Cave Walls",
-    "title_es": "Scientists Recover Ancient Human DNA from Cave Walls",
-    "url": "https://www.sci.news/othersciences/anthropology/ancient-human-dna-cave-walls-14889.html",
-    "published": "2026-07-02T15:20:56.000Z",
-    "date": "2026-07-02",
+    "title": "Biologists Build Synthetic Cell that Can Feed, Grow, Divide and Evolve",
+    "title_es": "Biologists Build Synthetic Cell that Can Feed, Grow, Divide and Evolve",
+    "url": "https://www.sci.news/biology/synthetic-cell-14890.html",
+    "published": "2026-07-04T22:33:40.000Z",
+    "date": "2026-07-04",
     "source": "Sci.News"
   },
   {
@@ -120,9 +112,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Pathfinder on Mars",
-    "title_es": "Pathfinder on Mars",
-    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
+    "title": "Saturn's Iapetus: Painted Moon",
+    "title_es": "Saturn's Iapetus: Painted Moon",
+    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-0.0341&long=170.8659",
+    "url": "https://www.latlong.net/c/?lat=-39.2606&long=22.0021",
     "date": "",
     "published": "",
     "source": "ISS Position"

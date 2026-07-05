@@ -1,5 +1,29 @@
 [
   {
+    "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+    "title_es": "El Hubble de la NASA detecta una bengala estelar para el 4 de julio",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+    "date": "2026-07-05",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "title": "'This was something new': What people in Greenland told us about learning to live with wildfires",
+    "title_es": "'Esto era algo nuevo': lo que nos dijo la gente de Groenlandia sobre cómo aprender a vivir con los incendios forestales",
+    "url": "https://phys.org/news/2026-06-people-greenland-told-wildfires.html",
+    "date": "2026-07-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "title": "Biologists Build Synthetic Cell that Can Feed, Grow, Divide and Evolve",
+    "title_es": "Biologists Build Synthetic Cell that Can Feed, Grow, Divide and Evolve",
+    "url": "https://www.sci.news/biology/synthetic-cell-14890.html",
+    "published": "2026-07-04T22:33:40.000Z",
+    "date": "2026-07-04",
+    "source": "Sci.News"
+  },
+  {
     "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
     "title_es": "Los científicos encuentran levadura en las entrañas del antiguo Hombre de Hielo y hacen pan",
     "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
@@ -63489,6 +63513,14 @@
     "title": "Pathfinder on Mars",
     "title_es": "Pathfinder on Mars",
     "url": "https://apod.nasa.gov/apod/image/2607/pia00621_1080cwb.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Saturn's Iapetus: Painted Moon",
+    "title_es": "Saturn's Iapetus: Painted Moon",
+    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
