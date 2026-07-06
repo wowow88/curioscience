@@ -1,5 +1,37 @@
 [
   {
+    "title": "Can the biggest problems in AI be solved by philosophy?",
+    "title_es": "Can the biggest problems in AI be solved by philosophy?",
+    "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/",
+    "published": "2026-07-06T06:00:42.000Z",
+    "date": "2026-07-06",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
+    "title_es": "Las farolas están atrapando miles de cochinillas en gigantescas “espirales de muerte”",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
+    "date": "2026-07-06",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "title": "Researchers use AI to evaluate a systematic framework to describe molecular order in liquid water",
+    "title_es": "Los investigadores utilizan IA para evaluar un marco sistemático para describir el orden molecular en agua líquida",
+    "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
+    "date": "2026-07-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "title": "Homo floresiensis Probably Didn’t Hunt Stegodons or Use Fire",
+    "title_es": "Homo floresiensis Probably Didn’t Hunt Stegodons or Use Fire",
+    "url": "https://www.sci.news/othersciences/anthropology/homo-floresiensis-hunting-fire-use-14891.html",
+    "published": "2026-07-05T13:25:26.000Z",
+    "date": "2026-07-05",
+    "source": "Sci.News"
+  },
+  {
     "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
     "title_es": "El Hubble de la NASA detecta una bengala estelar para el 4 de julio",
     "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
@@ -29,6 +61,14 @@
     "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
     "date": "2026-07-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+    "title_es": "El Hubble de la NASA espía la bengala estelar del 4 de julio",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+    "date": "2026-07-04",
+    "source": "NASA (Top News)",
     "published": "2026-07-04T00:00:00.000Z"
   },
   {
@@ -63521,6 +63561,14 @@
     "title": "Saturn's Iapetus: Painted Moon",
     "title_es": "Saturn's Iapetus: Painted Moon",
     "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Dueling Bands over the Atacama Desert",
+    "title_es": "Dueling Bands over the Atacama Desert",
+    "url": "https://apod.nasa.gov/apod/image/2607/zodimw_looten_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
