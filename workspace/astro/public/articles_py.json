@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI just supercharged the race to find room temperature superconductors",
+    "title_es": "La IA acaba de impulsar la carrera para encontrar superconductores a temperatura ambiente",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+    "date": "2026-07-07",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Death toll from China storms rises to 15, hundreds injured",
+    "title_es": "El número de muertos por las tormentas en China aumenta a 15 y cientos de heridos",
+    "url": "https://phys.org/news/2026-07-death-toll-china-storms-hundreds.html",
+    "date": "2026-07-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
     "title_es": "Las farolas están atrapando miles de cochinillas en gigantescas “espirales de muerte”",
     "url": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
@@ -12,6 +26,41 @@
     "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
     "date": "2026-07-06",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm",
+    "title_es": "Método inteligente de compensación de errores de medición en sensores de corriente de fibra óptica causados ​​por variación de temperatura basado en el algoritmo Levy-Weighted-QPSO-NN",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-06",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "title_es": "De cámaras fijas a cámaras libres: modelo de visión, lenguaje y acción robusto sin calibración",
+    "url": "http://arxiv.org/abs/2607.05396v1",
+    "date": "2026-07-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "Alzheimer's & Dementia: A new imaging technique locates microthrombi that worsen Alzheimer’s disease, opening the way to personalized anticoagulant therapy",
+    "title_es": "Alzheimer's & Dementia: A new imaging technique locates microthrombi that worsen Alzheimer’s disease, opening the way to personalized anticoagulant therapy",
+    "url": "https://www.cnic.es/es/node/243355",
+    "date": "2026-07-06",
+    "source": "CNIC"
+  },
+  {
+    "title": "Pickles glow when you plug them in. Science explains why",
+    "title_es": "Los pepinillos brillan cuando los enchufas. La ciencia explica por qué",
+    "url": "https://www.sciencenews.org/article/pickle-glow-electricity-experiment",
+    "date": "2026-07-06",
+    "source": "Science News"
+  },
+  {
+    "title": "VR can train the human brain to treat wings like real limbs",
+    "title_es": "La realidad virtual puede entrenar al cerebro humano para que trate las alas como si fueran extremidades reales",
+    "url": "https://www.snexplores.org/article/brain-flying-virtual-wings",
+    "date": "2026-07-06",
+    "source": "Science News Explores"
   },
   {
     "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
@@ -89,13 +138,6 @@
     "url": "https://phys.org/news/2026-07-sightings-humpback-whales-surge-rio.html",
     "date": "2026-07-02",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Muscle strength characteristics and the predictive value of handgrip strength in young obese males: A multi‑joint isokinetic and LASSO regression analysis",
-    "title_es": "Características de la fuerza muscular y el valor predictivo de la fuerza de prensión manual en hombres jóvenes obesos: un análisis de regresión isocinética multiarticular y LASSO",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-02",
-    "source": "PLOS ONE"
   },
   {
     "title": "Distributed Attacks in Persistent-State AI Control",
