@@ -1,5 +1,19 @@
 [
   {
+    "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+    "title_es": "El hormiguero de Schrödinger: entrelazamiento cuántico encontrado en un cristal lo suficientemente grande como para contenerlo",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+    "date": "2026-07-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How foreign direct investments affect employment and income in rural areas of the US",
+    "title_es": "Cómo las inversiones extranjeras directas afectan el empleo y los ingresos en las zonas rurales de EE. UU.",
+    "url": "https://phys.org/news/2026-07-foreign-investments-affect-employment-income.html",
+    "date": "2026-07-08",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "AI just supercharged the race to find room temperature superconductors",
     "title_es": "La IA acaba de impulsar la carrera para encontrar superconductores a temperatura ambiente",
     "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
@@ -14,6 +28,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Leaf beetle diversity on a Southeast Asian continental island: Taxonomy, DNA barcoding, and preliminary evolutionary insights from Cat Ba Island, Vietnam",
+    "title_es": "Corrección: Diversidad de escarabajos de las hojas en una isla continental del sudeste asiático: taxonomía, códigos de barras de ADN y conocimientos evolutivos preliminares de la isla Cat Ba, Vietnam",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "title_es": "ELSA3D: Anclaje semántico elástico para comprensión y generación unificadas en 3D",
+    "url": "http://arxiv.org/abs/2607.06565v1",
+    "date": "2026-07-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+    "title_es": "Corrección del editor: una computadora cuántica de iones atrapados de 98 qubits con conectividad total",
+    "url": "https://www.nature.com/articles/s41586-026-10882-0",
+    "date": "2026-07-07",
+    "source": "Nature"
+  },
+  {
+    "title": "Nature Cardiovascular Research: Descubren un nuevo mecanismo de la enfermedad genética cardiaca más común y confirman la eficacia de un tratamiento de última generación",
+    "title_es": "Nature Cardiovascular Research: Descubren un nuevo mecanismo de la enfermedad genética cardiaca más común y confirman la eficacia de un tratamiento de última generación",
+    "url": "https://www.cnic.es/es/noticias/nature-cardiovascular-research-descubren-un-nuevo-mecanismo-enfermedad-genetica-cardiaca",
+    "date": "2026-07-07",
+    "source": "CNIC"
+  },
+  {
+    "title": "A robot swarm is on a mission to map Greenland’s perilous ice sheets",
+    "title_es": "Un enjambre de robots tiene la misión de mapear las peligrosas capas de hielo de Groenlandia",
+    "url": "https://www.sciencenews.org/article/robot-mission-map-greenland-ice-climate",
+    "date": "2026-07-07",
+    "source": "Science News"
+  },
+  {
+    "title": "Earth’s crust under Africa is thinning in a way never seen before",
+    "title_es": "La corteza terrestre bajo África se está adelgazando como nunca antes se había visto",
+    "url": "https://www.snexplores.org/article/earth-crust-africa-continent-splitting",
+    "date": "2026-07-07",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
     "title_es": "Las farolas están atrapando miles de cochinillas en gigantescas “espirales de muerte”",
     "url": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
@@ -26,13 +82,6 @@
     "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
     "date": "2026-07-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm",
-    "title_es": "Método inteligente de compensación de errores de medición en sensores de corriente de fibra óptica causados ​​por variación de temperatura basado en el algoritmo Levy-Weighted-QPSO-NN",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
