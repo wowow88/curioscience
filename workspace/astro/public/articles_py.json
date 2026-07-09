@@ -1,5 +1,26 @@
 [
   {
+    "title": "Super Typhoon Bavi",
+    "title_es": "Súper tifón Bavi",
+    "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+    "date": "2026-07-09",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+    "title_es": "Científicos de Harvard convierten un chip de silicio en una máquina de escribir ADN",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+    "date": "2026-07-09",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Artemis II astronauts reunite with their moonship 3 months after record-breaking flight",
+    "title_es": "Los astronautas de Artemis II se reúnen con su nave lunar 3 meses después de un vuelo récord",
+    "url": "https://phys.org/news/2026-07-artemis-ii-astronauts-reunite-moonship.html",
+    "date": "2026-07-09",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
     "title_es": "El hormiguero de Schrödinger: entrelazamiento cuántico encontrado en un cristal lo suficientemente grande como para contenerlo",
     "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
@@ -14,6 +35,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Serum albumin and blood urea as independent predictors of in-hospital mortality in hospitalized COVID-19 patients: A retrospective cohort study",
+    "title_es": "Albúmina sérica y urea en sangre como predictores independientes de mortalidad hospitalaria en pacientes hospitalizados con COVID-19: un estudio de cohorte retrospectivo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-08",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "title_es": "Comprensión precisa, interdisciplinaria y transparente de las propiedades de la estructura con un razonamiento estructural nativo profundo",
+    "url": "http://arxiv.org/abs/2607.07708v1",
+    "date": "2026-07-08",
+    "source": "arXiv"
+  },
+  {
+    "title": "Nukes in space? Orbital detector could sniff out warheads",
+    "title_es": "¿Armas nucleares en el espacio? Un detector orbital podría detectar ojivas",
+    "url": "https://www.nature.com/articles/d41586-026-02141-z",
+    "date": "2026-07-08",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia\" hreflang=\"es\">Presentado el programa divulgativo NATE del eclipse de agosto en Palencia</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia\" hreflang=\"es\">Presentado el programa divulgativo NATE del eclipse de agosto en Palencia</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia",
+    "date": "2026-07-08",
+    "source": "IAC"
+  },
+  {
+    "title": "Can geoengineering blunt El Niño’s fury?",
+    "title_es": "¿Puede la geoingeniería mitigar la furia de El Niño?",
+    "url": "https://www.sciencenews.org/article/geoengineering-el-nino-extremes",
+    "date": "2026-07-08",
+    "source": "Science News"
+  },
+  {
+    "title": "Here’s how ‘singing’ mice belt out their tiny tunes",
+    "title_es": "Así es como los ratones 'cantantes' cantan sus pequeñas melodías",
+    "url": "https://www.snexplores.org/article/singing-mice-throat-air-sacs",
+    "date": "2026-07-08",
+    "source": "Science News Explores"
+  },
+  {
     "title": "AI just supercharged the race to find room temperature superconductors",
     "title_es": "La IA acaba de impulsar la carrera para encontrar superconductores a temperatura ambiente",
     "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
@@ -26,13 +89,6 @@
     "url": "https://phys.org/news/2026-07-death-toll-china-storms-hundreds.html",
     "date": "2026-07-07",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Leaf beetle diversity on a Southeast Asian continental island: Taxonomy, DNA barcoding, and preliminary evolutionary insights from Cat Ba Island, Vietnam",
-    "title_es": "Corrección: Diversidad de escarabajos de las hojas en una isla continental del sudeste asiático: taxonomía, códigos de barras de ADN y conocimientos evolutivos preliminares de la isla Cat Ba, Vietnam",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-07",
-    "source": "PLOS ONE"
   },
   {
     "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",

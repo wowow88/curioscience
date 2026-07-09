@@ -1,5 +1,61 @@
 [
   {
+    "title": "Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops",
+    "title_es": "Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops",
+    "url": "https://arxiv.org/abs/2607.06585",
+    "published": "2026-07-09T04:00:00.000Z",
+    "date": "2026-07-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Super Typhoon Bavi",
+    "title_es": "Súper tifón Bavi",
+    "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+    "date": "2026-07-09",
+    "source": "NASA (Top News)",
+    "published": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+    "title_es": "Científicos de Harvard convierten un chip de silicio en una máquina de escribir ADN",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+    "date": "2026-07-09",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "title": "Artemis II astronauts reunite with their moonship 3 months after record-breaking flight",
+    "title_es": "Los astronautas de Artemis II se reúnen con su nave lunar 3 meses después de un vuelo récord",
+    "url": "https://phys.org/news/2026-07-artemis-ii-astronauts-reunite-moonship.html",
+    "date": "2026-07-09",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+    "title_es": "Rare goblin shark filmed alive for the first time in the deep sea",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+    "published": "2026-07-08T23:00:05.000Z",
+    "date": "2026-07-08",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Ancient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life",
+    "title_es": "Ancient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life",
+    "url": "https://www.sci.news/archaeology/neanderthal-homo-sapiens-cultural-continuity-14904.html",
+    "published": "2026-07-08T22:55:38.000Z",
+    "date": "2026-07-08",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The 4 best science-fiction shows of 2026 so far",
+    "title_es": "The 4 best science-fiction shows of 2026 so far",
+    "url": "https://www.newscientist.com/article/mg27136031-100-the-4-best-science-fiction-shows-of-2026-so-far/",
+    "published": "2026-07-08T18:00:00.000Z",
+    "date": "2026-07-08",
+    "source": "New Scientist"
+  },
+  {
     "title": "Proof of Execution: Runtime Verification for Governed AI Agent Actions",
     "title_es": "Proof of Execution: Runtime Verification for Governed AI Agent Actions",
     "url": "https://arxiv.org/abs/2607.05397",
@@ -21,6 +77,46 @@
     "url": "https://phys.org/news/2026-07-foreign-investments-affect-employment-income.html",
     "date": "2026-07-08",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "title_es": "Comprensión precisa, interdisciplinaria y transparente de las propiedades de la estructura con un razonamiento estructural nativo profundo",
+    "url": "http://arxiv.org/abs/2607.07708v1",
+    "date": "2026-07-08",
+    "source": "arXiv",
+    "published": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "title": "Nukes in space? Orbital detector could sniff out warheads",
+    "title_es": "¿Armas nucleares en el espacio? Un detector orbital podría detectar ojivas",
+    "url": "https://www.nature.com/articles/d41586-026-02141-z",
+    "date": "2026-07-08",
+    "source": "Nature",
+    "published": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia\" hreflang=\"es\">Presentado el programa divulgativo NATE del eclipse de agosto en Palencia</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia\" hreflang=\"es\">Presentado el programa divulgativo NATE del eclipse de agosto en Palencia</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/presentado-el-programa-divulgativo-nate-del-eclipse-de-agosto-en-palencia",
+    "date": "2026-07-08",
+    "source": "IAC",
+    "published": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "title": "Can geoengineering blunt El Niño’s fury?",
+    "title_es": "¿Puede la geoingeniería mitigar la furia de El Niño?",
+    "url": "https://www.sciencenews.org/article/geoengineering-el-nino-extremes",
+    "date": "2026-07-08",
+    "source": "Science News",
+    "published": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "title": "Here’s how ‘singing’ mice belt out their tiny tunes",
+    "title_es": "Así es como los ratones 'cantantes' cantan sus pequeñas melodías",
+    "url": "https://www.snexplores.org/article/singing-mice-throat-air-sacs",
+    "date": "2026-07-08",
+    "source": "Science News Explores",
     "published": "2026-07-08T00:00:00.000Z"
   },
   {
@@ -28623,8 +28719,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Leaf beetle diversity on a Southeast Asian continental island: Taxonomy, DNA barcoding, and preliminary evolutionary insights from Cat Ba Island, Vietnam",
-    "title_es": "Corrección: Diversidad de escarabajos de las hojas en una isla continental del sudeste asiático: taxonomía, códigos de barras de ADN y conocimientos evolutivos preliminares de la isla Cat Ba, Vietnam",
+    "title": "Serum albumin and blood urea as independent predictors of in-hospital mortality in hospitalized COVID-19 patients: A retrospective cohort study",
+    "title_es": "Albúmina sérica y urea en sangre como predictores independientes de mortalidad hospitalaria en pacientes hospitalizados con COVID-19: un estudio de cohorte retrospectivo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -63769,6 +63865,22 @@
     "title": "Swift Boost Mission",
     "title_es": "Swift Boost Mission",
     "url": "https://apod.nasa.gov/apod/image/2607/swift_boost.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Bulk-boundary correspondence in topological two-dimensional non-Hermitian systems: Toeplitz operators and singular values, by Jesko Sirker",
+    "title_es": "Bulk-boundary correspondence in topological two-dimensional non-Hermitian systems: Toeplitz operators and singular values, by Jesko Sirker",
+    "url": "https://scipost.org/scipostphys.21.1.013",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Red Glow of the Cosmic Bat Nebula",
+    "title_es": "The Red Glow of the Cosmic Bat Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
