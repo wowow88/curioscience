@@ -1,5 +1,26 @@
 [
   {
+    "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+    "title_es": "Donde los terremotos de Venezuela cambiaron el terreno",
+    "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+    "date": "2026-07-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+    "title_es": "Los científicos acaban de desacreditar un peligroso mito de la serpiente de cascabel bebé",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
+    "date": "2026-07-10",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "US pushes for weaker truck pollution rules",
+    "title_es": "Estados Unidos presiona para que se flexibilicen las normas sobre contaminación de camiones",
+    "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
+    "date": "2026-07-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Super Typhoon Bavi",
     "title_es": "Súper tifón Bavi",
     "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
@@ -21,6 +42,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Industrialization of sandwich composite panels for portable outdoor tabletops",
+    "title_es": "Industrialización de paneles compuestos sándwich para mesas portátiles de exterior",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "OpenCoF: Learning to Reason Through Video Generation",
+    "title_es": "OpenCoF: aprender a razonar mediante la generación de vídeos",
+    "url": "http://arxiv.org/abs/2607.08763v1",
+    "date": "2026-07-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "Does AI work for us, or do we work for AI?",
+    "title_es": "¿La IA funciona para nosotros o trabajamos nosotros para la IA?",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei9754",
+    "date": "2026-07-09",
+    "source": "Science.org"
+  },
+  {
+    "title": "Found: the toxic killer that caused an ocean catastrophe",
+    "title_es": "Encontrado: el asesino tóxico que provocó una catástrofe en el océano",
+    "url": "https://www.nature.com/articles/d41586-026-02112-4",
+    "date": "2026-07-09",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/circuitos-integrados-fotonicos-para-astronomia-descripcion-formal-de-un-sensor-de-frente-de-onda-basado\" hreflang=\"es\">Circuitos integrados fotónicos para astronomía: descripción formal de un sensor de frente de onda basado en fotónica integrada (IP-WFS)</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/circuitos-integrados-fotonicos-para-astronomia-descripcion-formal-de-un-sensor-de-frente-de-onda-basado\" hreflang=\"es\">Circuitos integrados fotónicos para astronomía: descripción formal de un sensor de frente de onda basado en fotónica integrada (IP-WFS)</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/circuitos-integrados-fotonicos-para-astronomia-descripcion-formal-de-un-sensor-de-frente-de-onda-basado",
+    "date": "2026-07-09",
+    "source": "IAC"
+  },
+  {
+    "title": "Summit living isn’t a problem for this tiny mouse",
+    "title_es": "Vivir en la cima no es un problema para este pequeño ratón",
+    "url": "https://www.sciencenews.org/article/summit-living-isnt-a-problem-for-this-tiny-mouse",
+    "date": "2026-07-09",
+    "source": "Science News"
+  },
+  {
+    "title": "Trying to break a photon would create a quantum mess",
+    "title_es": "Intentar romper un fotón crearía un desastre cuántico",
+    "url": "https://www.snexplores.org/article/break-light-photon-quantum-mess",
+    "date": "2026-07-09",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
     "title_es": "El hormiguero de Schrödinger: entrelazamiento cuántico encontrado en un cristal lo suficientemente grande como para contenerlo",
     "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
@@ -33,13 +103,6 @@
     "url": "https://phys.org/news/2026-07-foreign-investments-affect-employment-income.html",
     "date": "2026-07-08",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Serum albumin and blood urea as independent predictors of in-hospital mortality in hospitalized COVID-19 patients: A retrospective cohort study",
-    "title_es": "Albúmina sérica y urea en sangre como predictores independientes de mortalidad hospitalaria en pacientes hospitalizados con COVID-19: un estudio de cohorte retrospectivo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-08",
-    "source": "PLOS ONE"
   },
   {
     "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
