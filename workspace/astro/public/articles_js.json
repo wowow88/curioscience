@@ -1,13 +1,5 @@
 [
   {
-    "title": "AI-Driven Thermal Mapping and Management in 3D Integrated Photonic Circuits",
-    "title_es": "AI-Driven Thermal Mapping and Management in 3D Integrated Photonic Circuits",
-    "url": "https://arxiv.org/abs/2607.07711",
-    "published": "2026-07-10T04:00:00.000Z",
-    "date": "2026-07-10",
-    "source": "arXiv"
-  },
-  {
     "title": "Does AI work for us, or do we work for AI?",
     "title_es": "Does AI work for us, or do we work for AI?",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei9754",
@@ -16,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Found: the toxic killer that caused an ocean catastrophe",
-    "title_es": "Found: the toxic killer that caused an ocean catastrophe",
-    "url": "https://www.nature.com/articles/d41586-026-02112-4",
-    "published": "2026-07-09T00:00:00.000Z",
-    "date": "2026-07-09",
+    "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+    "title_es": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+    "url": "https://www.nature.com/articles/s41586-026-10853-5",
+    "published": "2026-07-10T00:00:00.000Z",
+    "date": "2026-07-10",
     "source": "Nature"
   },
   {
@@ -32,27 +24,19 @@
     "source": "CNIC"
   },
   {
-    "title": "El CNIO buscará fármacos que amplíen la eficacia de la inmunoterapia a más tumores, con una estrategia seleccionada por el Consejo Europeo de Investigación",
-    "title_es": "El CNIO buscará fármacos que amplíen la eficacia de la inmunoterapia a más tumores, con una estrategia seleccionada por el Consejo Europeo de Investigación",
-    "url": "https://www.cnio.es/noticias/el-cnio-buscara-farmacos-que-amplien-la-eficacia-de-la-inmunoterapia-a-mas-tumores-con-una-estrategia-seleccionada-por-el-consejo-europeo-de-investigacion/",
-    "published": "2026-07-02T11:38:44.000Z",
-    "date": "2026-07-02",
-    "source": "CNIO"
-  },
-  {
-    "title": "Where Venezuela’s Earthquakes Shifted the Ground",
-    "title_es": "Where Venezuela’s Earthquakes Shifted the Ground",
-    "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
-    "published": "2026-07-10T04:00:00.000Z",
+    "title": "Early Career Faculty (ECF) 2025 Awards",
+    "title_es": "Early Career Faculty (ECF) 2025 Awards",
+    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
+    "published": "2026-07-10T19:23:55.000Z",
     "date": "2026-07-10",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Summit living isn’t a problem for this tiny mouse",
-    "title_es": "Summit living isn’t a problem for this tiny mouse",
-    "url": "https://www.sciencenews.org/article/summit-living-isnt-a-problem-for-this-tiny-mouse",
-    "published": "2026-07-09T18:06:19.000Z",
-    "date": "2026-07-09",
+    "title": "Pluto has landslides",
+    "title_es": "Pluto has landslides",
+    "url": "https://www.sciencenews.org/article/pluto-landslides-nasa-new-horizons",
+    "published": "2026-07-10T17:00:00.000Z",
+    "date": "2026-07-10",
     "source": "Science News"
   },
   {
@@ -64,35 +48,35 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This alien planet never has sunrise or sunset. It may support life",
-    "title_es": "This alien planet never has sunrise or sunset. It may support life",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
-    "published": "2026-07-09T21:27:22.000Z",
-    "date": "2026-07-09",
+    "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+    "title_es": "The galaxy’s coldest “stars” may actually be alien megastructures",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+    "published": "2026-07-10T06:04:44.000Z",
+    "date": "2026-07-10",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "US pushes for weaker truck pollution rules",
-    "title_es": "US pushes for weaker truck pollution rules",
-    "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
-    "published": "2026-07-10T08:20:02.000Z",
-    "date": "2026-07-10",
+    "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
+    "title_es": "Japan's space agency conducts first test flight for experimental reusable rocket",
+    "url": "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html",
+    "published": "2026-07-11T07:19:43.000Z",
+    "date": "2026-07-11",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Industrialization of sandwich composite panels for portable outdoor tabletops",
-    "title_es": "Industrialization of sandwich composite panels for portable outdoor tabletops",
+    "title": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
+    "title_es": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-07-09T14:00:00.000Z",
-    "date": "2026-07-09",
+    "published": "2026-07-10T14:00:00.000Z",
+    "date": "2026-07-10",
     "source": "PLOS ONE"
   },
   {
-    "title": "Special relativity can warp chemical bonds – now we've seen it happen",
-    "title_es": "Special relativity can warp chemical bonds – now we've seen it happen",
-    "url": "https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/",
-    "published": "2026-07-09T19:00:13.000Z",
-    "date": "2026-07-09",
+    "title": "UN space database aimed at easing global tensions is mysteriously down",
+    "title_es": "UN space database aimed at easing global tensions is mysteriously down",
+    "url": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/",
+    "published": "2026-07-10T15:11:26.000Z",
+    "date": "2026-07-10",
     "source": "New Scientist"
   },
   {
@@ -104,11 +88,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "New Species of Long-Necked Dinosaur Identified in Thailand",
-    "title_es": "New Species of Long-Necked Dinosaur Identified in Thailand",
-    "url": "https://www.sci.news/paleontology/uragasaurus-kalasinensis-14906.html",
-    "published": "2026-07-09T19:33:35.000Z",
-    "date": "2026-07-09",
+    "title": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution",
+    "title_es": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution",
+    "url": "https://www.sci.news/paleontology/cargninia-enigmatica-14909.html",
+    "published": "2026-07-10T21:45:25.000Z",
+    "date": "2026-07-10",
     "source": "Sci.News"
   },
   {
@@ -128,12 +112,20 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Western Moon, Eastern Sea",
-    "title_es": "Western Moon, Eastern Sea",
-    "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg",
+    "title": "Messier 24: Sagittarius Star Cloud",
+    "title_es": "Messier 24: Sagittarius Star Cloud",
+    "url": "https://apod.nasa.gov/apod/image/2607/M24_1088.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=26.4043&long=163.6077",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",

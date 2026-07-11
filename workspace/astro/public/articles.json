@@ -1,5 +1,29 @@
 [
   {
+    "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
+    "title_es": "La agencia espacial japonesa realiza el primer vuelo de prueba de un cohete experimental reutilizable",
+    "url": "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html",
+    "date": "2026-07-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-11T00:00:00.000Z"
+  },
+  {
+    "title": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution",
+    "title_es": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution",
+    "url": "https://www.sci.news/paleontology/cargninia-enigmatica-14909.html",
+    "published": "2026-07-10T21:45:25.000Z",
+    "date": "2026-07-10",
+    "source": "Sci.News"
+  },
+  {
+    "title": "UN space database aimed at easing global tensions is mysteriously down",
+    "title_es": "UN space database aimed at easing global tensions is mysteriously down",
+    "url": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/",
+    "published": "2026-07-10T15:11:26.000Z",
+    "date": "2026-07-10",
+    "source": "New Scientist"
+  },
+  {
     "title": "AI-Driven Thermal Mapping and Management in 3D Integrated Photonic Circuits",
     "title_es": "AI-Driven Thermal Mapping and Management in 3D Integrated Photonic Circuits",
     "url": "https://arxiv.org/abs/2607.07711",
@@ -29,6 +53,38 @@
     "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
     "date": "2026-07-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+    "title_es": "Corrección del autor: fases minerales autigénicas como impulsoras del ciclo del hierro en la parte superior del océano",
+    "url": "https://www.nature.com/articles/s41586-026-10853-5",
+    "date": "2026-07-10",
+    "source": "Nature",
+    "published": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "title": "Early Career Faculty (ECF) 2025 Awards",
+    "title_es": "Premios 2025 de la Facultad de Carrera Temprana (ECF)",
+    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
+    "date": "2026-07-10",
+    "source": "NASA (Top News)",
+    "published": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "title": "Pluto has landslides",
+    "title_es": "Plutón tiene derrumbes",
+    "url": "https://www.sciencenews.org/article/pluto-landslides-nasa-new-horizons",
+    "date": "2026-07-10",
+    "source": "Science News",
+    "published": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+    "title_es": "Las “estrellas” más frías de la galaxia pueden ser en realidad megaestructuras alienígenas",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+    "date": "2026-07-10",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-10T00:00:00.000Z"
   },
   {
@@ -28823,8 +28879,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Industrialization of sandwich composite panels for portable outdoor tabletops",
-    "title_es": "Industrialización de paneles compuestos sándwich para mesas portátiles de exterior",
+    "title": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
+    "title_es": "Impacto de los factores socioeconómicos, demográficos, maternos, infantiles y sanitarios en el inicio temprano de la lactancia materna en Bangladesh: evidencia de los datos de la Encuesta de salud demográfica de Bangladesh (BDHS) de 2022",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -63993,6 +64049,14 @@
     "title": "Western Moon, Eastern Sea",
     "title_es": "Western Moon, Eastern Sea",
     "url": "https://apod.nasa.gov/apod/image/2607/c14mareorientaleguybardon1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Messier 24: Sagittarius Star Cloud",
+    "title_es": "Messier 24: Sagittarius Star Cloud",
+    "url": "https://apod.nasa.gov/apod/image/2607/m24_1088.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
