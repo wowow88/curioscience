@@ -1,5 +1,53 @@
 [
   {
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "title_es": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "url": "https://arxiv.org/abs/2607.09664",
+    "published": "2026-07-14T04:00:00.000Z",
+    "date": "2026-07-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fans of the Arctic",
+    "title_es": "Fanáticos del Ártico",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+    "date": "2026-07-14",
+    "source": "NASA (Top News)",
+    "published": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "NASA's Perseverance just completed a marathon on Mars",
+    "title_es": "El Perseverance de la NASA acaba de completar un maratón en Marte",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+    "date": "2026-07-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "Unequal taxation helped fuel the French Revolution, say economists",
+    "title_es": "La desigualdad fiscal contribuyó a impulsar la Revolución Francesa, dicen los economistas",
+    "url": "https://phys.org/news/2026-07-unequal-taxation-fuel-french-revolution.html",
+    "date": "2026-07-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "Maya mathematician’s name decoded alongside astronomical formula",
+    "title_es": "Maya mathematician’s name decoded alongside astronomical formula",
+    "url": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/",
+    "published": "2026-07-13T23:01:00.000Z",
+    "date": "2026-07-13",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Paleontologists Discover New Species of Titanosaur in Uruguay",
+    "title_es": "Paleontologists Discover New Species of Titanosaur in Uruguay",
+    "url": "https://www.sci.news/paleontology/mesetasaurus-protector-14914.html",
+    "published": "2026-07-13T21:41:57.000Z",
+    "date": "2026-07-13",
+    "source": "Sci.News"
+  },
+  {
     "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
     "title_es": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
     "url": "https://arxiv.org/abs/2607.08773",
@@ -21,6 +69,54 @@
     "url": "https://phys.org/news/2026-07-central.html",
     "date": "2026-07-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "title_es": "Metacognición en LLM: fundamentos, avances y oportunidades",
+    "url": "http://arxiv.org/abs/2607.11881v1",
+    "date": "2026-07-13",
+    "source": "arXiv",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
+    "title_es": "Células solares en tándem orgánicas de perovskita con un estabilizador fototransformable",
+    "url": "https://www.nature.com/articles/s41586-026-10869-x",
+    "date": "2026-07-13",
+    "source": "Nature",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC obtiene por cuarta vez la acreditación Centro de excelencia Severo Ochoa, del Ministerio de Ciencia, Innovación y Universidades",
+    "title_es": "El CNIC obtiene por cuarta vez la acreditación Centro de excelencia Severo Ochoa, del Ministerio de Ciencia, Innovación y Universidades",
+    "url": "https://www.cnic.es/es/noticias/cnic-obtiene-por-cuarta-vez-acreditacion-centro-excelencia-severo-ochoa-ministerio-0",
+    "date": "2026-07-13",
+    "source": "CNIC",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "La investigación del CNIO en un cáncer raro permite describir un nuevo tipo de progeria, y de paso responder una pregunta clave sobre qué nos hace envejecer",
+    "title_es": "La investigación del CNIO en un cáncer raro permite describir un nuevo tipo de progeria, y de paso responder una pregunta clave sobre qué nos hace envejecer",
+    "url": "https://www.cnio.es/noticias/la-investigacion-del-cnio-en-un-cancer-raro-permite-describir-un-nuevo-tipo-de-progeria-y-de-paso-responder-una-pregunta-clave-sobre-que-nos-hace-envejecer/",
+    "date": "2026-07-13",
+    "source": "CNIO",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "Whether lefty or righty, practice makes the difference",
+    "title_es": "Ya sea zurdo o diestro, la práctica marca la diferencia",
+    "url": "https://www.sciencenews.org/article/left-right-dominance-practice-writing",
+    "date": "2026-07-13",
+    "source": "Science News",
+    "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "title": "Fuzzy microbes may fuel cows’ methane burps",
+    "title_es": "Los microbios borrosos pueden alimentar los eructos de metano de las vacas",
+    "url": "https://www.snexplores.org/article/fuzzy-microbes-cows-methane-burps",
+    "date": "2026-07-13",
+    "source": "Science News Explores",
     "published": "2026-07-13T00:00:00.000Z"
   },
   {
@@ -28959,8 +29055,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
-    "title_es": "Impacto de los factores socioeconómicos, demográficos, maternos, infantiles y sanitarios en el inicio temprano de la lactancia materna en Bangladesh: evidencia de los datos de la Encuesta de salud demográfica de Bangladesh (BDHS) de 2022",
+    "title": "Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints",
+    "title_es": "Optimización de la distribución conjunta de temperaturas múltiples con bajas emisiones de carbono para productos agrícolas frescos bajo restricciones de carga 3D",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -64153,6 +64249,14 @@
     "title": "Galaxy NGC 474: Shells and Star Streams",
     "title_es": "Galaxy NGC 474: Shells and Star Streams",
     "url": "https://apod.nasa.gov/apod/image/2607/ngc474_cfhtcoelum_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Double Lobed Asteroid Torifune",
+    "title_es": "Double Lobed Asteroid Torifune",
+    "url": "https://apod.nasa.gov/apod/image/2607/torifune_jaxa_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

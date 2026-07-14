@@ -1,5 +1,26 @@
 [
   {
+    "title": "Fans of the Arctic",
+    "title_es": "Fanáticos del Ártico",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+    "date": "2026-07-14",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA's Perseverance just completed a marathon on Mars",
+    "title_es": "El Perseverance de la NASA acaba de completar un maratón en Marte",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+    "date": "2026-07-14",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Unequal taxation helped fuel the French Revolution, say economists",
+    "title_es": "La desigualdad fiscal contribuyó a impulsar la Revolución Francesa, dicen los economistas",
+    "url": "https://phys.org/news/2026-07-unequal-taxation-fuel-french-revolution.html",
+    "date": "2026-07-14",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Future moon landings could wipe out clues to how life began on Earth",
     "title_es": "Los futuros alunizajes podrían borrar las pistas sobre cómo comenzó la vida en la Tierra",
     "url": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm",
@@ -12,6 +33,55 @@
     "url": "https://phys.org/news/2026-07-central.html",
     "date": "2026-07-13",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints",
+    "title_es": "Optimización de la distribución conjunta de temperaturas múltiples con bajas emisiones de carbono para productos agrícolas frescos bajo restricciones de carga 3D",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-13",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "title_es": "Metacognición en LLM: fundamentos, avances y oportunidades",
+    "url": "http://arxiv.org/abs/2607.11881v1",
+    "date": "2026-07-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
+    "title_es": "Células solares en tándem orgánicas de perovskita con un estabilizador fototransformable",
+    "url": "https://www.nature.com/articles/s41586-026-10869-x",
+    "date": "2026-07-13",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC obtiene por cuarta vez la acreditación Centro de excelencia Severo Ochoa, del Ministerio de Ciencia, Innovación y Universidades",
+    "title_es": "El CNIC obtiene por cuarta vez la acreditación Centro de excelencia Severo Ochoa, del Ministerio de Ciencia, Innovación y Universidades",
+    "url": "https://www.cnic.es/es/noticias/cnic-obtiene-por-cuarta-vez-acreditacion-centro-excelencia-severo-ochoa-ministerio-0",
+    "date": "2026-07-13",
+    "source": "CNIC"
+  },
+  {
+    "title": "La investigación del CNIO en un cáncer raro permite describir un nuevo tipo de progeria, y de paso responder una pregunta clave sobre qué nos hace envejecer",
+    "title_es": "La investigación del CNIO en un cáncer raro permite describir un nuevo tipo de progeria, y de paso responder una pregunta clave sobre qué nos hace envejecer",
+    "url": "https://www.cnio.es/noticias/la-investigacion-del-cnio-en-un-cancer-raro-permite-describir-un-nuevo-tipo-de-progeria-y-de-paso-responder-una-pregunta-clave-sobre-que-nos-hace-envejecer/",
+    "date": "2026-07-13",
+    "source": "CNIO"
+  },
+  {
+    "title": "Whether lefty or righty, practice makes the difference",
+    "title_es": "Ya sea zurdo o diestro, la práctica marca la diferencia",
+    "url": "https://www.sciencenews.org/article/left-right-dominance-practice-writing",
+    "date": "2026-07-13",
+    "source": "Science News"
+  },
+  {
+    "title": "Fuzzy microbes may fuel cows’ methane burps",
+    "title_es": "Los microbios borrosos pueden alimentar los eructos de metano de las vacas",
+    "url": "https://www.snexplores.org/article/fuzzy-microbes-cows-methane-burps",
+    "date": "2026-07-13",
+    "source": "Science News Explores"
   },
   {
     "title": "Why gold never tarnishes has finally been explained",
@@ -54,13 +124,6 @@
     "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
     "date": "2026-07-10",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
-    "title_es": "Impacto de los factores socioeconómicos, demográficos, maternos, infantiles y sanitarios en el inicio temprano de la lactancia materna en Bangladesh: evidencia de los datos de la Encuesta de salud demográfica de Bangladesh (BDHS) de 2022",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-10",
-    "source": "PLOS ONE"
   },
   {
     "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
