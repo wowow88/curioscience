@@ -1,5 +1,19 @@
 [
   {
+    "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+    "title_es": "Blog de curiosidades, Sols 4947-4953: Cráter Gale antes y ahora",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
+    "date": "2026-07-15",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Elephants turn footsteps into messages through ground and skull vibrations",
+    "title_es": "Los elefantes convierten sus pasos en mensajes a través de vibraciones del suelo y del cráneo",
+    "url": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
+    "date": "2026-07-15",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fans of the Arctic",
     "title_es": "Fanáticos del Ártico",
     "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
@@ -21,6 +35,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Embedding routine hearing health checks within existing Meals on Wheels services – A protocol for the SOUND-BITES Program pilot study",
+    "title_es": "Incorporar controles de salud auditiva de rutina dentro de los servicios existentes de Meals on Wheels: un protocolo para el estudio piloto del programa SOUND-BITES",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-14",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "title_es": "¿Saben los agentes de IA cuándo una tarea es sencilla? Hacia un razonamiento y una ejecución conscientes de la complejidad",
+    "url": "http://arxiv.org/abs/2607.13034v1",
+    "date": "2026-07-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
+    "title_es": "Gripe aviar H5N1 en Australia: proteger a las especies australianas del virus de la gripe aviar",
+    "url": "https://www.nature.com/articles/d41586-026-02188-y",
+    "date": "2026-07-14",
+    "source": "Nature"
+  },
+  {
+    "title": "Eight of Spain’s top sixth-form students begin their research training at the CNIC thanks to the ACÉRCATE programme",
+    "title_es": "Eight of Spain’s top sixth-form students begin their research training at the CNIC thanks to the ACÉRCATE programme",
+    "url": "https://www.cnic.es/es/node/243560",
+    "date": "2026-07-14",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-exposicion-en-busca-de-nuevas-tierras-sobre-la-mision-espacial-europea-plato\" hreflang=\"es\">El IAC participa en la exposición ‘En busca de nuevas Tierras’ sobre la misión espacial europea PLATO</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-exposicion-en-busca-de-nuevas-tierras-sobre-la-mision-espacial-europea-plato\" hreflang=\"es\">El IAC participa en la exposición ‘En busca de nuevas Tierras’ sobre la misión espacial europea PLATO</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-exposicion-en-busca-de-nuevas-tierras-sobre-la-mision-espacial-europea-plato",
+    "date": "2026-07-14",
+    "source": "IAC"
+  },
+  {
+    "title": "A new sort of Alzheimer’s drug shows glimmers of promise",
+    "title_es": "Un nuevo tipo de fármaco contra el Alzheimer muestra destellos prometedores",
+    "url": "https://www.sciencenews.org/article/new-alzheimers-drug-tau-promise",
+    "date": "2026-07-14",
+    "source": "Science News"
+  },
+  {
+    "title": "Physics explains why gold doesn’t ‘rust’",
+    "title_es": "La física explica por qué el oro no se “oxida”",
+    "url": "https://www.snexplores.org/article/why-gold-does-not-rust-physics",
+    "date": "2026-07-14",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+    "title_es": "Los medicamentos populares para bajar de peso Ozempic y Wegovy pueden retardar el envejecimiento biológico",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+    "date": "2026-07-14",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Future moon landings could wipe out clues to how life began on Earth",
     "title_es": "Los futuros alunizajes podrían borrar las pistas sobre cómo comenzó la vida en la Tierra",
     "url": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm",
@@ -33,13 +103,6 @@
     "url": "https://phys.org/news/2026-07-central.html",
     "date": "2026-07-13",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints",
-    "title_es": "Optimización de la distribución conjunta de temperaturas múltiples con bajas emisiones de carbono para productos agrícolas frescos bajo restricciones de carga 3D",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-13",
-    "source": "PLOS ONE"
   },
   {
     "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
