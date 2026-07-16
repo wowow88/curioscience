@@ -1,5 +1,53 @@
 [
   {
+    "title": "FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents",
+    "title_es": "FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents",
+    "url": "https://arxiv.org/abs/2607.13035",
+    "published": "2026-07-16T04:00:00.000Z",
+    "date": "2026-07-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tyrannosaurus rex Scavenged Duck-Billed Dinosaurs in Ancient Wyoming, Bite Marks Reveal",
+    "title_es": "Tyrannosaurus rex Scavenged Duck-Billed Dinosaurs in Ancient Wyoming, Bite Marks Reveal",
+    "url": "https://www.sci.news/paleontology/tyrannosaurus-rex-edmontosaurus-annectens-scavenging-bite-marks-14922.html",
+    "published": "2026-07-16T00:01:41.000Z",
+    "date": "2026-07-16",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Ontario Wildfire Smoke Moves East",
+    "title_es": "El humo de los incendios forestales de Ontario se desplaza hacia el este",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+    "date": "2026-07-16",
+    "source": "NASA (Top News)",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+    "title_es": "El avance cuántico vincula la luz y el magnetismo en materiales atómicamente delgados",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+    "date": "2026-07-16",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "title": "Understanding Bavaria's Indigeneity",
+    "title_es": "Comprender la indigeneidad de Baviera",
+    "url": "https://phys.org/news/2026-07-bavaria-indigeneity.html",
+    "date": "2026-07-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "title": "Drug discovery Is changing. Drug development must change too.",
+    "title_es": "Drug discovery Is changing. Drug development must change too.",
+    "url": "https://www.newscientist.com/article/2579721-drug-discovery-is-changing/",
+    "published": "2026-07-16T00:00:00.000Z",
+    "date": "2026-07-16",
+    "source": "New Scientist"
+  },
+  {
     "title": "Will AI Fix Prior Authorization — or Make It Worse?",
     "title_es": "Will AI Fix Prior Authorization — or Make It Worse?",
     "url": "https://undark.org/2026/07/15/medicare-prior-authorization-ai/",
@@ -29,6 +77,54 @@
     "url": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
     "date": "2026-07-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+    "title_es": "Interacción profunda: un método eficiente de interacción entre humanos y IA para modelos de razonamiento grandes",
+    "url": "http://arxiv.org/abs/2607.14049v1",
+    "date": "2026-07-15",
+    "source": "arXiv",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "Selectivity Emerges from Indiscriminate Photoreduction",
+    "title_es": "La selectividad surge de la fotorreducción indiscriminada",
+    "url": "https://www.nature.com/articles/s41586-026-10897-7",
+    "date": "2026-07-15",
+    "source": "Nature",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "Artūras Makselis, winner of the CNIC Prize at EUCYS, undertakes a research placement at the CNIC",
+    "title_es": "Artūras Makselis, winner of the CNIC Prize at EUCYS, undertakes a research placement at the CNIC",
+    "url": "https://www.cnic.es/es/node/243579",
+    "date": "2026-07-15",
+    "source": "CNIC",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-celebra-su-primer-aniversario-con-exoplanetas-habitables-y-telescopios-cherenkov\" hreflang=\"es\">Del Cielo a la Tesis celebra su primer aniversario con exoplanetas habitables y telescopios Cherenkov</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-celebra-su-primer-aniversario-con-exoplanetas-habitables-y-telescopios-cherenkov\" hreflang=\"es\">Del Cielo a la Tesis celebra su primer aniversario con exoplanetas habitables y telescopios Cherenkov</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-celebra-su-primer-aniversario-con-exoplanetas-habitables-y-telescopios-cherenkov",
+    "date": "2026-07-15",
+    "source": "IAC",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "The 2024 New York City meteorite contains amino acids",
+    "title_es": "El meteorito de la ciudad de Nueva York de 2024 contiene aminoácidos",
+    "url": "https://www.sciencenews.org/article/new-york-city-2024-meteorite-amino-acid",
+    "date": "2026-07-15",
+    "source": "Science News",
+    "published": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "title": "Big waves shape this surfer-scientist’s research and life",
+    "title_es": "Las grandes olas dan forma a la investigación y la vida de este surfista científico",
+    "url": "https://www.snexplores.org/article/surfer-scientist-big-waves",
+    "date": "2026-07-15",
+    "source": "Science News Explores",
     "published": "2026-07-15T00:00:00.000Z"
   },
   {
@@ -29159,8 +29255,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Embedding routine hearing health checks within existing Meals on Wheels services – A protocol for the SOUND-BITES Program pilot study",
-    "title_es": "Incorporar controles de salud auditiva de rutina dentro de los servicios existentes de Meals on Wheels: un protocolo para el estudio piloto del programa SOUND-BITES",
+    "title": "The sensory gene repertoire of deep-sea hydrothermal shrimp",
+    "title_es": "El repertorio de genes sensoriales del camarón hidrotermal de aguas profundas.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -64369,6 +64465,14 @@
     "title": "Red Sprites in the Tatacoa Desert",
     "title_es": "Red Sprites in the Tatacoa Desert",
     "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
+    "title_es": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
+    "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
