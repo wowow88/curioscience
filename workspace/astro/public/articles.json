@@ -1,5 +1,29 @@
 [
   {
+    "title": "Dinosaurs May Have Been Wiped Out by ‘Oddball’ Space Rock",
+    "title_es": "Dinosaurs May Have Been Wiped Out by ‘Oddball’ Space Rock",
+    "url": "https://www.sci.news/space/chicxulub-c0-chondrite-14927.html",
+    "published": "2026-07-18T00:04:53.000Z",
+    "date": "2026-07-18",
+    "source": "Sci.News"
+  },
+  {
+    "title": "FCC approves first launch for space reflector constellation",
+    "title_es": "La FCC aprueba el primer lanzamiento de una constelación de reflectores espaciales",
+    "url": "https://phys.org/news/2026-07-fcc-space-reflector-constellation.html",
+    "date": "2026-07-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "title": "Using AI for creative pursuits? Moderation is key",
+    "title_es": "Using AI for creative pursuits? Moderation is key",
+    "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/",
+    "published": "2026-07-17T16:47:17.000Z",
+    "date": "2026-07-17",
+    "source": "New Scientist"
+  },
+  {
     "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
     "title_es": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
     "url": "https://arxiv.org/abs/2607.14093",
@@ -37,6 +61,46 @@
     "url": "https://phys.org/news/2026-07-bones-reveal-ancient-egyptian-princesses.html",
     "date": "2026-07-17",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
+    "title_es": "Charla informativa: ¡Genial! Moléculas de azúcar esquivas encontradas en el espacio",
+    "url": "https://www.nature.com/articles/d41586-026-02263-4",
+    "date": "2026-07-17",
+    "source": "Nature",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presente-en-la-xvii-reunion-cientifica-de-la-sociedad-espanola-de-astronomia-con-una-amplia\" hreflang=\"es\">El IAC, presente en la XVII Reunión Científica de la Sociedad Española de Astronomía con una amplia representación científica</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presente-en-la-xvii-reunion-cientifica-de-la-sociedad-espanola-de-astronomia-con-una-amplia\" hreflang=\"es\">El IAC, presente en la XVII Reunión Científica de la Sociedad Española de Astronomía con una amplia representación científica</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presente-en-la-xvii-reunion-cientifica-de-la-sociedad-espanola-de-astronomia-con-una-amplia",
+    "date": "2026-07-17",
+    "source": "IAC",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Pushes New Wing Design to Find Structural Limits",
+    "title_es": "La NASA impulsa un nuevo diseño de alas para encontrar límites estructurales",
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+    "date": "2026-07-17",
+    "source": "NASA (Top News)",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "Inside the fight against the parasite Cyclospora",
+    "title_es": "Dentro de la lucha contra el parásito Cyclospora",
+    "url": "https://www.sciencenews.org/article/cyclospora-outbreak-lettuce-diarrhea",
+    "date": "2026-07-17",
+    "source": "Science News",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists built a camera that can track invisible particles in 3D",
+    "title_es": "Los científicos construyeron una cámara que puede rastrear partículas invisibles en 3D",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+    "date": "2026-07-17",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-17T00:00:00.000Z"
   },
   {
@@ -29351,8 +29415,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Latent classes and predictors of aggression trajectories in Korean adolescents: Implications for targeted prevention",
-    "title_es": "Clases latentes y predictores de trayectorias de agresión en adolescentes coreanos: implicaciones para la prevención dirigida",
+    "title": "Difference in excess mortality during the COVID-19 pandemic depending on marital status in Japan",
+    "title_es": "Diferencia en exceso de mortalidad durante la pandemia de COVID-19 según el estado civil en Japón",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -64577,6 +64641,14 @@
     "title": "The Dust Trail of Comet Tempel 2",
     "title_es": "The Dust Trail of Comet Tempel 2",
     "url": "https://apod.nasa.gov/apod/image/2607/10p_tempel2_20260711_debartlett1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Shadow and Rainbow",
+    "title_es": "Shadow and Rainbow",
+    "url": "https://apod.nasa.gov/apod/image/2607/shadowandrainbow_loschiavo1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
