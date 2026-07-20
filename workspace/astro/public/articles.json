@@ -1,5 +1,29 @@
 [
   {
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "title_es": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "url": "https://arxiv.org/abs/2607.15280",
+    "published": "2026-07-20T04:00:00.000Z",
+    "date": "2026-07-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+    "title_es": "Drones submarinos descubren arrecifes de coral frente a Benin, que durante mucho tiempo se dieron por muertos, llenos de vida",
+    "url": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+    "date": "2026-07-20",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "title_es": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "published": "2026-07-19T23:01:00.000Z",
+    "date": "2026-07-19",
+    "source": "New Scientist"
+  },
+  {
     "title": "Common antidepressant may ease long COVID’s crushing fatigue",
     "title_es": "Un antidepresivo común puede aliviar la fatiga aplastante prolongada del COVID",
     "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
@@ -13,6 +37,14 @@
     "url": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
     "date": "2026-07-19",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-19T00:00:00.000Z"
+  },
+  {
+    "title": "The mysterious hum heard around the world may finally have an explanation",
+    "title_es": "El misterioso zumbido que se escucha en todo el mundo finalmente puede tener una explicación",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+    "date": "2026-07-19",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-19T00:00:00.000Z"
   },
   {
@@ -125,6 +157,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
     "date": "2026-07-17",
     "source": "ScienceDaily (Top)",
+    "published": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+    "title_es": "Evaluación de LLM de peso abierto para generar información estructurada sobre amenazas para vulnerabilidades de vehículos autónomos",
+    "url": "http://arxiv.org/abs/2607.16175v1",
+    "date": "2026-07-17",
+    "source": "arXiv",
     "published": "2026-07-17T00:00:00.000Z"
   },
   {
@@ -64681,6 +64721,14 @@
     "title": "Flying Saucer Crash Lands in Utah Desert",
     "title_es": "Flying Saucer Crash Lands in Utah Desert",
     "url": "https://apod.nasa.gov/apod/image/2607/genesisimpact_nasa_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "NGC 3576: The Statue of Liberty Nebula",
+    "title_es": "NGC 3576: The Statue of Liberty Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2607/libertyneb_carpenter_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

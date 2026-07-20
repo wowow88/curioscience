@@ -1,5 +1,13 @@
 [
   {
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "title_es": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "url": "https://arxiv.org/abs/2607.15280",
+    "published": "2026-07-20T04:00:00.000Z",
+    "date": "2026-07-20",
+    "source": "arXiv"
+  },
+  {
     "title": "Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed",
     "title_es": "Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed",
     "url": "https://www.science.org/doi/abs/10.1126/science.adx2989",
@@ -48,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-    "title_es": "Common antidepressant may ease long COVID’s crushing fatigue",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-    "published": "2026-07-19T01:55:33.000Z",
+    "title": "The mysterious hum heard around the world may finally have an explanation",
+    "title_es": "The mysterious hum heard around the world may finally have an explanation",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+    "published": "2026-07-19T12:07:13.000Z",
     "date": "2026-07-19",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Students create chemical safety model for everyday exposures",
-    "title_es": "Students create chemical safety model for everyday exposures",
-    "url": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
-    "published": "2026-07-19T00:00:01.000Z",
-    "date": "2026-07-19",
+    "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+    "title_es": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+    "url": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+    "published": "2026-07-20T04:00:05.000Z",
+    "date": "2026-07-20",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Using AI for creative pursuits? Moderation is key",
-    "title_es": "Using AI for creative pursuits? Moderation is key",
-    "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/",
-    "published": "2026-07-17T16:47:17.000Z",
-    "date": "2026-07-17",
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "title_es": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "published": "2026-07-19T23:01:00.000Z",
+    "date": "2026-07-19",
     "source": "New Scientist"
   },
   {
@@ -112,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Flying Saucer Crash Lands in Utah Desert",
-    "title_es": "Flying Saucer Crash Lands in Utah Desert",
-    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+    "title": "NGC 3576: The Statue of Liberty Nebula",
+    "title_es": "NGC 3576: The Statue of Liberty Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=42.3154&long=-136.8784",
+    "url": "https://www.latlong.net/c/?lat=47.5083&long=-167.3347",
     "date": "",
     "published": "",
     "source": "ISS Position"

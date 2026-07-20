@@ -1,5 +1,12 @@
 [
   {
+    "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+    "title_es": "Drones submarinos descubren arrecifes de coral frente a Benin, que durante mucho tiempo se dieron por muertos, llenos de vida",
+    "url": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+    "date": "2026-07-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Common antidepressant may ease long COVID’s crushing fatigue",
     "title_es": "Un antidepresivo común puede aliviar la fatiga aplastante prolongada del COVID",
     "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
@@ -12,6 +19,13 @@
     "url": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
     "date": "2026-07-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "The mysterious hum heard around the world may finally have an explanation",
+    "title_es": "El misterioso zumbido que se escucha en todo el mundo finalmente puede tener una explicación",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+    "date": "2026-07-19",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "FCC approves first launch for space reflector constellation",
@@ -89,6 +103,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
     "date": "2026-07-17",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+    "title_es": "Evaluación de LLM de peso abierto para generar información estructurada sobre amenazas para vulnerabilidades de vehículos autónomos",
+    "url": "http://arxiv.org/abs/2607.16175v1",
+    "date": "2026-07-17",
+    "source": "arXiv"
   },
   {
     "title": "Ontario Wildfire Smoke Moves East",
