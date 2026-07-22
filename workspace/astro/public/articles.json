@@ -1,5 +1,61 @@
 [
   {
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "title_es": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "url": "https://arxiv.org/abs/2607.18239",
+    "published": "2026-07-22T04:00:00.000Z",
+    "date": "2026-07-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Magic rituals took place in an Australian cave for 25,000 years",
+    "title_es": "Magic rituals took place in an Australian cave for 25,000 years",
+    "url": "https://www.newscientist.com/article/2580559-magic-ceremonies-took-place-in-an-australian-cave-for-25000-years/",
+    "published": "2026-07-22T04:00:00.000Z",
+    "date": "2026-07-22",
+    "source": "New Scientist"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026\" hreflang=\"es\">El IAC refuerza su presencia internacional en SPIE Astronomical Telescopes + Instrumentation 2026</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026\" hreflang=\"es\">El IAC refuerza su presencia internacional en SPIE Astronomical Telescopes + Instrumentation 2026</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026",
+    "date": "2026-07-22",
+    "source": "IAC",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "Magic mushrooms may reshape the brain long after the trip ends",
+    "title_es": "Las setas mágicas pueden remodelar el cerebro mucho después de que termine el viaje",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+    "date": "2026-07-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "Analysis suggests debt may increase suicide risk",
+    "title_es": "Un análisis sugiere que la deuda puede aumentar el riesgo de suicidio",
+    "url": "https://phys.org/news/2026-07-analysis-debt-suicide.html",
+    "date": "2026-07-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "Small Sauropod Dinosaur from Jurassic Period Discovered in India",
+    "title_es": "Small Sauropod Dinosaur from Jurassic Period Discovered in India",
+    "url": "https://www.sci.news/paleontology/ceratocaudia-antiqua-14934.html",
+    "published": "2026-07-21T21:31:38.000Z",
+    "date": "2026-07-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+    "title_es": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+    "published": "2026-07-21T05:10:08.000Z",
+    "date": "2026-07-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
     "title_es": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
     "url": "https://arxiv.org/abs/2607.16194",
@@ -21,6 +77,46 @@
     "url": "https://phys.org/news/2026-07-visuals-online-ad-emotion.html",
     "date": "2026-07-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+    "title_es": "Copiar menos, fundamentar más: superar la copia repetitiva en el razonamiento de contexto prolongado mediante el aprendizaje por refuerzo basado en la evidencia",
+    "url": "http://arxiv.org/abs/2607.19345v1",
+    "date": "2026-07-21",
+    "source": "arXiv",
+    "published": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Are boldness and belligerence related?",
+    "title_es": "¿Están relacionadas la audacia y la beligerancia?",
+    "url": "https://www.nature.com/articles/d41586-026-02103-5",
+    "date": "2026-07-21",
+    "source": "Nature",
+    "published": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "eLife: A virtual map shows how the mammalian heart takes shape",
+    "title_es": "eLife: A virtual map shows how the mammalian heart takes shape",
+    "url": "https://www.cnic.es/es/node/243665",
+    "date": "2026-07-21",
+    "source": "CNIC",
+    "published": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Ape cuddles could prevent conflicts",
+    "title_es": "Los abrazos de los simios podrían prevenir conflictos",
+    "url": "https://www.sciencenews.org/article/ape-physical-touch-stress-relief-chimps",
+    "date": "2026-07-21",
+    "source": "Science News",
+    "published": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "King cobras may be riding trains across India [COMIC]",
+    "title_es": "Las cobras reales pueden viajar en trenes por toda la India [CÓMIC]",
+    "url": "https://www.snexplores.org/article/king-cobras-riding-trains-india-comic",
+    "date": "2026-07-21",
+    "source": "Science News Explores",
     "published": "2026-07-21T00:00:00.000Z"
   },
   {
@@ -96,7 +192,7 @@
     "published": "2026-07-20T00:00:00.000Z"
   },
   {
-    "title": "Chatty cats and talking dogs could one day ‘speak’ in our language",
+    "title": "Chatty cats and talking dogs could one day ‘speak’ in our language",
     "title_es": "Los gatos parlanchines y los perros parlanchines algún día podrían “hablar” en nuestro idioma",
     "url": "https://www.snexplores.org/article/talking-animals-speak-language-tech",
     "date": "2026-07-20",
@@ -29575,8 +29671,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "The strip-shaped deep white matter hyperintensities may be related to neurodegeneration: A study based on diffusion tensor imaging",
-    "title_es": "Las hiperintensidades de la sustancia blanca profunda en forma de tira pueden estar relacionadas con la neurodegeneración: un estudio basado en imágenes con tensor de difusión",
+    "title": "Correction: A scoping review and thematic analysis of the landscape of spiritual health and spirituality in Canada",
+    "title_es": "Corrección: una revisión de alcance y un análisis temático del panorama de la salud espiritual y la espiritualidad en Canadá",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -64833,6 +64929,14 @@
     "title": "Turtle Rock on Mars",
     "title_es": "Turtle Rock on Mars",
     "url": "https://apod.nasa.gov/apod/image/2607/turtlerock_curiosity_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
+    "title_es": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
+    "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
