@@ -1,5 +1,69 @@
 [
   {
+    "title": "Interview: How Tragedy Changed the FDA",
+    "title_es": "Interview: How Tragedy Changed the FDA",
+    "url": "https://undark.org/2026/07/23/interview-mikkael-sekeres/",
+    "published": "2026-07-23T07:44:00.000Z",
+    "date": "2026-07-23",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "title_es": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "url": "https://arxiv.org/abs/2607.19349",
+    "published": "2026-07-23T04:00:00.000Z",
+    "date": "2026-07-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "Orcas filmed making sunfish explode by ramming them at high speed",
+    "title_es": "Orcas filmed making sunfish explode by ramming them at high speed",
+    "url": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/",
+    "published": "2026-07-23T04:00:00.000Z",
+    "date": "2026-07-23",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Could small-team science be dying out?",
+    "title_es": "¿Podría estar desapareciendo la ciencia en equipos pequeños?",
+    "url": "https://www.nature.com/articles/d41586-026-02174-4",
+    "date": "2026-07-23",
+    "source": "Nature",
+    "published": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "title": "Olympic Mountain Glory",
+    "title_es": "Gloria olímpica de la montaña",
+    "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+    "date": "2026-07-23",
+    "source": "NASA (Top News)",
+    "published": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "title": "Watch an orca ram into a sunfish so hard it explodes",
+    "title_es": "Mira cómo una orca choca contra un pez luna con tanta fuerza que explota",
+    "url": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
+    "date": "2026-07-23",
+    "source": "Science News",
+    "published": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
+    "title_es": "Orcas filmadas embistiendo a uno de los peces más pesados ​​del mundo con tanta fuerza que explota, posiblemente por diversión",
+    "url": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
+    "date": "2026-07-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "title": "Jurassic Pliosaur Liopleurodon Was Big, but Not as Big as Once Feared",
+    "title_es": "Jurassic Pliosaur Liopleurodon Was Big, but Not as Big as Once Feared",
+    "url": "https://www.sci.news/paleontology/liopleurodon-ferox-14939.html",
+    "published": "2026-07-22T22:50:49.000Z",
+    "date": "2026-07-22",
+    "source": "Sci.News"
+  },
+  {
     "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
     "title_es": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
     "url": "https://arxiv.org/abs/2607.18239",
@@ -37,6 +101,38 @@
     "url": "https://phys.org/news/2026-07-analysis-debt-suicide.html",
     "date": "2026-07-22",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+    "title_es": "SoftReason: una arquitectura de razonamiento deductivo neuro-soft-simbólico totalmente diferenciable sobre datos perceptivos de alta dimensión",
+    "url": "http://arxiv.org/abs/2607.20402v1",
+    "date": "2026-07-22",
+    "source": "arXiv",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/docentes-de-24-paises-se-embarcan-en-una-nueva-aventura-astronomica-del-iac\" hreflang=\"es\">Docentes de 24 países se embarcan en una nueva Aventura Astronómica del IAC </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/docentes-de-24-paises-se-embarcan-en-una-nueva-aventura-astronomica-del-iac\" hreflang=\"es\">Docentes de 24 países se embarcan en una nueva Aventura Astronómica del IAC </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/docentes-de-24-paises-se-embarcan-en-una-nueva-aventura-astronomica-del-iac",
+    "date": "2026-07-22",
+    "source": "IAC",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "A ‘super’ El Niño appears to be emerging. What’s the big deal?",
+    "title_es": "Parece estar surgiendo un “súper” El Niño. ¿Cuál es el problema?",
+    "url": "https://www.snexplores.org/article/super-el-nino-climate",
+    "date": "2026-07-22",
+    "source": "Science News Explores",
+    "published": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "title": "A strange quantum effect dramatically boosts energy transfer",
+    "title_es": "Un extraño efecto cuántico aumenta drásticamente la transferencia de energía",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+    "date": "2026-07-22",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-22T00:00:00.000Z"
   },
   {
@@ -29671,8 +29767,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: A scoping review and thematic analysis of the landscape of spiritual health and spirituality in Canada",
-    "title_es": "Corrección: una revisión de alcance y un análisis temático del panorama de la salud espiritual y la espiritualidad en Canadá",
+    "title": "Cervical cancer screening coverage and associated factors among women aged 25–59 in Eswatini: Insights from the 2021 Population-Based HIV Impact Assessment (PHIA)",
+    "title_es": "Cobertura de detección del cáncer de cuello uterino y factores asociados entre mujeres de 25 a 59 años en Eswatini: perspectivas de la Evaluación de impacto del VIH basada en la población (PHIA) de 2021",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -64937,6 +65033,30 @@
     "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
     "title_es": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
     "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "10 years, 4000 diamonds",
+    "title_es": "10 years, 4000 diamonds",
+    "url": "https://scipost.org/scipostphyslectnotes.130",
+    "published": "",
+    "date": "",
+    "source": "SciPost News"
+  },
+  {
+    "title": "Spectral bifurcation and anomalous supercurrent in dissipative topological insulator-based Josephson junctions, by Ardamon Sten, Paramita Dutta, Sudeep Kumar Ghosh",
+    "title_es": "Spectral bifurcation and anomalous supercurrent in dissipative topological insulator-based Josephson junctions, by Ardamon Sten, Paramita Dutta, Sudeep Kumar Ghosh",
+    "url": "https://scipost.org/scipostphyscore.9.3.043",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Large Magellanic Cloud",
+    "title_es": "The Large Magellanic Cloud",
+    "url": "https://apod.nasa.gov/apod/image/2607/lmc_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
