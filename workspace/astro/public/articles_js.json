@@ -1,24 +1,16 @@
 [
   {
-    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-    "title_es": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-    "url": "https://arxiv.org/abs/2607.19349",
-    "published": "2026-07-23T04:00:00.000Z",
-    "date": "2026-07-23",
+    "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
+    "title_es": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
+    "url": "https://arxiv.org/abs/2607.20425",
+    "published": "2026-07-24T04:00:00.000Z",
+    "date": "2026-07-24",
     "source": "arXiv"
   },
   {
-    "title": "Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed",
-    "title_es": "Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adx2989",
-    "published": "2026-07-16T07:00:00.000Z",
-    "date": "2026-07-16",
-    "source": "Science.org"
-  },
-  {
-    "title": "Could small-team science be dying out?",
-    "title_es": "Could small-team science be dying out?",
-    "url": "https://www.nature.com/articles/d41586-026-02174-4",
+    "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
+    "title_es": "What The Odyssey reveals about ancient science — from botany to psychiatry",
+    "url": "https://www.nature.com/articles/d41586-026-02275-0",
     "published": "2026-07-23T00:00:00.000Z",
     "date": "2026-07-23",
     "source": "Nature"
@@ -40,58 +32,58 @@
     "source": "CNIO"
   },
   {
-    "title": "Olympic Mountain Glory",
-    "title_es": "Olympic Mountain Glory",
-    "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
-    "published": "2026-07-23T04:01:00.000Z",
-    "date": "2026-07-23",
+    "title": "A Million-Panel Project",
+    "title_es": "A Million-Panel Project",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+    "published": "2026-07-24T04:01:00.000Z",
+    "date": "2026-07-24",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Watch an orca ram into a sunfish so hard it explodes",
-    "title_es": "Watch an orca ram into a sunfish so hard it explodes",
-    "url": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
-    "published": "2026-07-23T04:00:00.000Z",
+    "title": "Different moon rocks tell different tales about a long-ago bombardment",
+    "title_es": "Different moon rocks tell different tales about a long-ago bombardment",
+    "url": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
+    "published": "2026-07-23T18:12:58.000Z",
     "date": "2026-07-23",
     "source": "Science News"
   },
   {
-    "title": "A ‘super’ El Niño appears to be emerging. What’s the big deal?",
-    "title_es": "A ‘super’ El Niño appears to be emerging. What’s the big deal?",
-    "url": "https://www.snexplores.org/article/super-el-nino-climate",
-    "published": "2026-07-22T10:30:00.000Z",
-    "date": "2026-07-22",
+    "title": "Dormant microbes from Ötzi the Iceman’s body can grow in the lab",
+    "title_es": "Dormant microbes from Ötzi the Iceman’s body can grow in the lab",
+    "url": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
+    "published": "2026-07-23T10:30:00.000Z",
+    "date": "2026-07-23",
     "source": "Science News Explores"
   },
   {
-    "title": "A strange quantum effect dramatically boosts energy transfer",
-    "title_es": "A strange quantum effect dramatically boosts energy transfer",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-    "published": "2026-07-22T12:17:00.000Z",
-    "date": "2026-07-22",
+    "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+    "title_es": "Orcas filmed smashing giant sunfish into thousands of pieces",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+    "published": "2026-07-23T13:55:59.000Z",
+    "date": "2026-07-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
-    "title_es": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
-    "url": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
-    "published": "2026-07-23T04:00:01.000Z",
-    "date": "2026-07-23",
+    "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
+    "title_es": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
+    "url": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
+    "published": "2026-07-24T03:20:01.000Z",
+    "date": "2026-07-24",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Cervical cancer screening coverage and associated factors among women aged 25–59 in Eswatini: Insights from the 2021 Population-Based HIV Impact Assessment (PHIA)",
-    "title_es": "Cervical cancer screening coverage and associated factors among women aged 25–59 in Eswatini: Insights from the 2021 Population-Based HIV Impact Assessment (PHIA)",
+    "title": "Eligibility to donate blood under an individual donor assessment policy: A national cross-sectional study of gay, bisexual and other men who have sex with men in Aotearoa, New Zealand",
+    "title_es": "Eligibility to donate blood under an individual donor assessment policy: A national cross-sectional study of gay, bisexual and other men who have sex with men in Aotearoa, New Zealand",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-07-22T14:00:00.000Z",
-    "date": "2026-07-22",
+    "published": "2026-07-23T14:00:00.000Z",
+    "date": "2026-07-23",
     "source": "PLOS ONE"
   },
   {
-    "title": "Orcas filmed making sunfish explode by ramming them at high speed",
-    "title_es": "Orcas filmed making sunfish explode by ramming them at high speed",
-    "url": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/",
-    "published": "2026-07-23T04:00:00.000Z",
+    "title": "This El Niño will be the hottest by a huge margin",
+    "title_es": "This El Niño will be the hottest by a huge margin",
+    "url": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/",
+    "published": "2026-07-23T18:00:39.000Z",
     "date": "2026-07-23",
     "source": "New Scientist"
   },
@@ -104,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Jurassic Pliosaur Liopleurodon Was Big, but Not as Big as Once Feared",
-    "title_es": "Jurassic Pliosaur Liopleurodon Was Big, but Not as Big as Once Feared",
-    "url": "https://www.sci.news/paleontology/liopleurodon-ferox-14939.html",
-    "published": "2026-07-22T22:50:49.000Z",
-    "date": "2026-07-22",
+    "title": "Did Early Snakes Burrow, Swim or Crawl? 80‑Million‑Year‑Old Fossil Suggests: All Three",
+    "title_es": "Did Early Snakes Burrow, Swim or Crawl? 80‑Million‑Year‑Old Fossil Suggests: All Three",
+    "url": "https://www.sci.news/paleontology/tametara-mirim-14942.html",
+    "published": "2026-07-24T00:18:24.000Z",
+    "date": "2026-07-24",
     "source": "Sci.News"
   },
   {
@@ -120,17 +112,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Spectral bifurcation and anomalous supercurrent in dissipative topological insulator-based Josephson junctions, by Ardamon Sten, Paramita Dutta, Sudeep Kumar Ghosh",
-    "title_es": "Spectral bifurcation and anomalous supercurrent in dissipative topological insulator-based Josephson junctions, by Ardamon Sten, Paramita Dutta, Sudeep Kumar Ghosh",
-    "url": "https://scipost.org/scipostphyscore.9.3.043",
+    "title": "Gapless phases in (2+1)d with non-invertible symmetries, by Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schäfer-Nameki, Apoorv Tiwari, Alison Warman",
+    "title_es": "Gapless phases in (2+1)d with non-invertible symmetries, by Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schäfer-Nameki, Apoorv Tiwari, Alison Warman",
+    "url": "https://scipost.org/scipostphys.21.1.019",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "The Large Magellanic Cloud",
-    "title_es": "The Large Magellanic Cloud",
-    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
+    "title": "RCW 86: Historical Supernova Remnant",
+    "title_es": "RCW 86: Historical Supernova Remnant",
+    "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -138,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=7.0210&long=-122.2966",
+    "url": "https://www.latlong.net/c/?lat=-8.6899&long=50.8154",
     "date": "",
     "published": "",
     "source": "ISS Position"

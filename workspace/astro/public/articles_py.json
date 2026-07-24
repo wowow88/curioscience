@@ -1,5 +1,19 @@
 [
   {
+    "title": "A Million-Panel Project",
+    "title_es": "Un proyecto de un millón de paneles",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+    "date": "2026-07-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
+    "title_es": "Vainas de bioplástico impresas en 3D ofrecen nuevas esperanzas para la restauración de pastos marinos en Tailandia",
+    "url": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
+    "date": "2026-07-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Could small-team science be dying out?",
     "title_es": "¿Podría estar desapareciendo la ciencia en equipos pequeños?",
     "url": "https://www.nature.com/articles/d41586-026-02174-4",
@@ -28,6 +42,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Eligibility to donate blood under an individual donor assessment policy: A national cross-sectional study of gay, bisexual and other men who have sex with men in Aotearoa, New Zealand",
+    "title_es": "Elegibilidad para donar sangre según una política de evaluación de donantes individuales: un estudio transversal nacional de hombres homosexuales, bisexuales y otros hombres que tienen sexo con hombres en Aotearoa, Nueva Zelanda",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-23",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "title_es": "VLM compatibles con 3D con geometrías implícitas y explícitas",
+    "url": "http://arxiv.org/abs/2607.21595v1",
+    "date": "2026-07-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
+    "title_es": "Lo que <i>La Odisea</i> revela sobre la ciencia antigua, desde la botánica hasta la psiquiatría",
+    "url": "https://www.nature.com/articles/d41586-026-02275-0",
+    "date": "2026-07-23",
+    "source": "Nature"
+  },
+  {
+    "title": "Different moon rocks tell different tales about a long-ago bombardment",
+    "title_es": "Diferentes rocas lunares cuentan diferentes historias sobre un bombardeo lejano",
+    "url": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
+    "date": "2026-07-23",
+    "source": "Science News"
+  },
+  {
+    "title": "Dormant microbes from Ötzi the Iceman’s body can grow in the lab",
+    "title_es": "Los microbios latentes del cuerpo de Ötzi, el hombre de hielo, pueden crecer en el laboratorio",
+    "url": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
+    "date": "2026-07-23",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+    "title_es": "Orcas filmadas rompiendo peces luna gigantes en miles de pedazos",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+    "date": "2026-07-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026\" hreflang=\"es\">El IAC refuerza su presencia internacional en SPIE Astronomical Telescopes + Instrumentation 2026</a>",
     "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026\" hreflang=\"es\">El IAC refuerza su presencia internacional en SPIE Astronomical Telescopes + Instrumentation 2026</a>",
     "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-refuerza-su-presencia-internacional-en-spie-astronomical-telescopes-instrumentation-2026",
@@ -47,13 +103,6 @@
     "url": "https://phys.org/news/2026-07-analysis-debt-suicide.html",
     "date": "2026-07-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Cervical cancer screening coverage and associated factors among women aged 25–59 in Eswatini: Insights from the 2021 Population-Based HIV Impact Assessment (PHIA)",
-    "title_es": "Cobertura de detección del cáncer de cuello uterino y factores asociados entre mujeres de 25 a 59 años en Eswatini: perspectivas de la Evaluación de impacto del VIH basada en la población (PHIA) de 2021",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
