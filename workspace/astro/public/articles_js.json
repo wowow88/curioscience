@@ -1,18 +1,18 @@
 [
   {
-    "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
-    "title_es": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
-    "url": "https://arxiv.org/abs/2607.20425",
-    "published": "2026-07-24T04:00:00.000Z",
-    "date": "2026-07-24",
-    "source": "arXiv"
+    "title": "Dispatches from the front lines of science",
+    "title_es": "Dispatches from the front lines of science",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei1520",
+    "published": "2026-07-23T06:00:11.000Z",
+    "date": "2026-07-23",
+    "source": "Science.org"
   },
   {
-    "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
-    "title_es": "What The Odyssey reveals about ancient science — from botany to psychiatry",
-    "url": "https://www.nature.com/articles/d41586-026-02275-0",
-    "published": "2026-07-23T00:00:00.000Z",
-    "date": "2026-07-23",
+    "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+    "title_es": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+    "url": "https://www.nature.com/articles/s41586-026-10911-y",
+    "published": "2026-07-24T00:00:00.000Z",
+    "date": "2026-07-24",
     "source": "Nature"
   },
   {
@@ -32,19 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "A Million-Panel Project",
-    "title_es": "A Million-Panel Project",
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
-    "published": "2026-07-24T04:01:00.000Z",
+    "title": "What’s to blame for Canada’s wildfires?",
+    "title_es": "What’s to blame for Canada’s wildfires?",
+    "url": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke",
+    "published": "2026-07-24T17:00:00.000Z",
     "date": "2026-07-24",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Different moon rocks tell different tales about a long-ago bombardment",
-    "title_es": "Different moon rocks tell different tales about a long-ago bombardment",
-    "url": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
-    "published": "2026-07-23T18:12:58.000Z",
-    "date": "2026-07-23",
     "source": "Science News"
   },
   {
@@ -56,35 +48,35 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-    "title_es": "Orcas filmed smashing giant sunfish into thousands of pieces",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
-    "published": "2026-07-23T13:55:59.000Z",
-    "date": "2026-07-23",
+    "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+    "title_es": "APOE2 may protect the brain from Alzheimer’s and aging",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+    "published": "2026-07-24T06:00:15.000Z",
+    "date": "2026-07-24",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
-    "title_es": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
-    "url": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
-    "published": "2026-07-24T03:20:01.000Z",
-    "date": "2026-07-24",
+    "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
+    "title_es": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
+    "url": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html",
+    "published": "2026-07-25T03:00:01.000Z",
+    "date": "2026-07-25",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Eligibility to donate blood under an individual donor assessment policy: A national cross-sectional study of gay, bisexual and other men who have sex with men in Aotearoa, New Zealand",
-    "title_es": "Eligibility to donate blood under an individual donor assessment policy: A national cross-sectional study of gay, bisexual and other men who have sex with men in Aotearoa, New Zealand",
+    "title": "Virtual screening of Kocuria oceani AT-1 metabolites as potential maize growth regulators under drought conditions using molecular docking and dynamics simulation",
+    "title_es": "Virtual screening of Kocuria oceani AT-1 metabolites as potential maize growth regulators under drought conditions using molecular docking and dynamics simulation",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-07-23T14:00:00.000Z",
-    "date": "2026-07-23",
+    "published": "2026-07-24T14:00:00.000Z",
+    "date": "2026-07-24",
     "source": "PLOS ONE"
   },
   {
-    "title": "This El Niño will be the hottest by a huge margin",
-    "title_es": "This El Niño will be the hottest by a huge margin",
-    "url": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/",
-    "published": "2026-07-23T18:00:39.000Z",
-    "date": "2026-07-23",
+    "title": "One of NASA’s crucial links to deep space is at risk of burning down",
+    "title_es": "One of NASA’s crucial links to deep space is at risk of burning down",
+    "url": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/",
+    "published": "2026-07-24T21:30:01.000Z",
+    "date": "2026-07-24",
     "source": "New Scientist"
   },
   {
@@ -96,10 +88,10 @@
     "source": "SciPost News"
   },
   {
-    "title": "Did Early Snakes Burrow, Swim or Crawl? 80‑Million‑Year‑Old Fossil Suggests: All Three",
-    "title_es": "Did Early Snakes Burrow, Swim or Crawl? 80‑Million‑Year‑Old Fossil Suggests: All Three",
-    "url": "https://www.sci.news/paleontology/tametara-mirim-14942.html",
-    "published": "2026-07-24T00:18:24.000Z",
+    "title": "Early Miocene Fossil Rewrites Family Tree of Little Carnivorous Marsupials",
+    "title_es": "Early Miocene Fossil Rewrites Family Tree of Little Carnivorous Marsupials",
+    "url": "https://www.sci.news/paleontology/miyumba-chrisdickmani-14944.html",
+    "published": "2026-07-24T20:40:36.000Z",
     "date": "2026-07-24",
     "source": "Sci.News"
   },
@@ -112,17 +104,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Gapless phases in (2+1)d with non-invertible symmetries, by Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schäfer-Nameki, Apoorv Tiwari, Alison Warman",
-    "title_es": "Gapless phases in (2+1)d with non-invertible symmetries, by Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schäfer-Nameki, Apoorv Tiwari, Alison Warman",
-    "url": "https://scipost.org/scipostphys.21.1.019",
+    "title": "A reverse black hole information problem, by Jan de Boer, Jildou Hollander, Andrew Rolph",
+    "title_es": "A reverse black hole information problem, by Jan de Boer, Jildou Hollander, Andrew Rolph",
+    "url": "https://scipost.org/scipostphys.21.1.020",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "RCW 86: Historical Supernova Remnant",
-    "title_es": "RCW 86: Historical Supernova Remnant",
-    "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
+    "title": "Tranquility and Serenity",
+    "title_es": "Tranquility and Serenity",
+    "url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-8.6899&long=50.8154",
+    "url": "https://www.latlong.net/c/?lat=44.2957&long=-175.1067",
     "date": "",
     "published": "",
     "source": "ISS Position"
