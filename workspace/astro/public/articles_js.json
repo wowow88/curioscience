@@ -1,5 +1,13 @@
 [
   {
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "title_es": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "url": "https://arxiv.org/abs/2607.21596",
+    "published": "2026-07-27T04:00:00.000Z",
+    "date": "2026-07-27",
+    "source": "arXiv"
+  },
+  {
     "title": "Dispatches from the front lines of science",
     "title_es": "Dispatches from the front lines of science",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei1520",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-    "title_es": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-    "url": "https://www.nature.com/articles/s41586-026-10911-y",
-    "published": "2026-07-24T00:00:00.000Z",
-    "date": "2026-07-24",
+    "title": "The existential choice facing UK physics facilities: commercialize or close",
+    "title_es": "The existential choice facing UK physics facilities: commercialize or close",
+    "url": "https://www.nature.com/articles/d41586-026-02171-7",
+    "published": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Nature"
   },
   {
@@ -32,11 +40,19 @@
     "source": "CNIO"
   },
   {
-    "title": "What’s to blame for Canada’s wildfires?",
-    "title_es": "What’s to blame for Canada’s wildfires?",
-    "url": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke",
-    "published": "2026-07-24T17:00:00.000Z",
-    "date": "2026-07-24",
+    "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+    "title_es": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+    "published": "2026-07-26T10:59:44.000Z",
+    "date": "2026-07-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Spines of saber-toothed cats tell a tale of the doomed species",
+    "title_es": "Spines of saber-toothed cats tell a tale of the doomed species",
+    "url": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
+    "published": "2026-07-27T04:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Science News"
   },
   {
@@ -48,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "The Universe can outrun light without breaking Einstein’s rules",
-    "title_es": "The Universe can outrun light without breaking Einstein’s rules",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-    "published": "2026-07-25T13:17:03.000Z",
-    "date": "2026-07-25",
+    "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+    "title_es": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+    "published": "2026-07-26T08:16:35.000Z",
+    "date": "2026-07-26",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
-    "title_es": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
-    "url": "https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html",
-    "published": "2026-07-26T00:30:04.000Z",
-    "date": "2026-07-26",
+    "title": "A US-Russian space crew lands safely in Kazakhstan after an 8-month stint on the ISS",
+    "title_es": "A US-Russian space crew lands safely in Kazakhstan after an 8-month stint on the ISS",
+    "url": "https://phys.org/news/2026-07-russian-space-crew-safely-kazakhstan.html",
+    "published": "2026-07-27T07:48:14.000Z",
+    "date": "2026-07-27",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "One of NASA’s crucial links to deep space is at risk of burning down",
-    "title_es": "One of NASA’s crucial links to deep space is at risk of burning down",
-    "url": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/",
-    "published": "2026-07-24T21:30:01.000Z",
-    "date": "2026-07-24",
+    "title": "How ultra-processed foods may damage your long-term brain health",
+    "title_es": "How ultra-processed foods may damage your long-term brain health",
+    "url": "https://www.newscientist.com/article/2581148-how-ultra-processed-foods-may-damage-your-long-term-brain-health/",
+    "published": "2026-07-27T08:00:00.000Z",
+    "date": "2026-07-27",
     "source": "New Scientist"
   },
   {
@@ -88,11 +104,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Early Miocene Fossil Rewrites Family Tree of Little Carnivorous Marsupials",
-    "title_es": "Early Miocene Fossil Rewrites Family Tree of Little Carnivorous Marsupials",
-    "url": "https://www.sci.news/paleontology/miyumba-chrisdickmani-14944.html",
-    "published": "2026-07-24T20:40:36.000Z",
-    "date": "2026-07-24",
+    "title": "Planetary-Mass Exomoon Found Circling Brown Dwarf",
+    "title_es": "Planetary-Mass Exomoon Found Circling Brown Dwarf",
+    "url": "https://www.sci.news/astronomy/brown-dwarf-exomoon-14945.html",
+    "published": "2026-07-26T23:35:45.000Z",
+    "date": "2026-07-26",
     "source": "Sci.News"
   },
   {
@@ -110,22 +126,6 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
-  },
-  {
-    "title": "Simulation TNG50: A Galaxy Cluster Forms",
-    "title_es": "Simulation TNG50: A Galaxy Cluster Forms",
-    "url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=7.8459&long=51.3325",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",

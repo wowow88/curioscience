@@ -1,10 +1,45 @@
 [
   {
+    "title": "The existential choice facing UK physics facilities: commercialize or close",
+    "title_es": "La elección existencial que enfrentan las instalaciones de física del Reino Unido: comercializar o cerrar",
+    "url": "https://www.nature.com/articles/d41586-026-02171-7",
+    "date": "2026-07-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Spines of saber-toothed cats tell a tale of the doomed species",
+    "title_es": "Las espinas de los gatos con dientes de sable cuentan la historia de una especie condenada al fracaso",
+    "url": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
+    "date": "2026-07-27",
+    "source": "Science News"
+  },
+  {
+    "title": "A US-Russian space crew lands safely in Kazakhstan after an 8-month stint on the ISS",
+    "title_es": "Una tripulación espacial ruso-estadounidense aterriza sana y salva en Kazajstán después de ocho meses en la ISS",
+    "url": "https://phys.org/news/2026-07-russian-space-crew-safely-kazakhstan.html",
+    "date": "2026-07-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
     "title_es": "'Ya no puedo trabajar en la farsa del turismo de cruceros sobre el cambio climático': Por qué los guías antárticos renunciaron a los trabajos de sus sueños",
     "url": "https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html",
     "date": "2026-07-26",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+    "title_es": "El astronauta de la NASA Chris Williams y sus compañeros de tripulación regresan de la estación espacial",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+    "date": "2026-07-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+    "title_es": "Dentro de las trastiendas: el lugar más espeluznante de Internet se está convirtiendo en una atracción turística",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+    "date": "2026-07-26",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
@@ -75,6 +110,13 @@
     "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
     "date": "2026-07-24",
     "source": "NASA (Top News)"
+  },
+  {
+    "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+    "title_es": "SM4RT: Aprendizaje de geometría de movimiento estructurado para reconstrucción 4D",
+    "url": "http://arxiv.org/abs/2607.22534v1",
+    "date": "2026-07-24",
+    "source": "arXiv"
   },
   {
     "title": "Could small-team science be dying out?",
