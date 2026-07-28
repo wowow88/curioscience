@@ -1,5 +1,19 @@
 [
   {
+    "title": "Smoke Blankets Oregon",
+    "title_es": "Mantas de humo Oregón",
+    "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+    "date": "2026-07-28",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 indigenous Australians",
+    "title_es": "Un modelo revela que el brote de viruela de Sydney en 1789 mató a unos 220.000 indígenas australianos",
+    "url": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
+    "date": "2026-07-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "The existential choice facing UK physics facilities: commercialize or close",
     "title_es": "La elección existencial que enfrentan las instalaciones de física del Reino Unido: comercializar o cerrar",
     "url": "https://www.nature.com/articles/d41586-026-02171-7",
@@ -19,6 +33,55 @@
     "url": "https://phys.org/news/2026-07-russian-space-crew-safely-kazakhstan.html",
     "date": "2026-07-27",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Leveraging free-text clinical records for heart disease classification through structured feature mapping",
+    "title_es": "Aprovechamiento de registros clínicos de texto libre para la clasificación de enfermedades cardíacas mediante un mapeo estructurado de características",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-27",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "title_es": "ClinFusion: un sistema LLM multimodal centrado en la visión para la comprensión médica holística",
+    "url": "http://arxiv.org/abs/2607.24743v1",
+    "date": "2026-07-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+    "title_es": "Fotoenzimas de piridoxal para acoplamientos cruzados radicales asimétricos",
+    "url": "https://www.nature.com/articles/s41586-026-10930-9",
+    "date": "2026-07-27",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-fisica-que-explica-el-universo-tambien-podria-ayudar-entender-el-cerebro\" hreflang=\"es\">La física que explica el Universo también podría ayudar a entender el cerebro</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-fisica-que-explica-el-universo-tambien-podria-ayudar-entender-el-cerebro\" hreflang=\"es\">La física que explica el Universo también podría ayudar a entender el cerebro</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-fisica-que-explica-el-universo-tambien-podria-ayudar-entender-el-cerebro",
+    "date": "2026-07-27",
+    "source": "IAC"
+  },
+  {
+    "title": "Seals’ amphibious hearing developed a long, long time ago",
+    "title_es": "El oído anfibio de las focas se desarrolló hace mucho, mucho tiempo",
+    "url": "https://www.sciencenews.org/article/seals-amphibious-hearing-long-ago",
+    "date": "2026-07-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists Say: Fjord",
+    "title_es": "Los científicos dicen: Fiordo",
+    "url": "https://www.snexplores.org/article/scientists-say-fjord-definition-pronunciation",
+    "date": "2026-07-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+    "title_es": "Por qué Júpiter tiene varias lunas gigantes pero Saturno solo tiene Titán",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm",
+    "date": "2026-07-27",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
@@ -68,13 +131,6 @@
     "url": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
     "date": "2026-07-24",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Virtual screening of <i>Kocuria oceani</i> AT-1 metabolites as potential maize growth regulators under drought conditions using molecular docking and dynamics simulation",
-    "title_es": "Detección virtual de metabolitos AT-1 de <i>Kocuria oceani</i> como posibles reguladores del crecimiento del maíz en condiciones de sequía mediante acoplamiento molecular y simulación dinámica",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-24",
-    "source": "PLOS ONE"
   },
   {
     "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
