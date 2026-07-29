@@ -1,5 +1,26 @@
 [
   {
+    "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
+    "title_es": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
+    "url": "https://www.cnic.es/es/noticias/jacc-cardiooncology-un-estudio-cuestiona-utilidad-vigilancia-cardiologica-pacientes-con",
+    "date": "2026-07-29",
+    "source": "CNIC"
+  },
+  {
+    "title": "Sizing Up the Sargassum Belt",
+    "title_es": "Evaluando el cinturón de sargazo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+    "date": "2026-07-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
+    "title_es": "Los mosquitos están activando rápidamente enzimas contra los insecticidas comunes, advierten los investigadores",
+    "url": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
+    "date": "2026-07-29",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Smoke Blankets Oregon",
     "title_es": "Mantas de humo Oregón",
     "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
@@ -12,6 +33,48 @@
     "url": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
     "date": "2026-07-28",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Burnout among anesthesia personnel in Thailand: A national survey of workload, personality traits, and resilience",
+    "title_es": "Corrección: Burnout entre el personal de anestesia en Tailandia: una encuesta nacional sobre la carga de trabajo, los rasgos de personalidad y la resiliencia",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-28",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+    "title_es": "Pasar el testigo: destilación basada en políticas basada en la trayectoria",
+    "url": "http://arxiv.org/abs/2607.26057v1",
+    "date": "2026-07-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
+    "title_es": "Expresión editorial de preocupación: los factores producidos por el carcinoma activan las células mieloides a través del TLR2 para estimular la metástasis",
+    "url": "https://www.nature.com/articles/s41586-026-10923-8",
+    "date": "2026-07-28",
+    "source": "Nature"
+  },
+  {
+    "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
+    "title_es": "Los 'químicos eternos' podrían hacer que los delfines envejezcan más allá de su edad",
+    "url": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
+    "date": "2026-07-28",
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: How sea slugs get their flashy colors",
+    "title_es": "Analice esto: cómo las babosas marinas obtienen sus colores llamativos",
+    "url": "https://www.snexplores.org/article/how-sea-slugs-get-bright-colors",
+    "date": "2026-07-28",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+    "title_es": "El carbón oculto revela la verdadera edad de las antiguas pinturas rupestres",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+    "date": "2026-07-28",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "The existential choice facing UK physics facilities: commercialize or close",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-07-russian-space-crew-safely-kazakhstan.html",
     "date": "2026-07-27",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Leveraging free-text clinical records for heart disease classification through structured feature mapping",
-    "title_es": "Aprovechamiento de registros clínicos de texto libre para la clasificación de enfermedades cardíacas mediante un mapeo estructurado de características",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-27",
-    "source": "PLOS ONE"
   },
   {
     "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",

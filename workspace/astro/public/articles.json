@@ -1,5 +1,53 @@
 [
   {
+    "title": "DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation",
+    "title_es": "DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation",
+    "url": "https://arxiv.org/abs/2607.24745",
+    "published": "2026-07-29T04:00:00.000Z",
+    "date": "2026-07-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas",
+    "title_es": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
+    "url": "https://www.cnic.es/es/noticias/jacc-cardiooncology-un-estudio-cuestiona-utilidad-vigilancia-cardiologica-pacientes-con",
+    "date": "2026-07-29",
+    "source": "CNIC",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Sizing Up the Sargassum Belt",
+    "title_es": "Evaluando el cinturón de sargazo",
+    "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+    "date": "2026-07-29",
+    "source": "NASA (Top News)",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
+    "title_es": "Los mosquitos están activando rápidamente enzimas contra los insecticidas comunes, advierten los investigadores",
+    "url": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
+    "date": "2026-07-29",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient Footprints in Kenya Hint at Bigger Bodies and Group Behavior among Early Human Relatives",
+    "title_es": "Ancient Footprints in Kenya Hint at Bigger Bodies and Group Behavior among Early Human Relatives",
+    "url": "https://www.sci.news/othersciences/anthropology/paranthropus-boisei-homo-erectus-footprints-kenya-14952.html",
+    "published": "2026-07-28T22:20:59.000Z",
+    "date": "2026-07-28",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Jaguar makes epic 2100-kilometre journey across the Amazon",
+    "title_es": "Jaguar makes epic 2100-kilometre journey across the Amazon",
+    "url": "https://www.newscientist.com/article/2581557-jaguar-makes-epic-2100-kilometre-journey-across-the-amazon/",
+    "published": "2026-07-28T15:00:00.000Z",
+    "date": "2026-07-28",
+    "source": "New Scientist"
+  },
+  {
     "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
     "title_es": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
     "url": "https://arxiv.org/abs/2607.22544",
@@ -21,6 +69,46 @@
     "url": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
     "date": "2026-07-28",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+    "title_es": "Pasar el testigo: destilación basada en políticas basada en la trayectoria",
+    "url": "http://arxiv.org/abs/2607.26057v1",
+    "date": "2026-07-28",
+    "source": "arXiv",
+    "published": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
+    "title_es": "Expresión editorial de preocupación: los factores producidos por el carcinoma activan las células mieloides a través del TLR2 para estimular la metástasis",
+    "url": "https://www.nature.com/articles/s41586-026-10923-8",
+    "date": "2026-07-28",
+    "source": "Nature",
+    "published": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
+    "title_es": "Los 'químicos eternos' podrían hacer que los delfines envejezcan más allá de su edad",
+    "url": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
+    "date": "2026-07-28",
+    "source": "Science News",
+    "published": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: How sea slugs get their flashy colors",
+    "title_es": "Analice esto: cómo las babosas marinas obtienen sus colores llamativos",
+    "url": "https://www.snexplores.org/article/how-sea-slugs-get-bright-colors",
+    "date": "2026-07-28",
+    "source": "Science News Explores",
+    "published": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+    "title_es": "El carbón oculto revela la verdadera edad de las antiguas pinturas rupestres",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+    "date": "2026-07-28",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-28T00:00:00.000Z"
   },
   {
@@ -30095,8 +30183,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Leveraging free-text clinical records for heart disease classification through structured feature mapping",
-    "title_es": "Aprovechamiento de registros clínicos de texto libre para la clasificación de enfermedades cardíacas mediante un mapeo estructurado de características",
+    "title": "Correction: Burnout among anesthesia personnel in Thailand: A national survey of workload, personality traits, and resilience",
+    "title_es": "Corrección: Burnout entre el personal de anestesia en Tailandia: una encuesta nacional sobre la carga de trabajo, los rasgos de personalidad y la resiliencia",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -65441,6 +65529,22 @@
     "title": "Barnards Loop over Twin Volcanoes",
     "title_es": "Barnards Loop over Twin Volcanoes",
     "url": "https://apod.nasa.gov/apod/image/2607/loopvolcanos_laserna_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Role of impurity statistics and medium constraints in polaron-polaron interactions, by Jesper Levinsen, Francesca M. Marchetti, Olivier Bleu, Meera M. Parish",
+    "title_es": "Role of impurity statistics and medium constraints in polaron-polaron interactions, by Jesper Levinsen, Francesca M. Marchetti, Olivier Bleu, Meera M. Parish",
+    "url": "https://scipost.org/scipostphys.21.1.025",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Psyche Receives Gravity Assist from Mars",
+    "title_es": "Psyche Receives Gravity Assist from Mars",
+    "url": "https://www.youtube.com/embed/6_ch5-daljg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
