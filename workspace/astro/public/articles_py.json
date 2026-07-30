@@ -1,5 +1,12 @@
 [
   {
+    "title": "From single projection to many possibilities: A new tool for climate risk assessment",
+    "title_es": "De una sola proyección a muchas posibilidades: una nueva herramienta para la evaluación del riesgo climático",
+    "url": "https://phys.org/news/2026-07-possibilities-tool-climate.html",
+    "date": "2026-07-30",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
     "title_es": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
     "url": "https://www.cnic.es/es/noticias/jacc-cardiooncology-un-estudio-cuestiona-utilidad-vigilancia-cardiologica-pacientes-con",
@@ -21,6 +28,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Neck circumference as an anthropometric marker of overweight among school-aged children in Bharatpur, Nepal: A community-based study",
+    "title_es": "La circunferencia del cuello como marcador antropométrico de sobrepeso entre niños en edad escolar en Bharatpur, Nepal: un estudio comunitario",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-07-29",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+    "title_es": "¿Pueden los agentes de IA realizar investigaciones de IA de duración abierta? Evidencia temprana de dos estudios de caso",
+    "url": "http://arxiv.org/abs/2607.27191v1",
+    "date": "2026-07-29",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
+    "title_es": "Corrección del autor: una interfase de electrolito sólido dúctil para baterías de estado sólido",
+    "url": "https://www.nature.com/articles/s41586-026-10945-2",
+    "date": "2026-07-29",
+    "source": "Nature"
+  },
+  {
+    "title": "JACC: CardioOncology: Study questions the value of intensive cardiac surveillance in cancer patients treated with anthracyclines",
+    "title_es": "JACC: CardioOncology: Study questions the value of intensive cardiac surveillance in cancer patients treated with anthracyclines",
+    "url": "https://www.cnic.es/es/node/243728",
+    "date": "2026-07-29",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu\" hreflang=\"es\">Diana Morant preside el Consejo Rector del IAC, donde destaca que el Gobierno de España aportará 3,5 M€ extraordinarios en 2026 para su actividad</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu\" hreflang=\"es\">Diana Morant preside el Consejo Rector del IAC, donde destaca que el Gobierno de España aportará 3,5 M€ extraordinarios en 2026 para su actividad</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu",
+    "date": "2026-07-29",
+    "source": "IAC"
+  },
+  {
+    "title": "Healthy pregnancies and newborns are possible after CAR T cell therapy",
+    "title_es": "Embarazos y recién nacidos sanos son posibles después de la terapia con células T con CAR",
+    "url": "https://www.sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
+    "date": "2026-07-29",
+    "source": "Science News"
+  },
+  {
+    "title": "Experiment: Measure fake blood spatter",
+    "title_es": "Experimento: medir salpicaduras de sangre falsas",
+    "url": "https://www.snexplores.org/article/experiment-forensics-blood-spatter",
+    "date": "2026-07-29",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "New microwave frying method could make french fries much healthier",
+    "title_es": "Un nuevo método para freír en microondas podría hacer que las patatas fritas sean mucho más saludables",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+    "date": "2026-07-29",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Smoke Blankets Oregon",
     "title_es": "Mantas de humo Oregón",
     "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
@@ -33,13 +96,6 @@
     "url": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
     "date": "2026-07-28",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Burnout among anesthesia personnel in Thailand: A national survey of workload, personality traits, and resilience",
-    "title_es": "Corrección: Burnout entre el personal de anestesia en Tailandia: una encuesta nacional sobre la carga de trabajo, los rasgos de personalidad y la resiliencia",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-07-28",
-    "source": "PLOS ONE"
   },
   {
     "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",

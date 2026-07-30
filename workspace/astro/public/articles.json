@@ -1,5 +1,37 @@
 [
   {
+    "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
+    "title_es": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2607.26059",
+    "published": "2026-07-30T04:00:00.000Z",
+    "date": "2026-07-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "From single projection to many possibilities: A new tool for climate risk assessment",
+    "title_es": "De una sola proyección a muchas posibilidades: una nueva herramienta para la evaluación del riesgo climático",
+    "url": "https://phys.org/news/2026-07-possibilities-tool-climate.html",
+    "date": "2026-07-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Dinosaur-Killing Asteroid Didn’t Just Strike Earth, Its Dust Cloud Cooked It",
+    "title_es": "Dinosaur-Killing Asteroid Didn’t Just Strike Earth, Its Dust Cloud Cooked It",
+    "url": "https://www.sci.news/paleontology/chicxulub-asteroid-impact-heat-wildfires-14957.html",
+    "published": "2026-07-29T21:33:07.000Z",
+    "date": "2026-07-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Spectacular fossil preserves internal organs of ancient marine reptile",
+    "title_es": "Spectacular fossil preserves internal organs of ancient marine reptile",
+    "url": "https://www.newscientist.com/article/2582138-spectacular-fossil-preserves-internal-organs-of-ancient-marine-reptile/",
+    "published": "2026-07-29T18:00:00.000Z",
+    "date": "2026-07-29",
+    "source": "New Scientist"
+  },
+  {
     "title": "DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation",
     "title_es": "DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation",
     "url": "https://arxiv.org/abs/2607.24745",
@@ -8,7 +40,7 @@
     "source": "arXiv"
   },
   {
-    "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas",
+    "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
     "title_es": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
     "url": "https://www.cnic.es/es/noticias/jacc-cardiooncology-un-estudio-cuestiona-utilidad-vigilancia-cardiologica-pacientes-con",
     "date": "2026-07-29",
@@ -16,7 +48,7 @@
     "published": "2026-07-29T00:00:00.000Z"
   },
   {
-    "title": "Sizing Up the Sargassum Belt",
+    "title": "Sizing Up the Sargassum Belt",
     "title_es": "Evaluando el cinturón de sargazo",
     "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
     "date": "2026-07-29",
@@ -29,6 +61,62 @@
     "url": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
     "date": "2026-07-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+    "title_es": "¿Pueden los agentes de IA realizar investigaciones de IA de duración abierta? Evidencia temprana de dos estudios de caso",
+    "url": "http://arxiv.org/abs/2607.27191v1",
+    "date": "2026-07-29",
+    "source": "arXiv",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
+    "title_es": "Corrección del autor: una interfase de electrolito sólido dúctil para baterías de estado sólido",
+    "url": "https://www.nature.com/articles/s41586-026-10945-2",
+    "date": "2026-07-29",
+    "source": "Nature",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "JACC: CardioOncology: Study questions the value of intensive cardiac surveillance in cancer patients treated with anthracyclines",
+    "title_es": "JACC: CardioOncology: Study questions the value of intensive cardiac surveillance in cancer patients treated with anthracyclines",
+    "url": "https://www.cnic.es/es/node/243728",
+    "date": "2026-07-29",
+    "source": "CNIC",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu\" hreflang=\"es\">Diana Morant preside el Consejo Rector del IAC, donde destaca que el Gobierno de España aportará 3,5 M€ extraordinarios en 2026 para su actividad</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu\" hreflang=\"es\">Diana Morant preside el Consejo Rector del IAC, donde destaca que el Gobierno de España aportará 3,5 M€ extraordinarios en 2026 para su actividad</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/diana-morant-preside-el-consejo-rector-del-iac-donde-destaca-que-el-gobierno-de-espana-aportara-35-meu",
+    "date": "2026-07-29",
+    "source": "IAC",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Healthy pregnancies and newborns are possible after CAR T cell therapy",
+    "title_es": "Embarazos y recién nacidos sanos son posibles después de la terapia con células T con CAR",
+    "url": "https://www.sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
+    "date": "2026-07-29",
+    "source": "Science News",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "Experiment: Measure fake blood spatter",
+    "title_es": "Experimento: medir salpicaduras de sangre falsas",
+    "url": "https://www.snexplores.org/article/experiment-forensics-blood-spatter",
+    "date": "2026-07-29",
+    "source": "Science News Explores",
+    "published": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "title": "New microwave frying method could make french fries much healthier",
+    "title_es": "Un nuevo método para freír en microondas podría hacer que las patatas fritas sean mucho más saludables",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+    "date": "2026-07-29",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-29T00:00:00.000Z"
   },
   {
@@ -88,7 +176,7 @@
     "published": "2026-07-28T00:00:00.000Z"
   },
   {
-    "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
+    "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
     "title_es": "Los 'químicos eternos' podrían hacer que los delfines envejezcan más allá de su edad",
     "url": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
     "date": "2026-07-28",
@@ -30183,8 +30271,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Burnout among anesthesia personnel in Thailand: A national survey of workload, personality traits, and resilience",
-    "title_es": "Corrección: Burnout entre el personal de anestesia en Tailandia: una encuesta nacional sobre la carga de trabajo, los rasgos de personalidad y la resiliencia",
+    "title": "Neck circumference as an anthropometric marker of overweight among school-aged children in Bharatpur, Nepal: A community-based study",
+    "title_es": "La circunferencia del cuello como marcador antropométrico de sobrepeso entre niños en edad escolar en Bharatpur, Nepal: un estudio comunitario",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -65545,6 +65633,22 @@
     "title": "Psyche Receives Gravity Assist from Mars",
     "title_es": "Psyche Receives Gravity Assist from Mars",
     "url": "https://www.youtube.com/embed/6_ch5-daljg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Amplitude mode in two-dimensional coherent spectroscopy of weak-coupling antiferromagnets, by Jiyu Chen, Naoto Tsuji, Philipp Werner",
+    "title_es": "Amplitude mode in two-dimensional coherent spectroscopy of weak-coupling antiferromagnets, by Jiyu Chen, Naoto Tsuji, Philipp Werner",
+    "url": "https://scipost.org/scipostphys.21.1.026",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Red Sun through Wildfire Smoke",
+    "title_es": "Red Sun through Wildfire Smoke",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
