@@ -1,5 +1,53 @@
 [
   {
+    "title": "Why full-fledged quantum computers might always be five years away",
+    "title_es": "Why full-fledged quantum computers might always be five years away",
+    "url": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/",
+    "published": "2026-07-31T08:00:00.000Z",
+    "date": "2026-07-31",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Book Review: The Case for the AI-Powered Global Brain",
+    "title_es": "Book Review: The Case for the AI-Powered Global Brain",
+    "url": "https://undark.org/2026/07/31/book-review-the-god-test/",
+    "published": "2026-07-31T07:40:00.000Z",
+    "date": "2026-07-31",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Bridging openEHR and OMOP: Expanded Mappings and Systematic Analysis of Semantic and Structural Limitations in the OMOP CDM",
+    "title_es": "Bridging openEHR and OMOP: Expanded Mappings and Systematic Analysis of Semantic and Structural Limitations in the OMOP CDM",
+    "url": "https://arxiv.org/abs/2607.27208",
+    "published": "2026-07-31T04:00:00.000Z",
+    "date": "2026-07-31",
+    "source": "arXiv"
+  },
+  {
+    "title": "Spain safari park animals grazed calmly amid 'terror' of fire",
+    "title_es": "Los animales del parque safari de España pastan tranquilamente en medio del 'terror' del incendio",
+    "url": "https://phys.org/news/2026-07-spain-safari-animals-grazed-calmly.html",
+    "date": "2026-07-31",
+    "source": "Phys.org (Latest)",
+    "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+    "title_es": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+    "url": "https://www.nature.com/articles/d41586-026-02366-y",
+    "published": "2026-07-31T00:00:00.000Z",
+    "date": "2026-07-31",
+    "source": "Nature"
+  },
+  {
+    "title": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
+    "title_es": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
+    "url": "https://www.sci.news/othersciences/anthropology/ruidera-homo-14960.html",
+    "published": "2026-07-30T23:33:27.000Z",
+    "date": "2026-07-30",
+    "source": "Sci.News"
+  },
+  {
     "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
     "title_es": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
     "url": "https://arxiv.org/abs/2607.26059",
@@ -13,6 +61,62 @@
     "url": "https://phys.org/news/2026-07-possibilities-tool-climate.html",
     "date": "2026-07-30",
     "source": "Phys.org (Latest)",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Learning to Trace Seiberg Dualities",
+    "title_es": "Aprendiendo a rastrear las dualidades de Seiberg",
+    "url": "http://arxiv.org/abs/2607.28628v1",
+    "date": "2026-07-30",
+    "source": "arXiv",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Crick: A Mind in Motion",
+    "title_es": "Crick: una mente en movimiento",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0526",
+    "date": "2026-07-30",
+    "source": "Science.org",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Ben Lehner: \"Una buena gobernanza es tan importante como una buena ciencia\"",
+    "title_es": "Ben Lehner: \"Una buena gobernanza es tan importante como una buena ciencia\"",
+    "url": "https://www.cnic.es/es/noticias/ben-lehner-buena-gobernanza-tan-importante-como-buena-ciencia",
+    "date": "2026-07-30",
+    "source": "CNIC",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-el-grupo-predictive-science-inc-de-california-predicen-la-corona-solar-que-se-vera-durante-el\" hreflang=\"es\">El IAC y el grupo Predictive Science Inc de California, predicen la corona solar que se verá durante el eclipse del 12 de agosto usando el Superordenador de La Palma</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-el-grupo-predictive-science-inc-de-california-predicen-la-corona-solar-que-se-vera-durante-el\" hreflang=\"es\">El IAC y el grupo Predictive Science Inc de California, predicen la corona solar que se verá durante el eclipse del 12 de agosto usando el Superordenador de La Palma</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-el-grupo-predictive-science-inc-de-california-predicen-la-corona-solar-que-se-vera-durante-el",
+    "date": "2026-07-30",
+    "source": "IAC",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Mammals moving between the Americas stopped over in Mexico",
+    "title_es": "Mamíferos que se desplazan entre América hacen escala en México",
+    "url": "https://www.sciencenews.org/article/mammals-moving-americas-stopped-mexico",
+    "date": "2026-07-30",
+    "source": "Science News",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "U.S. sunscreen users are finally getting a new option",
+    "title_es": "Los usuarios de protector solar de EE. UU. finalmente tienen una nueva opción",
+    "url": "https://www.snexplores.org/article/new-sunscreen-option-bemotrizinol",
+    "date": "2026-07-30",
+    "source": "Science News Explores",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+    "title_es": "Los científicos descubrieron que la evolución se repite en las Islas Galápagos",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+    "date": "2026-07-30",
+    "source": "ScienceDaily (Top)",
     "published": "2026-07-30T00:00:00.000Z"
   },
   {
@@ -30271,8 +30375,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Neck circumference as an anthropometric marker of overweight among school-aged children in Bharatpur, Nepal: A community-based study",
-    "title_es": "La circunferencia del cuello como marcador antropométrico de sobrepeso entre niños en edad escolar en Bharatpur, Nepal: un estudio comunitario",
+    "title": "Leveraging expression quantitative trait loci information in single-cell resolution to identify cell-specific genes for gestational diabetes",
+    "title_es": "Aprovechamiento de la información de loci de rasgos cuantitativos de expresión en resolución unicelular para identificar genes específicos de células para la diabetes gestacional",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -65649,6 +65753,22 @@
     "title": "Red Sun through Wildfire Smoke",
     "title_es": "Red Sun through Wildfire Smoke",
     "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A contour for the entanglement negativity of bosonic Gaussian states, by Gioele Zambotti, Erik Tonni",
+    "title_es": "A contour for the entanglement negativity of bosonic Gaussian states, by Gioele Zambotti, Erik Tonni",
+    "url": "https://scipost.org/scipostphys.21.1.027",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "NGC 4372 and the Dark Doodad",
+    "title_es": "NGC 4372 and the Dark Doodad",
+    "url": "https://apod.nasa.gov/apod/image/2607/dark-doodad_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
