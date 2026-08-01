@@ -1,5 +1,21 @@
 [
   {
+    "title": "Strengthening El Nino 'adding fuel to a planet already on fire': UN chief",
+    "title_es": "El fortalecimiento de El Niño \"añade combustible a un planeta que ya está en llamas\": jefe de la ONU",
+    "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
+    "date": "2026-08-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "title": "How Europe can make its landscapes more fire-resilient",
+    "title_es": "How Europe can make its landscapes more fire-resilient",
+    "url": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/",
+    "published": "2026-07-31T16:19:40.000Z",
+    "date": "2026-07-31",
+    "source": "New Scientist"
+  },
+  {
     "title": "Why full-fledged quantum computers might always be five years away",
     "title_es": "Why full-fledged quantum computers might always be five years away",
     "url": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/",
@@ -38,6 +54,22 @@
     "published": "2026-07-31T00:00:00.000Z",
     "date": "2026-07-31",
     "source": "Nature"
+  },
+  {
+    "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+    "title_es": "Corrección del autor: Membranas conductoras de aniones a base de cucurbituril con nanoporos supramoleculares",
+    "url": "https://www.nature.com/articles/s41586-026-10921-w",
+    "date": "2026-07-31",
+    "source": "Nature",
+    "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "title": "To detect CTE while alive, a test for another brain disease may help",
+    "title_es": "Para detectar CTE en vida, una prueba para detectar otra enfermedad cerebral puede ayudar",
+    "url": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
+    "date": "2026-07-31",
+    "source": "Science News",
+    "published": "2026-07-31T00:00:00.000Z"
   },
   {
     "title": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
@@ -30375,8 +30407,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Leveraging expression quantitative trait loci information in single-cell resolution to identify cell-specific genes for gestational diabetes",
-    "title_es": "Aprovechamiento de la información de loci de rasgos cuantitativos de expresión en resolución unicelular para identificar genes específicos de células para la diabetes gestacional",
+    "title": "Correction: Exploring motor variability in adults with severe athetoid or ataxic cerebral palsy: Impact on error-based and reward-based learning",
+    "title_es": "Corrección: Exploración de la variabilidad motora en adultos con parálisis cerebral atetoide o atáxica grave: impacto en el aprendizaje basado en errores y recompensas",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -65769,6 +65801,22 @@
     "title": "NGC 4372 and the Dark Doodad",
     "title_es": "NGC 4372 and the Dark Doodad",
     "url": "https://apod.nasa.gov/apod/image/2607/dark-doodad_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Bypassing eigenstate thermalization with experimentally accessible quantum dynamics, by Amit Vikram",
+    "title_es": "Bypassing eigenstate thermalization with experimentally accessible quantum dynamics, by Amit Vikram",
+    "url": "https://scipost.org/scipostphys.21.1.029",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Buck Moon and Belt of Venus",
+    "title_es": "Buck Moon and Belt of Venus",
+    "url": "https://apod.nasa.gov/apod/image/2608/fullmoon28-7-2026brankonadj1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
