@@ -1,13 +1,5 @@
 [
   {
-    "title": "Bridging openEHR and OMOP: Expanded Mappings and Systematic Analysis of Semantic and Structural Limitations in the OMOP CDM",
-    "title_es": "Bridging openEHR and OMOP: Expanded Mappings and Systematic Analysis of Semantic and Structural Limitations in the OMOP CDM",
-    "url": "https://arxiv.org/abs/2607.27208",
-    "published": "2026-08-01T04:00:00.000Z",
-    "date": "2026-08-01",
-    "source": "arXiv"
-  },
-  {
     "title": "Crick: A Mind in Motion",
     "title_es": "Crick: A Mind in Motion",
     "url": "https://www.science.org/doi/abs/10.1126/science.aek0526",
@@ -40,6 +32,14 @@
     "source": "CNIO"
   },
   {
+    "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+    "title_es": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+    "published": "2026-08-01T04:05:00.000Z",
+    "date": "2026-08-01",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "To detect CTE while alive, a test for another brain disease may help",
     "title_es": "To detect CTE while alive, a test for another brain disease may help",
     "url": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
@@ -56,27 +56,35 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-    "title_es": "Scientists found evolution repeating itself in the Galápagos Islands",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-    "published": "2026-07-30T12:13:37.000Z",
-    "date": "2026-07-30",
+    "title": "Superheated magma may power towering lava fountains",
+    "title_es": "Superheated magma may power towering lava fountains",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+    "published": "2026-08-01T06:38:28.000Z",
+    "date": "2026-08-01",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Strengthening El Nino 'adding fuel to a planet already on fire': UN chief",
-    "title_es": "Strengthening El Nino 'adding fuel to a planet already on fire': UN chief",
-    "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
-    "published": "2026-08-01T06:48:04.000Z",
-    "date": "2026-08-01",
+    "title": "Fluorescent probes offer sharper view of plant tissues",
+    "title_es": "Fluorescent probes offer sharper view of plant tissues",
+    "url": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
+    "published": "2026-08-02T00:30:01.000Z",
+    "date": "2026-08-02",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "How Europe can make its landscapes more fire-resilient",
-    "title_es": "How Europe can make its landscapes more fire-resilient",
-    "url": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/",
-    "published": "2026-07-31T16:19:40.000Z",
+    "title": "Correction: Exploring motor variability in adults with severe athetoid or ataxic cerebral palsy: Impact on error-based and reward-based learning",
+    "title_es": "Correction: Exploring motor variability in adults with severe athetoid or ataxic cerebral palsy: Impact on error-based and reward-based learning",
+    "url": "https://journals.plos.org/plosone/article",
+    "published": "2026-07-31T14:00:00.000Z",
     "date": "2026-07-31",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "The best new science-fiction novels of August 2026",
+    "title_es": "The best new science-fiction novels of August 2026",
+    "url": "https://www.newscientist.com/article/2582625-the-best-new-science-fiction-novels-of-august-2026/",
+    "published": "2026-08-01T09:00:00.000Z",
+    "date": "2026-08-01",
     "source": "New Scientist"
   },
   {
@@ -112,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Buck Moon and Belt of Venus",
-    "title_es": "Buck Moon and Belt of Venus",
-    "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
+    "title": "A Fire Rainbow over West Virginia",
+    "title_es": "A Fire Rainbow over West Virginia",
+    "url": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=2.8277&long=13.8339",
+    "url": "https://www.latlong.net/c/?lat=-16.0612&long=-161.9710",
     "date": "",
     "published": "",
     "source": "ISS Position"
