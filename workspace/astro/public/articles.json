@@ -1,11 +1,67 @@
 [
   {
+    "title": "Are beef-liver or standard iron supplements better for boosting iron?",
+    "title_es": "Are beef-liver or standard iron supplements better for boosting iron?",
+    "url": "https://www.newscientist.com/article/2582573-are-beef-liver-or-standard-iron-supplements-better-for-boosting-iron/",
+    "published": "2026-08-03T08:00:00.000Z",
+    "date": "2026-08-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "title_es": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "published": "2026-08-03T04:00:00.000Z",
+    "date": "2026-08-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+    "title_es": "La anemia de células falciformes está relacionada con células madre envejecidas prematuramente en ratones",
+    "url": "https://www.nature.com/articles/d41586-026-02339-1",
+    "date": "2026-08-03",
+    "source": "Nature",
+    "published": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "title": "South Korea records its highest-ever temperature of 42.5 C",
+    "title_es": "Corea del Sur registra la temperatura más alta jamás registrada con 42,5 C",
+    "url": "https://phys.org/news/2026-08-south-korea-highest-temperature.html",
+    "date": "2026-08-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA",
+    "title_es": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA",
+    "url": "https://www.sci.news/genetics/human-dna-two-unknown-archaic-hominins-14961.html",
+    "published": "2026-08-02T08:11:31.000Z",
+    "date": "2026-08-02",
+    "source": "Sci.News"
+  },
+  {
     "title": "Fluorescent probes offer sharper view of plant tissues",
     "title_es": "Las sondas fluorescentes ofrecen una visión más nítida de los tejidos vegetales",
     "url": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
     "date": "2026-08-02",
     "source": "Phys.org (Latest)",
     "published": "2026-08-02T00:00:00.000Z"
+  },
+  {
+    "title": "Dark matter’s secret force does the opposite of what scientists expected",
+    "title_es": "La fuerza secreta de la materia oscura hace lo contrario de lo que esperaban los científicos",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+    "date": "2026-08-02",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-02T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists detect a sharp acceleration in global warming",
+    "title_es": "Scientists detect a sharp acceleration in global warming",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+    "published": "2026-08-01T13:32:39.000Z",
+    "date": "2026-08-01",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "The best new science-fiction novels of August 2026",
@@ -104,6 +160,14 @@
     "published": "2026-07-31T00:00:00.000Z"
   },
   {
+    "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+    "title_es": "ExtractBench: un punto de referencia para la extracción de documentos empresariales guiada por esquemas",
+    "url": "http://arxiv.org/abs/2607.29677v1",
+    "date": "2026-07-31",
+    "source": "arXiv",
+    "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
     "title": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
     "title_es": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
     "url": "https://www.sci.news/othersciences/anthropology/ruidera-homo-14960.html",
@@ -181,6 +245,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
     "date": "2026-07-30",
     "source": "ScienceDaily (Top)",
+    "published": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC en la Noche Europea de los Investigadores 2026",
+    "title_es": "CNIC en la Noche Europea de los Investigadores 2026",
+    "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2026",
+    "date": "2026-07-30",
+    "source": "CNIC",
     "published": "2026-07-30T00:00:00.000Z"
   },
   {
@@ -65857,6 +65929,14 @@
     "title": "A Fire Rainbow over West Virginia",
     "title_es": "A Fire Rainbow over West Virginia",
     "url": "https://apod.nasa.gov/apod/image/2608/firerainbow_harbig_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
+    "title_es": "Vaporizing Meteor Photobombs the Lacerta Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2608/meteorgecko_burnett_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

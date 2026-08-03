@@ -1,10 +1,31 @@
 [
   {
+    "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+    "title_es": "La anemia de células falciformes está relacionada con células madre envejecidas prematuramente en ratones",
+    "url": "https://www.nature.com/articles/d41586-026-02339-1",
+    "date": "2026-08-03",
+    "source": "Nature"
+  },
+  {
+    "title": "South Korea records its highest-ever temperature of 42.5 C",
+    "title_es": "Corea del Sur registra la temperatura más alta jamás registrada con 42,5 C",
+    "url": "https://phys.org/news/2026-08-south-korea-highest-temperature.html",
+    "date": "2026-08-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fluorescent probes offer sharper view of plant tissues",
     "title_es": "Las sondas fluorescentes ofrecen una visión más nítida de los tejidos vegetales",
     "url": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
     "date": "2026-08-02",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Dark matter’s secret force does the opposite of what scientists expected",
+    "title_es": "La fuerza secreta de la materia oscura hace lo contrario de lo que esperaban los científicos",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+    "date": "2026-08-02",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Strengthening El Nino 'adding fuel to a planet already on fire': UN chief",
@@ -54,6 +75,13 @@
     "url": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
     "date": "2026-07-31",
     "source": "Science News"
+  },
+  {
+    "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+    "title_es": "ExtractBench: un punto de referencia para la extracción de documentos empresariales guiada por esquemas",
+    "url": "http://arxiv.org/abs/2607.29677v1",
+    "date": "2026-07-31",
+    "source": "arXiv"
   },
   {
     "title": "From single projection to many possibilities: A new tool for climate risk assessment",
@@ -110,6 +138,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
     "date": "2026-07-30",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "CNIC en la Noche Europea de los Investigadores 2026",
+    "title_es": "CNIC en la Noche Europea de los Investigadores 2026",
+    "url": "https://www.cnic.es/es/noticias/cnic-noche-europea-investigadores-2026",
+    "date": "2026-07-30",
+    "source": "CNIC"
   },
   {
     "title": "JACC: CardioOncology: Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes  con cáncer tratados con antraciclinas",
