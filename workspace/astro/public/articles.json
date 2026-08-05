@@ -1,5 +1,29 @@
 [
   {
+    "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
+    "title_es": "'Como el fin del mundo': Los cazadores de eclipses acuden en masa a España",
+    "url": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html",
+    "date": "2026-08-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "Fossil Find in China Reveals Dinosaur Family Never Before Seen in East Asia",
+    "title_es": "Fossil Find in China Reveals Dinosaur Family Never Before Seen in East Asia",
+    "url": "https://www.sci.news/paleontology/yantaloong-lini-14966.html",
+    "published": "2026-08-04T23:03:08.000Z",
+    "date": "2026-08-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Should you stop using preventive flea treatments on your pets?",
+    "title_es": "Should you stop using preventive flea treatments on your pets?",
+    "url": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/",
+    "published": "2026-08-04T23:01:00.000Z",
+    "date": "2026-08-04",
+    "source": "New Scientist"
+  },
+  {
     "title": "Structured Proxy Features for Multimodal NSCLC Survival Prediction from Pretreatment CT",
     "title_es": "Structured Proxy Features for Multimodal NSCLC Survival Prediction from Pretreatment CT",
     "url": "https://arxiv.org/abs/2608.00446",
@@ -29,6 +53,54 @@
     "url": "https://phys.org/news/2026-08-northwest-wildfires-spokane-neighborhoods.html",
     "date": "2026-08-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+    "title_es": "TurnSight: autodestilación retrospectiva a nivel de giro para razonamiento integrado en herramientas",
+    "url": "http://arxiv.org/abs/2608.04007v1",
+    "date": "2026-08-04",
+    "source": "arXiv",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+    "title_es": "Corrección del autor: Casdatifan muestra una respuesta duradera relacionada con la biología de HIF-2α en el cáncer de riñón",
+    "url": "https://www.nature.com/articles/s41586-026-10958-x",
+    "date": "2026-08-04",
+    "source": "Nature",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC en la Semana de la Ciencia y la Innovación de Madrid 2026",
+    "title_es": "El CNIC en la Semana de la Ciencia y la Innovación de Madrid 2026",
+    "url": "https://www.cnic.es/es/noticias/cnic-semana-ciencia-innovacion-madrid-2026",
+    "date": "2026-08-04",
+    "source": "CNIC",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "Is AI making us dumber? Maybe not. But our skills are at risk",
+    "title_es": "¿La IA nos está volviendo más tontos? Quizás no. Pero nuestras habilidades están en riesgo",
+    "url": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
+    "date": "2026-08-04",
+    "source": "Science News",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "Songs prep unhatched finches’ brains for a hot world",
+    "title_es": "Las canciones preparan el cerebro de los pinzones aún no eclosionados para un mundo cálido",
+    "url": "https://www.snexplores.org/article/songs-change-finch-brains-heat",
+    "date": "2026-08-04",
+    "source": "Science News Explores",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+    "title_es": "Masticar chicle contra el cáncer reduce los niveles de VPH hasta en un 93%",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "date": "2026-08-04",
+    "source": "ScienceDaily (Top)",
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
@@ -30591,8 +30663,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Comparative dynamics of coffee–tea cultural spaces in two Chinese cities: Evidence from Qingdao and Jinan, 2018–2024",
-    "title_es": "Dinámica comparada de los espacios culturales de café y té en dos ciudades chinas: evidencia de Qingdao y Jinan, 2018-2024",
+    "title": "In-class AI usage and university students’ attitudes: The mediating role of perceived learning engagement benefits",
+    "title_es": "Uso de la IA en clase y actitudes de los estudiantes universitarios: el papel mediador de los beneficios percibidos del compromiso con el aprendizaje",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66033,6 +66105,14 @@
     "title": "Curious Cometary Knots in the Helix Nebula",
     "title_es": "Curious Cometary Knots in the Helix Nebula",
     "url": "https://apod.nasa.gov/apod/image/2608/helixknots_jwst_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Spokes on Saturn's B Ring",
+    "title_es": "Spokes on Saturn's B Ring",
+    "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
     "date": "",
     "published": "",
     "source": "NASA APOD"
