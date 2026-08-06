@@ -1,10 +1,114 @@
 [
   {
+    "title": "Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol",
+    "title_es": "Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol",
+    "url": "https://arxiv.org/abs/2608.04011",
+    "published": "2026-08-06T04:00:00.000Z",
+    "date": "2026-08-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "Pumas are drivers’ guardian angels",
+    "title_es": "Los pumas son los ángeles guardianes de los conductores",
+    "url": "https://www.nature.com/articles/d41586-026-02429-0",
+    "date": "2026-08-06",
+    "source": "Nature",
+    "published": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+    "title_es": "APOD: 6 de agosto de 2026: la nueva imagen más nítida del Sol revela inestabilidad",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+    "date": "2026-08-06",
+    "source": "NASA (Top News)",
+    "published": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "title": "567-million-year-old fossils rewrite the dawn of animal life",
+    "title_es": "Fósiles de 567 millones de años reescriben los albores de la vida animal",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+    "date": "2026-08-06",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
+    "title_es": "El cambio climático contribuyó a los grandes incendios en Canadá, según un estudio, mientras Trump culpa a la mala gestión",
+    "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+    "date": "2026-08-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "title": "La Brea Tar Pits Yield New Species of Ice Age Toad",
+    "title_es": "La Brea Tar Pits Yield New Species of Ice Age Toad",
+    "url": "https://www.sci.news/paleontology/spea-labreae-14971.html",
+    "published": "2026-08-05T22:23:38.000Z",
+    "date": "2026-08-05",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Three factors in midlife can delay the onset of dementia by 13 years",
+    "title_es": "Three factors in midlife can delay the onset of dementia by 13 years",
+    "url": "https://www.newscientist.com/article/2583480-three-factors-in-midlife-can-delay-the-onset-of-dementia-by-13-years/",
+    "published": "2026-08-05T20:00:00.000Z",
+    "date": "2026-08-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A colossal magma system has been hiding beneath Tuscany",
+    "title_es": "A colossal magma system has been hiding beneath Tuscany",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+    "published": "2026-08-05T09:19:43.000Z",
+    "date": "2026-08-05",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
     "title_es": "'Como el fin del mundo': Los cazadores de eclipses acuden en masa a España",
     "url": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html",
     "date": "2026-08-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+    "title_es": "Argus: un tiempo de ejecución agente de propósito general para el razonamiento a largo plazo",
+    "url": "http://arxiv.org/abs/2608.05144v1",
+    "date": "2026-08-05",
+    "source": "arXiv",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "The EMBO Journal: Identifican una proteína esencial para prevenir el daño hepático y el desarrollo de tumores durante el envejecimiento",
+    "title_es": "The EMBO Journal: Identifican una proteína esencial para prevenir el daño hepático y el desarrollo de tumores durante el envejecimiento",
+    "url": "https://www.cnic.es/es/noticias/embo-journal-identifican-proteina-esencial-para-prevenir-dano-hepatico-desarrollo-tumores",
+    "date": "2026-08-05",
+    "source": "CNIC",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/dali-supera-el-preliminary-design-review-y-avanza-en-la-busqueda-de-materia-oscura\" hreflang=\"es\">DALI supera el Preliminary Design Review y avanza en la búsqueda de materia oscura</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/dali-supera-el-preliminary-design-review-y-avanza-en-la-busqueda-de-materia-oscura\" hreflang=\"es\">DALI supera el Preliminary Design Review y avanza en la búsqueda de materia oscura</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/dali-supera-el-preliminary-design-review-y-avanza-en-la-busqueda-de-materia-oscura",
+    "date": "2026-08-05",
+    "source": "IAC",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "These tiny swirls on the sun could trigger solar flares",
+    "title_es": "Estos pequeños remolinos en el sol podrían provocar erupciones solares",
+    "url": "https://www.sciencenews.org/article/tiny-swirls-sun-trigger-solar-flares",
+    "date": "2026-08-05",
+    "source": "Science News",
+    "published": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists made clocks from an atomic nucleus",
+    "title_es": "Los científicos construyeron relojes a partir de un núcleo atómico.",
+    "url": "https://www.snexplores.org/article/first-atomic-nuclear-clock",
+    "date": "2026-08-05",
+    "source": "Science News Explores",
     "published": "2026-08-05T00:00:00.000Z"
   },
   {
@@ -30663,8 +30767,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "In-class AI usage and university students’ attitudes: The mediating role of perceived learning engagement benefits",
-    "title_es": "Uso de la IA en clase y actitudes de los estudiantes universitarios: el papel mediador de los beneficios percibidos del compromiso con el aprendizaje",
+    "title": "Day-to-day experiences and challenges of long-term warfarin use among patients with prosthetic heart valves at a National Cardiac Institute in Tanzania: A qualitative study",
+    "title_es": "Experiencias cotidianas y desafíos del uso prolongado de warfarina entre pacientes con prótesis valvulares cardíacas en un Instituto Cardíaco Nacional de Tanzania: un estudio cualitativo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66113,6 +66217,22 @@
     "title": "Spokes on Saturn's B Ring",
     "title_es": "Spokes on Saturn's B Ring",
     "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Nonperturbative effects in triple-differential dijet and Z+jet production at the LHC, by Stefan Gieseke, Maximilian Horzela, Manjit Kaur, Dari Leonardi, Klaus Rabbertz, Aayushi Singla, Cedric Verstege",
+    "title_es": "Nonperturbative effects in triple-differential dijet and Z+jet production at the LHC, by Stefan Gieseke, Maximilian Horzela, Manjit Kaur, Dari Leonardi, Klaus Rabbertz, Aayushi Singla, Cedric Verstege",
+    "url": "https://scipost.org/scipostphys.21.2.033",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "New Sharpest Image of the Sun Uncovers Instability",
+    "title_es": "New Sharpest Image of the Sun Uncovers Instability",
+    "url": "https://apod.nasa.gov/apod/image/2608/sunflowers_nso_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
