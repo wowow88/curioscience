@@ -1,5 +1,12 @@
 [
   {
+    "title": "Camels find unlikely home in outback Australia",
+    "title_es": "Los camellos encuentran un hogar improbable en el interior de Australia",
+    "url": "https://phys.org/news/2026-08-camels-home-outback-australia.html",
+    "date": "2026-08-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Pumas are drivers’ guardian angels",
     "title_es": "Los pumas son los ángeles guardianes de los conductores",
     "url": "https://www.nature.com/articles/d41586-026-02429-0",
@@ -28,18 +35,74 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Post activation performance enhancement effects on countermovement jumps in men and women",
+    "title_es": "Efectos de mejora del rendimiento posterior a la activación en saltos con contramovimiento en hombres y mujeres",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-06",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Learning When to Trust via Selective Context Preference Optimization",
+    "title_es": "Aprender cuándo confiar mediante la optimización selectiva de las preferencias de contexto",
+    "url": "http://arxiv.org/abs/2608.06377v1",
+    "date": "2026-08-06",
+    "source": "arXiv"
+  },
+  {
+    "title": "A harrowing tour of Earth’s sacrificial lands",
+    "title_es": "Un recorrido desgarrador por las tierras de sacrificio de la Tierra",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei8513",
+    "date": "2026-08-06",
+    "source": "Science.org"
+  },
+  {
+    "title": "Operational Tropical Cyclone Forecasting with AI",
+    "title_es": "Pronóstico operativo de ciclones tropicales con IA",
+    "url": "https://www.nature.com/articles/s41586-026-10953-2",
+    "date": "2026-08-06",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-despliega-sus-equipos-en-palencia-y-en-distintos-puntos-de-la-peninsula-para-el-historico\" hreflang=\"es\">El IAC despliega sus equipos en Palencia y en distintos puntos de la Península para el histórico eclipse solar del 12 de agosto</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-despliega-sus-equipos-en-palencia-y-en-distintos-puntos-de-la-peninsula-para-el-historico\" hreflang=\"es\">El IAC despliega sus equipos en Palencia y en distintos puntos de la Península para el histórico eclipse solar del 12 de agosto</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-despliega-sus-equipos-en-palencia-y-en-distintos-puntos-de-la-peninsula-para-el-historico",
+    "date": "2026-08-06",
+    "source": "IAC"
+  },
+  {
+    "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+    "title_es": "Educadores y adolescentes utilizan datos TEMPO para ayudar a investigar la calidad del aire local",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+    "date": "2026-08-06",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Here’s what the first mRNA flu vaccine could mean for flu season",
+    "title_es": "Esto es lo que podría significar la primera vacuna de ARNm contra la gripe para la temporada de gripe",
+    "url": "https://www.sciencenews.org/article/first-mrna-flu-vaccine-fall-season",
+    "date": "2026-08-06",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What is bioprinting?",
+    "title_es": "Explicador: ¿Qué es la bioimpresión?",
+    "url": "https://www.snexplores.org/article/explainer-what-is-bioprinting",
+    "date": "2026-08-06",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+    "title_es": "Un fármaco ya utilizado para la osteoporosis bloqueó el daño de la columna en un nuevo estudio",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+    "date": "2026-08-06",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
     "title_es": "'Como el fin del mundo': Los cazadores de eclipses acuden en masa a España",
     "url": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html",
     "date": "2026-08-05",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Day-to-day experiences and challenges of long-term warfarin use among patients with prosthetic heart valves at a National Cardiac Institute in Tanzania: A qualitative study",
-    "title_es": "Experiencias cotidianas y desafíos del uso prolongado de warfarina entre pacientes con prótesis valvulares cardíacas en un Instituto Cardíaco Nacional de Tanzania: un estudio cualitativo",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-05",
-    "source": "PLOS ONE"
   },
   {
     "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
