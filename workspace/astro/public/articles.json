@@ -1,5 +1,37 @@
 [
   {
+    "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+    "title_es": "APOD: 8 de agosto de 2026: un momento más complicado para Tempel 2",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+    "date": "2026-08-08",
+    "source": "NASA (Top News)",
+    "published": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "title": "New Troodontid Dinosaur Genus Identified from Fossil Bone Found Decades Ago in New Mexico",
+    "title_es": "New Troodontid Dinosaur Genus Identified from Fossil Bone Found Decades Ago in New Mexico",
+    "url": "https://www.sci.news/paleontology/dinevenator-robustus-14976.html",
+    "published": "2026-08-07T20:58:57.000Z",
+    "date": "2026-08-07",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Postbiotic supplement boosts body’s own GLP-1 and weight loss",
+    "title_es": "Postbiotic supplement boosts body’s own GLP-1 and weight loss",
+    "url": "https://www.newscientist.com/article/2583831-postbiotic-supplement-boosts-bodys-own-glp-1-and-weight-loss/",
+    "published": "2026-08-07T13:05:45.000Z",
+    "date": "2026-08-07",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Book Review: How Wildlife Is Returning to the East",
+    "title_es": "Book Review: How Wildlife Is Returning to the East",
+    "url": "https://undark.org/2026/08/07/book-review-beasts-of-the-east/",
+    "published": "2026-08-07T07:06:00.000Z",
+    "date": "2026-08-07",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support",
     "title_es": "Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support",
     "url": "https://arxiv.org/abs/2608.05151",
@@ -11,6 +43,46 @@
     "title": "Camels find unlikely home in outback Australia",
     "title_es": "Los camellos encuentran un hogar improbable en el interior de Australia",
     "url": "https://phys.org/news/2026-08-camels-home-outback-australia.html",
+    "date": "2026-08-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "title_es": "Charla informativa: ¿Es la reparación del ADN el secreto para una vida larga? Las ballenas y las ratas topo ofrecen pistas tentadoras",
+    "url": "https://www.nature.com/articles/d41586-026-02488-3",
+    "date": "2026-08-07",
+    "source": "Nature",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia\" hreflang=\"es\"> El Instituto de Astrofísica de Canarias retransmitirá en directo el eclipse solar total desde Palencia a través de su canal oficial</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia\" hreflang=\"es\"> El Instituto de Astrofísica de Canarias retransmitirá en directo el eclipse solar total desde Palencia a través de su canal oficial</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia",
+    "date": "2026-08-07",
+    "source": "IAC",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient Greek rings may have been forged with iron from meteorites",
+    "title_es": "Los anillos de la antigua Grecia pueden haber sido forjados con hierro de meteoritos",
+    "url": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
+    "date": "2026-08-07",
+    "source": "Science News",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+    "title_es": "Los científicos rastrearon a 12 personas en la Antártida durante 10 meses; lo que sucedió podría dar forma a futuras misiones a Marte",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+    "date": "2026-08-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "title": "One million years without sex fails to erase stick insects' unused biological system",
+    "title_es": "Un millón de años sin sexo no logra borrar el sistema biológico no utilizado de los insectos palo",
+    "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
     "date": "2026-08-07",
     "source": "Phys.org (Latest)",
     "published": "2026-08-07T00:00:00.000Z"
@@ -30863,8 +30935,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Post activation performance enhancement effects on countermovement jumps in men and women",
-    "title_es": "Efectos de mejora del rendimiento posterior a la activación en saltos con contramovimiento en hombres y mujeres",
+    "title": "A Transgenic mouse tolerant to syngeneic cancer cells expressing truncated human epidermal growth factor receptor",
+    "title_es": "Un ratón transgénico tolerante a células cancerosas singénicas que expresan un receptor truncado del factor de crecimiento epidérmico humano",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66337,6 +66409,22 @@
     "title": "Rubin's COSMOS field",
     "title_es": "Rubin's COSMOS field",
     "url": "https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Hidden order in dielectrics: string condensation, solitons, and the charge-vortex duality, by Sergei Khlebnikov",
+    "title_es": "Hidden order in dielectrics: string condensation, solitons, and the charge-vortex duality, by Sergei Khlebnikov",
+    "url": "https://scipost.org/scipostphys.21.2.034",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "A Messier Moment for Tempel 2",
+    "title_es": "A Messier Moment for Tempel 2",
+    "url": "https://apod.nasa.gov/apod/image/2608/10p_tempel2_globular_m30_20260729_debartlett600c.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

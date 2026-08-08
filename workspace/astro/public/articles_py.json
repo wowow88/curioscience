@@ -1,8 +1,57 @@
 [
   {
+    "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+    "title_es": "APOD: 8 de agosto de 2026: un momento más complicado para Tempel 2",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+    "date": "2026-08-08",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "Camels find unlikely home in outback Australia",
     "title_es": "Los camellos encuentran un hogar improbable en el interior de Australia",
     "url": "https://phys.org/news/2026-08-camels-home-outback-australia.html",
+    "date": "2026-08-07",
+    "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "A Transgenic mouse tolerant to syngeneic cancer cells expressing truncated human epidermal growth factor receptor",
+    "title_es": "Un ratón transgénico tolerante a células cancerosas singénicas que expresan un receptor truncado del factor de crecimiento epidérmico humano",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-07",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "title_es": "Charla informativa: ¿Es la reparación del ADN el secreto para una vida larga? Las ballenas y las ratas topo ofrecen pistas tentadoras",
+    "url": "https://www.nature.com/articles/d41586-026-02488-3",
+    "date": "2026-08-07",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia\" hreflang=\"es\"> El Instituto de Astrofísica de Canarias retransmitirá en directo el eclipse solar total desde Palencia a través de su canal oficial</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia\" hreflang=\"es\"> El Instituto de Astrofísica de Canarias retransmitirá en directo el eclipse solar total desde Palencia a través de su canal oficial</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-retransmitira-en-directo-el-eclipse-solar-total-desde-palencia",
+    "date": "2026-08-07",
+    "source": "IAC"
+  },
+  {
+    "title": "Ancient Greek rings may have been forged with iron from meteorites",
+    "title_es": "Los anillos de la antigua Grecia pueden haber sido forjados con hierro de meteoritos",
+    "url": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
+    "date": "2026-08-07",
+    "source": "Science News"
+  },
+  {
+    "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+    "title_es": "Los científicos rastrearon a 12 personas en la Antártida durante 10 meses; lo que sucedió podría dar forma a futuras misiones a Marte",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+    "date": "2026-08-07",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "One million years without sex fails to erase stick insects' unused biological system",
+    "title_es": "Un millón de años sin sexo no logra borrar el sistema biológico no utilizado de los insectos palo",
+    "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
     "date": "2026-08-07",
     "source": "Phys.org (Latest)"
   },
@@ -33,13 +82,6 @@
     "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
     "date": "2026-08-06",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Post activation performance enhancement effects on countermovement jumps in men and women",
-    "title_es": "Efectos de mejora del rendimiento posterior a la activación en saltos con contramovimiento en hombres y mujeres",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-06",
-    "source": "PLOS ONE"
   },
   {
     "title": "Learning When to Trust via Selective Context Preference Optimization",
