@@ -32,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-    "title_es": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
-    "published": "2026-08-08T04:05:00.000Z",
-    "date": "2026-08-08",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "Ancient Greek rings may have been forged with iron from meteorites",
     "title_es": "Ancient Greek rings may have been forged with iron from meteorites",
     "url": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
@@ -56,19 +48,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-    "title_es": "A drug already used for osteoporosis blocked spinal damage in a new study",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-    "published": "2026-08-06T09:50:21.000Z",
-    "date": "2026-08-06",
+    "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+    "title_es": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+    "published": "2026-08-08T14:58:54.000Z",
+    "date": "2026-08-08",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "One million years without sex fails to erase stick insects' unused biological system",
-    "title_es": "One million years without sex fails to erase stick insects' unused biological system",
-    "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
-    "published": "2026-08-07T23:00:02.000Z",
-    "date": "2026-08-07",
+    "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+    "title_es": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+    "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
+    "published": "2026-08-08T19:40:03.000Z",
+    "date": "2026-08-08",
     "source": "Phys.org (Latest)"
   },
   {
@@ -120,9 +112,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "A Messier Moment for Tempel 2",
-    "title_es": "A Messier Moment for Tempel 2",
-    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "title": "Contemplating the Sun",
+    "title_es": "Contemplating the Sun",
+    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-8.4579&long=-177.9228",
+    "url": "https://www.latlong.net/c/?lat=16.6798&long=2.7139",
     "date": "",
     "published": "",
     "source": "ISS Position"
