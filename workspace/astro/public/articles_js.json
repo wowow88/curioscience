@@ -1,5 +1,13 @@
 [
   {
+    "title": "Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems",
+    "title_es": "Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems",
+    "url": "https://arxiv.org/abs/2608.06378",
+    "published": "2026-08-10T04:00:00.000Z",
+    "date": "2026-08-10",
+    "source": "arXiv"
+  },
+  {
     "title": "A harrowing tour of Earth’s sacrificial lands",
     "title_es": "A harrowing tour of Earth’s sacrificial lands",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei8513",
@@ -24,12 +32,12 @@
     "source": "CNIC"
   },
   {
-    "title": "Arranca el primer estudio español para predecir riesgo personalizado de cáncer de mama",
-    "title_es": "Arranca el primer estudio español para predecir riesgo personalizado de cáncer de mama",
-    "url": "https://www.cnio.es/noticias/arranca-el-primer-estudio-espanol-para-predecir-riesgo-personalizado-de-cancer-de-mama/",
-    "published": "2026-07-20T10:46:55.000Z",
-    "date": "2026-07-20",
-    "source": "CNIO"
+    "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
+    "title_es": "APOD: 2026 August 10 – Three Galaxy Pairs",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
+    "published": "2026-08-10T04:05:00.000Z",
+    "date": "2026-08-10",
+    "source": "NASA (Top News)"
   },
   {
     "title": "Ancient Greek rings may have been forged with iron from meteorites",
@@ -48,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-    "title_es": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
-    "published": "2026-08-08T14:58:54.000Z",
-    "date": "2026-08-08",
+    "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+    "title_es": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+    "published": "2026-08-09T11:51:37.000Z",
+    "date": "2026-08-09",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-    "title_es": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-    "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
-    "published": "2026-08-08T19:40:03.000Z",
-    "date": "2026-08-08",
+    "title": "Western Europe experienced hottest June-July on record: EU monitor",
+    "title_es": "Western Europe experienced hottest June-July on record: EU monitor",
+    "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
+    "published": "2026-08-10T06:41:43.000Z",
+    "date": "2026-08-10",
     "source": "Phys.org (Latest)"
   },
   {
@@ -88,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "New Troodontid Dinosaur Genus Identified from Fossil Bone Found Decades Ago in New Mexico",
-    "title_es": "New Troodontid Dinosaur Genus Identified from Fossil Bone Found Decades Ago in New Mexico",
-    "url": "https://www.sci.news/paleontology/dinevenator-robustus-14976.html",
-    "published": "2026-08-07T20:58:57.000Z",
-    "date": "2026-08-07",
+    "title": "Liquid Nitrogen May Have Flowed on Pluto’s Surface in Recent Past",
+    "title_es": "Liquid Nitrogen May Have Flowed on Pluto’s Surface in Recent Past",
+    "url": "https://www.sci.news/space/liquid-nitrogen-pluto-14977.html",
+    "published": "2026-08-10T00:25:21.000Z",
+    "date": "2026-08-10",
     "source": "Sci.News"
   },
   {
@@ -112,20 +120,12 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Contemplating the Sun",
-    "title_es": "Contemplating the Sun",
-    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
+    "title": "Three Galaxy Pairs",
+    "title_es": "Three Galaxy Pairs",
+    "url": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=16.6798&long=2.7139",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
