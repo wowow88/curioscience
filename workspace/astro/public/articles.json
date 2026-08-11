@@ -1,5 +1,37 @@
 [
   {
+    "title": "Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases",
+    "title_es": "Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases",
+    "url": "https://arxiv.org/abs/2608.07776",
+    "published": "2026-08-11T04:00:00.000Z",
+    "date": "2026-08-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ancient Maltese seafarers likely navigated by the stars",
+    "title_es": "Los antiguos marinos malteses probablemente navegaban guiados por las estrellas",
+    "url": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
+    "date": "2026-08-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "title": "Homo antecessor Had Surprisingly Modern Skull, New Fossils Suggest",
+    "title_es": "Homo antecessor Had Surprisingly Modern Skull, New Fossils Suggest",
+    "url": "https://www.sci.news/othersciences/anthropology/homo-antecessor-14981.html",
+    "published": "2026-08-10T22:11:41.000Z",
+    "date": "2026-08-10",
+    "source": "Sci.News"
+  },
+  {
+    "title": "What primates tell us about the evolutionary origins of keeping pets",
+    "title_es": "What primates tell us about the evolutionary origins of keeping pets",
+    "url": "https://www.newscientist.com/article/2583030-what-primates-tell-us-about-the-evolutionary-origins-of-keeping-pets/",
+    "published": "2026-08-10T17:00:00.000Z",
+    "date": "2026-08-10",
+    "source": "New Scientist"
+  },
+  {
     "title": "Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems",
     "title_es": "Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems",
     "url": "https://arxiv.org/abs/2608.06378",
@@ -29,6 +61,46 @@
     "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
     "date": "2026-08-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+    "title_es": "Más allá de la naturalidad: sondeo de evaluadores automatizados de conversión de texto a voz en dimensiones lingüísticamente fundamentadas",
+    "url": "http://arxiv.org/abs/2608.09930v1",
+    "date": "2026-08-10",
+    "source": "arXiv",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+    "title_es": "Corrección del autor: Energía fotovoltaica en tándem de perovskita totalmente inorgánica y duradera",
+    "url": "https://www.nature.com/articles/s41586-026-10984-9",
+    "date": "2026-08-10",
+    "source": "Nature",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Sad or afraid? Dogs may be able to read your face",
+    "title_es": "¿Triste o asustado? Los perros pueden leer tu cara",
+    "url": "https://www.sciencenews.org/article/dogs-understand-emotions-humans-face",
+    "date": "2026-08-10",
+    "source": "Science News",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Amphisbaenian",
+    "title_es": "Los científicos dicen: anfisbenio",
+    "url": "https://www.snexplores.org/article/scientists-say-amphisbaenian-definition-pronunciation",
+    "date": "2026-08-10",
+    "source": "Science News Explores",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+    "title_es": "Los científicos descubren un interruptor oculto dentro de los nanocatalizadores de plata",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+    "date": "2026-08-10",
+    "source": "ScienceDaily (Top)",
     "published": "2026-08-10T00:00:00.000Z"
   },
   {
@@ -30999,8 +31071,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A Transgenic mouse tolerant to syngeneic cancer cells expressing truncated human epidermal growth factor receptor",
-    "title_es": "Un ratón transgénico tolerante a células cancerosas singénicas que expresan un receptor truncado del factor de crecimiento epidérmico humano",
+    "title": "Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition",
+    "title_es": "Enfoque en cascada basado en YOLO para la identificación de matrículas y el reconocimiento de números de Bangladesh",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66508,5 +66580,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Revisiting the quantum geometry of torus-fibered Calabi-Yau threefolds, by Boris Pioline, Thorsten Schimannek",
+    "title_es": "Revisiting the quantum geometry of torus-fibered Calabi-Yau threefolds, by Boris Pioline, Thorsten Schimannek",
+    "url": "https://scipost.org/scipostphys.21.2.037",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
