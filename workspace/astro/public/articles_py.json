@@ -1,10 +1,52 @@
 [
   {
+    "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
+    "title_es": "La dieta mediterránea actual se basa en aceite de oliva, verduras y pescado, pero los antiguos comían principalmente pan",
+    "url": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
+    "date": "2026-08-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ancient Maltese seafarers likely navigated by the stars",
     "title_es": "Los antiguos marinos malteses probablemente navegaban guiados por las estrellas",
     "url": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
     "date": "2026-08-11",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Comparison of ACEs reporting between clinic and telephone-based screening",
+    "title_es": "Comparación de los informes de ACE entre la detección clínica y telefónica",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+    "title_es": "WAM quirúrgico: un modelo de acción mundial para el aprendizaje de robots quirúrgicos con uso eficiente de datos",
+    "url": "http://arxiv.org/abs/2608.11204v1",
+    "date": "2026-08-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+    "title_es": "Acoplamientos de azina C – H mediados por fosfina con agua y amoníaco",
+    "url": "https://www.nature.com/articles/s41586-026-10991-w",
+    "date": "2026-08-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Bamboo toilet paper intrigued me. Reality turned out to be messy",
+    "title_es": "El papel higiénico de bambú me intrigó. La realidad resultó ser confusa.",
+    "url": "https://www.sciencenews.org/article/bamboo-toilet-paper-carbon-footprint",
+    "date": "2026-08-11",
+    "source": "Science News"
+  },
+  {
+    "title": "What to know about using AI chatbots for therapy",
+    "title_es": "Lo que hay que saber sobre el uso de chatbots de IA para terapia",
+    "url": "https://www.snexplores.org/article/ai-chatbots-therapy-mental-health",
+    "date": "2026-08-11",
+    "source": "Science News Explores"
   },
   {
     "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
@@ -19,13 +61,6 @@
     "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
     "date": "2026-08-10",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition",
-    "title_es": "Enfoque en cascada basado en YOLO para la identificación de matrículas y el reconocimiento de números de Bangladesh",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-10",
-    "source": "PLOS ONE"
   },
   {
     "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",

@@ -1,5 +1,37 @@
 [
   {
+    "title": "A full software stack for epidemic disease management: Unlocking the joint potential of software technology and supercomputing",
+    "title_es": "A full software stack for epidemic disease management: Unlocking the joint potential of software technology and supercomputing",
+    "url": "https://arxiv.org/abs/2608.09933",
+    "published": "2026-08-12T04:00:00.000Z",
+    "date": "2026-08-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
+    "title_es": "La dieta mediterránea actual se basa en aceite de oliva, verduras y pescado, pero los antiguos comían principalmente pan",
+    "url": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
+    "date": "2026-08-12",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "title": "Germany’s Famous Fossil Beds Yield New Species of Jurassic Ichthyosaur",
+    "title_es": "Germany’s Famous Fossil Beds Yield New Species of Jurassic Ichthyosaur",
+    "url": "https://www.sci.news/paleontology/jabalisaurus-tethyensis-14984.html",
+    "published": "2026-08-11T21:45:10.000Z",
+    "date": "2026-08-11",
+    "source": "Sci.News"
+  },
+  {
+    "title": "CRISPR-armed phages help treat severe superbug infection",
+    "title_es": "CRISPR-armed phages help treat severe superbug infection",
+    "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/",
+    "published": "2026-08-11T16:43:32.000Z",
+    "date": "2026-08-11",
+    "source": "New Scientist"
+  },
+  {
     "title": "Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases",
     "title_es": "Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases",
     "url": "https://arxiv.org/abs/2608.07776",
@@ -13,6 +45,38 @@
     "url": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
     "date": "2026-08-11",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+    "title_es": "WAM quirúrgico: un modelo de acción mundial para el aprendizaje de robots quirúrgicos con uso eficiente de datos",
+    "url": "http://arxiv.org/abs/2608.11204v1",
+    "date": "2026-08-11",
+    "source": "arXiv",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+    "title_es": "Acoplamientos de azina C – H mediados por fosfina con agua y amoníaco",
+    "url": "https://www.nature.com/articles/s41586-026-10991-w",
+    "date": "2026-08-11",
+    "source": "Nature",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "title": "Bamboo toilet paper intrigued me. Reality turned out to be messy",
+    "title_es": "El papel higiénico de bambú me intrigó. La realidad resultó ser confusa.",
+    "url": "https://www.sciencenews.org/article/bamboo-toilet-paper-carbon-footprint",
+    "date": "2026-08-11",
+    "source": "Science News",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "title": "What to know about using AI chatbots for therapy",
+    "title_es": "Lo que hay que saber sobre el uso de chatbots de IA para terapia",
+    "url": "https://www.snexplores.org/article/ai-chatbots-therapy-mental-health",
+    "date": "2026-08-11",
+    "source": "Science News Explores",
     "published": "2026-08-11T00:00:00.000Z"
   },
   {
@@ -31071,8 +31135,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition",
-    "title_es": "Enfoque en cascada basado en YOLO para la identificación de matrículas y el reconocimiento de números de Bangladesh",
+    "title": "Comparison of ACEs reporting between clinic and telephone-based screening",
+    "title_es": "Comparación de los informes de ACE entre la detección clínica y telefónica",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66585,6 +66649,14 @@
     "title": "Revisiting the quantum geometry of torus-fibered Calabi-Yau threefolds, by Boris Pioline, Thorsten Schimannek",
     "title_es": "Revisiting the quantum geometry of torus-fibered Calabi-Yau threefolds, by Boris Pioline, Thorsten Schimannek",
     "url": "https://scipost.org/scipostphys.21.2.037",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Competition and innovation: An alternative analysis, by Daniel L. Lakeland",
+    "title_es": "Competition and innovation: An alternative analysis, by Daniel L. Lakeland",
+    "url": "http://scipost.org/jrobustrep.4-rr2",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
