@@ -1,5 +1,19 @@
 [
   {
+    "title": "These mammal ancestors birthed live young far earlier than thought",
+    "title_es": "Estos ancestros de los mamíferos nacieron jóvenes mucho antes de lo que se pensaba",
+    "url": "https://www.sciencenews.org/article/mammal-ancestors-birthed-live-earlier",
+    "date": "2026-08-13",
+    "source": "Science News"
+  },
+  {
+    "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
+    "title_es": "La deformación uniaxial revela una nueva forma de ajustar el flujo de electrones en material altermagnético",
+    "url": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
+    "date": "2026-08-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
     "title_es": "La dieta mediterránea actual se basa en aceite de oliva, verduras y pescado, pero los antiguos comían principalmente pan",
     "url": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
@@ -7,18 +21,46 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Tuberculosis in advanced chronic kidney disease: An Observational Study at a Tertiary Care Center in Mexico",
+    "title_es": "Corrección: Tuberculosis en enfermedad renal crónica avanzada: un estudio observacional en un centro de tercer nivel de atención en México",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-12",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "title_es": "DreamFly: planificación de la memoria causal y la difusión del horizonte en retroceso para la navegación aérea por visión y lenguaje",
+    "url": "http://arxiv.org/abs/2608.12308v1",
+    "date": "2026-08-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "title_es": "Pasivación de carboxilatos de plomo para módulos solares de perovskita a escala de un metro",
+    "url": "https://www.nature.com/articles/s41586-026-10994-7",
+    "date": "2026-08-12",
+    "source": "Nature"
+  },
+  {
+    "title": "This microbe turns into a ‘Hulk’ that eats its own kind",
+    "title_es": "Este microbio se convierte en un 'Hulk' que se come a los de su propia especie",
+    "url": "https://www.snexplores.org/article/hulk-cannibal-microbe",
+    "date": "2026-08-12",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+    "title_es": "Los científicos convierten a Starlink en un escáner gigante de la atmósfera superior de la Tierra",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+    "date": "2026-08-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Ancient Maltese seafarers likely navigated by the stars",
     "title_es": "Los antiguos marinos malteses probablemente navegaban guiados por las estrellas",
     "url": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
     "date": "2026-08-11",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Comparison of ACEs reporting between clinic and telephone-based screening",
-    "title_es": "Comparación de los informes de ACE entre la detección clínica y telefónica",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-11",
-    "source": "PLOS ONE"
   },
   {
     "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",

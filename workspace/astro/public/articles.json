@@ -1,5 +1,45 @@
 [
   {
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "title_es": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "url": "https://arxiv.org/abs/2608.11207",
+    "published": "2026-08-13T04:00:00.000Z",
+    "date": "2026-08-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mammal ancestors were giving birth to live young 236 million years ago",
+    "title_es": "Mammal ancestors were giving birth to live young 236 million years ago",
+    "url": "https://www.newscientist.com/article/2584319-mammal-ancestors-were-giving-birth-to-live-young-236-million-years-ago/",
+    "published": "2026-08-13T04:00:00.000Z",
+    "date": "2026-08-13",
+    "source": "New Scientist"
+  },
+  {
+    "title": "These mammal ancestors birthed live young far earlier than thought",
+    "title_es": "Estos ancestros de los mamíferos nacieron jóvenes mucho antes de lo que se pensaba",
+    "url": "https://www.sciencenews.org/article/mammal-ancestors-birthed-live-earlier",
+    "date": "2026-08-13",
+    "source": "Science News",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
+    "title_es": "La deformación uniaxial revela una nueva forma de ajustar el flujo de electrones en material altermagnético",
+    "url": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
+    "date": "2026-08-13",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "Astronomers Find Black Hole Star in Early Universe",
+    "title_es": "Astronomers Find Black Hole Star in Early Universe",
+    "url": "https://www.sci.news/astronomy/black-hole-star-early-universe-14989.html",
+    "published": "2026-08-12T21:56:54.000Z",
+    "date": "2026-08-12",
+    "source": "Sci.News"
+  },
+  {
     "title": "A full software stack for epidemic disease management: Unlocking the joint potential of software technology and supercomputing",
     "title_es": "A full software stack for epidemic disease management: Unlocking the joint potential of software technology and supercomputing",
     "url": "https://arxiv.org/abs/2608.09933",
@@ -13,6 +53,38 @@
     "url": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
     "date": "2026-08-12",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "title_es": "DreamFly: planificación de la memoria causal y la difusión del horizonte en retroceso para la navegación aérea por visión y lenguaje",
+    "url": "http://arxiv.org/abs/2608.12308v1",
+    "date": "2026-08-12",
+    "source": "arXiv",
+    "published": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "title_es": "Pasivación de carboxilatos de plomo para módulos solares de perovskita a escala de un metro",
+    "url": "https://www.nature.com/articles/s41586-026-10994-7",
+    "date": "2026-08-12",
+    "source": "Nature",
+    "published": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "title": "This microbe turns into a ‘Hulk’ that eats its own kind",
+    "title_es": "Este microbio se convierte en un 'Hulk' que se come a los de su propia especie",
+    "url": "https://www.snexplores.org/article/hulk-cannibal-microbe",
+    "date": "2026-08-12",
+    "source": "Science News Explores",
+    "published": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+    "title_es": "Los científicos convierten a Starlink en un escáner gigante de la atmósfera superior de la Tierra",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+    "date": "2026-08-12",
+    "source": "ScienceDaily (Top)",
     "published": "2026-08-12T00:00:00.000Z"
   },
   {
@@ -31135,8 +31207,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Comparison of ACEs reporting between clinic and telephone-based screening",
-    "title_es": "Comparación de los informes de ACE entre la detección clínica y telefónica",
+    "title": "Correction: Tuberculosis in advanced chronic kidney disease: An Observational Study at a Tertiary Care Center in Mexico",
+    "title_es": "Corrección: Tuberculosis en enfermedad renal crónica avanzada: un estudio observacional en un centro de tercer nivel de atención en México",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66660,5 +66732,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Lecture notes on strings in AdS$_3$ from the worldsheet and the AdS$_3$/CFT$_2$ duality, by Nicolas Kovensky",
+    "title_es": "Lecture notes on strings in AdS$_3$ from the worldsheet and the AdS$_3$/CFT$_2$ duality, by Nicolas Kovensky",
+    "url": "http://scipost.org/scipostphyslectnotes.132",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Total Solar Eclipse Over Spain",
+    "title_es": "Total Solar Eclipse Over Spain",
+    "url": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
