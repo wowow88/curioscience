@@ -1,5 +1,37 @@
 [
   {
+    "title": "The AI Accountability Ecosystem in the Era of Language Models",
+    "title_es": "The AI Accountability Ecosystem in the Era of Language Models",
+    "url": "https://arxiv.org/abs/2608.12320",
+    "published": "2026-08-14T04:00:00.000Z",
+    "date": "2026-08-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Dusty Accretion Disks around Supermassive Black Holes May Be Secret Planet Factories",
+    "title_es": "Dusty Accretion Disks around Supermassive Black Holes May Be Secret Planet Factories",
+    "url": "https://www.sci.news/astronomy/supermassive-black-hole-planets-14991.html",
+    "published": "2026-08-14T00:22:51.000Z",
+    "date": "2026-08-14",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
+    "title_es": "¿Por qué la hierba británica se ha vuelto amarilla? Un científico vegetal explica lo que sucede después",
+    "url": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
+    "date": "2026-08-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-14T00:00:00.000Z"
+  },
+  {
+    "title": "‘Remarkable’ discovery upends our understanding of how brains store memories",
+    "title_es": "‘Remarkable’ discovery upends our understanding of how brains store memories",
+    "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/",
+    "published": "2026-08-13T18:00:00.000Z",
+    "date": "2026-08-13",
+    "source": "New Scientist"
+  },
+  {
     "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
     "title_es": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
     "url": "https://arxiv.org/abs/2608.11207",
@@ -29,6 +61,62 @@
     "url": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
     "date": "2026-08-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "title_es": "AutoDesign: optimización del metaarnés para el diseño agente a largo plazo",
+    "url": "http://arxiv.org/abs/2608.13560v1",
+    "date": "2026-08-13",
+    "source": "arXiv",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "Should humanoid robots in every household really be a top priority?",
+    "title_es": "¿Deberían los robots humanoides en todos los hogares ser realmente una máxima prioridad?",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek2193",
+    "date": "2026-08-13",
+    "source": "Science.org",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+    "title_es": "Corrección del autor: Mecanismo estructural de inhibición de cGAS por el nucleosoma",
+    "url": "https://www.nature.com/articles/s41586-026-10959-w",
+    "date": "2026-08-13",
+    "source": "Nature",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "¿Y si en el futuro el tratamiento contra el cáncer se comiera con el yogur?",
+    "title_es": "¿Y si en el futuro el tratamiento contra el cáncer se comiera con el yogur?",
+    "url": "https://www.cnio.es/noticias/y-si-en-el-futuro-el-tratamiento-contra-el-cancer-se-comiera-con-el-yogur/",
+    "date": "2026-08-13",
+    "source": "CNIO",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-valida-con-exito-la-instrumentacion-de-medicion-de-la-corona\" hreflang=\"es\">El Instituto de Astrofísica de Canarias valida con éxito la instrumentación de medición de la corona solar en Palencia donde miles de personas disfrutaron del eclipse total de Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-valida-con-exito-la-instrumentacion-de-medicion-de-la-corona\" hreflang=\"es\">El Instituto de Astrofísica de Canarias valida con éxito la instrumentación de medición de la corona solar en Palencia donde miles de personas disfrutaron del eclipse total de Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-valida-con-exito-la-instrumentacion-de-medicion-de-la-corona",
+    "date": "2026-08-13",
+    "source": "IAC",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "The glue that binds a proton may be key to its identity",
+    "title_es": "El pegamento que une un protón puede ser clave para su identidad",
+    "url": "https://www.sciencenews.org/article/gluons-proton-identity-baryon",
+    "date": "2026-08-13",
+    "source": "Science News",
+    "published": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "title": "Explainer: What is ADHD?",
+    "title_es": "Explicador: ¿Qué es el TDAH?",
+    "url": "https://www.snexplores.org/article/explainer-what-is-adhd",
+    "date": "2026-08-13",
+    "source": "Science News Explores",
     "published": "2026-08-13T00:00:00.000Z"
   },
   {
@@ -31207,8 +31295,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Tuberculosis in advanced chronic kidney disease: An Observational Study at a Tertiary Care Center in Mexico",
-    "title_es": "Corrección: Tuberculosis en enfermedad renal crónica avanzada: un estudio observacional en un centro de tercer nivel de atención en México",
+    "title": "Endophytic Aspergillus fumigatus modulates growth, oxidative stress, and cadmium accumulation in okra under salinity and heavy-metal stress",
+    "title_es": "El endofítico <i>Aspergillus fumigatus</i> modula el crecimiento, el estrés oxidativo y la acumulación de cadmio en la okra bajo estrés por salinidad y metales pesados.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -66745,6 +66833,14 @@
     "title": "Total Solar Eclipse Over Spain",
     "title_es": "Total Solar Eclipse Over Spain",
     "url": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Total Solar Eclipse from Greenland",
+    "title_es": "Total Solar Eclipse from Greenland",
+    "url": "https://apod.nasa.gov/apod/image/2608/tse2026dr_madhaven1024.jpeg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
