@@ -1,13 +1,5 @@
 [
   {
-    "title": "The AI Accountability Ecosystem in the Era of Language Models",
-    "title_es": "The AI Accountability Ecosystem in the Era of Language Models",
-    "url": "https://arxiv.org/abs/2608.12320",
-    "published": "2026-08-14T04:00:00.000Z",
-    "date": "2026-08-14",
-    "source": "arXiv"
-  },
-  {
     "title": "Should humanoid robots in every household really be a top priority?",
     "title_es": "Should humanoid robots in every household really be a top priority?",
     "url": "https://www.science.org/doi/abs/10.1126/science.aek2193",
@@ -16,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-    "title_es": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-    "url": "https://www.nature.com/articles/s41586-026-10959-w",
-    "published": "2026-08-13T00:00:00.000Z",
-    "date": "2026-08-13",
+    "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "title_es": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "url": "https://www.nature.com/articles/s41586-026-11023-3",
+    "published": "2026-08-14T00:00:00.000Z",
+    "date": "2026-08-14",
     "source": "Nature"
   },
   {
@@ -40,11 +32,19 @@
     "source": "CNIO"
   },
   {
-    "title": "The glue that binds a proton may be key to its identity",
-    "title_es": "The glue that binds a proton may be key to its identity",
-    "url": "https://www.sciencenews.org/article/gluons-proton-identity-baryon",
-    "published": "2026-08-13T18:00:00.000Z",
-    "date": "2026-08-13",
+    "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+    "title_es": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+    "published": "2026-08-15T04:05:00.000Z",
+    "date": "2026-08-15",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "How a brutal drought may have helped unleash yellow fever in Brazil",
+    "title_es": "How a brutal drought may have helped unleash yellow fever in Brazil",
+    "url": "https://www.sciencenews.org/article/drought-yellow-fever-outbreak-brazil",
+    "published": "2026-08-14T18:00:00.000Z",
+    "date": "2026-08-14",
     "source": "Science News"
   },
   {
@@ -56,35 +56,35 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-    "title_es": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
-    "published": "2026-08-12T13:38:05.000Z",
-    "date": "2026-08-12",
+    "title": "A stress hormone may help the brain repair itself",
+    "title_es": "A stress hormone may help the brain repair itself",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+    "published": "2026-08-14T11:35:11.000Z",
+    "date": "2026-08-14",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
-    "title_es": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
-    "url": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
-    "published": "2026-08-14T00:40:01.000Z",
-    "date": "2026-08-14",
+    "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+    "title_es": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+    "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+    "published": "2026-08-15T04:00:01.000Z",
+    "date": "2026-08-15",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Endophytic Aspergillus fumigatus modulates growth, oxidative stress, and cadmium accumulation in okra under salinity and heavy-metal stress",
-    "title_es": "Endophytic Aspergillus fumigatus modulates growth, oxidative stress, and cadmium accumulation in okra under salinity and heavy-metal stress",
+    "title": "Tuberculosis Knowledge, Attitude, and Practice (TB-KAP) among the volunteers: Findings from community-based intervention training outcome in Tribal Hard-to-Reach Areas in Manipur",
+    "title_es": "Tuberculosis Knowledge, Attitude, and Practice (TB-KAP) among the volunteers: Findings from community-based intervention training outcome in Tribal Hard-to-Reach Areas in Manipur",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-08-13T14:00:00.000Z",
-    "date": "2026-08-13",
+    "published": "2026-08-14T14:00:00.000Z",
+    "date": "2026-08-14",
     "source": "PLOS ONE"
   },
   {
-    "title": "‘Remarkable’ discovery upends our understanding of how brains store memories",
-    "title_es": "‘Remarkable’ discovery upends our understanding of how brains store memories",
-    "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/",
-    "published": "2026-08-13T18:00:00.000Z",
-    "date": "2026-08-13",
+    "title": "Test moderators use AI-generated writing to judge literacy standards",
+    "title_es": "Test moderators use AI-generated writing to judge literacy standards",
+    "url": "https://www.newscientist.com/article/2584776-test-moderators-use-ai-generated-writing-to-judge-literacy-standards/",
+    "published": "2026-08-14T14:28:46.000Z",
+    "date": "2026-08-14",
     "source": "New Scientist"
   },
   {
@@ -96,10 +96,10 @@
     "source": "SciPost News"
   },
   {
-    "title": "Dusty Accretion Disks around Supermassive Black Holes May Be Secret Planet Factories",
-    "title_es": "Dusty Accretion Disks around Supermassive Black Holes May Be Secret Planet Factories",
-    "url": "https://www.sci.news/astronomy/supermassive-black-hole-planets-14991.html",
-    "published": "2026-08-14T00:22:51.000Z",
+    "title": "Ornithologists Discover New Bird Species in Brazil",
+    "title_es": "Ornithologists Discover New Bird Species in Brazil",
+    "url": "https://www.sci.news/biology/chamaeza-baturitensis-14994.html",
+    "published": "2026-08-14T23:23:37.000Z",
     "date": "2026-08-14",
     "source": "Sci.News"
   },
@@ -112,20 +112,28 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Lecture notes on strings in AdS$_3$ from the worldsheet and the AdS$_3$/CFT$_2$ duality, by Nicolas Kovensky",
-    "title_es": "Lecture notes on strings in AdS$_3$ from the worldsheet and the AdS$_3$/CFT$_2$ duality, by Nicolas Kovensky",
-    "url": "http://scipost.org/scipostphyslectnotes.132",
+    "title": "Further aspects of supersymmetric Virasoro minimal strings, by Clifford V. Johnson",
+    "title_es": "Further aspects of supersymmetric Virasoro minimal strings, by Clifford V. Johnson",
+    "url": "http://scipost.org/scipostphys.21.2.040",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Total Solar Eclipse from Greenland",
-    "title_es": "Total Solar Eclipse from Greenland",
-    "url": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg",
+    "title": "Bright Perseids from Sweden",
+    "title_es": "Bright Perseids from Sweden",
+    "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-9.3917&long=-50.0050",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
