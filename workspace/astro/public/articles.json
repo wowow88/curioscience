@@ -1,5 +1,21 @@
 [
   {
+    "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+    "title_es": "APOD: 16 de agosto de 2026 – Vía Láctea sobre Yellowstone",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+    "date": "2026-08-16",
+    "source": "NASA (Top News)",
+    "published": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+    "title_es": "La naturaleza ha pasado miles de millones de años luchando contra las bacterias. La IA podría ayudarnos a aprender sus secretos",
+    "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+    "date": "2026-08-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-16T00:00:00.000Z"
+  },
+  {
     "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
     "title_es": "APOD: 15 de agosto de 2026 – Perseidas brillantes de Suecia",
     "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
     "date": "2026-08-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-15T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+    "title_es": "Los científicos resuelven el misterio de un \"interruptor\" cerebral que puede desencadenar la pérdida de peso de maneras opuestas",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+    "date": "2026-08-15",
+    "source": "ScienceDaily (Top)",
     "published": "2026-08-15T00:00:00.000Z"
   },
   {
@@ -77,6 +101,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
     "date": "2026-08-14",
     "source": "ScienceDaily (Top)",
+    "published": "2026-08-14T00:00:00.000Z"
+  },
+  {
+    "title": "New Products",
+    "title_es": "Nuevos productos",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael5176",
+    "date": "2026-08-14",
+    "source": "Science.org",
     "published": "2026-08-14T00:00:00.000Z"
   },
   {
@@ -66913,6 +66945,14 @@
     "title": "Bright Perseids from Sweden",
     "title_es": "Bright Perseids from Sweden",
     "url": "https://apod.nasa.gov/apod/image/2608/perseidsapod_p-mheden.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Milky Way over Yellowstone",
+    "title_es": "Milky Way over Yellowstone",
+    "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

@@ -32,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
-    "title_es": "APOD: 2026 August 15 – Bright Perseids from Sweden",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
-    "published": "2026-08-15T04:05:00.000Z",
-    "date": "2026-08-15",
+    "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+    "title_es": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+    "published": "2026-08-16T04:05:00.000Z",
+    "date": "2026-08-16",
     "source": "NASA (Top News)"
   },
   {
@@ -64,11 +64,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
-    "title_es": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
-    "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
-    "published": "2026-08-15T04:00:01.000Z",
-    "date": "2026-08-15",
+    "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+    "title_es": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+    "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+    "published": "2026-08-16T00:00:01.000Z",
+    "date": "2026-08-16",
     "source": "Phys.org (Latest)"
   },
   {
@@ -120,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Bright Perseids from Sweden",
-    "title_es": "Bright Perseids from Sweden",
-    "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
+    "title": "Milky Way over Yellowstone",
+    "title_es": "Milky Way over Yellowstone",
+    "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-9.3917&long=-50.0050",
+    "url": "https://www.latlong.net/c/?lat=-1.2307&long=132.0320",
     "date": "",
     "published": "",
     "source": "ISS Position"
