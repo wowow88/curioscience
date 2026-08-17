@@ -1,5 +1,21 @@
 [
   {
+    "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "title_es": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "url": "https://arxiv.org/abs/2608.13562",
+    "published": "2026-08-17T04:00:00.000Z",
+    "date": "2026-08-17",
+    "source": "arXiv"
+  },
+  {
+    "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
+    "title_es": "Los cocodrilos gigantes dominaron la cadena alimentaria en el Mioceno de América del Sur, según sugiere la evidencia fósil",
+    "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
+    "date": "2026-08-17",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-17T00:00:00.000Z"
+  },
+  {
     "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
     "title_es": "APOD: 16 de agosto de 2026 – Vía Láctea sobre Yellowstone",
     "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
     "date": "2026-08-16",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists reveal why walking gets so much harder with age",
+    "title_es": "Los científicos revelan por qué caminar se vuelve mucho más difícil con la edad",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+    "date": "2026-08-16",
+    "source": "ScienceDaily (Top)",
     "published": "2026-08-16T00:00:00.000Z"
   },
   {
@@ -109,6 +133,14 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.ael5176",
     "date": "2026-08-14",
     "source": "Science.org",
+    "published": "2026-08-14T00:00:00.000Z"
+  },
+  {
+    "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+    "title_es": "Decodificando el pasado: un marco de aprendizaje profundo consciente de la incertidumbre para la atribución de sexo en plantillas de manos prehistóricas",
+    "url": "http://arxiv.org/abs/2608.14539v1",
+    "date": "2026-08-14",
+    "source": "arXiv",
     "published": "2026-08-14T00:00:00.000Z"
   },
   {
@@ -66953,6 +66985,14 @@
     "title": "Milky Way over Yellowstone",
     "title_es": "Milky Way over Yellowstone",
     "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A Golden Corona Eclipse",
+    "title_es": "A Golden Corona Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/2608/goldcorona_santos_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

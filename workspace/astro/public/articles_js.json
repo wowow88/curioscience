@@ -1,5 +1,13 @@
 [
   {
+    "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "title_es": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "url": "https://arxiv.org/abs/2608.13562",
+    "published": "2026-08-17T04:00:00.000Z",
+    "date": "2026-08-17",
+    "source": "arXiv"
+  },
+  {
     "title": "Should humanoid robots in every household really be a top priority?",
     "title_es": "Should humanoid robots in every household really be a top priority?",
     "url": "https://www.science.org/doi/abs/10.1126/science.aek2193",
@@ -32,14 +40,6 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-    "title_es": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
-    "published": "2026-08-16T04:05:00.000Z",
-    "date": "2026-08-16",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "How a brutal drought may have helped unleash yellow fever in Brazil",
     "title_es": "How a brutal drought may have helped unleash yellow fever in Brazil",
     "url": "https://www.sciencenews.org/article/drought-yellow-fever-outbreak-brazil",
@@ -56,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "A stress hormone may help the brain repair itself",
-    "title_es": "A stress hormone may help the brain repair itself",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-    "published": "2026-08-14T11:35:11.000Z",
-    "date": "2026-08-14",
+    "title": "Scientists reveal why walking gets so much harder with age",
+    "title_es": "Scientists reveal why walking gets so much harder with age",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+    "published": "2026-08-16T09:13:25.000Z",
+    "date": "2026-08-16",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
-    "title_es": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
-    "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
-    "published": "2026-08-16T00:00:01.000Z",
-    "date": "2026-08-16",
+    "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
+    "title_es": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
+    "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
+    "published": "2026-08-17T01:00:04.000Z",
+    "date": "2026-08-17",
     "source": "Phys.org (Latest)"
   },
   {
@@ -120,9 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Milky Way over Yellowstone",
-    "title_es": "Milky Way over Yellowstone",
-    "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
+    "title": "A Golden Corona Eclipse",
+    "title_es": "A Golden Corona Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-1.2307&long=132.0320",
+    "url": "https://www.latlong.net/c/?lat=24.4855&long=-35.3936",
     "date": "",
     "published": "",
     "source": "ISS Position"
