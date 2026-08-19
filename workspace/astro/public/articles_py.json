@@ -1,5 +1,19 @@
 [
   {
+    "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+    "title_es": "Detrás de la lente: conozca a los fotógrafos de Johnson de la NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+    "date": "2026-08-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Laser stability method advances precision control of electrons with light",
+    "title_es": "El método de estabilidad láser avanza en el control de precisión de los electrones con luz",
+    "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+    "date": "2026-08-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ancient Egyptian tomb shows how burial trends changed over hundreds of years",
     "title_es": "La tumba del antiguo Egipto muestra cómo cambiaron las tendencias de los entierros a lo largo de cientos de años",
     "url": "https://phys.org/news/2026-08-ancient-egyptian-tomb-burial-trends.html",
@@ -7,18 +21,46 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Kummerowia striata extract protects paracetamol-induced liver injury by modulating the S1P/Nrf2/Keap1 pathway",
+    "title_es": "Corrección: el extracto de Kummerowia striata protege la lesión hepática inducida por el paracetamol modulando la vía S1P/Nrf2/Keap1",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-18",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "title_es": "De corporaciones a capacidades en coevolución: diseño de datos centrado en las capacidades para la generación de imágenes generalistas",
+    "url": "http://arxiv.org/abs/2608.18076v1",
+    "date": "2026-08-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Shrews’ noses grow in winter as their brains shrink",
+    "title_es": "Las narices de las musarañas crecen en invierno a medida que sus cerebros se encogen",
+    "url": "https://www.sciencenews.org/article/shrews-winter-organ-mass-adaptation",
+    "date": "2026-08-18",
+    "source": "Science News"
+  },
+  {
+    "title": "Surprise! Wax seems key in turning honeybee larvae into queens",
+    "title_es": "¡Sorpresa! La cera parece clave para convertir las larvas de abejas en reinas",
+    "url": "https://www.snexplores.org/article/royal-wax-queen-honeybee",
+    "date": "2026-08-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+    "title_es": "El mayor “error” de Einstein volvió y cambió la cosmología para siempre",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+    "date": "2026-08-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
     "title_es": "Los cocodrilos gigantes dominaron la cadena alimentaria en el Mioceno de América del Sur, según sugiere la evidencia fósil",
     "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
     "date": "2026-08-17",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Relationship of patellar tendon micromorphology with body anthropometrics and lower-limb range of motion in volleyball athletes",
-    "title_es": "Relación de la micromorfología del tendón rotuliano con la antropometría corporal y el rango de movimiento de las extremidades inferiores en deportistas de voleibol.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-17",
-    "source": "PLOS ONE"
   },
   {
     "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",

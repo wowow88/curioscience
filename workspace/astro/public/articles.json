@@ -1,5 +1,45 @@
 [
   {
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "title_es": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "url": "https://arxiv.org/abs/2608.16890",
+    "published": "2026-08-19T04:00:00.000Z",
+    "date": "2026-08-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+    "title_es": "Detrás de la lente: conozca a los fotógrafos de Johnson de la NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+    "date": "2026-08-19",
+    "source": "NASA (Top News)",
+    "published": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "title": "Laser stability method advances precision control of electrons with light",
+    "title_es": "El método de estabilidad láser avanza en el control de precisión de los electrones con luz",
+    "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+    "date": "2026-08-19",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "title": "Meet Bataspis crux, Jawless Fish that Cruised Devonian Seas with Batwing Head",
+    "title_es": "Meet Bataspis crux, Jawless Fish that Cruised Devonian Seas with Batwing Head",
+    "url": "https://www.sci.news/paleontology/bataspis-crux-15002.html",
+    "published": "2026-08-18T21:27:36.000Z",
+    "date": "2026-08-18",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The surprising upsides of living in a reality that repeats for eternity",
+    "title_es": "The surprising upsides of living in a reality that repeats for eternity",
+    "url": "https://www.newscientist.com/article/2582556-the-surprising-upsides-of-living-in-a-reality-that-repeats-for-eternity/",
+    "published": "2026-08-18T15:00:00.000Z",
+    "date": "2026-08-18",
+    "source": "New Scientist"
+  },
+  {
     "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
     "title_es": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
     "url": "https://arxiv.org/abs/2608.14550",
@@ -14,6 +54,54 @@
     "date": "2026-08-18",
     "source": "Phys.org (Latest)",
     "published": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "title_es": "De corporaciones a capacidades en coevolución: diseño de datos centrado en las capacidades para la generación de imágenes generalistas",
+    "url": "http://arxiv.org/abs/2608.18076v1",
+    "date": "2026-08-18",
+    "source": "arXiv",
+    "published": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "Shrews’ noses grow in winter as their brains shrink",
+    "title_es": "Las narices de las musarañas crecen en invierno a medida que sus cerebros se encogen",
+    "url": "https://www.sciencenews.org/article/shrews-winter-organ-mass-adaptation",
+    "date": "2026-08-18",
+    "source": "Science News",
+    "published": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "Surprise! Wax seems key in turning honeybee larvae into queens",
+    "title_es": "¡Sorpresa! La cera parece clave para convertir las larvas de abejas en reinas",
+    "url": "https://www.snexplores.org/article/royal-wax-queen-honeybee",
+    "date": "2026-08-18",
+    "source": "Science News Explores",
+    "published": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+    "title_es": "El mayor “error” de Einstein volvió y cambió la cosmología para siempre",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+    "date": "2026-08-18",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "Heatwaves expose weak links in food systems",
+    "title_es": "Heatwaves expose weak links in food systems",
+    "url": "https://www.nature.com/articles/d41586-026-02577-3",
+    "published": "2026-08-18T00:00:00.000Z",
+    "date": "2026-08-18",
+    "source": "Nature"
+  },
+  {
+    "title": "The bacteria that make cheese taste so good may also benefit your gut",
+    "title_es": "The bacteria that make cheese taste so good may also benefit your gut",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+    "published": "2026-08-17T22:18:03.000Z",
+    "date": "2026-08-17",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Denisovans Were Surprisingly Tall, New Fossils from Taiwan Suggest",
@@ -31503,8 +31591,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Relationship of patellar tendon micromorphology with body anthropometrics and lower-limb range of motion in volleyball athletes",
-    "title_es": "Relación de la micromorfología del tendón rotuliano con la antropometría corporal y el rango de movimiento de las extremidades inferiores en deportistas de voleibol.",
+    "title": "Correction: Kummerowia striata extract protects paracetamol-induced liver injury by modulating the S1P/Nrf2/Keap1 pathway",
+    "title_es": "Corrección: el extracto de Kummerowia striata protege la lesión hepática inducida por el paracetamol modulando la vía S1P/Nrf2/Keap1",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -67097,6 +67185,22 @@
     "title": "Perseids from Perseus",
     "title_es": "Perseids from Perseus",
     "url": "https://apod.nasa.gov/apod/image/2608/perseids_karuk_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Integrable models from 4d holomorphic BF theory, by Lewis T. Cole, Ben Hoare",
+    "title_es": "Integrable models from 4d holomorphic BF theory, by Lewis T. Cole, Ben Hoare",
+    "url": "http://scipost.org/scipostphys.21.2.044",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Case of the Mysterious Maybe Meteor",
+    "title_es": "The Case of the Mysterious Maybe Meteor",
+    "url": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
