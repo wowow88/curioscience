@@ -1,5 +1,33 @@
 [
   {
+    "title": "These trees are making air quality in cities worse",
+    "title_es": "Estos árboles están empeorando la calidad del aire en las ciudades",
+    "url": "https://www.nature.com/articles/d41586-026-02586-2",
+    "date": "2026-08-20",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+    "title_es": "APOD: 2026 20 de agosto – La trompa del elefante en Cefeo",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+    "date": "2026-08-20",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+    "title_es": "Físicos del MIT descubren electrones que se reconstruyen como hielo dentro de un material cuántico",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+    "date": "2026-08-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Honeybees struggle to gather nectar in August, direct measurements reveal",
+    "title_es": "Las abejas luchan por recolectar néctar en agosto, revelan mediciones directas",
+    "url": "https://phys.org/news/2026-08-honeybees-struggle-nectar-august-reveal.html",
+    "date": "2026-08-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
     "title_es": "Detrás de la lente: conozca a los fotógrafos de Johnson de la NASA",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
@@ -14,18 +42,46 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Equity in the allocation of oncology bed resources in China: Longitudinal data from 2008 to 2022",
+    "title_es": "Equidad en la asignación de recursos de camas oncológicas en China: datos longitudinales de 2008 a 2022",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-19",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+    "title_es": "SPADE: Autojuego en entornos ejecutables sintéticos adaptativos",
+    "url": "http://arxiv.org/abs/2608.19197v1",
+    "date": "2026-08-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-congreso-internacional-solar-mhd-2026-celebrado-en-coruna-coincidiendo-con-el\" hreflang=\"es\">El IAC organiza el Congreso Internacional Solar MHD 2026 celebrado en A Coruña coincidiendo con el eclipse total del 12 de agosto</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-congreso-internacional-solar-mhd-2026-celebrado-en-coruna-coincidiendo-con-el\" hreflang=\"es\">El IAC organiza el Congreso Internacional Solar MHD 2026 celebrado en A Coruña coincidiendo con el eclipse total del 12 de agosto</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-organiza-el-congreso-internacional-solar-mhd-2026-celebrado-en-coruna-coincidiendo-con-el",
+    "date": "2026-08-19",
+    "source": "IAC"
+  },
+  {
+    "title": "Static electricity is a mystery, and scientists are all charged up",
+    "title_es": "La electricidad estática es un misterio y los científicos están entusiasmados",
+    "url": "https://www.sciencenews.org/article/static-electricity-is-a-mystery",
+    "date": "2026-08-19",
+    "source": "Science News"
+  },
+  {
+    "title": "AI can be a helpful math tutor if used right — and harmful if not",
+    "title_es": "La IA puede ser un útil tutor de matemáticas si se usa correctamente, y perjudicial si no",
+    "url": "https://www.snexplores.org/article/ai-math-tutor-learning",
+    "date": "2026-08-19",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Ancient Egyptian tomb shows how burial trends changed over hundreds of years",
     "title_es": "La tumba del antiguo Egipto muestra cómo cambiaron las tendencias de los entierros a lo largo de cientos de años",
     "url": "https://phys.org/news/2026-08-ancient-egyptian-tomb-burial-trends.html",
     "date": "2026-08-18",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Kummerowia striata extract protects paracetamol-induced liver injury by modulating the S1P/Nrf2/Keap1 pathway",
-    "title_es": "Corrección: el extracto de Kummerowia striata protege la lesión hepática inducida por el paracetamol modulando la vía S1P/Nrf2/Keap1",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-18",
-    "source": "PLOS ONE"
   },
   {
     "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
