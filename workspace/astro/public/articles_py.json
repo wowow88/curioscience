@@ -1,5 +1,12 @@
 [
   {
+    "title": "Global access to food crops is affected by transport costs and economic inequality",
+    "title_es": "El acceso global a los cultivos alimentarios se ve afectado por los costos de transporte y la desigualdad económica",
+    "url": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
+    "date": "2026-08-21",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "These trees are making air quality in cities worse",
     "title_es": "Estos árboles están empeorando la calidad del aire en las ciudades",
     "url": "https://www.nature.com/articles/d41586-026-02586-2",
@@ -28,6 +35,62 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Enhancing perovskite solar cells efficiency via dual surface passivation",
+    "title_es": "Corrección: mejora de la eficiencia de las células solares de perovskita mediante pasivación de superficie dual",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-20",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "title_es": "G-CARL: Aprendizaje de recompensas alineado con listas de verificación fundamentadas para la interpretación de informes médicos orientada al paciente",
+    "url": "http://arxiv.org/abs/2608.20331v1",
+    "date": "2026-08-20",
+    "source": "arXiv"
+  },
+  {
+    "title": "Technology is not a replacement for democracy",
+    "title_es": "La tecnología no reemplaza a la democracia",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej1046",
+    "date": "2026-08-20",
+    "source": "Science.org"
+  },
+  {
+    "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+    "title_es": "Síntesis de dialquil éter mediante sustitución homolítica de heteroátomos.",
+    "url": "https://www.nature.com/articles/s41586-026-11043-z",
+    "date": "2026-08-20",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/personal-del-iac-participa-en-actividades-divulgativas-en-borobia-y-calahorra-con-motivo-del-eclipse\" hreflang=\"es\">Personal del IAC participa en actividades divulgativas en Borobia y Calahorra con motivo del eclipse solar total</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/personal-del-iac-participa-en-actividades-divulgativas-en-borobia-y-calahorra-con-motivo-del-eclipse\" hreflang=\"es\">Personal del IAC participa en actividades divulgativas en Borobia y Calahorra con motivo del eclipse solar total</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/personal-del-iac-participa-en-actividades-divulgativas-en-borobia-y-calahorra-con-motivo-del-eclipse",
+    "date": "2026-08-20",
+    "source": "IAC"
+  },
+  {
+    "title": "Why Epstein-Barr is the ‘everything virus’",
+    "title_es": "Por qué Epstein-Barr es el “virus de todo”",
+    "url": "https://www.sciencenews.org/article/epstein-barr-virus-autoimmune",
+    "date": "2026-08-20",
+    "source": "Science News"
+  },
+  {
+    "title": "How to lessen your pet’s impacts on the planet",
+    "title_es": "Cómo disminuir el impacto de tu mascota en el planeta",
+    "url": "https://www.snexplores.org/article/greener-pets-less-impact-environment",
+    "date": "2026-08-20",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+    "title_es": "Las conexiones cerebrales perdidas en la esquizofrenia siguen un patrón sorprendente",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+    "date": "2026-08-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
     "title_es": "Detrás de la lente: conozca a los fotógrafos de Johnson de la NASA",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
     "date": "2026-08-19",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Equity in the allocation of oncology bed resources in China: Longitudinal data from 2008 to 2022",
-    "title_es": "Equidad en la asignación de recursos de camas oncológicas en China: datos longitudinales de 2008 a 2022",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-19",
-    "source": "PLOS ONE"
   },
   {
     "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
