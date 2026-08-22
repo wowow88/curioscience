@@ -1,10 +1,52 @@
 [
   {
+    "title": "Bipartisan majorities in US favor banning glyphosate",
+    "title_es": "Mayorías bipartidistas en EE.UU. están a favor de prohibir el glifosato",
+    "url": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
+    "date": "2026-08-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Global access to food crops is affected by transport costs and economic inequality",
     "title_es": "El acceso global a los cultivos alimentarios se ve afectado por los costos de transporte y la desigualdad económica",
     "url": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
     "date": "2026-08-21",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Post-acute and long-term cardiovascular effects following dengue infection: A systematic review protocol",
+    "title_es": "Efectos cardiovasculares posagudos y a largo plazo después de la infección por dengue: un protocolo de revisión sistemática",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-21",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+    "title_es": "Charla informativa: un nuevo fármaco contra la narcolepsia podría desbloquear una gran cantidad de nuevas terapias cerebrales",
+    "url": "https://www.nature.com/articles/d41586-026-02626-x",
+    "date": "2026-08-21",
+    "source": "Nature"
+  },
+  {
+    "title": "‘Thunderquakes’ do more than shake the ground — they map it",
+    "title_es": "Los 'truenos' hacen más que sacudir el suelo: lo mapean",
+    "url": "https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it",
+    "date": "2026-08-21",
+    "source": "Science News"
+  },
+  {
+    "title": "Humans have used fire far longer than anyone realized",
+    "title_es": "Los humanos han usado el fuego durante mucho más tiempo del que nadie pensaba",
+    "url": "https://www.snexplores.org/article/oldest-human-fire-use",
+    "date": "2026-08-21",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+    "title_es": "Un naufragio romano de 2.200 años revela antiguos secretos de impermeabilización",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+    "date": "2026-08-21",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "These trees are making air quality in cities worse",
@@ -33,13 +75,6 @@
     "url": "https://phys.org/news/2026-08-honeybees-struggle-nectar-august-reveal.html",
     "date": "2026-08-20",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Enhancing perovskite solar cells efficiency via dual surface passivation",
-    "title_es": "Corrección: mejora de la eficiencia de las células solares de perovskita mediante pasivación de superficie dual",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-20",
-    "source": "PLOS ONE"
   },
   {
     "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
