@@ -32,11 +32,19 @@
     "source": "CNIO"
   },
   {
-    "title": "‘Thunderquakes’ do more than shake the ground — they map it",
-    "title_es": "‘Thunderquakes’ do more than shake the ground — they map it",
-    "url": "https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it",
-    "published": "2026-08-21T18:00:00.000Z",
-    "date": "2026-08-21",
+    "title": "APOD: 2026 August 22 – Mostly Perseids",
+    "title_es": "APOD: 2026 August 22 – Mostly Perseids",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
+    "published": "2026-08-22T04:05:00.000Z",
+    "date": "2026-08-22",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Mysteries of the commonplace",
+    "title_es": "Mysteries of the commonplace",
+    "url": "https://www.sciencenews.org/article/ed-note-september-2026",
+    "published": "2026-08-22T11:00:00.000Z",
+    "date": "2026-08-22",
     "source": "Science News"
   },
   {
@@ -48,18 +56,18 @@
     "source": "Science News Explores"
   },
   {
-    "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-    "title_es": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
-    "published": "2026-08-21T09:28:51.000Z",
-    "date": "2026-08-21",
+    "title": "JWST finds early galaxies may be 4 times more massive than thought",
+    "title_es": "JWST finds early galaxies may be 4 times more massive than thought",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+    "published": "2026-08-22T12:36:23.000Z",
+    "date": "2026-08-22",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Bipartisan majorities in US favor banning glyphosate",
-    "title_es": "Bipartisan majorities in US favor banning glyphosate",
-    "url": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
-    "published": "2026-08-22T02:00:01.000Z",
+    "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
+    "title_es": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
+    "url": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
+    "published": "2026-08-22T23:00:01.000Z",
     "date": "2026-08-22",
     "source": "Phys.org (Latest)"
   },
@@ -104,17 +112,25 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Enabling stable preservation of ML algorithms in high-energy physics with petrifyML, by Andy Buckley, Louie Corpe, Martin Habedank, Tomasz Procter",
-    "title_es": "Enabling stable preservation of ML algorithms in high-energy physics with petrifyML, by Andy Buckley, Louie Corpe, Martin Habedank, Tomasz Procter",
-    "url": "http://scipost.org/scipostphyscodeb.78",
+    "title": "Can electronic quantum criticality drive phonon-induced linear-in-temperature resistivity?, by Haoyu Guo, Debanjan Chowdhury",
+    "title_es": "Can electronic quantum criticality drive phonon-induced linear-in-temperature resistivity?, by Haoyu Guo, Debanjan Chowdhury",
+    "url": "http://scipost.org/scipostphys.21.2.047",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
+    "title": "Cassini Approaches Saturn",
+    "title_es": "Cassini Approaches Saturn",
+    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-24.2393&long=116.4625",
+    "url": "https://www.latlong.net/c/?lat=34.4303&long=-58.0890",
     "date": "",
     "published": "",
     "source": "ISS Position"
