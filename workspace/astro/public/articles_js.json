@@ -1,5 +1,13 @@
 [
   {
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "title_es": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "url": "https://arxiv.org/abs/2608.20341",
+    "published": "2026-08-24T04:00:00.000Z",
+    "date": "2026-08-24",
+    "source": "arXiv"
+  },
+  {
     "title": "Technology is not a replacement for democracy",
     "title_es": "Technology is not a replacement for democracy",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej1046",
@@ -32,11 +40,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 August 22 – Mostly Perseids",
-    "title_es": "APOD: 2026 August 22 – Mostly Perseids",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-    "published": "2026-08-22T04:05:00.000Z",
-    "date": "2026-08-22",
+    "title": "What Lake Bonneville Left Behind",
+    "title_es": "What Lake Bonneville Left Behind",
+    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+    "published": "2026-08-24T04:01:00.000Z",
+    "date": "2026-08-24",
     "source": "NASA (Top News)"
   },
   {
@@ -56,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "JWST finds early galaxies may be 4 times more massive than thought",
-    "title_es": "JWST finds early galaxies may be 4 times more massive than thought",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-    "published": "2026-08-22T12:36:23.000Z",
-    "date": "2026-08-22",
+    "title": "Experimental compound helps burn fat without muscle loss",
+    "title_es": "Experimental compound helps burn fat without muscle loss",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+    "published": "2026-08-23T10:24:17.000Z",
+    "date": "2026-08-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
-    "title_es": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
-    "url": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
-    "published": "2026-08-22T23:00:01.000Z",
-    "date": "2026-08-22",
+    "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+    "title_es": "Protein degradation rate helps explain why humans develop more slowly than mice",
+    "url": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
+    "published": "2026-08-23T21:00:01.000Z",
+    "date": "2026-08-23",
     "source": "Phys.org (Latest)"
   },
   {
@@ -120,9 +128,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Cassini Approaches Saturn",
-    "title_es": "Cassini Approaches Saturn",
-    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "title": "Comet 220P in Outburst",
+    "title_es": "Comet 220P in Outburst",
+    "url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=34.4303&long=-58.0890",
+    "url": "https://www.latlong.net/c/?lat=-51.2634&long=161.9109",
     "date": "",
     "published": "",
     "source": "ISS Position"

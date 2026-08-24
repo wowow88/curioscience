@@ -1,10 +1,31 @@
 [
   {
+    "title": "What Lake Bonneville Left Behind",
+    "title_es": "Lo que dejó el lago Bonneville",
+    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+    "date": "2026-08-24",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "Black holes keep tearing these stars apart, but they survive",
     "title_es": "Los agujeros negros siguen destrozando estas estrellas, pero sobreviven",
     "url": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
     "date": "2026-08-23",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Experimental compound helps burn fat without muscle loss",
+    "title_es": "Un compuesto experimental ayuda a quemar grasa sin perder masa muscular",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+    "date": "2026-08-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+    "title_es": "La tasa de degradación de proteínas ayuda a explicar por qué los humanos se desarrollan más lentamente que los ratones",
+    "url": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
+    "date": "2026-08-23",
+    "source": "Phys.org (Latest)"
   },
   {
     "title": "Bipartisan majorities in US favor banning glyphosate",
@@ -75,6 +96,13 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
     "date": "2026-08-21",
     "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Primal Acceleration of Newton's Method",
+    "title_es": "Aceleración primaria del método de Newton",
+    "url": "http://arxiv.org/abs/2608.21359v1",
+    "date": "2026-08-21",
+    "source": "arXiv"
   },
   {
     "title": "These trees are making air quality in cities worse",

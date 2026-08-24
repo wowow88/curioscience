@@ -1,10 +1,42 @@
 [
   {
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "title_es": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "url": "https://arxiv.org/abs/2608.20341",
+    "published": "2026-08-24T04:00:00.000Z",
+    "date": "2026-08-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "What Lake Bonneville Left Behind",
+    "title_es": "Lo que dejó el lago Bonneville",
+    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+    "date": "2026-08-24",
+    "source": "NASA (Top News)",
+    "published": "2026-08-24T00:00:00.000Z"
+  },
+  {
     "title": "Black holes keep tearing these stars apart, but they survive",
     "title_es": "Los agujeros negros siguen destrozando estas estrellas, pero sobreviven",
     "url": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
     "date": "2026-08-23",
     "source": "ScienceDaily (Top)",
+    "published": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "title": "Experimental compound helps burn fat without muscle loss",
+    "title_es": "Un compuesto experimental ayuda a quemar grasa sin perder masa muscular",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+    "date": "2026-08-23",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+    "title_es": "La tasa de degradación de proteínas ayuda a explicar por qué los humanos se desarrollan más lentamente que los ratones",
+    "url": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
+    "date": "2026-08-23",
+    "source": "Phys.org (Latest)",
     "published": "2026-08-23T00:00:00.000Z"
   },
   {
@@ -109,6 +141,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
     "date": "2026-08-21",
     "source": "ScienceDaily (Top)",
+    "published": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "title": "Primal Acceleration of Newton's Method",
+    "title_es": "Aceleración primaria del método de Newton",
+    "url": "http://arxiv.org/abs/2608.21359v1",
+    "date": "2026-08-21",
+    "source": "arXiv",
     "published": "2026-08-21T00:00:00.000Z"
   },
   {
@@ -67529,6 +67569,14 @@
     "title": "Cassini Approaches Saturn",
     "title_es": "Cassini Approaches Saturn",
     "url": "https://player.vimeo.com/video/11386048",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Comet 220P in Outburst",
+    "title_es": "Comet 220P in Outburst",
+    "url": "https://apod.nasa.gov/apod/image/2608/comet220p_sa_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
