@@ -1,5 +1,77 @@
 [
   {
+    "title": "Astonishing whale feeding frenzy seen off the eastern coast of Greenland",
+    "title_es": "Astonishing whale feeding frenzy seen off the eastern coast of Greenland",
+    "url": "https://www.newscientist.com/article/2586630-astonishing-whale-feeding-frenzy-seen-off-the-eastern-coast-of-greenland/",
+    "published": "2026-08-27T16:00:00.000Z",
+    "date": "2026-08-27",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The New Student Visa Policy Doesn’t Add Up",
+    "title_es": "The New Student Visa Policy Doesn’t Add Up",
+    "url": "https://undark.org/2026/08/27/opinion-student-visa-policy-science/",
+    "published": "2026-08-27T07:23:00.000Z",
+    "date": "2026-08-27",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "VLM-based automatic multi-granularity graph representation of building layouts for design informatics",
+    "title_es": "VLM-based automatic multi-granularity graph representation of building layouts for design informatics",
+    "url": "https://arxiv.org/abs/2608.24886",
+    "published": "2026-08-27T04:00:00.000Z",
+    "date": "2026-08-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "A solution to the mystery of the missing neutrinos",
+    "title_es": "Una solución al misterio de los neutrinos desaparecidos",
+    "url": "https://www.nature.com/articles/d41586-026-02628-9",
+    "date": "2026-08-27",
+    "source": "Nature",
+    "published": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Landslides pose the largest risks to those who can least afford them",
+    "title_es": "Los deslizamientos de tierra plantean los mayores riesgos para quienes menos pueden afrontarlos",
+    "url": "https://www.sciencenews.org/article/landslides-large-risks-least-afford",
+    "date": "2026-08-27",
+    "source": "Science News",
+    "published": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Meet the world’s biggest waves — and the mysteries behind them",
+    "title_es": "Conozca las olas más grandes del mundo y los misterios detrás de ellas",
+    "url": "https://www.snexplores.org/article/worlds-biggest-waves-mysteries",
+    "date": "2026-08-27",
+    "source": "Science News Explores",
+    "published": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Your dislike of eating bugs may be 9,000 years old",
+    "title_es": "Tu aversión a comer insectos puede tener 9.000 años",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+    "date": "2026-08-27",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Surprising ingredients suggest ancient Egyptian paint was far more complex than previously assumed",
+    "title_es": "Ingredientes sorprendentes sugieren que la pintura del antiguo Egipto era mucho más compleja de lo que se suponía anteriormente",
+    "url": "https://phys.org/news/2026-08-ingredients-ancient-egyptian-complex-previously.html",
+    "date": "2026-08-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "title": "Mississippian People May Have Consumed Cacao as Early as 11th Century",
+    "title_es": "Mississippian People May Have Consumed Cacao as Early as 11th Century",
+    "url": "https://www.sci.news/archaeology/mississippian-people-cacao-15022.html",
+    "published": "2026-08-26T23:40:33.000Z",
+    "date": "2026-08-26",
+    "source": "Sci.News"
+  },
+  {
     "title": "Whose Psychiatry Was Summoned? A Clinical Response to the Psychodynamic Assessment of Claude Mythos Preview",
     "title_es": "Whose Psychiatry Was Summoned? A Clinical Response to the Psychodynamic Assessment of Claude Mythos Preview",
     "url": "https://arxiv.org/abs/2608.23567",
@@ -21,6 +93,22 @@
     "url": "https://phys.org/news/2026-08-traffic-noise-birdsong-stress-relieving.html",
     "date": "2026-08-26",
     "source": "Phys.org (Latest)",
+    "published": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "title_es": "VBVR-Pro: una suite escalable y verificable para razonamiento visual nativo",
+    "url": "http://arxiv.org/abs/2608.26105v1",
+    "date": "2026-08-26",
+    "source": "arXiv",
+    "published": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la\" hreflang=\"es\">Eva Villaver y Julia de León, elegidas por ELLE entre las 40 españolas destacadas en el ámbito de la ciencia y la tecnología</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la\" hreflang=\"es\">Eva Villaver y Julia de León, elegidas por ELLE entre las 40 españolas destacadas en el ámbito de la ciencia y la tecnología</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la",
+    "date": "2026-08-26",
+    "source": "IAC",
     "published": "2026-08-26T00:00:00.000Z"
   },
   {
@@ -385,7 +473,7 @@
   },
   {
     "title": "Technology is not a replacement for democracy",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "La tecnología no reemplaza a la democracia",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej1046",
     "date": "2026-08-20",
     "source": "Science.org",
@@ -32079,8 +32167,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Can different exercise modalities improve esports performance? Study protocol for a 12-week three-arm randomized controlled trial",
-    "title_es": "¿Pueden las diferentes modalidades de ejercicio mejorar el rendimiento en los deportes electrónicos? Protocolo de estudio para un ensayo controlado aleatorio de tres brazos de 12 semanas de duración",
+    "title": "Correction: Binary image acquisition and texture parameter calculation of asphalt pavement based on a U-Net model",
+    "title_es": "Corrección: Adquisición de imágenes binarias y cálculo de parámetros de textura de pavimento asfáltico basado en un modelo U-Net",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -67780,5 +67868,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Fusion in the periodic Temperley–Lieb algebra: General definition of a bifunctor, by Yacine Ikhlef, Alexi Morin-Duchesne",
+    "title_es": "Fusion in the periodic Temperley–Lieb algebra: General definition of a bifunctor, by Yacine Ikhlef, Alexi Morin-Duchesne",
+    "url": "http://scipost.org/scipostphyscore.9.3.053",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]

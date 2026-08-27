@@ -1,5 +1,40 @@
 [
   {
+    "title": "A solution to the mystery of the missing neutrinos",
+    "title_es": "Una solución al misterio de los neutrinos desaparecidos",
+    "url": "https://www.nature.com/articles/d41586-026-02628-9",
+    "date": "2026-08-27",
+    "source": "Nature"
+  },
+  {
+    "title": "Landslides pose the largest risks to those who can least afford them",
+    "title_es": "Los deslizamientos de tierra plantean los mayores riesgos para quienes menos pueden afrontarlos",
+    "url": "https://www.sciencenews.org/article/landslides-large-risks-least-afford",
+    "date": "2026-08-27",
+    "source": "Science News"
+  },
+  {
+    "title": "Meet the world’s biggest waves — and the mysteries behind them",
+    "title_es": "Conozca las olas más grandes del mundo y los misterios detrás de ellas",
+    "url": "https://www.snexplores.org/article/worlds-biggest-waves-mysteries",
+    "date": "2026-08-27",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Your dislike of eating bugs may be 9,000 years old",
+    "title_es": "Tu aversión a comer insectos puede tener 9.000 años",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+    "date": "2026-08-27",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Surprising ingredients suggest ancient Egyptian paint was far more complex than previously assumed",
+    "title_es": "Ingredientes sorprendentes sugieren que la pintura del antiguo Egipto era mucho más compleja de lo que se suponía anteriormente",
+    "url": "https://phys.org/news/2026-08-ingredients-ancient-egyptian-complex-previously.html",
+    "date": "2026-08-27",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Three forgotten kings could rewrite the history of ancient Assyria",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
@@ -14,18 +49,32 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Binary image acquisition and texture parameter calculation of asphalt pavement based on a U-Net model",
+    "title_es": "Corrección: Adquisición de imágenes binarias y cálculo de parámetros de textura de pavimento asfáltico basado en un modelo U-Net",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-26",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "title_es": "VBVR-Pro: una suite escalable y verificable para razonamiento visual nativo",
+    "url": "http://arxiv.org/abs/2608.26105v1",
+    "date": "2026-08-26",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la\" hreflang=\"es\">Eva Villaver y Julia de León, elegidas por ELLE entre las 40 españolas destacadas en el ámbito de la ciencia y la tecnología</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la\" hreflang=\"es\">Eva Villaver y Julia de León, elegidas por ELLE entre las 40 españolas destacadas en el ámbito de la ciencia y la tecnología</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/eva-villaver-y-julia-de-leon-elegidas-por-elle-entre-las-40-espanolas-destacadas-en-el-ambito-de-la",
+    "date": "2026-08-26",
+    "source": "IAC"
+  },
+  {
     "title": "Access to bilingual education lags behind in Andalusia's rural areas, study reveals",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html",
     "date": "2026-08-25",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Can different exercise modalities improve esports performance? Study protocol for a 12-week three-arm randomized controlled trial",
-    "title_es": "¿Pueden las diferentes modalidades de ejercicio mejorar el rendimiento en los deportes electrónicos? Protocolo de estudio para un ensayo controlado aleatorio de tres brazos de 12 semanas de duración",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-25",
-    "source": "PLOS ONE"
   },
   {
     "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
@@ -246,7 +295,7 @@
   },
   {
     "title": "Technology is not a replacement for democracy",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "La tecnología no reemplaza a la democracia",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej1046",
     "date": "2026-08-20",
     "source": "Science.org"
