@@ -1,5 +1,47 @@
 [
   {
+    "title": "Briefing Chat: How Dolly Parton left her mark on science",
+    "title_es": "Charla informativa: cómo Dolly Parton dejó su huella en la ciencia",
+    "url": "https://www.nature.com/articles/d41586-026-02732-w",
+    "date": "2026-08-28",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/confirman-desde-el-observatorio-del-teide-un-sistema-con-un-posible-mundo-de-lava-y-otro-potencialmente\" hreflang=\"es\">Confirman desde el Observatorio del Teide un sistema con un posible mundo de lava y otro potencialmente habitable</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/confirman-desde-el-observatorio-del-teide-un-sistema-con-un-posible-mundo-de-lava-y-otro-potencialmente\" hreflang=\"es\">Confirman desde el Observatorio del Teide un sistema con un posible mundo de lava y otro potencialmente habitable</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/confirman-desde-el-observatorio-del-teide-un-sistema-con-un-posible-mundo-de-lava-y-otro-potencialmente",
+    "date": "2026-08-28",
+    "source": "IAC"
+  },
+  {
+    "title": "Your skin chemistry may affect which mosquitoes most want to bite you",
+    "title_es": "La química de tu piel puede afectar qué mosquitos quieren más picarte",
+    "url": "https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite",
+    "date": "2026-08-28",
+    "source": "Science News"
+  },
+  {
+    "title": "This cosmic oddity blurs the line between planet and moon",
+    "title_es": "Esta rareza cósmica desdibuja la línea entre el planeta y la luna",
+    "url": "https://www.snexplores.org/article/cosmic-oddity-moon-planet-definition",
+    "date": "2026-08-28",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+    "title_es": "El telescopio romano de la NASA verá 100 veces más cielo que el Hubble",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+    "date": "2026-08-28",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Motorboat noise stunts growth and impairs predator escape in reef fish, study shows",
+    "title_es": "El ruido de las lanchas a motor frena el crecimiento y perjudica el escape de los depredadores en los peces de arrecife, según un estudio",
+    "url": "https://phys.org/news/2026-08-motorboat-noise-stunts-growth-impairs.html",
+    "date": "2026-08-28",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "A solution to the mystery of the missing neutrinos",
     "title_es": "Una solución al misterio de los neutrinos desaparecidos",
     "url": "https://www.nature.com/articles/d41586-026-02628-9",
@@ -35,6 +77,27 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Smoking cessation is associated with regression of electrocardiographic left ventricular hypertrophy: A 6-year retrospective observational study",
+    "title_es": "Dejar de fumar se asocia con la regresión de la hipertrofia ventricular izquierda electrocardiográfica: un estudio observacional retrospectivo de 6 años",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-08-27",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "http://arxiv.org/abs/2608.27454v1",
+    "date": "2026-08-27",
+    "source": "arXiv"
+  },
+  {
+    "title": "The history and future of sickle cell disease",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej0154",
+    "date": "2026-08-27",
+    "source": "Science.org"
+  },
+  {
     "title": "Three forgotten kings could rewrite the history of ancient Assyria",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
@@ -47,13 +110,6 @@
     "url": "https://phys.org/news/2026-08-traffic-noise-birdsong-stress-relieving.html",
     "date": "2026-08-26",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Binary image acquisition and texture parameter calculation of asphalt pavement based on a U-Net model",
-    "title_es": "Corrección: Adquisición de imágenes binarias y cálculo de parámetros de textura de pavimento asfáltico basado en un modelo U-Net",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-08-26",
-    "source": "PLOS ONE"
   },
   {
     "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
