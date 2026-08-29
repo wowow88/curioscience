@@ -1,13 +1,5 @@
 [
   {
-    "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-    "title_es": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-    "url": "https://arxiv.org/abs/2608.26107",
-    "published": "2026-08-28T04:00:00.000Z",
-    "date": "2026-08-28",
-    "source": "arXiv"
-  },
-  {
     "title": "The history and future of sickle cell disease",
     "title_es": "The history and future of sickle cell disease",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej0154",
@@ -24,11 +16,11 @@
     "source": "Nature"
   },
   {
-    "title": "The CNIC at the European Society of Cardiology Congress 2026",
-    "title_es": "The CNIC at the European Society of Cardiology Congress 2026",
-    "url": "https://www.cnic.es/es/node/243948",
-    "published": "2026-08-17T10:44:02.000Z",
-    "date": "2026-08-17",
+    "title": "NEJM: REACT reveals that silent atherosclerosis already affects 1 in 13 young adults aged 18 to 29 and progresses rapidly from the menopause",
+    "title_es": "NEJM: REACT reveals that silent atherosclerosis already affects 1 in 13 young adults aged 18 to 29 and progresses rapidly from the menopause",
+    "url": "https://www.cnic.es/es/node/244035",
+    "published": "2026-08-26T12:11:28.000Z",
+    "date": "2026-08-26",
     "source": "CNIC"
   },
   {
@@ -40,10 +32,10 @@
     "source": "CNIO"
   },
   {
-    "title": "Your skin chemistry may affect which mosquitoes most want to bite you",
-    "title_es": "Your skin chemistry may affect which mosquitoes most want to bite you",
-    "url": "https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite",
-    "published": "2026-08-28T15:00:00.000Z",
+    "title": "Free-falling atoms in space put a new twist on Galileo’s gravity test",
+    "title_es": "Free-falling atoms in space put a new twist on Galileo’s gravity test",
+    "url": "https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein",
+    "published": "2026-08-28T18:00:00.000Z",
     "date": "2026-08-28",
     "source": "Science News"
   },
@@ -56,27 +48,27 @@
     "source": "Science News Explores"
   },
   {
-    "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-    "title_es": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-    "published": "2026-08-28T13:54:53.000Z",
-    "date": "2026-08-28",
+    "title": "Australia’s red soil may be hiding a massive clean energy source",
+    "title_es": "Australia’s red soil may be hiding a massive clean energy source",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+    "published": "2026-08-29T10:05:43.000Z",
+    "date": "2026-08-29",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Motorboat noise stunts growth and impairs predator escape in reef fish, study shows",
-    "title_es": "Motorboat noise stunts growth and impairs predator escape in reef fish, study shows",
-    "url": "https://phys.org/news/2026-08-motorboat-noise-stunts-growth-impairs.html",
-    "published": "2026-08-28T17:20:07.000Z",
-    "date": "2026-08-28",
+    "title": "Many cities buried urban streams. Here's how to bring them back",
+    "title_es": "Many cities buried urban streams. Here's how to bring them back",
+    "url": "https://phys.org/news/2026-08-cities-urban-streams.html",
+    "published": "2026-08-29T02:40:04.000Z",
+    "date": "2026-08-29",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Smoking cessation is associated with regression of electrocardiographic left ventricular hypertrophy: A 6-year retrospective observational study",
-    "title_es": "Smoking cessation is associated with regression of electrocardiographic left ventricular hypertrophy: A 6-year retrospective observational study",
+    "title": "Factors associated with behavioral engagement and learning satisfaction in YouTube-based informal English learning among Taiwanese undergraduate students",
+    "title_es": "Factors associated with behavioral engagement and learning satisfaction in YouTube-based informal English learning among Taiwanese undergraduate students",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-08-27T14:00:00.000Z",
-    "date": "2026-08-27",
+    "published": "2026-08-28T14:00:00.000Z",
+    "date": "2026-08-28",
     "source": "PLOS ONE"
   },
   {
@@ -96,10 +88,10 @@
     "source": "SciPost News"
   },
   {
-    "title": "CERN Physicists Hunting for Pairs of Higgs Bosons",
-    "title_es": "CERN Physicists Hunting for Pairs of Higgs Bosons",
-    "url": "https://www.sci.news/physics/double-higgs-production-15025.html",
-    "published": "2026-08-28T17:19:20.000Z",
+    "title": "Paleontologists Identify New Species of Glyptodont",
+    "title_es": "Paleontologists Identify New Species of Glyptodont",
+    "url": "https://www.sci.news/paleontology/glyptotherium-deuterophractum-15026.html",
+    "published": "2026-08-28T21:44:02.000Z",
     "date": "2026-08-28",
     "source": "Sci.News"
   },
@@ -120,9 +112,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "The Sky Turns Above Paranal",
-    "title_es": "The Sky Turns Above Paranal",
-    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
+    "title": "Eclipse Pair",
+    "title_es": "Eclipse Pair",
+    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=51.3264&long=159.2782",
+    "url": "https://www.latlong.net/c/?lat=10.2603&long=151.6844",
     "date": "",
     "published": "",
     "source": "ISS Position"
