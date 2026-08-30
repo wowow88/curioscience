@@ -32,6 +32,14 @@
     "source": "CNIO"
   },
   {
+    "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+    "title_es": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+    "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+    "published": "2026-08-28T22:21:31.000Z",
+    "date": "2026-08-28",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "Free-falling atoms in space put a new twist on Galileo’s gravity test",
     "title_es": "Free-falling atoms in space put a new twist on Galileo’s gravity test",
     "url": "https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein",
@@ -48,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Australia’s red soil may be hiding a massive clean energy source",
-    "title_es": "Australia’s red soil may be hiding a massive clean energy source",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
-    "published": "2026-08-29T10:05:43.000Z",
+    "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+    "title_es": "Long-term melatonin use linked to 90% higher heart failure risk",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+    "published": "2026-08-29T10:52:20.000Z",
     "date": "2026-08-29",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Many cities buried urban streams. Here's how to bring them back",
-    "title_es": "Many cities buried urban streams. Here's how to bring them back",
-    "url": "https://phys.org/news/2026-08-cities-urban-streams.html",
-    "published": "2026-08-29T02:40:04.000Z",
-    "date": "2026-08-29",
+    "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "title_es": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "url": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html",
+    "published": "2026-08-30T10:00:58.000Z",
+    "date": "2026-08-30",
     "source": "Phys.org (Latest)"
   },
   {
@@ -104,17 +112,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "A numerical implementation of the NLO DIS structure functions in the dipole picture, by Henri Hänninen, Heikki Mäntysaari, Jani Penttala",
-    "title_es": "A numerical implementation of the NLO DIS structure functions in the dipole picture, by Henri Hänninen, Heikki Mäntysaari, Jani Penttala",
-    "url": "http://scipost.org/scipostphyscodeb.80",
+    "title": "AutoPot: Automated and massively parallelized construction of machine-learning potentials, by Max Hodapp, Guillaume Anciaux",
+    "title_es": "AutoPot: Automated and massively parallelized construction of machine-learning potentials, by Max Hodapp, Guillaume Anciaux",
+    "url": "http://scipost.org/scipostphyscodeb.79",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Eclipse Pair",
-    "title_es": "Eclipse Pair",
-    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
+    "title": "M74: A Grand Design Spiral",
+    "title_es": "M74: A Grand Design Spiral",
+    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -122,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=10.2603&long=151.6844",
+    "url": "https://www.latlong.net/c/?lat=-49.0811&long=89.3696",
     "date": "",
     "published": "",
     "source": "ISS Position"
