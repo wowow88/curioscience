@@ -1,5 +1,19 @@
 [
   {
+    "title": "September brings a dazzling Venus and a glowing Harvest Moon",
+    "title_es": "Septiembre trae una Venus deslumbrante y una Luna de Cosecha resplandeciente",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm",
+    "date": "2026-09-03",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Farming experts tout 'conscious' food systems to fix agriculture woes",
+    "title_es": "Expertos agrícolas promocionan sistemas alimentarios 'conscientes' para solucionar los problemas agrícolas",
+    "url": "https://phys.org/news/2026-09-farming-experts-tout-conscious-food.html",
+    "date": "2026-09-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Satellite images before Nepal disaster showed warning signs",
     "title_es": "Imágenes de satélite antes del desastre de Nepal mostraron señales de advertencia",
     "url": "https://www.nature.com/articles/d41586-026-02746-4",
@@ -21,6 +35,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Exploring the influencing factors of academic doctoral students’ academic innovation behavior in the context of generative artificial intelligence: Self-determination theory and motivation-opportunity-ability perspectives",
+    "title_es": "Corrección: Exploración de los factores que influyen en el comportamiento de innovación académica de los estudiantes de doctorado en el contexto de la inteligencia artificial generativa: teoría de la autodeterminación y perspectivas de motivación-oportunidad-capacidad",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-02",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Discriminative World Models for Web Agents",
+    "title_es": "Modelos mundiales discriminativos para agentes web",
+    "url": "http://arxiv.org/abs/2609.02885v1",
+    "date": "2026-09-02",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
+    "title_es": "Corrección del autor: los endocannabinoides facilitan la recompensa a través del control de ganancia retrógrada",
+    "url": "https://www.nature.com/articles/s41586-026-11104-3",
+    "date": "2026-09-02",
+    "source": "Nature"
+  },
+  {
+    "title": "European Journal of Heart Failure: A diabetes drug reduces complications after aortic valve replacement",
+    "title_es": "European Journal of Heart Failure: A diabetes drug reduces complications after aortic valve replacement",
+    "url": "https://www.cnic.es/es/node/244119",
+    "date": "2026-09-02",
+    "source": "CNIC"
+  },
+  {
+    "title": "New Hubble images reveal a bizarre decagon over Saturn’s south pole",
+    "title_es": "Nuevas imágenes del Hubble revelan un extraño decágono sobre el polo sur de Saturno",
+    "url": "https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole",
+    "date": "2026-09-02",
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: Spooky feelings may come from noises too low to hear",
+    "title_es": "Analice esto: Los sentimientos espeluznantes pueden provenir de ruidos demasiado bajos para escucharlos",
+    "url": "https://www.snexplores.org/article/spooky-feelings-infrasound",
+    "date": "2026-09-02",
+    "source": "Science News Explores"
+  },
+  {
     "title": "China’s regulatory innovation for new biomedical technologies",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.nature.com/articles/d41586-026-02737-5",
@@ -40,13 +96,6 @@
     "url": "https://phys.org/news/2026-09-japan-mountains.html",
     "date": "2026-09-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Prevalence of intestinal parasites and associated factors among HIV patients receiving antiretroviral therapy at public hospitals in North Shoa Zone, Oromia, Ethiopia: Cross-sectional study",
-    "title_es": "Prevalencia de parásitos intestinales y factores asociados entre pacientes con VIH que reciben terapia antirretroviral en hospitales públicos en la zona norte de Shoa, Oromia, Etiopía: estudio transversal",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
