@@ -1,5 +1,69 @@
 [
   {
+    "title": "Book Review: The Messy Business of Making Science Happen",
+    "title_es": "Book Review: The Messy Business of Making Science Happen",
+    "url": "https://undark.org/2026/09/04/book-review-lost-in-curiosity/",
+    "published": "2026-09-04T07:54:00.000Z",
+    "date": "2026-09-04",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents",
+    "title_es": "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents",
+    "url": "https://arxiv.org/abs/2609.02889",
+    "published": "2026-09-04T04:00:00.000Z",
+    "date": "2026-09-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+    "title_es": "Partes del cuerpo utilizadas en obras de arte del antiguo Egipto tienen un origen sorprendente",
+    "url": "https://www.nature.com/articles/d41586-026-02739-3",
+    "date": "2026-09-04",
+    "source": "Nature",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "CNIC and Fundación Ramón Areces organise the second international conference to understand the neurovascular network and prevent dementia",
+    "title_es": "CNIC and Fundación Ramón Areces organise the second international conference to understand the neurovascular network and prevent dementia",
+    "url": "https://www.cnic.es/es/node/244158",
+    "date": "2026-09-04",
+    "source": "CNIC",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "title_es": "Un trío de ciclones tropicales en el Pacífico",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
+    "date": "2026-09-04",
+    "source": "NASA (Top News)",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Molecular snapshots reveal how bacteria assemble outer membrane proteins",
+    "title_es": "Instantáneas moleculares revelan cómo las bacterias ensamblan proteínas de la membrana externa",
+    "url": "https://phys.org/news/2026-09-molecular-snapshots-reveal-bacteria-outer.html",
+    "date": "2026-09-04",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Pig kidney kept a man off dialysis for nine months in world first",
+    "title_es": "Pig kidney kept a man off dialysis for nine months in world first",
+    "url": "https://www.newscientist.com/article/2587510-pig-kidney-kept-a-man-off-dialysis-for-nine-months-in-world-first/",
+    "published": "2026-09-03T22:30:00.000Z",
+    "date": "2026-09-03",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Scientists Map Genetics of Personality across Million People",
+    "title_es": "Scientists Map Genetics of Personality across Million People",
+    "url": "https://www.sci.news/genetics/personality-genes-15041.html",
+    "published": "2026-09-03T21:15:55.000Z",
+    "date": "2026-09-03",
+    "source": "Sci.News"
+  },
+  {
     "title": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
     "title_es": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
     "url": "https://arxiv.org/abs/2609.01608",
@@ -21,6 +85,54 @@
     "url": "https://phys.org/news/2026-09-farming-experts-tout-conscious-food.html",
     "date": "2026-09-03",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+    "title_es": "Compilación mediante capacitación: convertir especificaciones del lenguaje natural en funciones neuronales locales",
+    "url": "http://arxiv.org/abs/2609.04199v1",
+    "date": "2026-09-03",
+    "source": "arXiv",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Fall Books 2026",
+    "title_es": "Libros de otoño 2026",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael0869",
+    "date": "2026-09-03",
+    "source": "Science.org",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Nueva vía para mejorar la efectividad de los antiangiogénicos y de la inmunoterapia en cáncer de mama",
+    "title_es": "Nueva vía para mejorar la efectividad de los antiangiogénicos y de la inmunoterapia en cáncer de mama",
+    "url": "https://www.cnio.es/noticias/nueva-via-para-mejorar-la-efectividad-de-los-antiangiogenicos-y-de-la-inmunoterapia-en-cancer-de-mama/",
+    "date": "2026-09-03",
+    "source": "CNIO",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "AI agents aren’t ready to replace humans in behavioral research",
+    "title_es": "Los agentes de IA no están preparados para sustituir a los humanos en la investigación del comportamiento",
+    "url": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
+    "date": "2026-09-03",
+    "source": "Science News",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Introducing a new collection: Food for Thought",
+    "title_es": "Presentamos una nueva colección: Food for Thought",
+    "url": "https://www.snexplores.org/article/introducing-food-for-thought-collection",
+    "date": "2026-09-03",
+    "source": "Science News Explores",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+    "title_es": "Científicos de la NASA descubren un patrón gigante de 10 lados en Saturno",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+    "date": "2026-09-03",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-03T00:00:00.000Z"
   },
   {
@@ -32631,8 +32743,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Exploring the influencing factors of academic doctoral students’ academic innovation behavior in the context of generative artificial intelligence: Self-determination theory and motivation-opportunity-ability perspectives",
-    "title_es": "Corrección: Exploración de los factores que influyen en el comportamiento de innovación académica de los estudiantes de doctorado en el contexto de la inteligencia artificial generativa: teoría de la autodeterminación y perspectivas de motivación-oportunidad-capacidad",
+    "title": "Time and frequency characteristics of various noninvasive heartbeat sensors",
+    "title_es": "Características de tiempo y frecuencia de varios sensores de latidos cardíacos no invasivos.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -68409,6 +68521,22 @@
     "title": "Solar Eclipses and Culture",
     "title_es": "Solar Eclipses and Culture",
     "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A phenomenological universal expression for the condensate fraction in strongly-correlated two-dimensional Bose gases, by Grigori E. Astrakharchik, I. L. Kurbakov, Norayr A. Asriyan",
+    "title_es": "A phenomenological universal expression for the condensate fraction in strongly-correlated two-dimensional Bose gases, by Grigori E. Astrakharchik, I. L. Kurbakov, Norayr A. Asriyan",
+    "url": "http://scipost.org/scipostphys.21.3.052",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
+    "title_es": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
+    "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
