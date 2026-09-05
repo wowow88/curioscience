@@ -1,5 +1,45 @@
 [
   {
+    "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
+    "date": "2026-09-05",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "title": "AI could undermine managers' judgment unless used carefully, study warns",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://phys.org/news/2026-09-ai-undermine-judgment.html",
+    "date": "2026-09-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient DNA Rewrites Story of Enigmatic ‘American Cheetah’",
+    "title_es": "Ancient DNA Rewrites Story of Enigmatic ‘American Cheetah’",
+    "url": "https://www.sci.news/paleontology/miracinonyx-trumani-15043.html",
+    "published": "2026-09-04T21:51:52.000Z",
+    "date": "2026-09-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "How worried should we be about the invasive mosquitoes in the UK?",
+    "title_es": "How worried should we be about the invasive mosquitoes in the UK?",
+    "url": "https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/",
+    "published": "2026-09-04T16:24:46.000Z",
+    "date": "2026-09-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A longer exhale may push your brain toward bolder decisions",
+    "title_es": "A longer exhale may push your brain toward bolder decisions",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+    "published": "2026-09-04T11:33:12.000Z",
+    "date": "2026-09-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Book Review: The Messy Business of Making Science Happen",
     "title_es": "Book Review: The Messy Business of Making Science Happen",
     "url": "https://undark.org/2026/09/04/book-review-lost-in-curiosity/",
@@ -45,6 +85,54 @@
     "url": "https://phys.org/news/2026-09-molecular-snapshots-reveal-bacteria-outer.html",
     "date": "2026-09-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.nature.com/articles/d41586-026-02800-1",
+    "date": "2026-09-04",
+    "source": "Nature",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Science Immunology: El secreto de los tejidos que más trabajan: una buena limpieza",
+    "title_es": "Science Immunology: El secreto de los tejidos que más trabajan: una buena limpieza",
+    "url": "https://www.cnic.es/es/noticias/science-immunology-secreto-tejidos-que-mas-trabajan-buena-limpieza",
+    "date": "2026-09-04",
+    "source": "CNIC",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-estudio-del-iac-desvela-que-las-galaxias-pueden-crecer-de-forma-explosiva\" hreflang=\"es\">Un estudio del IAC desvela que las galaxias pueden crecer de forma “explosiva”</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-estudio-del-iac-desvela-que-las-galaxias-pueden-crecer-de-forma-explosiva\" hreflang=\"es\">Un estudio del IAC desvela que las galaxias pueden crecer de forma “explosiva”</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-estudio-del-iac-desvela-que-las-galaxias-pueden-crecer-de-forma-explosiva",
+    "date": "2026-09-04",
+    "source": "IAC",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+    "date": "2026-09-04",
+    "source": "NASA (Top News)",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Was the ‘American cheetah’ a cheetah at all?",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.sciencenews.org/article/american-cheetah-puma-ancient-dna-diet",
+    "date": "2026-09-04",
+    "source": "Science News",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Wildfires can be tracked by their distinctive rumble",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.snexplores.org/article/tracking-wildfire-infrasound-rumble",
+    "date": "2026-09-04",
+    "source": "Science News Explores",
     "published": "2026-09-04T00:00:00.000Z"
   },
   {
@@ -32743,8 +32831,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Time and frequency characteristics of various noninvasive heartbeat sensors",
-    "title_es": "Características de tiempo y frecuencia de varios sensores de latidos cardíacos no invasivos.",
+    "title": "Correction: Holt-Laury as a gumball machine",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -68537,6 +68625,22 @@
     "title": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
     "title_es": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
     "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Bridging perturbation theory and simulations: Initial conditions and fast integrators for cosmological simulations, by Oliver Hahn",
+    "title_es": "Bridging perturbation theory and simulations: Initial conditions and fast integrators for cosmological simulations, by Oliver Hahn",
+    "url": "http://scipost.org/scipostphyslectnotes.134",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Chasing the Moon's Shadow",
+    "title_es": "Chasing the Moon's Shadow",
+    "url": "https://apod.nasa.gov/apod/image/2609/2026eclipse_wb57gopro_totality_h264_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
