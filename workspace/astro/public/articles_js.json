@@ -32,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-    "title_es": "NASA Ames Fire Department Aircraft Firefighting Training",
-    "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-    "published": "2026-09-04T19:51:56.000Z",
-    "date": "2026-09-04",
+    "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+    "title_es": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+    "published": "2026-09-05T04:05:00.000Z",
+    "date": "2026-09-05",
     "source": "NASA (Top News)"
   },
   {
@@ -56,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "A longer exhale may push your brain toward bolder decisions",
-    "title_es": "A longer exhale may push your brain toward bolder decisions",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-    "published": "2026-09-04T11:33:12.000Z",
-    "date": "2026-09-04",
+    "title": "A mysterious signal around Earth could be dark matter",
+    "title_es": "A mysterious signal around Earth could be dark matter",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+    "published": "2026-09-06T00:58:46.000Z",
+    "date": "2026-09-06",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "AI could undermine managers' judgment unless used carefully, study warns",
-    "title_es": "AI could undermine managers' judgment unless used carefully, study warns",
-    "url": "https://phys.org/news/2026-09-ai-undermine-judgment.html",
-    "published": "2026-09-05T08:40:02.000Z",
-    "date": "2026-09-05",
+    "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
+    "title_es": "Germany's Isar Aerospace launches rocket into orbit from Norway",
+    "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
+    "published": "2026-09-06T08:00:01.000Z",
+    "date": "2026-09-06",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "How worried should we be about the invasive mosquitoes in the UK?",
-    "title_es": "How worried should we be about the invasive mosquitoes in the UK?",
-    "url": "https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/",
-    "published": "2026-09-04T16:24:46.000Z",
-    "date": "2026-09-04",
+    "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
+    "title_es": "Fermat’s last theorem formalised by AI agents in just 11 days",
+    "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/",
+    "published": "2026-09-05T11:05:48.000Z",
+    "date": "2026-09-05",
     "source": "New Scientist"
   },
   {
@@ -112,17 +112,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Bridging perturbation theory and simulations: Initial conditions and fast integrators for cosmological simulations, by Oliver Hahn",
-    "title_es": "Bridging perturbation theory and simulations: Initial conditions and fast integrators for cosmological simulations, by Oliver Hahn",
-    "url": "http://scipost.org/scipostphyslectnotes.134",
+    "title": "Les Houches study on inclusive jet production at NNLO+NNLL, by Terry Generet, Joey Huston, Kyle Lee, Ian Moult, Rene Poncelet, Xiaoyuan Zhang",
+    "title_es": "Les Houches study on inclusive jet production at NNLO+NNLL, by Terry Generet, Joey Huston, Kyle Lee, Ian Moult, Rene Poncelet, Xiaoyuan Zhang",
+    "url": "http://scipost.org/scipostphyscommrep.29",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Chasing the Moon's Shadow",
-    "title_es": "Chasing the Moon's Shadow",
-    "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg",
+    "title": "Pluto in Enhanced Color",
+    "title_es": "Pluto in Enhanced Color",
+    "url": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +130,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=0.9738&long=141.5375",
+    "url": "https://www.latlong.net/c/?lat=-51.5970&long=37.6110",
     "date": "",
     "published": "",
     "source": "ISS Position"

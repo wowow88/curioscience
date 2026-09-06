@@ -1,5 +1,29 @@
 [
   {
+    "title": "A mysterious signal around Earth could be dark matter",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+    "date": "2026-09-06",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
+    "date": "2026-09-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
+    "title_es": "Fermat’s last theorem formalised by AI agents in just 11 days",
+    "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/",
+    "published": "2026-09-05T11:05:48.000Z",
+    "date": "2026-09-05",
+    "source": "New Scientist"
+  },
+  {
     "title": "Life uses 4 DNA letters. Scientists just made 8 work",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
@@ -13,6 +37,14 @@
     "url": "https://phys.org/news/2026-09-ai-undermine-judgment.html",
     "date": "2026-09-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+    "date": "2026-09-05",
+    "source": "NASA (Top News)",
     "published": "2026-09-05T00:00:00.000Z"
   },
   {
@@ -177,7 +209,7 @@
   },
   {
     "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-    "title_es": "Compilación mediante capacitación: convertir especificaciones del lenguaje natural en funciones neuronales locales",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "http://arxiv.org/abs/2609.04199v1",
     "date": "2026-09-03",
     "source": "arXiv",
@@ -185,7 +217,7 @@
   },
   {
     "title": "Fall Books 2026",
-    "title_es": "Libros de otoño 2026",
+    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael0869",
     "date": "2026-09-03",
     "source": "Science.org",
@@ -68641,6 +68673,22 @@
     "title": "Chasing the Moon's Shadow",
     "title_es": "Chasing the Moon's Shadow",
     "url": "https://apod.nasa.gov/apod/image/2609/2026eclipse_wb57gopro_totality_h264_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Les Houches study on inclusive jet production at NNLO+NNLL, by Terry Generet, Joey Huston, Kyle Lee, Ian Moult, Rene Poncelet, Xiaoyuan Zhang",
+    "title_es": "Les Houches study on inclusive jet production at NNLO+NNLL, by Terry Generet, Joey Huston, Kyle Lee, Ian Moult, Rene Poncelet, Xiaoyuan Zhang",
+    "url": "http://scipost.org/scipostphyscommrep.29",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Pluto in Enhanced Color",
+    "title_es": "Pluto in Enhanced Color",
+    "url": "https://apod.nasa.gov/apod/image/2609/plutoenhancedhires_newhorizons_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
