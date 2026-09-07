@@ -1,5 +1,53 @@
 [
   {
+    "title": "Laughter therapy may help people with chronic lung disease",
+    "title_es": "Laughter therapy may help people with chronic lung disease",
+    "url": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/",
+    "published": "2026-09-07T04:01:00.000Z",
+    "date": "2026-09-07",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Embodied Multimedia: A Tutorial",
+    "title_es": "Embodied Multimedia: A Tutorial",
+    "url": "https://arxiv.org/abs/2609.04204",
+    "published": "2026-09-07T04:00:00.000Z",
+    "date": "2026-09-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Isaac Newton’s remarkable year — and the plagiarism accusations that followed",
+    "title_es": "El año extraordinario de Isaac Newton y las acusaciones de plagio que siguieron",
+    "url": "https://www.nature.com/articles/d41586-026-02808-7",
+    "date": "2026-09-07",
+    "source": "Nature",
+    "published": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+    "title_es": "APOD: 7 de septiembre de 2026 – La nebulosa del Pelícano en gas, polvo y estrellas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+    "date": "2026-09-07",
+    "source": "NASA (Top News)",
+    "published": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "title": "Treat education as infrastructure during wartime, say researchers in Ukraine",
+    "title_es": "Trate la educación como infraestructura durante tiempos de guerra, dicen investigadores en Ucrania",
+    "url": "https://phys.org/news/2026-09-infrastructure-wartime-ukraine.html",
+    "date": "2026-09-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "title": "BepiColombo Begins Final Approach to Mercury",
+    "title_es": "BepiColombo Begins Final Approach to Mercury",
+    "url": "https://www.sci.news/space/bepicolombo-mercury-arrival-15044.html",
+    "published": "2026-09-06T22:52:03.000Z",
+    "date": "2026-09-06",
+    "source": "Sci.News"
+  },
+  {
     "title": "A mysterious signal around Earth could be dark matter",
     "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
@@ -13,6 +61,14 @@
     "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
     "date": "2026-09-06",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "title": "Popular brain supplement linked to shorter lifespan in men",
+    "title_es": "Suplemento cerebral popular relacionado con una vida más corta en los hombres",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+    "date": "2026-09-06",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-06T00:00:00.000Z"
   },
   {
@@ -153,7 +209,7 @@
   },
   {
     "title": "Was the ‘American cheetah’ a cheetah at all?",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "¿Era el “guepardo americano” un guepardo?",
     "url": "https://www.sciencenews.org/article/american-cheetah-puma-ancient-dna-diet",
     "date": "2026-09-04",
     "source": "Science News",
@@ -161,10 +217,18 @@
   },
   {
     "title": "Wildfires can be tracked by their distinctive rumble",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "Los incendios forestales se pueden rastrear por su distintivo estruendo",
     "url": "https://www.snexplores.org/article/tracking-wildfire-infrasound-rumble",
     "date": "2026-09-04",
     "source": "Science News Explores",
+    "published": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+    "title_es": "Diffusion TV: Experimentar modelos de difusión a través de una interacción tangible y encarnada",
+    "url": "http://arxiv.org/abs/2609.05404v1",
+    "date": "2026-09-04",
+    "source": "arXiv",
     "published": "2026-09-04T00:00:00.000Z"
   },
   {
@@ -217,7 +281,7 @@
   },
   {
     "title": "Fall Books 2026",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "Libros de otoño 2026",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael0869",
     "date": "2026-09-03",
     "source": "Science.org",
@@ -32864,7 +32928,7 @@
   },
   {
     "title": "Correction: Holt-Laury as a gumball machine",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "Corrección: Holt-Laury como una máquina de chicles",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -68689,6 +68753,22 @@
     "title": "Pluto in Enhanced Color",
     "title_es": "Pluto in Enhanced Color",
     "url": "https://apod.nasa.gov/apod/image/2609/plutoenhancedhires_newhorizons_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "FewBodyToolkit.jl: A Julia package for solving quantum few-body problems, by Lucas Happ",
+    "title_es": "FewBodyToolkit.jl: A Julia package for solving quantum few-body problems, by Lucas Happ",
+    "url": "http://scipost.org/scipostphyscodeb.81",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Pelican Nebula in Gas, Dust, and Stars",
+    "title_es": "The Pelican Nebula in Gas, Dust, and Stars",
+    "url": "https://apod.nasa.gov/apod/image/2609/pelican_killion_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
