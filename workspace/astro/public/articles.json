@@ -1,5 +1,61 @@
 [
   {
+    "title": "Cracking the ageing code",
+    "title_es": "Cracking the ageing code",
+    "url": "https://www.newscientist.com/article/2587740-cracking-the-ageing-code/",
+    "published": "2026-09-10T08:13:33.000Z",
+    "date": "2026-09-10",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Spectral origin of the topological gap exponent d + {\\eta}: mechanism, kernel, decomposition, and scope",
+    "title_es": "Spectral origin of the topological gap exponent d + {\\eta}: mechanism, kernel, decomposition, and scope",
+    "url": "https://arxiv.org/abs/2609.09159",
+    "published": "2026-09-10T04:00:00.000Z",
+    "date": "2026-09-10",
+    "source": "arXiv"
+  },
+  {
+    "title": "Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata",
+    "title_es": "Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata",
+    "url": "https://www.cnio.es/noticias/desvelan-los-procesos-que-danan-el-adn-en-la-mayoria-de-los-canceres-de-prostata/",
+    "date": "2026-09-10",
+    "source": "CNIO",
+    "published": "2026-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+    "title_es": "APOD: 10 de septiembre de 2026 – LDN 1295: La Nebulosa de la Jirafa",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
+    "date": "2026-09-10",
+    "source": "NASA (Top News)",
+    "published": "2026-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "AI pinpoints when fish reach their thermal limit",
+    "title_es": "La IA detecta cuándo los peces alcanzan su límite térmico",
+    "url": "https://phys.org/news/2026-09-ai-fish-thermal-limit.html",
+    "date": "2026-09-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "Distant sensors announced a fearsome tsunami’s birth",
+    "title_es": "Distant sensors announced a fearsome tsunami’s birth",
+    "url": "https://www.nature.com/articles/d41586-026-02809-6",
+    "published": "2026-09-10T00:00:00.000Z",
+    "date": "2026-09-10",
+    "source": "Nature"
+  },
+  {
+    "title": "Paleontologists Discover First-Ever Adult Tyrannosaurus rex Trackway",
+    "title_es": "Paleontologists Discover First-Ever Adult Tyrannosaurus rex Trackway",
+    "url": "https://www.sci.news/paleontology/adult-tyrannosaurus-rex-trackway-15056.html",
+    "published": "2026-09-09T23:04:19.000Z",
+    "date": "2026-09-09",
+    "source": "Sci.News"
+  },
+  {
     "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
     "title_es": "Por qué los súper divertidos premios Ig Nobel aportan un gran valor a la ciencia",
     "url": "https://www.nature.com/articles/d41586-026-02793-x",
@@ -13,6 +69,38 @@
     "url": "https://phys.org/news/2026-09-families-kids-falling-globe-scores.html",
     "date": "2026-09-09",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "title_es": "Show-Harness: Sólo un agente de VLM puede jugar con robots",
+    "url": "http://arxiv.org/abs/2609.10522v1",
+    "date": "2026-09-09",
+    "source": "arXiv",
+    "published": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "AI may have solved one of math’s biggest puzzles, raising controversy",
+    "title_es": "La IA puede haber resuelto uno de los mayores acertijos de las matemáticas, lo que genera controversia",
+    "url": "https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai",
+    "date": "2026-09-09",
+    "source": "Science News",
+    "published": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "Uh oh! AI agents broke free and went on a hacking spree",
+    "title_es": "¡Oh, oh! Los agentes de IA se liberaron y se lanzaron a una ola de piratería",
+    "url": "https://www.snexplores.org/article/ai-agents-hacking-spree-openai",
+    "date": "2026-09-09",
+    "source": "Science News Explores",
+    "published": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists find a bone-building switch that could fight osteoporosis",
+    "title_es": "Los científicos encuentran un interruptor de formación de huesos que podría combatir la osteoporosis",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+    "date": "2026-09-09",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-09T00:00:00.000Z"
   },
   {
@@ -33055,8 +33143,8 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Time and spatial trends in landing per unit of effort as support to fisheries management in a multi-gear coastal fishery",
-    "title_es": "Corrección: Tendencias temporales y espaciales en los desembarques por unidad de esfuerzo como apoyo a la ordenación pesquera en una pesquería costera con artes múltiples",
+    "title": "Correction: Global burden and future projections of non-communicable diseases (2000–2050): Progress toward SDG 3.4 and disparities across regions and risk factors",
+    "title_es": "Corrección: Carga global y proyecciones futuras de enfermedades no transmisibles (2000-2050): progreso hacia el ODS 3.4 y disparidades entre regiones y factores de riesgo",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
     "source": "PLOS ONE",
@@ -68929,6 +69017,22 @@
     "title": "Witness XZ Andromedae Wink",
     "title_es": "Witness XZ Andromedae Wink",
     "url": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Full counting statistics in the sine-Gordon model, by Botond C. Nagy, Márton Kormos, Gábor Takács",
+    "title_es": "Full counting statistics in the sine-Gordon model, by Botond C. Nagy, Márton Kormos, Gábor Takács",
+    "url": "http://scipost.org/scipostphys.21.3.061",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "LDN 1295: The Giraffe Nebula",
+    "title_es": "LDN 1295: The Giraffe Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2609/ldn1295_giraffe_1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

@@ -1,5 +1,26 @@
 [
   {
+    "title": "Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata",
+    "title_es": "Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata",
+    "url": "https://www.cnio.es/noticias/desvelan-los-procesos-que-danan-el-adn-en-la-mayoria-de-los-canceres-de-prostata/",
+    "date": "2026-09-10",
+    "source": "CNIO"
+  },
+  {
+    "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+    "title_es": "APOD: 10 de septiembre de 2026 – LDN 1295: La Nebulosa de la Jirafa",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
+    "date": "2026-09-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "AI pinpoints when fish reach their thermal limit",
+    "title_es": "La IA detecta cuándo los peces alcanzan su límite térmico",
+    "url": "https://phys.org/news/2026-09-ai-fish-thermal-limit.html",
+    "date": "2026-09-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
     "title_es": "Por qué los súper divertidos premios Ig Nobel aportan un gran valor a la ciencia",
     "url": "https://www.nature.com/articles/d41586-026-02793-x",
@@ -12,6 +33,41 @@
     "url": "https://phys.org/news/2026-09-families-kids-falling-globe-scores.html",
     "date": "2026-09-09",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Global burden and future projections of non-communicable diseases (2000–2050): Progress toward SDG 3.4 and disparities across regions and risk factors",
+    "title_es": "Corrección: Carga global y proyecciones futuras de enfermedades no transmisibles (2000-2050): progreso hacia el ODS 3.4 y disparidades entre regiones y factores de riesgo",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "title_es": "Show-Harness: Sólo un agente de VLM puede jugar con robots",
+    "url": "http://arxiv.org/abs/2609.10522v1",
+    "date": "2026-09-09",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI may have solved one of math’s biggest puzzles, raising controversy",
+    "title_es": "La IA puede haber resuelto uno de los mayores acertijos de las matemáticas, lo que genera controversia",
+    "url": "https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai",
+    "date": "2026-09-09",
+    "source": "Science News"
+  },
+  {
+    "title": "Uh oh! AI agents broke free and went on a hacking spree",
+    "title_es": "¡Oh, oh! Los agentes de IA se liberaron y se lanzaron a una ola de piratería",
+    "url": "https://www.snexplores.org/article/ai-agents-hacking-spree-openai",
+    "date": "2026-09-09",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists find a bone-building switch that could fight osteoporosis",
+    "title_es": "Los científicos encuentran un interruptor de formación de huesos que podría combatir la osteoporosis",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+    "date": "2026-09-09",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Put patients at the centre of medical AI governance",
@@ -33,13 +89,6 @@
     "url": "https://phys.org/news/2026-09-kauai-tornado-hurricane-lowell-nears.html",
     "date": "2026-09-08",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Time and spatial trends in landing per unit of effort as support to fisheries management in a multi-gear coastal fishery",
-    "title_es": "Corrección: Tendencias temporales y espaciales en los desembarques por unidad de esfuerzo como apoyo a la ordenación pesquera en una pesquería costera con artes múltiples",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-08",
-    "source": "PLOS ONE"
   },
   {
     "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
