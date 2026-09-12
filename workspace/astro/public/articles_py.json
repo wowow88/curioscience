@@ -1,5 +1,19 @@
 [
   {
+    "title": "The secret to longer life may be hidden in bat DNA",
+    "title_es": "El secreto para una vida más larga puede estar escondido en el ADN de los murciélagos",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+    "date": "2026-09-12",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+    "title_es": "A medida que crece la resistencia a los antibióticos, los investigadores recurren al cobre para combatir las infecciones",
+    "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+    "date": "2026-09-12",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
     "title_es": "APOD: 11 de septiembre de 2026 – M83: El molinete del sur",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
@@ -12,6 +26,55 @@
     "url": "https://phys.org/news/2026-09-indonesia-baby-orangutans-allegedly-trafficked.html",
     "date": "2026-09-11",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
+    "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-11",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+    "title_es": "Charla informativa: El mito del mechero Bunsen que resulta ser solo aire caliente",
+    "url": "https://www.nature.com/articles/d41586-026-02893-8",
+    "date": "2026-09-11",
+    "source": "Nature"
+  },
+  {
+    "title": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
+    "title_es": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
+    "url": "https://www.cnic.es/es/node/244228",
+    "date": "2026-09-11",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/relaciones-de-temperatura-electronica-con-desired-en-regiones-de-formacion-estelar-del-universo-local\" hreflang=\"es\">Relaciones de temperatura electrónica con DESIRED en regiones de formación estelar del Universo local</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/relaciones-de-temperatura-electronica-con-desired-en-regiones-de-formacion-estelar-del-universo-local\" hreflang=\"es\">Relaciones de temperatura electrónica con DESIRED en regiones de formación estelar del Universo local</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/relaciones-de-temperatura-electronica-con-desired-en-regiones-de-formacion-estelar-del-universo-local",
+    "date": "2026-09-11",
+    "source": "IAC"
+  },
+  {
+    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "title_es": "Ayude a refinar los datos de los telescopios espaciales con Artifact InSPECtor",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "date": "2026-09-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "A human set a new mathematical record. Then AI came for it",
+    "title_es": "Un humano estableció un nuevo récord matemático. Entonces la IA vino a por ello",
+    "url": "https://www.sciencenews.org/article/human-math-record-twin-primes-openai",
+    "date": "2026-09-11",
+    "source": "Science News"
+  },
+  {
+    "title": "Plasma whirlpools on the sun could trigger solar flares",
+    "title_es": "Los remolinos de plasma en el Sol podrían provocar erupciones solares",
+    "url": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
+    "date": "2026-09-11",
+    "source": "Science News Explores"
   },
   {
     "title": "Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata",
@@ -35,22 +98,15 @@
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Mutations in the N-glycan branching enzyme MGAT1 promote invasiveness and EGF-stimulated proliferation and adhesion in neuroblastoma cells",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-10",
-    "source": "PLOS ONE"
-  },
-  {
     "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "GPU-CFR: Minimización del arrepentimiento contrafactual 80 veces más rápida mediante la compilación del juego en flujo de datos estático y reproducción de gráficos CUDA",
     "url": "http://arxiv.org/abs/2609.11923v1",
     "date": "2026-09-10",
     "source": "arXiv"
   },
   {
     "title": "Save the bogs, for peat’s sake",
-    "title_es": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_es": "Salva los pantanos, por amor a la turba",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei4007",
     "date": "2026-09-10",
     "source": "Science.org"

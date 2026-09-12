@@ -1,13 +1,5 @@
 [
   {
-    "title": "The Internet of Collaborating Things: Agentic Edge AI for Autonomous Cross-Domain Collaboration",
-    "title_es": "The Internet of Collaborating Things: Agentic Edge AI for Autonomous Cross-Domain Collaboration",
-    "url": "https://arxiv.org/abs/2609.10542",
-    "published": "2026-09-11T04:00:00.000Z",
-    "date": "2026-09-11",
-    "source": "arXiv"
-  },
-  {
     "title": "Save the bogs, for peat’s sake",
     "title_es": "Save the bogs, for peat’s sake",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei4007",
@@ -16,19 +8,19 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
-    "title_es": "Author Correction: The molecular basis of force selectivity by PIEZO2",
-    "url": "https://www.nature.com/articles/s41586-026-11079-1",
-    "published": "2026-09-10T00:00:00.000Z",
-    "date": "2026-09-10",
+    "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+    "title_es": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+    "url": "https://www.nature.com/articles/d41586-026-02893-8",
+    "published": "2026-09-11T00:00:00.000Z",
+    "date": "2026-09-11",
     "source": "Nature"
   },
   {
-    "title": "Circulation: A study led by Spanish scientists identifies dilated cardiomyopathy patients at greater risk of sudden death and arrhythmias[",
-    "title_es": "Circulation: A study led by Spanish scientists identifies dilated cardiomyopathy patients at greater risk of sudden death and arrhythmias[",
-    "url": "https://www.cnic.es/es/node/244220",
-    "published": "2026-09-10T12:19:03.000Z",
-    "date": "2026-09-10",
+    "title": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
+    "title_es": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
+    "url": "https://www.cnic.es/es/node/244228",
+    "published": "2026-09-11T12:08:10.000Z",
+    "date": "2026-09-11",
     "source": "CNIC"
   },
   {
@@ -40,58 +32,58 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-    "title_es": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-    "published": "2026-09-11T04:05:00.000Z",
+    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "title_es": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "published": "2026-09-11T19:48:09.000Z",
     "date": "2026-09-11",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Climate change is shifting malaria hot spots in Africa",
-    "title_es": "Climate change is shifting malaria hot spots in Africa",
-    "url": "https://www.sciencenews.org/article/climate-change-shifting-malaria-africa",
-    "published": "2026-09-10T19:00:00.000Z",
-    "date": "2026-09-10",
+    "title": "A human set a new mathematical record. Then AI came for it",
+    "title_es": "A human set a new mathematical record. Then AI came for it",
+    "url": "https://www.sciencenews.org/article/human-math-record-twin-primes-openai",
+    "published": "2026-09-11T19:00:00.000Z",
+    "date": "2026-09-11",
     "source": "Science News"
   },
   {
-    "title": "Spying on the secret lives of boobies",
-    "title_es": "Spying on the secret lives of boobies",
-    "url": "https://www.snexplores.org/article/tagging-red-footed-boobies-seabird-lives",
-    "published": "2026-09-10T10:30:00.000Z",
-    "date": "2026-09-10",
+    "title": "Plasma whirlpools on the sun could trigger solar flares",
+    "title_es": "Plasma whirlpools on the sun could trigger solar flares",
+    "url": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
+    "published": "2026-09-11T10:30:00.000Z",
+    "date": "2026-09-11",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists find a bone-building switch that could fight osteoporosis",
-    "title_es": "Scientists find a bone-building switch that could fight osteoporosis",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-    "published": "2026-09-09T13:52:53.000Z",
-    "date": "2026-09-09",
+    "title": "Wasps are disappearing this summer, and scientists are worried",
+    "title_es": "Wasps are disappearing this summer, and scientists are worried",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+    "published": "2026-09-11T11:38:35.000Z",
+    "date": "2026-09-11",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Indonesia seeks to bring back baby orangutans allegedly trafficked to India",
-    "title_es": "Indonesia seeks to bring back baby orangutans allegedly trafficked to India",
-    "url": "https://phys.org/news/2026-09-indonesia-baby-orangutans-allegedly-trafficked.html",
-    "published": "2026-09-11T08:10:01.000Z",
-    "date": "2026-09-11",
+    "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+    "title_es": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+    "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+    "published": "2026-09-12T02:40:02.000Z",
+    "date": "2026-09-12",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Mutations in the N-glycan branching enzyme MGAT1 promote invasiveness and EGF-stimulated proliferation and adhesion in neuroblastoma cells",
-    "title_es": "Mutations in the N-glycan branching enzyme MGAT1 promote invasiveness and EGF-stimulated proliferation and adhesion in neuroblastoma cells",
+    "title": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
+    "title_es": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-09-10T14:00:00.000Z",
-    "date": "2026-09-10",
+    "published": "2026-09-11T14:00:00.000Z",
+    "date": "2026-09-11",
     "source": "PLOS ONE"
   },
   {
-    "title": "How to build powerful microhabits for your wellbeing – and keep them",
-    "title_es": "How to build powerful microhabits for your wellbeing – and keep them",
-    "url": "https://www.newscientist.com/article/2588850-how-to-build-powerful-microhabits-for-your-wellbeing-and-keep-them/",
-    "published": "2026-09-11T08:00:00.000Z",
+    "title": "SpaceXAI data centre may have led to Mississippi air pollution spike",
+    "title_es": "SpaceXAI data centre may have led to Mississippi air pollution spike",
+    "url": "https://www.newscientist.com/article/2588786-spacexai-data-centre-may-have-led-to-mississippi-air-pollution-spike/",
+    "published": "2026-09-11T18:00:00.000Z",
     "date": "2026-09-11",
     "source": "New Scientist"
   },
@@ -104,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Exceptionally Preserved Bird Feathers Found in 66-Million-Year-Old Dinosaur Coprolite",
-    "title_es": "Exceptionally Preserved Bird Feathers Found in 66-Million-Year-Old Dinosaur Coprolite",
-    "url": "https://www.sci.news/paleontology/hesperornithiform-bird-feathers-dinosaur-coprolite-15058.html",
-    "published": "2026-09-10T22:08:07.000Z",
-    "date": "2026-09-10",
+    "title": "Ancient Alligator Relative Lived Right After Dinosaur-Killing Asteroid",
+    "title_es": "Ancient Alligator Relative Lived Right After Dinosaur-Killing Asteroid",
+    "url": "https://www.sci.news/paleontology/mandrasuchus-milleri-15060.html",
+    "published": "2026-09-11T23:14:40.000Z",
+    "date": "2026-09-11",
     "source": "Sci.News"
   },
   {
@@ -120,12 +112,20 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Test anxiety can predict exam scores depending on how missing data and influential data points are treated, by Dylan Molenaar",
-    "title_es": "Test anxiety can predict exam scores depending on how missing data and influential data points are treated, by Dylan Molenaar",
-    "url": "http://scipost.org/jrobustrep.6-rr1",
+    "title": "Thermodynamic coprocessor for linear operations with input-size-independent calculation time based on open quantum system, by Ivan V. Vovchenko, Alexander A. Zyablovsky, Alexander A. Pukhov, Evgeny S. Andrianov",
+    "title_es": "Thermodynamic coprocessor for linear operations with input-size-independent calculation time based on open quantum system, by Ivan V. Vovchenko, Alexander A. Zyablovsky, Alexander A. Pukhov, Evgeny S. Andrianov",
+    "url": "http://scipost.org/scipostphyscore.9.3.056",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Apollo 11: Catching Some Sun",
+    "title_es": "Apollo 11: Catching Some Sun",
+    "url": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   },
   {
     "title": "Derivada de x^2: 2 x",
