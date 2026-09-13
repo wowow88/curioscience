@@ -1,5 +1,26 @@
 [
   {
+    "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+    "title_es": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+    "date": "2026-09-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
+    "title_es": "Venus’s pale yellow clouds may hide something surprisingly dark",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+    "date": "2026-09-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+    "title_es": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+    "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+    "date": "2026-09-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "The secret to longer life may be hidden in bat DNA",
     "title_es": "El secreto para una vida más larga puede estar escondido en el ADN de los murciélagos",
     "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
@@ -29,7 +50,7 @@
   },
   {
     "title": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
-    "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
+    "title_es": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2026-09-11",
     "source": "PLOS ONE"
@@ -64,14 +85,14 @@
   },
   {
     "title": "A human set a new mathematical record. Then AI came for it",
-    "title_es": "Un humano estableció un nuevo récord matemático. Entonces la IA vino a por ello",
+    "title_es": "A human set a new mathematical record. Then AI came for it",
     "url": "https://www.sciencenews.org/article/human-math-record-twin-primes-openai",
     "date": "2026-09-11",
     "source": "Science News"
   },
   {
     "title": "Plasma whirlpools on the sun could trigger solar flares",
-    "title_es": "Los remolinos de plasma en el Sol podrían provocar erupciones solares",
+    "title_es": "Plasma whirlpools on the sun could trigger solar flares",
     "url": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
     "date": "2026-09-11",
     "source": "Science News Explores"
@@ -99,14 +120,14 @@
   },
   {
     "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-    "title_es": "GPU-CFR: Minimización del arrepentimiento contrafactual 80 veces más rápida mediante la compilación del juego en flujo de datos estático y reproducción de gráficos CUDA",
+    "title_es": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
     "url": "http://arxiv.org/abs/2609.11923v1",
     "date": "2026-09-10",
     "source": "arXiv"
   },
   {
     "title": "Save the bogs, for peat’s sake",
-    "title_es": "Salva los pantanos, por amor a la turba",
+    "title_es": "Save the bogs, for peat’s sake",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei4007",
     "date": "2026-09-10",
     "source": "Science.org"

@@ -1,5 +1,29 @@
 [
   {
+    "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+    "title_es": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+    "date": "2026-09-13",
+    "source": "NASA (Top News)",
+    "published": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
+    "title_es": "Venus’s pale yellow clouds may hide something surprisingly dark",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+    "date": "2026-09-13",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+    "title_es": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+    "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+    "date": "2026-09-13",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-13T00:00:00.000Z"
+  },
+  {
     "title": "The secret to longer life may be hidden in bat DNA",
     "title_es": "El secreto para una vida más larga puede estar escondido en el ADN de los murciélagos",
     "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
@@ -69241,6 +69265,14 @@
     "title": "Apollo 11: Catching Some Sun",
     "title_es": "Apollo 11: Catching Some Sun",
     "url": "https://apod.nasa.gov/apod/image/2609/as11-40-5872hr1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Comet NEOWISE Rising over the Adriatic Sea",
+    "title_es": "Comet NEOWISE Rising over the Adriatic Sea",
+    "url": "https://apod.nasa.gov/apod/image/2609/noctilucentneowise_girotti.mp4",
     "date": "",
     "published": "",
     "source": "NASA APOD"
