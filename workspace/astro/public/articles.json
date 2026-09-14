@@ -1,5 +1,61 @@
 [
   {
+    "title": "The cosmic coincidences that made our universe – and us – possible",
+    "title_es": "The cosmic coincidences that made our universe – and us – possible",
+    "url": "https://www.newscientist.com/article/2588854-the-cosmic-coincidences-that-made-our-universe-and-us-possible/",
+    "published": "2026-09-14T08:00:00.000Z",
+    "date": "2026-09-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "MaRDMO: FAIR Documentation of In-Silico Research",
+    "title_es": "MaRDMO: FAIR Documentation of In-Silico Research",
+    "url": "https://arxiv.org/abs/2609.11931",
+    "published": "2026-09-14T04:00:00.000Z",
+    "date": "2026-09-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+    "title_es": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+    "url": "https://www.nature.com/articles/d41586-026-02852-3",
+    "date": "2026-09-14",
+    "source": "Nature",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "JAHA: Two novel blood biomarkers predict subclinical atherosclerosis and cardiovascular events",
+    "title_es": "JAHA: Two novel blood biomarkers predict subclinical atherosclerosis and cardiovascular events",
+    "url": "https://www.cnic.es/es/node/244248",
+    "date": "2026-09-14",
+    "source": "CNIC",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+    "title_es": "APOD: 2026 September 14 – Where Your Elements Came From",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+    "date": "2026-09-14",
+    "source": "NASA (Top News)",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "Monkeys might share our instincts for math",
+    "title_es": "Monkeys might share our instincts for math",
+    "url": "https://www.snexplores.org/article/monkeys-understand-math-shapes",
+    "date": "2026-09-14",
+    "source": "Science News Explores",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "Improved climate forecasts alone won't protect Africa's poorest farmers",
+    "title_es": "Improved climate forecasts alone won't protect Africa's poorest farmers",
+    "url": "https://phys.org/news/2026-09-climate-wont-africa-poorest-farmers.html",
+    "date": "2026-09-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
     "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
     "title_es": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
@@ -21,6 +77,14 @@
     "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
     "date": "2026-09-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "title_es": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+    "date": "2026-09-13",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-13T00:00:00.000Z"
   },
   {
@@ -149,6 +213,14 @@
     "url": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
     "date": "2026-09-11",
     "source": "Science News Explores",
+    "published": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+    "title_es": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+    "url": "http://arxiv.org/abs/2609.13134v1",
+    "date": "2026-09-11",
+    "source": "arXiv",
     "published": "2026-09-11T00:00:00.000Z"
   },
   {
@@ -69273,6 +69345,22 @@
     "title": "Comet NEOWISE Rising over the Adriatic Sea",
     "title_es": "Comet NEOWISE Rising over the Adriatic Sea",
     "url": "https://apod.nasa.gov/apod/image/2609/noctilucentneowise_girotti.mp4",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A formal Bethe/gauge correspondence for classical gauge groups, by Xiang-Mao Ding, Ting Zhang",
+    "title_es": "A formal Bethe/gauge correspondence for classical gauge groups, by Xiang-Mao Ding, Ting Zhang",
+    "url": "http://scipost.org/scipostphyscore.9.3.057",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Where Your Elements Came From",
+    "title_es": "Where Your Elements Came From",
+    "url": "https://apod.nasa.gov/apod/image/2609/elementorigins2_svs_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"

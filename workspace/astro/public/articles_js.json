@@ -1,5 +1,13 @@
 [
   {
+    "title": "MaRDMO: FAIR Documentation of In-Silico Research",
+    "title_es": "MaRDMO: FAIR Documentation of In-Silico Research",
+    "url": "https://arxiv.org/abs/2609.11931",
+    "published": "2026-09-14T04:00:00.000Z",
+    "date": "2026-09-14",
+    "source": "arXiv"
+  },
+  {
     "title": "Save the bogs, for peat’s sake",
     "title_es": "Save the bogs, for peat’s sake",
     "url": "https://www.science.org/doi/abs/10.1126/science.aei4007",
@@ -8,19 +16,19 @@
     "source": "Science.org"
   },
   {
-    "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-    "title_es": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-    "url": "https://www.nature.com/articles/d41586-026-02893-8",
-    "published": "2026-09-11T00:00:00.000Z",
-    "date": "2026-09-11",
+    "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+    "title_es": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+    "url": "https://www.nature.com/articles/d41586-026-02852-3",
+    "published": "2026-09-14T00:00:00.000Z",
+    "date": "2026-09-14",
     "source": "Nature"
   },
   {
-    "title": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
-    "title_es": "Nature Medicine: Study establishes the role of new treatments for transthyretin amyloid cardiomyopathy",
-    "url": "https://www.cnic.es/es/node/244228",
-    "published": "2026-09-11T12:08:10.000Z",
-    "date": "2026-09-11",
+    "title": "JAHA: Two novel blood biomarkers predict subclinical atherosclerosis and cardiovascular events",
+    "title_es": "JAHA: Two novel blood biomarkers predict subclinical atherosclerosis and cardiovascular events",
+    "url": "https://www.cnic.es/es/node/244248",
+    "published": "2026-09-14T08:50:51.000Z",
+    "date": "2026-09-14",
     "source": "CNIC"
   },
   {
@@ -32,11 +40,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-    "title_es": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-    "published": "2026-09-13T04:05:00.000Z",
-    "date": "2026-09-13",
+    "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+    "title_es": "APOD: 2026 September 14 – Where Your Elements Came From",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+    "published": "2026-09-14T04:05:00.000Z",
+    "date": "2026-09-14",
     "source": "NASA (Top News)"
   },
   {
@@ -48,27 +56,27 @@
     "source": "Science News"
   },
   {
-    "title": "Plasma whirlpools on the sun could trigger solar flares",
-    "title_es": "Plasma whirlpools on the sun could trigger solar flares",
-    "url": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
-    "published": "2026-09-11T10:30:00.000Z",
-    "date": "2026-09-11",
+    "title": "Monkeys might share our instincts for math",
+    "title_es": "Monkeys might share our instincts for math",
+    "url": "https://www.snexplores.org/article/monkeys-understand-math-shapes",
+    "published": "2026-09-14T10:30:00.000Z",
+    "date": "2026-09-14",
     "source": "Science News Explores"
   },
   {
-    "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
-    "title_es": "Venus’s pale yellow clouds may hide something surprisingly dark",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
-    "published": "2026-09-13T03:44:09.000Z",
+    "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "title_es": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+    "published": "2026-09-13T10:46:19.000Z",
     "date": "2026-09-13",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
-    "title_es": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
-    "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
-    "published": "2026-09-13T08:13:44.000Z",
-    "date": "2026-09-13",
+    "title": "Improved climate forecasts alone won't protect Africa's poorest farmers",
+    "title_es": "Improved climate forecasts alone won't protect Africa's poorest farmers",
+    "url": "https://phys.org/news/2026-09-climate-wont-africa-poorest-farmers.html",
+    "published": "2026-09-14T09:00:01.000Z",
+    "date": "2026-09-14",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +88,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "SpaceXAI data centre may have led to Mississippi air pollution spike",
-    "title_es": "SpaceXAI data centre may have led to Mississippi air pollution spike",
-    "url": "https://www.newscientist.com/article/2588786-spacexai-data-centre-may-have-led-to-mississippi-air-pollution-spike/",
-    "published": "2026-09-11T18:00:00.000Z",
-    "date": "2026-09-11",
+    "title": "The cosmic coincidences that made our universe – and us – possible",
+    "title_es": "The cosmic coincidences that made our universe – and us – possible",
+    "url": "https://www.newscientist.com/article/2588854-the-cosmic-coincidences-that-made-our-universe-and-us-possible/",
+    "published": "2026-09-14T08:00:00.000Z",
+    "date": "2026-09-14",
     "source": "New Scientist"
   },
   {
@@ -112,17 +120,17 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Test anxiety can predict exam scores depending on how missing data and influential data points are treated, by Dylan Molenaar",
-    "title_es": "Test anxiety can predict exam scores depending on how missing data and influential data points are treated, by Dylan Molenaar",
-    "url": "http://scipost.org/jrobustrep.6-rr1",
+    "title": "A formal Bethe/gauge correspondence for classical gauge groups, by Xiang-Mao Ding, Ting Zhang",
+    "title_es": "A formal Bethe/gauge correspondence for classical gauge groups, by Xiang-Mao Ding, Ting Zhang",
+    "url": "http://scipost.org/scipostphyscore.9.3.057",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Comet NEOWISE Rising over the Adriatic Sea",
-    "title_es": "Comet NEOWISE Rising over the Adriatic Sea",
-    "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
+    "title": "Where Your Elements Came From",
+    "title_es": "Where Your Elements Came From",
+    "url": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
