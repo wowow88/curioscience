@@ -1,5 +1,61 @@
 [
   {
+    "title": "A new biography of Stephen Hawking gets to grips with a complicated man",
+    "title_es": "A new biography of Stephen Hawking gets to grips with a complicated man",
+    "url": "https://www.newscientist.com/article/2589245-a-new-biography-of-stephen-hawking-gets-to-grips-with-a-complicated-man/",
+    "published": "2026-09-15T09:00:00.000Z",
+    "date": "2026-09-15",
+    "source": "New Scientist"
+  },
+  {
+    "title": "RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction",
+    "title_es": "RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction",
+    "url": "https://arxiv.org/abs/2609.13504",
+    "published": "2026-09-15T04:00:00.000Z",
+    "date": "2026-09-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "A wake-up call: diversify global research funding",
+    "title_es": "A wake-up call: diversify global research funding",
+    "url": "https://www.nature.com/articles/d41586-026-02904-8",
+    "date": "2026-09-15",
+    "source": "Nature",
+    "published": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Antibody Responses in Health and Disease: un encuentro internacional para avanzar en el conocimiento de la inmunidad",
+    "title_es": "Antibody Responses in Health and Disease: un encuentro internacional para avanzar en el conocimiento de la inmunidad",
+    "url": "https://www.cnic.es/es/noticias/antibody-responses-health-and-disease-un-encuentro-internacional-para-avanzar-conocimiento",
+    "date": "2026-09-15",
+    "source": "CNIC",
+    "published": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Plague was killing entire families thousands of years before the Black Death",
+    "title_es": "Plague was killing entire families thousands of years before the Black Death",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
+    "date": "2026-09-15",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Just add fish: Scientists pursue more rice, less disease in Senegal paddies",
+    "title_es": "Just add fish: Scientists pursue more rice, less disease in Senegal paddies",
+    "url": "https://phys.org/news/2026-09-fish-scientists-pursue-rice-disease.html",
+    "date": "2026-09-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "title": "Spanish Amber Deposit Offers Rare Window into Cretaceous Life",
+    "title_es": "Spanish Amber Deposit Offers Rare Window into Cretaceous Life",
+    "url": "https://www.sci.news/paleontology/el-soplao-amber-15065.html",
+    "published": "2026-09-14T22:33:00.000Z",
+    "date": "2026-09-14",
+    "source": "Sci.News"
+  },
+  {
     "title": "The cosmic coincidences that made our universe – and us – possible",
     "title_es": "The cosmic coincidences that made our universe – and us – possible",
     "url": "https://www.newscientist.com/article/2588854-the-cosmic-coincidences-that-made-our-universe-and-us-possible/",
@@ -53,6 +109,22 @@
     "url": "https://phys.org/news/2026-09-climate-wont-africa-poorest-farmers.html",
     "date": "2026-09-14",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+    "title_es": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+    "url": "http://arxiv.org/abs/2609.15989v1",
+    "date": "2026-09-14",
+    "source": "arXiv",
+    "published": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "Feeling nervous? Work the system",
+    "title_es": "Feeling nervous? Work the system",
+    "url": "https://www.sciencenews.org/article/nervous-system-stress-hormone-cortisol",
+    "date": "2026-09-14",
+    "source": "Science News",
     "published": "2026-09-14T00:00:00.000Z"
   },
   {
@@ -33423,7 +33495,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Rates of childbirth in female cancer survivors: A population-based study in Taiwan",
+    "title": "Correction: Mechanism and empirical evidence on new-type urbanization to narrow the urban–rural income gap: Evidence from China’s provincial data",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -69361,6 +69433,14 @@
     "title": "Where Your Elements Came From",
     "title_es": "Where Your Elements Came From",
     "url": "https://apod.nasa.gov/apod/image/2609/elementorigins2_svs_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A Daytime Eclipse: Moon Occults Venus",
+    "title_es": "A Daytime Eclipse: Moon Occults Venus",
+    "url": "https://apod.nasa.gov/apod/image/2609/moonvenus_mariat_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
