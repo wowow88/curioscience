@@ -1,5 +1,53 @@
 [
   {
+    "title": "Ancient skeleton shows woman in imperial China had her nose amputated",
+    "title_es": "Ancient skeleton shows woman in imperial China had her nose amputated",
+    "url": "https://www.newscientist.com/article/2589480-ancient-skeleton-shows-woman-in-imperial-china-had-her-nose-amputated/",
+    "published": "2026-09-17T09:00:00.000Z",
+    "date": "2026-09-17",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Enhancing Extubation Failure Prediction with LLM-Derived Features from Respiratory Therapy Clinical Notes",
+    "title_es": "Enhancing Extubation Failure Prediction with LLM-Derived Features from Respiratory Therapy Clinical Notes",
+    "url": "https://arxiv.org/abs/2609.17532",
+    "published": "2026-09-17T04:00:00.000Z",
+    "date": "2026-09-17",
+    "source": "arXiv"
+  },
+  {
+    "title": "Fossil Evidence Suggests Early Homo Had Abandoned Tree-Climbing by 1.8 Million Years Ago",
+    "title_es": "Fossil Evidence Suggests Early Homo Had Abandoned Tree-Climbing by 1.8 Million Years Ago",
+    "url": "https://www.sci.news/othersciences/anthropology/australopithecus-homo-arboreality-15073.html",
+    "published": "2026-09-17T00:29:54.000Z",
+    "date": "2026-09-17",
+    "source": "Sci.News"
+  },
+  {
+    "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
+    "title_es": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
+    "url": "https://www.nature.com/articles/d41586-026-02910-w",
+    "date": "2026-09-17",
+    "source": "Nature",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+    "title_es": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
+    "date": "2026-09-17",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "World's water cycle becoming more unpredictable, UN warns",
+    "title_es": "World's water cycle becoming more unpredictable, UN warns",
+    "url": "https://phys.org/news/2026-09-world-unpredictable.html",
+    "date": "2026-09-17",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
     "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
     "title_es": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
     "url": "https://arxiv.org/abs/2609.15990",
@@ -37,6 +85,38 @@
     "url": "https://phys.org/news/2026-09-kind-phage-therapy-results-salmonella.html",
     "date": "2026-09-16",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "title_es": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "url": "http://arxiv.org/abs/2609.19145v1",
+    "date": "2026-09-16",
+    "source": "arXiv",
+    "published": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-sunrise-iii-una-mision-internacional-que-abre-un-nuevo-horizonte-para-el\" hreflang=\"es\">El IAC y la ULL participan en Sunrise III, una misión internacional que abre un nuevo horizonte para el estudio del Sol</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-sunrise-iii-una-mision-internacional-que-abre-un-nuevo-horizonte-para-el\" hreflang=\"es\">El IAC y la ULL participan en Sunrise III, una misión internacional que abre un nuevo horizonte para el estudio del Sol</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-y-la-ull-participan-en-sunrise-iii-una-mision-internacional-que-abre-un-nuevo-horizonte-para-el",
+    "date": "2026-09-16",
+    "source": "IAC",
+    "published": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "title": "These mice have human (nerve cells) on the brain",
+    "title_es": "These mice have human (nerve cells) on the brain",
+    "url": "https://www.sciencenews.org/article/mice-brain-human-organoid-cells",
+    "date": "2026-09-16",
+    "source": "Science News",
+    "published": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "title": "Watch an orca smash into a sunfish hard enough to make it explode",
+    "title_es": "Watch an orca smash into a sunfish hard enough to make it explode",
+    "url": "https://www.snexplores.org/article/orca-explode-sunfish-pinata",
+    "date": "2026-09-16",
+    "source": "Science News Explores",
     "published": "2026-09-16T00:00:00.000Z"
   },
   {
@@ -33583,7 +33663,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Temporal patterns of tuberculosis-associated hyperglycaemia and its effect on treatment outcomes in individuals not previously diabetic: A prospective cohort study",
+    "title": "Correction: Audit data governance for disability-inclusive public services: A systematic review and integrative S–A–C framework",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -69545,6 +69625,14 @@
     "title": "Webb's View of M64",
     "title_es": "Webb's View of M64",
     "url": "https://apod.nasa.gov/apod/image/2609/m64_webb_1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "A Treasure Chest in the Carina Nebula",
+    "title_es": "A Treasure Chest in the Carina Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2609/jwst_treasure_chest_800.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
