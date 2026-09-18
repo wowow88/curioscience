@@ -1,5 +1,53 @@
 [
   {
+    "title": "Our brain evolved from two primitive nervous systems that merged",
+    "title_es": "Our brain evolved from two primitive nervous systems that merged",
+    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "published": "2026-09-18T09:00:00.000Z",
+    "date": "2026-09-18",
+    "source": "New Scientist"
+  },
+  {
+    "title": "A Reduction Library for Polynomial-Base Harmonic Numbers",
+    "title_es": "A Reduction Library for Polynomial-Base Harmonic Numbers",
+    "url": "https://arxiv.org/abs/2609.19146",
+    "published": "2026-09-18T04:00:00.000Z",
+    "date": "2026-09-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+    "title_es": "Cognitive resilience helps to predict Alzheimer’s dementia",
+    "url": "https://www.nature.com/articles/d41586-026-02897-4",
+    "date": "2026-09-18",
+    "source": "Nature",
+    "published": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+    "title_es": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+    "date": "2026-09-18",
+    "source": "NASA (Top News)",
+    "published": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Early heat waves hit wheat yields hardest but boost resilience to subsequent heat waves",
+    "title_es": "Early heat waves hit wheat yields hardest but boost resilience to subsequent heat waves",
+    "url": "https://phys.org/news/2026-09-early-wheat-yields-hardest-boost.html",
+    "date": "2026-09-18",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "New Species of Imperial Pigeon Identified",
+    "title_es": "New Species of Imperial Pigeon Identified",
+    "url": "https://www.sci.news/biology/ducula-tawitawi-15074.html",
+    "published": "2026-09-17T22:15:22.000Z",
+    "date": "2026-09-17",
+    "source": "Sci.News"
+  },
+  {
     "title": "Ancient skeleton shows woman in imperial China had her nose amputated",
     "title_es": "Ancient skeleton shows woman in imperial China had her nose amputated",
     "url": "https://www.newscientist.com/article/2589480-ancient-skeleton-shows-woman-in-imperial-china-had-her-nose-amputated/",
@@ -45,6 +93,62 @@
     "url": "https://phys.org/news/2026-09-world-unpredictable.html",
     "date": "2026-09-17",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "title_es": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "url": "http://arxiv.org/abs/2609.20822v1",
+    "date": "2026-09-17",
+    "source": "arXiv",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "The indomitable Stephen Hawking",
+    "title_es": "The indomitable Stephen Hawking",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej4194",
+    "date": "2026-09-17",
+    "source": "Science.org",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Hallada una nueva manera en que las células evitan errores al duplicar su material genético",
+    "title_es": "Hallada una nueva manera en que las células evitan errores al duplicar su material genético",
+    "url": "https://www.cnio.es/noticias/hallada-una-nueva-manera-en-que-las-celulas-evitan-errores-al-duplicar-su-material-genetico/",
+    "date": "2026-09-17",
+    "source": "CNIO",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-en-tenerife-la-reunion-cientifica-final-de-la-accion-cost-nanospace-sobre-nanomateriales\" hreflang=\"es\">El IAC acoge en Tenerife la reunión científica final de la Acción COST NanoSpace sobre nanomateriales de carbono en el espacio</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-en-tenerife-la-reunion-cientifica-final-de-la-accion-cost-nanospace-sobre-nanomateriales\" hreflang=\"es\">El IAC acoge en Tenerife la reunión científica final de la Acción COST NanoSpace sobre nanomateriales de carbono en el espacio</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-en-tenerife-la-reunion-cientifica-final-de-la-accion-cost-nanospace-sobre-nanomateriales",
+    "date": "2026-09-17",
+    "source": "IAC",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Big space mirrors could bring Earth on-demand light — and upend our night sky",
+    "title_es": "Big space mirrors could bring Earth on-demand light — and upend our night sky",
+    "url": "https://www.sciencenews.org/article/reflect-orbital-space-mirrors-satellite",
+    "date": "2026-09-17",
+    "source": "Science News",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "A modern ‘snowball’ Earth? What the movies get wrong",
+    "title_es": "A modern ‘snowball’ Earth? What the movies get wrong",
+    "url": "https://www.snexplores.org/article/snowball-earth-ice-age-movies",
+    "date": "2026-09-17",
+    "source": "Science News Explores",
+    "published": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+    "title_es": "Scientists discover a mysterious new frog hiding in the Amazon",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+    "date": "2026-09-17",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-17T00:00:00.000Z"
   },
   {
@@ -33663,7 +33767,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Audit data governance for disability-inclusive public services: A systematic review and integrative S–A–C framework",
+    "title": "Short-term effects of different toothpaste formulations on total salivary calcium: A randomized crossover study",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -69633,6 +69737,14 @@
     "title": "A Treasure Chest in the Carina Nebula",
     "title_es": "A Treasure Chest in the Carina Nebula",
     "url": "https://apod.nasa.gov/apod/image/2609/jwst_treasure_chest_800.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Messier 33: The Triangulum Galaxy",
+    "title_es": "Messier 33: The Triangulum Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3nm1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
