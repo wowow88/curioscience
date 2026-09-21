@@ -1,5 +1,13 @@
 [
   {
+    "title": "Do small language models know what they don't know?",
+    "title_es": "Do small language models know what they don't know?",
+    "url": "https://arxiv.org/abs/2609.20824",
+    "published": "2026-09-21T04:00:00.000Z",
+    "date": "2026-09-21",
+    "source": "arXiv"
+  },
+  {
     "title": "The indomitable Stephen Hawking",
     "title_es": "The indomitable Stephen Hawking",
     "url": "https://www.science.org/doi/abs/10.1126/science.aej4194",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
-    "title_es": "Cognitive resilience helps to predict Alzheimer’s dementia",
-    "url": "https://www.nature.com/articles/d41586-026-02897-4",
-    "published": "2026-09-18T00:00:00.000Z",
-    "date": "2026-09-18",
+    "title": "How do I change labs gracefully during my PhD?",
+    "title_es": "How do I change labs gracefully during my PhD?",
+    "url": "https://www.nature.com/articles/d41586-026-02441-4",
+    "published": "2026-09-21T00:00:00.000Z",
+    "date": "2026-09-21",
     "source": "Nature"
   },
   {
@@ -32,6 +40,14 @@
     "source": "CNIO"
   },
   {
+    "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "title_es": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+    "published": "2026-09-21T04:05:00.000Z",
+    "date": "2026-09-21",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "Surviving the summer",
     "title_es": "Surviving the summer",
     "url": "https://www.sciencenews.org/article/surviving-summer-ed-note-october-2026",
@@ -40,27 +56,27 @@
     "source": "Science News"
   },
   {
-    "title": "The human brain may owe a lot of its size to our love of sweets",
-    "title_es": "The human brain may owe a lot of its size to our love of sweets",
-    "url": "https://www.snexplores.org/article/sugar-evolution-human-brain",
-    "published": "2026-09-18T10:30:00.000Z",
-    "date": "2026-09-18",
+    "title": "A protein building block may help fight viruses and cancer",
+    "title_es": "A protein building block may help fight viruses and cancer",
+    "url": "https://www.snexplores.org/article/arginine-amino-acid-immune-protein",
+    "published": "2026-09-21T10:30:00.000Z",
+    "date": "2026-09-21",
     "source": "Science News Explores"
   },
   {
-    "title": "A giant crater may reveal the origin of Mars’ doomed moon",
-    "title_es": "A giant crater may reveal the origin of Mars’ doomed moon",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
-    "published": "2026-09-19T12:12:41.000Z",
-    "date": "2026-09-19",
+    "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
+    "title_es": "What kills Schrödinger’s cat? Gravity may not be the answer",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+    "published": "2026-09-21T09:24:50.000Z",
+    "date": "2026-09-21",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
-    "title_es": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
-    "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
-    "published": "2026-09-19T23:30:01.000Z",
-    "date": "2026-09-19",
+    "title": "Photonic Legos of functional 3D thin-films unlock high-performance heterogeneous photonic integration",
+    "title_es": "Photonic Legos of functional 3D thin-films unlock high-performance heterogeneous photonic integration",
+    "url": "https://phys.org/news/2026-09-photonic-legos-functional-3d-thin.html",
+    "published": "2026-09-21T10:40:01.000Z",
+    "date": "2026-09-21",
     "source": "Phys.org (Latest)"
   },
   {
@@ -112,20 +128,12 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Analemma over the Callanish Stones",
-    "title_es": "Analemma over the Callanish Stones",
-    "url": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg",
+    "title": "Cocoon Nebula Wide Field",
+    "title_es": "Cocoon Nebula Wide Field",
+    "url": "https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=51.5593&long=127.0674",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",

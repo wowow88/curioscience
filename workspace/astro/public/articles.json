@@ -1,5 +1,53 @@
 [
   {
+    "title": "Do small language models know what they don't know?",
+    "title_es": "Do small language models know what they don't know?",
+    "url": "https://arxiv.org/abs/2609.20824",
+    "published": "2026-09-21T04:00:00.000Z",
+    "date": "2026-09-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "How do I change labs gracefully during my PhD?",
+    "title_es": "How do I change labs gracefully during my PhD?",
+    "url": "https://www.nature.com/articles/d41586-026-02441-4",
+    "date": "2026-09-21",
+    "source": "Nature",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "title_es": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+    "date": "2026-09-21",
+    "source": "NASA (Top News)",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "A protein building block may help fight viruses and cancer",
+    "title_es": "A protein building block may help fight viruses and cancer",
+    "url": "https://www.snexplores.org/article/arginine-amino-acid-immune-protein",
+    "date": "2026-09-21",
+    "source": "Science News Explores",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
+    "title_es": "What kills Schrödinger’s cat? Gravity may not be the answer",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+    "date": "2026-09-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "Photonic Legos of functional 3D thin-films unlock high-performance heterogeneous photonic integration",
+    "title_es": "Photonic Legos of functional 3D thin-films unlock high-performance heterogeneous photonic integration",
+    "url": "https://phys.org/news/2026-09-photonic-legos-functional-3d-thin.html",
+    "date": "2026-09-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
     "title": "Luis Paz-Ares, médico del año en los premios ABC Salud",
     "title_es": "Luis Paz-Ares, médico del año en los premios ABC Salud",
     "url": "https://www.cnio.es/noticias/luis-paz-ares-medico-del-ano-en-los-premios-abc-salud/",
@@ -13,6 +61,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
     "date": "2026-09-20",
     "source": "ScienceDaily (Top)",
+    "published": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-mantiene-intacto-su-compromiso-con-el-desarrollo-del-observatorio-del-roque-de-los-muchachos\" hreflang=\"es\">El IAC mantiene intacto su compromiso con el desarrollo del Observatorio del Roque de los Muchachos tras la decisión del TMT</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-mantiene-intacto-su-compromiso-con-el-desarrollo-del-observatorio-del-roque-de-los-muchachos\" hreflang=\"es\">El IAC mantiene intacto su compromiso con el desarrollo del Observatorio del Roque de los Muchachos tras la decisión del TMT</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-mantiene-intacto-su-compromiso-con-el-desarrollo-del-observatorio-del-roque-de-los-muchachos",
+    "date": "2026-09-20",
+    "source": "IAC",
     "published": "2026-09-20T00:00:00.000Z"
   },
   {
@@ -133,6 +189,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
     "date": "2026-09-18",
     "source": "ScienceDaily (Top)",
+    "published": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "title_es": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "url": "http://arxiv.org/abs/2609.22086v1",
+    "date": "2026-09-18",
+    "source": "arXiv",
     "published": "2026-09-18T00:00:00.000Z"
   },
   {
@@ -69865,6 +69929,14 @@
     "title": "Analemma over the Callanish Stones",
     "title_es": "Analemma over the Callanish Stones",
     "url": "https://apod.nasa.gov/apod/image/2609/callanishanalemma_petricca_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Cocoon Nebula Wide Field",
+    "title_es": "Cocoon Nebula Wide Field",
+    "url": "https://apod.nasa.gov/apod/image/2609/cocoon_czerski_1080.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
