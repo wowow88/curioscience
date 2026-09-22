@@ -1,5 +1,45 @@
 [
   {
+    "title": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
+    "title_es": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
+    "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/",
+    "published": "2026-09-22T05:00:00.000Z",
+    "date": "2026-09-22",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Biosecurity must protect human functional capacity",
+    "title_es": "Biosecurity must protect human functional capacity",
+    "url": "https://www.nature.com/articles/d41586-026-02996-2",
+    "date": "2026-09-22",
+    "source": "Nature",
+    "published": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "Stem cells reverse stroke damage and restore movement in mice",
+    "title_es": "Stem cells reverse stroke damage and restore movement in mice",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+    "date": "2026-09-22",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "El Niño weather pattern enters record territory: Scientist",
+    "title_es": "El Niño weather pattern enters record territory: Scientist",
+    "url": "https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html",
+    "date": "2026-09-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "New Therizinosaurian Dinosaur Unearthed in China",
+    "title_es": "New Therizinosaurian Dinosaur Unearthed in China",
+    "url": "https://www.sci.news/paleontology/kayrasaurus-changliensis-15082.html",
+    "published": "2026-09-21T22:10:02.000Z",
+    "date": "2026-09-21",
+    "source": "Sci.News"
+  },
+  {
     "title": "Do small language models know what they don't know?",
     "title_es": "Do small language models know what they don't know?",
     "url": "https://arxiv.org/abs/2609.20824",
@@ -45,6 +85,30 @@
     "url": "https://phys.org/news/2026-09-photonic-legos-functional-3d-thin.html",
     "date": "2026-09-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "title_es": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "url": "http://arxiv.org/abs/2609.25001v1",
+    "date": "2026-09-21",
+    "source": "arXiv",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-investigador-predoctoral-del-iac-recibe-una-step-grant-de-planetary-society\" hreflang=\"es\">Un investigador predoctoral del IAC recibe una STEP Grant de The Planetary Society</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/un-investigador-predoctoral-del-iac-recibe-una-step-grant-de-planetary-society\" hreflang=\"es\">Un investigador predoctoral del IAC recibe una STEP Grant de The Planetary Society</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/un-investigador-predoctoral-del-iac-recibe-una-step-grant-de-planetary-society",
+    "date": "2026-09-21",
+    "source": "IAC",
+    "published": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "First radio waves seen from an exoplanet hint at otherworldly auroras",
+    "title_es": "First radio waves seen from an exoplanet hint at otherworldly auroras",
+    "url": "https://www.sciencenews.org/article/exoplanet-aurora-radio-waves",
+    "date": "2026-09-21",
+    "source": "Science News",
     "published": "2026-09-21T00:00:00.000Z"
   },
   {
@@ -33927,7 +33991,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Physician management of immunoglobulin in Canada: A qualitative study",
+    "title": "Ritualized experiences and perceived authenticity in shaping tourists’ willingness to support intangible cultural heritage inheritance",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -69937,6 +70001,14 @@
     "title": "Cocoon Nebula Wide Field",
     "title_es": "Cocoon Nebula Wide Field",
     "url": "https://apod.nasa.gov/apod/image/2609/cocoon_czerski_1080.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+    "title_es": "Chance Triple Alignment: Plane, Space Station, Sun",
+    "url": "https://apod.nasa.gov/apod/image/2609/planeissspots_horalek_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
