@@ -1,5 +1,54 @@
 [
   {
+    "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "title_es": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "url": "https://www.nature.com/articles/d41586-026-02949-9",
+    "date": "2026-09-23",
+    "source": "Nature"
+  },
+  {
+    "title": "Circulation Research: Un mecanismo de degradación de proteínas abre una nueva vía para tratar una arritmia hereditaria",
+    "title_es": "Circulation Research: Un mecanismo de degradación de proteínas abre una nueva vía para tratar una arritmia hereditaria",
+    "url": "https://www.cnic.es/es/noticias/circulation-research-un-mecanismo-degradacion-proteinas-abre-nueva-para-tratar-arritmia",
+    "date": "2026-09-23",
+    "source": "CNIC"
+  },
+  {
+    "title": "El MICIU impulsa el desarrollo de un Nodo Nacional de Datos en Cáncer para acelerar la investigación oncológica",
+    "title_es": "El MICIU impulsa el desarrollo de un Nodo Nacional de Datos en Cáncer para acelerar la investigación oncológica",
+    "url": "https://www.cnio.es/noticias/el-miciu-impulsa-el-desarrollo-de-un-nodo-nacional-de-datos-en-cancer-para-acelerar-la-investigacion-oncologica/",
+    "date": "2026-09-23",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-junto-instituciones-europeas-un-encuentro-sobre-las-estrellas-mas-masivas-del-universo\" hreflang=\"es\">El IAC impulsa junto a instituciones europeas un encuentro sobre las estrellas más masivas del Universo</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-junto-instituciones-europeas-un-encuentro-sobre-las-estrellas-mas-masivas-del-universo\" hreflang=\"es\">El IAC impulsa junto a instituciones europeas un encuentro sobre las estrellas más masivas del Universo</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-junto-instituciones-europeas-un-encuentro-sobre-las-estrellas-mas-masivas-del-universo",
+    "date": "2026-09-23",
+    "source": "IAC"
+  },
+  {
+    "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+    "title_es": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+    "date": "2026-09-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "One of America’s largest reservoirs just hit a record low",
+    "title_es": "One of America’s largest reservoirs just hit a record low",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+    "date": "2026-09-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Pigeons' proposed inner-ear compass runs into a noise problem",
+    "title_es": "Pigeons' proposed inner-ear compass runs into a noise problem",
+    "url": "https://phys.org/news/2026-09-pigeons-ear-compass-noise-problem.html",
+    "date": "2026-09-23",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Biosecurity must protect human functional capacity",
     "title_es": "Biosecurity must protect human functional capacity",
     "url": "https://www.nature.com/articles/d41586-026-02996-2",
@@ -19,6 +68,34 @@
     "url": "https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html",
     "date": "2026-09-22",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of <i>in vitro</i> and <i>in vivo</i> PK/PD Study as well as its therapeutic potential",
+    "title_es": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of <i>in vitro</i> and <i>in vivo</i> PK/PD Study as well as its therapeutic potential",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-22",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "title_es": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "url": "http://arxiv.org/abs/2609.26780v1",
+    "date": "2026-09-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "Can AI reason without words? A small model puts the idea to the test",
+    "title_es": "Can AI reason without words? A small model puts the idea to the test",
+    "url": "https://www.sciencenews.org/article/ai-model-reason-logic-words-efficient",
+    "date": "2026-09-22",
+    "source": "Science News"
+  },
+  {
+    "title": "Let’s learn about trace fossils",
+    "title_es": "Let’s learn about trace fossils",
+    "url": "https://www.snexplores.org/article/lets-learn-about-trace-fossils",
+    "date": "2026-09-22",
+    "source": "Science News Explores"
   },
   {
     "title": "How do I change labs gracefully during my PhD?",
@@ -54,13 +131,6 @@
     "url": "https://phys.org/news/2026-09-photonic-legos-functional-3d-thin.html",
     "date": "2026-09-21",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Ritualized experiences and perceived authenticity in shaping tourists’ willingness to support intangible cultural heritage inheritance",
-    "title_es": "Ritualized experiences and perceived authenticity in shaping tourists’ willingness to support intangible cultural heritage inheritance",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-21",
-    "source": "PLOS ONE"
   },
   {
     "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",

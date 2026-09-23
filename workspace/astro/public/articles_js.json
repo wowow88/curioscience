@@ -1,10 +1,10 @@
 [
   {
-    "title": "Do small language models know what they don't know?",
-    "title_es": "Do small language models know what they don't know?",
-    "url": "https://arxiv.org/abs/2609.20824",
-    "published": "2026-09-22T04:00:00.000Z",
-    "date": "2026-09-22",
+    "title": "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus",
+    "title_es": "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus",
+    "url": "https://arxiv.org/abs/2609.25006",
+    "published": "2026-09-23T04:00:00.000Z",
+    "date": "2026-09-23",
     "source": "arXiv"
   },
   {
@@ -16,75 +16,83 @@
     "source": "Science.org"
   },
   {
-    "title": "Biosecurity must protect human functional capacity",
-    "title_es": "Biosecurity must protect human functional capacity",
-    "url": "https://www.nature.com/articles/d41586-026-02996-2",
-    "published": "2026-09-22T00:00:00.000Z",
-    "date": "2026-09-22",
+    "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "title_es": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "url": "https://www.nature.com/articles/d41586-026-02949-9",
+    "published": "2026-09-23T00:00:00.000Z",
+    "date": "2026-09-23",
     "source": "Nature"
   },
   {
-    "title": "Antibody Responses in Health and Disease: An International Meeting to Advance Knowledge of Immunity",
-    "title_es": "Antibody Responses in Health and Disease: An International Meeting to Advance Knowledge of Immunity",
-    "url": "https://www.cnic.es/es/node/244272",
-    "published": "2026-09-15T10:08:24.000Z",
-    "date": "2026-09-15",
+    "title": "Circulation Research: Un mecanismo de degradación de proteínas abre una nueva vía para tratar una arritmia hereditaria",
+    "title_es": "Circulation Research: Un mecanismo de degradación de proteínas abre una nueva vía para tratar una arritmia hereditaria",
+    "url": "https://www.cnic.es/es/noticias/circulation-research-un-mecanismo-degradacion-proteinas-abre-nueva-para-tratar-arritmia",
+    "published": "2026-09-23T09:00:41.000Z",
+    "date": "2026-09-23",
     "source": "CNIC"
   },
   {
-    "title": "Luis Paz-Ares, médico del año en los premios ABC Salud",
-    "title_es": "Luis Paz-Ares, médico del año en los premios ABC Salud",
-    "url": "https://www.cnio.es/noticias/luis-paz-ares-medico-del-ano-en-los-premios-abc-salud/",
-    "published": "2026-09-20T04:06:05.000Z",
-    "date": "2026-09-20",
+    "title": "El MICIU impulsa el desarrollo de un Nodo Nacional de Datos en Cáncer para acelerar la investigación oncológica",
+    "title_es": "El MICIU impulsa el desarrollo de un Nodo Nacional de Datos en Cáncer para acelerar la investigación oncológica",
+    "url": "https://www.cnio.es/noticias/el-miciu-impulsa-el-desarrollo-de-un-nodo-nacional-de-datos-en-cancer-para-acelerar-la-investigacion-oncologica/",
+    "published": "2026-09-23T08:22:43.000Z",
+    "date": "2026-09-23",
     "source": "CNIO"
   },
   {
-    "title": "First radio waves seen from an exoplanet hint at otherworldly auroras",
-    "title_es": "First radio waves seen from an exoplanet hint at otherworldly auroras",
-    "url": "https://www.sciencenews.org/article/exoplanet-aurora-radio-waves",
-    "published": "2026-09-21T16:00:00.000Z",
-    "date": "2026-09-21",
+    "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+    "title_es": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+    "published": "2026-09-23T04:05:00.000Z",
+    "date": "2026-09-23",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Can AI reason without words? A small model puts the idea to the test",
+    "title_es": "Can AI reason without words? A small model puts the idea to the test",
+    "url": "https://www.sciencenews.org/article/ai-model-reason-logic-words-efficient",
+    "published": "2026-09-22T16:00:00.000Z",
+    "date": "2026-09-22",
     "source": "Science News"
   },
   {
-    "title": "A protein building block may help fight viruses and cancer",
-    "title_es": "A protein building block may help fight viruses and cancer",
-    "url": "https://www.snexplores.org/article/arginine-amino-acid-immune-protein",
-    "published": "2026-09-21T10:30:00.000Z",
-    "date": "2026-09-21",
+    "title": "Let’s learn about trace fossils",
+    "title_es": "Let’s learn about trace fossils",
+    "url": "https://www.snexplores.org/article/lets-learn-about-trace-fossils",
+    "published": "2026-09-22T10:30:00.000Z",
+    "date": "2026-09-22",
     "source": "Science News Explores"
   },
   {
-    "title": "Stem cells reverse stroke damage and restore movement in mice",
-    "title_es": "Stem cells reverse stroke damage and restore movement in mice",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-    "published": "2026-09-22T01:49:32.000Z",
-    "date": "2026-09-22",
+    "title": "One of America’s largest reservoirs just hit a record low",
+    "title_es": "One of America’s largest reservoirs just hit a record low",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+    "published": "2026-09-23T02:01:16.000Z",
+    "date": "2026-09-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "El Niño weather pattern enters record territory: Scientist",
-    "title_es": "El Niño weather pattern enters record territory: Scientist",
-    "url": "https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html",
-    "published": "2026-09-22T09:40:01.000Z",
-    "date": "2026-09-22",
+    "title": "Pigeons' proposed inner-ear compass runs into a noise problem",
+    "title_es": "Pigeons' proposed inner-ear compass runs into a noise problem",
+    "url": "https://phys.org/news/2026-09-pigeons-ear-compass-noise-problem.html",
+    "published": "2026-09-23T10:00:01.000Z",
+    "date": "2026-09-23",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Ritualized experiences and perceived authenticity in shaping tourists’ willingness to support intangible cultural heritage inheritance",
-    "title_es": "Ritualized experiences and perceived authenticity in shaping tourists’ willingness to support intangible cultural heritage inheritance",
+    "title": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of in vitro and in vivo PK/PD Study as well as its therapeutic potential",
+    "title_es": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of in vitro and in vivo PK/PD Study as well as its therapeutic potential",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-09-21T14:00:00.000Z",
-    "date": "2026-09-21",
+    "published": "2026-09-22T14:00:00.000Z",
+    "date": "2026-09-22",
     "source": "PLOS ONE"
   },
   {
-    "title": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
-    "title_es": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
-    "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/",
-    "published": "2026-09-22T05:00:00.000Z",
-    "date": "2026-09-22",
+    "title": "Is AI really getting dangerously out of control?",
+    "title_es": "Is AI really getting dangerously out of control?",
+    "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/",
+    "published": "2026-09-23T05:00:00.000Z",
+    "date": "2026-09-23",
     "source": "New Scientist"
   },
   {
@@ -96,11 +104,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "New Therizinosaurian Dinosaur Unearthed in China",
-    "title_es": "New Therizinosaurian Dinosaur Unearthed in China",
-    "url": "https://www.sci.news/paleontology/kayrasaurus-changliensis-15082.html",
-    "published": "2026-09-21T22:10:02.000Z",
-    "date": "2026-09-21",
+    "title": "Titanosaurs Nested Far South of Equator, Fossil Eggshells Reveal",
+    "title_es": "Titanosaurs Nested Far South of Equator, Fossil Eggshells Reveal",
+    "url": "https://www.sci.news/paleontology/high-latitude-titanosaur-nesting-15085.html",
+    "published": "2026-09-23T00:09:31.000Z",
+    "date": "2026-09-23",
     "source": "Sci.News"
   },
   {
@@ -112,28 +120,20 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Many-body effects beyond excitons in second-harmonic generation of monolayer MoS$_{2}$, by Peio Garcia-Goiricelaya, Julen Ibañez-Azpiroz",
-    "title_es": "Many-body effects beyond excitons in second-harmonic generation of monolayer MoS$_{2}$, by Peio Garcia-Goiricelaya, Julen Ibañez-Azpiroz",
-    "url": "http://scipost.org/scipostphys.21.3.068",
+    "title": "Quantitative approach for the Dicke-Ising chain with an effective self-consistent matter Hamiltonian, by Jonas Leibig, Max Hörmann, Anja Langheld, Andreas Schellenberger, Kai Phillip Schmidt",
+    "title_es": "Quantitative approach for the Dicke-Ising chain with an effective self-consistent matter Hamiltonian, by Jonas Leibig, Max Hörmann, Anja Langheld, Andreas Schellenberger, Kai Phillip Schmidt",
+    "url": "http://scipost.org/scipostphys.21.3.071",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-    "title_es": "Chance Triple Alignment: Plane, Space Station, Sun",
-    "url": "https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg",
+    "title": "A New Lunar Crater: McGetchin",
+    "title_es": "A New Lunar Crater: McGetchin",
+    "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=26.2384&long=-177.1496",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
