@@ -1,5 +1,33 @@
 [
   {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la",
+    "date": "2026-09-24",
+    "source": "IAC"
+  },
+  {
+    "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+    "title_es": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+    "date": "2026-09-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "More REM sleep linked to lower risk of 83 diseases",
+    "title_es": "More REM sleep linked to lower risk of 83 diseases",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+    "date": "2026-09-24",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "How calcium channels in muscle cells open together",
+    "title_es": "How calcium channels in muscle cells open together",
+    "url": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
+    "date": "2026-09-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
     "title_es": "In praise of human teachers: universities must resist outsourcing everything to AI",
     "url": "https://www.nature.com/articles/d41586-026-02949-9",
@@ -49,6 +77,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
+    "title_es": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-23",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "title_es": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "url": "http://arxiv.org/abs/2609.28470v1",
+    "date": "2026-09-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "title_es": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "url": "https://www.nature.com/articles/s41586-026-11189-w",
+    "date": "2026-09-23",
+    "source": "Nature"
+  },
+  {
+    "title": "Circulation Research: A protein-degradation mechanism opens a new treatment route for an inherited arrhythmia",
+    "title_es": "Circulation Research: A protein-degradation mechanism opens a new treatment route for an inherited arrhythmia",
+    "url": "https://www.cnic.es/es/node/244416",
+    "date": "2026-09-23",
+    "source": "CNIC"
+  },
+  {
+    "title": "Finally, a true blue rose exists",
+    "title_es": "Finally, a true blue rose exists",
+    "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+    "date": "2026-09-23",
+    "source": "Science News"
+  },
+  {
+    "title": "Seals helped this oceanographer study the Southern Ocean",
+    "title_es": "Seals helped this oceanographer study the Southern Ocean",
+    "url": "https://www.snexplores.org/article/oceanographer-seals-ocean-climate",
+    "date": "2026-09-23",
+    "source": "Science News Explores"
+  },
+  {
     "title": "Biosecurity must protect human functional capacity",
     "title_es": "Biosecurity must protect human functional capacity",
     "url": "https://www.nature.com/articles/d41586-026-02996-2",
@@ -68,13 +138,6 @@
     "url": "https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html",
     "date": "2026-09-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of <i>in vitro</i> and <i>in vivo</i> PK/PD Study as well as its therapeutic potential",
-    "title_es": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of <i>in vitro</i> and <i>in vivo</i> PK/PD Study as well as its therapeutic potential",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",

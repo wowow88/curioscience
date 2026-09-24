@@ -1,5 +1,61 @@
 [
   {
+    "title": "OpenAI agent hacked an Australian government healthcare website",
+    "title_es": "OpenAI agent hacked an Australian government healthcare website",
+    "url": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/",
+    "published": "2026-09-24T08:26:15.000Z",
+    "date": "2026-09-24",
+    "source": "New Scientist"
+  },
+  {
+    "title": "G\\\"odel's and Scott's Variants of the Ontological Argument in Lean 4",
+    "title_es": "G\\\"odel's and Scott's Variants of the Ontological Argument in Lean 4",
+    "url": "https://arxiv.org/abs/2609.26806",
+    "published": "2026-09-24T04:00:00.000Z",
+    "date": "2026-09-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la",
+    "date": "2026-09-24",
+    "source": "IAC",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+    "title_es": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+    "date": "2026-09-24",
+    "source": "NASA (Top News)",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "More REM sleep linked to lower risk of 83 diseases",
+    "title_es": "More REM sleep linked to lower risk of 83 diseases",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+    "date": "2026-09-24",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "How calcium channels in muscle cells open together",
+    "title_es": "How calcium channels in muscle cells open together",
+    "url": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
+    "date": "2026-09-24",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "Researchers Reconstruct Face of Oldest Known Homo sapiens",
+    "title_es": "Researchers Reconstruct Face of Oldest Known Homo sapiens",
+    "url": "https://www.sci.news/othersciences/anthropology/oldest-known-homo-sapiens-face-15090.html",
+    "published": "2026-09-23T23:52:36.000Z",
+    "date": "2026-09-23",
+    "source": "Sci.News"
+  },
+  {
     "title": "Is AI really getting dangerously out of control?",
     "title_es": "Is AI really getting dangerously out of control?",
     "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/",
@@ -77,6 +133,46 @@
     "url": "https://phys.org/news/2026-09-pigeons-ear-compass-noise-problem.html",
     "date": "2026-09-23",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "title_es": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "url": "http://arxiv.org/abs/2609.28470v1",
+    "date": "2026-09-23",
+    "source": "arXiv",
+    "published": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "title_es": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "url": "https://www.nature.com/articles/s41586-026-11189-w",
+    "date": "2026-09-23",
+    "source": "Nature",
+    "published": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "Circulation Research: A protein-degradation mechanism opens a new treatment route for an inherited arrhythmia",
+    "title_es": "Circulation Research: A protein-degradation mechanism opens a new treatment route for an inherited arrhythmia",
+    "url": "https://www.cnic.es/es/node/244416",
+    "date": "2026-09-23",
+    "source": "CNIC",
+    "published": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "Finally, a true blue rose exists",
+    "title_es": "Finally, a true blue rose exists",
+    "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+    "date": "2026-09-23",
+    "source": "Science News",
+    "published": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "title": "Seals helped this oceanographer study the Southern Ocean",
+    "title_es": "Seals helped this oceanographer study the Southern Ocean",
+    "url": "https://www.snexplores.org/article/oceanographer-seals-ocean-climate",
+    "date": "2026-09-23",
+    "source": "Science News Explores",
     "published": "2026-09-23T00:00:00.000Z"
   },
   {
@@ -34095,7 +34191,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Remdesivir-bisPropionate, a better derivative of remdesivir against SARS-CoV-2: Comparison of in vitro and in vivo PK/PD Study as well as its therapeutic potential",
+    "title": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70129,6 +70225,22 @@
     "title": "A New Lunar Crater: McGetchin",
     "title_es": "A New Lunar Crater: McGetchin",
     "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Lorentz-equivariance without limitations, by Luigi Favaro, Gerrit Gerhartz, Fred A. Hamprecht, Peter Lippmann, Sebastian Pitz, Tilman Plehn, Huilin Qu, Jonas Spinner",
+    "title_es": "Lorentz-equivariance without limitations, by Luigi Favaro, Gerrit Gerhartz, Fred A. Hamprecht, Peter Lippmann, Sebastian Pitz, Tilman Plehn, Huilin Qu, Jonas Spinner",
+    "url": "http://scipost.org/scipostphyscore.9.3.058",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "The Ghosts of Five Supernovas",
+    "title_es": "The Ghosts of Five Supernovas",
+    "url": "https://apod.nasa.gov/apod/image/2609/5snr_auriga_1000.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
