@@ -1,5 +1,40 @@
 [
   {
+    "title": "AI bots are flooding researchers with requests for money and time",
+    "title_es": "AI bots are flooding researchers with requests for money and time",
+    "url": "https://www.nature.com/articles/d41586-026-03005-2",
+    "date": "2026-09-25",
+    "source": "Nature"
+  },
+  {
+    "title": "El CNIC incorpora una plataforma automatizada para aislar y expandir células pluripotentes modificadas con CRISPR/Cas9",
+    "title_es": "El CNIC incorpora una plataforma automatizada para aislar y expandir células pluripotentes modificadas con CRISPR/Cas9",
+    "url": "https://www.cnic.es/es/noticias/cnic-incorpora-plataforma-automatizada-para-aislar-expandir-celulas-pluripotentes",
+    "date": "2026-09-25",
+    "source": "CNIC"
+  },
+  {
+    "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "title_es": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+    "date": "2026-09-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+    "title_es": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+    "date": "2026-09-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "High-tech canopy maps reveal how tropical birds use Amazon forests",
+    "title_es": "High-tech canopy maps reveal how tropical birds use Amazon forests",
+    "url": "https://phys.org/news/2026-09-high-tech-canopy-reveal-tropical.html",
+    "date": "2026-09-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
     "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
     "url": "https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la",
@@ -26,6 +61,41 @@
     "url": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
     "date": "2026-09-24",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
+    "title_es": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-24",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "title_es": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "url": "http://arxiv.org/abs/2609.30266v1",
+    "date": "2026-09-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Smallest Lights in the Universe: A Memoir",
+    "title_es": "The Smallest Lights in the Universe: A Memoir",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aem0084",
+    "date": "2026-09-24",
+    "source": "Science.org"
+  },
+  {
+    "title": "Meet the newest living cat species, the first described in 100 years",
+    "title_es": "Meet the newest living cat species, the first described in 100 years",
+    "url": "https://www.sciencenews.org/article/new-living-tiger-cat-species-100-years",
+    "date": "2026-09-24",
+    "source": "Science News"
+  },
+  {
+    "title": "When we were prey",
+    "title_es": "When we were prey",
+    "url": "https://www.snexplores.org/article/human-evolution-hunted-prey-predator",
+    "date": "2026-09-24",
+    "source": "Science News Explores"
   },
   {
     "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
@@ -75,13 +145,6 @@
     "url": "https://phys.org/news/2026-09-pigeons-ear-compass-noise-problem.html",
     "date": "2026-09-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
-    "title_es": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",

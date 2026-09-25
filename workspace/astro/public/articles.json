@@ -1,5 +1,69 @@
 [
   {
+    "title": "Mathematician discovers rare eight-faced shape",
+    "title_es": "Mathematician discovers rare eight-faced shape",
+    "url": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/",
+    "published": "2026-09-25T09:00:00.000Z",
+    "date": "2026-09-25",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Podcast: Should We Put AI-Enabled Tech in Our Brains?",
+    "title_es": "Podcast: Should We Put AI-Enabled Tech in Our Brains?",
+    "url": "https://undark.org/2026/09/25/podcast-neural-implants/",
+    "published": "2026-09-25T07:01:00.000Z",
+    "date": "2026-09-25",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+    "title_es": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+    "url": "https://arxiv.org/abs/2609.28475",
+    "published": "2026-09-25T04:00:00.000Z",
+    "date": "2026-09-25",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI bots are flooding researchers with requests for money and time",
+    "title_es": "AI bots are flooding researchers with requests for money and time",
+    "url": "https://www.nature.com/articles/d41586-026-03005-2",
+    "date": "2026-09-25",
+    "source": "Nature",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC incorpora una plataforma automatizada para aislar y expandir células pluripotentes modificadas con CRISPR/Cas9",
+    "title_es": "El CNIC incorpora una plataforma automatizada para aislar y expandir células pluripotentes modificadas con CRISPR/Cas9",
+    "url": "https://www.cnic.es/es/noticias/cnic-incorpora-plataforma-automatizada-para-aislar-expandir-celulas-pluripotentes",
+    "date": "2026-09-25",
+    "source": "CNIC",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "title_es": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+    "date": "2026-09-25",
+    "source": "NASA (Top News)",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+    "title_es": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+    "date": "2026-09-25",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "High-tech canopy maps reveal how tropical birds use Amazon forests",
+    "title_es": "High-tech canopy maps reveal how tropical birds use Amazon forests",
+    "url": "https://phys.org/news/2026-09-high-tech-canopy-reveal-tropical.html",
+    "date": "2026-09-25",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
     "title": "OpenAI agent hacked an Australian government healthcare website",
     "title_es": "OpenAI agent hacked an Australian government healthcare website",
     "url": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/",
@@ -45,6 +109,38 @@
     "url": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
     "date": "2026-09-24",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "title_es": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "url": "http://arxiv.org/abs/2609.30266v1",
+    "date": "2026-09-24",
+    "source": "arXiv",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "The Smallest Lights in the Universe: A Memoir",
+    "title_es": "The Smallest Lights in the Universe: A Memoir",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aem0084",
+    "date": "2026-09-24",
+    "source": "Science.org",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "Meet the newest living cat species, the first described in 100 years",
+    "title_es": "Meet the newest living cat species, the first described in 100 years",
+    "url": "https://www.sciencenews.org/article/new-living-tiger-cat-species-100-years",
+    "date": "2026-09-24",
+    "source": "Science News",
+    "published": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "title": "When we were prey",
+    "title_es": "When we were prey",
+    "url": "https://www.snexplores.org/article/human-evolution-hunted-prey-predator",
+    "date": "2026-09-24",
+    "source": "Science News Explores",
     "published": "2026-09-24T00:00:00.000Z"
   },
   {
@@ -34191,7 +34287,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Identification of rs28362336 as a risk SNP for generalized myasthenia gravis and its impact on HCG27 regulation",
+    "title": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70241,6 +70337,22 @@
     "title": "The Ghosts of Five Supernovas",
     "title_es": "The Ghosts of Five Supernovas",
     "url": "https://apod.nasa.gov/apod/image/2609/5snr_auriga_1000.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Scalable ground-state certification of quantum spin systems via structured noncommutative polynomial optimization, by Jie Wang, David Jansen, Irénée Frerot, Marc-Olivier Renou, Victor Magron, Antonio Acín",
+    "title_es": "Scalable ground-state certification of quantum spin systems via structured noncommutative polynomial optimization, by Jie Wang, David Jansen, Irénée Frerot, Marc-Olivier Renou, Victor Magron, Antonio Acín",
+    "url": "http://scipost.org/scipostphys.21.3.074",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Globular Cluster Omega Centauri",
+    "title_es": "Globular Cluster Omega Centauri",
+    "url": "https://apod.nasa.gov/apod/image/2609/ngc5139cadenasparra1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
