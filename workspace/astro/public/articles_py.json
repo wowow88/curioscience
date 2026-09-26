@@ -1,5 +1,19 @@
 [
   {
+    "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+    "title_es": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+    "date": "2026-09-26",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Millions in the US Northeast brace for a powerful storm",
+    "title_es": "Millions in the US Northeast brace for a powerful storm",
+    "url": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
+    "date": "2026-09-26",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "AI bots are flooding researchers with requests for money and time",
     "title_es": "AI bots are flooding researchers with requests for money and time",
     "url": "https://www.nature.com/articles/d41586-026-03005-2",
@@ -35,6 +49,48 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Tumor microbial biodiversity and microsatellite instability in colorectal cancer",
+    "title_es": "Tumor microbial biodiversity and microsatellite instability in colorectal cancer",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-09-25",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "title_es": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "url": "https://www.nature.com/articles/d41586-026-03041-y",
+    "date": "2026-09-25",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada\" hreflang=\"es\">SN 2021lwz: ¿Otra supernova exótica, luminosa y en rápida evolución con envoltura despojada?</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada\" hreflang=\"es\">SN 2021lwz: ¿Otra supernova exótica, luminosa y en rápida evolución con envoltura despojada?</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada",
+    "date": "2026-09-25",
+    "source": "IAC"
+  },
+  {
+    "title": "These are the first feathers ever found in fossilized dinosaur poop",
+    "title_es": "These are the first feathers ever found in fossilized dinosaur poop",
+    "url": "https://www.sciencenews.org/article/dino-poop-fossil-feathers-extinction",
+    "date": "2026-09-25",
+    "source": "Science News"
+  },
+  {
+    "title": "Like an armadillo, a new soft robot rolls up to protect itself",
+    "title_es": "Like an armadillo, a new soft robot rolls up to protect itself",
+    "url": "https://www.snexplores.org/article/soft-robot-armadillo-rolls-up",
+    "date": "2026-09-25",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "CERN has begun disconnecting the Large Hadron Collider",
+    "title_es": "CERN has begun disconnecting the Large Hadron Collider",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+    "date": "2026-09-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
     "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la\" hreflang=\"es\">El proyecto europeo ExGal-Twin, coordinado por el IAC, celebra su 2º Regional Meeting dedicado a la inteligencia artificial en la gestión de proyectos europeos</a>",
     "url": "https://www.iac.es/es/divulgacion/noticias/el-proyecto-europeo-exgal-twin-coordinado-por-el-iac-celebra-su-2o-regional-meeting-dedicado-la",
@@ -61,13 +117,6 @@
     "url": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
     "date": "2026-09-24",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
-    "title_es": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-09-24",
-    "source": "PLOS ONE"
   },
   {
     "title": "LLM Agents Can Easily Tamper With Their Own Traces",

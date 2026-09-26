@@ -1,5 +1,37 @@
 [
   {
+    "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+    "title_es": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+    "date": "2026-09-26",
+    "source": "NASA (Top News)",
+    "published": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "title": "Millions in the US Northeast brace for a powerful storm",
+    "title_es": "Millions in the US Northeast brace for a powerful storm",
+    "url": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
+    "date": "2026-09-26",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "title": "Trogons Once Had Ordinary Feet, 55-Million-Year-Old Fossil Shows",
+    "title_es": "Trogons Once Had Ordinary Feet, 55-Million-Year-Old Fossil Shows",
+    "url": "https://www.sci.news/paleontology/daniatrogon-kochi-15093.html",
+    "published": "2026-09-25T23:57:36.000Z",
+    "date": "2026-09-25",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Virtual green spaces and classical music reduce blood pressure in hospital",
+    "title_es": "Virtual green spaces and classical music reduce blood pressure in hospital",
+    "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/",
+    "published": "2026-09-25T22:01:00.000Z",
+    "date": "2026-09-25",
+    "source": "New Scientist"
+  },
+  {
     "title": "Mathematician discovers rare eight-faced shape",
     "title_es": "Mathematician discovers rare eight-faced shape",
     "url": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/",
@@ -61,6 +93,46 @@
     "url": "https://phys.org/news/2026-09-high-tech-canopy-reveal-tropical.html",
     "date": "2026-09-25",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "title_es": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "url": "https://www.nature.com/articles/d41586-026-03041-y",
+    "date": "2026-09-25",
+    "source": "Nature",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada\" hreflang=\"es\">SN 2021lwz: ¿Otra supernova exótica, luminosa y en rápida evolución con envoltura despojada?</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada\" hreflang=\"es\">SN 2021lwz: ¿Otra supernova exótica, luminosa y en rápida evolución con envoltura despojada?</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/sn-2021lwz-otra-supernova-exotica-luminosa-y-en-rapida-evolucion-con-envoltura-despojada",
+    "date": "2026-09-25",
+    "source": "IAC",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "These are the first feathers ever found in fossilized dinosaur poop",
+    "title_es": "These are the first feathers ever found in fossilized dinosaur poop",
+    "url": "https://www.sciencenews.org/article/dino-poop-fossil-feathers-extinction",
+    "date": "2026-09-25",
+    "source": "Science News",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "Like an armadillo, a new soft robot rolls up to protect itself",
+    "title_es": "Like an armadillo, a new soft robot rolls up to protect itself",
+    "url": "https://www.snexplores.org/article/soft-robot-armadillo-rolls-up",
+    "date": "2026-09-25",
+    "source": "Science News Explores",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "CERN has begun disconnecting the Large Hadron Collider",
+    "title_es": "CERN has begun disconnecting the Large Hadron Collider",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+    "date": "2026-09-25",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-25T00:00:00.000Z"
   },
   {
@@ -34287,7 +34359,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Multi source Earth observation and machine learning framework for mapping land degradation vulnerability in salinity- and hydrothermal-stressed regions of the southern main Ethiopian Rift",
+    "title": "Tumor microbial biodiversity and microsatellite instability in colorectal cancer",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70353,6 +70425,22 @@
     "title": "Globular Cluster Omega Centauri",
     "title_es": "Globular Cluster Omega Centauri",
     "url": "https://apod.nasa.gov/apod/image/2609/ngc5139cadenasparra1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Transport properties and thermopower of the spinful Sachdev-Ye-Kitaev dot, by Daniele Morotti, Marco Uguccioni, Luca Dell&#x27;Anna",
+    "title_es": "Transport properties and thermopower of the spinful Sachdev-Ye-Kitaev dot, by Daniele Morotti, Marco Uguccioni, Luca Dell&#x27;Anna",
+    "url": "http://scipost.org/scipostphyscore.9.3.061",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Mirrored Meteor and Milky Way",
+    "title_es": "Mirrored Meteor and Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/2609/milkywaymeteorlstjeffdai1024.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
