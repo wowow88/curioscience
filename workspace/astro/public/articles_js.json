@@ -32,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-    "title_es": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-    "published": "2026-09-26T04:05:00.000Z",
-    "date": "2026-09-26",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "These are the first feathers ever found in fossilized dinosaur poop",
     "title_es": "These are the first feathers ever found in fossilized dinosaur poop",
     "url": "https://www.sciencenews.org/article/dino-poop-fossil-feathers-extinction",
@@ -56,19 +48,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "CERN has begun disconnecting the Large Hadron Collider",
-    "title_es": "CERN has begun disconnecting the Large Hadron Collider",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
-    "published": "2026-09-25T13:01:20.000Z",
-    "date": "2026-09-25",
+    "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "title_es": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+    "published": "2026-09-26T12:31:07.000Z",
+    "date": "2026-09-26",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Millions in the US Northeast brace for a powerful storm",
-    "title_es": "Millions in the US Northeast brace for a powerful storm",
-    "url": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
-    "published": "2026-09-26T09:40:05.000Z",
-    "date": "2026-09-26",
+    "title": "Why AI has trouble predicting the fury of hurricane intensity",
+    "title_es": "Why AI has trouble predicting the fury of hurricane intensity",
+    "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+    "published": "2026-09-27T00:30:01.000Z",
+    "date": "2026-09-27",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +72,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Virtual green spaces and classical music reduce blood pressure in hospital",
-    "title_es": "Virtual green spaces and classical music reduce blood pressure in hospital",
-    "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/",
-    "published": "2026-09-25T22:01:00.000Z",
-    "date": "2026-09-25",
+    "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+    "title_es": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+    "url": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/",
+    "published": "2026-09-26T22:01:00.000Z",
+    "date": "2026-09-26",
     "source": "New Scientist"
   },
   {
@@ -120,9 +112,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "Mirrored Meteor and Milky Way",
-    "title_es": "Mirrored Meteor and Milky Way",
-    "url": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg",
+    "title": "Andromeda before Photoshop",
+    "title_es": "Andromeda before Photoshop",
+    "url": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=23.9905&long=163.0684",
+    "url": "https://www.latlong.net/c/?lat=36.3867&long=131.9053",
     "date": "",
     "published": "",
     "source": "ISS Position"

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why AI has trouble predicting the fury of hurricane intensity",
+    "title_es": "Why AI has trouble predicting the fury of hurricane intensity",
+    "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+    "date": "2026-09-27",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-27T00:00:00.000Z"
+  },
+  {
+    "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+    "title_es": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+    "url": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/",
+    "published": "2026-09-26T22:01:00.000Z",
+    "date": "2026-09-26",
+    "source": "New Scientist"
+  },
+  {
     "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
     "title_es": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
@@ -13,6 +29,14 @@
     "url": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
     "date": "2026-09-26",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "title_es": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+    "date": "2026-09-26",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-26T00:00:00.000Z"
   },
   {
@@ -70441,6 +70465,14 @@
     "title": "Mirrored Meteor and Milky Way",
     "title_es": "Mirrored Meteor and Milky Way",
     "url": "https://apod.nasa.gov/apod/image/2609/milkywaymeteorlstjeffdai1024.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Andromeda before Photoshop",
+    "title_es": "Andromeda before Photoshop",
+    "url": "https://apod.nasa.gov/apod/image/2609/m31before_scherer_960.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
