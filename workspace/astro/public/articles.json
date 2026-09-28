@@ -1,10 +1,90 @@
 [
   {
+    "title": "Why is this monster El Niño so strong?",
+    "title_es": "Why is this monster El Niño so strong?",
+    "url": "https://www.newscientist.com/article/2590917-what-has-made-this-monster-el-nino-so-strong/",
+    "published": "2026-09-28T11:00:00.000Z",
+    "date": "2026-09-28",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
+    "title_es": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
+    "published": "2026-09-28T10:00:00.000Z",
+    "date": "2026-09-28",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+    "title_es": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+    "url": "https://arxiv.org/abs/2609.30270",
+    "published": "2026-09-28T04:00:00.000Z",
+    "date": "2026-09-28",
+    "source": "arXiv"
+  },
+  {
+    "title": "China now leads the world in trials for next-gen CAR-T therapies",
+    "title_es": "China now leads the world in trials for next-gen CAR-T therapies",
+    "url": "https://www.nature.com/articles/d41586-026-03004-3",
+    "date": "2026-09-28",
+    "source": "Nature",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "El CNIC participa en la XVII Carrera Popular del Corazón para impulsar la prevención cardiovascular",
+    "title_es": "El CNIC participa en la XVII Carrera Popular del Corazón para impulsar la prevención cardiovascular",
+    "url": "https://www.cnic.es/es/noticias/cnic-participa-xvii-carrera-popular-corazon-para-impulsar-prevencion-cardiovascular",
+    "date": "2026-09-28",
+    "source": "CNIC",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-profesionales-de-la-ciencia-la-sanidad-y-la-empresa-para-explorar-nuevas-tecnologias\" hreflang=\"es\">El IAC reúne a profesionales de la ciencia, la sanidad y la empresa para explorar nuevas tecnologías médicas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-reune-profesionales-de-la-ciencia-la-sanidad-y-la-empresa-para-explorar-nuevas-tecnologias\" hreflang=\"es\">El IAC reúne a profesionales de la ciencia, la sanidad y la empresa para explorar nuevas tecnologías médicas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-reune-profesionales-de-la-ciencia-la-sanidad-y-la-empresa-para-explorar-nuevas-tecnologias",
+    "date": "2026-09-28",
+    "source": "IAC",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
+    "title_es": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
+    "date": "2026-09-28",
+    "source": "NASA (Top News)",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists Say: Paradox",
+    "title_es": "Scientists Say: Paradox",
+    "url": "https://www.snexplores.org/article/scientists-say-paradox-definition-pronunciation",
+    "date": "2026-09-28",
+    "source": "Science News Explores",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "title": "Biscayne Bay recognized as an essential habitat for sharks and rays",
+    "title_es": "Biscayne Bay recognized as an essential habitat for sharks and rays",
+    "url": "https://phys.org/news/2026-09-biscayne-bay-essential-habitat-sharks.html",
+    "date": "2026-09-28",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
     "title": "Why AI has trouble predicting the fury of hurricane intensity",
     "title_es": "Why AI has trouble predicting the fury of hurricane intensity",
     "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
     "date": "2026-09-27",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-27T00:00:00.000Z"
+  },
+  {
+    "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+    "title_es": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+    "date": "2026-09-27",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-27T00:00:00.000Z"
   },
   {
@@ -157,6 +237,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
     "date": "2026-09-25",
     "source": "ScienceDaily (Top)",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "title_es": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "url": "http://arxiv.org/abs/2609.31619v1",
+    "date": "2026-09-25",
+    "source": "arXiv",
     "published": "2026-09-25T00:00:00.000Z"
   },
   {
@@ -70473,6 +70561,22 @@
     "title": "Andromeda before Photoshop",
     "title_es": "Andromeda before Photoshop",
     "url": "https://apod.nasa.gov/apod/image/2609/m31before_scherer_960.jpg",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
+    "title": "Generalized cluster states in 2+1d: Non-invertible symmetries, interfaces, and parameterized families, by Kansei Inamura, Shuhei Ohyama",
+    "title_es": "Generalized cluster states in 2+1d: Non-invertible symmetries, interfaces, and parameterized families, by Kansei Inamura, Shuhei Ohyama",
+    "url": "http://scipost.org/scipostphys.21.3.078",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Cosmic Latte: The Average Color of the Universe",
+    "title_es": "Cosmic Latte: The Average Color of the Universe",
+    "url": "https://apod.nasa.gov/apod/image/2609/cosmiclatte_jhu_960_annotated.jpg",
     "date": "",
     "published": "",
     "source": "NASA APOD"
