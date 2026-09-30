@@ -1,5 +1,61 @@
 [
   {
+    "title": "The best new science-fiction books of October 2026",
+    "title_es": "The best new science-fiction books of October 2026",
+    "url": "https://www.newscientist.com/article/2591308-the-best-new-science-fiction-books-of-october-2026/",
+    "published": "2026-09-30T09:00:00.000Z",
+    "date": "2026-09-30",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Socrates-RAG: Premise-Directed Inquiry against Coordinated Evidence Poisoning",
+    "title_es": "Socrates-RAG: Premise-Directed Inquiry against Coordinated Evidence Poisoning",
+    "url": "https://arxiv.org/abs/2609.35773",
+    "published": "2026-09-30T04:00:00.000Z",
+    "date": "2026-09-30",
+    "source": "arXiv"
+  },
+  {
+    "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
+    "title_es": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
+    "url": "https://www.nature.com/articles/d41586-026-02965-9",
+    "date": "2026-09-30",
+    "source": "Nature",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "La Fundación Instituto Roche reconoce a ISCIII, CNIO, BSC-CNS y SEBiot por su labor en la formación de profesionales en Ciencia de Datos",
+    "title_es": "La Fundación Instituto Roche reconoce a ISCIII, CNIO, BSC-CNS y SEBiot por su labor en la formación de profesionales en Ciencia de Datos",
+    "url": "https://www.cnio.es/noticias/la-fundacion-instituto-roche-reconoce-a-isciii-cnio-bsc-cns-y-sebiot-por-su-labor-en-la-formacion-de-profesionales-en-ciencia-de-datos/",
+    "date": "2026-09-30",
+    "source": "CNIO",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-reune-investigadores-para-explorar-las-fronteras-del-universo-oscuro\" hreflang=\"es\">UNDARK reúne a investigadores para explorar las fronteras del Universo oscuro</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-reune-investigadores-para-explorar-las-fronteras-del-universo-oscuro\" hreflang=\"es\">UNDARK reúne a investigadores para explorar las fronteras del Universo oscuro</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/undark-reune-investigadores-para-explorar-las-fronteras-del-universo-oscuro",
+    "date": "2026-09-30",
+    "source": "IAC",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: Even as Earth’s oceans warm, one spot has gone cold",
+    "title_es": "Analyze This: Even as Earth’s oceans warm, one spot has gone cold",
+    "url": "https://www.snexplores.org/article/cold-spot-atlantic-ocean-amoc",
+    "date": "2026-09-30",
+    "source": "Science News Explores",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "Wild crabapples have genetic potential to improve domestic varieties",
+    "title_es": "Wild crabapples have genetic potential to improve domestic varieties",
+    "url": "https://phys.org/news/2026-09-wild-crabapples-genetic-potential-domestic.html",
+    "date": "2026-09-30",
+    "source": "Phys.org (Latest)",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
     "title": "Trustworthy science journalism is more essential than ever",
     "title_es": "Trustworthy science journalism is more essential than ever",
     "url": "https://www.newscientist.com/article/2591119-trustworthy-science-journalism-is-more-essential-than-ever/",
@@ -53,6 +109,22 @@
     "url": "https://phys.org/news/2026-09-intentional-substance-exposures-school.html",
     "date": "2026-09-29",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "title_es": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "url": "http://arxiv.org/abs/2609.38178v1",
+    "date": "2026-09-29",
+    "source": "arXiv",
+    "published": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "A medieval remedy could offer ideas for beating antibiotic resistance",
+    "title_es": "A medieval remedy could offer ideas for beating antibiotic resistance",
+    "url": "https://www.sciencenews.org/article/medieval-remedy-antibiotic-resistance",
+    "date": "2026-09-29",
+    "source": "Science News",
     "published": "2026-09-29T00:00:00.000Z"
   },
   {
@@ -34559,7 +34631,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review",
+    "title": "Determinants of women’s employee engagement in the Bangladeshi workforce",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70676,5 +70748,13 @@
     "date": "",
     "published": "",
     "source": "NASA APOD"
+  },
+  {
+    "title": "Zeeman quantum geometry as a probe of unconventional magnetism, by Neelanjan Chakraborti, Sudeep Kumar Ghosh, Snehasish Nandy",
+    "title_es": "Zeeman quantum geometry as a probe of unconventional magnetism, by Neelanjan Chakraborti, Sudeep Kumar Ghosh, Snehasish Nandy",
+    "url": "http://scipost.org/scipostphys.21.3.080",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
   }
 ]
