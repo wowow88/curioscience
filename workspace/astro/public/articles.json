@@ -1,5 +1,69 @@
 [
   {
+    "title": "A lack of rockets is creating a crisis for space technology companies",
+    "title_es": "A lack of rockets is creating a crisis for space technology companies",
+    "url": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/",
+    "published": "2026-10-01T11:00:00.000Z",
+    "date": "2026-10-01",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Large Language Models are Approximate Survival Estimators",
+    "title_es": "Large Language Models are Approximate Survival Estimators",
+    "url": "https://arxiv.org/abs/2609.38181",
+    "published": "2026-10-01T04:00:00.000Z",
+    "date": "2026-10-01",
+    "source": "arXiv"
+  },
+  {
+    "title": "New Feathered Dinosaur Suggests Flight Evolved More Than Once among Birds’ Closest Relatives",
+    "title_es": "New Feathered Dinosaur Suggests Flight Evolved More Than Once among Birds’ Closest Relatives",
+    "url": "https://www.sci.news/paleontology/norellraptor-barsboldi-15101.html",
+    "published": "2026-10-01T00:22:28.000Z",
+    "date": "2026-10-01",
+    "source": "Sci.News"
+  },
+  {
+    "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
+    "title_es": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
+    "url": "https://www.nature.com/articles/d41586-026-03042-x",
+    "date": "2026-10-01",
+    "source": "Nature",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "The second Competitive Call for Unique Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) for 2026 is now open",
+    "title_es": "The second Competitive Call for Unique Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) for 2026 is now open",
+    "url": "https://www.cnic.es/es/node/244557",
+    "date": "2026-10-01",
+    "source": "CNIC",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-italia-el-telescopio-self-un-prototipo-para-avanzar-en-la-busqueda-de-vida-en\" hreflang=\"es\">El IAC presenta en Italia el telescopio SELF, un prototipo para avanzar en la búsqueda de vida en exoplanetas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-italia-el-telescopio-self-un-prototipo-para-avanzar-en-la-busqueda-de-vida-en\" hreflang=\"es\">El IAC presenta en Italia el telescopio SELF, un prototipo para avanzar en la búsqueda de vida en exoplanetas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-italia-el-telescopio-self-un-prototipo-para-avanzar-en-la-busqueda-de-vida-en",
+    "date": "2026-10-01",
+    "source": "IAC",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "Farting fish and tooting manatees — how some animals use gas",
+    "title_es": "Farting fish and tooting manatees — how some animals use gas",
+    "url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
+    "date": "2026-10-01",
+    "source": "Science News Explores",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "The hidden pressure behind responding to a boss's good news",
+    "title_es": "The hidden pressure behind responding to a boss's good news",
+    "url": "https://phys.org/news/2026-10-hidden-pressure-boss-good-news.html",
+    "date": "2026-10-01",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
     "title": "The best new science-fiction books of October 2026",
     "title_es": "The best new science-fiction books of October 2026",
     "url": "https://www.newscientist.com/article/2591308-the-best-new-science-fiction-books-of-october-2026/",
@@ -53,6 +117,30 @@
     "url": "https://phys.org/news/2026-09-wild-crabapples-genetic-potential-domestic.html",
     "date": "2026-09-30",
     "source": "Phys.org (Latest)",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "title_es": "Semifactual Credit-Augmented Policy Optimization",
+    "url": "http://arxiv.org/abs/2609.40360v1",
+    "date": "2026-09-30",
+    "source": "arXiv",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "A new map points out U.S. rivers most worth protecting",
+    "title_es": "A new map points out U.S. rivers most worth protecting",
+    "url": "https://www.sciencenews.org/article/new-map-rivers-conservation-protection",
+    "date": "2026-09-30",
+    "source": "Science News",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+    "title_es": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+    "date": "2026-09-30",
+    "source": "ScienceDaily (Top)",
     "published": "2026-09-30T00:00:00.000Z"
   },
   {
@@ -34631,7 +34719,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Determinants of women’s employee engagement in the Bangladeshi workforce",
+    "title": "Knowledge coordination in a semi-closed IM network under time-critical conditions: Making distributed expertise actionable",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70756,5 +70844,21 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "Evaporating universes, by Divij Gupta",
+    "title_es": "Evaporating universes, by Divij Gupta",
+    "url": "http://scipost.org/scipostphys.21.4.081",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
   }
 ]
