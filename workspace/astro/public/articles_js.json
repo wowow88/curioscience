@@ -1,26 +1,26 @@
 [
   {
-    "title": "Large Language Models are Approximate Survival Estimators",
-    "title_es": "Large Language Models are Approximate Survival Estimators",
-    "url": "https://arxiv.org/abs/2609.38181",
-    "published": "2026-10-01T04:00:00.000Z",
-    "date": "2026-10-01",
+    "title": "PEDAL: Open Infrastructure for Citable AI Prompts in STEM Education and Research",
+    "title_es": "PEDAL: Open Infrastructure for Citable AI Prompts in STEM Education and Research",
+    "url": "https://arxiv.org/abs/2610.00001",
+    "published": "2026-10-02T04:00:00.000Z",
+    "date": "2026-10-02",
     "source": "arXiv"
   },
   {
-    "title": "The Smallest Lights in the Universe: A Memoir",
-    "title_es": "The Smallest Lights in the Universe: A Memoir",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aem0084",
-    "published": "2026-09-24T06:00:04.000Z",
-    "date": "2026-09-24",
+    "title": "A medical mystery unfolds in middle America",
+    "title_es": "A medical mystery unfolds in middle America",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael1175",
+    "published": "2026-10-01T06:00:21.000Z",
+    "date": "2026-10-01",
     "source": "Science.org"
   },
   {
-    "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
-    "title_es": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
-    "url": "https://www.nature.com/articles/d41586-026-03042-x",
-    "published": "2026-10-01T00:00:00.000Z",
-    "date": "2026-10-01",
+    "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
+    "title_es": "Stunning fossil shows dinosaurs' distinctive path to flight",
+    "url": "https://www.nature.com/articles/d41586-026-03126-8",
+    "published": "2026-10-02T00:00:00.000Z",
+    "date": "2026-10-02",
     "source": "Nature"
   },
   {
@@ -40,51 +40,59 @@
     "source": "CNIO"
   },
   {
-    "title": "A new map points out U.S. rivers most worth protecting",
-    "title_es": "A new map points out U.S. rivers most worth protecting",
-    "url": "https://www.sciencenews.org/article/new-map-rivers-conservation-protection",
-    "published": "2026-09-30T16:00:00.000Z",
-    "date": "2026-09-30",
+    "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+    "title_es": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
+    "published": "2026-10-02T04:05:00.000Z",
+    "date": "2026-10-02",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Here’s how brain-eating amoebas may infect people",
+    "title_es": "Here’s how brain-eating amoebas may infect people",
+    "url": "https://www.sciencenews.org/article/brain-eating-amoebas-naegleria-fowleri",
+    "published": "2026-10-01T15:30:00.000Z",
+    "date": "2026-10-01",
     "source": "Science News"
   },
   {
-    "title": "Farting fish and tooting manatees — how some animals use gas",
-    "title_es": "Farting fish and tooting manatees — how some animals use gas",
-    "url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
-    "published": "2026-10-01T10:30:00.000Z",
-    "date": "2026-10-01",
+    "title": "Among naked mole-rats, a royal’s scent keeps the peace",
+    "title_es": "Among naked mole-rats, a royal’s scent keeps the peace",
+    "url": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
+    "published": "2026-10-02T10:30:00.000Z",
+    "date": "2026-10-02",
     "source": "Science News Explores"
   },
   {
-    "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-    "title_es": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
-    "published": "2026-09-30T08:36:42.000Z",
-    "date": "2026-09-30",
+    "title": "This diet may slow brain aging by 2.5 years",
+    "title_es": "This diet may slow brain aging by 2.5 years",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "published": "2026-10-01T12:26:47.000Z",
+    "date": "2026-10-01",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "The hidden pressure behind responding to a boss's good news",
-    "title_es": "The hidden pressure behind responding to a boss's good news",
-    "url": "https://phys.org/news/2026-10-hidden-pressure-boss-good-news.html",
-    "published": "2026-10-01T11:20:06.000Z",
-    "date": "2026-10-01",
+    "title": "Q&A: How can marketers use AI effectively—without losing human judgment?",
+    "title_es": "Q&A: How can marketers use AI effectively—without losing human judgment?",
+    "url": "https://phys.org/news/2026-10-qa-ai-effectively-human-judgment.html",
+    "published": "2026-10-02T11:00:08.000Z",
+    "date": "2026-10-02",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Knowledge coordination in a semi-closed IM network under time-critical conditions: Making distributed expertise actionable",
-    "title_es": "Knowledge coordination in a semi-closed IM network under time-critical conditions: Making distributed expertise actionable",
+    "title": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
+    "title_es": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-09-30T14:00:00.000Z",
-    "date": "2026-09-30",
+    "published": "2026-10-01T14:00:00.000Z",
+    "date": "2026-10-01",
     "source": "PLOS ONE"
   },
   {
-    "title": "A lack of rockets is creating a crisis for space technology companies",
-    "title_es": "A lack of rockets is creating a crisis for space technology companies",
-    "url": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/",
-    "published": "2026-10-01T11:00:00.000Z",
-    "date": "2026-10-01",
+    "title": "Brain area discovered that may be critical for viable pregnancies",
+    "title_es": "Brain area discovered that may be critical for viable pregnancies",
+    "url": "https://www.newscientist.com/article/2591599-brain-area-discovered-that-may-be-critical-for-viable-pregnancies/",
+    "published": "2026-10-02T10:00:00.000Z",
+    "date": "2026-10-02",
     "source": "New Scientist"
   },
   {
@@ -96,41 +104,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "New Feathered Dinosaur Suggests Flight Evolved More Than Once among Birds’ Closest Relatives",
-    "title_es": "New Feathered Dinosaur Suggests Flight Evolved More Than Once among Birds’ Closest Relatives",
-    "url": "https://www.sci.news/paleontology/norellraptor-barsboldi-15101.html",
-    "published": "2026-10-01T00:22:28.000Z",
+    "title": "Dinosaur-Era Mammal Swam Like Platypus and Replaced Its Teeth Multiple Times",
+    "title_es": "Dinosaur-Era Mammal Swam Like Platypus and Replaced Its Teeth Multiple Times",
+    "url": "https://www.sci.news/paleontology/dongoconodon-platycauda-15104.html",
+    "published": "2026-10-01T22:28:50.000Z",
     "date": "2026-10-01",
     "source": "Sci.News"
   },
   {
-    "title": "Podcast: Should We Put AI-Enabled Tech in Our Brains?",
-    "title_es": "Podcast: Should We Put AI-Enabled Tech in Our Brains?",
-    "url": "https://undark.org/2026/09/25/podcast-neural-implants/",
-    "published": "2026-09-25T07:01:00.000Z",
-    "date": "2026-09-25",
+    "title": "Podcast: Is ADHD Actually a Disorder?",
+    "title_es": "Podcast: Is ADHD Actually a Disorder?",
+    "url": "https://undark.org/2026/10/02/podcast-adhd-disorder/",
+    "published": "2026-10-02T07:05:00.000Z",
+    "date": "2026-10-02",
     "source": "Undark Magazine"
   },
   {
-    "title": "Evaporating universes, by Divij Gupta",
-    "title_es": "Evaporating universes, by Divij Gupta",
-    "url": "http://scipost.org/scipostphys.21.4.081",
+    "title": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
+    "title_es": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
+    "url": "http://scipost.org/scipostphys.21.4.082",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "NASA Science",
-    "title_es": "NASA Science",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=37.0338&long=-15.8312",
+    "url": "https://www.latlong.net/c/?lat=43.0780&long=81.4666",
     "date": "",
     "published": "",
     "source": "ISS Position"
