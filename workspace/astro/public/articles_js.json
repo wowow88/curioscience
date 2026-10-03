@@ -1,13 +1,5 @@
 [
   {
-    "title": "PEDAL: Open Infrastructure for Citable AI Prompts in STEM Education and Research",
-    "title_es": "PEDAL: Open Infrastructure for Citable AI Prompts in STEM Education and Research",
-    "url": "https://arxiv.org/abs/2610.00001",
-    "published": "2026-10-02T04:00:00.000Z",
-    "date": "2026-10-02",
-    "source": "arXiv"
-  },
-  {
     "title": "A medical mystery unfolds in middle America",
     "title_es": "A medical mystery unfolds in middle America",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael1175",
@@ -16,9 +8,9 @@
     "source": "Science.org"
   },
   {
-    "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
-    "title_es": "Stunning fossil shows dinosaurs' distinctive path to flight",
-    "url": "https://www.nature.com/articles/d41586-026-03126-8",
+    "title": "Location, location, location: how to edit genes only in the cells you want",
+    "title_es": "Location, location, location: how to edit genes only in the cells you want",
+    "url": "https://www.nature.com/articles/d41586-026-03037-8",
     "published": "2026-10-02T00:00:00.000Z",
     "date": "2026-10-02",
     "source": "Nature"
@@ -32,27 +24,27 @@
     "source": "CNIC"
   },
   {
-    "title": "La Fundación Instituto Roche reconoce a ISCIII, CNIO, BSC-CNS y SEBiot por su labor en la formación de profesionales en Ciencia de Datos",
-    "title_es": "La Fundación Instituto Roche reconoce a ISCIII, CNIO, BSC-CNS y SEBiot por su labor en la formación de profesionales en Ciencia de Datos",
-    "url": "https://www.cnio.es/noticias/la-fundacion-instituto-roche-reconoce-a-isciii-cnio-bsc-cns-y-sebiot-por-su-labor-en-la-formacion-de-profesionales-en-ciencia-de-datos/",
-    "published": "2026-09-30T09:34:14.000Z",
-    "date": "2026-09-30",
+    "title": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "title_es": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "url": "https://www.cnio.es/noticias/beca-leonardo-a-marcos-diaz-gay-para-investigar-como-el-cancer-de-colon-en-jovenes-escapa-a-las-defensas-del-organismo/",
+    "published": "2026-10-02T16:20:28.000Z",
+    "date": "2026-10-02",
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-    "title_es": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-    "published": "2026-10-02T04:05:00.000Z",
-    "date": "2026-10-02",
+    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "title_es": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+    "published": "2026-10-03T04:05:00.000Z",
+    "date": "2026-10-03",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Here’s how brain-eating amoebas may infect people",
-    "title_es": "Here’s how brain-eating amoebas may infect people",
-    "url": "https://www.sciencenews.org/article/brain-eating-amoebas-naegleria-fowleri",
-    "published": "2026-10-01T15:30:00.000Z",
-    "date": "2026-10-01",
+    "title": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "title_es": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "url": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
+    "published": "2026-10-02T16:00:00.000Z",
+    "date": "2026-10-02",
     "source": "Science News"
   },
   {
@@ -72,26 +64,26 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Q&A: How can marketers use AI effectively—without losing human judgment?",
-    "title_es": "Q&A: How can marketers use AI effectively—without losing human judgment?",
-    "url": "https://phys.org/news/2026-10-qa-ai-effectively-human-judgment.html",
-    "published": "2026-10-02T11:00:08.000Z",
-    "date": "2026-10-02",
+    "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "title_es": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "url": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
+    "published": "2026-10-03T10:00:10.000Z",
+    "date": "2026-10-03",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
-    "title_es": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
+    "title": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
+    "title_es": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-01T14:00:00.000Z",
-    "date": "2026-10-01",
+    "published": "2026-10-02T14:00:00.000Z",
+    "date": "2026-10-02",
     "source": "PLOS ONE"
   },
   {
-    "title": "Brain area discovered that may be critical for viable pregnancies",
-    "title_es": "Brain area discovered that may be critical for viable pregnancies",
-    "url": "https://www.newscientist.com/article/2591599-brain-area-discovered-that-may-be-critical-for-viable-pregnancies/",
-    "published": "2026-10-02T10:00:00.000Z",
+    "title": "Fossil mammal with reptile-like teeth changes picture of our evolution",
+    "title_es": "Fossil mammal with reptile-like teeth changes picture of our evolution",
+    "url": "https://www.newscientist.com/article/2591803-fossil-mammal-with-reptile-like-teeth-changes-picture-of-our-evolution/",
+    "published": "2026-10-02T16:00:00.000Z",
     "date": "2026-10-02",
     "source": "New Scientist"
   },
@@ -104,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Dinosaur-Era Mammal Swam Like Platypus and Replaced Its Teeth Multiple Times",
-    "title_es": "Dinosaur-Era Mammal Swam Like Platypus and Replaced Its Teeth Multiple Times",
-    "url": "https://www.sci.news/paleontology/dongoconodon-platycauda-15104.html",
-    "published": "2026-10-01T22:28:50.000Z",
-    "date": "2026-10-01",
+    "title": "First Animals May Have Appeared 200 Million Years Earlier than Their Oldest Fossils Suggest",
+    "title_es": "First Animals May Have Appeared 200 Million Years Earlier than Their Oldest Fossils Suggest",
+    "url": "https://www.sci.news/paleontology/first-animals-15106.html",
+    "published": "2026-10-02T22:15:56.000Z",
+    "date": "2026-10-02",
     "source": "Sci.News"
   },
   {
@@ -120,9 +112,9 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
-    "title_es": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
-    "url": "http://scipost.org/scipostphys.21.4.082",
+    "title": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
+    "title_es": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
+    "url": "http://scipost.org/migpol.5.1.001",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
@@ -130,7 +122,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=43.0780&long=81.4666",
+    "url": "https://www.latlong.net/c/?lat=27.6396&long=109.4979",
     "date": "",
     "published": "",
     "source": "ISS Position"

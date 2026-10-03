@@ -1,5 +1,19 @@
 [
   {
+    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "title_es": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+    "date": "2026-10-03",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "title_es": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "url": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
+    "date": "2026-10-03",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
     "title_es": "Stunning fossil shows dinosaurs' distinctive path to flight",
     "url": "https://www.nature.com/articles/d41586-026-03126-8",
@@ -35,6 +49,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
+    "title_es": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-02",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Location, location, location: how to edit genes only in the cells you want",
+    "title_es": "Location, location, location: how to edit genes only in the cells you want",
+    "url": "https://www.nature.com/articles/d41586-026-03037-8",
+    "date": "2026-10-02",
+    "source": "Nature"
+  },
+  {
+    "title": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "title_es": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "url": "https://www.cnio.es/noticias/beca-leonardo-a-marcos-diaz-gay-para-investigar-como-el-cancer-de-colon-en-jovenes-escapa-a-las-defensas-del-organismo/",
+    "date": "2026-10-02",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo (EST) recibe el estatus landmark de ESFRI</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo (EST) recibe el estatus landmark de ESFRI</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri",
+    "date": "2026-10-02",
+    "source": "IAC"
+  },
+  {
+    "title": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "title_es": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "url": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
+    "date": "2026-10-02",
+    "source": "Science News"
+  },
+  {
     "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
     "title_es": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
     "url": "https://www.nature.com/articles/d41586-026-03042-x",
@@ -68,13 +117,6 @@
     "url": "https://phys.org/news/2026-10-hidden-pressure-boss-good-news.html",
     "date": "2026-10-01",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
-    "title_es": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-01",
-    "source": "PLOS ONE"
   },
   {
     "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",

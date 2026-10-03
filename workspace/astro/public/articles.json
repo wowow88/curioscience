@@ -1,5 +1,37 @@
 [
   {
+    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "title_es": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+    "date": "2026-10-03",
+    "source": "NASA (Top News)",
+    "published": "2026-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "title_es": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+    "url": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
+    "date": "2026-10-03",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-03T00:00:00.000Z"
+  },
+  {
+    "title": "First Animals May Have Appeared 200 Million Years Earlier than Their Oldest Fossils Suggest",
+    "title_es": "First Animals May Have Appeared 200 Million Years Earlier than Their Oldest Fossils Suggest",
+    "url": "https://www.sci.news/paleontology/first-animals-15106.html",
+    "published": "2026-10-02T22:15:56.000Z",
+    "date": "2026-10-02",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Fossil mammal with reptile-like teeth changes picture of our evolution",
+    "title_es": "Fossil mammal with reptile-like teeth changes picture of our evolution",
+    "url": "https://www.newscientist.com/article/2591803-fossil-mammal-with-reptile-like-teeth-changes-picture-of-our-evolution/",
+    "published": "2026-10-02T16:00:00.000Z",
+    "date": "2026-10-02",
+    "source": "New Scientist"
+  },
+  {
     "title": "Brain area discovered that may be critical for viable pregnancies",
     "title_es": "Brain area discovered that may be critical for viable pregnancies",
     "url": "https://www.newscientist.com/article/2591599-brain-area-discovered-that-may-be-critical-for-viable-pregnancies/",
@@ -61,6 +93,38 @@
     "url": "https://phys.org/news/2026-10-qa-ai-effectively-human-judgment.html",
     "date": "2026-10-02",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "Location, location, location: how to edit genes only in the cells you want",
+    "title_es": "Location, location, location: how to edit genes only in the cells you want",
+    "url": "https://www.nature.com/articles/d41586-026-03037-8",
+    "date": "2026-10-02",
+    "source": "Nature",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "title_es": "`Beca Leonardo´ a Marcos Díaz-Gay para investigar cómo el cáncer de colón en jóvenes escapa a las defensas del organismo",
+    "url": "https://www.cnio.es/noticias/beca-leonardo-a-marcos-diaz-gay-para-investigar-como-el-cancer-de-colon-en-jovenes-escapa-a-las-defensas-del-organismo/",
+    "date": "2026-10-02",
+    "source": "CNIO",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo (EST) recibe el estatus landmark de ESFRI</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo (EST) recibe el estatus landmark de ESFRI</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-est-recibe-el-estatus-landmark-de-esfri",
+    "date": "2026-10-02",
+    "source": "IAC",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "title_es": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+    "url": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
+    "date": "2026-10-02",
+    "source": "Science News",
     "published": "2026-10-02T00:00:00.000Z"
   },
   {
@@ -34823,7 +34887,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
+    "title": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -70969,6 +71033,14 @@
     "title": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
     "title_es": "Quantum kinetic theory for quantum chromodynamics, by Shu Lin",
     "url": "http://scipost.org/scipostphys.21.4.082",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
+    "title_es": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
+    "url": "http://scipost.org/migpol.5.1.001",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
