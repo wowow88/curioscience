@@ -32,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-    "title_es": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-    "published": "2026-10-03T04:05:00.000Z",
-    "date": "2026-10-03",
+    "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+    "title_es": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+    "published": "2026-10-04T04:05:00.000Z",
+    "date": "2026-10-04",
     "source": "NASA (Top News)"
   },
   {
@@ -56,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "This diet may slow brain aging by 2.5 years",
-    "title_es": "This diet may slow brain aging by 2.5 years",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-    "published": "2026-10-01T12:26:47.000Z",
-    "date": "2026-10-01",
+    "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+    "title_es": "This protective enzyme could help stop fatty liver disease from getting worse",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+    "published": "2026-10-03T13:46:11.000Z",
+    "date": "2026-10-03",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
-    "title_es": "Sea levels to rise in California as a coastal wave surges up the West Coast",
-    "url": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
-    "published": "2026-10-03T10:00:10.000Z",
-    "date": "2026-10-03",
+    "title": "Cry for help as French-Swiss lake dries up",
+    "title_es": "Cry for help as French-Swiss lake dries up",
+    "url": "https://phys.org/news/2026-10-cry-french-swiss-lake-dries.html",
+    "published": "2026-10-04T11:01:39.000Z",
+    "date": "2026-10-04",
     "source": "Phys.org (Latest)"
   },
   {
@@ -120,9 +120,17 @@
     "source": "SciPost Publications"
   },
   {
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=27.6396&long=109.4979",
+    "url": "https://www.latlong.net/c/?lat=34.9114&long=83.8962",
     "date": "",
     "published": "",
     "source": "ISS Position"
