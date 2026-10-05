@@ -1,5 +1,69 @@
 [
   {
+    "title": "Compressing bones releases molecules that ease traumatic brain injuries",
+    "title_es": "Compressing bones releases molecules that ease traumatic brain injuries",
+    "url": "https://www.newscientist.com/article/2591964-compressing-bones-releases-molecules-that-ease-traumatic-brain-injuries/",
+    "published": "2026-10-05T11:00:00.000Z",
+    "date": "2026-10-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "datascribe_api: Enabling Data-Driven Materials Discovery with DataScribe",
+    "title_es": "datascribe_api: Enabling Data-Driven Materials Discovery with DataScribe",
+    "url": "https://arxiv.org/abs/2610.02211",
+    "published": "2026-10-05T04:00:00.000Z",
+    "date": "2026-10-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+    "title_es": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+    "url": "https://www.nature.com/articles/d41586-026-03091-2",
+    "date": "2026-10-05",
+    "source": "Nature",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+    "title_es": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+    "date": "2026-10-05",
+    "source": "NASA (Top News)",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "2026’s El Niño is record-breaking — and it’s not done yet",
+    "title_es": "2026’s El Niño is record-breaking — and it’s not done yet",
+    "url": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
+    "date": "2026-10-05",
+    "source": "Science News Explores",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "The “glue” holding your cells together has a surprising second job",
+    "title_es": "The “glue” holding your cells together has a surprising second job",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+    "date": "2026-10-05",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
+    "title_es": "Scientists uncover recurrent patterns within chaotic quantum behavior",
+    "url": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
+    "date": "2026-10-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+    "title_es": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+    "published": "2026-10-04T12:05:54.000Z",
+    "date": "2026-10-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
     "title_es": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
@@ -149,6 +213,22 @@
     "url": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
     "date": "2026-10-02",
     "source": "Science News",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "title_es": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "url": "http://arxiv.org/abs/2610.03717v1",
+    "date": "2026-10-02",
+    "source": "arXiv",
+    "published": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo recibe el estatus landmark de ESFRI</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-recibe-el-estatus-landmark-de-esfri\" hreflang=\"es\">El Telescopio Solar Europeo recibe el estatus landmark de ESFRI</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-recibe-el-estatus-landmark-de-esfri",
+    "date": "2026-10-02",
+    "source": "IAC",
     "published": "2026-10-02T00:00:00.000Z"
   },
   {
@@ -71065,6 +71145,14 @@
     "title": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
     "title_es": "“Relief empire”: Racial aphasia, colonial unknowing and international organizations in the global governance of refugees, by Megan Bradley",
     "url": "http://scipost.org/migpol.5.1.001",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "BBP transition and the leading eigenvector of the spiked Wigner model with inhomogeneous noise, by Leonardo S. Ferreira, Fernando L. Metz",
+    "title_es": "BBP transition and the leading eigenvector of the spiked Wigner model with inhomogeneous noise, by Leonardo S. Ferreira, Fernando L. Metz",
+    "url": "http://scipost.org/scipostphyscore.9.4.064",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
