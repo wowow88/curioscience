@@ -1,5 +1,61 @@
 [
   {
+    "title": "Nobel prize in physics awarded for discovery of high-energy neutrinos",
+    "title_es": "Nobel prize in physics awarded for discovery of high-energy neutrinos",
+    "url": "https://www.newscientist.com/article/2592237-nobel-prize-in-physics-awarded-for-discovery-of-high-energy-neutrinos/",
+    "published": "2026-10-06T10:26:02.000Z",
+    "date": "2026-10-06",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Maintaining global science collaboration during conflict requires fairer rules",
+    "title_es": "Maintaining global science collaboration during conflict requires fairer rules",
+    "url": "https://www.nature.com/articles/d41586-026-03176-y",
+    "date": "2026-10-06",
+    "source": "Nature",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+    "title_es": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+    "date": "2026-10-06",
+    "source": "NASA (Top News)",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "Your voice is more than sound. It’s part of who you are",
+    "title_es": "Your voice is more than sound. It’s part of who you are",
+    "url": "https://www.sciencenews.org/article/deep-end-voice-more-sound-identity",
+    "date": "2026-10-06",
+    "source": "Science News",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "Let’s learn about origami-inspired science",
+    "title_es": "Let’s learn about origami-inspired science",
+    "url": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
+    "date": "2026-10-06",
+    "source": "Science News Explores",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "As the planet warms, cities like Bangkok could be increasingly inundated by deadly floods",
+    "title_es": "As the planet warms, cities like Bangkok could be increasingly inundated by deadly floods",
+    "url": "https://phys.org/news/2026-10-planet-cities-bangkok-inundated-deadly.html",
+    "date": "2026-10-06",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "New Species of Freshwater Mosasaur Identified in France",
+    "title_es": "New Species of Freshwater Mosasaur Identified in France",
+    "url": "https://www.sci.news/paleontology/garamaudo-bauciensis-15111.html",
+    "published": "2026-10-05T23:55:53.000Z",
+    "date": "2026-10-05",
+    "source": "Sci.News"
+  },
+  {
     "title": "Compressing bones releases molecules that ease traumatic brain injuries",
     "title_es": "Compressing bones releases molecules that ease traumatic brain injuries",
     "url": "https://www.newscientist.com/article/2591964-compressing-bones-releases-molecules-that-ease-traumatic-brain-injuries/",
@@ -53,6 +109,30 @@
     "url": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
     "date": "2026-10-05",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+    "title_es": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+    "url": "http://arxiv.org/abs/2610.06852v1",
+    "date": "2026-10-05",
+    "source": "arXiv",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "La Fundación Domingo Martínez impulsa la investigación del CNIO en cáncer de vejiga",
+    "title_es": "La Fundación Domingo Martínez impulsa la investigación del CNIO en cáncer de vejiga",
+    "url": "https://www.cnio.es/noticias/la-fundacion-domingo-martinez-impulsa-la-investigacion-del-cnio-en-cancer-de-vejiga/",
+    "date": "2026-10-05",
+    "source": "CNIO",
+    "published": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+    "title_es": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+    "date": "2026-10-05",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-05T00:00:00.000Z"
   },
   {
@@ -34991,7 +35071,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
+    "title": "Circulating low- and medium-molecular-weight adiponectin are associated with metabolic phenotypes in adults undergoing cardiometabolic screening",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -71153,6 +71233,14 @@
     "title": "BBP transition and the leading eigenvector of the spiked Wigner model with inhomogeneous noise, by Leonardo S. Ferreira, Fernando L. Metz",
     "title_es": "BBP transition and the leading eigenvector of the spiked Wigner model with inhomogeneous noise, by Leonardo S. Ferreira, Fernando L. Metz",
     "url": "http://scipost.org/scipostphyscore.9.4.064",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Codebase release 3.0 for CONTUR, by Andy Buckley, Jon Butterworth, Joseph Egan, Christian Gutschow, Sihyun Jeon, Martin Habedank, Tomasz Procter, Peng Wang, Yoran Yeh, Luzhan Yue",
+    "title_es": "Codebase release 3.0 for CONTUR, by Andy Buckley, Jon Butterworth, Joseph Egan, Christian Gutschow, Sihyun Jeon, Martin Habedank, Tomasz Procter, Peng Wang, Yoran Yeh, Luzhan Yue",
+    "url": "http://scipost.org/scipostphyscodeb.83-r3.0",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
