@@ -1,5 +1,77 @@
 [
   {
+    "title": "OpenAI announces 722 mathematical discoveries in one go",
+    "title_es": "OpenAI announces 722 mathematical discoveries in one go",
+    "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/",
+    "published": "2026-10-07T10:29:19.000Z",
+    "date": "2026-10-07",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Beyond Marginals: A Multi-Dimensional Evaluation Framework for Multi-Table Synthetic Data Generation",
+    "title_es": "Beyond Marginals: A Multi-Dimensional Evaluation Framework for Multi-Table Synthetic Data Generation",
+    "url": "https://arxiv.org/abs/2610.06854",
+    "published": "2026-10-07T04:00:00.000Z",
+    "date": "2026-10-07",
+    "source": "arXiv"
+  },
+  {
+    "title": "Chemistry Nobel for solving mystery of how ‘handed’ organic molecules can emerge",
+    "title_es": "Chemistry Nobel for solving mystery of how ‘handed’ organic molecules can emerge",
+    "url": "https://www.nature.com/articles/d41586-026-03093-0",
+    "date": "2026-10-07",
+    "source": "Nature",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Boletín Amigos/as del CNIO 53",
+    "title_es": "Boletín Amigos/as del CNIO 53",
+    "url": "https://www.cnio.es/noticias/boletin-amigos/boletin-amigos-as-del-cnio-53/",
+    "date": "2026-10-07",
+    "source": "CNIO",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigacion-astronomica-vuelve-las-aulas-de-toda-espana-de-la-mano-del-proyecto-peter-del-iac\" hreflang=\"es\">La investigación astronómica vuelve a las aulas de toda España de la mano del proyecto PETeR del IAC</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-investigacion-astronomica-vuelve-las-aulas-de-toda-espana-de-la-mano-del-proyecto-peter-del-iac\" hreflang=\"es\">La investigación astronómica vuelve a las aulas de toda España de la mano del proyecto PETeR del IAC</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-investigacion-astronomica-vuelve-las-aulas-de-toda-espana-de-la-mano-del-proyecto-peter-del-iac",
+    "date": "2026-10-07",
+    "source": "IAC",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+    "title_es": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+    "date": "2026-10-07",
+    "source": "NASA (Top News)",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Experiment: Discover the science behind afterimages",
+    "title_es": "Experiment: Discover the science behind afterimages",
+    "url": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
+    "date": "2026-10-07",
+    "source": "Science News Explores",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "Humans may not be as hardwired for violence as we thought",
+    "title_es": "Humans may not be as hardwired for violence as we thought",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+    "date": "2026-10-07",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "title": "'Real opportunity' to boost low-carbon European holidays",
+    "title_es": "'Real opportunity' to boost low-carbon European holidays",
+    "url": "https://phys.org/news/2026-10-real-opportunity-boost-carbon-european.html",
+    "date": "2026-10-07",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-07T00:00:00.000Z"
+  },
+  {
     "title": "Nobel prize in physics awarded for discovery of high-energy neutrinos",
     "title_es": "Nobel prize in physics awarded for discovery of high-energy neutrinos",
     "url": "https://www.newscientist.com/article/2592237-nobel-prize-in-physics-awarded-for-discovery-of-high-energy-neutrinos/",
@@ -45,6 +117,22 @@
     "url": "https://phys.org/news/2026-10-planet-cities-bangkok-inundated-deadly.html",
     "date": "2026-10-06",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "title_es": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "url": "http://arxiv.org/abs/2610.08782v1",
+    "date": "2026-10-06",
+    "source": "arXiv",
+    "published": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "title": "An extinct crocodilian was found among rocks that built the Great Sphinx",
+    "title_es": "An extinct crocodilian was found among rocks that built the Great Sphinx",
+    "url": "https://www.sciencenews.org/article/extinct-crocodilian-rocks-great-sphinx",
+    "date": "2026-10-06",
+    "source": "Science News",
     "published": "2026-10-06T00:00:00.000Z"
   },
   {
@@ -413,6 +501,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
     "date": "2026-10-01",
     "source": "ScienceDaily (Top)",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "title": "A medical mystery unfolds in middle America",
+    "title_es": "A medical mystery unfolds in middle America",
+    "url": "https://spj.science.org/doi/abs/10.1126/science.ael1175",
+    "date": "2026-10-01",
+    "source": "Science.org",
     "published": "2026-10-01T00:00:00.000Z"
   },
   {
@@ -35071,7 +35167,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Circulating low- and medium-molecular-weight adiponectin are associated with metabolic phenotypes in adults undergoing cardiometabolic screening",
+    "title": "Occupational hazard incident reporting systems in health facilities across sub-Saharan Africa: A scoping review protocol",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
