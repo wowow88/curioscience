@@ -1,5 +1,19 @@
 [
   {
+    "title": "APOD: 2026 October 10 – Lunar Farside",
+    "title_es": "APOD: 2026 October 10 – Lunar Farside",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "date": "2026-10-10",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+    "title_es": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+    "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+    "date": "2026-10-10",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "APOD: 2026 October 9 – Stickney Crater",
     "title_es": "APOD: 2026 October 9 – Stickney Crater",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
@@ -28,6 +42,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Analysis of the spectrum of critical illnesses in the emergency department of Hebei Children's Hospital: A single-center study",
+    "title_es": "Analysis of the spectrum of critical illnesses in the emergency department of Hebei Children's Hospital: A single-center study",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-09",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "title_es": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "url": "https://www.nature.com/articles/d41586-026-03159-z",
+    "date": "2026-10-09",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de\" hreflang=\"es\">El astrofísico y divulgador Héctor Socas presenta su libro Horizontes de la civilización en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de\" hreflang=\"es\">El astrofísico y divulgador Héctor Socas presenta su libro Horizontes de la civilización en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de",
+    "date": "2026-10-09",
+    "source": "IAC"
+  },
+  {
+    "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
+    "title_es": "How the Grand Canyon could have lost 1 billion years of geologic history",
+    "url": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
+    "date": "2026-10-09",
+    "source": "Science News"
+  },
+  {
     "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
     "title_es": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
     "url": "https://www.nature.com/articles/d41586-026-03045-8",
@@ -54,13 +96,6 @@
     "url": "https://phys.org/news/2026-10-brain-cells-cholesterol-neuron.html",
     "date": "2026-10-08",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Effect of amaranth flatbread on maternal anthropometry during pregnancy: Evidence from a cluster-randomized controlled trial in Southern Ethiopia",
-    "title_es": "Effect of amaranth flatbread on maternal anthropometry during pregnancy: Evidence from a cluster-randomized controlled trial in Southern Ethiopia",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-08",
-    "source": "PLOS ONE"
   },
   {
     "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",

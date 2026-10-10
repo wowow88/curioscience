@@ -1,5 +1,37 @@
 [
   {
+    "title": "APOD: 2026 October 10 – Lunar Farside",
+    "title_es": "APOD: 2026 October 10 – Lunar Farside",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "date": "2026-10-10",
+    "source": "NASA (Top News)",
+    "published": "2026-10-10T00:00:00.000Z"
+  },
+  {
+    "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+    "title_es": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+    "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+    "date": "2026-10-10",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-10T00:00:00.000Z"
+  },
+  {
+    "title": "Jurassic Crocodile Relative from Morocco Had Needle-Thin Teeth",
+    "title_es": "Jurassic Crocodile Relative from Morocco Had Needle-Thin Teeth",
+    "url": "https://www.sci.news/paleontology/ctenosuchus-tenuidens-15120.html",
+    "published": "2026-10-09T23:17:10.000Z",
+    "date": "2026-10-09",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Two large asteroids found spinning as fast as a fairground ride",
+    "title_es": "Two large asteroids found spinning as fast as a fairground ride",
+    "url": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/",
+    "published": "2026-10-09T17:00:00.000Z",
+    "date": "2026-10-09",
+    "source": "New Scientist"
+  },
+  {
     "title": "Grief and tech collide in uneasily brilliant sci-fi film The Remotes",
     "title_es": "Grief and tech collide in uneasily brilliant sci-fi film The Remotes",
     "url": "https://www.newscientist.com/article/2592782-grief-and-tech-collide-in-uneasily-brilliant-sci-fi-film-the-remotes/",
@@ -70,6 +102,30 @@
     "published": "2026-10-09T00:00:00.000Z",
     "date": "2026-10-09",
     "source": "Nature"
+  },
+  {
+    "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "title_es": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "url": "https://www.nature.com/articles/d41586-026-03159-z",
+    "date": "2026-10-09",
+    "source": "Nature",
+    "published": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de\" hreflang=\"es\">El astrofísico y divulgador Héctor Socas presenta su libro Horizontes de la civilización en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de\" hreflang=\"es\">El astrofísico y divulgador Héctor Socas presenta su libro Horizontes de la civilización en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-astrofisico-y-divulgador-hector-socas-presenta-su-libro-horizontes-de-la-civilizacion-en-el-museo-de",
+    "date": "2026-10-09",
+    "source": "IAC",
+    "published": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
+    "title_es": "How the Grand Canyon could have lost 1 billion years of geologic history",
+    "url": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
+    "date": "2026-10-09",
+    "source": "Science News",
+    "published": "2026-10-09T00:00:00.000Z"
   },
   {
     "title": "The world may never go back to how it was after this monster El Niño",
@@ -35351,7 +35407,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Effect of amaranth flatbread on maternal anthropometry during pregnancy: Evidence from a cluster-randomized controlled trial in Southern Ethiopia",
+    "title": "Analysis of the spectrum of critical illnesses in the emergency department of Hebei Children's Hospital: A single-center study",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -71529,6 +71585,14 @@
     "title": "Central charges and vacuum moduli of 2d $\\mathcal{N}=(0,4)$ theories from class $\\mathcal{S}$, by Wei Cui, Junkang Huang, Zi-Xiao Huang, Satoshi Nawata, Shutong Zhuang",
     "title_es": "Central charges and vacuum moduli of 2d $\\mathcal{N}=(0,4)$ theories from class $\\mathcal{S}$, by Wei Cui, Junkang Huang, Zi-Xiao Huang, Satoshi Nawata, Shutong Zhuang",
     "url": "http://scipost.org/scipostphys.21.4.086",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph, by Jesús María Marcos Merino, Juan José Meléndez, Rodolfo Cuerno, Juan J. Ruiz-Lorenzo",
+    "title_es": "On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph, by Jesús María Marcos Merino, Juan José Meléndez, Rodolfo Cuerno, Juan J. Ruiz-Lorenzo",
+    "url": "http://scipost.org/scipostphys.21.4.087",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
