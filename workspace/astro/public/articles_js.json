@@ -32,14 +32,6 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 10 – Lunar Farside",
-    "title_es": "APOD: 2026 October 10 – Lunar Farside",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-    "published": "2026-10-10T04:05:00.000Z",
-    "date": "2026-10-10",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
     "title_es": "How the Grand Canyon could have lost 1 billion years of geologic history",
     "url": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
@@ -64,11 +56,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
-    "title_es": "Hybrid quantum computer observes foundational quantum effect in a new setting",
-    "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
-    "published": "2026-10-10T10:57:07.000Z",
-    "date": "2026-10-10",
+    "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
+    "title_es": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
+    "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html",
+    "published": "2026-10-11T00:30:01.000Z",
+    "date": "2026-10-11",
     "source": "Phys.org (Latest)"
   },
   {
@@ -112,20 +104,20 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph, by Jesús María Marcos Merino, Juan José Meléndez, Rodolfo Cuerno, Juan J. Ruiz-Lorenzo",
-    "title_es": "On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph, by Jesús María Marcos Merino, Juan José Meléndez, Rodolfo Cuerno, Juan J. Ruiz-Lorenzo",
-    "url": "http://scipost.org/scipostphys.21.4.087",
+    "title": "Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions, by Kansei Inamura",
+    "title_es": "Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions, by Kansei Inamura",
+    "url": "http://scipost.org/scipostphys.21.4.088",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-11.8982&long=90.3611",
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "date": "",
     "published": "",
-    "source": "ISS Position"
+    "source": "NASA APOD"
   },
   {
     "title": "Derivada de x^2: 2 x",
