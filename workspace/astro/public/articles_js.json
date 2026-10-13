@@ -1,13 +1,5 @@
 [
   {
-    "title": "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs",
-    "title_es": "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs",
-    "url": "https://arxiv.org/abs/2610.12471",
-    "published": "2026-10-12T04:00:00.000Z",
-    "date": "2026-10-12",
-    "source": "arXiv"
-  },
-  {
     "title": "Demographic “doomsday” misses the mark",
     "title_es": "Demographic “doomsday” misses the mark",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael8752",
@@ -16,19 +8,19 @@
     "source": "Science.org"
   },
   {
-    "title": "Award-winning microscopy image disqualified over AI use",
-    "title_es": "Award-winning microscopy image disqualified over AI use",
-    "url": "https://www.nature.com/articles/d41586-026-03240-7",
-    "published": "2026-10-12T00:00:00.000Z",
-    "date": "2026-10-12",
+    "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+    "title_es": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+    "url": "https://www.nature.com/articles/d41586-026-03244-3",
+    "published": "2026-10-13T00:00:00.000Z",
+    "date": "2026-10-13",
     "source": "Nature"
   },
   {
-    "title": "The second Competitive Call for Unique Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) for 2026 is now open",
-    "title_es": "The second Competitive Call for Unique Infrastructures of the Distributed Biomedical Imaging Network (ReDIB) for 2026 is now open",
-    "url": "https://www.cnic.es/es/node/244557",
-    "published": "2026-10-01T10:40:48.000Z",
-    "date": "2026-10-01",
+    "title": "CNIC participates in CHAIN, a new European initiative aims to accelerate AI in cardiovascular care",
+    "title_es": "CNIC participates in CHAIN, a new European initiative aims to accelerate AI in cardiovascular care",
+    "url": "https://www.cnic.es/es/node/266582",
+    "published": "2026-10-13T10:53:54.000Z",
+    "date": "2026-10-13",
     "source": "CNIC"
   },
   {
@@ -40,59 +32,59 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-    "title_es": "APOD: 2026 October 12 – Jupiter and the Moons",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
-    "published": "2026-10-12T04:05:00.000Z",
-    "date": "2026-10-12",
+    "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+    "title_es": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+    "published": "2026-10-13T11:12:18.000Z",
+    "date": "2026-10-13",
     "source": "NASA (Top News)"
   },
   {
-    "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
-    "title_es": "How the Grand Canyon could have lost 1 billion years of geologic history",
-    "url": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
-    "published": "2026-10-09T15:00:00.000Z",
-    "date": "2026-10-09",
+    "title": "What happens when you lose your voice?",
+    "title_es": "What happens when you lose your voice?",
+    "url": "https://www.sciencenews.org/article/deep-end-podcast-voice-communication",
+    "published": "2026-10-13T11:00:00.000Z",
+    "date": "2026-10-13",
     "source": "Science News"
   },
   {
-    "title": "And the science Nobels for 2026 go to …",
-    "title_es": "And the science Nobels for 2026 go to …",
-    "url": "https://www.snexplores.org/article/science-nobel-prizes-2026",
-    "published": "2026-10-12T10:30:00.000Z",
-    "date": "2026-10-12",
+    "title": "Is AI making us dumber? Depends how it’s used",
+    "title_es": "Is AI making us dumber? Depends how it’s used",
+    "url": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
+    "published": "2026-10-13T10:30:00.000Z",
+    "date": "2026-10-13",
     "source": "Science News Explores"
   },
   {
-    "title": "Scientists discover vanilla’s hidden healing potential",
-    "title_es": "Scientists discover vanilla’s hidden healing potential",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-    "published": "2026-10-12T04:34:24.000Z",
-    "date": "2026-10-12",
+    "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+    "title_es": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+    "published": "2026-10-13T11:27:24.000Z",
+    "date": "2026-10-13",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Climate fingerprints reveal stronger evidence of human-caused warming after more than 30 years",
-    "title_es": "Climate fingerprints reveal stronger evidence of human-caused warming after more than 30 years",
-    "url": "https://phys.org/news/2026-10-climate-fingerprints-reveal-stronger-evidence.html",
-    "published": "2026-10-12T13:00:12.000Z",
-    "date": "2026-10-12",
+    "title": "Modified lentil protein mimics fat in non-fat yogurt",
+    "title_es": "Modified lentil protein mimics fat in non-fat yogurt",
+    "url": "https://phys.org/news/2026-10-lentil-protein-mimics-fat-yogurt.html",
+    "published": "2026-10-13T12:40:12.000Z",
+    "date": "2026-10-13",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Analysis of the spectrum of critical illnesses in the emergency department of Hebei Children's Hospital: A single-center study",
-    "title_es": "Analysis of the spectrum of critical illnesses in the emergency department of Hebei Children's Hospital: A single-center study",
+    "title": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
+    "title_es": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-09T14:00:00.000Z",
-    "date": "2026-10-09",
+    "published": "2026-10-12T14:00:00.000Z",
+    "date": "2026-10-12",
     "source": "PLOS ONE"
   },
   {
-    "title": "Why the worst El Niño killed millions – and how we can avoid a repeat",
-    "title_es": "Why the worst El Niño killed millions – and how we can avoid a repeat",
-    "url": "https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/",
-    "published": "2026-10-12T09:00:00.000Z",
-    "date": "2026-10-12",
+    "title": "Will we observe dark matter as a particle or a wave?",
+    "title_es": "Will we observe dark matter as a particle or a wave?",
+    "url": "https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/",
+    "published": "2026-10-13T08:00:00.000Z",
+    "date": "2026-10-13",
     "source": "New Scientist"
   },
   {
@@ -104,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Messier 83 Hints At How Star-Forming Gas Behaves in Barred Spirals Like Our Own",
-    "title_es": "Messier 83 Hints At How Star-Forming Gas Behaves in Barred Spirals Like Our Own",
-    "url": "https://www.sci.news/astronomy/messier-83-star-forming-gas-15121.html",
-    "published": "2026-10-12T12:10:28.000Z",
-    "date": "2026-10-12",
+    "title": "Fossil Armored Fish from China Bridges Primitive and Advanced Jawless Lineages",
+    "title_es": "Fossil Armored Fish from China Bridges Primitive and Advanced Jawless Lineages",
+    "url": "https://www.sci.news/paleontology/asioaspis-brachyotus-15125.html",
+    "published": "2026-10-13T00:35:13.000Z",
+    "date": "2026-10-13",
     "source": "Sci.News"
   },
   {
@@ -126,6 +118,14 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=28.2462&long=-115.3531",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
