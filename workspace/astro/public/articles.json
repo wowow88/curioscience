@@ -1,5 +1,53 @@
 [
   {
+    "title": "China’s AI research is booming. Where is it headed?",
+    "title_es": "China’s AI research is booming. Where is it headed?",
+    "url": "https://www.nature.com/articles/d41586-026-03223-8",
+    "date": "2026-10-14",
+    "source": "Nature",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "title_es": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+    "date": "2026-10-14",
+    "source": "NASA (Top News)",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+    "title_es": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+    "date": "2026-10-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
+    "title_es": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
+    "url": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
+    "date": "2026-10-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Small, Chicken-Like Dinosaur May Have Had a Jaw Built for Fruit",
+    "title_es": "Small, Chicken-Like Dinosaur May Have Had a Jaw Built for Fruit",
+    "url": "https://www.sci.news/paleontology/infernogallus-jamesi-15128.html",
+    "published": "2026-10-13T23:38:21.000Z",
+    "date": "2026-10-13",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Dinosaur named new species a century after fossil found on Isle of Wight",
+    "title_es": "Dinosaur named new species a century after fossil found on Isle of Wight",
+    "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/",
+    "published": "2026-10-13T23:01:00.000Z",
+    "date": "2026-10-13",
+    "source": "New Scientist"
+  },
+  {
     "title": "Will we observe dark matter as a particle or a wave?",
     "title_es": "Will we observe dark matter as a particle or a wave?",
     "url": "https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/",
@@ -69,6 +117,30 @@
     "url": "https://phys.org/news/2026-10-lentil-protein-mimics-fat-yogurt.html",
     "date": "2026-10-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "ChunkAct: Action Chunking for Agentic Robotics",
+    "title_es": "ChunkAct: Action Chunking for Agentic Robotics",
+    "url": "http://arxiv.org/abs/2610.18874v1",
+    "date": "2026-10-13",
+    "source": "arXiv",
+    "published": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico\" hreflang=\"es\">El IAC impulsa nuevas colaboraciones para trasladar avances astrofísicos al diagnóstico médico</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico\" hreflang=\"es\">El IAC impulsa nuevas colaboraciones para trasladar avances astrofísicos al diagnóstico médico</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico",
+    "date": "2026-10-13",
+    "source": "IAC",
+    "published": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "title": "To turn invisible, we need to tweak the path light travels",
+    "title_es": "To turn invisible, we need to tweak the path light travels",
+    "url": "https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak",
+    "date": "2026-10-13",
+    "source": "Science News",
     "published": "2026-10-13T00:00:00.000Z"
   },
   {
@@ -35567,7 +35639,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
+    "title": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -71769,6 +71841,14 @@
     "title": "Gauss law constraint in A-theory branes, by Machiko Hatsuda, Ondřej Hulík, William D. Linch, Di Wang, Yu-Ping Wang",
     "title_es": "Gauss law constraint in A-theory branes, by Machiko Hatsuda, Ondřej Hulík, William D. Linch, Di Wang, Yu-Ping Wang",
     "url": "http://scipost.org/scipostphys.21.4.090",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
+    "title_es": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
+    "url": "http://scipost.org/scipostphys.21.4.093",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

@@ -1,5 +1,33 @@
 [
   {
+    "title": "China’s AI research is booming. Where is it headed?",
+    "title_es": "China’s AI research is booming. Where is it headed?",
+    "url": "https://www.nature.com/articles/d41586-026-03223-8",
+    "date": "2026-10-14",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "title_es": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+    "date": "2026-10-14",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+    "title_es": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+    "date": "2026-10-14",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
+    "title_es": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
+    "url": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
+    "date": "2026-10-14",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
     "title_es": "Preserve research data for tomorrow’s AI-enabled integrity checks",
     "url": "https://www.nature.com/articles/d41586-026-03244-3",
@@ -49,6 +77,34 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
+    "title_es": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-13",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "ChunkAct: Action Chunking for Agentic Robotics",
+    "title_es": "ChunkAct: Action Chunking for Agentic Robotics",
+    "url": "http://arxiv.org/abs/2610.18874v1",
+    "date": "2026-10-13",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico\" hreflang=\"es\">El IAC impulsa nuevas colaboraciones para trasladar avances astrofísicos al diagnóstico médico</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico\" hreflang=\"es\">El IAC impulsa nuevas colaboraciones para trasladar avances astrofísicos al diagnóstico médico</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-impulsa-nuevas-colaboraciones-para-trasladar-avances-astrofisicos-al-diagnostico-medico",
+    "date": "2026-10-13",
+    "source": "IAC"
+  },
+  {
+    "title": "To turn invisible, we need to tweak the path light travels",
+    "title_es": "To turn invisible, we need to tweak the path light travels",
+    "url": "https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak",
+    "date": "2026-10-13",
+    "source": "Science News"
+  },
+  {
     "title": "Award-winning microscopy image disqualified over AI use",
     "title_es": "Award-winning microscopy image disqualified over AI use",
     "url": "https://www.nature.com/articles/d41586-026-03240-7",
@@ -82,13 +138,6 @@
     "url": "https://phys.org/news/2026-10-climate-fingerprints-reveal-stronger-evidence.html",
     "date": "2026-10-12",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
-    "title_es": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-12",
-    "source": "PLOS ONE"
   },
   {
     "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
