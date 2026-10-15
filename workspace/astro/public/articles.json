@@ -1,5 +1,53 @@
 [
   {
+    "title": "Whalefall review: Worth watching for the bits inside a sperm whale",
+    "title_es": "Whalefall review: Worth watching for the bits inside a sperm whale",
+    "url": "https://www.newscientist.com/article/2592386-whalefall-review-worth-watching-for-the-bits-inside-a-sperm-whale/",
+    "published": "2026-10-15T07:00:00.000Z",
+    "date": "2026-10-15",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+    "title_es": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+    "url": "https://arxiv.org/abs/2610.18877",
+    "published": "2026-10-15T04:00:00.000Z",
+    "date": "2026-10-15",
+    "source": "arXiv"
+  },
+  {
+    "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "title_es": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "url": "https://www.nature.com/articles/d41586-026-03194-w",
+    "date": "2026-10-15",
+    "source": "Nature",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones\" hreflang=\"es\">El Instituto de Astrofísica de Canarias muestra en Antalya sus capacidades para pequeñas misiones espaciales</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones\" hreflang=\"es\">El Instituto de Astrofísica de Canarias muestra en Antalya sus capacidades para pequeñas misiones espaciales</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones",
+    "date": "2026-10-15",
+    "source": "IAC",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "title_es": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "url": "https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html",
+    "date": "2026-10-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "New Species of Predatory Dinosaur Identified in UK",
+    "title_es": "New Species of Predatory Dinosaur Identified in UK",
+    "url": "https://www.sci.news/paleontology/invictibellatrix-amberina-15131.html",
+    "published": "2026-10-14T23:12:11.000Z",
+    "date": "2026-10-14",
+    "source": "Sci.News"
+  },
+  {
     "title": "China’s AI research is booming. Where is it headed?",
     "title_es": "China’s AI research is booming. Where is it headed?",
     "url": "https://www.nature.com/articles/d41586-026-03223-8",
@@ -29,6 +77,38 @@
     "url": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
     "date": "2026-10-14",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "title_es": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "url": "http://arxiv.org/abs/2610.20606v1",
+    "date": "2026-10-14",
+    "source": "arXiv",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Can math stay human in the age of AI?",
+    "title_es": "Can math stay human in the age of AI?",
+    "url": "https://www.sciencenews.org/article/math-human-ai-age",
+    "date": "2026-10-14",
+    "source": "Science News",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "Bees may survive a swim by heading for the dark [COMIC]",
+    "title_es": "Bees may survive a swim by heading for the dark [COMIC]",
+    "url": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
+    "date": "2026-10-14",
+    "source": "Science News Explores",
+    "published": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "title_es": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+    "date": "2026-10-14",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-14T00:00:00.000Z"
   },
   {
@@ -35639,7 +35719,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
+    "title": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -71849,6 +71929,14 @@
     "title": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
     "title_es": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
     "url": "http://scipost.org/scipostphys.21.4.093",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
+    "title_es": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
+    "url": "http://scipost.org/scipostphys.21.4.094",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

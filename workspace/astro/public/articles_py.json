@@ -1,5 +1,26 @@
 [
   {
+    "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "title_es": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "url": "https://www.nature.com/articles/d41586-026-03194-w",
+    "date": "2026-10-15",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones\" hreflang=\"es\">El Instituto de Astrofísica de Canarias muestra en Antalya sus capacidades para pequeñas misiones espaciales</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones\" hreflang=\"es\">El Instituto de Astrofísica de Canarias muestra en Antalya sus capacidades para pequeñas misiones espaciales</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-muestra-en-antalya-sus-capacidades-para-pequenas-misiones",
+    "date": "2026-10-15",
+    "source": "IAC"
+  },
+  {
+    "title": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "title_es": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "url": "https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html",
+    "date": "2026-10-15",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "China’s AI research is booming. Where is it headed?",
     "title_es": "China’s AI research is booming. Where is it headed?",
     "url": "https://www.nature.com/articles/d41586-026-03223-8",
@@ -26,6 +47,41 @@
     "url": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
     "date": "2026-10-14",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
+    "title_es": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-14",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "title_es": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "url": "http://arxiv.org/abs/2610.20606v1",
+    "date": "2026-10-14",
+    "source": "arXiv"
+  },
+  {
+    "title": "Can math stay human in the age of AI?",
+    "title_es": "Can math stay human in the age of AI?",
+    "url": "https://www.sciencenews.org/article/math-human-ai-age",
+    "date": "2026-10-14",
+    "source": "Science News"
+  },
+  {
+    "title": "Bees may survive a swim by heading for the dark [COMIC]",
+    "title_es": "Bees may survive a swim by heading for the dark [COMIC]",
+    "url": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
+    "date": "2026-10-14",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "title_es": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+    "date": "2026-10-14",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
@@ -75,13 +131,6 @@
     "url": "https://phys.org/news/2026-10-lentil-protein-mimics-fat-yogurt.html",
     "date": "2026-10-13",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
-    "title_es": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-13",
-    "source": "PLOS ONE"
   },
   {
     "title": "ChunkAct: Action Chunking for Agentic Robotics",

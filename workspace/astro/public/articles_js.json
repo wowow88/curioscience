@@ -1,5 +1,13 @@
 [
   {
+    "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+    "title_es": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+    "url": "https://arxiv.org/abs/2610.18877",
+    "published": "2026-10-15T04:00:00.000Z",
+    "date": "2026-10-15",
+    "source": "arXiv"
+  },
+  {
     "title": "Demographic “doomsday” misses the mark",
     "title_es": "Demographic “doomsday” misses the mark",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael8752",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "China’s AI research is booming. Where is it headed?",
-    "title_es": "China’s AI research is booming. Where is it headed?",
-    "url": "https://www.nature.com/articles/d41586-026-03223-8",
-    "published": "2026-10-14T00:00:00.000Z",
-    "date": "2026-10-14",
+    "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "title_es": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "url": "https://www.nature.com/articles/d41586-026-03194-w",
+    "published": "2026-10-15T00:00:00.000Z",
+    "date": "2026-10-15",
     "source": "Nature"
   },
   {
@@ -32,59 +40,51 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-    "title_es": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-    "published": "2026-10-14T04:05:00.000Z",
+    "title": "Can math stay human in the age of AI?",
+    "title_es": "Can math stay human in the age of AI?",
+    "url": "https://www.sciencenews.org/article/math-human-ai-age",
+    "published": "2026-10-14T17:00:00.000Z",
     "date": "2026-10-14",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "To turn invisible, we need to tweak the path light travels",
-    "title_es": "To turn invisible, we need to tweak the path light travels",
-    "url": "https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak",
-    "published": "2026-10-13T17:00:00.000Z",
-    "date": "2026-10-13",
     "source": "Science News"
   },
   {
-    "title": "Is AI making us dumber? Depends how it’s used",
-    "title_es": "Is AI making us dumber? Depends how it’s used",
-    "url": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
-    "published": "2026-10-13T10:30:00.000Z",
-    "date": "2026-10-13",
+    "title": "Bees may survive a swim by heading for the dark [COMIC]",
+    "title_es": "Bees may survive a swim by heading for the dark [COMIC]",
+    "url": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
+    "published": "2026-10-14T10:30:00.000Z",
+    "date": "2026-10-14",
     "source": "Science News Explores"
   },
   {
-    "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-    "title_es": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
-    "published": "2026-10-14T05:44:39.000Z",
+    "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "title_es": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+    "published": "2026-10-14T22:51:56.000Z",
     "date": "2026-10-14",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
-    "title_es": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
-    "url": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
-    "published": "2026-10-14T09:10:01.000Z",
-    "date": "2026-10-14",
+    "title": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "title_es": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+    "url": "https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html",
+    "published": "2026-10-15T09:00:12.000Z",
+    "date": "2026-10-15",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
-    "title_es": "Task-aware conformal power envelopes for multi-horizon spacecraft monitoring",
+    "title": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
+    "title_es": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-13T14:00:00.000Z",
-    "date": "2026-10-13",
+    "published": "2026-10-14T14:00:00.000Z",
+    "date": "2026-10-14",
     "source": "PLOS ONE"
   },
   {
-    "title": "Dinosaur named new species a century after fossil found on Isle of Wight",
-    "title_es": "Dinosaur named new species a century after fossil found on Isle of Wight",
-    "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/",
-    "published": "2026-10-13T23:01:00.000Z",
-    "date": "2026-10-13",
+    "title": "Whalefall review: Worth watching for the bits inside a sperm whale",
+    "title_es": "Whalefall review: Worth watching for the bits inside a sperm whale",
+    "url": "https://www.newscientist.com/article/2592386-whalefall-review-worth-watching-for-the-bits-inside-a-sperm-whale/",
+    "published": "2026-10-15T07:00:00.000Z",
+    "date": "2026-10-15",
     "source": "New Scientist"
   },
   {
@@ -96,11 +96,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Small, Chicken-Like Dinosaur May Have Had a Jaw Built for Fruit",
-    "title_es": "Small, Chicken-Like Dinosaur May Have Had a Jaw Built for Fruit",
-    "url": "https://www.sci.news/paleontology/infernogallus-jamesi-15128.html",
-    "published": "2026-10-13T23:38:21.000Z",
-    "date": "2026-10-13",
+    "title": "New Species of Predatory Dinosaur Identified in UK",
+    "title_es": "New Species of Predatory Dinosaur Identified in UK",
+    "url": "https://www.sci.news/paleontology/invictibellatrix-amberina-15131.html",
+    "published": "2026-10-14T23:12:11.000Z",
+    "date": "2026-10-14",
     "source": "Sci.News"
   },
   {
@@ -112,17 +112,25 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
-    "title_es": "Long-range interactions in celestial CFT, by Sangmin Choi, Ameya Kadhe, Andrea Puhm",
-    "url": "http://scipost.org/scipostphys.21.4.093",
+    "title": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
+    "title_es": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
+    "url": "http://scipost.org/scipostphys.21.4.094",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=7.9083&long=-102.5125",
+    "url": "https://www.latlong.net/c/?lat=34.9386&long=35.8846",
     "date": "",
     "published": "",
     "source": "ISS Position"
