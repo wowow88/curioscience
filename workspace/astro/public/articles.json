@@ -1,5 +1,61 @@
 [
   {
+    "title": "Can a positive mindset protect us from the sniffles?",
+    "title_es": "Can a positive mindset protect us from the sniffles?",
+    "url": "https://www.newscientist.com/article/2594259-can-a-positive-mindset-protect-us-from-the-sniffles/",
+    "published": "2026-10-16T08:00:00.000Z",
+    "date": "2026-10-16",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Podcast: Is There a Population Crisis?",
+    "title_es": "Podcast: Is There a Population Crisis?",
+    "url": "https://undark.org/2026/10/16/podcast-population-crisis/",
+    "published": "2026-10-16T07:05:00.000Z",
+    "date": "2026-10-16",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+    "title_es": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+    "url": "https://arxiv.org/abs/2610.20615",
+    "published": "2026-10-16T04:00:00.000Z",
+    "date": "2026-10-16",
+    "source": "arXiv"
+  },
+  {
+    "title": "White Dwarfs Really are White, But Few are Green, Pink or Vivid Blue",
+    "title_es": "White Dwarfs Really are White, But Few are Green, Pink or Vivid Blue",
+    "url": "https://www.sci.news/astronomy/white-dwarf-colors-15134.html",
+    "published": "2026-10-16T00:07:52.000Z",
+    "date": "2026-10-16",
+    "source": "Sci.News"
+  },
+  {
+    "title": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
+    "title_es": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
+    "url": "https://www.cnic.es/es/noticias/atheroptm-proyecto-liderado-por-miguel-angel-pozo-cnic-recibe-cerca-un-millon-euros-para",
+    "date": "2026-10-16",
+    "source": "CNIC",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+    "title_es": "APOD: 2026 October 16 – Chasing the International Space Station",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+    "date": "2026-10-16",
+    "source": "NASA (Top News)",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Winter sea ice loss may be underestimated, ancient clues from a warmer Arctic suggest",
+    "title_es": "Winter sea ice loss may be underestimated, ancient clues from a warmer Arctic suggest",
+    "url": "https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html",
+    "date": "2026-10-16",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
     "title": "Whalefall review: Worth watching for the bits inside a sperm whale",
     "title_es": "Whalefall review: Worth watching for the bits inside a sperm whale",
     "url": "https://www.newscientist.com/article/2592386-whalefall-review-worth-watching-for-the-bits-inside-a-sperm-whale/",
@@ -37,6 +93,54 @@
     "url": "https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html",
     "date": "2026-10-15",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "title_es": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "url": "http://arxiv.org/abs/2610.22372v1",
+    "date": "2026-10-15",
+    "source": "arXiv",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "An elegy for the unsung world-builders",
+    "title_es": "An elegy for the unsung world-builders",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0152",
+    "date": "2026-10-15",
+    "source": "Science.org",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+    "title_es": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+    "url": "https://www.nature.com/articles/d41586-026-03178-w",
+    "date": "2026-10-15",
+    "source": "Nature",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Many American diets may not include enough of this essential nutrient",
+    "title_es": "Many American diets may not include enough of this essential nutrient",
+    "url": "https://www.sciencenews.org/article/iodine-salt-brain-development-diets",
+    "date": "2026-10-15",
+    "source": "Science News",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Calls of the wild offer sound guidance for protecting animals",
+    "title_es": "Calls of the wild offer sound guidance for protecting animals",
+    "url": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+    "date": "2026-10-15",
+    "source": "Science News Explores",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Arctic sea ice hits another troubling low in 2026",
+    "title_es": "Arctic sea ice hits another troubling low in 2026",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+    "date": "2026-10-15",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-15T00:00:00.000Z"
   },
   {
@@ -35719,7 +35823,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Species-specific effects of post-wheat green manure incorporation on spring wheat yield and soil greenhouse gas emissions in an arid irrigated system",
+    "title": "Ancient Greek votive epigraphy: Ancient religion between individual choice and cultural trends",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -71937,6 +72041,14 @@
     "title": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
     "title_es": "Conformal data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$-dimensional spacetime from exact diagonalization and matrix product states on the fuzzy sphere, by Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli",
     "url": "http://scipost.org/scipostphys.21.4.094",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "NMSSMScanner: Efficient scans in the NMSSM parameter space proof of concept, by Rafael Boto, Thi Nhung Dao, Felix Egle, Karim Elyaouti, Martin Gabelmann, Margarete Mühlleitner, Johann Plotnikov",
+    "title_es": "NMSSMScanner: Efficient scans in the NMSSM parameter space proof of concept, by Rafael Boto, Thi Nhung Dao, Felix Egle, Karim Elyaouti, Martin Gabelmann, Margarete Mühlleitner, Johann Plotnikov",
+    "url": "http://scipost.org/scipostphyscommrep.31",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
