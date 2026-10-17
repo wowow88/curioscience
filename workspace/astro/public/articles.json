@@ -1,5 +1,37 @@
 [
   {
+    "title": "APOD: 2026 October 17 – 3D 67P",
+    "title_es": "APOD: 2026 October 17 – 3D 67P",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+    "date": "2026-10-17",
+    "source": "NASA (Top News)",
+    "published": "2026-10-17T00:00:00.000Z"
+  },
+  {
+    "title": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
+    "title_es": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
+    "url": "https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html",
+    "date": "2026-10-17",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-17T00:00:00.000Z"
+  },
+  {
+    "title": "Lizard Dropped Its Tail 99 Million Years Ago, Amber Preserved Evidence",
+    "title_es": "Lizard Dropped Its Tail 99 Million Years Ago, Amber Preserved Evidence",
+    "url": "https://www.sci.news/paleontology/cretaceous-lizard-tail-15135.html",
+    "published": "2026-10-16T21:03:57.000Z",
+    "date": "2026-10-16",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Japan is launching a mission to Mars’s largest moon Phobos",
+    "title_es": "Japan is launching a mission to Mars’s largest moon Phobos",
+    "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/",
+    "published": "2026-10-16T17:00:00.000Z",
+    "date": "2026-10-16",
+    "source": "New Scientist"
+  },
+  {
     "title": "Can a positive mindset protect us from the sniffles?",
     "title_es": "Can a positive mindset protect us from the sniffles?",
     "url": "https://www.newscientist.com/article/2594259-can-a-positive-mindset-protect-us-from-the-sniffles/",
@@ -53,6 +85,38 @@
     "url": "https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html",
     "date": "2026-10-16",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+    "title_es": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+    "url": "https://www.nature.com/articles/d41586-026-03341-3",
+    "date": "2026-10-16",
+    "source": "Nature",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
+    "title_es": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
+    "url": "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat",
+    "date": "2026-10-16",
+    "source": "Science News",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "In the heat, this Death Valley shrub air conditions its leaves",
+    "title_es": "In the heat, this Death Valley shrub air conditions its leaves",
+    "url": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
+    "date": "2026-10-16",
+    "source": "Science News Explores",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
+    "title_es": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
+    "date": "2026-10-16",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-16T00:00:00.000Z"
   },
   {
@@ -35823,7 +35887,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Ancient Greek votive epigraphy: Ancient religion between individual choice and cultural trends",
+    "title": "Meta reinforcement learning for robust quadruped locomotion under joint failures",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
