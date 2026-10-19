@@ -1,5 +1,77 @@
 [
   {
+    "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
+    "title_es": "El Niño is dramatically increasing sea levels – how bad could it get?",
+    "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/",
+    "published": "2026-10-19T10:00:00.000Z",
+    "date": "2026-10-19",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+    "title_es": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+    "url": "https://arxiv.org/abs/2610.22373",
+    "published": "2026-10-19T04:00:00.000Z",
+    "date": "2026-10-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Three reasons why AI is not conscious and perhaps never will be",
+    "title_es": "Three reasons why AI is not conscious and perhaps never will be",
+    "url": "https://www.nature.com/articles/d41586-026-03313-7",
+    "date": "2026-10-19",
+    "source": "Nature",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
+    "title_es": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
+    "url": "https://www.cnio.es/noticias/por-que-yo-tengo-este-cancer-en-el-cnio-la-investigacion-en-cancer-de-mama-baja-a-lo-personal/",
+    "date": "2026-10-19",
+    "source": "CNIO",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/que-sabemos-del-universo-el-cosmologo-enrique-martinez-gonzalez-responde-esta-pregunta-en-el-museo-de\" hreflang=\"es\">¿Qué sabemos del Universo? El cosmólogo Enrique Martínez González responde a esta pregunta en el Museo de la Ciencia y el Cosmos</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/que-sabemos-del-universo-el-cosmologo-enrique-martinez-gonzalez-responde-esta-pregunta-en-el-museo-de\" hreflang=\"es\">¿Qué sabemos del Universo? El cosmólogo Enrique Martínez González responde a esta pregunta en el Museo de la Ciencia y el Cosmos</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/que-sabemos-del-universo-el-cosmologo-enrique-martinez-gonzalez-responde-esta-pregunta-en-el-museo-de",
+    "date": "2026-10-19",
+    "source": "IAC",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+    "title_es": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+    "date": "2026-10-19",
+    "source": "NASA (Top News)",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
+    "title_es": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
+    "url": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
+    "date": "2026-10-19",
+    "source": "Science News Explores",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "Nations seek reset at UN talks as nature goals off track",
+    "title_es": "Nations seek reset at UN talks as nature goals off track",
+    "url": "https://phys.org/news/2026-10-nations-reset-nature-goals-track.html",
+    "date": "2026-10-19",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "Hubble Space Telescope Spots Dusty Spiral Galaxy: NGC 1827",
+    "title_es": "Hubble Space Telescope Spots Dusty Spiral Galaxy: NGC 1827",
+    "url": "https://www.sci.news/astronomy/hubble-dusty-spiral-galaxy-ngc-1827-15136.html",
+    "published": "2026-10-18T23:58:53.000Z",
+    "date": "2026-10-18",
+    "source": "Sci.News"
+  },
+  {
     "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
     "title_es": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
@@ -13,6 +85,14 @@
     "url": "https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html",
     "date": "2026-10-18",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-18T00:00:00.000Z"
+  },
+  {
+    "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+    "title_es": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+    "date": "2026-10-18",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-18T00:00:00.000Z"
   },
   {
@@ -149,6 +229,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
     "date": "2026-10-16",
     "source": "ScienceDaily (Top)",
+    "published": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+    "title_es": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+    "url": "http://arxiv.org/abs/2610.23854v1",
+    "date": "2026-10-16",
+    "source": "arXiv",
     "published": "2026-10-16T00:00:00.000Z"
   },
   {
