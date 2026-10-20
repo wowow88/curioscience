@@ -1,5 +1,45 @@
 [
   {
+    "title": "The roots of AI fear in the West are cultural, not technological",
+    "title_es": "The roots of AI fear in the West are cultural, not technological",
+    "url": "https://www.newscientist.com/article/2594390-the-roots-of-ai-fear-in-the-west-are-cultural-not-technological/",
+    "published": "2026-10-20T08:00:00.000Z",
+    "date": "2026-10-20",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Single Vertebra Hints at Oldest Known Iberian Dinosaur",
+    "title_es": "Single Vertebra Hints at Oldest Known Iberian Dinosaur",
+    "url": "https://www.sci.news/paleontology/oldest-known-iberian-dinosaur-15140.html",
+    "published": "2026-10-20T00:26:29.000Z",
+    "date": "2026-10-20",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Bundle water safeguards into critical-mineral licences",
+    "title_es": "Bundle water safeguards into critical-mineral licences",
+    "url": "https://www.nature.com/articles/d41586-026-03353-z",
+    "date": "2026-10-20",
+    "source": "Nature",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "title_es": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+    "date": "2026-10-20",
+    "source": "NASA (Top News)",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Near miss: Indonesia probes crash of suspected Chinese rocket fragment",
+    "title_es": "Near miss: Indonesia probes crash of suspected Chinese rocket fragment",
+    "url": "https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html",
+    "date": "2026-10-20",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
     "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
     "title_es": "El Niño is dramatically increasing sea levels – how bad could it get?",
     "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/",
@@ -61,6 +101,38 @@
     "url": "https://phys.org/news/2026-10-nations-reset-nature-goals-track.html",
     "date": "2026-10-19",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "title_es": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "url": "http://arxiv.org/abs/2610.26860v1",
+    "date": "2026-10-19",
+    "source": "arXiv",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales\" hreflang=\"es\">Del Cielo a la Tesis explora el universo a través del telescopio Rubin y las galaxias virtuales</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales\" hreflang=\"es\">Del Cielo a la Tesis explora el universo a través del telescopio Rubin y las galaxias virtuales</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales",
+    "date": "2026-10-19",
+    "source": "IAC",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "These tiny snakes cartwheel to escape danger",
+    "title_es": "These tiny snakes cartwheel to escape danger",
+    "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+    "date": "2026-10-19",
+    "source": "Science News",
+    "published": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+    "title_es": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+    "date": "2026-10-19",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-19T00:00:00.000Z"
   },
   {
@@ -208,7 +280,7 @@
     "published": "2026-10-16T00:00:00.000Z"
   },
   {
-    "title": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
+    "title": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
     "title_es": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
     "url": "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat",
     "date": "2026-10-16",
@@ -36007,7 +36079,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Meta reinforcement learning for robust quadruped locomotion under joint failures",
+    "title": "Retraction: Pyrroloquinoline Quinine Inhibits RANKL-Mediated Expression of NFATc1 in Part via Suppression of c-Fos in Mouse Bone Marrow Cells and Inhibits Wear Particle-Induced Osteolysis in Mice",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -72233,6 +72305,14 @@
     "title": "NMSSMScanner: Efficient scans in the NMSSM parameter space proof of concept, by Rafael Boto, Thi Nhung Dao, Felix Egle, Karim Elyaouti, Martin Gabelmann, Margarete Mühlleitner, Johann Plotnikov",
     "title_es": "NMSSMScanner: Efficient scans in the NMSSM parameter space proof of concept, by Rafael Boto, Thi Nhung Dao, Felix Egle, Karim Elyaouti, Martin Gabelmann, Margarete Mühlleitner, Johann Plotnikov",
     "url": "http://scipost.org/scipostphyscommrep.31",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Codebase release 1.0 for QCommute, by Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov",
+    "title_es": "Codebase release 1.0 for QCommute, by Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov",
+    "url": "http://scipost.org/scipostphyscodeb.84-r1.0",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

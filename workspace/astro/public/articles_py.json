@@ -1,5 +1,26 @@
 [
   {
+    "title": "Bundle water safeguards into critical-mineral licences",
+    "title_es": "Bundle water safeguards into critical-mineral licences",
+    "url": "https://www.nature.com/articles/d41586-026-03353-z",
+    "date": "2026-10-20",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "title_es": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+    "date": "2026-10-20",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Near miss: Indonesia probes crash of suspected Chinese rocket fragment",
+    "title_es": "Near miss: Indonesia probes crash of suspected Chinese rocket fragment",
+    "url": "https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html",
+    "date": "2026-10-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Three reasons why AI is not conscious and perhaps never will be",
     "title_es": "Three reasons why AI is not conscious and perhaps never will be",
     "url": "https://www.nature.com/articles/d41586-026-03313-7",
@@ -7,8 +28,8 @@
     "source": "Nature"
   },
   {
-    "title": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
-    "title_es": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
+    "title": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
+    "title_es": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
     "url": "https://www.cnio.es/noticias/por-que-yo-tengo-este-cancer-en-el-cnio-la-investigacion-en-cancer-de-mama-baja-a-lo-personal/",
     "date": "2026-10-19",
     "source": "CNIO"
@@ -40,6 +61,41 @@
     "url": "https://phys.org/news/2026-10-nations-reset-nature-goals-track.html",
     "date": "2026-10-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Retraction: Pyrroloquinoline Quinine Inhibits RANKL-Mediated Expression of NFATc1 in Part via Suppression of c-Fos in Mouse Bone Marrow Cells and Inhibits Wear Particle-Induced Osteolysis in Mice",
+    "title_es": "Retraction: Pyrroloquinoline Quinine Inhibits RANKL-Mediated Expression of NFATc1 in Part via Suppression of c-Fos in Mouse Bone Marrow Cells and Inhibits Wear Particle-Induced Osteolysis in Mice",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-19",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "title_es": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "url": "http://arxiv.org/abs/2610.26860v1",
+    "date": "2026-10-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales\" hreflang=\"es\">Del Cielo a la Tesis explora el universo a través del telescopio Rubin y las galaxias virtuales</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales\" hreflang=\"es\">Del Cielo a la Tesis explora el universo a través del telescopio Rubin y las galaxias virtuales</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/del-cielo-la-tesis-explora-el-universo-traves-del-telescopio-rubin-y-las-galaxias-virtuales",
+    "date": "2026-10-19",
+    "source": "IAC"
+  },
+  {
+    "title": "These tiny snakes cartwheel to escape danger",
+    "title_es": "These tiny snakes cartwheel to escape danger",
+    "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+    "date": "2026-10-19",
+    "source": "Science News"
+  },
+  {
+    "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+    "title_es": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+    "date": "2026-10-19",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
@@ -103,13 +159,6 @@
     "url": "https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html",
     "date": "2026-10-16",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Meta reinforcement learning for robust quadruped locomotion under joint failures",
-    "title_es": "Meta reinforcement learning for robust quadruped locomotion under joint failures",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-16",
-    "source": "PLOS ONE"
   },
   {
     "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
