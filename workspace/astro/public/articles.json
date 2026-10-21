@@ -1,5 +1,53 @@
 [
   {
+    "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
+    "title_es": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
+    "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/",
+    "published": "2026-10-21T05:00:00.000Z",
+    "date": "2026-10-21",
+    "source": "New Scientist"
+  },
+  {
+    "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
+    "title_es": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
+    "url": "https://arxiv.org/abs/2610.26864",
+    "published": "2026-10-21T04:00:00.000Z",
+    "date": "2026-10-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "Early Cambrian Fossil Rewrites Starfish Family Tree",
+    "title_es": "Early Cambrian Fossil Rewrites Starfish Family Tree",
+    "url": "https://www.sci.news/paleontology/yujingia-glutenotunica-15143.html",
+    "published": "2026-10-21T00:32:28.000Z",
+    "date": "2026-10-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+    "title_es": "Global emissions slow — but world hurtles towards 2 °C of warming",
+    "url": "https://www.nature.com/articles/d41586-026-03355-x",
+    "date": "2026-10-21",
+    "source": "Nature",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+    "title_es": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+    "date": "2026-10-21",
+    "source": "NASA (Top News)",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "South Korea launches new bid to guide crowd-pulling shark to sea",
+    "title_es": "South Korea launches new bid to guide crowd-pulling shark to sea",
+    "url": "https://phys.org/news/2026-10-south-korea-crowd-shark-sea.html",
+    "date": "2026-10-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
     "title": "The roots of AI fear in the West are cultural, not technological",
     "title_es": "The roots of AI fear in the West are cultural, not technological",
     "url": "https://www.newscientist.com/article/2594390-the-roots-of-ai-fear-in-the-west-are-cultural-not-technological/",
@@ -40,6 +88,54 @@
     "published": "2026-10-20T00:00:00.000Z"
   },
   {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "title_es": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "url": "http://arxiv.org/abs/2610.28632v1",
+    "date": "2026-10-20",
+    "source": "arXiv",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Cinco investigadores del CNIO reciben ayudas de la Fundación ‘la Caixa’ para desarrollar nuevas estrategias de tratamiento del cáncer",
+    "title_es": "Cinco investigadores del CNIO reciben ayudas de la Fundación ‘la Caixa’ para desarrollar nuevas estrategias de tratamiento del cáncer",
+    "url": "https://www.cnio.es/noticias/cuatro-investigadores-del-cnio-reciben-ayudas-de-la-fundacion-la-caixa-para-desarrollar-nuevas-estrategias-de-tratamiento-del-cancer/",
+    "date": "2026-10-20",
+    "source": "CNIO",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-directora-del-lasp-visita-el-iac-para-explorar-futuras-vias-de-colaboracion-cientifica-y-tecnologica\" hreflang=\"es\">La directora del LASP visita el IAC para explorar futuras vías de colaboración científica y tecnológica</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-directora-del-lasp-visita-el-iac-para-explorar-futuras-vias-de-colaboracion-cientifica-y-tecnologica\" hreflang=\"es\">La directora del LASP visita el IAC para explorar futuras vías de colaboración científica y tecnológica</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-directora-del-lasp-visita-el-iac-para-explorar-futuras-vias-de-colaboracion-cientifica-y-tecnologica",
+    "date": "2026-10-20",
+    "source": "IAC",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Rule breaking by just a few people can be contagious",
+    "title_es": "Rule breaking by just a few people can be contagious",
+    "url": "https://www.sciencenews.org/article/rule-breaking-can-be-contagious",
+    "date": "2026-10-20",
+    "source": "Science News",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Sliding down surfaces can make rainwater corrosive",
+    "title_es": "Sliding down surfaces can make rainwater corrosive",
+    "url": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
+    "date": "2026-10-20",
+    "source": "Science News Explores",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists finally uncover why statins can cause muscle pain",
+    "title_es": "Scientists finally uncover why statins can cause muscle pain",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+    "date": "2026-10-20",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
     "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
     "title_es": "El Niño is dramatically increasing sea levels – how bad could it get?",
     "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/",
@@ -64,7 +160,7 @@
     "published": "2026-10-19T00:00:00.000Z"
   },
   {
-    "title": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
+    "title": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
     "title_es": "«¿Por qué yo tengo este cáncer?» En el CNIO, la investigación en cáncer de mama baja a lo personal",
     "url": "https://www.cnio.es/noticias/por-que-yo-tengo-este-cancer-en-el-cnio-la-investigacion-en-cancer-de-mama-baja-a-lo-personal/",
     "date": "2026-10-19",
@@ -36079,7 +36175,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Retraction: Pyrroloquinoline Quinine Inhibits RANKL-Mediated Expression of NFATc1 in Part via Suppression of c-Fos in Mouse Bone Marrow Cells and Inhibits Wear Particle-Induced Osteolysis in Mice",
+    "title": "Depth-dependent soil water-salt relationships in the Hetao Irrigation District, arid Northwest China: Implications for sustainable management",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -72313,6 +72409,14 @@
     "title": "Codebase release 1.0 for QCommute, by Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov",
     "title_es": "Codebase release 1.0 for QCommute, by Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov",
     "url": "http://scipost.org/scipostphyscodeb.84-r1.0",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "On the resolution of categorical symmetries in (non-) unitary rational CFTs, by Arpan Bhattacharyya, Saptaswa Ghosh, Sounak Pal, Jagannath Santara",
+    "title_es": "On the resolution of categorical symmetries in (non-) unitary rational CFTs, by Arpan Bhattacharyya, Saptaswa Ghosh, Sounak Pal, Jagannath Santara",
+    "url": "http://scipost.org/scipostphyscore.9.4.069",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
