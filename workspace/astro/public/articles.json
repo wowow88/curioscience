@@ -1,5 +1,45 @@
 [
   {
+    "title": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
+    "title_es": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
+    "url": "https://arxiv.org/abs/2610.28636",
+    "published": "2026-10-22T04:00:00.000Z",
+    "date": "2026-10-22",
+    "source": "arXiv"
+  },
+  {
+    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "title_es": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+    "date": "2026-10-22",
+    "source": "NASA (Top News)",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Algae-powered soft robot arm uses light to grasp and lift small objects",
+    "title_es": "Algae-powered soft robot arm uses light to grasp and lift small objects",
+    "url": "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html",
+    "date": "2026-10-22",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Crocodile Kin Have Been Chasing Warm Climates for 250 Million Years",
+    "title_es": "Crocodile Kin Have Been Chasing Warm Climates for 250 Million Years",
+    "url": "https://www.sci.news/paleontology/warm-climate-pseudosuchians-15146.html",
+    "published": "2026-10-21T23:20:51.000Z",
+    "date": "2026-10-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "People are vibe coding copyrighted apps with AI – will tech firms sue?",
+    "title_es": "People are vibe coding copyrighted apps with AI – will tech firms sue?",
+    "url": "https://www.newscientist.com/article/2595251-people-are-vibe-coding-copyrighted-apps-with-ai-will-tech-firms-sue/",
+    "published": "2026-10-21T19:18:25.000Z",
+    "date": "2026-10-21",
+    "source": "New Scientist"
+  },
+  {
     "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
     "title_es": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
     "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/",
@@ -45,6 +85,54 @@
     "url": "https://phys.org/news/2026-10-south-korea-crowd-shark-sea.html",
     "date": "2026-10-21",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "title_es": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "url": "http://arxiv.org/abs/2610.30128v1",
+    "date": "2026-10-21",
+    "source": "arXiv",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
+    "title_es": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+    "url": "https://www.nature.com/articles/s41586-026-11317-6",
+    "date": "2026-10-21",
+    "source": "Nature",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su\" hreflang=\"es\">El Instituto de Astrofísica de Canarias conmemora a Francisco Sánchez en el primer aniversario de su fallecimiento</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su\" hreflang=\"es\">El Instituto de Astrofísica de Canarias conmemora a Francisco Sánchez en el primer aniversario de su fallecimiento</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su",
+    "date": "2026-10-21",
+    "source": "IAC",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "AI could turn scientific papers into research assistants",
+    "title_es": "AI could turn scientific papers into research assistants",
+    "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
+    "date": "2026-10-21",
+    "source": "Science News",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "Explainer: What is an equation?",
+    "title_es": "Explainer: What is an equation?",
+    "url": "https://www.snexplores.org/article/what-is-math-equation",
+    "date": "2026-10-21",
+    "source": "Science News Explores",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
+    "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+    "title_es": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+    "date": "2026-10-21",
+    "source": "ScienceDaily (Top)",
     "published": "2026-10-21T00:00:00.000Z"
   },
   {
@@ -36175,7 +36263,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Depth-dependent soil water-salt relationships in the Hetao Irrigation District, arid Northwest China: Implications for sustainable management",
+    "title": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda ( Ailuropoda melanoleuca )",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -72417,6 +72505,14 @@
     "title": "On the resolution of categorical symmetries in (non-) unitary rational CFTs, by Arpan Bhattacharyya, Saptaswa Ghosh, Sounak Pal, Jagannath Santara",
     "title_es": "On the resolution of categorical symmetries in (non-) unitary rational CFTs, by Arpan Bhattacharyya, Saptaswa Ghosh, Sounak Pal, Jagannath Santara",
     "url": "http://scipost.org/scipostphyscore.9.4.069",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
+    "title_es": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
+    "url": "http://scipost.org/scipostphys.21.4.099",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

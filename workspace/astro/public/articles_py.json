@@ -1,5 +1,19 @@
 [
   {
+    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "title_es": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+    "date": "2026-10-22",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Algae-powered soft robot arm uses light to grasp and lift small objects",
+    "title_es": "Algae-powered soft robot arm uses light to grasp and lift small objects",
+    "url": "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html",
+    "date": "2026-10-22",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
     "title_es": "Global emissions slow — but world hurtles towards 2 °C of warming",
     "url": "https://www.nature.com/articles/d41586-026-03355-x",
@@ -21,6 +35,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda (<i>Ailuropoda melanoleuca</i>)",
+    "title_es": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda (<i>Ailuropoda melanoleuca</i>)",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-21",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "title_es": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "url": "http://arxiv.org/abs/2610.30128v1",
+    "date": "2026-10-21",
+    "source": "arXiv"
+  },
+  {
+    "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+    "title_es": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+    "url": "https://www.nature.com/articles/s41586-026-11317-6",
+    "date": "2026-10-21",
+    "source": "Nature"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su\" hreflang=\"es\">El Instituto de Astrofísica de Canarias conmemora a Francisco Sánchez en el primer aniversario de su fallecimiento</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su\" hreflang=\"es\">El Instituto de Astrofísica de Canarias conmemora a Francisco Sánchez en el primer aniversario de su fallecimiento</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-instituto-de-astrofisica-de-canarias-conmemora-francisco-sanchez-en-el-primer-aniversario-de-su",
+    "date": "2026-10-21",
+    "source": "IAC"
+  },
+  {
+    "title": "AI could turn scientific papers into research assistants",
+    "title_es": "AI could turn scientific papers into research assistants",
+    "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
+    "date": "2026-10-21",
+    "source": "Science News"
+  },
+  {
+    "title": "Explainer: What is an equation?",
+    "title_es": "Explainer: What is an equation?",
+    "url": "https://www.snexplores.org/article/what-is-math-equation",
+    "date": "2026-10-21",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+    "title_es": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+    "date": "2026-10-21",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Bundle water safeguards into critical-mineral licences",
     "title_es": "Bundle water safeguards into critical-mineral licences",
     "url": "https://www.nature.com/articles/d41586-026-03353-z",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html",
     "date": "2026-10-20",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Depth-dependent soil water-salt relationships in the Hetao Irrigation District, arid Northwest China: Implications for sustainable management",
-    "title_es": "Depth-dependent soil water-salt relationships in the Hetao Irrigation District, arid Northwest China: Implications for sustainable management",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-20",
-    "source": "PLOS ONE"
   },
   {
     "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
