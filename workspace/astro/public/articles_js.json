@@ -1,27 +1,35 @@
 [
   {
-    "title": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
-    "title_es": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
-    "url": "https://arxiv.org/abs/2610.28636",
-    "published": "2026-10-22T04:00:00.000Z",
-    "date": "2026-10-22",
+    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "title_es": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "url": "https://arxiv.org/abs/2610.30151",
+    "published": "2026-10-23T04:00:00.000Z",
+    "date": "2026-10-23",
     "source": "arXiv"
   },
   {
-    "title": "An elegy for the unsung world-builders",
-    "title_es": "An elegy for the unsung world-builders",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aek0152",
-    "published": "2026-10-15T06:00:12.000Z",
-    "date": "2026-10-15",
+    "title": "The Monarch Bear",
+    "title_es": "The Monarch Bear",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aem5501",
+    "published": "2026-10-22T06:00:10.000Z",
+    "date": "2026-10-22",
     "source": "Science.org"
   },
   {
-    "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
-    "title_es": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
-    "url": "https://www.nature.com/articles/s41586-026-11317-6",
-    "published": "2026-10-21T00:00:00.000Z",
-    "date": "2026-10-21",
+    "title": "Elusive snow leopards and evasive particles: Books in brief",
+    "title_es": "Elusive snow leopards and evasive particles: Books in brief",
+    "url": "https://www.nature.com/articles/d41586-026-03395-3",
+    "published": "2026-10-23T00:00:00.000Z",
+    "date": "2026-10-23",
     "source": "Nature"
+  },
+  {
+    "title": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
+    "title_es": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
+    "url": "https://www.cnic.es/es/noticias/atheroptm-proyecto-liderado-por-miguel-angel-pozo-cnic-recibe-cerca-un-millon-euros-para",
+    "published": "2026-10-16T07:07:45.000Z",
+    "date": "2026-10-16",
+    "source": "CNIC"
   },
   {
     "title": "Cinco investigadores del CNIO reciben ayudas de la Fundación ‘la Caixa’ para desarrollar nuevas estrategias de tratamiento del cáncer",
@@ -32,59 +40,59 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-    "title_es": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-    "published": "2026-10-22T04:05:00.000Z",
-    "date": "2026-10-22",
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "title_es": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+    "published": "2026-10-23T04:05:00.000Z",
+    "date": "2026-10-23",
     "source": "NASA (Top News)"
   },
   {
-    "title": "AI could turn scientific papers into research assistants",
-    "title_es": "AI could turn scientific papers into research assistants",
-    "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
-    "published": "2026-10-21T17:00:00.000Z",
-    "date": "2026-10-21",
+    "title": "A nanoparticle revealed the tiny impact of a single gas atom",
+    "title_es": "A nanoparticle revealed the tiny impact of a single gas atom",
+    "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
+    "published": "2026-10-22T17:00:00.000Z",
+    "date": "2026-10-22",
     "source": "Science News"
   },
   {
-    "title": "Explainer: What is an equation?",
-    "title_es": "Explainer: What is an equation?",
-    "url": "https://www.snexplores.org/article/what-is-math-equation",
-    "published": "2026-10-21T10:30:00.000Z",
-    "date": "2026-10-21",
+    "title": "Circular cities go ‘green’ by reusing things over and over again",
+    "title_es": "Circular cities go ‘green’ by reusing things over and over again",
+    "url": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+    "published": "2026-10-22T10:30:00.000Z",
+    "date": "2026-10-22",
     "source": "Science News Explores"
   },
   {
-    "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-    "title_es": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-    "published": "2026-10-21T04:08:28.000Z",
-    "date": "2026-10-21",
+    "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "title_es": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+    "published": "2026-10-23T01:21:47.000Z",
+    "date": "2026-10-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Algae-powered soft robot arm uses light to grasp and lift small objects",
-    "title_es": "Algae-powered soft robot arm uses light to grasp and lift small objects",
-    "url": "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html",
-    "published": "2026-10-22T09:39:19.000Z",
-    "date": "2026-10-22",
+    "title": "Just 3% of the world's glaciers account for over half of glacier ice loss",
+    "title_es": "Just 3% of the world's glaciers account for over half of glacier ice loss",
+    "url": "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html",
+    "published": "2026-10-23T09:00:01.000Z",
+    "date": "2026-10-23",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda ( Ailuropoda melanoleuca )",
-    "title_es": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda ( Ailuropoda melanoleuca )",
+    "title": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
+    "title_es": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-21T14:00:00.000Z",
-    "date": "2026-10-21",
+    "published": "2026-10-22T14:00:00.000Z",
+    "date": "2026-10-22",
     "source": "PLOS ONE"
   },
   {
-    "title": "People are vibe coding copyrighted apps with AI – will tech firms sue?",
-    "title_es": "People are vibe coding copyrighted apps with AI – will tech firms sue?",
-    "url": "https://www.newscientist.com/article/2595251-people-are-vibe-coding-copyrighted-apps-with-ai-will-tech-firms-sue/",
-    "published": "2026-10-21T19:18:25.000Z",
-    "date": "2026-10-21",
+    "title": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
+    "title_es": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
+    "url": "https://www.newscientist.com/article/2594154-emily-st-john-mandel-i-dont-want-to-write-something-relentlessly-bleak/",
+    "published": "2026-10-23T09:00:00.000Z",
+    "date": "2026-10-23",
     "source": "New Scientist"
   },
   {
@@ -96,41 +104,33 @@
     "source": "SciPost News"
   },
   {
-    "title": "Crocodile Kin Have Been Chasing Warm Climates for 250 Million Years",
-    "title_es": "Crocodile Kin Have Been Chasing Warm Climates for 250 Million Years",
-    "url": "https://www.sci.news/paleontology/warm-climate-pseudosuchians-15146.html",
-    "published": "2026-10-21T23:20:51.000Z",
-    "date": "2026-10-21",
+    "title": "Average Human Genome Carries Millions of Variants, New Research Shows",
+    "title_es": "Average Human Genome Carries Millions of Variants, New Research Shows",
+    "url": "https://www.sci.news/genetics/average-human-genome-15148.html",
+    "published": "2026-10-23T01:32:19.000Z",
+    "date": "2026-10-23",
     "source": "Sci.News"
   },
   {
-    "title": "Podcast: Is There a Population Crisis?",
-    "title_es": "Podcast: Is There a Population Crisis?",
-    "url": "https://undark.org/2026/10/16/podcast-population-crisis/",
-    "published": "2026-10-16T07:05:00.000Z",
-    "date": "2026-10-16",
+    "title": "Podcast: The Entanglements Series Finale",
+    "title_es": "Podcast: The Entanglements Series Finale",
+    "url": "https://undark.org/2026/10/23/podcast-season-3-finale/",
+    "published": "2026-10-23T07:05:00.000Z",
+    "date": "2026-10-23",
     "source": "Undark Magazine"
   },
   {
-    "title": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
-    "title_es": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
-    "url": "http://scipost.org/scipostphys.21.4.099",
+    "title": "Extraordinary boundary correlations at deconfined quantum critical points, by Hao-Ran Cui, Hart Goldman",
+    "title_es": "Extraordinary boundary correlations at deconfined quantum critical points, by Hao-Ran Cui, Hart Goldman",
+    "url": "http://scipost.org/scipostphys.21.4.103",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
-    "title": "NASA Science",
-    "title_es": "NASA Science",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=48.8259&long=-91.3279",
+    "url": "https://www.latlong.net/c/?lat=-39.2554&long=60.0005",
     "date": "",
     "published": "",
     "source": "ISS Position"

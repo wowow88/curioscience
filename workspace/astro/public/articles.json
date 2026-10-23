@@ -1,5 +1,69 @@
 [
   {
+    "title": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
+    "title_es": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
+    "url": "https://www.newscientist.com/article/2594154-emily-st-john-mandel-i-dont-want-to-write-something-relentlessly-bleak/",
+    "published": "2026-10-23T09:00:00.000Z",
+    "date": "2026-10-23",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Podcast: The Entanglements Series Finale",
+    "title_es": "Podcast: The Entanglements Series Finale",
+    "url": "https://undark.org/2026/10/23/podcast-season-3-finale/",
+    "published": "2026-10-23T07:05:00.000Z",
+    "date": "2026-10-23",
+    "source": "Undark Magazine"
+  },
+  {
+    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "title_es": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "url": "https://arxiv.org/abs/2610.30151",
+    "published": "2026-10-23T04:00:00.000Z",
+    "date": "2026-10-23",
+    "source": "arXiv"
+  },
+  {
+    "title": "Average Human Genome Carries Millions of Variants, New Research Shows",
+    "title_es": "Average Human Genome Carries Millions of Variants, New Research Shows",
+    "url": "https://www.sci.news/genetics/average-human-genome-15148.html",
+    "published": "2026-10-23T01:32:19.000Z",
+    "date": "2026-10-23",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Elusive snow leopards and evasive particles: Books in brief",
+    "title_es": "Elusive snow leopards and evasive particles: Books in brief",
+    "url": "https://www.nature.com/articles/d41586-026-03395-3",
+    "date": "2026-10-23",
+    "source": "Nature",
+    "published": "2026-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "title_es": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+    "date": "2026-10-23",
+    "source": "NASA (Top News)",
+    "published": "2026-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "title_es": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+    "date": "2026-10-23",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Just 3% of the world's glaciers account for over half of glacier ice loss",
+    "title_es": "Just 3% of the world's glaciers account for over half of glacier ice loss",
+    "url": "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html",
+    "date": "2026-10-23",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-23T00:00:00.000Z"
+  },
+  {
     "title": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
     "title_es": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
     "url": "https://arxiv.org/abs/2610.28636",
@@ -21,6 +85,46 @@
     "url": "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html",
     "date": "2026-10-22",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "title_es": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "url": "http://arxiv.org/abs/2610.31667v1",
+    "date": "2026-10-22",
+    "source": "arXiv",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "The Monarch Bear",
+    "title_es": "The Monarch Bear",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aem5501",
+    "date": "2026-10-22",
+    "source": "Science.org",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-sombra-del-disco-de-un-agujero-negro-revela-como-devora-materia\" hreflang=\"es\">La sombra del disco de un agujero negro revela cómo devora materia</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-sombra-del-disco-de-un-agujero-negro-revela-como-devora-materia\" hreflang=\"es\">La sombra del disco de un agujero negro revela cómo devora materia</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-sombra-del-disco-de-un-agujero-negro-revela-como-devora-materia",
+    "date": "2026-10-22",
+    "source": "IAC",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "A nanoparticle revealed the tiny impact of a single gas atom",
+    "title_es": "A nanoparticle revealed the tiny impact of a single gas atom",
+    "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
+    "date": "2026-10-22",
+    "source": "Science News",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "title": "Circular cities go ‘green’ by reusing things over and over again",
+    "title_es": "Circular cities go ‘green’ by reusing things over and over again",
+    "url": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+    "date": "2026-10-22",
+    "source": "Science News Explores",
     "published": "2026-10-22T00:00:00.000Z"
   },
   {
@@ -96,7 +200,7 @@
     "published": "2026-10-21T00:00:00.000Z"
   },
   {
-    "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
+    "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
     "title_es": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
     "url": "https://www.nature.com/articles/s41586-026-11317-6",
     "date": "2026-10-21",
@@ -36263,7 +36367,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Gut microbiome is associated with stereotypic behavior of the giant panda ( Ailuropoda melanoleuca )",
+    "title": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -72513,6 +72617,14 @@
     "title": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
     "title_es": "Detecting symmetry-resolved entanglement: A quantum Monte Carlo approach, by Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao",
     "url": "http://scipost.org/scipostphys.21.4.099",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Extraordinary boundary correlations at deconfined quantum critical points, by Hao-Ran Cui, Hart Goldman",
+    "title_es": "Extraordinary boundary correlations at deconfined quantum critical points, by Hao-Ran Cui, Hart Goldman",
+    "url": "http://scipost.org/scipostphys.21.4.103",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
