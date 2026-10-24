@@ -1,5 +1,19 @@
 [
   {
+    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "title_es": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+    "date": "2026-10-24",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+    "title_es": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+    "url": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
+    "date": "2026-10-24",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Elusive snow leopards and evasive particles: Books in brief",
     "title_es": "Elusive snow leopards and evasive particles: Books in brief",
     "url": "https://www.nature.com/articles/d41586-026-03395-3",
@@ -28,6 +42,55 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Ultrasound-guided microwave ablation versus conventional surgery for Granulomatous Lobular Mastitis: A two-center retrospective comparative stud",
+    "title_es": "Correction: Ultrasound-guided microwave ablation versus conventional surgery for Granulomatous Lobular Mastitis: A two-center retrospective comparative stud",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-10-23",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "title_es": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "url": "https://www.nature.com/articles/s41586-026-11303-y",
+    "date": "2026-10-23",
+    "source": "Nature"
+  },
+  {
+    "title": "Del aula al laboratorio: el CNIO invita a estudiantes de toda España a descubrir en directo cómo se investiga el cáncer",
+    "title_es": "Del aula al laboratorio: el CNIO invita a estudiantes de toda España a descubrir en directo cómo se investiga el cáncer",
+    "url": "https://www.cnio.es/noticias/del-aula-al-laboratorio-el-cnio-invita-a-estudiantes-de-toda-espana-a-descubrir-en-directo-como-se-investiga-el-cancer/",
+    "date": "2026-10-23",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/indicios-de-incremento-en-la-actividad-magnetica-tras-el-intervalo-de-rotacion-intermedia-segun-el\" hreflang=\"es\">Indicios de incremento en la actividad magnética tras el intervalo de rotación intermedia según el índice cromosférico triplete infrarrojo de Ca II</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/indicios-de-incremento-en-la-actividad-magnetica-tras-el-intervalo-de-rotacion-intermedia-segun-el\" hreflang=\"es\">Indicios de incremento en la actividad magnética tras el intervalo de rotación intermedia según el índice cromosférico triplete infrarrojo de Ca II</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/indicios-de-incremento-en-la-actividad-magnetica-tras-el-intervalo-de-rotacion-intermedia-segun-el",
+    "date": "2026-10-23",
+    "source": "IAC"
+  },
+  {
+    "title": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
+    "title_es": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
+    "url": "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna",
+    "date": "2026-10-23",
+    "source": "Science News"
+  },
+  {
+    "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+    "title_es": "Your skin’s chemistry may affect which mosquitoes you attract",
+    "url": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+    "date": "2026-10-23",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "title_es": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "date": "2026-10-23",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
     "title_es": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
@@ -40,13 +103,6 @@
     "url": "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html",
     "date": "2026-10-22",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
-    "title_es": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-10-22",
-    "source": "PLOS ONE"
   },
   {
     "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",

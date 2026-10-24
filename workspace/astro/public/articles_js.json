@@ -1,13 +1,5 @@
 [
   {
-    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-    "title_es": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-    "url": "https://arxiv.org/abs/2610.30151",
-    "published": "2026-10-23T04:00:00.000Z",
-    "date": "2026-10-23",
-    "source": "arXiv"
-  },
-  {
     "title": "The Monarch Bear",
     "title_es": "The Monarch Bear",
     "url": "https://www.science.org/doi/abs/10.1126/science.aem5501",
@@ -16,82 +8,74 @@
     "source": "Science.org"
   },
   {
-    "title": "Elusive snow leopards and evasive particles: Books in brief",
-    "title_es": "Elusive snow leopards and evasive particles: Books in brief",
-    "url": "https://www.nature.com/articles/d41586-026-03395-3",
+    "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "title_es": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "url": "https://www.nature.com/articles/s41586-026-11303-y",
     "published": "2026-10-23T00:00:00.000Z",
     "date": "2026-10-23",
     "source": "Nature"
   },
   {
-    "title": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
-    "title_es": "AtheroPTM, el proyecto liderado por Miguel Ángel del Pozo en el CNIC, recibe cerca de un millón de euros para investigar nuevas terapias frente a la aterosclerosis",
-    "url": "https://www.cnic.es/es/noticias/atheroptm-proyecto-liderado-por-miguel-angel-pozo-cnic-recibe-cerca-un-millon-euros-para",
-    "published": "2026-10-16T07:07:45.000Z",
-    "date": "2026-10-16",
-    "source": "CNIC"
-  },
-  {
-    "title": "Cinco investigadores del CNIO reciben ayudas de la Fundación ‘la Caixa’ para desarrollar nuevas estrategias de tratamiento del cáncer",
-    "title_es": "Cinco investigadores del CNIO reciben ayudas de la Fundación ‘la Caixa’ para desarrollar nuevas estrategias de tratamiento del cáncer",
-    "url": "https://www.cnio.es/noticias/cuatro-investigadores-del-cnio-reciben-ayudas-de-la-fundacion-la-caixa-para-desarrollar-nuevas-estrategias-de-tratamiento-del-cancer/",
-    "published": "2026-10-20T12:27:20.000Z",
-    "date": "2026-10-20",
+    "title": "Del aula al laboratorio: el CNIO invita a estudiantes de toda España a descubrir en directo cómo se investiga el cáncer",
+    "title_es": "Del aula al laboratorio: el CNIO invita a estudiantes de toda España a descubrir en directo cómo se investiga el cáncer",
+    "url": "https://www.cnio.es/noticias/del-aula-al-laboratorio-el-cnio-invita-a-estudiantes-de-toda-espana-a-descubrir-en-directo-como-se-investiga-el-cancer/",
+    "published": "2026-10-23T12:43:04.000Z",
+    "date": "2026-10-23",
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-    "title_es": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-    "published": "2026-10-23T04:05:00.000Z",
-    "date": "2026-10-23",
+    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "title_es": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+    "published": "2026-10-24T04:05:00.000Z",
+    "date": "2026-10-24",
     "source": "NASA (Top News)"
   },
   {
-    "title": "A nanoparticle revealed the tiny impact of a single gas atom",
-    "title_es": "A nanoparticle revealed the tiny impact of a single gas atom",
-    "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
-    "published": "2026-10-22T17:00:00.000Z",
-    "date": "2026-10-22",
+    "title": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
+    "title_es": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
+    "url": "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna",
+    "published": "2026-10-23T18:02:09.000Z",
+    "date": "2026-10-23",
     "source": "Science News"
   },
   {
-    "title": "Circular cities go ‘green’ by reusing things over and over again",
-    "title_es": "Circular cities go ‘green’ by reusing things over and over again",
-    "url": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
-    "published": "2026-10-22T10:30:00.000Z",
-    "date": "2026-10-22",
+    "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+    "title_es": "Your skin’s chemistry may affect which mosquitoes you attract",
+    "url": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+    "published": "2026-10-23T10:30:00.000Z",
+    "date": "2026-10-23",
     "source": "Science News Explores"
   },
   {
-    "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-    "title_es": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
-    "published": "2026-10-23T01:21:47.000Z",
+    "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "title_es": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "published": "2026-10-23T11:23:19.000Z",
     "date": "2026-10-23",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Just 3% of the world's glaciers account for over half of glacier ice loss",
-    "title_es": "Just 3% of the world's glaciers account for over half of glacier ice loss",
-    "url": "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html",
-    "published": "2026-10-23T09:00:01.000Z",
-    "date": "2026-10-23",
+    "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+    "title_es": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+    "url": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
+    "published": "2026-10-24T09:28:00.000Z",
+    "date": "2026-10-24",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
-    "title_es": "Correction: Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis",
+    "title": "Correction: Ultrasound-guided microwave ablation versus conventional surgery for Granulomatous Lobular Mastitis: A two-center retrospective comparative stud",
+    "title_es": "Correction: Ultrasound-guided microwave ablation versus conventional surgery for Granulomatous Lobular Mastitis: A two-center retrospective comparative stud",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-22T14:00:00.000Z",
-    "date": "2026-10-22",
+    "published": "2026-10-23T14:00:00.000Z",
+    "date": "2026-10-23",
     "source": "PLOS ONE"
   },
   {
-    "title": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
-    "title_es": "Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’",
-    "url": "https://www.newscientist.com/article/2594154-emily-st-john-mandel-i-dont-want-to-write-something-relentlessly-bleak/",
-    "published": "2026-10-23T09:00:00.000Z",
+    "title": "Personalised cancer vaccine expected to be approved next year",
+    "title_es": "Personalised cancer vaccine expected to be approved next year",
+    "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/",
+    "published": "2026-10-23T14:42:27.000Z",
     "date": "2026-10-23",
     "source": "New Scientist"
   },
@@ -104,11 +88,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Average Human Genome Carries Millions of Variants, New Research Shows",
-    "title_es": "Average Human Genome Carries Millions of Variants, New Research Shows",
-    "url": "https://www.sci.news/genetics/average-human-genome-15148.html",
-    "published": "2026-10-23T01:32:19.000Z",
-    "date": "2026-10-23",
+    "title": "‘Treble Clef’ Radio Glow Reveals Galaxy Cluster Hiding behind Milky Way",
+    "title_es": "‘Treble Clef’ Radio Glow Reveals Galaxy Cluster Hiding behind Milky Way",
+    "url": "https://www.sci.news/astronomy/treble-clef-15150.html",
+    "published": "2026-10-24T01:07:26.000Z",
+    "date": "2026-10-24",
     "source": "Sci.News"
   },
   {
@@ -130,7 +114,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-39.2554&long=60.0005",
+    "url": "https://www.latlong.net/c/?lat=-46.2985&long=146.1940",
     "date": "",
     "published": "",
     "source": "ISS Position"
