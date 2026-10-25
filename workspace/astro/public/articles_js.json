@@ -8,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-    "title_es": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-    "url": "https://www.nature.com/articles/s41586-026-11303-y",
-    "published": "2026-10-23T00:00:00.000Z",
-    "date": "2026-10-23",
+    "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "title_es": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "url": "https://www.nature.com/articles/s41586-026-11328-3",
+    "published": "2026-10-25T00:00:00.000Z",
+    "date": "2026-10-25",
     "source": "Nature"
   },
   {
@@ -24,19 +24,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-    "title_es": "APOD: 2026 October 24 – Rosetta’s Selfie",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-    "published": "2026-10-24T04:05:00.000Z",
+    "title": "The human voice",
+    "title_es": "The human voice",
+    "url": "https://www.sciencenews.org/article/ed-note-november-2026",
+    "published": "2026-10-24T11:00:00.000Z",
     "date": "2026-10-24",
-    "source": "NASA (Top News)"
-  },
-  {
-    "title": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
-    "title_es": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it",
-    "url": "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna",
-    "published": "2026-10-23T18:02:09.000Z",
-    "date": "2026-10-23",
     "source": "Science News"
   },
   {
@@ -48,19 +40,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-    "title_es": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-    "published": "2026-10-23T11:23:19.000Z",
-    "date": "2026-10-23",
+    "title": "A hidden bias in human language challenges 70 years of science",
+    "title_es": "A hidden bias in human language challenges 70 years of science",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+    "published": "2026-10-24T13:01:22.000Z",
+    "date": "2026-10-24",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
-    "title_es": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
-    "url": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
-    "published": "2026-10-24T09:28:00.000Z",
-    "date": "2026-10-24",
+    "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+    "title_es": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+    "url": "https://phys.org/news/2026-10-species-california-condor-lessons-global.html",
+    "published": "2026-10-25T00:00:01.000Z",
+    "date": "2026-10-25",
     "source": "Phys.org (Latest)"
   },
   {
@@ -112,9 +104,17 @@
     "source": "SciPost Publications"
   },
   {
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-46.2985&long=146.1940",
+    "url": "https://www.latlong.net/c/?lat=-3.0979&long=14.6009",
     "date": "",
     "published": "",
     "source": "ISS Position"
