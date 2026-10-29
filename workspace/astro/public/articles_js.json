@@ -1,13 +1,5 @@
 [
   {
-    "title": "KORA: Deterministic-First Execution Control for AI Workloads",
-    "title_es": "KORA: Deterministic-First Execution Control for AI Workloads",
-    "url": "https://arxiv.org/abs/2610.35869",
-    "published": "2026-10-28T04:00:00.000Z",
-    "date": "2026-10-28",
-    "source": "arXiv"
-  },
-  {
     "title": "The Monarch Bear",
     "title_es": "The Monarch Bear",
     "url": "https://www.science.org/doi/abs/10.1126/science.aem5501",
@@ -16,19 +8,19 @@
     "source": "Science.org"
   },
   {
-    "title": "How personalization and psychedelics are revitalizing psychiatry",
-    "title_es": "How personalization and psychedelics are revitalizing psychiatry",
-    "url": "https://www.nature.com/articles/d41586-026-03402-7",
+    "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "title_es": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "url": "https://www.nature.com/articles/s41586-026-11348-z",
     "published": "2026-10-28T00:00:00.000Z",
     "date": "2026-10-28",
     "source": "Nature"
   },
   {
-    "title": "Genome Biology: A new online tool developed by CNIC scientists makes it easier to integrate data and uncover the biological mechanisms behind disease",
-    "title_es": "Genome Biology: A new online tool developed by CNIC scientists makes it easier to integrate data and uncover the biological mechanisms behind disease",
-    "url": "https://www.cnic.es/es/node/267139",
-    "published": "2026-10-26T13:27:28.000Z",
-    "date": "2026-10-26",
+    "title": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
+    "title_es": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
+    "url": "https://www.cnic.es/es/node/267273",
+    "published": "2026-10-29T10:07:04.000Z",
+    "date": "2026-10-29",
     "source": "CNIC"
   },
   {
@@ -40,19 +32,27 @@
     "source": "CNIO"
   },
   {
-    "title": "Why do flamingos dance while they eat? This scientist found out",
-    "title_es": "Why do flamingos dance while they eat? This scientist found out",
-    "url": "https://www.sciencenews.org/article/flamingos-dance-eat-scientist",
-    "published": "2026-10-28T11:00:00.000Z",
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "title_es": "APOD: 29 October 2026 – The Horns of Venus",
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+    "published": "2026-10-29T04:05:00.000Z",
+    "date": "2026-10-29",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Three-quarters of NFL football players may end up with CTE",
+    "title_es": "Three-quarters of NFL football players may end up with CTE",
+    "url": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+    "published": "2026-10-28T15:32:00.000Z",
     "date": "2026-10-28",
     "source": "Science News"
   },
   {
-    "title": "An avalanche inspired this forecaster to keep others safe",
-    "title_es": "An avalanche inspired this forecaster to keep others safe",
-    "url": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
-    "published": "2026-10-28T10:30:00.000Z",
-    "date": "2026-10-28",
+    "title": "These 5 quirks reveal how AI doesn’t think like we do",
+    "title_es": "These 5 quirks reveal how AI doesn’t think like we do",
+    "url": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
+    "published": "2026-10-29T10:30:00.000Z",
+    "date": "2026-10-29",
     "source": "Science News Explores"
   },
   {
@@ -64,27 +64,27 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Dead tree branches rise and fall with changing humidity, laser scans reveal",
-    "title_es": "Dead tree branches rise and fall with changing humidity, laser scans reveal",
-    "url": "https://phys.org/news/2026-10-dead-tree-fall-humidity-laser.html",
-    "published": "2026-10-28T11:20:01.000Z",
-    "date": "2026-10-28",
+    "title": "Prosecutors invoke gender stereotypes in capital cases against women",
+    "title_es": "Prosecutors invoke gender stereotypes in capital cases against women",
+    "url": "https://phys.org/news/2026-10-prosecutors-invoke-gender-stereotypes-capital.html",
+    "published": "2026-10-29T11:30:01.000Z",
+    "date": "2026-10-29",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Chromodomain mutation in S . pombe Kat5/Mst1 affects centromere dynamics and DNA repair",
-    "title_es": "Correction: Chromodomain mutation in S . pombe Kat5/Mst1 affects centromere dynamics and DNA repair",
+    "title": "Growth, yield and nutrient-use responses of drought-tolerant maize varieties to sowing date and fertilizer microdosing in northern Benin",
+    "title_es": "Growth, yield and nutrient-use responses of drought-tolerant maize varieties to sowing date and fertilizer microdosing in northern Benin",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-10-27T14:00:00.000Z",
-    "date": "2026-10-27",
+    "published": "2026-10-28T14:00:00.000Z",
+    "date": "2026-10-28",
     "source": "PLOS ONE"
   },
   {
-    "title": "Super-insulating solid may soon help historical homes reach net-zero goals",
-    "title_es": "Super-insulating solid may soon help historical homes reach net-zero goals",
-    "url": "https://www.newscientist.com/article/2596016-super-insulating-solid-may-soon-offer-a-net-zero-solution-for-tricky-homes/",
-    "published": "2026-10-28T11:00:00.000Z",
-    "date": "2026-10-28",
+    "title": "Key oddity of quantum physics may run even deeper than anticipated",
+    "title_es": "Key oddity of quantum physics may run even deeper than anticipated",
+    "url": "https://www.newscientist.com/article/2596105-key-oddity-of-quantum-physics-may-run-even-deeper-than-anticipated/",
+    "published": "2026-10-29T11:00:00.000Z",
+    "date": "2026-10-29",
     "source": "New Scientist"
   },
   {
@@ -96,19 +96,19 @@
     "source": "SciPost News"
   },
   {
-    "title": "D. rex: Giant New Fungus Species Discovered in China",
-    "title_es": "D. rex: Giant New Fungus Species Discovered in China",
-    "url": "https://www.sci.news/biology/dianjunus-rex-15158.html",
-    "published": "2026-10-28T00:47:28.000Z",
-    "date": "2026-10-28",
+    "title": "Fluorescent Glow Reveals Hidden Glaze on Chauvet Cave’s Ancient Art",
+    "title_es": "Fluorescent Glow Reveals Hidden Glaze on Chauvet Cave’s Ancient Art",
+    "url": "https://www.sci.news/archaeology/chauvet-cave-art-15163.html",
+    "published": "2026-10-29T03:49:30.000Z",
+    "date": "2026-10-29",
     "source": "Sci.News"
   },
   {
-    "title": "Podcast: The Entanglements Series Finale",
-    "title_es": "Podcast: The Entanglements Series Finale",
-    "url": "https://undark.org/2026/10/23/podcast-season-3-finale/",
-    "published": "2026-10-23T07:05:00.000Z",
-    "date": "2026-10-23",
+    "title": "The FDA Wants to Pull Its Approval of a Drug. It’s Not So Easy.",
+    "title_es": "The FDA Wants to Pull Its Approval of a Drug. It’s Not So Easy.",
+    "url": "https://undark.org/2026/10/28/tavneos-fda-approval/",
+    "published": "2026-10-28T21:55:45.000Z",
+    "date": "2026-10-28",
     "source": "Undark Magazine"
   },
   {
@@ -120,17 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "NASA Science",
-    "title_es": "NASA Science",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=20.7910&long=168.4230",
+    "url": "https://www.latlong.net/c/?lat=-49.2421&long=29.1935",
     "date": "",
     "published": "",
     "source": "ISS Position"

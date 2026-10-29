@@ -1,5 +1,69 @@
 [
   {
+    "title": "Key oddity of quantum physics may run even deeper than anticipated",
+    "title_es": "Key oddity of quantum physics may run even deeper than anticipated",
+    "url": "https://www.newscientist.com/article/2596105-key-oddity-of-quantum-physics-may-run-even-deeper-than-anticipated/",
+    "published": "2026-10-29T11:00:00.000Z",
+    "date": "2026-10-29",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Fluorescent Glow Reveals Hidden Glaze on Chauvet Cave’s Ancient Art",
+    "title_es": "Fluorescent Glow Reveals Hidden Glaze on Chauvet Cave’s Ancient Art",
+    "url": "https://www.sci.news/archaeology/chauvet-cave-art-15163.html",
+    "published": "2026-10-29T03:49:30.000Z",
+    "date": "2026-10-29",
+    "source": "Sci.News"
+  },
+  {
+    "title": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
+    "title_es": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
+    "url": "https://www.cnic.es/es/node/267273",
+    "date": "2026-10-29",
+    "source": "CNIC",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "title_es": "APOD: 29 October 2026 – The Horns of Venus",
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+    "date": "2026-10-29",
+    "source": "NASA (Top News)",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "These 5 quirks reveal how AI doesn’t think like we do",
+    "title_es": "These 5 quirks reveal how AI doesn’t think like we do",
+    "url": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
+    "date": "2026-10-29",
+    "source": "Science News Explores",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Your blood pressure could be dangerous even when your numbers look normal",
+    "title_es": "Your blood pressure could be dangerous even when your numbers look normal",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+    "date": "2026-10-29",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "Prosecutors invoke gender stereotypes in capital cases against women",
+    "title_es": "Prosecutors invoke gender stereotypes in capital cases against women",
+    "url": "https://phys.org/news/2026-10-prosecutors-invoke-gender-stereotypes-capital.html",
+    "date": "2026-10-29",
+    "source": "Phys.org (Latest)",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
+    "title": "The FDA Wants to Pull Its Approval of a Drug. It’s Not So Easy.",
+    "title_es": "The FDA Wants to Pull Its Approval of a Drug. It’s Not So Easy.",
+    "url": "https://undark.org/2026/10/28/tavneos-fda-approval/",
+    "published": "2026-10-28T21:55:45.000Z",
+    "date": "2026-10-28",
+    "source": "Undark Magazine"
+  },
+  {
     "title": "Super-insulating solid may soon help historical homes reach net-zero goals",
     "title_es": "Super-insulating solid may soon help historical homes reach net-zero goals",
     "url": "https://www.newscientist.com/article/2596016-super-insulating-solid-may-soon-offer-a-net-zero-solution-for-tricky-homes/",
@@ -61,6 +125,30 @@
     "url": "https://phys.org/news/2026-10-dead-tree-fall-humidity-laser.html",
     "date": "2026-10-28",
     "source": "Phys.org (Latest)",
+    "published": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "title_es": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "url": "https://www.nature.com/articles/s41586-026-11348-z",
+    "date": "2026-10-28",
+    "source": "Nature",
+    "published": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-xxii-edicion-de-las-semanas-de-la-ciencia-y-la-innovacion-de-canarias\" hreflang=\"es\">El IAC participa en la XXII edición de las Semanas de la Ciencia y la Innovación de Canarias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-xxii-edicion-de-las-semanas-de-la-ciencia-y-la-innovacion-de-canarias\" hreflang=\"es\">El IAC participa en la XXII edición de las Semanas de la Ciencia y la Innovación de Canarias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-participa-en-la-xxii-edicion-de-las-semanas-de-la-ciencia-y-la-innovacion-de-canarias",
+    "date": "2026-10-28",
+    "source": "IAC",
+    "published": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "title": "Three-quarters of NFL football players may end up with CTE",
+    "title_es": "Three-quarters of NFL football players may end up with CTE",
+    "url": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+    "date": "2026-10-28",
+    "source": "Science News",
     "published": "2026-10-28T00:00:00.000Z"
   },
   {
@@ -36719,7 +36807,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Chromodomain mutation in S . pombe Kat5/Mst1 affects centromere dynamics and DNA repair",
+    "title": "Growth, yield and nutrient-use responses of drought-tolerant maize varieties to sowing date and fertilizer microdosing in northern Benin",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
