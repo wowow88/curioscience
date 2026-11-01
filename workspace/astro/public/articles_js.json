@@ -32,6 +32,14 @@
     "source": "CNIO"
   },
   {
+    "title": "APOD: 2026 November 1 – Colors of the Moon",
+    "title_es": "APOD: 2026 November 1 – Colors of the Moon",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+    "published": "2026-11-01T04:05:00.000Z",
+    "date": "2026-11-01",
+    "source": "NASA (Top News)"
+  },
+  {
     "title": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
     "title_es": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
     "url": "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet",
@@ -48,19 +56,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Astronauts just gave the International Space Station a powerful upgrade",
-    "title_es": "Astronauts just gave the International Space Station a powerful upgrade",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
-    "published": "2026-10-30T06:12:55.000Z",
-    "date": "2026-10-30",
+    "title": "Scientists say a forgotten particle may explain why the universe exists",
+    "title_es": "Scientists say a forgotten particle may explain why the universe exists",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+    "published": "2026-11-01T04:33:36.000Z",
+    "date": "2026-11-01",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Nations commit to get nature goals back on track",
-    "title_es": "Nations commit to get nature goals back on track",
-    "url": "https://phys.org/news/2026-10-nations-commit-nature-goals-track.html",
-    "published": "2026-10-31T10:37:02.000Z",
-    "date": "2026-10-31",
+    "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
+    "title_es": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
+    "url": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
+    "published": "2026-11-01T11:40:01.000Z",
+    "date": "2026-11-01",
     "source": "Phys.org (Latest)"
   },
   {
@@ -72,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Rusty crust made Mars warm and wet",
-    "title_es": "Rusty crust made Mars warm and wet",
-    "url": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/",
-    "published": "2026-10-30T15:00:00.000Z",
-    "date": "2026-10-30",
+    "title": "Fish pay attention to one influential neighbour in virtual reality",
+    "title_es": "Fish pay attention to one influential neighbour in virtual reality",
+    "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/",
+    "published": "2026-11-01T10:00:00.000Z",
+    "date": "2026-11-01",
     "source": "New Scientist"
   },
   {
@@ -112,17 +120,9 @@
     "source": "SciPost Publications"
   },
   {
-    "title": "NASA Science",
-    "title_es": "NASA Science",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "date": "",
-    "published": "",
-    "source": "NASA APOD"
-  },
-  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=35.4252&long=-74.6093",
+    "url": "https://www.latlong.net/c/?lat=3.5367&long=-63.0949",
     "date": "",
     "published": "",
     "source": "ISS Position"
