@@ -1,5 +1,13 @@
 [
   {
+    "title": "Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint",
+    "title_es": "Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint",
+    "url": "https://arxiv.org/abs/2610.40658",
+    "published": "2026-11-02T05:00:00.000Z",
+    "date": "2026-11-02",
+    "source": "arXiv"
+  },
+  {
     "title": "Spawning Season: An Experiment in Queer Parenthood",
     "title_es": "Spawning Season: An Experiment in Queer Parenthood",
     "url": "https://www.science.org/doi/abs/10.1126/science.aem8469",
@@ -8,11 +16,11 @@
     "source": "Science.org"
   },
   {
-    "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
-    "title_es": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
-    "url": "https://www.nature.com/articles/d41586-026-03553-7",
-    "published": "2026-10-30T00:00:00.000Z",
-    "date": "2026-10-30",
+    "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+    "title_es": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+    "url": "https://www.nature.com/articles/s41586-026-11350-5",
+    "published": "2026-11-02T00:00:00.000Z",
+    "date": "2026-11-02",
     "source": "Nature"
   },
   {
@@ -32,14 +40,6 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 November 1 – Colors of the Moon",
-    "title_es": "APOD: 2026 November 1 – Colors of the Moon",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-    "published": "2026-11-01T04:05:00.000Z",
-    "date": "2026-11-01",
-    "source": "NASA (Top News)"
-  },
-  {
     "title": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
     "title_es": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
     "url": "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet",
@@ -48,11 +48,11 @@
     "source": "Science News"
   },
   {
-    "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
-    "title_es": "Giant sea spiders emit eerie glow deep below the ocean waves",
-    "url": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
-    "published": "2026-10-30T10:30:00.000Z",
-    "date": "2026-10-30",
+    "title": "Scientists Say: Fibonacci sequence",
+    "title_es": "Scientists Say: Fibonacci sequence",
+    "url": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
+    "published": "2026-11-02T11:30:00.000Z",
+    "date": "2026-11-02",
     "source": "Science News Explores"
   },
   {
@@ -64,11 +64,11 @@
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
-    "title_es": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
-    "url": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
-    "published": "2026-11-01T11:40:01.000Z",
-    "date": "2026-11-01",
+    "title": "Retirement does not make older Australians more lonely",
+    "title_es": "Retirement does not make older Australians more lonely",
+    "url": "https://phys.org/news/2026-11-older-australians-lonely.html",
+    "published": "2026-11-02T13:20:05.000Z",
+    "date": "2026-11-02",
     "source": "Phys.org (Latest)"
   },
   {
@@ -80,11 +80,11 @@
     "source": "PLOS ONE"
   },
   {
-    "title": "Fish pay attention to one influential neighbour in virtual reality",
-    "title_es": "Fish pay attention to one influential neighbour in virtual reality",
-    "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/",
-    "published": "2026-11-01T10:00:00.000Z",
-    "date": "2026-11-01",
+    "title": "COP31: Will this year’s climate summit be the most underwhelming ever?",
+    "title_es": "COP31: Will this year’s climate summit be the most underwhelming ever?",
+    "url": "https://www.newscientist.com/article/2595518-cop31-will-this-years-climate-summit-be-the-most-underwhelming-ever/",
+    "published": "2026-11-02T12:00:00.000Z",
+    "date": "2026-11-02",
     "source": "New Scientist"
   },
   {
@@ -112,17 +112,25 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Confinement in the three-state Potts quantum spin chain in extreme ferromagnetic limit, by Anna Krasznai, Sergei Rutkevich, Gábor Takács",
-    "title_es": "Confinement in the three-state Potts quantum spin chain in extreme ferromagnetic limit, by Anna Krasznai, Sergei Rutkevich, Gábor Takács",
-    "url": "http://scipost.org/scipostphyscore.9.4.072",
+    "title": "Tensor-network methodology for real-space super-moiré excitons, by Anouar Moustaj, Yitao Sun, Tiago Antão, Lumen Eek, Jose L. Lado",
+    "title_es": "Tensor-network methodology for real-space super-moiré excitons, by Anouar Moustaj, Yitao Sun, Tiago Antão, Lumen Eek, Jose L. Lado",
+    "url": "http://scipost.org/scipostphys.21.5.108",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
   },
   {
+    "title": "NASA Science",
+    "title_es": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "date": "",
+    "published": "",
+    "source": "NASA APOD"
+  },
+  {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=3.5367&long=-63.0949",
+    "url": "https://www.latlong.net/c/?lat=28.5448&long=113.5446",
     "date": "",
     "published": "",
     "source": "ISS Position"
