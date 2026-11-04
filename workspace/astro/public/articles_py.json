@@ -1,5 +1,54 @@
 [
   {
+    "title": "Ecosystems depend on people: don’t abandon them",
+    "title_es": "Ecosystems depend on people: don’t abandon them",
+    "url": "https://www.nature.com/articles/d41586-026-03544-8",
+    "date": "2026-11-04",
+    "source": "Nature"
+  },
+  {
+    "title": "Una terapia celular regulable con un ‘interruptor químico’ abre la vía a inmunoterapias personalizadas menos tóxicas y para cánceres sólidos",
+    "title_es": "Una terapia celular regulable con un ‘interruptor químico’ abre la vía a inmunoterapias personalizadas menos tóxicas y para cánceres sólidos",
+    "url": "https://www.cnio.es/noticias/una-terapia-celular-regulable-con-un-interruptor-quimico-abre-la-via-a-inmunoterapias-personalizadas-menos-toxicas-y-para-canceres-solidos/",
+    "date": "2026-11-04",
+    "source": "CNIO"
+  },
+  {
+    "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+    "title_es": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+    "date": "2026-11-04",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+    "title_es": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+    "url": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
+    "date": "2026-11-04",
+    "source": "Science News"
+  },
+  {
+    "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+    "title_es": "Analyze This: Microbes can make valuable chemicals more sustainable",
+    "url": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+    "date": "2026-11-04",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+    "title_es": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+    "date": "2026-11-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
+    "title_es": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
+    "url": "https://phys.org/news/2026-11-drying-harvested-blue-green-algae.html",
+    "date": "2026-11-04",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Research bonuses need clear and fair rules",
     "title_es": "Research bonuses need clear and fair rules",
     "url": "https://www.nature.com/articles/d41586-026-03562-6",
@@ -35,6 +84,27 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
+    "title_es": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-03",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "title_es": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "url": "http://arxiv.org/abs/2611.05377v1",
+    "date": "2026-11-03",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas\" hreflang=\"es\">UNDARK presenta «SUPERNOVAE», un viaje ilustrado por la muerte de las estrellas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas\" hreflang=\"es\">UNDARK presenta «SUPERNOVAE», un viaje ilustrado por la muerte de las estrellas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas",
+    "date": "2026-11-03",
+    "source": "IAC"
+  },
+  {
     "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
     "title_es": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
     "url": "https://www.nature.com/articles/s41586-026-11350-5",
@@ -54,13 +124,6 @@
     "url": "https://phys.org/news/2026-11-older-australians-lonely.html",
     "date": "2026-11-02",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Adoption, usage patterns, and perceptions of DeepSeek among medical interns: Evidence from a Chinese Teaching Hospital",
-    "title_es": "Adoption, usage patterns, and perceptions of DeepSeek among medical interns: Evidence from a Chinese Teaching Hospital",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-02",
-    "source": "PLOS ONE"
   },
   {
     "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",

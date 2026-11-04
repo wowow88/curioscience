@@ -1,11 +1,99 @@
 [
   {
+    "title": "Loop unrolling of UCA models: distance labeling",
+    "title_es": "Loop unrolling of UCA models: distance labeling",
+    "url": "https://arxiv.org/abs/2202.10527",
+    "published": "2026-11-04T05:00:00.000Z",
+    "date": "2026-11-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study",
+    "title_es": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study",
+    "url": "https://www.sci.news/othersciences/computerscience/ai-generated-sexual-imagery-abuse-15173.html",
+    "published": "2026-11-04T00:35:06.000Z",
+    "date": "2026-11-04",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Feet-stiffening socks could help you run further for longer",
+    "title_es": "Feet-stiffening socks could help you run further for longer",
+    "url": "https://www.newscientist.com/article/2597125-feet-stiffening-socks-could-help-you-run-further-for-longer/",
+    "published": "2026-11-04T00:01:00.000Z",
+    "date": "2026-11-04",
+    "source": "New Scientist"
+  },
+  {
+    "title": "Ecosystems depend on people: don’t abandon them",
+    "title_es": "Ecosystems depend on people: don’t abandon them",
+    "url": "https://www.nature.com/articles/d41586-026-03544-8",
+    "date": "2026-11-04",
+    "source": "Nature",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "Una terapia celular regulable con un ‘interruptor químico’ abre la vía a inmunoterapias personalizadas menos tóxicas y para cánceres sólidos",
+    "title_es": "Una terapia celular regulable con un ‘interruptor químico’ abre la vía a inmunoterapias personalizadas menos tóxicas y para cánceres sólidos",
+    "url": "https://www.cnio.es/noticias/una-terapia-celular-regulable-con-un-interruptor-quimico-abre-la-via-a-inmunoterapias-personalizadas-menos-toxicas-y-para-canceres-solidos/",
+    "date": "2026-11-04",
+    "source": "CNIO",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+    "title_es": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+    "date": "2026-11-04",
+    "source": "NASA (Top News)",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+    "title_es": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+    "url": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
+    "date": "2026-11-04",
+    "source": "Science News",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+    "title_es": "Analyze This: Microbes can make valuable chemicals more sustainable",
+    "url": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+    "date": "2026-11-04",
+    "source": "Science News Explores",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+    "title_es": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+    "date": "2026-11-04",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
+    "title_es": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
+    "url": "https://phys.org/news/2026-11-drying-harvested-blue-green-algae.html",
+    "date": "2026-11-04",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
     "title": "Vibrating mattress helps clear Alzheimer’s protein from the brain",
     "title_es": "Vibrating mattress helps clear Alzheimer’s protein from the brain",
     "url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
     "published": "2026-11-03T10:00:00.000Z",
     "date": "2026-11-03",
     "source": "New Scientist"
+  },
+  {
+    "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+    "title_es": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+    "published": "2026-11-03T09:46:21.000Z",
+    "date": "2026-11-03",
+    "source": "ScienceDaily (Top)"
   },
   {
     "title": "Large Megapode Bird Identified from Flores Cave Bone",
@@ -53,6 +141,22 @@
     "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
     "date": "2026-11-03",
     "source": "Phys.org (Latest)",
+    "published": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "title_es": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "url": "http://arxiv.org/abs/2611.05377v1",
+    "date": "2026-11-03",
+    "source": "arXiv",
+    "published": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas\" hreflang=\"es\">UNDARK presenta «SUPERNOVAE», un viaje ilustrado por la muerte de las estrellas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas\" hreflang=\"es\">UNDARK presenta «SUPERNOVAE», un viaje ilustrado por la muerte de las estrellas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/undark-presenta-supernovae-un-viaje-ilustrado-por-la-muerte-de-las-estrellas",
+    "date": "2026-11-03",
+    "source": "IAC",
     "published": "2026-11-03T00:00:00.000Z"
   },
   {
@@ -37095,7 +37199,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Adoption, usage patterns, and perceptions of DeepSeek among medical interns: Evidence from a Chinese Teaching Hospital",
+    "title": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -73385,6 +73489,14 @@
     "title": "Tensor-network methodology for real-space super-moiré excitons, by Anouar Moustaj, Yitao Sun, Tiago Antão, Lumen Eek, Jose L. Lado",
     "title_es": "Tensor-network methodology for real-space super-moiré excitons, by Anouar Moustaj, Yitao Sun, Tiago Antão, Lumen Eek, Jose L. Lado",
     "url": "http://scipost.org/scipostphys.21.5.108",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
+    "title_es": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
+    "url": "http://scipost.org/scipostphys.21.5.112",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
