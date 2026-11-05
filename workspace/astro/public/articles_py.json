@@ -1,5 +1,47 @@
 [
   {
+    "title": "The hidden cost of flexible work in academia: women do more parenting",
+    "title_es": "The hidden cost of flexible work in academia: women do more parenting",
+    "url": "https://www.nature.com/articles/d41586-026-03568-0",
+    "date": "2026-11-05",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "title_es": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+    "date": "2026-11-05",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "European orbiter detects hints of volcanic activity on Mars",
+    "title_es": "European orbiter detects hints of volcanic activity on Mars",
+    "url": "https://new.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+    "date": "2026-11-05",
+    "source": "ESA (Top News)"
+  },
+  {
+    "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "title_es": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "url": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+    "date": "2026-11-05",
+    "source": "Science News"
+  },
+  {
+    "title": "Static electricity remains shockingly mysterious",
+    "title_es": "Static electricity remains shockingly mysterious",
+    "url": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+    "date": "2026-11-05",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Where U.S. states rank on new housing supply pipeline",
+    "title_es": "Where U.S. states rank on new housing supply pipeline",
+    "url": "https://phys.org/news/2026-11-states-housing-pipeline.html",
+    "date": "2026-11-05",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Ecosystems depend on people: don’t abandon them",
     "title_es": "Ecosystems depend on people: don’t abandon them",
     "url": "https://www.nature.com/articles/d41586-026-03544-8",
@@ -49,6 +91,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
+    "title_es": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-04",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "title_es": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "url": "http://arxiv.org/abs/2611.06911v1",
+    "date": "2026-11-04",
+    "source": "arXiv"
+  },
+  {
+    "title": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "title_es": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-vias-alternativas-para-crecimiento-vasos-sanguineos-que-podrian-ayudar",
+    "date": "2026-11-04",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas\" hreflang=\"es\">La XXXVII Winter School del IAC convierte a Tenerife en la capital mundial de las estrellas masivas durante dos semanas </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas\" hreflang=\"es\">La XXXVII Winter School del IAC convierte a Tenerife en la capital mundial de las estrellas masivas durante dos semanas </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas",
+    "date": "2026-11-04",
+    "source": "IAC"
+  },
+  {
+    "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "title_es": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "date": "2026-11-04",
+    "source": "ScienceDaily (Top)"
+  },
+  {
     "title": "Research bonuses need clear and fair rules",
     "title_es": "Research bonuses need clear and fair rules",
     "url": "https://www.nature.com/articles/d41586-026-03562-6",
@@ -82,13 +159,6 @@
     "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
     "date": "2026-11-03",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
-    "title_es": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-03",
-    "source": "PLOS ONE"
   },
   {
     "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",

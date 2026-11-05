@@ -1,10 +1,10 @@
 [
   {
-    "title": "Loop unrolling of UCA models: distance labeling",
-    "title_es": "Loop unrolling of UCA models: distance labeling",
-    "url": "https://arxiv.org/abs/2202.10527",
-    "published": "2026-11-04T05:00:00.000Z",
-    "date": "2026-11-04",
+    "title": "VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation",
+    "title_es": "VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation",
+    "url": "https://arxiv.org/abs/2611.05380",
+    "published": "2026-11-05T05:00:00.000Z",
+    "date": "2026-11-05",
     "source": "arXiv"
   },
   {
@@ -16,19 +16,19 @@
     "source": "Science.org"
   },
   {
-    "title": "Ecosystems depend on people: don’t abandon them",
-    "title_es": "Ecosystems depend on people: don’t abandon them",
-    "url": "https://www.nature.com/articles/d41586-026-03544-8",
-    "published": "2026-11-04T00:00:00.000Z",
-    "date": "2026-11-04",
+    "title": "The hidden cost of flexible work in academia: women do more parenting",
+    "title_es": "The hidden cost of flexible work in academia: women do more parenting",
+    "url": "https://www.nature.com/articles/d41586-026-03568-0",
+    "published": "2026-11-05T00:00:00.000Z",
+    "date": "2026-11-05",
     "source": "Nature"
   },
   {
-    "title": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
-    "title_es": "CNIC adds an automated platform to isolate and expand CRISPR/Cas9-edited pluripotent cells",
-    "url": "https://www.cnic.es/es/node/267273",
-    "published": "2026-10-29T10:07:04.000Z",
-    "date": "2026-10-29",
+    "title": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "title_es": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-vias-alternativas-para-crecimiento-vasos-sanguineos-que-podrian-ayudar",
+    "published": "2026-11-04T16:00:00.000Z",
+    "date": "2026-11-04",
     "source": "CNIC"
   },
   {
@@ -40,59 +40,67 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-    "title_es": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-    "published": "2026-11-04T05:05:00.000Z",
-    "date": "2026-11-04",
+    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "title_es": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+    "published": "2026-11-05T05:05:00.000Z",
+    "date": "2026-11-05",
     "source": "NASA (Top News)"
   },
   {
-    "title": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
-    "title_es": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
-    "url": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
-    "published": "2026-11-04T12:00:00.000Z",
-    "date": "2026-11-04",
+    "title": "European orbiter detects hints of volcanic activity on Mars",
+    "title_es": "European orbiter detects hints of volcanic activity on Mars",
+    "url": "https://new.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+    "published": "2026-11-05T10:03:02.000Z",
+    "date": "2026-11-05",
+    "source": "ESA (Top News)"
+  },
+  {
+    "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "title_es": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "url": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+    "published": "2026-11-05T05:00:00.000Z",
+    "date": "2026-11-05",
     "source": "Science News"
   },
   {
-    "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
-    "title_es": "Analyze This: Microbes can make valuable chemicals more sustainable",
-    "url": "https://www.snexplores.org/article/microbes-make-green-chemicals",
-    "published": "2026-11-04T11:30:00.000Z",
-    "date": "2026-11-04",
+    "title": "Static electricity remains shockingly mysterious",
+    "title_es": "Static electricity remains shockingly mysterious",
+    "url": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+    "published": "2026-11-05T11:30:00.000Z",
+    "date": "2026-11-05",
     "source": "Science News Explores"
   },
   {
-    "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-    "title_es": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-    "published": "2026-11-03T09:46:21.000Z",
-    "date": "2026-11-03",
+    "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "title_es": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "published": "2026-11-04T10:43:44.000Z",
+    "date": "2026-11-04",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
-    "title_es": "Drying harvested blue-green algae sludge halves methane emissions in experiments",
-    "url": "https://phys.org/news/2026-11-drying-harvested-blue-green-algae.html",
-    "published": "2026-11-04T13:00:01.000Z",
-    "date": "2026-11-04",
+    "title": "Where U.S. states rank on new housing supply pipeline",
+    "title_es": "Where U.S. states rank on new housing supply pipeline",
+    "url": "https://phys.org/news/2026-11-states-housing-pipeline.html",
+    "published": "2026-11-05T13:00:01.000Z",
+    "date": "2026-11-05",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
-    "title_es": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
+    "title": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
+    "title_es": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-11-03T14:00:00.000Z",
-    "date": "2026-11-03",
+    "published": "2026-11-04T14:00:00.000Z",
+    "date": "2026-11-04",
     "source": "PLOS ONE"
   },
   {
-    "title": "Feet-stiffening socks could help you run further for longer",
-    "title_es": "Feet-stiffening socks could help you run further for longer",
-    "url": "https://www.newscientist.com/article/2597125-feet-stiffening-socks-could-help-you-run-further-for-longer/",
-    "published": "2026-11-04T00:01:00.000Z",
-    "date": "2026-11-04",
+    "title": "Stunning collection of prehistoric engravings found in Spanish cave",
+    "title_es": "Stunning collection of prehistoric engravings found in Spanish cave",
+    "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/",
+    "published": "2026-11-05T00:01:00.000Z",
+    "date": "2026-11-05",
     "source": "New Scientist"
   },
   {
@@ -104,11 +112,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study",
-    "title_es": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study",
-    "url": "https://www.sci.news/othersciences/computerscience/ai-generated-sexual-imagery-abuse-15173.html",
-    "published": "2026-11-04T00:35:06.000Z",
-    "date": "2026-11-04",
+    "title": "Mysterious Gas over Mars’ Alba Mons Could Hint at Volcanic Activity",
+    "title_es": "Mysterious Gas over Mars’ Alba Mons Could Hint at Volcanic Activity",
+    "url": "https://www.sci.news/space/mars-hydrogen-chloride-15178.html",
+    "published": "2026-11-05T03:43:15.000Z",
+    "date": "2026-11-05",
     "source": "Sci.News"
   },
   {
@@ -120,9 +128,9 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
-    "title_es": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
-    "url": "http://scipost.org/scipostphys.21.5.112",
+    "title": "Twisted (co)homology of non-orientable Weyl semimetals, by Thijs Douwes, Marcus Stålhammar",
+    "title_es": "Twisted (co)homology of non-orientable Weyl semimetals, by Thijs Douwes, Marcus Stålhammar",
+    "url": "http://scipost.org/scipostphys.21.5.114",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
@@ -130,7 +138,7 @@
   {
     "title": "ISS Current Position",
     "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-47.0725&long=25.8766",
+    "url": "https://www.latlong.net/c/?lat=4.3634&long=-108.6897",
     "date": "",
     "published": "",
     "source": "ISS Position"

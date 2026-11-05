@@ -1,5 +1,77 @@
 [
   {
+    "title": "VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation",
+    "title_es": "VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation",
+    "url": "https://arxiv.org/abs/2611.05380",
+    "published": "2026-11-05T05:00:00.000Z",
+    "date": "2026-11-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mysterious Gas over Mars’ Alba Mons Could Hint at Volcanic Activity",
+    "title_es": "Mysterious Gas over Mars’ Alba Mons Could Hint at Volcanic Activity",
+    "url": "https://www.sci.news/space/mars-hydrogen-chloride-15178.html",
+    "published": "2026-11-05T03:43:15.000Z",
+    "date": "2026-11-05",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Stunning collection of prehistoric engravings found in Spanish cave",
+    "title_es": "Stunning collection of prehistoric engravings found in Spanish cave",
+    "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/",
+    "published": "2026-11-05T00:01:00.000Z",
+    "date": "2026-11-05",
+    "source": "New Scientist"
+  },
+  {
+    "title": "The hidden cost of flexible work in academia: women do more parenting",
+    "title_es": "The hidden cost of flexible work in academia: women do more parenting",
+    "url": "https://www.nature.com/articles/d41586-026-03568-0",
+    "date": "2026-11-05",
+    "source": "Nature",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "title_es": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+    "date": "2026-11-05",
+    "source": "NASA (Top News)",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "European orbiter detects hints of volcanic activity on Mars",
+    "title_es": "European orbiter detects hints of volcanic activity on Mars",
+    "url": "https://new.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+    "date": "2026-11-05",
+    "source": "ESA (Top News)",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "title_es": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "url": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+    "date": "2026-11-05",
+    "source": "Science News",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "Static electricity remains shockingly mysterious",
+    "title_es": "Static electricity remains shockingly mysterious",
+    "url": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+    "date": "2026-11-05",
+    "source": "Science News Explores",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "Where U.S. states rank on new housing supply pipeline",
+    "title_es": "Where U.S. states rank on new housing supply pipeline",
+    "url": "https://phys.org/news/2026-11-states-housing-pipeline.html",
+    "date": "2026-11-05",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-05T00:00:00.000Z"
+  },
+  {
     "title": "Loop unrolling of UCA models: distance labeling",
     "title_es": "Loop unrolling of UCA models: distance labeling",
     "url": "https://arxiv.org/abs/2202.10527",
@@ -77,6 +149,38 @@
     "url": "https://phys.org/news/2026-11-drying-harvested-blue-green-algae.html",
     "date": "2026-11-04",
     "source": "Phys.org (Latest)",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "title_es": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "url": "http://arxiv.org/abs/2611.06911v1",
+    "date": "2026-11-04",
+    "source": "arXiv",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "title_es": "Nature: Descubren vías alternativas para el crecimiento de los vasos sanguíneos que podrían ayudar a superar la resistencia a los tratamientos antiangiogénicos contra el cáncer",
+    "url": "https://www.cnic.es/es/noticias/nature-descubren-vias-alternativas-para-crecimiento-vasos-sanguineos-que-podrian-ayudar",
+    "date": "2026-11-04",
+    "source": "CNIC",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas\" hreflang=\"es\">La XXXVII Winter School del IAC convierte a Tenerife en la capital mundial de las estrellas masivas durante dos semanas </a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas\" hreflang=\"es\">La XXXVII Winter School del IAC convierte a Tenerife en la capital mundial de las estrellas masivas durante dos semanas </a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/la-xxxvii-winter-school-del-iac-convierte-tenerife-en-la-capital-mundial-de-las-estrellas-masivas",
+    "date": "2026-11-04",
+    "source": "IAC",
+    "published": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "title_es": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "date": "2026-11-04",
+    "source": "ScienceDaily (Top)",
     "published": "2026-11-04T00:00:00.000Z"
   },
   {
@@ -37199,7 +37303,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Determinants of domestic violence against women in Cambodia: How digital access, media exposure, motorcycle ownership, and partners’ alcohol use matter",
+    "title": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -73497,6 +73601,14 @@
     "title": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
     "title_es": "Irreversibility of quantum field theory in de Sitter: The C, F and A theorems, by Nicolás Abate, Gonzalo Torroba",
     "url": "http://scipost.org/scipostphys.21.5.112",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Twisted (co)homology of non-orientable Weyl semimetals, by Thijs Douwes, Marcus Stålhammar",
+    "title_es": "Twisted (co)homology of non-orientable Weyl semimetals, by Thijs Douwes, Marcus Stålhammar",
+    "url": "http://scipost.org/scipostphys.21.5.114",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
