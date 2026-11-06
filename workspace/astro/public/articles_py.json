@@ -1,5 +1,54 @@
 [
   {
+    "title": "ESC (DC)<sup>2</sup>",
+    "title_es": "ESC (DC)<sup>2</sup>",
+    "url": "https://www.nature.com/articles/d41586-026-03450-z",
+    "date": "2026-11-06",
+    "source": "Nature"
+  },
+  {
+    "title": "José Javier Fuster recibe el premio Constantes y Vitales al Joven Talento en Investigación Biomédica",
+    "title_es": "José Javier Fuster recibe el premio Constantes y Vitales al Joven Talento en Investigación Biomédica",
+    "url": "https://www.cnic.es/es/noticias/jose-javier-fuster-recibe-premio-constantes-vitales-al-joven-talento-investigacion",
+    "date": "2026-11-06",
+    "source": "CNIC"
+  },
+  {
+    "title": "APOD: 2026 November 6 – A Farewell to Swift",
+    "title_es": "APOD: 2026 November 6 – A Farewell to Swift",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+    "date": "2026-11-06",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "European orbiter detects hints of volcanic activity on Mars",
+    "title_es": "European orbiter detects hints of volcanic activity on Mars",
+    "url": "https://www.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+    "date": "2026-11-06",
+    "source": "ESA (Top News)"
+  },
+  {
+    "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+    "title_es": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+    "url": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+    "date": "2026-11-06",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+    "title_es": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+    "date": "2026-11-06",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
+    "title_es": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
+    "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
+    "date": "2026-11-06",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "The hidden cost of flexible work in academia: women do more parenting",
     "title_es": "The hidden cost of flexible work in academia: women do more parenting",
     "url": "https://www.nature.com/articles/d41586-026-03568-0",
@@ -40,6 +89,34 @@
     "url": "https://phys.org/news/2026-11-states-housing-pipeline.html",
     "date": "2026-11-05",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Study on hydration cementation and enhancement mechanism of grout-rock interface of PVA modified grouting material",
+    "title_es": "Study on hydration cementation and enhancement mechanism of grout-rock interface of PVA modified grouting material",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-05",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "title_es": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "url": "http://arxiv.org/abs/2611.08483v1",
+    "date": "2026-11-05",
+    "source": "arXiv"
+  },
+  {
+    "title": "A cultural history of altered artifacts",
+    "title_es": "A cultural history of altered artifacts",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael6284",
+    "date": "2026-11-05",
+    "source": "Science.org"
+  },
+  {
+    "title": "How octopuses squeeze through tiny openings, step by step",
+    "title_es": "How octopuses squeeze through tiny openings, step by step",
+    "url": "https://www.sciencenews.org/article/octopuses-squeeze-escape-steps-video",
+    "date": "2026-11-05",
+    "source": "Science News"
   },
   {
     "title": "Ecosystems depend on people: don’t abandon them",
@@ -89,13 +166,6 @@
     "url": "https://phys.org/news/2026-11-drying-harvested-blue-green-algae.html",
     "date": "2026-11-04",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
-    "title_es": "Nationwide trends in physical disability among rheumatoid arthritis patients in Korea (2010–2022): A retrospective cohort study based on national registry data",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-04",
-    "source": "PLOS ONE"
   },
   {
     "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
