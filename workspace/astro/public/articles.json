@@ -1,5 +1,77 @@
 [
   {
+    "title": "Voyager is one light day away from us. Here’s what it discovered on its epic journey",
+    "title_es": "Voyager is one light day away from us. Here’s what it discovered on its epic journey",
+    "url": "https://www.newscientist.com/article/2598369-voyager-is-one-light-day-away-from-us-heres-what-it-discovered-on-its-epic-journey/",
+    "published": "2026-11-11T08:00:00.000Z",
+    "date": "2026-11-11",
+    "source": "New Scientist"
+  },
+  {
+    "title": "We Used It Anyway: Low Trust and High Adoption of Large Language Models in Requirements Engineering Education",
+    "title_es": "We Used It Anyway: Low Trust and High Adoption of Large Language Models in Requirements Engineering Education",
+    "url": "https://arxiv.org/abs/2611.12889",
+    "published": "2026-11-11T05:00:00.000Z",
+    "date": "2026-11-11",
+    "source": "arXiv"
+  },
+  {
+    "title": "35-Million-Year-Old Fossil Teeth from Thailand Reveal Rodent as Heavy as Large Dog",
+    "title_es": "35-Million-Year-Old Fossil Teeth from Thailand Reveal Rodent as Heavy as Large Dog",
+    "url": "https://www.sci.news/paleontology/yakamys-sirindhornae-15189.html",
+    "published": "2026-11-11T00:21:07.000Z",
+    "date": "2026-11-11",
+    "source": "Sci.News"
+  },
+  {
+    "title": "Biotech innovations are an opportunity to limit climate change",
+    "title_es": "Biotech innovations are an opportunity to limit climate change",
+    "url": "https://www.nature.com/articles/d41586-026-03621-y",
+    "date": "2026-11-11",
+    "source": "Nature",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "title_es": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "date": "2026-11-11",
+    "source": "NASA (Top News)",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Light is hard to block from every direction. This physicist found a way",
+    "title_es": "Light is hard to block from every direction. This physicist found a way",
+    "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+    "date": "2026-11-11",
+    "source": "Science News",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Some video games offer mental-health benefits",
+    "title_es": "Some video games offer mental-health benefits",
+    "url": "https://www.snexplores.org/article/video-games-help-mental-health",
+    "date": "2026-11-11",
+    "source": "Science News Explores",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+    "title_es": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+    "date": "2026-11-11",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "title": "Research snapshot: The use of icons in aphasia-friendly texts",
+    "title_es": "Research snapshot: The use of icons in aphasia-friendly texts",
+    "url": "https://phys.org/news/2026-11-snapshot-icons-aphasia-friendly-texts.html",
+    "date": "2026-11-11",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
     "title": "Newly described insect may live its whole life on a spider’s web",
     "title_es": "Newly described insect may live its whole life on a spider’s web",
     "url": "https://www.newscientist.com/article/2598153-newly-described-bug-lives-its-whole-life-on-a-spider-web/",
@@ -69,6 +141,14 @@
     "url": "https://phys.org/news/2026-11-egyptian-cats-meant-gods-harsh.html",
     "date": "2026-11-10",
     "source": "Phys.org (Latest)",
+    "published": "2026-11-10T00:00:00.000Z"
+  },
+  {
+    "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "title_es": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "url": "http://arxiv.org/abs/2611.14519v1",
+    "date": "2026-11-10",
+    "source": "arXiv",
     "published": "2026-11-10T00:00:00.000Z"
   },
   {
@@ -37671,7 +37751,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: The limited effects of social media use on misperceptions Social media’s limited role in misperceptions",
+    "title": "Correction: Addressing risk factors for hypertensive disorders in pregnancy: A case study of a quality improvement program in two states in Nigeria",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -73993,6 +74073,14 @@
     "title": "Higgs signal strength estimation with machine learning under systematic uncertainties, by Minxuan He, Claudius Krause, Daohan Wang",
     "title_es": "Higgs signal strength estimation with machine learning under systematic uncertainties, by Minxuan He, Claudius Krause, Daohan Wang",
     "url": "http://scipost.org/scipostphys.21.5.115",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Lee-Huang-Yang dynamics emergent from a direct Wigner representation, by King Lun Ng, Maciej Bartłomiej Kruk, Piotr Deuar",
+    "title_es": "Lee-Huang-Yang dynamics emergent from a direct Wigner representation, by King Lun Ng, Maciej Bartłomiej Kruk, Piotr Deuar",
+    "url": "http://scipost.org/scipostphys.21.5.117",
     "published": "",
     "date": "",
     "source": "SciPost Publications"

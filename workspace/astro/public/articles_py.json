@@ -1,5 +1,47 @@
 [
   {
+    "title": "Biotech innovations are an opportunity to limit climate change",
+    "title_es": "Biotech innovations are an opportunity to limit climate change",
+    "url": "https://www.nature.com/articles/d41586-026-03621-y",
+    "date": "2026-11-11",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "title_es": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "date": "2026-11-11",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Light is hard to block from every direction. This physicist found a way",
+    "title_es": "Light is hard to block from every direction. This physicist found a way",
+    "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+    "date": "2026-11-11",
+    "source": "Science News"
+  },
+  {
+    "title": "Some video games offer mental-health benefits",
+    "title_es": "Some video games offer mental-health benefits",
+    "url": "https://www.snexplores.org/article/video-games-help-mental-health",
+    "date": "2026-11-11",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+    "title_es": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+    "date": "2026-11-11",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Research snapshot: The use of icons in aphasia-friendly texts",
+    "title_es": "Research snapshot: The use of icons in aphasia-friendly texts",
+    "url": "https://phys.org/news/2026-11-snapshot-icons-aphasia-friendly-texts.html",
+    "date": "2026-11-11",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "European orbiter detects hints of volcanic activity on Mars",
     "title_es": "European orbiter detects hints of volcanic activity on Mars",
     "url": "https://www.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
@@ -56,6 +98,20 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Addressing risk factors for hypertensive disorders in pregnancy: A case study of a quality improvement program in two states in Nigeria",
+    "title_es": "Correction: Addressing risk factors for hypertensive disorders in pregnancy: A case study of a quality improvement program in two states in Nigeria",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-10",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "title_es": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "url": "http://arxiv.org/abs/2611.14519v1",
+    "date": "2026-11-10",
+    "source": "arXiv"
+  },
+  {
     "title": "The super El Niño is more than a climate shock – it’s a health one, too",
     "title_es": "The super El Niño is more than a climate shock – it’s a health one, too",
     "url": "https://www.nature.com/articles/d41586-026-03628-5",
@@ -89,13 +145,6 @@
     "url": "https://phys.org/news/2026-11-cop31-leaders-pressure-tackle-climate.html",
     "date": "2026-11-09",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: The limited effects of social media use on misperceptions Social media’s limited role in misperceptions",
-    "title_es": "Correction: The limited effects of social media use on misperceptions Social media’s limited role in misperceptions",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-09",
-    "source": "PLOS ONE"
   },
   {
     "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
