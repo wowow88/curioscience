@@ -1,5 +1,47 @@
 [
   {
+    "title": "Chinese graduate students are now choosing to stay closer to home",
+    "title_es": "Chinese graduate students are now choosing to stay closer to home",
+    "url": "https://www.nature.com/articles/d41586-026-03456-7",
+    "date": "2026-11-13",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "title_es": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "date": "2026-11-13",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Hera spies a half-hidden asteroid moonlet",
+    "title_es": "Hera spies a half-hidden asteroid moonlet",
+    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spies-a-half-hidden-asteroid-moonlet",
+    "date": "2026-11-13",
+    "source": "ESA (Top News)"
+  },
+  {
+    "title": "How brain-eating amoebas may wriggle into someone’s brain",
+    "title_es": "How brain-eating amoebas may wriggle into someone’s brain",
+    "url": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
+    "date": "2026-11-13",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+    "title_es": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+    "date": "2026-11-13",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Wider daily temperature ranges linked to stronger fevers in amphibians and reptiles",
+    "title_es": "Wider daily temperature ranges linked to stronger fevers in amphibians and reptiles",
+    "url": "https://phys.org/news/2026-11-wider-daily-temperature-ranges-linked.html",
+    "date": "2026-11-13",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
     "title_es": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
     "url": "https://www.nature.com/articles/s41586-026-11409-3",
@@ -42,6 +84,41 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Lipopolysaccharide-induced alterations in barrier integrity and inflammatory signaling in porcine small intestinal organoids",
+    "title_es": "Correction: Lipopolysaccharide-induced alterations in barrier integrity and inflammatory signaling in porcine small intestinal organoids",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-12",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "title_es": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "url": "http://arxiv.org/abs/2611.17323v1",
+    "date": "2026-11-12",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mysticism meets empiricism",
+    "title_es": "Mysticism meets empiricism",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei8923",
+    "date": "2026-11-12",
+    "source": "Science.org"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-internacional-aborda-la-situacion-actual-y-los-retos-futuros-de-los-observatorios\" hreflang=\"es\">El Comité Científico Internacional aborda la situación actual y los retos futuros de los Observatorios de Canarias</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-internacional-aborda-la-situacion-actual-y-los-retos-futuros-de-los-observatorios\" hreflang=\"es\">El Comité Científico Internacional aborda la situación actual y los retos futuros de los Observatorios de Canarias</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-comite-cientifico-internacional-aborda-la-situacion-actual-y-los-retos-futuros-de-los-observatorios",
+    "date": "2026-11-12",
+    "source": "IAC"
+  },
+  {
+    "title": "The brain’s fear center moonlights as the save button for memories",
+    "title_es": "The brain’s fear center moonlights as the save button for memories",
+    "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
+    "date": "2026-11-12",
+    "source": "Science News"
+  },
+  {
     "title": "Biotech innovations are an opportunity to limit climate change",
     "title_es": "Biotech innovations are an opportunity to limit climate change",
     "url": "https://www.nature.com/articles/d41586-026-03621-y",
@@ -82,13 +159,6 @@
     "url": "https://phys.org/news/2026-11-snapshot-icons-aphasia-friendly-texts.html",
     "date": "2026-11-11",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Carbapenem resistance and susceptibility to Ceftazidima/avibactam and Ceftolozane/tazobactam in <i>Pseudomonas aeruginosa</i> and Enterobacterales in a reference laboratory in Lima, Peru: A cross-sectional study",
-    "title_es": "Correction: Carbapenem resistance and susceptibility to Ceftazidima/avibactam and Ceftolozane/tazobactam in <i>Pseudomonas aeruginosa</i> and Enterobacterales in a reference laboratory in Lima, Peru: A cross-sectional study",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-11",
-    "source": "PLOS ONE"
   },
   {
     "title": "Stone Age children left fingerprints on ancient art projects",
