@@ -1,5 +1,29 @@
 [
   {
+    "title": "New Scientist readers on how the magazine has shaped their lives",
+    "title_es": "New Scientist readers on how the magazine has shaped their lives",
+    "url": "https://www.newscientist.com/article/2595857-new-scientist-readers-on-how-the-magazine-has-shaped-their-lives/",
+    "published": "2026-11-14T07:00:00.000Z",
+    "date": "2026-11-14",
+    "source": "New Scientist"
+  },
+  {
+    "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+    "title_es": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+    "date": "2026-11-14",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-11-14T00:00:00.000Z"
+  },
+  {
+    "title": "Alaska laments decline of its prized salmon populations",
+    "title_es": "Alaska laments decline of its prized salmon populations",
+    "url": "https://phys.org/news/2026-11-alaska-laments-decline-prized-salmon.html",
+    "date": "2026-11-14",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-14T00:00:00.000Z"
+  },
+  {
     "title": "Think you know science? Try our quiz set by Nobel laureates",
     "title_es": "Think you know science? Try our quiz set by Nobel laureates",
     "url": "https://www.newscientist.com/article/2594152-think-you-know-science-try-our-quiz-set-by-nobel-laureates/",
@@ -53,6 +77,46 @@
     "url": "https://phys.org/news/2026-11-wider-daily-temperature-ranges-linked.html",
     "date": "2026-11-13",
     "source": "Phys.org (Latest)",
+    "published": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Number of international students arriving in US plunges — worrying scientists",
+    "title_es": "Number of international students arriving in US plunges — worrying scientists",
+    "url": "https://www.nature.com/articles/d41586-026-03668-x",
+    "date": "2026-11-13",
+    "source": "Nature",
+    "published": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "CNIO researchers create protein ‘nanocages’, laying the groundwork for a potential new strategy to deliver cancer drugs",
+    "title_es": "CNIO researchers create protein ‘nanocages’, laying the groundwork for a potential new strategy to deliver cancer drugs",
+    "url": "https://www.cnio.es/noticias/cnio-researchers-create-protein-nanocages-laying-the-groundwork-for-a-potential-new-strategy-to-deliver-cancer-drugs/",
+    "date": "2026-11-13",
+    "source": "CNIO",
+    "published": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-celebra-la-incorporacion-al-proyecto-de-nuevo-personal-con-unas-jornadas\" hreflang=\"es\">El Telescopio Solar Europeo celebra la incorporación al proyecto de nuevo personal con unas jornadas formativas</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-celebra-la-incorporacion-al-proyecto-de-nuevo-personal-con-unas-jornadas\" hreflang=\"es\">El Telescopio Solar Europeo celebra la incorporación al proyecto de nuevo personal con unas jornadas formativas</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-telescopio-solar-europeo-celebra-la-incorporacion-al-proyecto-de-nuevo-personal-con-unas-jornadas",
+    "date": "2026-11-13",
+    "source": "IAC",
+    "published": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Outbursts from a Massive Star",
+    "title_es": "Outbursts from a Massive Star",
+    "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+    "date": "2026-11-13",
+    "source": "NASA (Top News)",
+    "published": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "In National Geographic’s “Expedition: Saving Our Seas,” it’s all hands on deck",
+    "title_es": "In National Geographic’s “Expedition: Saving Our Seas,” it’s all hands on deck",
+    "url": "https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary",
+    "date": "2026-11-13",
+    "source": "Science News",
     "published": "2026-11-13T00:00:00.000Z"
   },
   {
@@ -37935,7 +37999,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Correction: Lipopolysaccharide-induced alterations in barrier integrity and inflammatory signaling in porcine small intestinal organoids",
+    "title": "Trends and causes of maternal mortality in Taiyuan, China, 2016–2024: A population-based observational study",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
