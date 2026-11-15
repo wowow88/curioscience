@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+    "title_es": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+    "date": "2026-11-15",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-11-15T00:00:00.000Z"
+  },
+  {
+    "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+    "title_es": "Is this iconic black hole image accurate? New study delivers an independent result",
+    "url": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+    "date": "2026-11-15",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-15T00:00:00.000Z"
+  },
+  {
     "title": "New Scientist readers on how the magazine has shaped their lives",
     "title_es": "New Scientist readers on how the magazine has shaped their lives",
     "url": "https://www.newscientist.com/article/2595857-new-scientist-readers-on-how-the-magazine-has-shaped-their-lives/",
@@ -74329,6 +74345,14 @@
     "title": "Lee-Huang-Yang dynamics emergent from a direct Wigner representation, by King Lun Ng, Maciej Bartłomiej Kruk, Piotr Deuar",
     "title_es": "Lee-Huang-Yang dynamics emergent from a direct Wigner representation, by King Lun Ng, Maciej Bartłomiej Kruk, Piotr Deuar",
     "url": "http://scipost.org/scipostphys.21.5.117",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "Comment on “Beyond-classical computation in quantum simulation”, by Wladislaw Krinitsin, Nikita Alert, Matteo Rizzi, Markus Schmitt",
+    "title_es": "Comment on “Beyond-classical computation in quantum simulation”, by Wladislaw Krinitsin, Nikita Alert, Matteo Rizzi, Markus Schmitt",
+    "url": "http://scipost.org/scipostphyscore.9.4.074",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
