@@ -1,5 +1,54 @@
 [
   {
+    "title": "How to make AI data centres more sustainable",
+    "title_es": "How to make AI data centres more sustainable",
+    "url": "https://www.nature.com/articles/d41586-026-03708-6",
+    "date": "2026-11-18",
+    "source": "Nature"
+  },
+  {
+    "title": "Julián Palomino-Doza: \"“No research question makes sense unless it is rooted in a patient need”\"",
+    "title_es": "Julián Palomino-Doza: \"“No research question makes sense unless it is rooted in a patient need”\"",
+    "url": "https://www.cnic.es/es/node/267996",
+    "date": "2026-11-18",
+    "source": "CNIC"
+  },
+  {
+    "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+    "title_es": "APOD: 2026 November 18 – An M-class Solar Flare",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+    "date": "2026-11-18",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "The brain’s protective barrier also blocks medicine. This engineer wants a way through",
+    "title_es": "The brain’s protective barrier also blocks medicine. This engineer wants a way through",
+    "url": "https://www.sciencenews.org/article/brain-protective-barrier-engineer-sn10",
+    "date": "2026-11-18",
+    "source": "Science News"
+  },
+  {
+    "title": "A new flying drone uses touch to perch like a bird",
+    "title_es": "A new flying drone uses touch to perch like a bird",
+    "url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+    "date": "2026-11-18",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+    "title_es": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+    "date": "2026-11-18",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Joe Rogan: A catalyst in the changing landscape of political media",
+    "title_es": "Joe Rogan: A catalyst in the changing landscape of political media",
+    "url": "https://phys.org/news/2026-11-joe-rogan-catalyst-landscape-political.html",
+    "date": "2026-11-18",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
     "title_es": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
     "url": "https://www.nature.com/articles/d41586-026-03744-2",
@@ -56,6 +105,27 @@
     "source": "Phys.org (Latest)"
   },
   {
+    "title": "Correction: Cross-cultural adaptation and psychometric validation of the ISBAR structured handover observation tool for ICU-to-ward patient transfer in China",
+    "title_es": "Correction: Cross-cultural adaptation and psychometric validation of the ISBAR structured handover observation tool for ICU-to-ward patient transfer in China",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-17",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "title_es": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "url": "http://arxiv.org/abs/2611.23229v1",
+    "date": "2026-11-17",
+    "source": "arXiv"
+  },
+  {
+    "title": "Prodex at 40: advancing European space science",
+    "title_es": "Prodex at 40: advancing European space science",
+    "url": "https://www.esa.int/articles/prodex-at-40-advancing-european-space-science",
+    "date": "2026-11-17",
+    "source": "ESA (Top News)"
+  },
+  {
     "title": "As El Niño builds, studies of extreme marine heatwaves must start now",
     "title_es": "As El Niño builds, studies of extreme marine heatwaves must start now",
     "url": "https://www.nature.com/articles/d41586-026-03715-7",
@@ -96,13 +166,6 @@
     "url": "https://phys.org/news/2026-11-ai-easy-pressure-false-climate.html",
     "date": "2026-11-16",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Evaluation of Lassa fever surveillance system in Edo State, Nigeria (2024–2025)",
-    "title_es": "Evaluation of Lassa fever surveillance system in Edo State, Nigeria (2024–2025)",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-16",
-    "source": "PLOS ONE"
   },
   {
     "title": "Latent Lattice Language Models",
