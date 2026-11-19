@@ -1,5 +1,47 @@
 [
   {
+    "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "title_es": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "url": "https://www.nature.com/articles/s41586-026-11388-5",
+    "date": "2026-11-19",
+    "source": "Nature"
+  },
+  {
+    "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+    "title_es": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+    "date": "2026-11-19",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "American science is broken. Meet the people fixing it",
+    "title_es": "American science is broken. Meet the people fixing it",
+    "url": "https://www.sciencenews.org/article/fixing-american-science-priorities",
+    "date": "2026-11-19",
+    "source": "Science News"
+  },
+  {
+    "title": "Peru’s penguins are in trouble. A super El Niño could worsen things",
+    "title_es": "Peru’s penguins are in trouble. A super El Niño could worsen things",
+    "url": "https://www.snexplores.org/article/peru-penguins-el-nino-trouble",
+    "date": "2026-11-19",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+    "title_es": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+    "date": "2026-11-19",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Fridges and packaging contribute to food waste",
+    "title_es": "Fridges and packaging contribute to food waste",
+    "url": "https://phys.org/news/2026-11-fridges-packaging-contribute-food.html",
+    "date": "2026-11-19",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "How to make AI data centres more sustainable",
     "title_es": "How to make AI data centres more sustainable",
     "url": "https://www.nature.com/articles/d41586-026-03708-6",
@@ -47,6 +89,34 @@
     "url": "https://phys.org/news/2026-11-joe-rogan-catalyst-landscape-political.html",
     "date": "2026-11-18",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "The vitamin D-vitamin D receptor axis in uterine leiomyomas: A scoping review of clinical, molecular, and genetic evidence",
+    "title_es": "The vitamin D-vitamin D receptor axis in uterine leiomyomas: A scoping review of clinical, molecular, and genetic evidence",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-18",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "title_es": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "url": "http://arxiv.org/abs/2611.24932v1",
+    "date": "2026-11-18",
+    "source": "arXiv"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-una-reunion-de-trabajo-del-equipo-nate\" hreflang=\"es\">El IAC acoge una reunión de trabajo del equipo NATE</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-una-reunion-de-trabajo-del-equipo-nate\" hreflang=\"es\">El IAC acoge una reunión de trabajo del equipo NATE</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-acoge-una-reunion-de-trabajo-del-equipo-nate",
+    "date": "2026-11-18",
+    "source": "IAC"
+  },
+  {
+    "title": "First thermal images from Sentinel-3C radiometer",
+    "title_es": "First thermal images from Sentinel-3C radiometer",
+    "url": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-3/first-thermal-images-from-sentinel-3c-radiometer",
+    "date": "2026-11-18",
+    "source": "ESA (Top News)"
   },
   {
     "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
@@ -103,13 +173,6 @@
     "url": "https://phys.org/news/2026-11-world-soil-worth-us325-trillion.html",
     "date": "2026-11-17",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Correction: Cross-cultural adaptation and psychometric validation of the ISBAR structured handover observation tool for ICU-to-ward patient transfer in China",
-    "title_es": "Correction: Cross-cultural adaptation and psychometric validation of the ISBAR structured handover observation tool for ICU-to-ward patient transfer in China",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-17",
-    "source": "PLOS ONE"
   },
   {
     "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
