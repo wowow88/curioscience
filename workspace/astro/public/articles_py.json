@@ -1,5 +1,54 @@
 [
   {
+    "title": "How AI is affecting science careers",
+    "title_es": "How AI is affecting science careers",
+    "url": "https://www.nature.com/articles/d41586-026-03680-1",
+    "date": "2026-11-20",
+    "source": "Nature"
+  },
+  {
+    "title": "2nd International Symposium: Understanding the Neurovascular Network to Prevent Dementia",
+    "title_es": "2nd International Symposium: Understanding the Neurovascular Network to Prevent Dementia",
+    "url": "https://www.cnic.es/es/node/268095",
+    "date": "2026-11-20",
+    "source": "CNIC"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/fossil-una-nueva-ventana-los-primeros-instantes-del-universo\" hreflang=\"es\">FOSSIL, una nueva ventana a los primeros instantes del Universo</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/fossil-una-nueva-ventana-los-primeros-instantes-del-universo\" hreflang=\"es\">FOSSIL, una nueva ventana a los primeros instantes del Universo</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/fossil-una-nueva-ventana-los-primeros-instantes-del-universo",
+    "date": "2026-11-20",
+    "source": "IAC"
+  },
+  {
+    "title": "A fast-growing heart is good for the Grinch. People are another story",
+    "title_es": "A fast-growing heart is good for the Grinch. People are another story",
+    "url": "https://www.sciencenews.org/article/growing-heart-grinch-people-christmas",
+    "date": "2026-11-20",
+    "source": "Science News"
+  },
+  {
+    "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
+    "title_es": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
+    "url": "https://www.snexplores.org/article/new-taylor-swift-insects",
+    "date": "2026-11-20",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+    "title_es": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+    "date": "2026-11-20",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+    "title_es": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+    "url": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
+    "date": "2026-11-20",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
     "title_es": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
     "url": "https://www.nature.com/articles/s41586-026-11388-5",
@@ -40,6 +89,34 @@
     "url": "https://phys.org/news/2026-11-fridges-packaging-contribute-food.html",
     "date": "2026-11-19",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
+    "title_es": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-19",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "title_es": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "url": "http://arxiv.org/abs/2611.26624v1",
+    "date": "2026-11-19",
+    "source": "arXiv"
+  },
+  {
+    "title": "Digital doubles and the modern crisis of identity",
+    "title_es": "Digital doubles and the modern crisis of identity",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael6252",
+    "date": "2026-11-19",
+    "source": "Science.org"
+  },
+  {
+    "title": "Rain breaks up Earth’s natural sunshades",
+    "title_es": "Rain breaks up Earth’s natural sunshades",
+    "url": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/earthcare/rain-breaks-up-earth-s-natural-sunshades",
+    "date": "2026-11-19",
+    "source": "ESA (Top News)"
   },
   {
     "title": "How to make AI data centres more sustainable",
@@ -89,13 +166,6 @@
     "url": "https://phys.org/news/2026-11-joe-rogan-catalyst-landscape-political.html",
     "date": "2026-11-18",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "The vitamin D-vitamin D receptor axis in uterine leiomyomas: A scoping review of clinical, molecular, and genetic evidence",
-    "title_es": "The vitamin D-vitamin D receptor axis in uterine leiomyomas: A scoping review of clinical, molecular, and genetic evidence",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-18",
-    "source": "PLOS ONE"
   },
   {
     "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
