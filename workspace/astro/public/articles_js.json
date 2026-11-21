@@ -1,13 +1,5 @@
 [
   {
-    "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-    "title_es": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-    "url": "https://arxiv.org/abs/2611.24943",
-    "published": "2026-11-20T05:00:00.000Z",
-    "date": "2026-11-20",
-    "source": "arXiv"
-  },
-  {
     "title": "Digital doubles and the modern crisis of identity",
     "title_es": "Digital doubles and the modern crisis of identity",
     "url": "https://www.science.org/doi/abs/10.1126/science.ael6252",
@@ -32,12 +24,20 @@
     "source": "CNIC"
   },
   {
-    "title": "Investigadores del CNIO crean ‘nanocajas’ de proteínas, la base de una posible nueva estrategia para administrar medicamentos contra el cáncer",
-    "title_es": "Investigadores del CNIO crean ‘nanocajas’ de proteínas, la base de una posible nueva estrategia para administrar medicamentos contra el cáncer",
-    "url": "https://www.cnio.es/noticias/investigadores-del-cnio-crean-nanocajas-de-proteinas-la-base-de-una-posible-nueva-estrategia-para-administrar-medicamentos-contra-el-cancer/",
-    "published": "2026-11-06T15:46:31.000Z",
-    "date": "2026-11-06",
+    "title": "Más de 50 institutos de toda España visitan el CNIO desde sus aulas por la Semana de la Ciencia (¡y nos hacen decenas de preguntas!)",
+    "title_es": "Más de 50 institutos de toda España visitan el CNIO desde sus aulas por la Semana de la Ciencia (¡y nos hacen decenas de preguntas!)",
+    "url": "https://www.cnio.es/noticias/55-institutos-de-toda-espana-visitan-el-cnio-por-la-semana-de-la-ciencia/",
+    "published": "2026-11-20T15:04:04.000Z",
+    "date": "2026-11-20",
     "source": "CNIO"
+  },
+  {
+    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "title_es": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+    "published": "2026-11-21T05:05:00.000Z",
+    "date": "2026-11-21",
+    "source": "NASA (Top News)"
   },
   {
     "title": "Rain breaks up Earth’s natural sunshades",
@@ -48,10 +48,10 @@
     "source": "ESA (Top News)"
   },
   {
-    "title": "A fast-growing heart is good for the Grinch. People are another story",
-    "title_es": "A fast-growing heart is good for the Grinch. People are another story",
-    "url": "https://www.sciencenews.org/article/growing-heart-grinch-people-christmas",
-    "published": "2026-11-20T13:00:00.000Z",
+    "title": "This year’s El Niño is unlike any other on record",
+    "title_es": "This year’s El Niño is unlike any other on record",
+    "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+    "published": "2026-11-20T21:00:00.000Z",
     "date": "2026-11-20",
     "source": "Science News"
   },
@@ -64,34 +64,34 @@
     "source": "Science News Explores"
   },
   {
-    "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-    "title_es": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-    "published": "2026-11-20T05:41:16.000Z",
-    "date": "2026-11-20",
+    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "title_es": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+    "published": "2026-11-21T02:24:22.000Z",
+    "date": "2026-11-21",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
-    "title_es": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
-    "url": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
-    "published": "2026-11-20T14:00:06.000Z",
-    "date": "2026-11-20",
+    "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+    "title_es": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+    "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+    "published": "2026-11-21T13:00:10.000Z",
+    "date": "2026-11-21",
     "source": "Phys.org (Latest)"
   },
   {
-    "title": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
-    "title_es": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
+    "title": "Correction: Pupillary dynamics during hands-off L2 driving and transitions of control under high cognitive load",
+    "title_es": "Correction: Pupillary dynamics during hands-off L2 driving and transitions of control under high cognitive load",
     "url": "https://journals.plos.org/plosone/article",
-    "published": "2026-11-19T14:00:00.000Z",
-    "date": "2026-11-19",
+    "published": "2026-11-20T14:00:00.000Z",
+    "date": "2026-11-20",
     "source": "PLOS ONE"
   },
   {
-    "title": "Unexpected stone tools from Israel raise questions about cultural evolution",
-    "title_es": "Unexpected stone tools from Israel raise questions about cultural evolution",
-    "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/",
-    "published": "2026-11-20T12:00:00.000Z",
+    "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+    "title_es": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+    "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/",
+    "published": "2026-11-20T22:33:06.000Z",
     "date": "2026-11-20",
     "source": "New Scientist"
   },
@@ -104,11 +104,11 @@
     "source": "SciPost News"
   },
   {
-    "title": "Bumblebees Show Signs of Real Intelligence, Neuroscientists Say",
-    "title_es": "Bumblebees Show Signs of Real Intelligence, Neuroscientists Say",
-    "url": "https://www.sci.news/othersciences/neuroscience/bumblebee-intelligence-15213.html",
-    "published": "2026-11-20T02:37:31.000Z",
-    "date": "2026-11-20",
+    "title": "Saw-Toothed ‘Killer’ Dolphin Lived Off South Carolina 28 Million Years Ago",
+    "title_es": "Saw-Toothed ‘Killer’ Dolphin Lived Off South Carolina 28 Million Years Ago",
+    "url": "https://www.sci.news/paleontology/ankylorhiza-serratidens-15215.html",
+    "published": "2026-11-21T00:59:45.000Z",
+    "date": "2026-11-21",
     "source": "Sci.News"
   },
   {
@@ -120,20 +120,12 @@
     "source": "Undark Magazine"
   },
   {
-    "title": "Codebase release 1.0 for DAMPyF, by Nicola Lorenzoni, Susana Fernandez Huelga, Martin Bodo Plenio",
-    "title_es": "Codebase release 1.0 for DAMPyF, by Nicola Lorenzoni, Susana Fernandez Huelga, Martin Bodo Plenio",
-    "url": "http://scipost.org/scipostphyscodeb.87-r1.0",
+    "title": "AgentRivet: An automated system for producing Rivet routines from journal publications, by Antonio J. Costa, Caterina Doglioni, Christian Gutschow, Andrew D. Pilkington, Sukanya Sinha",
+    "title_es": "AgentRivet: An automated system for producing Rivet routines from journal publications, by Antonio J. Costa, Caterina Doglioni, Christian Gutschow, Andrew D. Pilkington, Sukanya Sinha",
+    "url": "http://scipost.org/scipostphyscodeb.88",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
-  },
-  {
-    "title": "ISS Current Position",
-    "title_es": "ISS Current Position",
-    "url": "https://www.latlong.net/c/?lat=-25.6843&long=-49.3138",
-    "date": "",
-    "published": "",
-    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",

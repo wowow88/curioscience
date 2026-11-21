@@ -1,5 +1,45 @@
 [
   {
+    "title": "Saw-Toothed ‘Killer’ Dolphin Lived Off South Carolina 28 Million Years Ago",
+    "title_es": "Saw-Toothed ‘Killer’ Dolphin Lived Off South Carolina 28 Million Years Ago",
+    "url": "https://www.sci.news/paleontology/ankylorhiza-serratidens-15215.html",
+    "published": "2026-11-21T00:59:45.000Z",
+    "date": "2026-11-21",
+    "source": "Sci.News"
+  },
+  {
+    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "title_es": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+    "date": "2026-11-21",
+    "source": "NASA (Top News)",
+    "published": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "title_es": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+    "date": "2026-11-21",
+    "source": "ScienceDaily (Top)",
+    "published": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+    "title_es": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+    "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+    "date": "2026-11-21",
+    "source": "Phys.org (Latest)",
+    "published": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+    "title_es": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+    "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/",
+    "published": "2026-11-20T22:33:06.000Z",
+    "date": "2026-11-20",
+    "source": "New Scientist"
+  },
+  {
     "title": "Unexpected stone tools from Israel raise questions about cultural evolution",
     "title_es": "Unexpected stone tools from Israel raise questions about cultural evolution",
     "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/",
@@ -77,6 +117,30 @@
     "url": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
     "date": "2026-11-20",
     "source": "Phys.org (Latest)",
+    "published": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Más de 50 institutos de toda España visitan el CNIO desde sus aulas por la Semana de la Ciencia (¡y nos hacen decenas de preguntas!)",
+    "title_es": "Más de 50 institutos de toda España visitan el CNIO desde sus aulas por la Semana de la Ciencia (¡y nos hacen decenas de preguntas!)",
+    "url": "https://www.cnio.es/noticias/55-institutos-de-toda-espana-visitan-el-cnio-por-la-semana-de-la-ciencia/",
+    "date": "2026-11-20",
+    "source": "CNIO",
+    "published": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-icso-2026-sus-avances-en-optica-adaptativa-para-comunicaciones-cuanticas-por\" hreflang=\"es\">El IAC presenta en ICSO 2026 sus avances en óptica adaptativa para comunicaciones cuánticas por satélite</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-icso-2026-sus-avances-en-optica-adaptativa-para-comunicaciones-cuanticas-por\" hreflang=\"es\">El IAC presenta en ICSO 2026 sus avances en óptica adaptativa para comunicaciones cuánticas por satélite</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-iac-presenta-en-icso-2026-sus-avances-en-optica-adaptativa-para-comunicaciones-cuanticas-por",
+    "date": "2026-11-20",
+    "source": "IAC",
+    "published": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "This year’s El Niño is unlike any other on record",
+    "title_es": "This year’s El Niño is unlike any other on record",
+    "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+    "date": "2026-11-20",
+    "source": "Science News",
     "published": "2026-11-20T00:00:00.000Z"
   },
   {
@@ -38487,7 +38551,7 @@
     "published": "2025-08-15T00:00:00.000Z"
   },
   {
-    "title": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
+    "title": "Correction: Pupillary dynamics during hands-off L2 driving and transitions of control under high cognitive load",
     "title_es": "Tasas de parto en mujeres sobrevivientes de cáncer: un estudio poblacional en Taiwán",
     "url": "https://journals.plos.org/plosone/article",
     "date": "2025-08-15",
@@ -74849,6 +74913,14 @@
     "title": "Codebase release 1.0 for DAMPyF, by Nicola Lorenzoni, Susana Fernandez Huelga, Martin Bodo Plenio",
     "title_es": "Codebase release 1.0 for DAMPyF, by Nicola Lorenzoni, Susana Fernandez Huelga, Martin Bodo Plenio",
     "url": "http://scipost.org/scipostphyscodeb.87-r1.0",
+    "published": "",
+    "date": "",
+    "source": "SciPost Publications"
+  },
+  {
+    "title": "AgentRivet: An automated system for producing Rivet routines from journal publications, by Antonio J. Costa, Caterina Doglioni, Christian Gutschow, Andrew D. Pilkington, Sukanya Sinha",
+    "title_es": "AgentRivet: An automated system for producing Rivet routines from journal publications, by Antonio J. Costa, Caterina Doglioni, Christian Gutschow, Andrew D. Pilkington, Sukanya Sinha",
+    "url": "http://scipost.org/scipostphyscodeb.88",
     "published": "",
     "date": "",
     "source": "SciPost Publications"
