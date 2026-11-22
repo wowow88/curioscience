@@ -8,11 +8,11 @@
     "source": "Science.org"
   },
   {
-    "title": "How AI is affecting science careers",
-    "title_es": "How AI is affecting science careers",
-    "url": "https://www.nature.com/articles/d41586-026-03680-1",
-    "published": "2026-11-20T00:00:00.000Z",
-    "date": "2026-11-20",
+    "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+    "title_es": "BepiColombo finally reaches Mercury after eight-year odyssey",
+    "url": "https://www.nature.com/articles/d41586-026-03803-8",
+    "published": "2026-11-21T00:00:00.000Z",
+    "date": "2026-11-21",
     "source": "Nature"
   },
   {
@@ -32,11 +32,11 @@
     "source": "CNIO"
   },
   {
-    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-    "title_es": "APOD: 2026 November 21 – Voyager’s Neptune",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-    "published": "2026-11-21T05:05:00.000Z",
-    "date": "2026-11-21",
+    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "title_es": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+    "published": "2026-11-22T05:05:00.000Z",
+    "date": "2026-11-22",
     "source": "NASA (Top News)"
   },
   {
@@ -48,11 +48,11 @@
     "source": "ESA (Top News)"
   },
   {
-    "title": "This year’s El Niño is unlike any other on record",
-    "title_es": "This year’s El Niño is unlike any other on record",
-    "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
-    "published": "2026-11-20T21:00:00.000Z",
-    "date": "2026-11-20",
+    "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+    "title_es": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+    "url": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+    "published": "2026-11-21T12:00:00.000Z",
+    "date": "2026-11-21",
     "source": "Science News"
   },
   {
@@ -64,19 +64,19 @@
     "source": "Science News Explores"
   },
   {
-    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-    "title_es": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-    "published": "2026-11-21T02:24:22.000Z",
+    "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+    "title_es": "Time may be far stranger than we realize. Scientists have a way to test it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+    "published": "2026-11-21T15:09:46.000Z",
     "date": "2026-11-21",
     "source": "ScienceDaily (Top)"
   },
   {
-    "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-    "title_es": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-    "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
-    "published": "2026-11-21T13:00:10.000Z",
-    "date": "2026-11-21",
+    "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
+    "title_es": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
+    "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
+    "published": "2026-11-22T13:00:02.000Z",
+    "date": "2026-11-22",
     "source": "Phys.org (Latest)"
   },
   {
@@ -126,6 +126,14 @@
     "published": "",
     "date": "",
     "source": "SciPost Publications"
+  },
+  {
+    "title": "ISS Current Position",
+    "title_es": "ISS Current Position",
+    "url": "https://www.latlong.net/c/?lat=-9.2862&long=158.7467",
+    "date": "",
+    "published": "",
+    "source": "ISS Position"
   },
   {
     "title": "Derivada de x^2: 2 x",
