@@ -1,5 +1,61 @@
 [
   {
+    "title": "The leading cities in the world for high-quality research in 2025",
+    "title_es": "The leading cities in the world for high-quality research in 2025",
+    "url": "https://www.nature.com/articles/d41586-026-03468-3",
+    "date": "2026-11-25",
+    "source": "Nature"
+  },
+  {
+    "title": "Una proteína que enseña a las células a tolerar fallos en el ADN sugiere una nueva vulnerabilidad en el cáncer",
+    "title_es": "Una proteína que enseña a las células a tolerar fallos en el ADN sugiere una nueva vulnerabilidad en el cáncer",
+    "url": "https://www.cnio.es/noticias/una-proteina-que-ensena-a-las-celulas-a-tolerar-fallos-en-el-adn-sugiere-una-nueva-vulnerabilidad-en-el-cancer/",
+    "date": "2026-11-25",
+    "source": "CNIO"
+  },
+  {
+    "title": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-enigma-de-la-materia-oscura-se-acentua-las-galaxias-cercanas-desafian-las-simulaciones-del-universo\" hreflang=\"es\">El enigma de la materia oscura se acentúa: las galaxias cercanas desafían las simulaciones del universo</a>",
+    "title_es": "<a href=\"https://www.iac.es/es/divulgacion/noticias/el-enigma-de-la-materia-oscura-se-acentua-las-galaxias-cercanas-desafian-las-simulaciones-del-universo\" hreflang=\"es\">El enigma de la materia oscura se acentúa: las galaxias cercanas desafían las simulaciones del universo</a>",
+    "url": "https://www.iac.es/es/divulgacion/noticias/el-enigma-de-la-materia-oscura-se-acentua-las-galaxias-cercanas-desafian-las-simulaciones-del-universo",
+    "date": "2026-11-25",
+    "source": "IAC"
+  },
+  {
+    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+    "title_es": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+    "date": "2026-11-25",
+    "source": "NASA (Top News)"
+  },
+  {
+    "title": "Australia’s legless geckos evolved like snakes did",
+    "title_es": "Australia’s legless geckos evolved like snakes did",
+    "url": "https://www.sciencenews.org/article/legless-geckos-evolved-like-snakes",
+    "date": "2026-11-25",
+    "source": "Science News"
+  },
+  {
+    "title": "Insects once had 24 legs",
+    "title_es": "Insects once had 24 legs",
+    "url": "https://www.snexplores.org/article/insects-had-24-legs",
+    "date": "2026-11-25",
+    "source": "Science News Explores"
+  },
+  {
+    "title": "A space telescope hunting for dark matter just discovered something unexpected",
+    "title_es": "A space telescope hunting for dark matter just discovered something unexpected",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+    "date": "2026-11-25",
+    "source": "ScienceDaily (Top)"
+  },
+  {
+    "title": "Voting rights for AI? The research behind an unsettling idea",
+    "title_es": "Voting rights for AI? The research behind an unsettling idea",
+    "url": "https://phys.org/news/2026-11-voting-rights-ai-unsettling-idea.html",
+    "date": "2026-11-25",
+    "source": "Phys.org (Latest)"
+  },
+  {
     "title": "Fight AI slop without punishing legitimate researchers",
     "title_es": "Fight AI slop without punishing legitimate researchers",
     "url": "https://www.nature.com/articles/d41586-026-03824-3",
@@ -40,6 +96,27 @@
     "url": "https://phys.org/news/2026-11-offshore-turbine-phytoplankton-faster.html",
     "date": "2026-11-24",
     "source": "Phys.org (Latest)"
+  },
+  {
+    "title": "Human papillomavirus vaccination coverage among adolescent girls and young women living with HIV in low- and middle-income countries: A systematic review and meta-analysis",
+    "title_es": "Human papillomavirus vaccination coverage among adolescent girls and young women living with HIV in low- and middle-income countries: A systematic review and meta-analysis",
+    "url": "https://journals.plos.org/plosone/article",
+    "date": "2026-11-24",
+    "source": "PLOS ONE"
+  },
+  {
+    "title": "OmniAct: One Policy, One Million Embodiments",
+    "title_es": "OmniAct: One Policy, One Million Embodiments",
+    "url": "http://arxiv.org/abs/2611.33158v1",
+    "date": "2026-11-24",
+    "source": "arXiv"
+  },
+  {
+    "title": "Euclid breaks own quasar record by 40 million years",
+    "title_es": "Euclid breaks own quasar record by 40 million years",
+    "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years",
+    "date": "2026-11-24",
+    "source": "ESA (Top News)"
   },
   {
     "title": "Build for the future climate — or waste trillions of dollars",
@@ -96,13 +173,6 @@
     "url": "https://phys.org/news/2026-11-soil-erosion-formula-worldwide-unreliable.html",
     "date": "2026-11-23",
     "source": "Phys.org (Latest)"
-  },
-  {
-    "title": "Enhancing multi-level reading comprehension through Content-Based Language Teaching: A quasi-experimental study",
-    "title_es": "Enhancing multi-level reading comprehension through Content-Based Language Teaching: A quasi-experimental study",
-    "url": "https://journals.plos.org/plosone/article",
-    "date": "2026-11-23",
-    "source": "PLOS ONE"
   },
   {
     "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
